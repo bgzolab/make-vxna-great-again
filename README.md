@@ -27,6 +27,10 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-08-23 | [处暑说吃](https://www.hecaitou.com/2026/08/eating-through-end-of-heat.html) | 今天是农历七月十一，处暑。处暑的意思是到了这个时节暑气就开始消退，天气渐渐转凉。今年明显不是这样，命名处暑节气的时候并没有厄尔尼诺这个概念，反正是秋老虎的屁股摸不得。 和所有的节气一样，作为中国人我们应该主要讨论一下吃什么。 处暑应该吃龙眼，除了味道甜之外，据说是可以消暑补血。某些地方会用龙眼来配稀… |
+| 2026-08-23 | [Toots 433 2026 Aug.16 - Aug.22](https://z.arlmy.me/posts/MastodonArchives/2026/MastodonTootsArchives_20260822/) | 「卖“屎”。」 |
+| 2026-08-23 | [入蜀记 day452 时差](https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_452/) | 「时差。」 |
+| 2026-08-23 | [入蜀记 day451 梦醒](https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_451/) | 「梦醒。」 |
 | 2026-08-23 | [我和 ChatGPT 聊了七十公里](https://www.tortorse.com/archives/chatgpt-seventy-kilometers/) | 蓝天下的高速公路 |
 | 2026-08-23 | [关于死本能](https://mobius.blog/25474.html) | 一般来说，每写四期就会觉得烦躁一下，所以这周的《莫比乌斯转到了哪里》就不聊这一周的事情。 在《写在 2026 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-08-23 | [我把所有的ETF投资都转到了一个平台](https://www.ozexplorers.com/%E6%8A%95%E8%B5%84%E7%90%86%E8%B4%A2/2026/08/23/chess-or-custodian-how-i-chose-an-etf-platform-in-australia.html) | 又到了报税季，作为一个有着工资、存款和投资收入的澳洲牛马，我需要等待雇主、银行和ETF发行方挨个提供Tax Statement，才能填写并提交澳洲税务部门ATO的年度Tax Return表格。 |
