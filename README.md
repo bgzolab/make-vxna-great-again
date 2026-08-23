@@ -27,6 +27,9 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-08-23 | [我和 ChatGPT 聊了七十公里](https://www.tortorse.com/archives/chatgpt-seventy-kilometers/) | 蓝天下的高速公路 |
+| 2026-08-23 | [关于死本能](https://mobius.blog/25474.html) | 一般来说，每写四期就会觉得烦躁一下，所以这周的《莫比乌斯转到了哪里》就不聊这一周的事情。 在《写在 2026 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
+| 2026-08-23 | [我把所有的ETF投资都转到了一个平台](https://www.ozexplorers.com/%E6%8A%95%E8%B5%84%E7%90%86%E8%B4%A2/2026/08/23/chess-or-custodian-how-i-chose-an-etf-platform-in-australia.html) | 又到了报税季，作为一个有着工资、存款和投资收入的澳洲牛马，我需要等待雇主、银行和ETF发行方挨个提供Tax Statement，才能填写并提交澳洲税务部门ATO的年度Tax Return表格。 |
 | 2026-08-23 | [Memos #2026-08-22](https://www.taober.blog/memos) | 00:56 看了深夜档的《欢迎来龙餐馆》，质感很好，演技也没得说，尤其是用了厨子这个小人物的视角去讲故事。 这段时间就有意地不去刷相关信息，保留了今天的完整观影体验。 另外提升体验的一部分是开了一个小时的座椅按摩，享受。 附一张影院《牛来》海报。 |
 | 2026-08-22 | [Jenkins Vue 流水线构建 OOM（exit 137）复发的问题](https://199604.com/3657) | Jenkins Vue 流水线构建 OOM（exit 137）复发的问题 记录时间：2026-08-21 环境 […] |
 | 2026-08-22 | [错位的会员体系](https://blog.solazy.me/20260822/) | 这篇文章是我躺在临平万丽的床上写的 |
