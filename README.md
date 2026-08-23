@@ -27,6 +27,8 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-08-23 | [在 Emacs 中用漢典查詢倉頡碼](https://taxodium.ink/query-cangjie-codes-using-han-dian-in-emacs.html) | 在 Emacs 中用漢典查詢倉頡碼 倉頡輸入法 我已經用了很長時間，通過強迫自己在日常中使用，現在日常打字已經沒什麼問題。我最近寫的文章都是用䌓體，是因為倉頡打繁體更容易，而且我也喜歡繁體字 (繁體字更容易反映字形，從而更好的理解一個字的含義) 。不過我的用法可能有點怪，現在用䌓體的更多是香港和臺灣… |
+| 2026-08-23 | [过马路小游戏 by Godot](https://7gugu.com/index.php/2026/08/23/%e8%bf%87%e9%a9%ac%e8%b7%af%e5%b0%8f%e6%b8%b8%e6%88%8f/) | 最近一直都在学习怎么用Godot做小游戏，根据教程做了第一个Demo出来，真的好有趣呀。 Godot也做了很多 … 继续阅读 “过马路小游戏 by Godot” |
 | 2026-08-23 | [处暑说吃](https://www.hecaitou.com/2026/08/eating-through-end-of-heat.html) | 今天是农历七月十一，处暑。处暑的意思是到了这个时节暑气就开始消退，天气渐渐转凉。今年明显不是这样，命名处暑节气的时候并没有厄尔尼诺这个概念，反正是秋老虎的屁股摸不得。 和所有的节气一样，作为中国人我们应该主要讨论一下吃什么。 处暑应该吃龙眼，除了味道甜之外，据说是可以消暑补血。某些地方会用龙眼来配稀… |
 | 2026-08-23 | [Toots 433 2026 Aug.16 - Aug.22](https://z.arlmy.me/posts/MastodonArchives/2026/MastodonTootsArchives_20260822/) | 「卖“屎”。」 |
 | 2026-08-23 | [入蜀记 day452 时差](https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_452/) | 「时差。」 |

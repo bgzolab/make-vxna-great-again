@@ -1,5 +1,19 @@
 [
   {
+    "title": "在 Emacs 中用漢典查詢倉頡碼",
+    "url": "https://taxodium.ink/query-cangjie-codes-using-han-dian-in-emacs.html",
+    "date": "2026-08-23T10:00:00Z",
+    "description": "在 Emacs 中用漢典查詢倉頡碼 倉頡輸入法 我已經用了很長時間，通過強迫自己在日常中使用，現在日常打字已經沒什麼問題。我最近寫的文章都是用䌓體，是因為倉頡打繁體更容易，而且我也喜歡繁體字 (繁體字更容易反映字形，從而更好的理解一個字的含義) 。不過我的用法可能有點怪，現在用䌓體的更多是香港和臺灣的人，他們的用字有各自的習慣偏好，但由於我不了解，我大多時候只是將簡體字換成䌓體字，但我想閱讀起來應該也沒什麼問題。或許有的讀者閲讀䌓體會有點困難，我只能說聲抱歉了。 儘管常用字基本會打了，但還是會有一些字不知道怎麼打，有的字我不知道對應的繁體是什麼，這時我會用 漢典 去查。 我有兩種用法，一種是利用 Zen 瀏覧器的快捷查詢 (Shortcut)，我綁定在了 @h ，在我需要查一個字時，例如「倉」，我就在 Zen 瀏覧器的搜索框中輸入 @h 倉 就可以跳到漢典查詢。 图1 Zen 上的漢典 shortcut 配置截图。 另一個用法是在 Emacs 裡 (我用 Emacs 寫博客，在 Emacs 裡打字是最多的) ，我將漢典的連結寫進了 webjump 裡，webjump 的功能和 Zen ",
+    "source_root_domain": "taxodium.ink"
+  },
+  {
+    "title": "过马路小游戏 by Godot",
+    "url": "https://7gugu.com/index.php/2026/08/23/%e8%bf%87%e9%a9%ac%e8%b7%af%e5%b0%8f%e6%b8%b8%e6%88%8f/",
+    "date": "2026-08-23T09:09:27Z",
+    "description": "最近一直都在学习怎么用Godot做小游戏，根据教程做了第一个Demo出来，真的好有趣呀。 Godot也做了很多 … 继续阅读 “过马路小游戏 by Godot”",
+    "source_root_domain": "7gugu.com"
+  },
+  {
     "title": "处暑说吃",
     "url": "https://www.hecaitou.com/2026/08/eating-through-end-of-heat.html",
     "date": "2026-08-23T04:25:38Z",
