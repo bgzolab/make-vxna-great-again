@@ -27,6 +27,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-08-23 | [給博客添加純文本版本](https://taxodium.ink/add-plain-text-version-to-blog.html) | 給博客添加純文本版本 看了 wiwi 的 偷偷加入的功能 (另見 Zine#54 ) 我也給博客的文章添加了純文本版本，你可以在每篇文章的底部找到純文本版本的連結，也可以將頁面 URL 的 .html 換成 .txt 訪問純文本版本 (如果換成 .org 就能看到文章的原始文件) 。最近看到 Wiw… |
 | 2026-08-23 | [业余频段的对讲机，不能再商业应用了](https://blog.mfwt.top/index.php/archives/1550/) | 几天前，泉州市无线电管理局发了一份工作动态的新闻稿，大概的意思是要『开展对讲机及相关设备全链条监管工作』。从原文看，里面列出了几条『刚性监管红线』，其中有一项，笔者非常在意，也是等了非常久的：严... |
 | 2026-08-23 | [骷髅编程](https://www.geedea.pro/article/skeleton-programing/) | 软件架构的工作，除了搞清楚应该设计多少、什么样的组件来实现需求，还应该考虑组件之间的依赖关系。SOLID 原则之一的「依赖反转原则」是指数据流向应该与依赖的方向相反，比方说，数据从后端流向前端，但后端不应该依赖前端，而是要让前端调用后端提供的接口。此外，组件之间有抽象和具体之分，核心业务逻辑就是高度… |
 | 2026-08-23 | [周末流水账 0823](https://blog.solazy.me/20260823/) | 接着写流水账吧，最近没什么好的话题 |
