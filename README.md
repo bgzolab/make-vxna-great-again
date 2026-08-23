@@ -27,6 +27,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-08-23 | [Memos #2026-08-22](https://www.taober.blog/memos) | 00:56 看了深夜档的《欢迎来龙餐馆》，质感很好，演技也没得说，尤其是用了厨子这个小人物的视角去讲故事。 这段时间就有意地不去刷相关信息，保留了今天的完整观影体验。 另外提升体验的一部分是开了一个小时的座椅按摩，享受。 附一张影院《牛来》海报。 |
 | 2026-08-22 | [Jenkins Vue 流水线构建 OOM（exit 137）复发的问题](https://199604.com/3657) | Jenkins Vue 流水线构建 OOM（exit 137）复发的问题 记录时间：2026-08-21 环境 […] |
 | 2026-08-22 | [错位的会员体系](https://blog.solazy.me/20260822/) | 这篇文章是我躺在临平万丽的床上写的 |
 | 2026-08-22 | [一副牌的惯蛋玩法](https://depp.wang/2026/guandan/) | 大侄子来到我家过暑假，我想提升一下他的逻辑思维能力，所以就一起打扑克。 打扑克的话，现在我们比较常玩的是「干瞪眼」，这是最开始只有五张牌的这种玩法，看谁先出完。但是这种玩法相对简单一点。 稍微复杂点的就是「斗地主」，但是只能三个人玩。我们有四个人，这种不太适合大家一起玩。 所以我想四个人怎么一起玩？… |
@@ -40,7 +41,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-08-22 | [“灵活就业即自由”言论背后的晚期资本主义特征与国家去责任化](https://prologue.dev/blog/the-characteristics-of-late-capitalism-and-state-disengagement-behind-the-claim-that-flexible-employment-equals-freedom) | 公民个体承担生命周期的所有成本，包括教育、生育、养老、医疗等。国家不再通过财政与再分配来保障个人，而是通过塑造竞争性主体来治理风险。 |
 | 2026-08-22 | [Python 潮流周刊#164：deepseek-harness 万物皆插件](https://pythoncat.top/posts/2026-08-22-weekly/) | 分享了 12 篇文章，12 个开源项目 |
 | 2026-08-22 | [2026年第33、34周](https://blog.sakoamc.com/posts/263334/) | 题记：二零二六年的第三十三、三十四周，无论阅读、重复、出行，在特殊的时机下都能产生启发。 |
-| 2026-08-22 | [Memos #2026-08-21](https://www.taober.blog/memos) | 11:00 好想吃老家的小笼包🤤 |
 | 2026-08-21 | [诺兰的《奥德赛》采取了什么样的改编策略？ III](https://www.geedea.pro/article/odyssey-3/) | 终于，我的奥德赛之旅也要结束了。《奥德赛》影评的最后一篇，我将审视诺兰给电影定下的不属于原典的主题，以及我为什么讨厌这个主题。尽管因为让黑人演员饰演海伦和雅典娜，让不少人觉得诺兰是个被政治正确洗脑的激进派，但诺兰的叙事其实相当保守和传统，甚至有些…… 大男子主义。诺兰的奥德修斯不是原典中的狡诈英雄，… |
 | 2026-08-21 | [成为阿森纳球迷最好的时机就是现在（2026-2027）](https://cbvivi.today/episodes/pl2627) | 一年一度的足球播客，祝大家新赛季观赛愉快，度过充实的一年。 视频版本明天发，Come on Arsenal! 所有事实错误都是我在故意乱说，旨在引起你的注意。 我做的 app 了解一下：cbvivi.app |
 | 2026-08-21 | [稳住心态，日日修身](https://blog.zzbd.org/miao20260821-2/) | ☯︎乾卦 「潜龙勿用。」（初九） 字面：龙还潜在水底，不宜妄动。 心态：实力还在积蓄期，别急着出风头，先把自己练扎实。 |
@@ -224,28 +224,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-08-16 | [New Release: FLESHCANCER](https://macsourceports.com/game/fleshcancer) | FLESHCANCER is a horor-themed Boomer Shooter from Brazil, published by the same team as BRAZILIAN DRUG DEALER 3 . You take the role of someone who see… |
 | 2026-08-16 | [DeepSeek 官方 Agent 部署实录：公网零端口暴露的安全玩法](https://www.wangwangit.com/DeepSeek%20%E5%AE%98%E6%96%B9%20Agent%20%E9%83%A8%E7%BD%B2%E5%AE%9E%E5%BD%95/) | dsh 部署到服务器 + 安全远程访问，小白能跟着做完的实操版 |
 | 2026-08-16 | [≡ 008｜这一周莫比乌斯环转到了哪里？](https://mobius.blog/25394.html) | —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
-| 2026-08-15 | [我的世界一直下雨](https://www.geedea.pro/article/rain-never-stop/) | 我的草稿箱里有一篇关于神经多样性的文章一直没写得下去，这几天我才意识到，比起写一篇近似于学术综述的无聊文章，不如写点掏心窝子的话。当然，这也意味着这篇文章不会写得很有条理。 在我爷爷的六十岁大寿上，司仪要十二三岁的我站在台上说点祝福的话。我看着底下二十桌人，说不出一句话。站在我旁边的表哥很自然地说出… |
-| 2026-08-15 | [我不敢随便推荐 App 了](https://blog.solazy.me/20260815/) | 有太多开发者找我自荐 App，希望我帮忙宣传，但是我对于这一行为非常谨慎。 |
-| 2026-08-15 | [冷知识：博客的评论区不是广告区](https://blog.mfwt.top/index.php/archives/1529/) | 刷聚合站，刷到了ZyPlj（ZY知识库）的博文，大概是说，某AI（LLM，下同）中转站的老板，使用AI编写了脚本（或让其代为操作），向一组个人博客的评论区批量发送中转站的推广信息。看到这篇文章后... |
-| 2026-08-15 | [黄鼠狼](https://godruoyi.com/posts/weasel/) | 我昨晚咬死三只鹅一只鸡。那是在一个农户家， 凌晨三点半。我从铁丝网的缺口悄悄地钻进了鸡圈，我看到鸡圈里面有三只鹅 |
-| 2026-08-15 | [样式雷祖居 风水场域实探](https://yovey.me/yangstyle-lei-archives-with-fengshui/) | 近来在读王其亨主编《风水理论研究》，这本书是去年天津一行读丁垚《发现独乐寺》衍生来的，他在书中提到了自己的老师 … Continue reading "样式雷祖居 风水场域实探" |
-| 2026-08-15 | [试用了一天，Qwen 3.8 27B 文](https://versun.me/blog/tweet-2088564791623418051) | 引用 这才是我的 Qwen 嘛，本地部署 Opus 4.6 性能的模型，还要啥自行车 mac mini m4 pro 64G 关掉thinking，实测 12 tokens/s https://twitter.com/Alibaba_Qwen/status/2088280188362867185 试… |
-| 2026-08-15 | [《奥德赛》观后](https://www.hecaitou.com/2026/08/On-Watching-The-Odyssey.html) | 今天是周六，我在早上七点半起床，冒着雨打车去北京电影博物馆，为了赶上 9 点 20 那一场 IMAX GT 版的《奥德赛》。11 点多，我起身艰难穿过半排观众去洗手间。回来之后觉得再麻烦一遍这些同样早起的观众，破坏他们的观影体验实在是有点不道德，于是，我紧贴着 IMAX 厅的后墙，站了一个多小时看完… |
-| 2026-08-15 | [诺兰的《奥德赛》采取了什么样的改编策略？](https://www.geedea.pro/article/odyssey/) | 笔者刚刚从电影院回到家，趁着记忆还很清晰来写影评。离开影院之前我记下了几个印象深刻的点，接下来我会逐个分析这些情节、人物、背景乃至主题层面的增删改究竟和原著有什么区别，同时我还会对比另外一部《奥德赛》的改编作品，音乐剧《EPIC：The Musical》，看看不同的创作者采用了什么样的改编策略，背后… |
-| 2026-08-15 | [杂谈安全 - 《兔死狗烹之无患可除：当安全开始证明自己的存在》](https://www.impdx.vip/archives/tu-si-gou-peng-zhi-wu-huan-ke-chu-dang-an-quan-kai-shi-zheng-ming-zi-ji-de-cun-zai) | 杂谈安全 - 《兔死狗烹之无患可除：当安全开始证明自己的存在》 ——我们真的希望威胁彻底消失吗？ 一、鼠患，是我们的饭碗 【来客】： 你说无患可除，匠人便成祸患。可若真有鼠患，你们总该是有用的吧？ 【匠人】： 自然有用。 【来客】： 如何有用？ 【匠人】： 先寻鼠踪，再报鼠患；先论其凶，再定其险；最 |
-| 2026-08-15 | [【公告】RSS 订阅地址优化说明](https://versun.me/blog/rss-feeds-by-content-type) | 最近，我给博客加上了「推特同步」功能，博客会自动抓取并发布我在 Twitter 上的所有发言。这个新特性让内容更丰富了，但也让原有的 RSS 订阅源变得有些冗杂。在此，向一直订阅我的朋友们说声抱歉。为提升阅读体验，我已对 RSS... |
-| 2026-08-15 | [聊聊郭刚](https://blog.lhasa.icu/posts/life/2026-08-15-cultural-revolution-2/) | 欲加之罪，何患无辞 |
-| 2026-08-15 | [香港 Day2・赞美之泉演唱会](https://blog.yasking.org/a/photos-hk-day2) | 第二天的天气也是阴的，听着外边儿淅沥沥的雨声和车压过路面的声音，也就没有早出去的心情，中午饿了就打算出去吃 … |
-| 2026-08-15 | [克而不服](https://www.hecaitou.com/2026/08/Conquered-Yet-Unsubdued.html) | 每天我都会收到很多读者私信，向我提出各种问题。这些问题千奇百怪，但是其中有一个高频词引起了我注意，它就是「克服」。 粗略统计一下，十个问题里就有两三个是在询问如何才能「克服」什么，可以想见「克服」这两个字是多么深入人心。而我很疑惑，为什么有那么多人会本能地使用这个词，为什么在那么多种解决之道中他们会… |
-| 2026-08-15 | [杂谈-《兔死狗烹》我们真的希望威胁彻底消失吗？](https://www.impdx.vip/archives/aqzt-tsgp1) | 灵感来自抖音@马走日 有声版： 文字版 【匠人】：我十五岁拜师学艺，二十岁自立门户。三十年光阴浮沉，我毕生所学，不过这一门手艺。 【来客】：何 |
-| 2026-08-15 | [向云端｜西南自驾10 - 下司](https://blog.ops-coffee.com/r/2026-southwest-road-trip-10-xiasi.html) |  |
-| 2026-08-15 | [完蛋了，自己的手打回复也出现了“不是。。](https://versun.me/blog/tweet-2088470014362005566) | 引用 @kevinmadevzh 同意，还有一个典型的问题就是，免费用户提需求提得比谁都勤，因为没有成本。 开发者很容易陷在这堆需求里自我感动，但对产品价值未必是正向的，付费门槛本身就是最好的需求过滤器 当然不是说免费反馈都没价值，而是没有付费门槛时，信号和噪音分不开，小团队扛不住这个筛选成本 完蛋… |
-| 2026-08-15 | [1998，游戏厅外的世界](https://www.tortorse.com/archives/the-world-outside-the-arcade-1998/) | 九十年代的年轻人围坐在电视前玩格斗游戏 |
-| 2026-08-15 | [我一直关注 Claw-Eval 排行榜，](https://versun.me/blog/tweet-2088448347418083808) | 我一直关注 Claw-Eval 排行榜，但它不更新了，太可惜了 https://claw-eval-live.github.io/ |
-| 2026-08-15 | [中式番茄炒鸡蛋吃多了也会腻](https://mobius.blog/25388.html) | 在开始今天的话题之前，得叠好几重甲： 在看完《龙餐馆》之后，我突然有一种持续性的“生理不适”。这种生理不适不是 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
-| 2026-08-15 | [这才是我的 Qwen 嘛，本地部署 Op](https://versun.me/blog/tweet-2088424069603680550) | 引用 Performance of Qwen3.8-27B: 这才是我的 Qwen 嘛，本地部署 Opus 4.6 性能的模型，还要啥自行车 mac mini m4 pro 64G 关掉thinking，实测 12 tokens/s |
-| 2026-08-15 | [Python 潮流周刊#163：在浏览器上运行 Numba](https://pythoncat.top/posts/2026-08-15-weekly/) | 分享了 12 篇文章，12 个开源项目 |
-| 2026-08-15 | [HSBC汇丰澳洲宣布关闭，2%返现要凉了](https://www.ozexplorers.com/%E7%BE%8A%E6%AF%9B%E6%94%BB%E7%95%A5/2026/08/15/hsbc-australia-will-close-soon-no-more-cashback.html) | 7月底的时候，我收到了一封来自HSBC Australia的邮件： |
 
 ## Vibe Coding
 
