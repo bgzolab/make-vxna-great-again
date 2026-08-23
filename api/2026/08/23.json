@@ -28,6 +28,13 @@
     "source_root_domain": "arlmy.me"
   },
   {
+    "title": "Rust 中的 Sync 和 Send 理解",
+    "url": "https://www.less-bug.com/posts/sync-and-send-understanding-in-rust/",
+    "date": "2026-08-23T04:11:47Z",
+    "description": "本文纯手打，无 AI。 AI 现在越来越不说人话了。所以我又开始写博客了。 先说 Send，它的作用是 标记 一个 类型的任意实例 的 所有权 可以在 不同线程 之间转移。 这几个要点得展开说： 转移：由于线程各自有独立的栈，它几乎一定会产生浅拷贝（除了 ZST 等极端情况）。这个拷贝不只是语义层面，也是是物理意义上。所以它物理上需要经过 memcpy，并不是瞬间完成的。这个栈上实例可能关联拥有了堆内存值，后者是原封不动的（几乎所有情况）。 许多资料（包括官方）说这个转移是安全的，严格来说这种说法太绝对。所以我不喜欢加这个定语。 实际上，锁、原子指令、内存屏障之类的东西根本和 Send 关系不大。它的“保证”只是一个编译期的东西。更强的保证得让实现者自己实现。比如 mpsc 可能会上锁解锁（这个例子是我猜的，我不确定） 所以，它并不保证转移过程中并发写不产生数据竞争。不保证不发生 double free 等等（虽然几乎所有情况可以认为表现像是能保证） 如果从线程 A 的 stack var 转移到 线程 B 的 stack var，对于 C++ 的情况，会有个移动构造和函数，把 A 那",
+    "source_root_domain": "less-bug.com"
+  },
+  {
     "title": "我和 ChatGPT 聊了七十公里",
     "url": "https://www.tortorse.com/archives/chatgpt-seventy-kilometers/",
     "date": "2026-08-23T01:30:56Z",
