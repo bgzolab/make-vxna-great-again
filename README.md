@@ -27,18 +27,23 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-08-24 | [ChatGPT 添加远程 MCP 插件报 403 问题解决](https://versun.me/blog/chatgpt-mcp-403-cloudflare-bot-fight-mode) | 记录一下在 ChatGPT 网页版添加 Knowledge Mem 插件时踩的坑，以及解决方法。 问题 按照 Knowledge Mem 官方文档，在 ChatGPT 中配置远程 MCP 时，一直报 403 错误： 排查过程 在 @yevazn 的帮助下定位到了原因：Cloudflare 拦截了请求… |
+| 2026-08-24 | [大脑充血 Vol.95](https://www.geedea.pro/weekly/95/) | 读者早上好，这有可能是《大脑充血》最后一期名副其实的「周刊」。我这周在 联邦宇宙 上发了个投票，说我打算改月刊，想投票看看固定在什么时间点发刊合适。 结果有超过一半的人选了「不准改月刊」的选项，我真的好讨厌你们 。 主要的原因是，每周都要更新一次，其实占据了很多我本来就不多的写作时间。我最近在写一篇… |
 | 2026-08-23 | [給博客添加純文本版本](https://taxodium.ink/add-plain-text-version-to-blog.html) | 給博客添加純文本版本 看了 wiwi 的 偷偷加入的功能 (另見 Zine#54 ) 我也給博客的文章添加了純文本版本，你可以在每篇文章的底部找到純文本版本的連結，也可以將頁面 URL 的 .html 換成 .txt 訪問純文本版本 (如果換成 .org 就能看到文章的原始文件) 。最近看到 Wiw… |
 | 2026-08-23 | [业余频段的对讲机，不能再商业应用了](https://blog.mfwt.top/index.php/archives/1550/) | 几天前，泉州市无线电管理局发了一份工作动态的新闻稿，大概的意思是要『开展对讲机及相关设备全链条监管工作』。从原文看，里面列出了几条『刚性监管红线』，其中有一项，笔者非常在意，也是等了非常久的：严... |
 | 2026-08-23 | [骷髅编程](https://www.geedea.pro/article/skeleton-programing/) | 软件架构的工作，除了搞清楚应该设计多少、什么样的组件来实现需求，还应该考虑组件之间的依赖关系。SOLID 原则之一的「依赖反转原则」是指数据流向应该与依赖的方向相反，比方说，数据从后端流向前端，但后端不应该依赖前端，而是要让前端调用后端提供的接口。此外，组件之间有抽象和具体之分，核心业务逻辑就是高度… |
 | 2026-08-23 | [周末流水账 0823](https://blog.solazy.me/20260823/) | 接着写流水账吧，最近没什么好的话题 |
+| 2026-08-23 | [认真想了下，机械帝国最可能诞生在中国，因](https://versun.me/blog/tweet-2091486413808386289) | 李不凯正在研究 @VersunPan 我眼中的世界在无可避免的《骇客帝国》化 认真想了下，机械帝国最可能诞生在中国，因为人多，电多，各种金属多，网络也没什么安全可言，还有强大的防火墙，简直是沃土😂😂😂 |
 | 2026-08-23 | [永远的新裤子——新裤子30周年演唱会](https://tianheg.co/posts/new-pants-30th-anniversary/) | 新裤子乐队成立于1996年，是现今仍存世的历史最悠久的乐队之一。今年的演唱会是在纪念他们成立30周年。 |
 | 2026-08-23 | [在 Emacs 中用漢典查詢倉頡碼](https://taxodium.ink/query-cangjie-codes-using-han-dian-in-emacs.html) | 在 Emacs 中用漢典查詢倉頡碼 倉頡輸入法 我已經用了很長時間，通過強迫自己在日常中使用，現在日常打字已經沒什麼問題。我最近寫的文章都是用䌓體，是因為倉頡打繁體更容易，而且我也喜歡繁體字 (繁體字更容易反映字形，從而更好的理解一個字的含義) 。不過我的用法可能有點怪，現在用䌓體的更多是香港和臺灣… |
 | 2026-08-23 | [过马路小游戏 by Godot](https://7gugu.com/index.php/2026/08/23/%e8%bf%87%e9%a9%ac%e8%b7%af%e5%b0%8f%e6%b8%b8%e6%88%8f/) | 最近一直都在学习怎么用Godot做小游戏，根据教程做了第一个Demo出来，真的好有趣呀。 Godot也做了很多 … 继续阅读 “过马路小游戏 by Godot” |
+| 2026-08-23 | [有孩子的看不得龙餐馆，刚看完，哭的稀里哗](https://versun.me/blog/tweet-2091427183541789153) | 有孩子的看不得龙餐馆，刚看完，哭的稀里哗啦的😭战争太残酷了 |
 | 2026-08-23 | [处暑说吃](https://www.hecaitou.com/2026/08/eating-through-end-of-heat.html) | 今天是农历七月十一，处暑。处暑的意思是到了这个时节暑气就开始消退，天气渐渐转凉。今年明显不是这样，命名处暑节气的时候并没有厄尔尼诺这个概念，反正是秋老虎的屁股摸不得。 和所有的节气一样，作为中国人我们应该主要讨论一下吃什么。 处暑应该吃龙眼，除了味道甜之外，据说是可以消暑补血。某些地方会用龙眼来配稀… |
 | 2026-08-23 | [Toots 433 2026 Aug.16 - Aug.22](https://z.arlmy.me/posts/MastodonArchives/2026/MastodonTootsArchives_20260822/) | 「卖“屎”。」 |
 | 2026-08-23 | [入蜀记 day452 时差](https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_452/) | 「时差。」 |
 | 2026-08-23 | [入蜀记 day451 梦醒](https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_451/) | 「梦醒。」 |
 | 2026-08-23 | [Rust 中的 Sync 和 Send 理解](https://www.less-bug.com/posts/sync-and-send-understanding-in-rust/) | 本文纯手打，无 AI。 AI 现在越来越不说人话了。所以我又开始写博客了。 先说 Send，它的作用是 标记 一个 类型的任意实例 的 所有权 可以在 不同线程 之间转移。 这几个要点得展开说： 转移：由于线程各自有独立的栈，它几乎一定会产生浅拷贝（除了 ZST 等极端情况）。这个拷贝不只是语义层面… |
+| 2026-08-23 | [Kimi Code CLI 也开始受5小](https://versun.me/blog/tweet-2091373362622902627) | Versun TIL：有用 Kimi 的注意了， Kimi Code CLI不受5小时的限制，直接用的周额度噢，亲测有效 Kimi Code CLI 也开始受5小时限制了。。。 |
 | 2026-08-23 | [我和 ChatGPT 聊了七十公里](https://www.tortorse.com/archives/chatgpt-seventy-kilometers/) | 蓝天下的高速公路 |
 | 2026-08-23 | [关于死本能](https://mobius.blog/25474.html) | 一般来说，每写四期就会觉得烦躁一下，所以这周的《莫比乌斯转到了哪里》就不聊这一周的事情。 在《写在 2026 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-08-23 | [我把所有的ETF投资都转到了一个平台](https://www.ozexplorers.com/%E6%8A%95%E8%B5%84%E7%90%86%E8%B4%A2/2026/08/23/chess-or-custodian-how-i-chose-an-etf-platform-in-australia.html) | 又到了报税季，作为一个有着工资、存款和投资收入的澳洲牛马，我需要等待雇主、银行和ETF发行方挨个提供Tax Statement，才能填写并提交澳洲税务部门ATO的年度Tax Return表格。 |
@@ -223,23 +228,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-08-17 | [让 Agent 调用网页版 5.6 Sol](https://shiquda.link/agent-call-chatgpt-web-5.6-sol/) | 分享一套让所有 Agent 免费「调用」5.6 Sol 的省额度方法 ，适合拥有自己的付费 ChatGPT 账户的朋友。 我们知道 ChatGPT 网页端进行对话时，是不消耗 Codex 的额度的。我们经常在网页上让 ChatGPT 去帮我们做网络检索、深度思考等工作，然后可能把它给出的方案再转发给… |
 | 2026-08-17 | [过剩信息，剥夺我](https://mobius.blog/25416.html) | 这个标题没有实际意义，纯粹是因为我从坐着的这个视角看过去，有一个上班族刚好打开自己的笔记本电脑，而这句话是贴在 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-08-17 | [为啥最近 DHH 的 Omarchy 又](https://versun.me/blog/tweet-2089152283871428676) | 引用 看了DHH在Rails World上的演讲，真是开发者的嘴替，部署的复杂性、云端测试缓慢、本地开发问题、omarchi安装器、rails 8.1各种新功能、还有边缘计算，一个客户一个数据库等等。。。一个小时的演讲我竟然看完了。。。。 不得不说，牛逼的人确实有牛逼之处 为啥最近 DHH 的 Om… |
-| 2026-08-16 | [大脑充血 Vol.94](https://www.geedea.pro/weekly/94/) | 怎么又到周一了，我上周做了什么……？生活似乎变得稳定，但也开始无聊起来了。我的文化体力还是没有恢复，抱歉了，我可能要过好久才能再写一篇书评了。不过与此同时，我又是怎么做到写了 那么长一篇《奥德赛》影评 ，竟然还有劲儿继续写第二篇的？我的大脑可真是神奇。 吾仅悉落 Nothing Makes Sens… |
-| 2026-08-16 | [记首次 .NET 跨平台开发——Deepseek Harness Desktop](https://nigzu.com/csharp-dotnet-avalonia-deepseek-harness-client-ai/) | 史上增长最快的开源 Agent 框架 DeepSeek Harness（DSH）给我带来了 DIY 的乐趣。官方给的"命令行 + 网页"这套组合能用，但不方便用 |
-| 2026-08-16 | [Memos 小记](http://www.uncoverman.com/my-memos-is-ready.html) | 喜 欢用微博、推特、小红书、朋友圈这类产品，它们共同特点都是短文，配图，随时随地。无摩擦写作，很适合随手记。 但是这些只言片语散落在各个平台，有不同的受众，被不同的公司掌握着数据和曝光，无法随意流动。 于是有个设想，能否拥有一个自己的短文平台？支持图文，支持 Mac 、 iOS 、 Windows… |
-| 2026-08-16 | [放弃自证的减负感](https://blog.solazy.me/20260816/) | 有时候，需要允许别人误解自己，解释并没有那么重要 |
-| 2026-08-16 | [WOWOWOWO 就等它了！我目前本地就](https://versun.me/blog/tweet-2088978001015054420) | 引用 Qwen 3.8 35B A3B almost confirmed! Spotted on github! while everyone's busy swapping qwen3.6 27b for the new qwen3.8 27b dense drop on their single… |
-| 2026-08-16 | [什么是真正的痛苦](https://kaix.in/2026/0816/) | 这几天经常看到一段李娟和李诞的对话，对话中李娟说世界上真正的痛苦，只有一种，叫贫穷——所有痛苦都是虚构的，只有贫穷才是真实的痛苦。我相信李娟是真诚的，她有她的逻辑，她接着就说自己没资格谈痛苦，因为她现在有好几套房、物质充裕。 为了不造成误导，有必要说一句，她这些话的语境是说精神上的内耗与纠结是可以「… |
-| 2026-08-16 | [重新思考Agent和编辑器](https://ecnelises.com/2026/08/rethinking-agents-and-editors/) | 最早进入公众视野的AI编程工具大概是GitHub Copilot或者Tabnine，使用方式类似一个扩展版的IDE补全：工具根据光标位置的上下文猜测用户想输入的代码，以虚色形式提示，可以按Tab落实。DeepSeek的API至今仍保留了这个功能。这个功能今天看来有点简朴甚至落后，但在ChatGPT诞… |
-| 2026-08-16 | [突然觉得，不追求完美，接受混乱，接受不产](https://versun.me/blog/tweet-2088962538922782957) | 突然觉得，不追求完美，接受混乱，接受不产出，才是最难的 比如发呆，等一个人，看天黑，等朝阳，有些时刻，存在的意义就是存在本身，这些才是最稀缺的 |
-| 2026-08-16 | [从订阅链接到自动分流：小白也能看懂的 Clash Verge 原理](https://www.shiguopeng.cn/posts/2026081617/) | 🤖 声明 ：本文由 AI 辅助整理生成，并经作者严格人工审阅校对。 前言 很多人用 Clash 时最困惑的是：机场、订阅和软件到底是什么关系？出问题除了换节点还能干嘛？ 本文剔除繁杂参数，通过 4 张核心架构图 和 3 分钟快速阅读 帮你搞懂它的核心逻辑。 1. 角色拆解：谁是干嘛的？ 可以通过下图… |
-| 2026-08-16 | [git fetch 实现断点续传](https://blog.est.im/2026/stdout-33) | git fetch origin main --depth=1 一次只下一个 pack，包含所有缺失对象，国内这网络你懂的，断开就废了，然后从头下载，往往又出事； 老外不懂国内网络条件这么艰苦，只能自己让AI改造。结果： https://github.com/est/snippets/tree/ma… |
-| 2026-08-16 | [Chris Sawyer's Locomotion updated](https://macsourceports.com/game/locomotion) | The build of OpenLoco for Chris Sawyer's Locomotion has been updated to version v26.08 of the project |
-| 2026-08-16 | [Quake III: Arena updated](https://macsourceports.com/game/quake3arena) | The build of Quake3e for Quake III: Arena has been updated to the latest code of the project |
-| 2026-08-16 | [VCMI updated](https://macsourceports.com/sourceport/vcmi) | The build of VCMI for the Heroes of Might and Magic III series of games has been updated to version 1.7.5 of the project\n\nhttps://macsourceports.com… |
-| 2026-08-16 | [奥德修斯这个人](https://www.hecaitou.com/2026/08/Odysseus-the-Man.html) | 奥德赛和奥德修斯不是一回事，奥德修斯是人名，奥德赛是书名，意思是奥德修斯的故事，就像是岳飞和《说岳》一样。 无论从哪一个角度来看，奥德修斯都是讨人厌的家伙。诺兰选择马特·达蒙其实并不合适，此人太过正气，太过忠厚，观众因此而激发的怜悯和同情就显得有点便宜。在荷马史诗《奥德赛》的最后，读者对于奥德修斯的… |
-| 2026-08-16 | [New Release: FLESHCANCER](https://macsourceports.com/game/fleshcancer) | FLESHCANCER is a horor-themed Boomer Shooter from Brazil, published by the same team as BRAZILIAN DRUG DEALER 3 . You take the role of someone who see… |
-| 2026-08-16 | [DeepSeek 官方 Agent 部署实录：公网零端口暴露的安全玩法](https://www.wangwangit.com/DeepSeek%20%E5%AE%98%E6%96%B9%20Agent%20%E9%83%A8%E7%BD%B2%E5%AE%9E%E5%BD%95/) | dsh 部署到服务器 + 安全远程访问，小白能跟着做完的实操版 |
-| 2026-08-16 | [≡ 008｜这一周莫比乌斯环转到了哪里？](https://mobius.blog/25394.html) | —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 
 ## Vibe Coding
 

@@ -1,0 +1,240 @@
+[
+  {
+    "title": "ChatGPT 添加远程 MCP 插件报 403 问题解决",
+    "url": "https://versun.me/blog/chatgpt-mcp-403-cloudflare-bot-fight-mode",
+    "date": "2026-08-24T00:44:00Z",
+    "description": "记录一下在 ChatGPT 网页版添加 Knowledge Mem 插件时踩的坑，以及解决方法。 问题 按照 Knowledge Mem 官方文档，在 ChatGPT 中配置远程 MCP 时，一直报 403 错误： 排查过程 在 @yevazn 的帮助下定位到了原因：Cloudflare 拦截了请求。 在 Cloudflare 后台的 Security → Events...",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "大脑充血 Vol.95",
+    "url": "https://www.geedea.pro/weekly/95/",
+    "date": "2026-08-24T00:05:48Z",
+    "description": "读者早上好，这有可能是《大脑充血》最后一期名副其实的「周刊」。我这周在 联邦宇宙 上发了个投票，说我打算改月刊，想投票看看固定在什么时间点发刊合适。 结果有超过一半的人选了「不准改月刊」的选项，我真的好讨厌你们 。 主要的原因是，每周都要更新一次，其实占据了很多我本来就不多的写作时间。我最近在写一篇小说，还有其他不少的项目（包括要写的文章点子，准备写新的博客主题等等），但每次坐在自己的电脑前都想着，自己周刊还没写呢。说实话，这不太利于我的创作和心理健康，再加上我最近读的文章真的少了，有闲心都去读书了（虽然现在的读书进度也很慢了）。 总之，在结合了投票结果之后，我决定把《大脑充血》改成月刊，发刊日期是离每月 1 日最近的周一， 这样我就不用把页面路径的 weekly 改掉了，毕竟还是以周为单位 。除了固定发刊日，我还会考虑在其他时间随机掉落一些时效性更强的更新，就跟 Taxodium 的 Zine 类似。 不过，下周一（8 月 31 日）刚好就是离九月初最近的周一呢，所以还是会发布的。 吾仅悉落 Little Shop of Horror Alan Menken / Howard Ash",
+    "source_root_domain": "geedea.pro"
+  },
+  {
+    "title": "給博客添加純文本版本",
+    "url": "https://taxodium.ink/add-plain-text-version-to-blog.html",
+    "date": "2026-08-23T16:44:00Z",
+    "description": "給博客添加純文本版本 看了 wiwi 的 偷偷加入的功能 (另見 Zine#54 ) 我也給博客的文章添加了純文本版本，你可以在每篇文章的底部找到純文本版本的連結，也可以將頁面 URL 的 .html 換成 .txt 訪問純文本版本 (如果換成 .org 就能看到文章的原始文件) 。最近看到 Wiwi.Blog 純文字版 ，我也跟著做了一個 純文本版本的索引頁 。 純文本的好处是極簡，基本上就是文字，沒有其它干擾元素，其次是體積小，在網絡不好時也能較快的加載 (不過網絡條件不好，和服務器建立連結也需要時間，能節省的是頁面需要的流量) 。 製作純文本版本，只要將原始文件想辦法轉成 txt 版本就好了 (現在只是轉換成了 HTML) ，然後給所有的 txt 文件做一個索引頁 (建議掛載在 /txt 這個路徑下) ，基本上就够用了。 我的博客是用 org-publish 和 denote 構建的，接下來我會分享我是如何通過它們給博客添加純文本版本的，包擴： 將原始 org 文件轉換出一個 txt 版本 給每個頁面添加對應的純文本版本連結 製作索引頁 相關代碼可以在 init-org-publ",
+    "source_root_domain": "taxodium.ink"
+  },
+  {
+    "title": "业余频段的对讲机，不能再商业应用了",
+    "url": "https://blog.mfwt.top/index.php/archives/1550/",
+    "date": "2026-08-23T14:57:12Z",
+    "description": "几天前，泉州市无线电管理局发了一份工作动态的新闻稿，大概的意思是要『开展对讲机及相关设备全链条监管工作』。从原文看，里面列出了几条『刚性监管红线』，其中有一项，笔者非常在意，也是等了非常久的：严...",
+    "source_root_domain": "mfwt.top"
+  },
+  {
+    "title": "骷髅编程",
+    "url": "https://www.geedea.pro/article/skeleton-programing/",
+    "date": "2026-08-23T12:27:43Z",
+    "description": "软件架构的工作，除了搞清楚应该设计多少、什么样的组件来实现需求，还应该考虑组件之间的依赖关系。SOLID 原则之一的「依赖反转原则」是指数据流向应该与依赖的方向相反，比方说，数据从后端流向前端，但后端不应该依赖前端，而是要让前端调用后端提供的接口。此外，组件之间有抽象和具体之分，核心业务逻辑就是高度抽象的，而数据库逻辑（用什么样的数据库、用什么 ORM、具体怎么实现）就是相当具体的，业务逻辑不应该依赖数据库逻辑，这怎么做到呢？ 比方说，我的业务逻辑是：不断接收某个源喂过来的数据，如果某条数据满足条件，就把它存在数据库里。如果我要编写这整个链路，难道不是要引用数据库组件吗？我怎么做到不直接依赖组件？ 接口和 vtable 接下来我将分别演示在 OOP 1 语言中和在函数式编程语言中，如何实现「不依赖数据库组件，但描述存储操作」。我使用的语言是 Go 和 Clojure，其中 Go 不是纯面向对象语言（缺少继承机制），Clojure 也不是纯函数式语言（但我也不会写 Haskell 啊），但用到的思想和语言特性是可迁移的。 接口是抽象的 接口定义其实比核心业务逻辑还要抽象，因为接口只定义了",
+    "source_root_domain": "geedea.pro"
+  },
+  {
+    "title": "周末流水账 0823",
+    "url": "https://blog.solazy.me/20260823/",
+    "date": "2026-08-23T12:00:00Z",
+    "description": "接着写流水账吧，最近没什么好的话题",
+    "source_root_domain": "solazy.me"
+  },
+  {
+    "title": "认真想了下，机械帝国最可能诞生在中国，因",
+    "url": "https://versun.me/blog/tweet-2091486413808386289",
+    "date": "2026-08-23T11:23:13Z",
+    "description": "李不凯正在研究 @VersunPan 我眼中的世界在无可避免的《骇客帝国》化 认真想了下，机械帝国最可能诞生在中国，因为人多，电多，各种金属多，网络也没什么安全可言，还有强大的防火墙，简直是沃土😂😂😂",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "永远的新裤子——新裤子30周年演唱会",
+    "url": "https://tianheg.co/posts/new-pants-30th-anniversary/",
+    "date": "2026-08-23T10:59:00Z",
+    "description": "新裤子乐队成立于1996年，是现今仍存世的历史最悠久的乐队之一。今年的演唱会是在纪念他们成立30周年。",
+    "source_root_domain": "tianheg.co"
+  },
+  {
+    "title": "在 Emacs 中用漢典查詢倉頡碼",
+    "url": "https://taxodium.ink/query-cangjie-codes-using-han-dian-in-emacs.html",
+    "date": "2026-08-23T10:00:00Z",
+    "description": "在 Emacs 中用漢典查詢倉頡碼 倉頡輸入法 我已經用了很長時間，通過強迫自己在日常中使用，現在日常打字已經沒什麼問題。我最近寫的文章都是用䌓體，是因為倉頡打繁體更容易，而且我也喜歡繁體字 (繁體字更容易反映字形，從而更好的理解一個字的含義) 。不過我的用法可能有點怪，現在用䌓體的更多是香港和臺灣的人，他們的用字有各自的習慣偏好，但由於我不了解，我大多時候只是將簡體字換成䌓體字，但我想閱讀起來應該也沒什麼問題。或許有的讀者閲讀䌓體會有點困難，我只能說聲抱歉了。 儘管常用字基本會打了，但還是會有一些字不知道怎麼打，有的字我不知道對應的繁體是什麼，這時我會用 漢典 去查。 我有兩種用法，一種是利用 Zen 瀏覧器的快捷查詢 (Shortcut)，我綁定在了 @h ，在我需要查一個字時，例如「倉」，我就在 Zen 瀏覧器的搜索框中輸入 @h 倉 就可以跳到漢典查詢。 图1 Zen 上的漢典 shortcut 配置截图。 另一個用法是在 Emacs 裡 (我用 Emacs 寫博客，在 Emacs 裡打字是最多的) ，我將漢典的連結寫進了 webjump 裡，webjump 的功能和 Zen ",
+    "source_root_domain": "taxodium.ink"
+  },
+  {
+    "title": "过马路小游戏 by Godot",
+    "url": "https://7gugu.com/index.php/2026/08/23/%e8%bf%87%e9%a9%ac%e8%b7%af%e5%b0%8f%e6%b8%b8%e6%88%8f/",
+    "date": "2026-08-23T09:09:27Z",
+    "description": "最近一直都在学习怎么用Godot做小游戏，根据教程做了第一个Demo出来，真的好有趣呀。 Godot也做了很多 … 继续阅读 “过马路小游戏 by Godot”",
+    "source_root_domain": "7gugu.com"
+  },
+  {
+    "title": "有孩子的看不得龙餐馆，刚看完，哭的稀里哗",
+    "url": "https://versun.me/blog/tweet-2091427183541789153",
+    "date": "2026-08-23T07:27:52Z",
+    "description": "有孩子的看不得龙餐馆，刚看完，哭的稀里哗啦的😭战争太残酷了",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "处暑说吃",
+    "url": "https://www.hecaitou.com/2026/08/eating-through-end-of-heat.html",
+    "date": "2026-08-23T04:25:38Z",
+    "description": "今天是农历七月十一，处暑。处暑的意思是到了这个时节暑气就开始消退，天气渐渐转凉。今年明显不是这样，命名处暑节气的时候并没有厄尔尼诺这个概念，反正是秋老虎的屁股摸不得。 和所有的节气一样，作为中国人我们应该主要讨论一下吃什么。 处暑应该吃龙眼，除了味道甜之外，据说是可以消暑补血。某些地方会用龙眼来配稀饭，我听说之后以为补血的那个「血」，指的是血糖。我喜欢龙眼多过荔枝，荔枝多少会带着一点点酸味，龙眼没有这回事，除了甜就只有甜。事实上，龙眼要比荔枝更甜，吃起来感觉更为淳朴，没有丝毫妖娆。除了太甜，唯一的缺点就是核太大。荔枝有改良品种，一口下去果汁四溅，果核只有葡萄干大小。龙眼到今天还是得用门牙刮，小遗憾而已。 龙眼多少还有点地域特色，北京现在的龙眼大部分都来自泰国，少部分国产。说到葡萄就不一样了，葡萄一年四季都有，到处都产，算是最常见的水果。不过到了处暑这会儿，应该是密集上市的时节。因为是应季，味道也最为浓郁。我是个懒人，最喜欢巨峰葡萄，剥一颗抵其他葡萄三颗。其次是新疆的小颗粒葡萄，因为洗完之后可以直接一把把薅下来直接吃，不需要考虑吐皮吐籽的问题。小时候我那么吃，父亲看到了就叹息：我怎么养出",
+    "source_root_domain": "hecaitou.com"
+  },
+  {
+    "title": "Toots 433 2026 Aug.16 - Aug.22",
+    "url": "https://z.arlmy.me/posts/MastodonArchives/2026/MastodonTootsArchives_20260822/",
+    "date": "2026-08-23T04:18:27Z",
+    "description": "「卖“屎”。」",
+    "source_root_domain": "arlmy.me"
+  },
+  {
+    "title": "入蜀记 day452 时差",
+    "url": "https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_452/",
+    "date": "2026-08-23T04:15:27Z",
+    "description": "「时差。」",
+    "source_root_domain": "arlmy.me"
+  },
+  {
+    "title": "入蜀记 day451 梦醒",
+    "url": "https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_451/",
+    "date": "2026-08-23T04:13:27Z",
+    "description": "「梦醒。」",
+    "source_root_domain": "arlmy.me"
+  },
+  {
+    "title": "Rust 中的 Sync 和 Send 理解",
+    "url": "https://www.less-bug.com/posts/sync-and-send-understanding-in-rust/",
+    "date": "2026-08-23T04:11:47Z",
+    "description": "本文纯手打，无 AI。 AI 现在越来越不说人话了。所以我又开始写博客了。 先说 Send，它的作用是 标记 一个 类型的任意实例 的 所有权 可以在 不同线程 之间转移。 这几个要点得展开说： 转移：由于线程各自有独立的栈，它几乎一定会产生浅拷贝（除了 ZST 等极端情况）。这个拷贝不只是语义层面，也是是物理意义上。所以它物理上需要经过 memcpy，并不是瞬间完成的。这个栈上实例可能关联拥有了堆内存值，后者是原封不动的（几乎所有情况）。 许多资料（包括官方）说这个转移是安全的，严格来说这种说法太绝对。所以我不喜欢加这个定语。 实际上，锁、原子指令、内存屏障之类的东西根本和 Send 关系不大。它的“保证”只是一个编译期的东西。更强的保证得让实现者自己实现。比如 mpsc 可能会上锁解锁（这个例子是我猜的，我不确定） 所以，它并不保证转移过程中并发写不产生数据竞争。不保证不发生 double free 等等（虽然几乎所有情况可以认为表现像是能保证） 如果从线程 A 的 stack var 转移到 线程 B 的 stack var，对于 C++ 的情况，会有个移动构造和函数，把 A 那",
+    "source_root_domain": "less-bug.com"
+  },
+  {
+    "title": "Kimi Code CLI 也开始受5小",
+    "url": "https://versun.me/blog/tweet-2091373362622902627",
+    "date": "2026-08-23T03:54:00Z",
+    "description": "Versun TIL：有用 Kimi 的注意了， Kimi Code CLI不受5小时的限制，直接用的周额度噢，亲测有效 Kimi Code CLI 也开始受5小时限制了。。。",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "我和 ChatGPT 聊了七十公里",
+    "url": "https://www.tortorse.com/archives/chatgpt-seventy-kilometers/",
+    "date": "2026-08-23T01:30:56Z",
+    "description": "蓝天下的高速公路",
+    "source_root_domain": "tortorse.com"
+  },
+  {
+    "title": "关于死本能",
+    "url": "https://mobius.blog/25474.html",
+    "date": "2026-08-23T01:30:00Z",
+    "description": "一般来说，每写四期就会觉得烦躁一下，所以这周的《莫比乌斯转到了哪里》就不聊这一周的事情。 在《写在 2026 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。",
+    "source_root_domain": "onojyun.com"
+  },
+  {
+    "title": "我把所有的ETF投资都转到了一个平台",
+    "url": "https://www.ozexplorers.com/%E6%8A%95%E8%B5%84%E7%90%86%E8%B4%A2/2026/08/23/chess-or-custodian-how-i-chose-an-etf-platform-in-australia.html",
+    "date": "2026-08-23T00:00:00Z",
+    "description": "又到了报税季，作为一个有着工资、存款和投资收入的澳洲牛马，我需要等待雇主、银行和ETF发行方挨个提供Tax Statement，才能填写并提交澳洲税务部门ATO的年度Tax Return表格。",
+    "source_root_domain": "ozexplorers.com"
+  },
+  {
+    "title": "Memos #2026-08-22",
+    "url": "https://www.taober.blog/memos",
+    "date": "2026-08-23T00:00:00Z",
+    "description": "00:56 看了深夜档的《欢迎来龙餐馆》，质感很好，演技也没得说，尤其是用了厨子这个小人物的视角去讲故事。 这段时间就有意地不去刷相关信息，保留了今天的完整观影体验。 另外提升体验的一部分是开了一个小时的座椅按摩，享受。 附一张影院《牛来》海报。",
+    "source_root_domain": "taober.blog"
+  },
+  {
+    "title": "Jenkins Vue 流水线构建 OOM（exit 137）复发的问题",
+    "url": "https://199604.com/3657",
+    "date": "2026-08-22T15:24:11Z",
+    "description": "Jenkins Vue 流水线构建 OOM（exit 137）复发的问题 记录时间：2026-08-21 环境 […]",
+    "source_root_domain": "199604.com"
+  },
+  {
+    "title": "周末流水账 0822",
+    "url": "https://blog.solazy.me/20260822/",
+    "date": "2026-08-22T15:00:00Z",
+    "description": "好久没写周末流水账了，今天是阔别重逢的一篇",
+    "source_root_domain": "solazy.me"
+  },
+  {
+    "title": "一副牌的惯蛋玩法",
+    "url": "https://depp.wang/2026/guandan/",
+    "date": "2026-08-22T09:52:31Z",
+    "description": "大侄子来到我家过暑假，我想提升一下他的逻辑思维能力，所以就一起打扑克。 打扑克的话，现在我们比较常玩的是「干瞪眼」，这是最开始只有五张牌的这种玩法，看谁先出完。但是这种玩法相对简单一点。 稍微复杂点的就是「斗地主」，但是只能三个人玩。我们有四个人，这种不太适合大家一起玩。 所以我想四个人怎么一起玩？开始是一起打那个「跑得快」，「跑得快」也有四个人玩法，通过随机叫牌组队，输了抽牌加惩罚，但是容易玩腻。 我发现「掼蛋」的这种玩法挺适合四个人玩，有升级戴帽的概念，固定搭配，考验配合，又有一些成就感。但是因为他的手比较小，拿两副牌的话拿不下。另外他才十岁，所以这个逻辑思维能力还不是很好。",
+    "source_root_domain": "depp.wang"
+  },
+  {
+    "title": "入蜀记 day450 正行亡私",
+    "url": "https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_450/",
+    "date": "2026-08-22T09:25:27Z",
+    "description": "「正行亡私。」",
+    "source_root_domain": "arlmy.me"
+  },
+  {
+    "title": "入蜀记 day449 东北蓝调",
+    "url": "https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_449/",
+    "date": "2026-08-22T09:24:27Z",
+    "description": "「东北蓝调。」",
+    "source_root_domain": "arlmy.me"
+  },
+  {
+    "title": "入蜀记 day448 大学同学相识20周年",
+    "url": "https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_448/",
+    "date": "2026-08-22T09:22:27Z",
+    "description": "「大学同学相识20周年。」",
+    "source_root_domain": "arlmy.me"
+  },
+  {
+    "title": "入蜀记 day447 辽宁大厦",
+    "url": "https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_447/",
+    "date": "2026-08-22T09:18:27Z",
+    "description": "「辽宁大厦。」",
+    "source_root_domain": "arlmy.me"
+  },
+  {
+    "title": "丁达尔 II",
+    "url": "https://mobius.blog/25466.html",
+    "date": "2026-08-22T06:00:00Z",
+    "description": "小王因为掏出手机拍夕阳的丁达尔现象，结果被路人“抓了个正着”，此时此刻他还真的被扭送去了派出所。 “你们干嘛？ […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。",
+    "source_root_domain": "onojyun.com"
+  },
+  {
+    "title": "我个人最欣赏的 AI 用法",
+    "url": "https://www.hecaitou.com/2026/08/my-favorite-way-to-use-ai.html",
+    "date": "2026-08-22T04:59:15Z",
+    "description": "关于 AI 的文章我已经写过太多了，但是今天还是想再写一篇。我知道，总是谈同一个话题容易让人觉得厌烦，所以不如这样：如果一看到 「AI 」这个词，你的第一反应是「听吐了」，或者「我对 AI 太熟了」，那么你大可以现在就关闭离开，因为接下来的内容对你毫无帮助。那么美好的周末，干点什么别的不成？ 还没有听到吐的诸位，让我们继续。 首先我说一下我的结论：截至目前，我认为 AI 最强也最有用的地方不在于编程，不在于回答问题，更不在于提供所谓「情绪价值」。我也不认同很多人的共同说法：AI 还没有体现出真实的实用性，自身依然存在很多缺陷和问题，距离成为真正的工具还需要等待一些时日。我认为 AI 已经成为了锤炼个人思维的最强实用工具，而且这就是它目前最具价值的地方。 这个结论基于一些假设： 1、各家 AI 理论上已经搜集和存储了人类的所有文本信息，也就是说，单个人类在知识储量和完备上胜过机器的那个时刻已经永久地过去了。 2、各家 AI 的记忆功能可以通过多轮次的互动，极为深度地了解一个人，而且可以精准地绘制出个人知识图谱。 3、虽然程度不同，但是各家 AI 都可以根据用户的指令进行配合，所有这些指令",
+    "source_root_domain": "hecaitou.com"
+  },
+  {
+    "title": "感谢 Kimi 和 Go，早上给我的博客",
+    "url": "https://versun.me/blog/tweet-2091018026091184560",
+    "date": "2026-08-22T04:22:01Z",
+    "description": "感谢 Kimi 和 Go，早上给我的博客添加了 子域名跳转 的功能，一次就成，太方便了",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "“灵活就业即自由”言论背后的晚期资本主义特征与国家去责任化",
+    "url": "https://prologue.dev/blog/the-characteristics-of-late-capitalism-and-state-disengagement-behind-the-claim-that-flexible-employment-equals-freedom",
+    "date": "2026-08-22T00:00:00Z",
+    "description": "公民个体承担生命周期的所有成本，包括教育、生育、养老、医疗等。国家不再通过财政与再分配来保障个人，而是通过塑造竞争性主体来治理风险。",
+    "source_root_domain": "prologue.dev"
+  },
+  {
+    "title": "Python 潮流周刊#164：deepseek-harness 万物皆插件",
+    "url": "https://pythoncat.top/posts/2026-08-22-weekly/",
+    "date": "2026-08-22T00:00:00Z",
+    "description": "分享了 12 篇文章，12 个开源项目",
+    "source_root_domain": "pythoncat.top"
+  },
+  {
+    "title": "2026年第33、34周",
+    "url": "https://blog.sakoamc.com/posts/263334/",
+    "date": "2026-08-22T00:00:00Z",
+    "description": "题记：二零二六年的第三十三、三十四周，无论阅读、重复、出行，在特殊的时机下都能产生启发。",
+    "source_root_domain": "sakoamc.com"
+  }
+]
