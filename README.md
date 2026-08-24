@@ -27,12 +27,16 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-08-24 | [差一分就是差十分](https://www.hecaitou.com/2026/08/missing-by-one-means-trailing-by-ten.html) | 以百分制计算，如果考试成绩是 59 分，那么意味着其实和及格线有 10 分的整体差距。这不是什么个人暴论，而是我当年读书的时候学到的常识。 那时候老师和家长为了增加我们的焦虑，经常会给我们讲同一个案例，每次只是换人而已：谁家那小谁，在中考/高考的时候，差一分，就因为那一分而落榜了。当然，结论就是要努… |
+| 2026-08-24 | [荐《奥德赛》电影――十年苦难让奥德修斯更具人性](https://tianheg.co/posts/odyssey-movie/) | 《奥德赛》电影看完了，IMAX的大宽屏确实不错。 《奥德赛》原著作者并不确定，比较可信的说法是荷马和他同时代的人一同写就（参考：《奥德赛（张秋子导读版）》），讲述的是奥德修斯在特洛伊战争结束后十年漂泊异乡被众神阻挠不得返乡，经历重重磨难才最终返回故乡伊萨卡的故事。诺兰拍摄的电影按照原著进行了故事的讲… |
 | 2026-08-24 | [过度解读是不是读者拥有的绝对权力？I](https://mobius.blog/25482.html) | 本期的内容，本身可能也在过度解读喜欢过度解读的人群。 从过度解读到曼德拉效应 每次看到庵野秀明出面，解释自己并 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-08-24 | [上庭（二）](https://www.justzht.com/go-to-court-two/) | 电话号码并不熟悉。J 盯着手机屏幕的呼入界面愣了一会，直到手机开始自动进入语音信箱。屏幕上开始一个字一 |
+| 2026-08-24 | [Jenkins 推送成功但 Harbor 查无镜像——retention 误删新镜像与 GC 竞态的问题](https://199604.com/3659) | Jenkins 推送成功但 Harbor 查无镜像——retention 误删新镜像与 GC 竞态的问题 记录 […] |
 | 2026-08-24 | [ChatGPT 添加远程 MCP 插件报 403 问题解决](https://versun.me/blog/chatgpt-mcp-403-cloudflare-bot-fight-mode) | 记录一下在 ChatGPT 网页版添加 Knowledge Mem 插件时踩的坑，以及解决方法。 问题 按照 Knowledge Mem 官方文档，在 ChatGPT 中配置远程 MCP 时，一直报 403 错误： 排查过程 在 @yevazn 的帮助下定位到了原因：Cloudflare 拦截了请求… |
 | 2026-08-24 | [大脑充血 Vol.95](https://www.geedea.pro/weekly/95/) | 读者早上好，这有可能是《大脑充血》最后一期名副其实的「周刊」。我这周在 联邦宇宙 上发了个投票，说我打算改月刊，想投票看看固定在什么时间点发刊合适。 结果有超过一半的人选了「不准改月刊」的选项，我真的好讨厌你们 。 主要的原因是，每周都要更新一次，其实占据了很多我本来就不多的写作时间。我最近在写一篇… |
 | 2026-08-23 | [給博客添加純文本版本](https://taxodium.ink/add-plain-text-version-to-blog.html) | 給博客添加純文本版本 看了 wiwi 的 偷偷加入的功能 (另見 Zine#54 ) 我也給博客的文章添加了純文本版本，你可以在每篇文章的底部找到純文本版本的連結，也可以將頁面 URL 的 .html 換成 .txt 訪問純文本版本 (如果換成 .org 就能看到文章的原始文件) 。最近看到 Wiw… |
 | 2026-08-23 | [业余频段的对讲机，不能再商业应用了](https://blog.mfwt.top/index.php/archives/1550/) | 几天前，泉州市无线电管理局发了一份工作动态的新闻稿，大概的意思是要『开展对讲机及相关设备全链条监管工作』。从原文看，里面列出了几条『刚性监管红线』，其中有一项，笔者非常在意，也是等了非常久的：严... |
+| 2026-08-23 | [PVE 超融合基础架构搭建 - 1.PVE 安装和初始化](https://songxwn.com/PVE-HCI-1/) | PVE HCI简介 PVE HCI 简介 PVE（Proxmox Virtual Environment）是一款开源的虚拟化平台，支持 KVM 虚拟机与 LXC 容器。结合 Ceph 或 ZFS 等分布式存储方案，PVE 可以构建完整的 HCI（Hyper-Converged Infrastruct… |
 | 2026-08-23 | [骷髅编程](https://www.geedea.pro/article/skeleton-programing/) | 软件架构的工作，除了搞清楚应该设计多少、什么样的组件来实现需求，还应该考虑组件之间的依赖关系。SOLID 原则之一的「依赖反转原则」是指数据流向应该与依赖的方向相反，比方说，数据从后端流向前端，但后端不应该依赖前端，而是要让前端调用后端提供的接口。此外，组件之间有抽象和具体之分，核心业务逻辑就是高度… |
 | 2026-08-23 | [周末流水账 0823](https://blog.solazy.me/20260823/) | 接着写流水账吧，最近没什么好的话题 |
 | 2026-08-23 | [认真想了下，机械帝国最可能诞生在中国，因](https://versun.me/blog/tweet-2091486413808386289) | 李不凯正在研究 @VersunPan 我眼中的世界在无可避免的《骇客帝国》化 认真想了下，机械帝国最可能诞生在中国，因为人多，电多，各种金属多，网络也没什么安全可言，还有强大的防火墙，简直是沃土😂😂😂 |
@@ -49,6 +53,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-08-23 | [我和 ChatGPT 聊了七十公里](https://www.tortorse.com/archives/chatgpt-seventy-kilometers/) | 蓝天下的高速公路 |
 | 2026-08-23 | [关于死本能](https://mobius.blog/25474.html) | 一般来说，每写四期就会觉得烦躁一下，所以这周的《莫比乌斯转到了哪里》就不聊这一周的事情。 在《写在 2026 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-08-23 | [我把所有的ETF投资都转到了一个平台](https://www.ozexplorers.com/%E6%8A%95%E8%B5%84%E7%90%86%E8%B4%A2/2026/08/23/chess-or-custodian-how-i-chose-an-etf-platform-in-australia.html) | 又到了报税季，作为一个有着工资、存款和投资收入的澳洲牛马，我需要等待雇主、银行和ETF发行方挨个提供Tax Statement，才能填写并提交澳洲税务部门ATO的年度Tax Return表格。 |
+| 2026-08-23 | [Memos #2026-08-22](https://www.taober.blog/memos/memo_20260821164550_kjm08c) | 00:56 看了深夜档的《欢迎来龙餐馆》，质感很好，演技也没得说，尤其是用了厨子这个小人物的视角去讲故事。 这段时间就有意地不去刷相关信息，保留了今天的完整观影体验。 另外提升体验的一部分是开了一个小时的座椅按摩，享受。 附一张影院《牛来》海报。 |
 | 2026-08-23 | [Memos #2026-08-22](https://www.taober.blog/memos) | 00:56 看了深夜档的《欢迎来龙餐馆》，质感很好，演技也没得说，尤其是用了厨子这个小人物的视角去讲故事。 这段时间就有意地不去刷相关信息，保留了今天的完整观影体验。 另外提升体验的一部分是开了一个小时的座椅按摩，享受。 附一张影院《牛来》海报。 |
 | 2026-08-22 | [Jenkins Vue 流水线构建 OOM（exit 137）复发的问题](https://199604.com/3657) | Jenkins Vue 流水线构建 OOM（exit 137）复发的问题 记录时间：2026-08-21 环境 […] |
 | 2026-08-22 | [周末流水账 0822](https://blog.solazy.me/20260822/) | 好久没写周末流水账了，今天是阔别重逢的一篇 |
@@ -63,6 +68,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-08-22 | [“灵活就业即自由”言论背后的晚期资本主义特征与国家去责任化](https://prologue.dev/blog/the-characteristics-of-late-capitalism-and-state-disengagement-behind-the-claim-that-flexible-employment-equals-freedom) | 公民个体承担生命周期的所有成本，包括教育、生育、养老、医疗等。国家不再通过财政与再分配来保障个人，而是通过塑造竞争性主体来治理风险。 |
 | 2026-08-22 | [Python 潮流周刊#164：deepseek-harness 万物皆插件](https://pythoncat.top/posts/2026-08-22-weekly/) | 分享了 12 篇文章，12 个开源项目 |
 | 2026-08-22 | [2026年第33、34周](https://blog.sakoamc.com/posts/263334/) | 题记：二零二六年的第三十三、三十四周，无论阅读、重复、出行，在特殊的时机下都能产生启发。 |
+| 2026-08-22 | [Memos #2026-08-21](https://www.taober.blog/memos/memo_20260821025944_n1fchg) | 11:00 好想吃老家的小笼包🤤 |
 | 2026-08-21 | [诺兰的《奥德赛》采取了什么样的改编策略？ III](https://www.geedea.pro/article/odyssey-3/) | 终于，我的奥德赛之旅也要结束了。《奥德赛》影评的最后一篇，我将审视诺兰给电影定下的不属于原典的主题，以及我为什么讨厌这个主题。尽管因为让黑人演员饰演海伦和雅典娜，让不少人觉得诺兰是个被政治正确洗脑的激进派，但诺兰的叙事其实相当保守和传统，甚至有些…… 大男子主义。诺兰的奥德修斯不是原典中的狡诈英雄，… |
 | 2026-08-21 | [错位的会员体系](https://blog.solazy.me/20260821/) | 这篇文章是我躺在临平万丽的床上写的 |
 | 2026-08-21 | [成为阿森纳球迷最好的时机就是现在（2026-2027）](https://cbvivi.today/episodes/pl2627) | 一年一度的足球播客，祝大家新赛季观赛愉快，度过充实的一年。 视频版本明天发，Come on Arsenal! 所有事实错误都是我在故意乱说，旨在引起你的注意。 我做的 app 了解一下：cbvivi.app |
