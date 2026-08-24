@@ -1,5 +1,26 @@
 [
   {
+    "title": "PVE 超融合基础设施 - 3.PVE 配置分布式共享存储Ceph",
+    "url": "https://songxwn.com/PVE-HCI-3/",
+    "date": "2026-08-24T14:50:16Z",
+    "description": "Ceph 简介 一、Ceph 核心组件在 PVE 中的角色 组件 作用 在 PVE 中的体现 MON 维护集群状态与一致性 PVE 节点可安装 MON，通常部署 3 个以上，保证仲裁；在 Web 界面可查看集群健康 OSD 存储对象数据并处理读写 每块硬盘对应一个 OSD；在 PVE 中通过 pveceph osd create 或 Web 向导添加 MGR 提供监控与扩展模块 PVE 默认安装 MGR，支持 Prometheus/Grafana 集成，Web 界面有 Dashboard MDS 管理 CephFS 元数据 在 PVE 中可选安装，用于提供共享文件系统（CephFS） RGW 提供对象存储接口 (S3/Swift) 可在 PVE 节点上部署，提供对象存储服务 RADOS 底层分布式对象存储 PVE 的 VM 磁盘、容器卷最终都映射到 RADOS 对象 CRUSH 数据放置算法 PVE 中可通过 Web 界面或命令行修改 CRUSH Map，定义机架/节点分层策略 RBD 块设备接口 PVE 的虚拟机磁盘直接使用 RBD，支持快照、克隆 CephFS POSIX 文件系统",
+    "source_root_domain": "songxwn.com"
+  },
+  {
+    "title": "PVE 超融合基础设施 - 2.PVE 配置集群",
+    "url": "https://songxwn.com/PVE-HCI-2/",
+    "date": "2026-08-24T13:50:16Z",
+    "description": "Proxmox VE 集群管理器 pvecm 是一款用于创建一组 物理服务器。这样的群称为 簇 。我们使用 Corosync 集群引擎 来实现可靠的群组 沟通。集群中没有明确的节点数量限制。 实际上，实际可能的节点数可能受主机和 网络表现。目前（2021年），有关于集群（使用 高端企业硬件）拥有超过50个节点在生产中。 PVECM可用于创建新集群，将节点连接到集群， 离开集群，获取状态信息，并做各种与集群相关的工作 任务。 P rox m o x c luster F ile S ystem（“pmxcfs”） 用于透明地将集群配置分发到所有集群 节点。 将节点分组到集群中有以下优势： 集中式、基于网络的管理 多主集群：每个节点可以完成所有管理任务 使用 pmxcfs，一种数据库驱动的文件系统，用于存储配置 文件，通过CoroSync在所有节点上实时复制 虚拟机和容器在物理间的便捷迁移 主持人 快速部署 集群范围的服务，如防火墙和HA",
+    "source_root_domain": "songxwn.com"
+  },
+  {
+    "title": "翻译-文本模式的谎言：为什么现代 TUI 对无障碍性是一场噩梦",
+    "url": "https://blog.prayhand13013.top/20260824T125051--翻译-文本模式的谎言：为什么现代-tui-对无障碍性是一场噩梦__blog.html",
+    "date": "2026-08-24T04:50:00Z",
+    "description": "",
+    "source_root_domain": "tomoemami.github.io"
+  },
+  {
     "title": "差一分就是差十分",
     "url": "https://www.hecaitou.com/2026/08/missing-by-one-means-trailing-by-ten.html",
     "date": "2026-08-24T03:55:03Z",
@@ -63,10 +84,10 @@
     "source_root_domain": "mfwt.top"
   },
   {
-    "title": "PVE 超融合基础架构搭建 - 1.PVE 安装和初始化",
+    "title": "PVE 超融合基础设施 - 1.PVE 单机安装和初始化",
     "url": "https://songxwn.com/PVE-HCI-1/",
     "date": "2026-08-23T13:50:16Z",
-    "description": "PVE HCI简介 PVE HCI 简介 PVE（Proxmox Virtual Environment）是一款开源的虚拟化平台，支持 KVM 虚拟机与 LXC 容器。结合 Ceph 或 ZFS 等分布式存储方案，PVE 可以构建完整的 HCI（Hyper-Converged Infrastructure，超融合架构）。 系统基于Debian构建，但系统内核基于Ubuntu二次开发。 核心特性 计算与存储融合 PVE 节点既运行虚拟机/容器，又承担存储服务，避免传统架构中计算与存储分离的复杂性。 分布式存储 借助 Ceph 或 ZFS，数据自动分布与冗余，支持块存储、文件系统和对象存储接口。 网络虚拟化 支持SDN：VLAN、QINIQ、VXLAN、EVPN等功能，可以进行二层/三层网络虚拟化。 网络安全组 支持每个虚拟机有独立的防火墙，并可以配置安全组统一管理。 高可用集群 内置 HA 管理器，虚拟机在节点故障时可自动迁移，保证业务连续性。支持类似DRS的虚拟机自动化负载均衡。 统一管理界面 Web 界面集中管理虚拟化、存储、网络与备份，简化运维。 开源与灵活性 无需昂贵授权费用，支",
+    "description": "PVE HCI简介 PVE HCI 简介 PVE（Proxmox Virtual Environment）是一款开源的虚拟化平台，支持 KVM 虚拟机与 LXC 容器。结合 Ceph 分布式存储方案+ SDN EVPN-VXLAN，PVE 可以构建完整的 HCI（Hyper-Converged Infrastructure，超融合架构）。 系统基于Debian构建，但系统内核基于Ubuntu二次开发。 核心特性 计算与存储融合 PVE 节点既运行虚拟机/容器，又承担存储服务，避免传统架构中计算与存储分离的复杂性。 分布式存储 借助 Ceph 或 ZFS，数据自动分布与冗余，支持块存储、文件系统和对象存储接口。 网络虚拟化 支持SDN：VLAN、QINIQ、VXLAN、EVPN等功能，可以进行二层/三层网络虚拟化。 网络安全组 支持每个虚拟机有独立的防火墙，并可以配置安全组统一管理。 高可用集群 内置 HA 管理器，虚拟机在节点故障时可自动迁移，保证业务连续性。支持类似DRS的虚拟机自动化负载均衡。 统一管理界面 Web 界面集中管理虚拟化、存储、网络与备份，简化运维。 开源与灵活性 无",
     "source_root_domain": "songxwn.com"
   },
   {
