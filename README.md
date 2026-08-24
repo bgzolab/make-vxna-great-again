@@ -28,6 +28,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | Date | Title | Summary |
 | --- | --- | --- |
 | 2026-08-24 | [PVE 超融合基础设施 - 3.PVE 配置分布式共享存储Ceph](https://songxwn.com/PVE-HCI-3/) | Ceph 简介 一、Ceph 核心组件在 PVE 中的角色 组件 作用 在 PVE 中的体现 MON 维护集群状态与一致性 PVE 节点可安装 MON，通常部署 3 个以上，保证仲裁；在 Web 界面可查看集群健康 OSD 存储对象数据并处理读写 每块硬盘对应一个 OSD；在 PVE 中通过 pve… |
+| 2026-08-24 | [R#116 决策劳动](https://blog.sakanano.moe/journals/random_116) | 2026.8.18 ~ 2026.8.24 |
 | 2026-08-24 | [PVE 超融合基础设施 - 2.PVE 配置集群](https://songxwn.com/PVE-HCI-2/) | Proxmox VE 集群管理器 pvecm 是一款用于创建一组 物理服务器。这样的群称为 簇 。我们使用 Corosync 集群引擎 来实现可靠的群组 沟通。集群中没有明确的节点数量限制。 实际上，实际可能的节点数可能受主机和 网络表现。目前（2021年），有关于集群（使用 高端企业硬件）拥有超过… |
 | 2026-08-24 | [跑步不香了](https://hux.ink/posts/more-riding/) | 进入 8 月份，天空终于舍得放晴，不再天天漏雨。买来吃灰的小折叠也终于有机会多出去遛遛。骑了几次 20～50 公里后，对比之前跑步，有了几点不同的感受。 首先是骑行更有趣。跑步通常就在家附近，固定的路线来回跑，比如布吉河、洪湖公园。有时担心回到家就不出门了，干脆下班直接跑回去，路上绕荔枝公园一圈，刚… |
 | 2026-08-24 | [回国后我去香港开了银行和券商](https://koukyo.site/posts/hk-investment-accounts-lower-fees/) | 手续费看似不起眼，30年复利下来能吃掉你四分之一的财富。回国后我花一天时间去香港开了三家银行和两家券商，这篇聊聊为什么、怎么做、以及踩了哪些坑。 |
