@@ -29,6 +29,9 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | --- | --- | --- |
 | 2026-08-24 | [PVE 超融合基础设施 - 3.PVE 配置分布式共享存储Ceph](https://songxwn.com/PVE-HCI-3/) | Ceph 简介 一、Ceph 核心组件在 PVE 中的角色 组件 作用 在 PVE 中的体现 MON 维护集群状态与一致性 PVE 节点可安装 MON，通常部署 3 个以上，保证仲裁；在 Web 界面可查看集群健康 OSD 存储对象数据并处理读写 每块硬盘对应一个 OSD；在 PVE 中通过 pve… |
 | 2026-08-24 | [PVE 超融合基础设施 - 2.PVE 配置集群](https://songxwn.com/PVE-HCI-2/) | Proxmox VE 集群管理器 pvecm 是一款用于创建一组 物理服务器。这样的群称为 簇 。我们使用 Corosync 集群引擎 来实现可靠的群组 沟通。集群中没有明确的节点数量限制。 实际上，实际可能的节点数可能受主机和 网络表现。目前（2021年），有关于集群（使用 高端企业硬件）拥有超过… |
+| 2026-08-24 | [入蜀记 day454 第一颗白果掉落](https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_454/) | 「第一颗白果掉落。」 |
+| 2026-08-24 | [入蜀记 day453 冷雨](https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_453/) | 「冷雨。」 |
+| 2026-08-24 | [最近惦念 20260813](https://z.arlmy.me/posts/TILs/thoughts/20260813_Recently/) | 「一念荒唐的事情最有价值。」 |
 | 2026-08-24 | [翻译-文本模式的谎言：为什么现代 TUI 对无障碍性是一场噩梦](https://blog.prayhand13013.top/20260824T125051--翻译-文本模式的谎言：为什么现代-tui-对无障碍性是一场噩梦__blog.html) |  |
 | 2026-08-24 | [差一分就是差十分](https://www.hecaitou.com/2026/08/missing-by-one-means-trailing-by-ten.html) | 以百分制计算，如果考试成绩是 59 分，那么意味着其实和及格线有 10 分的整体差距。这不是什么个人暴论，而是我当年读书的时候学到的常识。 那时候老师和家长为了增加我们的焦虑，经常会给我们讲同一个案例，每次只是换人而已：谁家那小谁，在中考/高考的时候，差一分，就因为那一分而落榜了。当然，结论就是要努… |
 | 2026-08-24 | [荐《奥德赛》电影――十年苦难让奥德修斯更具人性](https://tianheg.co/posts/odyssey-movie/) | 《奥德赛》电影看完了，IMAX的大宽屏确实不错。 《奥德赛》原著作者并不确定，比较可信的说法是荷马和他同时代的人一同写就（参考：《奥德赛（张秋子导读版）》），讲述的是奥德修斯在特洛伊战争结束后十年漂泊异乡被众神阻挠不得返乡，经历重重磨难才最终返回故乡伊萨卡的故事。诺兰拍摄的电影按照原著进行了故事的讲… |
