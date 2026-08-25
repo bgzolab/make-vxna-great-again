@@ -49,6 +49,13 @@
     "source_root_domain": "taxodium.ink"
   },
   {
+    "title": "先把自己的水桶装满",
+    "url": "https://blog.solazy.me/20260824/",
+    "date": "2026-08-24T15:00:00Z",
+    "description": "今日随笔",
+    "source_root_domain": "solazy.me"
+  },
+  {
     "title": "PVE 超融合基础设施 - 3.PVE 配置分布式共享存储Ceph",
     "url": "https://songxwn.com/PVE-HCI-3/",
     "date": "2026-08-24T14:50:16Z",
