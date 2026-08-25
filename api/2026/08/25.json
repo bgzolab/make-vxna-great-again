@@ -28,6 +28,13 @@
     "source_root_domain": "kawabangga.com"
   },
   {
+    "title": "爽玩 Omarchy：好品味 + AI",
+    "url": "https://blog.n3r0.cool/post/wow-omarchy/",
+    "date": "2026-08-25T15:00:00Z",
+    "description": "又是一次让人难忘的经历。熟悉而陌生的体验，像做梦一样，就这么来到了眼前。 这就是 Omarchy 吗？ 老实说，对于手动安装过很多次 Arch、折腾过各种桌面环境和终端工具的我来说，上手之后，一切都有种难以言喻的熟悉感。简单读过文档后会发现，它的基础并不神秘：Hyprland、常用工具，以及一整套预先做好的选择。",
+    "source_root_domain": "n3r0.cool"
+  },
+  {
     "title": "AutoUninstaller导致的Installer拒绝访问",
     "url": "https://foglog.cn/p/auto-uninstaller-fix",
     "date": "2026-08-25T15:00:00Z",

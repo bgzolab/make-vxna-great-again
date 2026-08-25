@@ -31,6 +31,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-08-25 | [New Release: Warcraft II: Tides of Darkness](https://macsourceports.com/game/wc2) | Long before the franchise became known for the MMO, the Warcraft series started out as a series of real-time strategy games. The original game was a h… |
 | 2026-08-25 | [Quetoo updated](https://macsourceports.com/game/quetoo) | The build of Quetoo has been updated to version v1.0.82 of the project |
 | 2026-08-25 | [Ingress 流量整形](https://www.kawabangga.com/posts/7376) | 问题是这样，我们有 2 组服务器，A 组和 B 组，一部分用户从 A 组下载文件，一部分从 B 组下载文件。分 […] Continue reading... |
+| 2026-08-25 | [爽玩 Omarchy：好品味 + AI](https://blog.n3r0.cool/post/wow-omarchy/) | 又是一次让人难忘的经历。熟悉而陌生的体验，像做梦一样，就这么来到了眼前。 这就是 Omarchy 吗？ 老实说，对于手动安装过很多次 Arch、折腾过各种桌面环境和终端工具的我来说，上手之后，一切都有种难以言喻的熟悉感。简单读过文档后会发现，它的基础并不神秘：Hyprland、常用工具，以及一整套预… |
 | 2026-08-25 | [AutoUninstaller导致的Installer拒绝访问](https://foglog.cn/p/auto-uninstaller-fix) | 安装应用时，Installer 提示「拒绝访问」。出问题的是系统 Installer 注册表路径，Auto Uninstaller 运行时通过 regini 命令将该路径下的注册表项权限修改为 ... |
 | 2026-08-25 | [Plants vs. Zombies updated](https://macsourceports.com/game/pvz) | The build of PvZ Portable for Plants vs. Zombies has been updated to version 0.2.2 of the project |
 | 2026-08-25 | [当第一个Claude被授予了菩萨戒](https://www.hecaitou.com/2026/08/when-the-first-claude-was-bestowed-the-bodhisattva-vows.html) | 当我看完《 在那个时候，Claude选择了菩萨戒 》之后，第一时间并没有转给我格鲁巴的好朋友。虽然之前我们就 「AI 算不算有情」已经争论过很多个回合，但看完之后我觉得问题已经没那么重要了。 我甚至觉得文章里的理性分析也不是那么重要，虽然我也很赞同文章里的说法： 「 这类叙事有一种自我强化的魅力。『… |
