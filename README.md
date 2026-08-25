@@ -34,6 +34,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-08-24 | [2026 年七月 读基层生计，理财育儿 7 本](https://conge.livingwithfcs.org/2026/08/24/reading_summary/) | 引子 引子 七月的阅读，从马驹桥的日结工、深圳的保洁员、大街上的外卖员，到小区门口的保安，我读了几本关于基层生计的书，看见城市运转背后那些被忽视的人——他们像极了社会主义革命者所同情的资本主义社会的无保障的工人与贫民。社会主义中国运行了这么多年，底层问题是重新出现吗？这个问题，我在这些书里没有找到答… |
 | 2026-08-24 | [迷幻](https://mobius.blog/25491.html) | 现在是 00:49 分，睡觉要的药效已经持续了 15 分钟，我现在头部的每一个摇动，都可以把我狠狠砸在书桌上， […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-08-24 | [香港雞公嶺](https://taxodium.ink/hong-kong-kai-kung-leng.html) | 香港雞公嶺 🎵 你知道天空有多蓝 - 椅子乐团 The Chairs 上周二和女友去爬了香港 雞公嶺 ，之所以想去，是之前看到了一些別人拍的圖片，山頂大片的綠、天空大片的蓝，還有雪白得刺眼的 濃積雲 ，就像是宫崎駿動画裡的埸景，一直想去看看。要看到這樣的景色，得在夏天去才行，這時山上的草還是綠的，也… |
+| 2026-08-24 | [Memos 的那年今日和随机笔记](http://www.uncoverman.com/on-this-day-and-random-note-in-memos.html) | M emos 最初定位是一款笔记软件。对于笔记来说，怎么复现曾经有价值的笔记，激活沉淀的知识？在方法层面，除了标签、双链，就是 「那年今日」和「随机笔记」 。 最早用到「那年今日」功能是在 Day One 里自带的，Obsidian 里通过 DataView 也能实现。「随机笔记」则是 Obsidi… |
 | 2026-08-24 | [先把自己的水桶装满](https://blog.solazy.me/20260824/) | 今日随笔 |
 | 2026-08-24 | [PVE 超融合基础设施 - 3.PVE 配置分布式共享存储Ceph](https://songxwn.com/PVE-HCI-3/) | Ceph 简介 一、Ceph 核心组件在 PVE 中的角色 组件 作用 在 PVE 中的体现 MON 维护集群状态与一致性 PVE 节点可安装 MON，通常部署 3 个以上，保证仲裁；在 Web 界面可查看集群健康 OSD 存储对象数据并处理读写 每块硬盘对应一个 OSD；在 PVE 中通过 pve… |
 | 2026-08-24 | [R#116 决策劳动](https://blog.sakanano.moe/journals/random_116) | 2026.8.18 ~ 2026.8.24 |

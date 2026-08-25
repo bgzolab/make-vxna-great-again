@@ -49,6 +49,13 @@
     "source_root_domain": "taxodium.ink"
   },
   {
+    "title": "Memos 的那年今日和随机笔记",
+    "url": "http://www.uncoverman.com/on-this-day-and-random-note-in-memos.html",
+    "date": "2026-08-24T16:00:00Z",
+    "description": "M emos 最初定位是一款笔记软件。对于笔记来说，怎么复现曾经有价值的笔记，激活沉淀的知识？在方法层面，除了标签、双链，就是 「那年今日」和「随机笔记」 。 最早用到「那年今日」功能是在 Day One 里自带的，Obsidian 里通过 DataView 也能实现。「随机笔记」则是 Obsidian 自带的，我还在这个 idea 的基础上实现了 随机读书笔记 。 Memos 同样支持这两项功能。 # 那年今日 Memos 有一个捷径菜单，只要在捷径中加一行语句，就可以实现那年今日功能。 createdts.getMonth() == now.getMonth() && createdts.getDate() == now.getDate() 效果如下： <figure cl",
+    "source_root_domain": "uncoverman.com"
+  },
+  {
     "title": "先把自己的水桶装满",
     "url": "https://blog.solazy.me/20260824/",
     "date": "2026-08-24T15:00:00Z",
