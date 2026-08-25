@@ -1,0 +1,324 @@
+[
+  {
+    "title": "openApiGateway 跨域 403 问题",
+    "url": "https://199604.com/3661",
+    "date": "2026-08-24T23:07:06Z",
+    "description": "openApiGateway 跨域 403 问题 记录时间：2026-08-21 环境：测试环境 / open […]",
+    "source_root_domain": "199604.com"
+  },
+  {
+    "title": "2026 年七月 读基层生计，理财育儿 7 本",
+    "url": "https://conge.livingwithfcs.org/2026/08/24/reading_summary/",
+    "date": "2026-08-24T22:08:00Z",
+    "description": "引子 引子 七月的阅读，从马驹桥的日结工、深圳的保洁员、大街上的外卖员，到小区门口的保安，我读了几本关于基层生计的书，看见城市运转背后那些被忽视的人——他们像极了社会主义革命者所同情的资本主义社会的无保障的工人与贫民。社会主义中国运行了这么多年，底层问题是重新出现吗？这个问题，我在这些书里没有找到答案，但看见了问题本身。此外，还有理财与育儿的几本，关乎如何把日子过得更稳、更好。学好这些，应用到生活中，虽然不能解决什么社会问题，或许可以避免自己和后代成为问题的一部分吧。以下是这七本书的笔记。",
+    "source_root_domain": "livingwithfcs.org"
+  },
+  {
+    "title": "迷幻",
+    "url": "https://mobius.blog/25491.html",
+    "date": "2026-08-24T17:16:12Z",
+    "description": "现在是 00:49 分，睡觉要的药效已经持续了 15 分钟，我现在头部的每一个摇动，都可以把我狠狠砸在书桌上， […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。",
+    "source_root_domain": "onojyun.com"
+  },
+  {
+    "title": "香港雞公嶺",
+    "url": "https://taxodium.ink/hong-kong-kai-kung-leng.html",
+    "date": "2026-08-24T17:15:00Z",
+    "description": "香港雞公嶺 🎵 你知道天空有多蓝 - 椅子乐团 The Chairs 上周二和女友去爬了香港 雞公嶺 ，之所以想去，是之前看到了一些別人拍的圖片，山頂大片的綠、天空大片的蓝，還有雪白得刺眼的 濃積雲 ，就像是宫崎駿動画裡的埸景，一直想去看看。要看到這樣的景色，得在夏天去才行，這時山上的草還是綠的，也更容易看到大片的好看的濃積雲。 雞公嶺山上几乎沒有遮擋、沒有補給的地方、沒有厠所，所以要做好防晒中暑的準備，小紅書上看到的建議是人均携帯三升以上的水。我們出發前買了將近八升的水，一些運動飲料，一些礦泉水，還帯了相機、移動電源、音響、干粮、防晒霜、雨傘，負重還不少，所幸登山包有腰帯和胸帯可以將負重分攤在上半身，背了一天肩膀也沒有酸痛。如果天氣不那麼熱，可以少帯點水，我們下山時已經沒什麼太陽了，出汗少了，最後還剩了近兩升水。 我們是從深圳過去的，雞公嶺在香港元朗，离褔田口岸最近，大多數人也是從這個口岸過去的。過了口岸後，根據指示牌走到坐公交的地方，找到 75 路小巴士，坐到逢吉鄉就能到達雞公嶺附近了，車程大概二十多分鐘。 75 路小巴的價格現在是 11 港幣，車上沒看到刷乘車碼的地方，建議是出發",
+    "source_root_domain": "taxodium.ink"
+  },
+  {
+    "title": "PVE 超融合基础设施 - 3.PVE 配置分布式共享存储Ceph",
+    "url": "https://songxwn.com/PVE-HCI-3/",
+    "date": "2026-08-24T14:50:16Z",
+    "description": "Ceph 简介 一、Ceph 核心组件在 PVE 中的角色 组件 作用 在 PVE 中的体现 MON 维护集群状态与一致性 PVE 节点可安装 MON，通常部署 3 个以上，保证仲裁；在 Web 界面可查看集群健康 OSD 存储对象数据并处理读写 每块硬盘对应一个 OSD；在 PVE 中通过 pveceph osd create 或 Web 向导添加 MGR 提供监控与扩展模块 PVE 默认安装 MGR，支持 Prometheus/Grafana 集成，Web 界面有 Dashboard MDS 管理 CephFS 元数据 在 PVE 中可选安装，用于提供共享文件系统（CephFS） RGW 提供对象存储接口 (S3/Swift) 可在 PVE 节点上部署，提供对象存储服务 RADOS 底层分布式对象存储 PVE 的 VM 磁盘、容器卷最终都映射到 RADOS 对象 CRUSH 数据放置算法 PVE 中可通过 Web 界面或命令行修改 CRUSH Map，定义机架/节点分层策略 RBD 块设备接口 PVE 的虚拟机磁盘直接使用 RBD，支持快照、克隆 CephFS POSIX 文件系统",
+    "source_root_domain": "songxwn.com"
+  },
+  {
+    "title": "R#116 决策劳动",
+    "url": "https://blog.sakanano.moe/journals/random_116",
+    "date": "2026-08-24T14:00:00Z",
+    "description": "2026.8.18 ~ 2026.8.24",
+    "source_root_domain": "sakanano.moe"
+  },
+  {
+    "title": "PVE 超融合基础设施 - 2.PVE 配置集群",
+    "url": "https://songxwn.com/PVE-HCI-2/",
+    "date": "2026-08-24T13:50:16Z",
+    "description": "Proxmox VE 集群管理器 pvecm 是一款用于创建一组 物理服务器。这样的群称为 簇 。我们使用 Corosync 集群引擎 来实现可靠的群组 沟通。集群中没有明确的节点数量限制。 实际上，实际可能的节点数可能受主机和 网络表现。目前（2021年），有关于集群（使用 高端企业硬件）拥有超过50个节点在生产中。 PVECM可用于创建新集群，将节点连接到集群， 离开集群，获取状态信息，并做各种与集群相关的工作 任务。 P rox m o x c luster F ile S ystem（“pmxcfs”） 用于透明地将集群配置分发到所有集群 节点。 将节点分组到集群中有以下优势： 集中式、基于网络的管理 多主集群：每个节点可以完成所有管理任务 使用 pmxcfs，一种数据库驱动的文件系统，用于存储配置 文件，通过CoroSync在所有节点上实时复制 虚拟机和容器在物理间的便捷迁移 主持人 快速部署 集群范围的服务，如防火墙和HA",
+    "source_root_domain": "songxwn.com"
+  },
+  {
+    "title": "在浙大的走廊里，我看见了1947年的爷爷",
+    "url": "https://www.tortorse.com/archives/zhejiang-university-1947-grandfather/",
+    "date": "2026-08-24T13:39:00Z",
+    "description": "浙江大学老校区求是碑",
+    "source_root_domain": "tortorse.com"
+  },
+  {
+    "title": "小米好速度啊，这么快就推出 AI Cub",
+    "url": "https://versun.me/blog/tweet-2091872160088535157",
+    "date": "2026-08-24T12:56:02Z",
+    "description": "MarsDoge 整理了下芯片参数，供大家速览。 玄戒 O3： 3nm，10 核全大核 CPU，16 核 GPU，200 TOPS NPU，支持 LPDDR6，内存带宽 113.8 GB/s。 玄戒 O100： 6nm，14 核大模型 NPU，采用 3D DRAM 堆叠，内存带宽高达 1.22 TB/s，AI 推理最高约 330 Token/s。 玄戒 D100： 3nm，20 核 CPU + 16 核 NPU，最高 160GB 统一内存，可部署约 200B 参数模型。 小米好速度啊，这么快就推出 AI Cube 了，参数看起来还可以，只希望别到时候只能运行 mimo 模型😂，盲猜价格29999起",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "我刚注册2天，申请了一个活动，希望能喝到",
+    "url": "https://versun.me/blog/tweet-2091850786984849898",
+    "date": "2026-08-24T11:31:06Z",
+    "description": "ICSR Tutti Outbid Top No.1 这个是真能捞到钱的啊， 门槛最近也降低了。 https://tutti.so/join?ref=CLU8MB https://twitter.com/tuttihq/status/2091802270799454590 我刚注册2天，申请了一个活动，希望能喝到汤😂",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "跑步不香了",
+    "url": "https://hux.ink/posts/more-riding/",
+    "date": "2026-08-24T10:08:37Z",
+    "description": "进入 8 月份，天空终于舍得放晴，不再天天漏雨。买来吃灰的小折叠也终于有机会多出去遛遛。骑了几次 20～50 公里后，对比之前跑步，有了几点不同的感受。 首先是骑行更有趣。跑步通常就在家附近，固定的路线来回跑，比如布吉河、洪湖公园。有时担心回到家就不出门了，干脆下班直接跑回去，路上绕荔枝公园一圈，刚好 5 公里。我常跑的定格距离 5.20、7.11、10.24 或 13.14 公里，这些数字在固定路线上分别会停在何处，我都一清二楚。出发之前，终点就已经确定，目标感很明确，新鲜感自然也少了一些。 跑步时，注意力总在自己身上：配速掉没掉、心率有没有超、还剩几公里。骑车时则更多看向外面：这条路通向哪里，前面有没有没去过的公园，一路还能遇见不同的风景和人。两个小时跑不了多远，骑车却足以离开熟悉的生活半径，解锁一片新地图。 其次是骑行没那么累。我的跑步心率一直很高，抬腿就上 150，要是还想守住 6 分配，心率很快飙到 160 以上。嘴上说着和心率和解，跑起来还是忍不住跟配速暗暗较劲。骑车时大部分时间都在一区、二区，遇到上坡才会短暂抬升，累了就降踏频，实在踩不动还能下来推。跑步中途走起来，总觉得",
+    "source_root_domain": "hux.ink"
+  },
+  {
+    "title": "回国后我去香港开了银行和券商",
+    "url": "https://koukyo.site/posts/hk-investment-accounts-lower-fees/",
+    "date": "2026-08-24T09:11:23Z",
+    "description": "手续费看似不起眼，30年复利下来能吃掉你四分之一的财富。回国后我花一天时间去香港开了三家银行和两家券商，这篇聊聊为什么、怎么做、以及踩了哪些坑。",
+    "source_root_domain": "koukyo.site"
+  },
+  {
+    "title": "入蜀记 day454 第一颗白果掉落",
+    "url": "https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_454/",
+    "date": "2026-08-24T06:56:27Z",
+    "description": "「第一颗白果掉落。」",
+    "source_root_domain": "arlmy.me"
+  },
+  {
+    "title": "入蜀记 day453 冷雨",
+    "url": "https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_453/",
+    "date": "2026-08-24T06:54:27Z",
+    "description": "「冷雨。」",
+    "source_root_domain": "arlmy.me"
+  },
+  {
+    "title": "最近惦念 20260813",
+    "url": "https://z.arlmy.me/posts/TILs/thoughts/20260813_Recently/",
+    "date": "2026-08-24T06:49:27Z",
+    "description": "「一念荒唐的事情最有价值。」",
+    "source_root_domain": "arlmy.me"
+  },
+  {
+    "title": "翻译-文本模式的谎言：为什么现代 TUI 对无障碍性是一场噩梦",
+    "url": "https://blog.prayhand13013.top/20260824T125051--翻译-文本模式的谎言：为什么现代-tui-对无障碍性是一场噩梦__blog.html",
+    "date": "2026-08-24T04:50:00Z",
+    "description": "",
+    "source_root_domain": "tomoemami.github.io"
+  },
+  {
+    "title": "差一分就是差十分",
+    "url": "https://www.hecaitou.com/2026/08/missing-by-one-means-trailing-by-ten.html",
+    "date": "2026-08-24T03:55:03Z",
+    "description": "以百分制计算，如果考试成绩是 59 分，那么意味着其实和及格线有 10 分的整体差距。这不是什么个人暴论，而是我当年读书的时候学到的常识。 那时候老师和家长为了增加我们的焦虑，经常会给我们讲同一个案例，每次只是换人而已：谁家那小谁，在中考/高考的时候，差一分，就因为那一分而落榜了。当然，结论就是要努力学习，争取把那一分拿下。 不是所有老师都会讲这个故事，有些老谋深算的老师上课时闲话很少，下课也不愿和学生有太多往来，但是偶尔兴起，也会发表一些个人的真知灼见，比如说「就差一分」这种问题，以下是原音重放： 「嗤！就差一分？骗骗自己就算了，还以为别人也会相信？差什么一分，卷面上差的那一分，真要想拿到手，起码还要提升 10 分的水平。」 这句话怎么理解？差一分太过遗憾，很容易被归结为别的问题。比如说运气如果能好一点点，多得一分。再比如说如果稍微认真一点点，多拿一分。但事情不是这样理解的，如果说是运气问题，有可能多拿一分，那么为什么不可能再少拿三分五分呢？想让运气向着自己，运气就能向着自己，难道运气是自己家里养着的？ 如果说认真问题，在这里认真一点多拿一分，那么怎么确定不会在别处因为马虎和大意又掉",
+    "source_root_domain": "hecaitou.com"
+  },
+  {
+    "title": "今天我成功策反了我的老婆把手机换成安卓手",
+    "url": "https://versun.me/blog/tweet-2091723663380971541",
+    "date": "2026-08-24T03:05:58Z",
+    "description": "今天我成功策反了我的老婆把手机换成安卓手机了，她可是十几年的苹果用户， 我自己目前用的是一加13T，oppo 的 AI 功能做的真的很舒服 相比苹果，电池大，顺畅，空间大，还有适配国内的很多小细节，用起来真的非常舒服",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "荐《奥德赛》电影――十年苦难让奥德修斯更具人性",
+    "url": "https://tianheg.co/posts/odyssey-movie/",
+    "date": "2026-08-24T02:59:00Z",
+    "description": "《奥德赛》电影看完了，IMAX的大宽屏确实不错。 《奥德赛》原著作者并不确定，比较可信的说法是荷马和他同时代的人一同写就（参考：《奥德赛（张秋子导读版）》），讲述的是奥德修斯在特洛伊战争结束后十年漂泊异乡被众神阻挠不得返乡，经历重重磨难才最终返回故乡伊萨卡的故事。诺兰拍摄的电影按照原著进行了故事的讲述。",
+    "source_root_domain": "tianheg.co"
+  },
+  {
+    "title": "过度解读是不是读者拥有的绝对权力？I",
+    "url": "https://mobius.blog/25482.html",
+    "date": "2026-08-24T02:27:43Z",
+    "description": "本期的内容，本身可能也在过度解读喜欢过度解读的人群。 从过度解读到曼德拉效应 每次看到庵野秀明出面，解释自己并 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。",
+    "source_root_domain": "onojyun.com"
+  },
+  {
+    "title": "上庭（二）",
+    "url": "https://www.justzht.com/go-to-court-two/",
+    "date": "2026-08-24T02:20:49Z",
+    "description": "电话号码并不熟悉。J 盯着手机屏幕的呼入界面愣了一会，直到手机开始自动进入语音信箱。屏幕上开始一个字一",
+    "source_root_domain": "justzht.com"
+  },
+  {
+    "title": "自从换了 Mac mini 后，一直想念",
+    "url": "https://versun.me/blog/tweet-2091710430205083747",
+    "date": "2026-08-24T02:13:23Z",
+    "description": "自从换了 Mac mini 后，一直想念 macbook 的触控板，多指操作太顺滑了，单独买一个又太占地了（因为还有个鼠标） 突发奇想，能不能在键盘的键帽上添加触控，实现类似触控板的多指操作，有类似的产品吗，实现难度大不 @grok",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "Jenkins 推送成功但 Harbor 查无镜像——retention 误删新镜像与 GC 竞态的问题",
+    "url": "https://199604.com/3659",
+    "date": "2026-08-24T02:05:22Z",
+    "description": "Jenkins 推送成功但 Harbor 查无镜像——retention 误删新镜像与 GC 竞态的问题 记录 […]",
+    "source_root_domain": "199604.com"
+  },
+  {
+    "title": "交易员这行，到底在拼什么？",
+    "url": "https://blog.forecho.com/what-traders-really-compete-on-beyond-technical-analysis.html",
+    "date": "2026-08-24T02:00:00Z",
+    "description": "引言 最近在听一个付费课程，第一节课讲师没讲任何开单技巧，而是花了一整节课聊「交易员」这个职业本身。 很多人学交易，一上来就到处找指标、找各种高胜率形态，总觉得只要找到那本所谓的「圣经」或者「圣杯」就能赚钱。但现实是，技术分析在这行最多只占 40% 到 50%，剩下真正拉开差距的，全是技术之外的底层能力。 听完之后我觉得写得很有深度，顺便结合我自己的交易体会，把里面的核心逻辑整理记录一下。 为什么学了一堆技术，还是做不好交易？ 做交易和做长期投资完全是两码事。做投资看标的的内在价值，买完可以拿几周、几个月甚至几年；做交易尤其是日内交易，靠的是捕捉价格波动，杠杆高、主动操作频繁、每一笔都要算好风险，心理压力完全不是一个量级。 更残酷的是，这个职业有着极强的马太效应。市场上长期稳定盈利的人可能只有 3% 到 5%，剩下的全在亏损。 这就像当程序员：大家大学学的东西都差不多，学 C++、学 Java、看同样的语法文档，但为什么应届毕业有人能进大厂拿几十万，有人连工作都难找？ 知识和技巧只是入行的最低门槛。决定一个人上限的，是把知识融会贯通的能力、持续迭代的自驱力，以及处理复杂情况的软素质。 ",
+    "source_root_domain": "forecho.com"
+  },
+  {
+    "title": "ChatGPT 添加远程 MCP 插件报 403 问题解决",
+    "url": "https://versun.me/blog/chatgpt-mcp-403-cloudflare-bot-fight-mode",
+    "date": "2026-08-24T00:44:00Z",
+    "description": "记录一下在 ChatGPT 网页版添加 Knowledge Mem 插件时踩的坑，以及解决方法。 问题 按照 Knowledge Mem 官方文档，在 ChatGPT 中配置远程 MCP 时，一直报 403 错误： 排查过程 在 @yevazn 的帮助下定位到了原因：Cloudflare 拦截了请求。 在 Cloudflare 后台的 Security → Events...",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "大脑充血 Vol.95",
+    "url": "https://www.geedea.pro/weekly/95/",
+    "date": "2026-08-24T00:05:48Z",
+    "description": "读者早上好，这有可能是《大脑充血》最后一期名副其实的「周刊」。我这周在 联邦宇宙 上发了个投票，说我打算改月刊，想投票看看固定在什么时间点发刊合适。 结果有超过一半的人选了「不准改月刊」的选项，我真的好讨厌你们 。 主要的原因是，每周都要更新一次，其实占据了很多我本来就不多的写作时间。我最近在写一篇小说，还有其他不少的项目（包括要写的文章点子，准备写新的博客主题等等），但每次坐在自己的电脑前都想着，自己周刊还没写呢。说实话，这不太利于我的创作和心理健康，再加上我最近读的文章真的少了，有闲心都去读书了（虽然现在的读书进度也很慢了）。 总之，在结合了投票结果之后，我决定把《大脑充血》改成月刊，发刊日期是离每月 1 日最近的周一， 这样我就不用把页面路径的 weekly 改掉了，毕竟还是以周为单位 。除了固定发刊日，我还会考虑在其他时间随机掉落一些时效性更强的更新，就跟 Taxodium 的 Zine 类似。 不过，下周一（8 月 31 日）刚好就是离九月初最近的周一呢，所以还是会发布的。 吾仅悉落 Little Shop of Horror Alan Menken / Howard Ash",
+    "source_root_domain": "geedea.pro"
+  },
+  {
+    "title": "給博客添加純文本版本",
+    "url": "https://taxodium.ink/add-plain-text-version-to-blog.html",
+    "date": "2026-08-23T16:44:00Z",
+    "description": "給博客添加純文本版本 看了 wiwi 的 偷偷加入的功能 (另見 Zine#54 ) 我也給博客的文章添加了純文本版本，你可以在每篇文章的底部找到純文本版本的連結，也可以將頁面 URL 的 .html 換成 .txt 訪問純文本版本 (如果換成 .org 就能看到文章的原始文件) 。最近看到 Wiwi.Blog 純文字版 ，我也跟著做了一個 純文本版本的索引頁 。 純文本的好处是極簡，基本上就是文字，沒有其它干擾元素，其次是體積小，在網絡不好時也能較快的加載 (不過網絡條件不好，和服務器建立連結也需要時間，能節省的是頁面需要的流量) 。 製作純文本版本，只要將原始文件想辦法轉成 txt 版本就好了 (現在只是轉換成了 HTML) ，然後給所有的 txt 文件做一個索引頁 (建議掛載在 /txt 這個路徑下) ，基本上就够用了。 我的博客是用 org-publish 和 denote 構建的，接下來我會分享我是如何通過它們給博客添加純文本版本的，包擴： 將原始 org 文件轉換出一個 txt 版本 給每個頁面添加對應的純文本版本連結 製作索引頁 相關代碼可以在 init-org-publ",
+    "source_root_domain": "taxodium.ink"
+  },
+  {
+    "title": "业余频段的对讲机，不能再商业应用了",
+    "url": "https://blog.mfwt.top/index.php/archives/1550/",
+    "date": "2026-08-23T14:57:00Z",
+    "description": "几天前，泉州市无线电管理局发了一份工作动态的新闻稿，大概的意思是要『开展对讲机及相关设备全链条监管工作』。从原文看，里面列出了几条『刚性监管红线』，其中有一项，笔者非常在意，也是等了非常久的：严...",
+    "source_root_domain": "mfwt.top"
+  },
+  {
+    "title": "PVE 超融合基础设施 - 1.PVE 单机安装和初始化",
+    "url": "https://songxwn.com/PVE-HCI-1/",
+    "date": "2026-08-23T13:50:16Z",
+    "description": "PVE HCI简介 PVE HCI 简介 PVE（Proxmox Virtual Environment）是一款开源的虚拟化平台，支持 KVM 虚拟机与 LXC 容器。结合 Ceph 分布式存储方案+ SDN EVPN-VXLAN，PVE 可以构建完整的 HCI（Hyper-Converged Infrastructure，超融合架构）。 系统基于Debian构建，但系统内核基于Ubuntu二次开发。 核心特性 计算与存储融合 PVE 节点既运行虚拟机/容器，又承担存储服务，避免传统架构中计算与存储分离的复杂性。 分布式存储 借助 Ceph 或 ZFS，数据自动分布与冗余，支持块存储、文件系统和对象存储接口。 网络虚拟化 支持SDN：VLAN、QINIQ、VXLAN、EVPN等功能，可以进行二层/三层网络虚拟化。 网络安全组 支持每个虚拟机有独立的防火墙，并可以配置安全组统一管理。 高可用集群 内置 HA 管理器，虚拟机在节点故障时可自动迁移，保证业务连续性。支持类似DRS的虚拟机自动化负载均衡。 统一管理界面 Web 界面集中管理虚拟化、存储、网络与备份，简化运维。 开源与灵活性 无",
+    "source_root_domain": "songxwn.com"
+  },
+  {
+    "title": "骷髅编程",
+    "url": "https://www.geedea.pro/article/skeleton-programing/",
+    "date": "2026-08-23T12:27:43Z",
+    "description": "软件架构的工作，除了搞清楚应该设计多少、什么样的组件来实现需求，还应该考虑组件之间的依赖关系。SOLID 原则之一的「依赖反转原则」是指数据流向应该与依赖的方向相反，比方说，数据从后端流向前端，但后端不应该依赖前端，而是要让前端调用后端提供的接口。此外，组件之间有抽象和具体之分，核心业务逻辑就是高度抽象的，而数据库逻辑（用什么样的数据库、用什么 ORM、具体怎么实现）就是相当具体的，业务逻辑不应该依赖数据库逻辑，这怎么做到呢？ 比方说，我的业务逻辑是：不断接收某个源喂过来的数据，如果某条数据满足条件，就把它存在数据库里。如果我要编写这整个链路，难道不是要引用数据库组件吗？我怎么做到不直接依赖组件？ 接口和 vtable 接下来我将分别演示在 OOP 1 语言中和在函数式编程语言中，如何实现「不依赖数据库组件，但描述存储操作」。我使用的语言是 Go 和 Clojure，其中 Go 不是纯面向对象语言（缺少继承机制），Clojure 也不是纯函数式语言（但我也不会写 Haskell 啊），但用到的思想和语言特性是可迁移的。 接口是抽象的 接口定义其实比核心业务逻辑还要抽象，因为接口只定义了",
+    "source_root_domain": "geedea.pro"
+  },
+  {
+    "title": "周末流水账 0823",
+    "url": "https://blog.solazy.me/20260823/",
+    "date": "2026-08-23T12:00:00Z",
+    "description": "接着写流水账吧，最近没什么好的话题",
+    "source_root_domain": "solazy.me"
+  },
+  {
+    "title": "认真想了下，机械帝国最可能诞生在中国，因",
+    "url": "https://versun.me/blog/tweet-2091486413808386289",
+    "date": "2026-08-23T11:23:13Z",
+    "description": "李不凯正在研究 @VersunPan 我眼中的世界在无可避免的《骇客帝国》化 认真想了下，机械帝国最可能诞生在中国，因为人多，电多，各种金属多，网络也没什么安全可言，还有强大的防火墙，简直是沃土😂😂😂",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "永远的新裤子——新裤子30周年演唱会",
+    "url": "https://tianheg.co/posts/new-pants-30th-anniversary/",
+    "date": "2026-08-23T10:59:00Z",
+    "description": "新裤子乐队成立于1996年，是现今仍存世的历史最悠久的乐队之一。今年的演唱会是在纪念他们成立30周年。",
+    "source_root_domain": "tianheg.co"
+  },
+  {
+    "title": "在 Emacs 中用漢典查詢倉頡碼",
+    "url": "https://taxodium.ink/query-cangjie-codes-using-han-dian-in-emacs.html",
+    "date": "2026-08-23T10:00:00Z",
+    "description": "在 Emacs 中用漢典查詢倉頡碼 倉頡輸入法 我已經用了很長時間，通過強迫自己在日常中使用，現在日常打字已經沒什麼問題。我最近寫的文章都是用䌓體，是因為倉頡打繁體更容易，而且我也喜歡繁體字 (繁體字更容易反映字形，從而更好的理解一個字的含義) 。不過我的用法可能有點怪，現在用䌓體的更多是香港、澳門和臺灣的人，他們的用字有各自的習慣偏好，但由於我不了解，我大多時候只是將簡體字換成䌓體字，但我想閱讀起來應該也沒什麼問題。或許有的讀者閲讀䌓體會有點困難，我只能說聲抱歉了。 儘管常用字基本會打了，但還是會有一些字不知道怎麼打，有的字我不知道對應的繁體是什麼，這時我會用 漢典 去查。 我有兩種用法，一種是利用 Zen 瀏覧器的快捷查詢 (Shortcut)，我綁定在了 @h ，在我需要查一個字時，例如「倉」，我就在 Zen 瀏覧器的搜索框中輸入 @h 倉 就可以跳到漢典查詢。 图1 Zen 上的漢典 shortcut 配置截图。 另一個用法是在 Emacs 裡 (我用 Emacs 寫博客，在 Emacs 裡打字是最多的) ，我將漢典的連結寫進了 webjump 裡，webjump 的功能和 Z",
+    "source_root_domain": "taxodium.ink"
+  },
+  {
+    "title": "过马路小游戏 by Godot",
+    "url": "https://7gugu.com/index.php/2026/08/23/%e8%bf%87%e9%a9%ac%e8%b7%af%e5%b0%8f%e6%b8%b8%e6%88%8f/",
+    "date": "2026-08-23T09:09:27Z",
+    "description": "最近一直都在学习怎么用Godot做小游戏，根据教程做了第一个Demo出来，真的好有趣呀。 Godot也做了很多 … 继续阅读 “过马路小游戏 by Godot”",
+    "source_root_domain": "7gugu.com"
+  },
+  {
+    "title": "有孩子的看不得龙餐馆，刚看完，哭的稀里哗",
+    "url": "https://versun.me/blog/tweet-2091427183541789153",
+    "date": "2026-08-23T07:27:52Z",
+    "description": "有孩子的看不得龙餐馆，刚看完，哭的稀里哗啦的😭战争太残酷了",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "处暑说吃",
+    "url": "https://www.hecaitou.com/2026/08/eating-through-end-of-heat.html",
+    "date": "2026-08-23T04:25:38Z",
+    "description": "今天是农历七月十一，处暑。处暑的意思是到了这个时节暑气就开始消退，天气渐渐转凉。今年明显不是这样，命名处暑节气的时候并没有厄尔尼诺这个概念，反正是秋老虎的屁股摸不得。 和所有的节气一样，作为中国人我们应该主要讨论一下吃什么。 处暑应该吃龙眼，除了味道甜之外，据说是可以消暑补血。某些地方会用龙眼来配稀饭，我听说之后以为补血的那个「血」，指的是血糖。我喜欢龙眼多过荔枝，荔枝多少会带着一点点酸味，龙眼没有这回事，除了甜就只有甜。事实上，龙眼要比荔枝更甜，吃起来感觉更为淳朴，没有丝毫妖娆。除了太甜，唯一的缺点就是核太大。荔枝有改良品种，一口下去果汁四溅，果核只有葡萄干大小。龙眼到今天还是得用门牙刮，小遗憾而已。 龙眼多少还有点地域特色，北京现在的龙眼大部分都来自泰国，少部分国产。说到葡萄就不一样了，葡萄一年四季都有，到处都产，算是最常见的水果。不过到了处暑这会儿，应该是密集上市的时节。因为是应季，味道也最为浓郁。我是个懒人，最喜欢巨峰葡萄，剥一颗抵其他葡萄三颗。其次是新疆的小颗粒葡萄，因为洗完之后可以直接一把把薅下来直接吃，不需要考虑吐皮吐籽的问题。小时候我那么吃，父亲看到了就叹息：我怎么养出",
+    "source_root_domain": "hecaitou.com"
+  },
+  {
+    "title": "Toots 433 2026 Aug.16 - Aug.22",
+    "url": "https://z.arlmy.me/posts/MastodonArchives/2026/MastodonTootsArchives_20260822/",
+    "date": "2026-08-23T04:18:27Z",
+    "description": "「卖“屎”。」",
+    "source_root_domain": "arlmy.me"
+  },
+  {
+    "title": "入蜀记 day452 时差",
+    "url": "https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_452/",
+    "date": "2026-08-23T04:15:27Z",
+    "description": "「时差。」",
+    "source_root_domain": "arlmy.me"
+  },
+  {
+    "title": "入蜀记 day451 梦醒",
+    "url": "https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_451/",
+    "date": "2026-08-23T04:13:27Z",
+    "description": "「梦醒。」",
+    "source_root_domain": "arlmy.me"
+  },
+  {
+    "title": "Rust 中的 Sync 和 Send 理解",
+    "url": "https://www.less-bug.com/posts/sync-and-send-understanding-in-rust/",
+    "date": "2026-08-23T04:11:47Z",
+    "description": "本文纯手打，无 AI。 AI 现在越来越不说人话了。所以我又开始写博客了。 先说 Send，它的作用是 标记 一个 类型的任意实例 的 所有权 可以在 不同线程 之间转移。 这几个要点得展开说： 转移：由于线程各自有独立的栈，它几乎一定会产生浅拷贝（除了 ZST 等极端情况）。这个拷贝不只是语义层面，也是是物理意义上。所以它物理上需要经过 memcpy，并不是瞬间完成的。这个栈上实例可能关联拥有了堆内存值，后者是原封不动的（几乎所有情况）。 许多资料（包括官方）说这个转移是安全的，严格来说这种说法太绝对。所以我不喜欢加这个定语。 实际上，锁、原子指令、内存屏障之类的东西根本和 Send 关系不大。它的“保证”只是一个编译期的东西。更强的保证得让实现者自己实现。比如 mpsc 可能会上锁解锁（这个例子是我猜的，我不确定） 所以，它并不保证转移过程中并发写不产生数据竞争。不保证不发生 double free 等等（虽然几乎所有情况可以认为表现像是能保证） 如果从线程 A 的 stack var 转移到 线程 B 的 stack var，对于 C++ 的情况，会有个移动构造和函数，把 A 那",
+    "source_root_domain": "less-bug.com"
+  },
+  {
+    "title": "Kimi Code CLI 也开始受5小",
+    "url": "https://versun.me/blog/tweet-2091373362622902627",
+    "date": "2026-08-23T03:54:00Z",
+    "description": "Versun TIL：有用 Kimi 的注意了， Kimi Code CLI不受5小时的限制，直接用的周额度噢，亲测有效 Kimi Code CLI 也开始受5小时限制了。。。",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "我和 ChatGPT 聊了七十公里",
+    "url": "https://www.tortorse.com/archives/chatgpt-seventy-kilometers/",
+    "date": "2026-08-23T01:30:56Z",
+    "description": "蓝天下的高速公路",
+    "source_root_domain": "tortorse.com"
+  },
+  {
+    "title": "关于死本能",
+    "url": "https://mobius.blog/25474.html",
+    "date": "2026-08-23T01:30:00Z",
+    "description": "一般来说，每写四期就会觉得烦躁一下，所以这周的《莫比乌斯转到了哪里》就不聊这一周的事情。 在《写在 2026 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。",
+    "source_root_domain": "onojyun.com"
+  },
+  {
+    "title": "我把所有的ETF投资都转到了一个平台",
+    "url": "https://www.ozexplorers.com/%E6%8A%95%E8%B5%84%E7%90%86%E8%B4%A2/2026/08/23/chess-or-custodian-how-i-chose-an-etf-platform-in-australia.html",
+    "date": "2026-08-23T00:00:00Z",
+    "description": "又到了报税季，作为一个有着工资、存款和投资收入的澳洲牛马，我需要等待雇主、银行和ETF发行方挨个提供Tax Statement，才能填写并提交澳洲税务部门ATO的年度Tax Return表格。",
+    "source_root_domain": "ozexplorers.com"
+  },
+  {
+    "title": "Memos #2026-08-22",
+    "url": "https://www.taober.blog/memos/memo_20260821164550_kjm08c",
+    "date": "2026-08-23T00:00:00Z",
+    "description": "00:56 看了深夜档的《欢迎来龙餐馆》，质感很好，演技也没得说，尤其是用了厨子这个小人物的视角去讲故事。 这段时间就有意地不去刷相关信息，保留了今天的完整观影体验。 另外提升体验的一部分是开了一个小时的座椅按摩，享受。 附一张影院《牛来》海报。",
+    "source_root_domain": "taober.blog"
+  }
+]

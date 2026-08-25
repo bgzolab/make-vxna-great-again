@@ -27,12 +27,16 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-08-24 | [openApiGateway 跨域 403 问题](https://199604.com/3661) | openApiGateway 跨域 403 问题 记录时间：2026-08-21 环境：测试环境 / open […] |
+| 2026-08-24 | [2026 年七月 读基层生计，理财育儿 7 本](https://conge.livingwithfcs.org/2026/08/24/reading_summary/) | 引子 引子 七月的阅读，从马驹桥的日结工、深圳的保洁员、大街上的外卖员，到小区门口的保安，我读了几本关于基层生计的书，看见城市运转背后那些被忽视的人——他们像极了社会主义革命者所同情的资本主义社会的无保障的工人与贫民。社会主义中国运行了这么多年，底层问题是重新出现吗？这个问题，我在这些书里没有找到答… |
 | 2026-08-24 | [迷幻](https://mobius.blog/25491.html) | 现在是 00:49 分，睡觉要的药效已经持续了 15 分钟，我现在头部的每一个摇动，都可以把我狠狠砸在书桌上， […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-08-24 | [香港雞公嶺](https://taxodium.ink/hong-kong-kai-kung-leng.html) | 香港雞公嶺 🎵 你知道天空有多蓝 - 椅子乐团 The Chairs 上周二和女友去爬了香港 雞公嶺 ，之所以想去，是之前看到了一些別人拍的圖片，山頂大片的綠、天空大片的蓝，還有雪白得刺眼的 濃積雲 ，就像是宫崎駿動画裡的埸景，一直想去看看。要看到這樣的景色，得在夏天去才行，這時山上的草還是綠的，也… |
 | 2026-08-24 | [PVE 超融合基础设施 - 3.PVE 配置分布式共享存储Ceph](https://songxwn.com/PVE-HCI-3/) | Ceph 简介 一、Ceph 核心组件在 PVE 中的角色 组件 作用 在 PVE 中的体现 MON 维护集群状态与一致性 PVE 节点可安装 MON，通常部署 3 个以上，保证仲裁；在 Web 界面可查看集群健康 OSD 存储对象数据并处理读写 每块硬盘对应一个 OSD；在 PVE 中通过 pve… |
 | 2026-08-24 | [R#116 决策劳动](https://blog.sakanano.moe/journals/random_116) | 2026.8.18 ~ 2026.8.24 |
 | 2026-08-24 | [PVE 超融合基础设施 - 2.PVE 配置集群](https://songxwn.com/PVE-HCI-2/) | Proxmox VE 集群管理器 pvecm 是一款用于创建一组 物理服务器。这样的群称为 簇 。我们使用 Corosync 集群引擎 来实现可靠的群组 沟通。集群中没有明确的节点数量限制。 实际上，实际可能的节点数可能受主机和 网络表现。目前（2021年），有关于集群（使用 高端企业硬件）拥有超过… |
 | 2026-08-24 | [在浙大的走廊里，我看见了1947年的爷爷](https://www.tortorse.com/archives/zhejiang-university-1947-grandfather/) | 浙江大学老校区求是碑 |
+| 2026-08-24 | [小米好速度啊，这么快就推出 AI Cub](https://versun.me/blog/tweet-2091872160088535157) | MarsDoge 整理了下芯片参数，供大家速览。 玄戒 O3： 3nm，10 核全大核 CPU，16 核 GPU，200 TOPS NPU，支持 LPDDR6，内存带宽 113.8 GB/s。 玄戒 O100： 6nm，14 核大模型 NPU，采用 3D DRAM 堆叠，内存带宽高达 1.22 TB… |
+| 2026-08-24 | [我刚注册2天，申请了一个活动，希望能喝到](https://versun.me/blog/tweet-2091850786984849898) | ICSR Tutti Outbid Top No.1 这个是真能捞到钱的啊， 门槛最近也降低了。 https://tutti.so/join?ref=CLU8MB https://twitter.com/tuttihq/status/2091802270799454590 我刚注册2天，申请了一个活… |
 | 2026-08-24 | [跑步不香了](https://hux.ink/posts/more-riding/) | 进入 8 月份，天空终于舍得放晴，不再天天漏雨。买来吃灰的小折叠也终于有机会多出去遛遛。骑了几次 20～50 公里后，对比之前跑步，有了几点不同的感受。 首先是骑行更有趣。跑步通常就在家附近，固定的路线来回跑，比如布吉河、洪湖公园。有时担心回到家就不出门了，干脆下班直接跑回去，路上绕荔枝公园一圈，刚… |
 | 2026-08-24 | [回国后我去香港开了银行和券商](https://koukyo.site/posts/hk-investment-accounts-lower-fees/) | 手续费看似不起眼，30年复利下来能吃掉你四分之一的财富。回国后我花一天时间去香港开了三家银行和两家券商，这篇聊聊为什么、怎么做、以及踩了哪些坑。 |
 | 2026-08-24 | [入蜀记 day454 第一颗白果掉落](https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_454/) | 「第一颗白果掉落。」 |
@@ -40,9 +44,11 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-08-24 | [最近惦念 20260813](https://z.arlmy.me/posts/TILs/thoughts/20260813_Recently/) | 「一念荒唐的事情最有价值。」 |
 | 2026-08-24 | [翻译-文本模式的谎言：为什么现代 TUI 对无障碍性是一场噩梦](https://blog.prayhand13013.top/20260824T125051--翻译-文本模式的谎言：为什么现代-tui-对无障碍性是一场噩梦__blog.html) |  |
 | 2026-08-24 | [差一分就是差十分](https://www.hecaitou.com/2026/08/missing-by-one-means-trailing-by-ten.html) | 以百分制计算，如果考试成绩是 59 分，那么意味着其实和及格线有 10 分的整体差距。这不是什么个人暴论，而是我当年读书的时候学到的常识。 那时候老师和家长为了增加我们的焦虑，经常会给我们讲同一个案例，每次只是换人而已：谁家那小谁，在中考/高考的时候，差一分，就因为那一分而落榜了。当然，结论就是要努… |
+| 2026-08-24 | [今天我成功策反了我的老婆把手机换成安卓手](https://versun.me/blog/tweet-2091723663380971541) | 今天我成功策反了我的老婆把手机换成安卓手机了，她可是十几年的苹果用户， 我自己目前用的是一加13T，oppo 的 AI 功能做的真的很舒服 相比苹果，电池大，顺畅，空间大，还有适配国内的很多小细节，用起来真的非常舒服 |
 | 2026-08-24 | [荐《奥德赛》电影――十年苦难让奥德修斯更具人性](https://tianheg.co/posts/odyssey-movie/) | 《奥德赛》电影看完了，IMAX的大宽屏确实不错。 《奥德赛》原著作者并不确定，比较可信的说法是荷马和他同时代的人一同写就（参考：《奥德赛（张秋子导读版）》），讲述的是奥德修斯在特洛伊战争结束后十年漂泊异乡被众神阻挠不得返乡，经历重重磨难才最终返回故乡伊萨卡的故事。诺兰拍摄的电影按照原著进行了故事的讲… |
 | 2026-08-24 | [过度解读是不是读者拥有的绝对权力？I](https://mobius.blog/25482.html) | 本期的内容，本身可能也在过度解读喜欢过度解读的人群。 从过度解读到曼德拉效应 每次看到庵野秀明出面，解释自己并 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-08-24 | [上庭（二）](https://www.justzht.com/go-to-court-two/) | 电话号码并不熟悉。J 盯着手机屏幕的呼入界面愣了一会，直到手机开始自动进入语音信箱。屏幕上开始一个字一 |
+| 2026-08-24 | [自从换了 Mac mini 后，一直想念](https://versun.me/blog/tweet-2091710430205083747) | 自从换了 Mac mini 后，一直想念 macbook 的触控板，多指操作太顺滑了，单独买一个又太占地了（因为还有个鼠标） 突发奇想，能不能在键盘的键帽上添加触控，实现类似触控板的多指操作，有类似的产品吗，实现难度大不 @grok |
 | 2026-08-24 | [Jenkins 推送成功但 Harbor 查无镜像——retention 误删新镜像与 GC 竞态的问题](https://199604.com/3659) | Jenkins 推送成功但 Harbor 查无镜像——retention 误删新镜像与 GC 竞态的问题 记录 […] |
 | 2026-08-24 | [交易员这行，到底在拼什么？](https://blog.forecho.com/what-traders-really-compete-on-beyond-technical-analysis.html) | 引言 最近在听一个付费课程，第一节课讲师没讲任何开单技巧，而是花了一整节课聊「交易员」这个职业本身。 很多人学交易，一上来就到处找指标、找各种高胜率形态，总觉得只要找到那本所谓的「圣经」或者「圣杯」就能赚钱。但现实是，技术分析在这行最多只占 40% 到 50%，剩下真正拉开差距的，全是技术之外的底层… |
 | 2026-08-24 | [ChatGPT 添加远程 MCP 插件报 403 问题解决](https://versun.me/blog/chatgpt-mcp-403-cloudflare-bot-fight-mode) | 记录一下在 ChatGPT 网页版添加 Knowledge Mem 插件时踩的坑，以及解决方法。 问题 按照 Knowledge Mem 官方文档，在 ChatGPT 中配置远程 MCP 时，一直报 403 错误： 排查过程 在 @yevazn 的帮助下定位到了原因：Cloudflare 拦截了请求… |
@@ -232,23 +238,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-08-18 | [我玩了一下Polymarket预测市场](https://www.cheshirex.com/10904.html) | 昨晚逛推特看到有人在说Polymarket的空投，想了下之前了解到Polymarket是在去年了，但是没有上手 […] |
 | 2026-08-18 | [门缝](https://mobius.blog/25423.html) | 夏天的咖啡厅，露台门被打开了一条门缝，是因为上一个进入的人并没有完整闭合好玻璃门，于是这个门缝开始往室内涌进大 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-08-18 | [记录下 Kimi 699 套餐 7 天的](https://versun.me/blog/tweet-2089514949106335946) | 记录下 Kimi 699 套餐 7 天的额度，大概在 1.5B token |
-| 2026-08-17 | [Unreal updated](https://macsourceports.com/game/unreal) | The build of Unreal has been updated to version v227k_15 of the project |
-| 2026-08-17 | [Splatterlight updated](https://macsourceports.com/sourceport/spatterlight) | The build of Splatterlight for the Infocom series of games has been updated to version v1.5.4 of the project\n\nhttps://macsourceports.com/sourceport/… |
-| 2026-08-17 | [李白写"汉家陵阙"时，那些早塌了，只剩这几座...](https://macin.org/2026/08/17/qu-xian-han-que/) | 阅读全文 → 有些地方，是专门用来唤醒前世的。 |
-| 2026-08-17 | [你敢信，一个 27B 的qwen 3.8](https://versun.me/blog/tweet-2089475382915613085) | 引用 Artificial Analysis Intelligence Index puts Qwen3.8-27B at DeepSeek V4-Pro and GPT 5.6 Luna performance. This is the first time a local model has s… |
-| 2026-08-17 | [R#115 RAS!](https://blog.sakanano.moe/journals/random_115) | 2026.8.11 ~ 2026.8.17 |
-| 2026-08-17 | [有些事情没有答案，只有选择](https://blog.solazy.me/20260817/) | 选择，可能未必都需要经过计算 |
-| 2026-08-17 | [已将我的 Nowledge mem 模型](https://versun.me/blog/tweet-2089350427506889110) | 已将我的 Nowledge mem 模型改为 qwen3.8-27b ，虽然慢了点，先用几天看看情况 |
-| 2026-08-17 | [遛猫](https://mobius.blog/25433.html) | 楼下遇到一个遛猫的小女孩，因为用绳子勒着猫的脖子，有大人教育她别伤害猫。小女孩指了指我牵着的狗，说：我的猫比狗 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
-| 2026-08-17 | [观《老式喜剧》后记](https://www.ixiqin.com/2026/08/17/afterword-to-old-style-comedy/) | 因为小学背过《雷雨》，演过《雷雨》，我对于人艺就很好奇。后面从深圳去北京工作，有了机会，我就曽和太太一起去人艺看了《蔡文姬》，后面种种原因，就一直没看；那一场有杨立新和濮存晰，还挺好的，不过 … |
-| 2026-08-17 | [我也申请了，了无音讯](https://versun.me/blog/tweet-2089290159728812135) | 引用 Kimi 全球大使计划有人进去了吗？ 我也申请了，了无音讯 |
-| 2026-08-17 | [我有点看不明白了， 为啥好多人要花900](https://versun.me/blog/tweet-2089287218158531030) | 我有点看不明白了， 为啥好多人要花900刀买年费的 grok heavy，就因为原价是3000刀吗？ AI 时代，年费，900刀！ 我实在想不明白🤣 |
-| 2026-08-17 | [哇咔财务管家，正式上架 Apple Store 啦](https://blog.ops-coffee.com/fire/wakaka-finance-app-listed-app-store.html) |  |
-| 2026-08-17 | [牛来了坐在爱因斯坦的小板凳上](https://www.hecaitou.com/2026/08/the-cow-on-einsteins-little-bench.html) | 这个周末每天都有读者在留言区堵着问我：你看《牛来》了吗？你怎么看《牛来》？但我根本不想看啊！ 因为我的两个朋友为了争论《牛来》究竟是失败垃圾还是电影艺术创新，天天在群里吵架，每次点开都是黑压压几大屏幕的辩词，你来我往，没完没了，感觉是我在微信群里上某个成员全是杠王的 BBS，看得我头痛欲裂。 不至于… |
-| 2026-08-17 | [牛来](https://yipai.me/post/2547.html) | 周末去看了《奥德赛》，感觉还行吧。就是时间有点太长了，九点开始，十一点半都过了才结束。看完回去再查下资料，了解下奥德赛原本的故事脉络，就凌晨一点了。同期上映的还有《牛来》。有人很反感这部《牛来》，在没人去看的时候，认为是粗制滥造，怎么审核通过的？票房起来之后，又认为是资本的操控。我倒是觉得挺正常的，… |
-| 2026-08-17 | [让 Agent 调用网页版 5.6 Sol](https://shiquda.link/agent-call-chatgpt-web-5.6-sol/) | 分享一套让所有 Agent 免费「调用」5.6 Sol 的省额度方法 ，适合拥有自己的付费 ChatGPT 账户的朋友。 我们知道 ChatGPT 网页端进行对话时，是不消耗 Codex 的额度的。我们经常在网页上让 ChatGPT 去帮我们做网络检索、深度思考等工作，然后可能把它给出的方案再转发给… |
-| 2026-08-17 | [过剩信息，剥夺我](https://mobius.blog/25416.html) | 这个标题没有实际意义，纯粹是因为我从坐着的这个视角看过去，有一个上班族刚好打开自己的笔记本电脑，而这句话是贴在 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
-| 2026-08-17 | [为啥最近 DHH 的 Omarchy 又](https://versun.me/blog/tweet-2089152283871428676) | 引用 看了DHH在Rails World上的演讲，真是开发者的嘴替，部署的复杂性、云端测试缓慢、本地开发问题、omarchi安装器、rails 8.1各种新功能、还有边缘计算，一个客户一个数据库等等。。。一个小时的演讲我竟然看完了。。。。 不得不说，牛逼的人确实有牛逼之处 为啥最近 DHH 的 Om… |
 
 ## Vibe Coding
 
