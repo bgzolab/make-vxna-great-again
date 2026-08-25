@@ -14,6 +14,13 @@
     "source_root_domain": "kawabangga.com"
   },
   {
+    "title": "AutoUninstaller导致的Installer拒绝访问",
+    "url": "https://foglog.cn/p/auto-uninstaller-fix",
+    "date": "2026-08-25T15:00:00Z",
+    "description": "安装应用时，Installer 提示「拒绝访问」。出问题的是系统 Installer 注册表路径，Auto Uninstaller 运行时通过 regini 命令将该路径下的注册表项权限修改为 ...",
+    "source_root_domain": "foglog.cn"
+  },
+  {
     "title": "当第一个Claude被授予了菩萨戒",
     "url": "https://www.hecaitou.com/2026/08/when-the-first-claude-was-bestowed-the-bodhisattva-vows.html",
     "date": "2026-08-25T09:32:50Z",

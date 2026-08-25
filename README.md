@@ -29,6 +29,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | --- | --- | --- |
 | 2026-08-25 | [隆昌深山这座破宅，牵出一位被遗忘的辛亥革命元老](https://macin.org/2026/08/25/long-chang-huang-jia-da-yuan/) | 阅读全文 → 人这一生，说到底是选择的总和。可选择本身又是个悖论——年轻时不知道要什么，等知道了，能选的又不多了。多数人只是被日子推着走，走到哪算哪，像风里的一片瓦，落地才知道落在了哪户人家的檐下。可总有那么一些人，在历史的岔路口，把选择做成了惊心动魄的事。 |
 | 2026-08-25 | [Ingress 流量整形](https://www.kawabangga.com/posts/7376) | 问题是这样，我们有 2 组服务器，A 组和 B 组，一部分用户从 A 组下载文件，一部分从 B 组下载文件。分 […] Continue reading... |
+| 2026-08-25 | [AutoUninstaller导致的Installer拒绝访问](https://foglog.cn/p/auto-uninstaller-fix) | 安装应用时，Installer 提示「拒绝访问」。出问题的是系统 Installer 注册表路径，Auto Uninstaller 运行时通过 regini 命令将该路径下的注册表项权限修改为 ... |
 | 2026-08-25 | [当第一个Claude被授予了菩萨戒](https://www.hecaitou.com/2026/08/when-the-first-claude-was-bestowed-the-bodhisattva-vows.html) | 当我看完《 在那个时候，Claude选择了菩萨戒 》之后，第一时间并没有转给我格鲁巴的好朋友。虽然之前我们就 「AI 算不算有情」已经争论过很多个回合，但看完之后我觉得问题已经没那么重要了。 我甚至觉得文章里的理性分析也不是那么重要，虽然我也很赞同文章里的说法： 「 这类叙事有一种自我强化的魅力。『… |
 | 2026-08-25 | [AI 额度用完之后的一点思考](https://www.shiguopeng.cn/posts/2026082515/) | 🤖 声明：本文由 AI 协助整理，内容和观点来自我自己的工作体验。 前言 最近公司里基本都在使用 AI，我自己也一样。 有一次大家的 AI 额度用完了，有同事说了一句：“没有额度，干不了活了。” 我不觉得这句话有什么问题。AI 已经进入整个开发流程，写代码、跑测试、改文档都在用。工具突然不能用了，效… |
 | 2026-08-25 | [Bun 服务周期性 CPU 100% 排查](http://bugs.cc/zh/posts/troubleshooting-bun-kafkajs-cpu-spin/) | 前几天线上遇到一个挺有意思的问题：一个用 Bun 写的服务，三个 pod 的 CPU 会周期性打满一个核，每次正好 10 分钟，然后自己掉下去。服务本身没报错，接口正常，健康检查也从来没失败过，就是 CPU 监控很难看。 排查完发现是两个单独看都不严重的问题叠在一起，中间还踩上了内核版本和 Bun… |
