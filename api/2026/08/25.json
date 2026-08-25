@@ -7,6 +7,20 @@
     "source_root_domain": "macin.org"
   },
   {
+    "title": "New Release: Warcraft II: Tides of Darkness",
+    "url": "https://macsourceports.com/game/wc2",
+    "date": "2026-08-25T16:37:09Z",
+    "description": "Long before the franchise became known for the MMO, the Warcraft series started out as a series of real-time strategy games. The original game was a hit, following the conventions of the…",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "Quetoo updated",
+    "url": "https://macsourceports.com/game/quetoo",
+    "date": "2026-08-25T15:28:53Z",
+    "description": "The build of Quetoo has been updated to version v1.0.82 of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
     "title": "Ingress 流量整形",
     "url": "https://www.kawabangga.com/posts/7376",
     "date": "2026-08-25T15:03:00Z",
@@ -19,6 +33,13 @@
     "date": "2026-08-25T15:00:00Z",
     "description": "安装应用时，Installer 提示「拒绝访问」。出问题的是系统 Installer 注册表路径，Auto Uninstaller 运行时通过 regini 命令将该路径下的注册表项权限修改为 ...",
     "source_root_domain": "foglog.cn"
+  },
+  {
+    "title": "Plants vs. Zombies updated",
+    "url": "https://macsourceports.com/game/pvz",
+    "date": "2026-08-25T14:54:35Z",
+    "description": "The build of PvZ Portable for Plants vs. Zombies has been updated to version 0.2.2 of the project",
+    "source_root_domain": "macsourceports.com"
   },
   {
     "title": "当第一个Claude被授予了菩萨戒",
@@ -82,6 +103,20 @@
     "date": "2026-08-24T22:08:00Z",
     "description": "引子 引子 七月的阅读，从马驹桥的日结工、深圳的保洁员、大街上的外卖员，到小区门口的保安，我读了几本关于基层生计的书，看见城市运转背后那些被忽视的人——他们像极了社会主义革命者所同情的资本主义社会的无保障的工人与贫民。社会主义中国运行了这么多年，底层问题是重新出现吗？这个问题，我在这些书里没有找到答案，但看见了问题本身。此外，还有理财与育儿的几本，关乎如何把日子过得更稳、更好。学好这些，应用到生活中，虽然不能解决什么社会问题，或许可以避免自己和后代成为问题的一部分吧。以下是这七本书的笔记。",
     "source_root_domain": "livingwithfcs.org"
+  },
+  {
+    "title": "No One Lives Forever 2: A Spy in H.A.R.M.'s Way updated",
+    "url": "https://macsourceports.com/game/nolf2",
+    "date": "2026-08-24T21:39:08Z",
+    "description": "The build of NOLF2 for Mac for No One Lives Forever 2: A Spy in H.A.R.M.'s Way has been updated to version 0.4.1 of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "Jazz Jackrabbit 2 updated",
+    "url": "https://macsourceports.com/game/jazzjackrabbit2",
+    "date": "2026-08-24T21:38:51Z",
+    "description": "The build of Jazz² Resurrection for Jazz Jackrabbit 2 has been updated to version 3.8.0 of the project",
+    "source_root_domain": "macsourceports.com"
   },
   {
     "title": "迷幻",

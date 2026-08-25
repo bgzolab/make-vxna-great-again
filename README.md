@@ -28,8 +28,11 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | Date | Title | Summary |
 | --- | --- | --- |
 | 2026-08-25 | [隆昌深山这座破宅，牵出一位被遗忘的辛亥革命元老](https://macin.org/2026/08/25/long-chang-huang-jia-da-yuan/) | 阅读全文 → 人这一生，说到底是选择的总和。可选择本身又是个悖论——年轻时不知道要什么，等知道了，能选的又不多了。多数人只是被日子推着走，走到哪算哪，像风里的一片瓦，落地才知道落在了哪户人家的檐下。可总有那么一些人，在历史的岔路口，把选择做成了惊心动魄的事。 |
+| 2026-08-25 | [New Release: Warcraft II: Tides of Darkness](https://macsourceports.com/game/wc2) | Long before the franchise became known for the MMO, the Warcraft series started out as a series of real-time strategy games. The original game was a h… |
+| 2026-08-25 | [Quetoo updated](https://macsourceports.com/game/quetoo) | The build of Quetoo has been updated to version v1.0.82 of the project |
 | 2026-08-25 | [Ingress 流量整形](https://www.kawabangga.com/posts/7376) | 问题是这样，我们有 2 组服务器，A 组和 B 组，一部分用户从 A 组下载文件，一部分从 B 组下载文件。分 […] Continue reading... |
 | 2026-08-25 | [AutoUninstaller导致的Installer拒绝访问](https://foglog.cn/p/auto-uninstaller-fix) | 安装应用时，Installer 提示「拒绝访问」。出问题的是系统 Installer 注册表路径，Auto Uninstaller 运行时通过 regini 命令将该路径下的注册表项权限修改为 ... |
+| 2026-08-25 | [Plants vs. Zombies updated](https://macsourceports.com/game/pvz) | The build of PvZ Portable for Plants vs. Zombies has been updated to version 0.2.2 of the project |
 | 2026-08-25 | [当第一个Claude被授予了菩萨戒](https://www.hecaitou.com/2026/08/when-the-first-claude-was-bestowed-the-bodhisattva-vows.html) | 当我看完《 在那个时候，Claude选择了菩萨戒 》之后，第一时间并没有转给我格鲁巴的好朋友。虽然之前我们就 「AI 算不算有情」已经争论过很多个回合，但看完之后我觉得问题已经没那么重要了。 我甚至觉得文章里的理性分析也不是那么重要，虽然我也很赞同文章里的说法： 「 这类叙事有一种自我强化的魅力。『… |
 | 2026-08-25 | [AI 额度用完之后的一点思考](https://www.shiguopeng.cn/posts/2026082515/) | 🤖 声明：本文由 AI 协助整理，内容和观点来自我自己的工作体验。 前言 最近公司里基本都在使用 AI，我自己也一样。 有一次大家的 AI 额度用完了，有同事说了一句：“没有额度，干不了活了。” 我不觉得这句话有什么问题。AI 已经进入整个开发流程，写代码、跑测试、改文档都在用。工具突然不能用了，效… |
 | 2026-08-25 | [Bun 服务周期性 CPU 100% 排查](http://bugs.cc/zh/posts/troubleshooting-bun-kafkajs-cpu-spin/) | 前几天线上遇到一个挺有意思的问题：一个用 Bun 写的服务，三个 pod 的 CPU 会周期性打满一个核，每次正好 10 分钟，然后自己掉下去。服务本身没报错，接口正常，健康检查也从来没失败过，就是 CPU 监控很难看。 排查完发现是两个单独看都不严重的问题叠在一起，中间还踩上了内核版本和 Bun… |
@@ -39,6 +42,8 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-08-25 | [过度解读是不是读者拥有的绝对权力？II](https://mobius.blog/25500.html) | 继续昨天的话题。 在此之前，先聊一个有趣的话题：如果在小红书这样的社交平台分别搜索《奥德赛》和《龙餐馆》，很快 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-08-24 | [openApiGateway 跨域 403 问题](https://199604.com/3661) | openApiGateway 跨域 403 问题 记录时间：2026-08-21 环境：测试环境 / open […] |
 | 2026-08-24 | [2026 年七月 读基层生计，理财育儿 7 本](https://conge.livingwithfcs.org/2026/08/24/reading_summary/) | 引子 引子 七月的阅读，从马驹桥的日结工、深圳的保洁员、大街上的外卖员，到小区门口的保安，我读了几本关于基层生计的书，看见城市运转背后那些被忽视的人——他们像极了社会主义革命者所同情的资本主义社会的无保障的工人与贫民。社会主义中国运行了这么多年，底层问题是重新出现吗？这个问题，我在这些书里没有找到答… |
+| 2026-08-24 | [No One Lives Forever 2: A Spy in H.A.R.M.'s Way updated](https://macsourceports.com/game/nolf2) | The build of NOLF2 for Mac for No One Lives Forever 2: A Spy in H.A.R.M.'s Way has been updated to version 0.4.1 of the project |
+| 2026-08-24 | [Jazz Jackrabbit 2 updated](https://macsourceports.com/game/jazzjackrabbit2) | The build of Jazz² Resurrection for Jazz Jackrabbit 2 has been updated to version 3.8.0 of the project |
 | 2026-08-24 | [迷幻](https://mobius.blog/25491.html) | 现在是 00:49 分，睡觉要的药效已经持续了 15 分钟，我现在头部的每一个摇动，都可以把我狠狠砸在书桌上， […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-08-24 | [香港雞公嶺](https://taxodium.ink/hong-kong-kai-kung-leng.html) | 香港雞公嶺 🎵 你知道天空有多蓝 - 椅子乐团 The Chairs 上周二和女友去爬了香港 雞公嶺 ，之所以想去，是之前看到了一些別人拍的圖片，山頂大片的綠、天空大片的蓝，還有雪白得刺眼的 濃積雲 ，就像是宫崎駿動画裡的埸景，一直想去看看。要看到這樣的景色，得在夏天去才行，這時山上的草還是綠的，也… |
 | 2026-08-24 | [Memos 的那年今日和随机笔记](http://www.uncoverman.com/on-this-day-and-random-note-in-memos.html) | M emos 最初定位是一款笔记软件。对于笔记来说，怎么复现曾经有价值的笔记，激活沉淀的知识？在方法层面，除了标签、双链，就是 「那年今日」和「随机笔记」 。 最早用到「那年今日」功能是在 Day One 里自带的，Obsidian 里通过 DataView 也能实现。「随机笔记」则是 Obsidi… |
@@ -134,10 +139,8 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-08-20 | [最近惦念 20260727](https://z.arlmy.me/posts/TILs/thoughts/20260727_Recently/) | 「多用“似乎是的”，虚化掉一切试试看。」 |
 | 2026-08-20 | [LangBot 接入Netbox 配置查询机器人](https://songxwn.com/LangBot-Netbox-Tutorial/) | 前言 本教程用于使用LangBot，配置机器人、LLM接入、流水线、MCP接入等。 最终目的为在即时通信平台接入AI机器人，查询NetBox数据。并通过提示词整形和约束查询数据。 |
 | 2026-08-20 | [LangBot配置教程](https://songxwn.com/LangBot-Tutorial/) | 前言 本教程用于使用LangBot，配置机器人、LLM接入、流水线、MCP接入等。 |
-| 2026-08-20 | [New Release: No One Lives Forever 2: A Spy in H.A.R.M.'s Way](https://macsourceports.com/game/nolf2) | I may have overused the term Cult Classic on this site, but this game goes one step further: it's one of gaming's Holy Grails. No One Lives Forever 2:… |
 | 2026-08-20 | [emacs-在龙芯UOS20旧世界设备上编译最新Emacs等软件](https://blog.prayhand13013.top/20260820T110123--emacs-在龙芯uos20旧世界设备上编译最新emacs等软件__blog.html) |  |
 | 2026-08-20 | [Wolfenstein: Enemy Territory updated](https://macsourceports.com/game/wolfet) | The build of ET: Legacy for Wolfenstein: Enemy Territory has been updated to version 2.85.0 of the project |
-| 2026-08-20 | [Quetoo updated](https://macsourceports.com/game/quetoo) | The build of Quetoo has been updated to version v1.0.79 of the project |
 | 2026-08-20 | [Google Gemini AI Pro 又来了，可领取1年Pro套餐会员](https://www.cheshirex.com/10951.html) | Google Gemini AI Pro 又来了，上次领过的这次打开页面地址可以直接领。 领取地址 https […] |
 | 2026-08-20 | [gzsw-ui 生产白屏排查：CDN 将 SPA 兜底 HTML 缓存为 JS](https://199604.com/3652) | gzsw-ui 生产白屏排查：CDN 将 SPA 兜底 HTML 缓存为 JS 记录时间：2026-08-20 […] |
 | 2026-08-20 | [独树不成林，牛来人来疯](https://mobius.blog/25443.html) | 我们先猜一猜《牛来》的受众是哪些人？ 这里先埋个包袱——大概过几年，可能又会有人把这部电影翻出来，标题我都帮他 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
