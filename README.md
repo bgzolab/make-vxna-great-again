@@ -27,7 +27,9 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
-| 2026-08-26 | [Rack-auto 裸金属服务器自动化工具](https://songxwn.com/Rack-auto/) | 把机房里的服务器从「按开机键、插 U 盘」变成「网页里点一下」。控制面跑在 Linux 上，待装机机器 PXE 启动：Linux 走内存里的Linux RAMOS，Windows Server 走 WinPE。 官方仓库： Songxwn/Rack-auto · 下载 Release |
+| 2026-08-26 | [《欢迎来到龙餐馆》美国眼泪、儿童炸弹，和那盘不走心的中国菜](https://blog.mzh.ren/zh/posts/2026/08/once-upon-a-time-in-the-middle-east/) | 2026 年，电影市场已经是日薄西山了，但还是爆发不少有争议的电影。比如，既有叫好又叫座、有情又有义的《给阿嬷的情书》；也有“走个面”的《抓特务》；还有炒冷饭都能失手的《功夫女足》；以及击穿电影工业下限的《牛来》。当然，我觉得其中最最离谱的是这两部： |
+| 2026-08-26 | [中元节随笔](https://blog.mfwt.top/index.php/archives/1556/) | 农历七月十四，中元节。有人可能要说了，这站长迷糊了，中元节不是七月十五么？其实在华南地区，至少在广东，至少在我们这，中元节是习惯放在七月十四过的。这恐怕又是历史上的某一个事件导致的，不去深究它，... |
+| 2026-08-26 | [Rack-auto 裸金属服务器自动化工具](https://songxwn.com/Rack-auto/) | 简介 把机房里的服务器从「按开机键、插 U 盘」变成「网页里点一下」。 支持主流Linux和Windows Server自动化装机 可自动化安装系统、密码/密钥、分区、网卡配置等。 Windows Server 19-25支持自动KMS激活。 支持Linux 发行版有Debian 11-13、Ubu… |
 | 2026-08-26 | [横版闯关小游戏 by Godot](https://7gugu.com/index.php/2026/08/26/%e6%a8%aa%e7%89%88%e9%97%af%e5%85%b3%e5%b0%8f%e6%b8%b8%e6%88%8f-by-godot/) | 继续学习制作Godot小游戏 瓦片编辑器真的好方便可以随便就能选中自己需要的素材，但是这个素材绘制不知道自己要 … 继续阅读 “横版闯关小游戏 by Godot” |
 | 2026-08-26 | [如何选择 DeepSeekHarnes / Claude Code/Codex/ Pi](https://www.ixiqin.com/2026/08/26/how-to-choose-depseekharnes-claude-code-codex-pi/) | 文章将 Agent 工具分为 Coding Agent 产品、Agent SDK 和 Agent Framework，建议先根据使用目的选择类别，再比较具体工具。Coding Agent 的选择取决于预算、模型偏好、自定义需求以及是否想尝试递归自进化 … |
 | 2026-08-26 | [入蜀记 day457 桂花香！](https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_457/) | 「桂花香！」 |
@@ -39,6 +41,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-08-25 | [😂可以预见，接下来会有一堆帖子是关于在o](https://versun.me/blog/tweet-2092401155716575463) | Ding 升级到 @OmarchyLinux 4.0.1 之后。。。 不知道是不是 Chrome 最新版还是系统的问题，解决方法：在 Chrome 设置里面关掉硬件加速。 😂可以预见，接下来会有一堆帖子是关于在omarchy下折腾输入法, 语音输入法，驱动，桌面，音乐播放器，视频播放器等等的教程出现 |
 | 2026-08-25 | [隆昌深山这座破宅，牵出一位被遗忘的辛亥革命元老](https://macin.org/2026/08/25/long-chang-huang-jia-da-yuan/) | 阅读全文 → 人这一生，说到底是选择的总和。可选择本身又是个悖论——年轻时不知道要什么，等知道了，能选的又不多了。多数人只是被日子推着走，走到哪算哪，像风里的一片瓦，落地才知道落在了哪户人家的檐下。可总有那么一些人，在历史的岔路口，把选择做成了惊心动魄的事。 |
 | 2026-08-25 | [New Release: Warcraft II: Tides of Darkness](https://macsourceports.com/game/wc2) | Long before the franchise became known for the MMO, the Warcraft series started out as a series of real-time strategy games. The original game was a h… |
+| 2026-08-25 | [AI未来](https://elmagnifico.tech/2026/08/26/AI-Future/) | Foreword 最近看了几篇东西，一篇Bob大叔的对谈，一篇李飞飞访谈，还有Linus用AI修内核的commit。有点意思，记录一下。 关键点还是写在前面：AI会的东西，不是你会的。AI成长了，不代表你成长了。你把活丢给它，它越来越强，你的见识和能力并没有跟着涨。 一年前写 Cursor 的时候就… |
 | 2026-08-25 | [Quetoo updated](https://macsourceports.com/game/quetoo) | The build of Quetoo has been updated to version v1.0.82 of the project |
 | 2026-08-25 | [Ingress 流量整形](https://www.kawabangga.com/posts/7376) | 问题是这样，我们有 2 组服务器，A 组和 B 组，一部分用户从 A 组下载文件，一部分从 B 组下载文件。分 […] Continue reading... |
 | 2026-08-25 | [爽玩 Omarchy：好品味 + AI](https://blog.n3r0.cool/post/wow-omarchy/) | 又是一次让人难忘的经历。熟悉而陌生的体验，像做梦一样，就这么来到了眼前。 这就是 Omarchy 吗？ 老实说，对于手动安装过很多次 Arch、折腾过各种桌面环境和终端工具的我来说，上手之后，一切都有种难以言喻的熟悉感。简单读过文档后会发现，它的基础并不神秘：Hyprland、常用工具，以及一整套预… |

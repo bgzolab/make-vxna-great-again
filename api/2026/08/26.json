@@ -1,9 +1,23 @@
 [
   {
+    "title": "《欢迎来到龙餐馆》美国眼泪、儿童炸弹，和那盘不走心的中国菜",
+    "url": "https://blog.mzh.ren/zh/posts/2026/08/once-upon-a-time-in-the-middle-east/",
+    "date": "2026-08-26T20:26:56Z",
+    "description": "2026 年，电影市场已经是日薄西山了，但还是爆发不少有争议的电影。比如，既有叫好又叫座、有情又有义的《给阿嬷的情书》；也有“走个面”的《抓特务》；还有炒冷饭都能失手的《功夫女足》；以及击穿电影工业下限的《牛来》。当然，我觉得其中最最离谱的是这两部：",
+    "source_root_domain": "mzh.ren"
+  },
+  {
+    "title": "中元节随笔",
+    "url": "https://blog.mfwt.top/index.php/archives/1556/",
+    "date": "2026-08-26T12:51:10Z",
+    "description": "农历七月十四，中元节。有人可能要说了，这站长迷糊了，中元节不是七月十五么？其实在华南地区，至少在广东，至少在我们这，中元节是习惯放在七月十四过的。这恐怕又是历史上的某一个事件导致的，不去深究它，...",
+    "source_root_domain": "mfwt.top"
+  },
+  {
     "title": "Rack-auto 裸金属服务器自动化工具",
     "url": "https://songxwn.com/Rack-auto/",
     "date": "2026-08-26T09:11:52Z",
-    "description": "把机房里的服务器从「按开机键、插 U 盘」变成「网页里点一下」。控制面跑在 Linux 上，待装机机器 PXE 启动：Linux 走内存里的Linux RAMOS，Windows Server 走 WinPE。 官方仓库： Songxwn/Rack-auto · 下载 Release",
+    "description": "简介 把机房里的服务器从「按开机键、插 U 盘」变成「网页里点一下」。 支持主流Linux和Windows Server自动化装机 可自动化安装系统、密码/密钥、分区、网卡配置等。 Windows Server 19-25支持自动KMS激活。 支持Linux 发行版有Debian 11-13、Ubuntu 20.04+、Rocky 8-10、Centos 7-10。 支持BIOS和UEFI引导 Linux 网卡配置支持Bond + VLAN。 官方仓库： Songxwn/Rack-auto · 下载 Release",
     "source_root_domain": "songxwn.com"
   },
   {
@@ -82,6 +96,13 @@
     "date": "2026-08-25T16:37:09Z",
     "description": "Long before the franchise became known for the MMO, the Warcraft series started out as a series of real-time strategy games. The original game was a hit, following the conventions of the…",
     "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "AI未来",
+    "url": "https://elmagnifico.tech/2026/08/26/AI-Future/",
+    "date": "2026-08-25T16:00:00Z",
+    "description": "Foreword 最近看了几篇东西，一篇Bob大叔的对谈，一篇李飞飞访谈，还有Linus用AI修内核的commit。有点意思，记录一下。 关键点还是写在前面：AI会的东西，不是你会的。AI成长了，不代表你成长了。你把活丢给它，它越来越强，你的见识和能力并没有跟着涨。 一年前写 Cursor 的时候就说过，新手用Cursor可以快速拉到熟手水平，再往上走还是得自己深入代码和设计。现在更明显了，很多人已经把“会用AI”当成自己会了。 AI未来 Who Bob大叔就是写《代码整洁之道》那个Robert C. Martin，敏捷宣言签字人之一。12岁开始写程序，干到现在60多年了，还在写。最近跟Agent结对，放了句很冲的话：Agent写的代码他完全不看。 Matt Pocock是TypeScript圈子里挺有名的教育者，这场对谈是他请来的。 李飞飞不用多介绍，ImageNet就是她搞出来的，现在大家叫她AI教母。斯坦福教授，前两年去办World Labs，押空间智能，不跟着卷大语言模型。访谈里翻来覆去就一件事：AI是工具，主动权得拿在人手里。 一个在代码里，一个在智能本身上，说的完全不是一件",
+    "source_root_domain": "elmagnifico.tech"
   },
   {
     "title": "Quetoo updated",
