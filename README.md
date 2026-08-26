@@ -27,6 +27,11 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-08-26 | [横版闯关小游戏 by Godot](https://7gugu.com/index.php/2026/08/26/%e6%a8%aa%e7%89%88%e9%97%af%e5%85%b3%e5%b0%8f%e6%b8%b8%e6%88%8f-by-godot/) | 继续学习制作Godot小游戏 瓦片编辑器真的好方便可以随便就能选中自己需要的素材，但是这个素材绘制不知道自己要 … 继续阅读 “横版闯关小游戏 by Godot” |
+| 2026-08-26 | [如何选择 DeepSeekHarnes / Claude Code/Codex/ Pi](https://www.ixiqin.com/2026/08/26/how-to-choose-depseekharnes-claude-code-codex-pi/) | 文章将 Agent 工具分为 Coding Agent 产品、Agent SDK 和 Agent Framework，建议先根据使用目的选择类别，再比较具体工具。Coding Agent 的选择取决于预算、模型偏好、自定义需求以及是否想尝试递归自进化 … |
+| 2026-08-26 | [入蜀记 day457 桂花香！](https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_457/) | 「桂花香！」 |
+| 2026-08-26 | [入蜀记 day456 自指](https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_456/) | 「自指。」 |
+| 2026-08-26 | [入蜀记 day455 排泄的仍是信息](https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_455/) | 「排泄的仍是信息。」 |
 | 2026-08-26 | [Centos6.5 LVM跨盘数据盘缩容回收与替换扩容](https://199604.com/3664) | Centos6.5 LVM跨盘数据盘缩容回收与替换扩容 记录时间：2026-08-26 环境：RHEL 6.5 […] |
 | 2026-08-26 | [赛博复古](https://www.hecaitou.com/2026/08/Cyber-Nostalgia.html) | 在许多描写未来世界的影视剧里，你一定看过那种类似香港老街的场景，然而其中又充斥着各种高科技的玩意儿，形成了一种混杂而迷乱的风格。为什么现代科技和古老的木楼、牌匾、霓虹灯会在同一处出现？为什么不是单一的冷酷未来风？昨天我在回答一个读者的提问时，找到了一个可能的答案。 当时这位读者问我：每天看你用 AI… |
 | 2026-08-26 | [偶像崩塌三部曲](https://mobius.blog/25504.html) | 偶像偶像，呕吐的对象～ 小时候我们常常拿这句话去羞讽其他人的“偶像”，虽然现在看起来很幼稚，但那个时候确实能够 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
