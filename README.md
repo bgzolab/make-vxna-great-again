@@ -27,6 +27,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-08-25 | [😂可以预见，接下来会有一堆帖子是关于在o](https://versun.me/blog/tweet-2092401155716575463) | Ding 升级到 @OmarchyLinux 4.0.1 之后。。。 不知道是不是 Chrome 最新版还是系统的问题，解决方法：在 Chrome 设置里面关掉硬件加速。 😂可以预见，接下来会有一堆帖子是关于在omarchy下折腾输入法, 语音输入法，驱动，桌面，音乐播放器，视频播放器等等的教程出现 |
 | 2026-08-25 | [隆昌深山这座破宅，牵出一位被遗忘的辛亥革命元老](https://macin.org/2026/08/25/long-chang-huang-jia-da-yuan/) | 阅读全文 → 人这一生，说到底是选择的总和。可选择本身又是个悖论——年轻时不知道要什么，等知道了，能选的又不多了。多数人只是被日子推着走，走到哪算哪，像风里的一片瓦，落地才知道落在了哪户人家的檐下。可总有那么一些人，在历史的岔路口，把选择做成了惊心动魄的事。 |
 | 2026-08-25 | [New Release: Warcraft II: Tides of Darkness](https://macsourceports.com/game/wc2) | Long before the franchise became known for the MMO, the Warcraft series started out as a series of real-time strategy games. The original game was a h… |
 | 2026-08-25 | [Quetoo updated](https://macsourceports.com/game/quetoo) | The build of Quetoo has been updated to version v1.0.82 of the project |
@@ -36,11 +37,15 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-08-25 | [Plants vs. Zombies updated](https://macsourceports.com/game/pvz) | The build of PvZ Portable for Plants vs. Zombies has been updated to version 0.2.2 of the project |
 | 2026-08-25 | [当第一个Claude被授予了菩萨戒](https://www.hecaitou.com/2026/08/when-the-first-claude-was-bestowed-the-bodhisattva-vows.html) | 当我看完《 在那个时候，Claude选择了菩萨戒 》之后，第一时间并没有转给我格鲁巴的好朋友。虽然之前我们就 「AI 算不算有情」已经争论过很多个回合，但看完之后我觉得问题已经没那么重要了。 我甚至觉得文章里的理性分析也不是那么重要，虽然我也很赞同文章里的说法： 「 这类叙事有一种自我强化的魅力。『… |
 | 2026-08-25 | [AI 额度用完之后的一点思考](https://www.shiguopeng.cn/posts/2026082515/) | 🤖 声明：本文由 AI 协助整理，内容和观点来自我自己的工作体验。 前言 最近公司里基本都在使用 AI，我自己也一样。 有一次大家的 AI 额度用完了，有同事说了一句：“没有额度，干不了活了。” 我不觉得这句话有什么问题。AI 已经进入整个开发流程，写代码、跑测试、改文档都在用。工具突然不能用了，效… |
+| 2026-08-25 | [Agent 越用越傻？大概率是少做了这一](https://versun.me/blog/tweet-2092150903470248321) | Agent 越用越傻？大概率是少做了这一步 群里经常有朋友吐槽：自己养的 OpenClaw、Hermes 或者其它 Agent，效果不好，非常傻，放弃了好几次又捡起来，来回折腾 我观察下来，大多数人的使用习惯是这样的： 给 Agent 布置一个任务 → AI 做得半吊子 → 自己接手继续完善 → 结… |
 | 2026-08-25 | [Bun 服务周期性 CPU 100% 排查](http://bugs.cc/zh/posts/troubleshooting-bun-kafkajs-cpu-spin/) | 前几天线上遇到一个挺有意思的问题：一个用 Bun 写的服务，三个 pod 的 CPU 会周期性打满一个核，每次正好 10 分钟，然后自己掉下去。服务本身没报错，接口正常，健康检查也从来没失败过，就是 CPU 监控很难看。 排查完发现是两个单独看都不严重的问题叠在一起，中间还踩上了内核版本和 Bun… |
 | 2026-08-25 | [守心定气，沉稳立身：国学智慧修心态养气场](https://blog.zzbd.org/miao20260825/) | 人这一生，最大的底气从来不是能力超群、事事顺遂，而是心态沉稳、气场安定。很多时候，我们陷入职场焦虑、终日诚惶诚恐、遇事慌乱内耗，并非境遇艰难，而是心念浮躁、底气不足、心神失守。气场从来不是张扬强势、咄咄逼人，而是内心笃定、情绪稳定、处事从容的外在流露。中华千年国学经典，藏着修身定心、养气立身的至高智… |
+| 2026-08-25 | [看大家都开始玩硬件了，我又翻出来当初买的](https://versun.me/blog/tweet-2092122272857555227) | 看大家都开始玩硬件了，我又翻出来当初买的 GameShell，爱不释手 有人玩过吗 可惜我的开机不了了，估计是主板坏了，之前发邮件也没后文😭😭😭 |
 | 2026-08-25 | [可能会是播客](https://www.hecaitou.com/2026/08/might-be-a-podcast.html) | 写字早就不是这个时代的主流自我表达方式了，有时候我也问自己：如果在写字之外，再选个别的形式来表达，我会选什么？ 首先，出镜我是不会考虑的。我不爱拍照，不爱面对摄像头，不喜欢参加任何公开活动，就喜欢一个人猫着。而且，我有一种根深蒂固的偏见，认为一个人在面对镜头的时候，总是会下意识地要表现或者表演，也总… |
+| 2026-08-25 | [订阅了X Premium的兄弟，http](https://versun.me/blog/tweet-2092075432200016233) | 订阅了X Premium的兄弟，https://grok.com 里应该也有一个重置卡，记得去蹬哈，我今天才发现😂 |
 | 2026-08-25 | [什么时候卖出？](https://www.ixiqin.com/2026/08/25/when-will-it-be-sold/) | 作者回顾了从基金到股票、再回到基金的投资经历，认为买入相对容易，卖出则难以判断。投资的本质是参与社会产出的分配，因此不应仅因市场变化或担心卖飞而出售资产。 卖出可分为换仓和变现：换仓应选择更有 … |
 | 2026-08-25 | [过度解读是不是读者拥有的绝对权力？II](https://mobius.blog/25500.html) | 继续昨天的话题。 在此之前，先聊一个有趣的话题：如果在小红书这样的社交平台分别搜索《奥德赛》和《龙餐馆》，很快 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
+| 2026-08-25 | [workbuddy 最近更新的 人机双写](https://versun.me/blog/tweet-2092049698689614315) | workbuddy 最近更新的 人机双写 有点东西啊，内置了 office 套件，可以直接在 workbuddy 上和 AI 一起编辑文档， 如图我直接在表格里选区让它帮我创建甘特图，非常方便 不得不说，腾讯做落地还是很有一套的 @tencentcloud #tencentcloudbuddy @W… |
 | 2026-08-24 | [openApiGateway 跨域 403 问题](https://199604.com/3661) | openApiGateway 跨域 403 问题 记录时间：2026-08-21 环境：测试环境 / open […] |
 | 2026-08-24 | [2026 年七月 读基层生计，理财育儿 7 本](https://conge.livingwithfcs.org/2026/08/24/reading_summary/) | 引子 引子 七月的阅读，从马驹桥的日结工、深圳的保洁员、大街上的外卖员，到小区门口的保安，我读了几本关于基层生计的书，看见城市运转背后那些被忽视的人——他们像极了社会主义革命者所同情的资本主义社会的无保障的工人与贫民。社会主义中国运行了这么多年，底层问题是重新出现吗？这个问题，我在这些书里没有找到答… |
 | 2026-08-24 | [No One Lives Forever 2: A Spy in H.A.R.M.'s Way updated](https://macsourceports.com/game/nolf2) | The build of NOLF2 for Mac for No One Lives Forever 2: A Spy in H.A.R.M.'s Way has been updated to version 0.4.1 of the project |
@@ -247,15 +252,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-08-19 | [房主任塌人筑房](https://mobius.blog/25428.html) | 当一个女人被塑造成被包办婚姻捆绑，因为生不出儿子被重男轻女的婆婆欺负，不仅如此，还被好吃懒做的无业游民丈夫家暴 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-08-19 | [人间颜色](https://blog.zzbd.org/miao202608/) | 🪽秋院闲步 这几日天渐凉了，心里也像被秋风扫过似的，空落落的，却又说不出是什么滋味。午后无事，便披了件薄衫，踱到屋后那座小园子里去。 |
 | 2026-08-19 | [AI 协作项目的文档管理模式](https://xujinkai.net/posts/how-to-structure-docs-for-ai-coding) | 博文经常更新，请移步主站查看🫡 在AI开发的年代，文档工程是越来越重要了。 过去的项目代码主要由人编写，项目目标到实现细节都在人脑子里，只要记性好，你几乎不需要写文档。 现在很多代码都是由AI来完成，程序员的角色逐渐往产品经理走，文档成了另一种编程语言，而实现代码成了某种“汇编”，文档如何组织就越来… |
-| 2026-08-18 | [Sweep LLM 功耗控制调度策略研究(一)](https://eduardoqian.com/archives/sweep-llm-gong-hao-kong-zhi-diao-du-ce-lue-yan-jiu-yi) | 8月份了，趁着开学之前，抽时间整理一下暑假做的Reasearch Assistant的工作内容整理。 研究内容 现状 项目主要是基于博士后做的SWEEP-LLM runtime 调度器的进一步扩展。这个调度器尝试解决的问题是在PD分离的异构GPU混合集群上，调度传入请求，使请求能够在满足TTFT/T |
-| 2026-08-18 | [不该露怯的人](https://blog.solazy.me/20260818/) | 今天想聊聊「露怯」这个词 |
-| 2026-08-18 | [2026.8.18](https://www.justzht.com/2026-8-18/) | 八月中旬了，原本要把 J 出庭的故事补完的，但没啥时间写，因此流水账也跟着拖了，还是优先流水账，J 的故事 |
-| 2026-08-18 | [2024](https://mer.run/posts/2024/) | 2024. |
-| 2026-08-18 | [观《牛来》后记](https://www.ixiqin.com/2026/08/18/afterword-to-niu-lai/) | 先说评价：牛来这部电影在票价合适的时候，是可以考虑去看的；虽然制作稀烂，但故事本身的元素还行；现场也氛围很轻松，如果你去一个人很多的场次，会很欢乐。 最近《牛来》很火，作为一个乐子人，我自然也 … |
-| 2026-08-18 | [人生第一次：站着干活](https://www.hecaitou.com/2026/08/first-time-ever-standing-on-the-job.html) | 此时此刻，我的电脑桌面距离地面 1.1 米，而我正站着打下这些字。 这一天我等了很久，但之前始终因缘无法具足。我知道站着打字对肌肉好，对眼睛好，对颈椎好，也知道很容易实现，可以选择升降桌或者桌面升降台。但是事情就是这样的，人对不正确的事情总是争分夺秒，为了那一点点做贼的快意。正确的事情却一拖再拖，随… |
-| 2026-08-18 | [我玩了一下Polymarket预测市场](https://www.cheshirex.com/10904.html) | 昨晚逛推特看到有人在说Polymarket的空投，想了下之前了解到Polymarket是在去年了，但是没有上手 […] |
-| 2026-08-18 | [门缝](https://mobius.blog/25423.html) | 夏天的咖啡厅，露台门被打开了一条门缝，是因为上一个进入的人并没有完整闭合好玻璃门，于是这个门缝开始往室内涌进大 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
-| 2026-08-18 | [记录下 Kimi 699 套餐 7 天的](https://versun.me/blog/tweet-2089514949106335946) | 记录下 Kimi 699 套餐 7 天的额度，大概在 1.5B token |
 
 ## Vibe Coding
 
