@@ -27,6 +27,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-08-26 | [Rack-auto 裸金属服务器自动化工具](https://songxwn.com/Rack-auto/) | 把机房里的服务器从「按开机键、插 U 盘」变成「网页里点一下」。控制面跑在 Linux 上，待装机机器 PXE 启动：Linux 走内存里的Linux RAMOS，Windows Server 走 WinPE。 官方仓库： Songxwn/Rack-auto · 下载 Release |
 | 2026-08-26 | [横版闯关小游戏 by Godot](https://7gugu.com/index.php/2026/08/26/%e6%a8%aa%e7%89%88%e9%97%af%e5%85%b3%e5%b0%8f%e6%b8%b8%e6%88%8f-by-godot/) | 继续学习制作Godot小游戏 瓦片编辑器真的好方便可以随便就能选中自己需要的素材，但是这个素材绘制不知道自己要 … 继续阅读 “横版闯关小游戏 by Godot” |
 | 2026-08-26 | [如何选择 DeepSeekHarnes / Claude Code/Codex/ Pi](https://www.ixiqin.com/2026/08/26/how-to-choose-depseekharnes-claude-code-codex-pi/) | 文章将 Agent 工具分为 Coding Agent 产品、Agent SDK 和 Agent Framework，建议先根据使用目的选择类别，再比较具体工具。Coding Agent 的选择取决于预算、模型偏好、自定义需求以及是否想尝试递归自进化 … |
 | 2026-08-26 | [入蜀记 day457 桂花香！](https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_457/) | 「桂花香！」 |

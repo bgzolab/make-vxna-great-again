@@ -1,5 +1,12 @@
 [
   {
+    "title": "Rack-auto 裸金属服务器自动化工具",
+    "url": "https://songxwn.com/Rack-auto/",
+    "date": "2026-08-26T09:11:52Z",
+    "description": "把机房里的服务器从「按开机键、插 U 盘」变成「网页里点一下」。控制面跑在 Linux 上，待装机机器 PXE 启动：Linux 走内存里的Linux RAMOS，Windows Server 走 WinPE。 官方仓库： Songxwn/Rack-auto · 下载 Release",
+    "source_root_domain": "songxwn.com"
+  },
+  {
     "title": "横版闯关小游戏 by Godot",
     "url": "https://7gugu.com/index.php/2026/08/26/%e6%a8%aa%e7%89%88%e9%97%af%e5%85%b3%e5%b0%8f%e6%b8%b8%e6%88%8f-by-godot/",
     "date": "2026-08-26T07:47:49Z",
