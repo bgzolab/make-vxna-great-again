@@ -27,6 +27,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-08-26 | [偶像崩塌三部曲](https://mobius.blog/25504.html) | 偶像偶像，呕吐的对象～ 小时候我们常常拿这句话去羞讽其他人的“偶像”，虽然现在看起来很幼稚，但那个时候确实能够 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-08-25 | [😂可以预见，接下来会有一堆帖子是关于在o](https://versun.me/blog/tweet-2092401155716575463) | Ding 升级到 @OmarchyLinux 4.0.1 之后。。。 不知道是不是 Chrome 最新版还是系统的问题，解决方法：在 Chrome 设置里面关掉硬件加速。 😂可以预见，接下来会有一堆帖子是关于在omarchy下折腾输入法, 语音输入法，驱动，桌面，音乐播放器，视频播放器等等的教程出现 |
 | 2026-08-25 | [隆昌深山这座破宅，牵出一位被遗忘的辛亥革命元老](https://macin.org/2026/08/25/long-chang-huang-jia-da-yuan/) | 阅读全文 → 人这一生，说到底是选择的总和。可选择本身又是个悖论——年轻时不知道要什么，等知道了，能选的又不多了。多数人只是被日子推着走，走到哪算哪，像风里的一片瓦，落地才知道落在了哪户人家的檐下。可总有那么一些人，在历史的岔路口，把选择做成了惊心动魄的事。 |
 | 2026-08-25 | [New Release: Warcraft II: Tides of Darkness](https://macsourceports.com/game/wc2) | Long before the franchise became known for the MMO, the Warcraft series started out as a series of real-time strategy games. The original game was a h… |
@@ -35,6 +36,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-08-25 | [爽玩 Omarchy：好品味 + AI](https://blog.n3r0.cool/post/wow-omarchy/) | 又是一次让人难忘的经历。熟悉而陌生的体验，像做梦一样，就这么来到了眼前。 这就是 Omarchy 吗？ 老实说，对于手动安装过很多次 Arch、折腾过各种桌面环境和终端工具的我来说，上手之后，一切都有种难以言喻的熟悉感。简单读过文档后会发现，它的基础并不神秘：Hyprland、常用工具，以及一整套预… |
 | 2026-08-25 | [AutoUninstaller导致的Installer拒绝访问](https://foglog.cn/p/auto-uninstaller-fix) | 安装应用时，Installer 提示「拒绝访问」。出问题的是系统 Installer 注册表路径，Auto Uninstaller 运行时通过 regini 命令将该路径下的注册表项权限修改为 ... |
 | 2026-08-25 | [Plants vs. Zombies updated](https://macsourceports.com/game/pvz) | The build of PvZ Portable for Plants vs. Zombies has been updated to version 0.2.2 of the project |
+| 2026-08-25 | [Vlog 样式雷故里 mini摩旅](https://yovey.me/mini-motor-touring-stylelei-hometown/) | 以下是准备的口播素材，后面剪着剪着丢脑后了。 久违地又出远门了，其实不算久也不算远，单纯是牛马想透透气了。正经 … Continue reading "Vlog 样式雷故里 mini摩旅" |
 | 2026-08-25 | [当第一个Claude被授予了菩萨戒](https://www.hecaitou.com/2026/08/when-the-first-claude-was-bestowed-the-bodhisattva-vows.html) | 当我看完《 在那个时候，Claude选择了菩萨戒 》之后，第一时间并没有转给我格鲁巴的好朋友。虽然之前我们就 「AI 算不算有情」已经争论过很多个回合，但看完之后我觉得问题已经没那么重要了。 我甚至觉得文章里的理性分析也不是那么重要，虽然我也很赞同文章里的说法： 「 这类叙事有一种自我强化的魅力。『… |
 | 2026-08-25 | [AI 额度用完之后的一点思考](https://www.shiguopeng.cn/posts/2026082515/) | 🤖 声明：本文由 AI 协助整理，内容和观点来自我自己的工作体验。 前言 最近公司里基本都在使用 AI，我自己也一样。 有一次大家的 AI 额度用完了，有同事说了一句：“没有额度，干不了活了。” 我不觉得这句话有什么问题。AI 已经进入整个开发流程，写代码、跑测试、改文档都在用。工具突然不能用了，效… |
 | 2026-08-25 | [Agent 越用越傻？大概率是少做了这一](https://versun.me/blog/tweet-2092150903470248321) | Agent 越用越傻？大概率是少做了这一步 群里经常有朋友吐槽：自己养的 OpenClaw、Hermes 或者其它 Agent，效果不好，非常傻，放弃了好几次又捡起来，来回折腾 我观察下来，大多数人的使用习惯是这样的： 给 Agent 布置一个任务 → AI 做得半吊子 → 自己接手继续完善 → 结… |
