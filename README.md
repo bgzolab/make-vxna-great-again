@@ -28,6 +28,8 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | Date | Title | Summary |
 | --- | --- | --- |
 | 2026-08-26 | [《欢迎来到龙餐馆》美国眼泪、儿童炸弹，和那盘不走心的中国菜](https://blog.mzh.ren/zh/posts/2026/08/once-upon-a-time-in-the-middle-east/) | 2026 年，电影市场已经是日薄西山了，但还是爆发不少有争议的电影。比如，既有叫好又叫座、有情又有义的《给阿嬷的情书》；也有“走个面”的《抓特务》；还有炒冷饭都能失手的《功夫女足》；以及击穿电影工业下限的《牛来》。当然，我觉得其中最最离谱的是这两部： |
+| 2026-08-26 | [玩了 1 年半 Prop Firm，我才搞懂考试号和出金号的玩法](https://blog.forecho.com/prop-firm-evaluation-and-funded-account-strategy.html) | 引言 我玩 Prop Firm（期货自营交易）已经一年半了，前后买号花了不少钱，却一直没有顺利通过考试拿到出金。 前几天我看了一期专门讲期货自营交易底层逻辑和数学计算的视频，看完之后整个人愣住了。我才意识到，我这一年半完全在用做实盘和出金号的思路在打考试号。 我平时特别怕自己亏钱上头，所以在软件里设… |
+| 2026-08-26 | [解锁网易云音乐歌曲 轻松搭建飞牛音乐私人音乐库](https://chengpeiquan.com/article/netease-cloud-music-fnnas-music-organizer) | 飞牛 NAS 终于上线了音乐，真是激动人心！ 虽然我自己的网易云音乐账号早在 2018 还是 19 年就已经到了 Lv.10 ，每年也通过 88VIP 送的音乐会员当着丐版 VIP ，但不论是网易云音乐还是 QQ 音乐，这些平台的付费体验和版权分散、版权失效没得听等问题，一直让人一言难尽。 Appl… |
 | 2026-08-26 | [中元节随笔](https://blog.mfwt.top/index.php/archives/1556/) | 农历七月十四，中元节。有人可能要说了，这站长迷糊了，中元节不是七月十五么？其实在华南地区，至少在广东，至少在我们这，中元节是习惯放在七月十四过的。这恐怕又是历史上的某一个事件导致的，不去深究它，... |
 | 2026-08-26 | [Rack-auto 裸金属服务器自动化工具](https://songxwn.com/Rack-auto/) | 简介 把机房里的服务器从「按开机键、插 U 盘」变成「网页里点一下」完成裸金属服务器开局。 支持主流Linux和Windows Server自动化装机 可自动化安装系统、密码/密钥、分区、网卡配置等。 Windows Server 19-25支持自动KMS激活。 支持Linux 发行版有Debian… |
 | 2026-08-26 | [横版闯关小游戏 by Godot](https://7gugu.com/index.php/2026/08/26/%e6%a8%aa%e7%89%88%e9%97%af%e5%85%b3%e5%b0%8f%e6%b8%b8%e6%88%8f-by-godot/) | 继续学习制作Godot小游戏 瓦片编辑器真的好方便可以随便就能选中自己需要的素材，但是这个素材绘制不知道自己要 … 继续阅读 “横版闯关小游戏 by Godot” |
