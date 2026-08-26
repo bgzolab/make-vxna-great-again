@@ -17,7 +17,7 @@
     "title": "Rack-auto 裸金属服务器自动化工具",
     "url": "https://songxwn.com/Rack-auto/",
     "date": "2026-08-26T09:11:52Z",
-    "description": "简介 把机房里的服务器从「按开机键、插 U 盘」变成「网页里点一下」。 支持主流Linux和Windows Server自动化装机 可自动化安装系统、密码/密钥、分区、网卡配置等。 Windows Server 19-25支持自动KMS激活。 支持Linux 发行版有Debian 11-13、Ubuntu 20.04+、Rocky 8-10、Centos 7-10。 支持BIOS和UEFI引导 Linux 网卡配置支持Bond + VLAN。 官方仓库： Songxwn/Rack-auto · 下载 Release",
+    "description": "简介 把机房里的服务器从「按开机键、插 U 盘」变成「网页里点一下」完成裸金属服务器开局。 支持主流Linux和Windows Server自动化装机 可自动化安装系统、密码/密钥、分区、网卡配置等。 Windows Server 19-25支持自动KMS激活。 支持Linux 发行版有Debian 11-13、Ubuntu 20.04+、Rocky 8-10、Centos 7-10。 支持BIOS和UEFI的PXE引导，使用IPXE实现。 Linux 网卡配置支持Bond + VLAN。 官方仓库： Songxwn/Rack-auto · 下载 Release",
     "source_root_domain": "songxwn.com"
   },
   {
