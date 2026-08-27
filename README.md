@@ -27,8 +27,17 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-08-27 | [学习周刊-总第278期-2026年第35周](https://wiki.eryajf.net/pages/4327cf/) | 如要阅读全文，点击标题跳转。 学习周刊-总第278期 &#124; Recordly &#124; agentbro &#124; vistars &#124; SkylerX &#124; Momento &#124; fluxnotes &#124; markra |
+| 2026-08-27 | [加密的思考，也会被偷走吗？这篇论文真正发现了什么](https://gptkit.eth.limo/513D8E71-35EE-4F4B-BD20-E9FB633C8742/) | 看到一段无法阅读的加密文本，人很容易把它当成“安全的乱码”。但在大模型 API 里，这类不透明数据可能保存着模型的隐藏推理、工具返回值，甚至用户输入过的敏感信息。 2026 年 8 月提交的论文《Stealing Reasoning Traces from Proprietary LLM APIs》… |
+| 2026-08-27 | [一群模型，各干各的活：Nemotron 3.5 Lightning 和 Switchyard 到底解决什么](https://gptkit.eth.limo/88ED405F-A12D-48AB-9B8F-C3EB7390F47B/) | 一个 AI Agent 真正运行起来以后，并不是每一步都需要最强模型。制定计划、处理复杂异常，可能值得调用能力最强的模型；执行工具、检查返回值、整理格式和重复查询，往往更在意速度和成本。 如果所有步骤都交给同一个昂贵模型，效果容易预测，账单和延迟却会迅速增加。反过来，如果只用便宜模型，复杂任务又可能… |
+| 2026-08-27 | [它真的“懂”你吗？用一杯咖啡理解大语言模型](https://gptkit.eth.limo/102AFE24-4642-44C5-8390-DC6A5D2A99A4/) | 第一次和大语言模型聊天，很容易产生一种错觉：屏幕另一端像是坐着一个读过无数书、什么都能聊的人。它能续写邮件，能解释概念，也能顺着语气安慰你。可一旦追问一个冷门事实，它又可能用同样笃定的口吻编出不存在的人名、论文和日期。 这两种表现并不矛盾。要理解它，先放下“电子大脑”这个比喻，把它想成一位特别擅长接… |
+| 2026-08-27 | [一年](https://mobius.blog/25525.html) | 我特地在日历上设定了 8 月 28 日是一个特殊的日子，去年这个时候，我们决定给家里最老的一只、已经处于严重肾 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
+| 2026-08-27 | [AI Infra：Token 价格博弈策略分析](https://luweiqing.com/gossip/Token-Price-Speculation-Strategy-Analysis.html) | 模型更新快。价格难看懂。有的厂商把 API 降到几分钱一百万 Token。有的旗舰模型维持几十美元高价。新模型发布就降价抢用户。能力升级后反而提价。同一家厂商同时提供缓存价、批处理价、峰谷价、标... |
+| 2026-08-27 | [AWS 收购 DuckLabs](https://luweiqing.com/gossip/AWS-DuckLabs.html) | 买团队，不买项目。 DuckLabs（阿姆斯特丹核心团队+商业支持）→ AWS；DuckDB/Foundation/MIT 许可不变。一、数据库层面维度DuckDB 角色AWS 战略意义定位嵌入... |
 | 2026-08-27 | [横屏首次显示被缩小问题处理](https://www.an.rustfisher.com/android/fragment/dialogFragment/dialogFragment-adjust-fontscale/?utm_source=documentation&utm_medium=RSS&utm_campaign=feed-syndication) | Android处理DialogFragment横屏首次显示被缩小的问题。在横屏 Activity 中弹出自定义 DialogFragment 时，出现首次显示尺寸偏小（被压缩），但在关闭后第二次显示恢复正常的诡异现象。 |
+| 2026-08-27 | [不是 Bug,是 Feature](https://hux.ink/posts/not-a-bug-its-a-feature/) | 最近借助 Codex，把博客前台、管理后台和 Obsidian 零零碎碎折腾了一轮，主要是把一些长期用着不太顺手、看着不太舒服的地方重新收拾了一遍。 先是博客前台： 增加主题切换，目前有明亮、夜幕、霜灰、晨曦四组主题色调。 除了原有的霞鹜文楷，又加入朱雀仿宋、京华老宋体、霞鹜新致宋三款可选字体。 左… |
 | 2026-08-27 | [人不知而不愠](https://kaix.in/2026/0827/) | 虽然这几年到店里来拍照的客人一直不少，但是前几天是第一次遇到开闪光灯拍照的客人不听劝阻的情况。上前制止时，对方就像是有一套固有招式，连珠炮似的，提前给我们彼此都加了许多标签：我认知高，我幸福者退让，我不和妳这种开小店的人一般见识，妳这种规矩多的破店，一看就开不长…… 实话实说，这类言语，目的只是激怒… |
+| 2026-08-27 | [广府古城一日游](https://liudon.com/posts/guangfu-ancient-city-day-trip/) | 6月底给家里添置了辆车，还在磨合期。 平时爸妈开的不多，这次暑假回家，想着找一天带爸妈出门逛逛。 上午带老妈去医院做了个CT检查，检查完结果要4个小时才能出来。 |
 | 2026-08-27 | [面对系统](https://www.hecaitou.com/2026/08/facing-the-system.html) | 昨天半夜看到一个熟悉的名字在网络热闻里闪烁，把他前后几次发言都读过一遍，结论很明确：这是要掀桌子、撕脸皮、彻底搞大，痛快一下自己。 当个人面对系统的时候，走到这一步就非常难看了。如何同系统打交道，这种事情其实需要有人教的。首先要理解系统是如何运转的，然后弄清楚自己在系统内是什么位置，再深入下去就是应… |
 | 2026-08-27 | [Google斥资1000万美元购买破产企业内部数据，用于AI训练](https://wenfeixiang.com/2026/08/google-wins-bankruptcy-auction-for-spirit-airlines-emails-chats-documents/) | 一家破产企业的内部数据，比如聊天记录、电子邮件、相关文档等，值多少钱？在过往的话，或许一文不值，到了人工智能和 […] |
 | 2026-08-27 | [Prometheus 切换到 VictoriaMetrics 统一告警的部署记录](https://199604.com/3666) | Prometheus 切换到 VictoriaMetrics 统一告警的部署记录 记录时间：2026-08-2 […] |
@@ -38,6 +47,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-08-26 | [《欢迎来到龙餐馆》美国眼泪、儿童炸弹，和那盘不走心的中国菜](https://blog.mzh.ren/zh/posts/2026/08/once-upon-a-time-in-the-middle-east/) | 2026 年，电影市场已经是日薄西山了，但还是爆发不少有争议的电影。比如，既有叫好又叫座、有情又有义的《给阿嬷的情书》；也有“走个面”的《抓特务》；还有炒冷饭都能失手的《功夫女足》；以及击穿电影工业下限的《牛来》。当然，我觉得其中最最离谱的是这两部： |
 | 2026-08-26 | [新手如何上手自营交易（Prop Firm）：FundedNext 保姆级开户与配置指南](https://blog.forecho.com/fundednext-prop-firm-beginner-guide.html) | 引言 很多刚接触期货自营交易（Prop Firm / PF）的新手，经常在第一步就被各种英文术语、账户类型和平台登录给搞懵了。 自营交易简单来说，就是你花几十美元买一个考核账号，用平台提供的模拟资金在真实市场里交易。只要达成目标且不触碰最大回撤，就能通过考核并拿到出金分成。它最大的好处是用有限的报名… |
 | 2026-08-26 | [玩了 1 年半 Prop Firm，我才搞懂考试号和出金号的玩法](https://blog.forecho.com/prop-firm-evaluation-and-funded-account-strategy.html) | 引言 我玩 Prop Firm（期货自营交易）已经一年半了，前后买号花了不少钱，却一直没有顺利通过考试拿到出金。 前几天我看了一期专门讲期货自营交易底层逻辑和数学计算的视频，看完之后整个人愣住了。我才意识到，我这一年半完全在用做实盘和出金号的思路在打考试号。 我平时特别怕自己亏钱上头，所以在软件里设… |
+| 2026-08-26 | [玩车日志](https://elmagnifico.tech/2026/08/27/Car-Record/) | Foreword 五一以后就只下场跑了两次赛道。前一次是懂车帝 6.14 珠海站 L2-车手启航计划-进阶特训，这次是 8.22 车手启航计划-超级赛道日-珠海站。中间还去了对话灿哥，以及小米 CTCC 的珠海观赛。 两次都在跟天气预报对赌，两次都输了。 懂车帝 L2 进阶特训 天气预报要下雨，准备… |
 | 2026-08-26 | [解锁网易云音乐歌曲 轻松搭建飞牛音乐私人音乐库](https://chengpeiquan.com/article/netease-cloud-music-fnnas-music-organizer) | 飞牛 NAS 终于上线了音乐，真是激动人心！ 虽然我自己的网易云音乐账号早在 2018 还是 19 年就已经到了 Lv.10 ，每年也通过 88VIP 送的音乐会员当着丐版 VIP ，但不论是网易云音乐还是 QQ 音乐，这些平台的付费体验和版权分散、版权失效没得听等问题，一直让人一言难尽。 Appl… |
 | 2026-08-26 | [模糊规则与最终解释权](https://blog.solazy.me/20260826/) | 弹性工作和不打卡有时候并不代表自由 |
 | 2026-08-26 | [中元节随笔](https://blog.mfwt.top/index.php/archives/1556/) | 农历七月十四，中元节。有人可能要说了，这站长迷糊了，中元节不是七月十五么？其实在华南地区，至少在广东，至少在我们这，中元节是习惯放在七月十四过的。这恐怕又是历史上的某一个事件导致的，不去深究它，... |
@@ -55,6 +65,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-08-25 | [隆昌深山这座破宅，牵出一位被遗忘的辛亥革命元老](https://macin.org/2026/08/25/long-chang-huang-jia-da-yuan/) | 阅读全文 → 人这一生，说到底是选择的总和。可选择本身又是个悖论——年轻时不知道要什么，等知道了，能选的又不多了。多数人只是被日子推着走，走到哪算哪，像风里的一片瓦，落地才知道落在了哪户人家的檐下。可总有那么一些人，在历史的岔路口，把选择做成了惊心动魄的事。 |
 | 2026-08-25 | [New Release: Warcraft II: Tides of Darkness](https://macsourceports.com/game/wc2) | Long before the franchise became known for the MMO, the Warcraft series started out as a series of real-time strategy games. The original game was a h… |
 | 2026-08-25 | [AI未来](https://elmagnifico.tech/2026/08/26/AI-Future/) | Foreword 最近看了几篇东西，一篇Bob大叔的对谈，一篇李飞飞访谈，还有Linus用AI修内核的commit。有点意思，记录一下。 关键点还是写在前面：AI会的东西，不是你会的。AI成长了，不代表你成长了。你把活丢给它，它越来越强，你的见识和能力并没有跟着涨。 一年前写 Cursor 的时候就… |
+| 2026-08-25 | [不可证伪的黑盒](https://blog.solazy.me/20260825/) | 今天突然想聊一个非常有趣的事情 |
 | 2026-08-25 | [Quetoo updated](https://macsourceports.com/game/quetoo) | The build of Quetoo has been updated to version v1.0.82 of the project |
 | 2026-08-25 | [Ingress 流量整形](https://www.kawabangga.com/posts/7376) | 问题是这样，我们有 2 组服务器，A 组和 B 组，一部分用户从 A 组下载文件，一部分从 B 组下载文件。分 […] Continue reading... |
 | 2026-08-25 | [爽玩 Omarchy：好品味 + AI](https://blog.n3r0.cool/post/wow-omarchy/) | 又是一次让人难忘的经历。熟悉而陌生的体验，像做梦一样，就这么来到了眼前。 这就是 Omarchy 吗？ 老实说，对于手动安装过很多次 Arch、折腾过各种桌面环境和终端工具的我来说，上手之后，一切都有种难以言喻的熟悉感。简单读过文档后会发现，它的基础并不神秘：Hyprland、常用工具，以及一整套预… |
@@ -64,6 +75,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-08-25 | [当第一个Claude被授予了菩萨戒](https://www.hecaitou.com/2026/08/when-the-first-claude-was-bestowed-the-bodhisattva-vows.html) | 当我看完《 在那个时候，Claude选择了菩萨戒 》之后，第一时间并没有转给我格鲁巴的好朋友。虽然之前我们就 「AI 算不算有情」已经争论过很多个回合，但看完之后我觉得问题已经没那么重要了。 我甚至觉得文章里的理性分析也不是那么重要，虽然我也很赞同文章里的说法： 「 这类叙事有一种自我强化的魅力。『… |
 | 2026-08-25 | [AI 额度用完之后的一点思考](https://www.shiguopeng.cn/posts/2026082515/) | 🤖 声明：本文由 AI 协助整理，内容和观点来自我自己的工作体验。 前言 最近公司里基本都在使用 AI，我自己也一样。 有一次大家的 AI 额度用完了，有同事说了一句：“没有额度，干不了活了。” 我不觉得这句话有什么问题。AI 已经进入整个开发流程，写代码、跑测试、改文档都在用。工具突然不能用了，效… |
 | 2026-08-25 | [Agent 越用越傻？大概率是少做了这一](https://versun.me/blog/tweet-2092150903470248321) | Agent 越用越傻？大概率是少做了这一步 群里经常有朋友吐槽：自己养的 OpenClaw、Hermes 或者其它 Agent，效果不好，非常傻，放弃了好几次又捡起来，来回折腾 我观察下来，大多数人的使用习惯是这样的： 给 Agent 布置一个任务 → AI 做得半吊子 → 自己接手继续完善 → 结… |
+| 2026-08-25 | [Bun 服务周期性 CPU 100% 排查](https://bugs.cc/zh/posts/troubleshooting-bun-kafkajs-cpu-spin/) | 前几天线上遇到一个挺有意思的问题：一个用 Bun 写的服务，三个 pod 的 CPU 会周期性打满一个核，每次正好 10 分钟，然后自己掉下去。服务本身没报错，接口正常，健康检查也从来没失败过，就是 CPU 监控很难看。 |
 | 2026-08-25 | [Bun 服务周期性 CPU 100% 排查](http://bugs.cc/zh/posts/troubleshooting-bun-kafkajs-cpu-spin/) | 前几天线上遇到一个挺有意思的问题：一个用 Bun 写的服务，三个 pod 的 CPU 会周期性打满一个核，每次正好 10 分钟，然后自己掉下去。服务本身没报错，接口正常，健康检查也从来没失败过，就是 CPU 监控很难看。 排查完发现是两个单独看都不严重的问题叠在一起，中间还踩上了内核版本和 Bun… |
 | 2026-08-25 | [守心定气，沉稳立身：国学智慧修心态养气场](https://blog.zzbd.org/miao20260825/) | 人这一生，最大的底气从来不是能力超群、事事顺遂，而是心态沉稳、气场安定。很多时候，我们陷入职场焦虑、终日诚惶诚恐、遇事慌乱内耗，并非境遇艰难，而是心念浮躁、底气不足、心神失守。气场从来不是张扬强势、咄咄逼人，而是内心笃定、情绪稳定、处事从容的外在流露。中华千年国学经典，藏着修身定心、养气立身的至高智… |
 | 2026-08-25 | [看大家都开始玩硬件了，我又翻出来当初买的](https://versun.me/blog/tweet-2092122272857555227) | 看大家都开始玩硬件了，我又翻出来当初买的 GameShell，爱不释手 有人玩过吗 可惜我的开机不了了，估计是主板坏了，之前发邮件也没后文😭😭😭 |
