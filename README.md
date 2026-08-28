@@ -27,6 +27,12 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-08-28 | [下坡路的走法](https://www.hecaitou.com/2026/08/the-art-of-walking-downhill.html) | 近期不断有公众号作者来找我，哭诉流量下降的事。如果要一个简单的回答，我会说：耐心一点，也许只是一次算法调整，调整完毕之后也许会有改观。如果要一个直接的回复，我则会说：你还是去做视频或者音频吧，虽然现在也有点晚了。如果一定要写文字，那么小红书的笔记可能在现阶段更适合你。 至于我本人的想法？我经历了 B… |
+| 2026-08-28 | [开箱小米BE3600路由器(2.5G)+小米中枢网关](https://www.cheshirex.com/11043.html) | 前面我在拼多多百亿补贴买的小米BE6500Pro路由器翻车了，拼多多给了我一个二手货。 拼多多百亿补贴卖给了我 […] |
+| 2026-08-28 | [一个小区门口可以开几家包子店？](https://mobius.blog/25519.html) | 楼下有两家包子店，一家只在一、三、五、六的上午营业，而另一家一周开七天，从早上 6 点工作到凌晨 1 点。两家 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
+| 2026-08-28 | [Memos #2026-08-27](https://www.taober.blog/memos/memo_20260827013049_4202nz) | 09:33 昨晚下雨，九点准时打车，快十点才上车。到家空调吹得眼睛特别干。晚上做了个梦，导致今天又九点十五才醒，纠结了一阵还是去公司上班吧。 真两眼一睁就是干！ |
+| 2026-08-27 | [科技爱好者周刊（第 410 期）：你需要知道的 AI 三种机制](http://www.ruanyifeng.com/blog/2026/08/weekly-issue-410.html) | 这里记录每周值得分享的科技内容，周五发布。 本杂志 开源 ，欢迎 投稿 。另有 《谁在招人》 服务，发布程序员招聘信息。合作请 邮件联系 （yifeng.ruan@gmail.com）。 封面图 宁夏沙坡头景区的巨型蒙眼雕塑。（ via ） 你需要知道的 AI 三种机制 这是"AI 小知识系列"的第… |
+| 2026-08-27 | [我开始搭自己的 Jarvis，然后发现最难的是信任它｜灵感电波 #136](https://www.linggandianbo.com/newsletter-136/) | 过去几天，我开始认真搭自己的 Jarvis，也第一次感受到：个人 AGI 真正难的不是接入一个更强的模型，而是让资料、流程和每一次行动都值得信任。本期还会聊到 AI 时代的“认知债”、不靠天赋也能练习的理解力、本地模型与云端模型的分工，以及宜家产品名背后的隐藏语法。 |
 | 2026-08-27 | [学习周刊-总第278期-2026年第35周](https://wiki.eryajf.net/pages/4327cf/) | 如要阅读全文，点击标题跳转。 学习周刊-总第278期 &#124; Recordly &#124; agentbro &#124; vistars &#124; SkylerX &#124; Momento &#124; fluxnotes &#124; markra |
 | 2026-08-27 | [加密的思考，也会被偷走吗？这篇论文真正发现了什么](https://gptkit.eth.limo/513D8E71-35EE-4F4B-BD20-E9FB633C8742/) | 看到一段无法阅读的加密文本，人很容易把它当成“安全的乱码”。但在大模型 API 里，这类不透明数据可能保存着模型的隐藏推理、工具返回值，甚至用户输入过的敏感信息。 2026 年 8 月提交的论文《Stealing Reasoning Traces from Proprietary LLM APIs》… |
 | 2026-08-27 | [一群模型，各干各的活：Nemotron 3.5 Lightning 和 Switchyard 到底解决什么](https://gptkit.eth.limo/88ED405F-A12D-48AB-9B8F-C3EB7390F47B/) | 一个 AI Agent 真正运行起来以后，并不是每一步都需要最强模型。制定计划、处理复杂异常，可能值得调用能力最强的模型；执行工具、检查返回值、整理格式和重复查询，往往更在意速度和成本。 如果所有步骤都交给同一个昂贵模型，效果容易预测，账单和延迟却会迅速增加。反过来，如果只用便宜模型，复杂任务又可能… |
@@ -34,6 +40,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-08-27 | [一年](https://mobius.blog/25525.html) | 我特地在日历上设定了 8 月 28 日是一个特殊的日子，去年这个时候，我们决定给家里最老的一只、已经处于严重肾 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-08-27 | [AI Infra：Token 价格博弈策略分析](https://luweiqing.com/gossip/Token-Price-Speculation-Strategy-Analysis.html) | 模型更新快。价格难看懂。有的厂商把 API 降到几分钱一百万 Token。有的旗舰模型维持几十美元高价。新模型发布就降价抢用户。能力升级后反而提价。同一家厂商同时提供缓存价、批处理价、峰谷价、标... |
 | 2026-08-27 | [AWS 收购 DuckLabs](https://luweiqing.com/gossip/AWS-DuckLabs.html) | 买团队，不买项目。 DuckLabs（阿姆斯特丹核心团队+商业支持）→ AWS；DuckDB/Foundation/MIT 许可不变。一、数据库层面维度DuckDB 角色AWS 战略意义定位嵌入... |
+| 2026-08-27 | [emacs-在org-agenda中展示从今日开始一月后的任务](https://blog.prayhand13013.top/20260827T173018--emacs-在org-agenda中展示从今日开始一月后的任务__blog.html) |  |
 | 2026-08-27 | [横屏首次显示被缩小问题处理](https://www.an.rustfisher.com/android/fragment/dialogFragment/dialogFragment-adjust-fontscale/?utm_source=documentation&utm_medium=RSS&utm_campaign=feed-syndication) | Android处理DialogFragment横屏首次显示被缩小的问题。在横屏 Activity 中弹出自定义 DialogFragment 时，出现首次显示尺寸偏小（被压缩），但在关闭后第二次显示恢复正常的诡异现象。 |
 | 2026-08-27 | [不是 Bug,是 Feature](https://hux.ink/posts/not-a-bug-its-a-feature/) | 最近借助 Codex，把博客前台、管理后台和 Obsidian 零零碎碎折腾了一轮，主要是把一些长期用着不太顺手、看着不太舒服的地方重新收拾了一遍。 先是博客前台： 增加主题切换，目前有明亮、夜幕、霜灰、晨曦四组主题色调。 除了原有的霞鹜文楷，又加入朱雀仿宋、京华老宋体、霞鹜新致宋三款可选字体。 左… |
 | 2026-08-27 | [人不知而不愠](https://kaix.in/2026/0827/) | 虽然这几年到店里来拍照的客人一直不少，但是前几天是第一次遇到开闪光灯拍照的客人不听劝阻的情况。上前制止时，对方就像是有一套固有招式，连珠炮似的，提前给我们彼此都加了许多标签：我认知高，我幸福者退让，我不和妳这种开小店的人一般见识，妳这种规矩多的破店，一看就开不长…… 实话实说，这类言语，目的只是激怒… |
@@ -164,32 +171,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-08-21 | [烧饼论坛正式开业](https://u.sb/sb-sb/) | 折腾了一阵子，烧饼论坛终于开业啦，这是一个面向海外 IT 从业者和技术爱好者的社区论坛。 |
 | 2026-08-21 | [AI-Native 之路 —— 从 AI 友好型网站改造开始](https://lrd.im/blog/2026-08-21) | AI 改变了搜索范式，我从探索 Agent 阅读网页的方式开始，逐步让自己网站里的内容对 AI 更加开放、友好。 |
 | 2026-08-21 | [在新 Mac 上复刻我的终端环境](https://jimmy-blog.vercel.app/posts/mac) | 这是一份可复现的终端配置清单：Shell、终端应用、提示符主题、Zsh 插件与字体。方便换机或重装时恢复同样的终端体验。 你可以这样用本文： 1. 先读正文 — 了解会装什么、需要从旧机带什么。 2. 再复制给 Agent — 把「Agent 总指令」或分步代码块贴给 Cursor / Claude… |
-| 2026-08-20 | [科技爱好者周刊（第 409 期）：程序员的职业未来](http://www.ruanyifeng.com/blog/2026/08/weekly-issue-409.html) | 这里记录每周值得分享的科技内容，周五发布。 本杂志 开源 ，欢迎 投稿 。另有 《谁在招人》 服务，发布程序员招聘信息。合作请 邮件联系 （yifeng.ruan@gmail.com）。 封面图 宁波的杭州湾海月剧场，原址是江边的废弃码头，被改建为古典园林。（ via ） 程序员的职业未来 程序员这… |
-| 2026-08-20 | [我们正在经历一场浪漫大萧条｜灵感电波 #135](https://www.linggandianbo.com/newsletter-135/) | 为什么想进入长期关系的人，反而越来越难遇见彼此；英伟达为何开始替客户找钱，算法又怎样把丰富的世界压成平均值。另有理解大模型的一条信息论路径，以及把复杂知识做成互动环境的学习方法。 |
-| 2026-08-20 | [学习周刊-总第277期-2026年第34周](https://wiki.eryajf.net/pages/5df013/) | 如要阅读全文，点击标题跳转。 学习周刊-总第277期 &#124; tiycode &#124; cube-pets-office &#124; helmor &#124; Gitnuro &#124; ptcpdump &#124; TokenTracker &#124; OtterHub &#124; reef |
-| 2026-08-20 | [巴黎简游记](https://eduardoqian.com/archives/ba-li-jian-you-ji) | 8月12日到8月16日，在巴黎简单的旅游了一下，相比于上次去挪威的旅行，这次的旅游更多的倾向于传统意义上的旅游，去了那些巴黎著名的景点。 8月12日 —— 到达，日食，埃菲尔铁塔 哥德堡没有直接飞到巴黎的廉航，我是从哥本哈根飞到巴黎的。去哥本哈根是火车，于是我一大早就步行到火车站，乘坐3个小时的火车 |
-| 2026-08-20 | [Debian Linux 裸金属开局网络快速配置工具](https://songxwn.com/Debian-network-tui/) | 这篇教程将详细说明如何在裸金属服务器初始化时，通过 ISO 挂载并使用 Debian-network-tui 图形化快速完成网络配置，避免手工编辑 /etc/network/interfaces 的繁琐与错误。 还能自动化配置apt源、DNS、SSH服务+公钥导入 适用于Debian 11-13 使… |
-| 2026-08-20 | [连胜的陷阱](https://blog.solazy.me/20260820/) | 今天检讨一下断更这件事儿 |
-| 2026-08-20 | [无用命途：动态海景灯，用电脑说脏话](https://blog.mfwt.top/index.php/archives/1523/) | 《无用命途》，专门用来记录笔者的一些无用（甚至无厘头的）想法，且每个想法后会附带一点内容，用来介绍这个想法（及其衍生的）有关的东西。每周最多更新一次，但不保证周更，主要看想法的活跃度如何。 |
-| 2026-08-20 | [丁达尔](https://mobius.blog/25454.html) | 小王闲来无事，看见远处的云层里透出了阳光，便停下脚步掏出手机开始拍照。 一个路人看见小王用手机拍照，便上前问道 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
-| 2026-08-20 | [Introduction Finger](https://www.bboy.app/2026/08/20/introduction-finger/) | Introduction Today I stumbled on an article about the Finger protocol ( Finger: the 1971 social network that never died , written by Andros Fenollosa… |
-| 2026-08-20 | [介绍下Finger](https://www.bboy.app/2026/08/20/%E4%BB%8B%E7%BB%8D%E4%B8%8Bfinger/) | 简介 今天刷到一篇讲 Finger 协议的文章（ Finger: the 1971 social network that never died ，en.andros.dev 的 Andros Fenollosa 写的），才知道原来 1971 年就有社交网络了，而且我的 Mac 上一直自带它的客户端… |
-| 2026-08-20 | [Forgejo使用自定义镜像](https://elliot00.com/posts/forgejo-custom-docker-image) | 本文针对 Forgejo Runner 重复 apt 安装导致耗时过长的问题，利用阿里云免费 ACR 构建预装常用工具的自定义镜像，替换默认镜像后 CI 时间从 15 分钟缩至 10 分钟内，并提醒构建后及时取消 GitHub 授权。 |
-| 2026-08-20 | [2026.8.20](https://www.justzht.com/2026-8-20/) | 最近在跑的一个实验，算是个人知识图谱。源头是想说如果做一个量化系统，需要一个类似于 polymarket 一样的预测系统， |
-| 2026-08-20 | [我就简单了， 用 kimi code 集](https://versun.me/blog/tweet-2090359252254949735) | LIN WEI 你们觉得 AI 审查过九遍就够了吗？其实还是会发现问题： https://twitter.com/skywind3000/status/2089560587374371130 我就简单了， 用 kimi code 集群 + goal 模式，审查代码并修复直到没有问题为止，完了 |
-| 2026-08-20 | [deepseek harness 受害者](https://versun.me/blog/tweet-2090315040213926272) | deepseek harness 受害者+1 😂 DS 这步走的是险棋，想出奇制胜，通过共创插件，快速建立生态 但插件质量参差不齐，前后兼容性是个非常难解决的问题 所以，我的判断是，尽量不要直接用DSH，过段时间，看看有没有稳定的第三方整合维护的版本，这才是生产该用的，就像 Linux/Ubuntu… |
-| 2026-08-20 | [挺有意思的一个新的 AI 设计与开发平台](https://versun.me/blog/tweet-2090310807007752333) | OJO Today, we're introducing OJO: The first Design Agent Team Workspace. Build your own design agent team, add specialized skills, and turn ideas into… |
-| 2026-08-20 | [过七夕](https://www.hecaitou.com/2026/08/spending-chinese-valentines-day.html) | 今年的七夕我没有感到什么节日气氛，可能是年纪到了，算法精了，知道推送节日促销消息给我是种浪费。一整天下来，只有麦当劳一家还在孜孜不倦地提醒我七夕到了，方法是在外卖袋子上附上了一条长达一米的打印纸条，内容是完整的一幅条漫：七夕了，带女朋友去吃麦乐堡吧。 相较而言，电话营销的精准度就要好很多。在七夕，我… |
-| 2026-08-20 | [最近惦念 20260727](https://z.arlmy.me/posts/TILs/thoughts/20260727_Recently/) | 「多用“似乎是的”，虚化掉一切试试看。」 |
-| 2026-08-20 | [LangBot 接入Netbox 配置查询机器人](https://songxwn.com/LangBot-Netbox-Tutorial/) | 前言 本教程用于使用LangBot，配置机器人、LLM接入、流水线、MCP接入等。 最终目的为在即时通信平台接入AI机器人，查询NetBox数据。并通过提示词整形和约束查询数据。 |
-| 2026-08-20 | [emacs-在龙芯UOS20旧世界设备上编译最新Emacs等软件](https://blog.prayhand13013.top/20260820T110123--emacs-在龙芯uos20旧世界设备上编译最新emacs等软件__blog.html) |  |
-| 2026-08-20 | [Wolfenstein: Enemy Territory updated](https://macsourceports.com/game/wolfet) | The build of ET: Legacy for Wolfenstein: Enemy Territory has been updated to version 2.85.0 of the project |
-| 2026-08-20 | [Google Gemini AI Pro 又来了，可领取1年Pro套餐会员](https://www.cheshirex.com/10951.html) | Google Gemini AI Pro 又来了，上次领过的这次打开页面地址可以直接领。 领取地址 https […] |
-| 2026-08-20 | [gzsw-ui 生产白屏排查：CDN 将 SPA 兜底 HTML 缓存为 JS](https://199604.com/3652) | gzsw-ui 生产白屏排查：CDN 将 SPA 兜底 HTML 缓存为 JS 记录时间：2026-08-20 […] |
-| 2026-08-20 | [独树不成林，牛来人来疯](https://mobius.blog/25443.html) | 我们先猜一猜《牛来》的受众是哪些人？ 这里先埋个包袱——大概过几年，可能又会有人把这部电影翻出来，标题我都帮他 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
-| 2026-08-20 | [简单评测了下，依旧是围绕 nmem 的记](https://versun.me/blog/tweet-2090244557778911673) | Versun 本地模型又迎来一个挑战者：Ornith-1.5 简单汇总下评测数据，并和 Qwen3.8-27B 做个对比 @AlibabaQwen 学学人家，一开始就放出了 35B-A3B，你再不出，我可要叛逃到 Ornith 了🤓 https://twitter.com/ornith/status… |
-| 2026-08-20 | [本地模型又迎来一个挑战者：Ornith-](https://versun.me/blog/tweet-2090231764103135585) | Ornith Aloha! 🌺Introducing Ornith-1.5, a family of open-source LLMs spanning 9B Dense, 35B MoE, and 397B MoE, trained with self-improving strategies.… |
-| 2026-08-20 | [暂时还不能代替 screenpipe 或](https://versun.me/blog/tweet-2090228925570093269) | Versun 太好了，我之前一直用的 @screenpipe ，不是很好用， 今天试一试cua的！ https://twitter.com/trycua/status/2089770780053643397 暂时还不能代替 screenpipe 或者 chatgpt 的 computer histo… |
 
 ## Vibe Coding
 
