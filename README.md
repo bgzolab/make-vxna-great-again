@@ -27,6 +27,12 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-08-28 | [Theme Hospital updated](https://macsourceports.com/game/themehospital) | The build of CorsixTH for Theme Hospital has been updated to version v0.70.1 of the project |
+| 2026-08-28 | [No One Lives Forever 2: A Spy in H.A.R.M.'s Way updated](https://macsourceports.com/game/nolf2) | The build of NOLF2 for Mac for No One Lives Forever 2: A Spy in H.A.R.M.'s Way has been updated to version 0.4.2 of the project |
+| 2026-08-28 | [Quetoo updated](https://macsourceports.com/game/quetoo) | The build of Quetoo has been updated to version v1.0.84 of the project |
+| 2026-08-28 | [入蜀记 day459 十年周期](https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_459/) | 「十年周期。」 |
+| 2026-08-28 | [入蜀记 day458 Dead Kennedys](https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_458/) | 「Dead Kennedys.」 |
+| 2026-08-28 | [理财笔记 20260828](https://z.arlmy.me/posts/TILs/money/20260828_InvestmentNote/) | 「小记。」 |
 | 2026-08-28 | [下坡路的走法](https://www.hecaitou.com/2026/08/the-art-of-walking-downhill.html) | 近期不断有公众号作者来找我，哭诉流量下降的事。如果要一个简单的回答，我会说：耐心一点，也许只是一次算法调整，调整完毕之后也许会有改观。如果要一个直接的回复，我则会说：你还是去做视频或者音频吧，虽然现在也有点晚了。如果一定要写文字，那么小红书的笔记可能在现阶段更适合你。 至于我本人的想法？我经历了 B… |
 | 2026-08-28 | [开箱小米BE3600路由器(2.5G)+小米中枢网关](https://www.cheshirex.com/11043.html) | 前面我在拼多多百亿补贴买的小米BE6500Pro路由器翻车了，拼多多给了我一个二手货。 拼多多百亿补贴卖给了我 […] |
 | 2026-08-28 | [一个小区门口可以开几家包子店？](https://mobius.blog/25519.html) | 楼下有两家包子店，一家只在一、三、五、六的上午营业，而另一家一周开七天，从早上 6 点工作到凌晨 1 点。两家 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
@@ -73,7 +79,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-08-25 | [New Release: Warcraft II: Tides of Darkness](https://macsourceports.com/game/wc2) | Long before the franchise became known for the MMO, the Warcraft series started out as a series of real-time strategy games. The original game was a h… |
 | 2026-08-25 | [AI未来](https://elmagnifico.tech/2026/08/26/AI-Future/) | Foreword 最近看了几篇东西，一篇Bob大叔的对谈，一篇李飞飞访谈，还有Linus用AI修内核的commit。有点意思，记录一下。 关键点还是写在前面：AI会的东西，不是你会的。AI成长了，不代表你成长了。你把活丢给它，它越来越强，你的见识和能力并没有跟着涨。 一年前写 Cursor 的时候就… |
 | 2026-08-25 | [不可证伪的黑盒](https://blog.solazy.me/20260825/) | 今天突然想聊一个非常有趣的事情 |
-| 2026-08-25 | [Quetoo updated](https://macsourceports.com/game/quetoo) | The build of Quetoo has been updated to version v1.0.82 of the project |
 | 2026-08-25 | [Ingress 流量整形](https://www.kawabangga.com/posts/7376) | 问题是这样，我们有 2 组服务器，A 组和 B 组，一部分用户从 A 组下载文件，一部分从 B 组下载文件。分 […] Continue reading... |
 | 2026-08-25 | [爽玩 Omarchy：好品味 + AI](https://blog.n3r0.cool/post/wow-omarchy/) | 又是一次让人难忘的经历。熟悉而陌生的体验，像做梦一样，就这么来到了眼前。 这就是 Omarchy 吗？ 老实说，对于手动安装过很多次 Arch、折腾过各种桌面环境和终端工具的我来说，上手之后，一切都有种难以言喻的熟悉感。简单读过文档后会发现，它的基础并不神秘：Hyprland、常用工具，以及一整套预… |
 | 2026-08-25 | [AutoUninstaller导致的Installer拒绝访问](https://foglog.cn/p/auto-uninstaller-fix) | 安装应用时，Installer 提示「拒绝访问」。出问题的是系统 Installer 注册表路径，Auto Uninstaller 运行时通过 regini 命令将该路径下的注册表项权限修改为 ... |
@@ -93,7 +98,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-08-25 | [workbuddy 最近更新的 人机双写](https://versun.me/blog/tweet-2092049698689614315) | workbuddy 最近更新的 人机双写 有点东西啊，内置了 office 套件，可以直接在 workbuddy 上和 AI 一起编辑文档， 如图我直接在表格里选区让它帮我创建甘特图，非常方便 不得不说，腾讯做落地还是很有一套的 @tencentcloud #tencentcloudbuddy @W… |
 | 2026-08-24 | [openApiGateway 跨域 403 问题](https://199604.com/3661) | openApiGateway 跨域 403 问题 记录时间：2026-08-21 环境：测试环境 / open […] |
 | 2026-08-24 | [2026 年七月 读基层生计，理财育儿 7 本](https://conge.livingwithfcs.org/2026/08/24/reading_summary/) | 引子 引子 七月的阅读，从马驹桥的日结工、深圳的保洁员、大街上的外卖员，到小区门口的保安，我读了几本关于基层生计的书，看见城市运转背后那些被忽视的人——他们像极了社会主义革命者所同情的资本主义社会的无保障的工人与贫民。社会主义中国运行了这么多年，底层问题是重新出现吗？这个问题，我在这些书里没有找到答… |
-| 2026-08-24 | [No One Lives Forever 2: A Spy in H.A.R.M.'s Way updated](https://macsourceports.com/game/nolf2) | The build of NOLF2 for Mac for No One Lives Forever 2: A Spy in H.A.R.M.'s Way has been updated to version 0.4.1 of the project |
 | 2026-08-24 | [Jazz Jackrabbit 2 updated](https://macsourceports.com/game/jazzjackrabbit2) | The build of Jazz² Resurrection for Jazz Jackrabbit 2 has been updated to version 3.8.0 of the project |
 | 2026-08-24 | [迷幻](https://mobius.blog/25491.html) | 现在是 00:49 分，睡觉要的药效已经持续了 15 分钟，我现在头部的每一个摇动，都可以把我狠狠砸在书桌上， […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-08-24 | [香港雞公嶺](https://taxodium.ink/hong-kong-kai-kung-leng.html) | 香港雞公嶺 🎵 你知道天空有多蓝 - 椅子乐团 The Chairs 上周二和女友去爬了香港 雞公嶺 ，之所以想去，是之前看到了一些別人拍的圖片，山頂大片的綠、天空大片的蓝，還有雪白得刺眼的 濃積雲 ，就像是宫崎駿動画裡的埸景，一直想去看看。要看到這樣的景色，得在夏天去才行，這時山上的草還是綠的，也… |
