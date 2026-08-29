@@ -27,10 +27,20 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-08-29 | [深入 XRepoTest：如何把 LLM 单元测试生成拉回真实仓库](https://shansan.top/2026/08/29/xrepotest-deep-dive/) | XRepoTest, repository-level unit test generation, LLM benchmark, invocation rate, multilingual testing |
+| 2026-08-29 | [计算机网络如何帮我理解「人们难以相互理解」？](https://www.geedea.pro/article/layers-of-mental-models/) | 题中所指的「计算机网络」并非「互联网」，而是每个计算机学生都一定会修读的《计算机网络》中涵盖的相关知识。本文不谈社交媒体、同温层、信息茧房和推荐算法如何让人们陷入不能相互理解的困境和情绪化的骂战——我的确会谈此类现象，但不是通过这种方式。 人们把互联网想象得太具破坏性，而鲜少自省。在极客和书呆子们修… |
+| 2026-08-29 | [《大空头》与 2008 年金融危机](https://depp.wang/2026/the-big-short/) | 看完《大空头》以后，我原本以为 2008 年金融危机的逻辑很简单：美国人借了太多房贷，还不上，于是房价下跌，银行就出问题了。 但电影真正讲的不是一笔笔房贷本身，而是这些房贷后来被华尔街不断打包、出售、再打包，以及在上面反复下注。危机的核心，是大量低质量的次级房贷被证券化，并通过 MBS、CDO 和衍… |
+| 2026-08-29 | [Mimocode/Opencode 的 Responses API 支持](https://blog.est.im/2026/stdout-34) | 当前的 MiMoCodev0.1.13里，Responses API 有两套入口 Vercel SDK 的 responses() 方法 —— 触发条件是 provider id 为 openai / github-copilot / azure 。 provider 为 gitlab 且每个模型加… |
+| 2026-08-29 | [2026.8.29](https://www.justzht.com/2026-8-29/) | 无事发生的一周，各种事情仍然卡在不前不后的部分。 上周末在家看了 King of New York 。老片子了，剧情有点虎头蛇尾， |
+| 2026-08-29 | [那时候，贾母也才十来岁](https://kaix.in/2026/0829/) | 最近总是猛不丁想起一些孩童时期的片段旧事。比如想起现在的一位好友多年前在教室里两眼放光地给大家讲故事；还想起不知多少年前，和一群记不清面孔的伙伴一起在狭窄的通道里登顶龙泉塔，从塔顶的小窗一览小城全貌，彼时塔东还是一片空旷之地；又想起，年少时很偶然地将几张海报贴在自己床头，就被家父认定是在追星，说我不… |
+| 2026-08-29 | [洗眼睛](https://www.hecaitou.com/2026/08/Washing-My-Eyes.html) | 前阵子有个号称要破尽一切封建迷信的博主遭遇车祸而亡，之前那个姑娘把各种砸神像、闯坟地、住凶宅一类的事情都干了，做成视频放在网上给网友看，据说这也是目前网上做内容的一条「赛道」。 我那位格鲁巴的朋友当时给出的评论比较奇怪，没有落在唯心唯物，因果报应一类的观点上，而是说他看了一点姑娘的视频，后悔不已，不… |
+| 2026-08-29 | [体验 Age + SOPS 的轻量化配置文件加密方案](https://blog.yasking.org/a/age-sops) | 前两天从 AI 那里听说 age + SOPS，不了解，学习看看。 安装 age & SOPS age 是使用 go 编写的现代、简单的文件加密工具，主打易用和安全，支持 … |
+| 2026-08-29 | [VMware VCF 9.1 下载和激活](https://songxwn.com/VMware-VCF9.1-Download/) | VMware Cloud Foundation (VCF) 9.1 是一款面向现代私有云的统一平台，强调高效运维、快速应用交付以及内置的网络安全与数据保护能力。它支持虚拟机、容器和 AI 工作负载的统一运行，帮助企业在复杂环境下实现规模化、自动化和弹性。 VMware VMware Blogs ✨… |
 | 2026-08-29 | [模型越强，为什么我们反而越不敢放手？](https://gptkit.eth.limo/0F0DF99D-0544-4648-8C15-2388F6FB0F7F/) | 模型跑分提高，和它更适合一起工作，并不是同一件事。 一个编码 Agent 可以更快定位错误、完成更长的任务，也可能在需求有歧义时替人选定方向。它交付得更快了，人却不敢离开屏幕：每隔几分钟就要检查它是否扩大范围、改变计划，或把某个未写出的假设当成事实。 本文由《听懂 AI》第 006 期整理而成。节目… |
 | 2026-08-29 | [《我的女友景甜》是富豪反女权的里程碑](https://sinyalee.com/blog/?p=1338) | 我认识的有钱人和顶级女人（指学历长相名气在择偶市场上被人追捧的女人）都不少。我从两个方向见过太多富豪被女权捞女 […] |
 | 2026-08-28 | [Star Wars: TIE Fighter updated](https://macsourceports.com/game/swtiefighter) | The build of OpenTIE for Star Wars: TIE Fighter has been updated to version 0.0.5 of the project |
 | 2026-08-28 | [Star Wars: X-Wing Alliance updated](https://macsourceports.com/game/swxwa) | The build of OpenXWA for Star Wars: X-Wing Alliance has been updated to version 0.0.16 of the project |
+| 2026-08-28 | [介绍一家最近去的头马 Toastmasters 演讲俱乐部](https://www.owenyoung.com/toastmasters) | 最近连续 3 周周五晚上都会去一家听名字我都不太敢介绍给别人的一个组织：头马 （Toastmasters）演讲俱乐部，Toastmasters，字面意思是“祝酒辞大师”。我去的是上海的 LEP 演讲俱乐部。 头马这个组织成立于 1924 年，已经一百多年了（我三周前才知道头马这个词）。它是一个非营利… |
 | 2026-08-28 | [Theme Hospital updated](https://macsourceports.com/game/themehospital) | The build of CorsixTH for Theme Hospital has been updated to version v0.70.1 of the project |
 | 2026-08-28 | [No One Lives Forever 2: A Spy in H.A.R.M.'s Way updated](https://macsourceports.com/game/nolf2) | The build of NOLF2 for Mac for No One Lives Forever 2: A Spy in H.A.R.M.'s Way has been updated to version 0.4.2 of the project |
 | 2026-08-28 | [Quetoo updated](https://macsourceports.com/game/quetoo) | The build of Quetoo has been updated to version v1.0.84 of the project |

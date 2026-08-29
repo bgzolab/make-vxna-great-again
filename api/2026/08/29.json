@@ -1,5 +1,68 @@
 [
   {
+    "title": "深入 XRepoTest：如何把 LLM 单元测试生成拉回真实仓库",
+    "url": "https://shansan.top/2026/08/29/xrepotest-deep-dive/",
+    "date": "2026-08-29T18:00:00Z",
+    "description": "XRepoTest, repository-level unit test generation, LLM benchmark, invocation rate, multilingual testing",
+    "source_root_domain": "shansan.top"
+  },
+  {
+    "title": "计算机网络如何帮我理解「人们难以相互理解」？",
+    "url": "https://www.geedea.pro/article/layers-of-mental-models/",
+    "date": "2026-08-29T10:49:58Z",
+    "description": "题中所指的「计算机网络」并非「互联网」，而是每个计算机学生都一定会修读的《计算机网络》中涵盖的相关知识。本文不谈社交媒体、同温层、信息茧房和推荐算法如何让人们陷入不能相互理解的困境和情绪化的骂战——我的确会谈此类现象，但不是通过这种方式。 人们把互联网想象得太具破坏性，而鲜少自省。在极客和书呆子们修建好虚拟广场之前，人们就已经在其他的广场上建好巴别塔了，而互联网只是让巴别塔伸手可及，也让人们建立起对它的病态依赖，是放大因素而非万恶之源。本文基于我自己的观察和总结，试图分析为什么人们无法相互理解。我并不会把话题下降到情绪层面（对应的问题是「为什么人们 不想 相互理解？」），我只在理性的领域讨论。 开胃小菜 倘若读者接受过像样的计算机本科教育，或者自己研究过相关知识，就可以跳过这一节。我并不会讲太深刻的内容，尽力让所有人都能读懂。 架设计算机网络很复杂，人们要考虑的问题很多：用什么媒介传输数据？数据用什么格式表示？数据包里需要包含什么信息？计算机之前怎么建立连接？一台计算机怎么找到庞大网络中的另一台计算机？仔细审视一番就不难发现，这些问题之间还存在依赖关系，比方说，计算机之间建立连接的方式",
+    "source_root_domain": "geedea.pro"
+  },
+  {
+    "title": "《大空头》与 2008 年金融危机",
+    "url": "https://depp.wang/2026/the-big-short/",
+    "date": "2026-08-29T09:37:25Z",
+    "description": "看完《大空头》以后，我原本以为 2008 年金融危机的逻辑很简单：美国人借了太多房贷，还不上，于是房价下跌，银行就出问题了。 但电影真正讲的不是一笔笔房贷本身，而是这些房贷后来被华尔街不断打包、出售、再打包，以及在上面反复下注。危机的核心，是大量低质量的次级房贷被证券化，并通过 MBS、CDO 和衍生品扩散到整个金融系统。最开始只是少数人还不起房贷，为什么会变成全球金融危机？我把自己看电影时想问的几个问题，按这条链路重新整理了一下。",
+    "source_root_domain": "depp.wang"
+  },
+  {
+    "title": "Mimocode/Opencode 的 Responses API 支持",
+    "url": "https://blog.est.im/2026/stdout-34",
+    "date": "2026-08-29T08:47:00Z",
+    "description": "当前的 MiMoCodev0.1.13里，Responses API 有两套入口 Vercel SDK 的 responses() 方法 —— 触发条件是 provider id 为 openai / github-copilot / azure 。 provider 为 gitlab 且每个模型加上 \"useResponsesApi\": true 就tmd很神奇。。一眼 vibe coding。我感觉世界上理解 Responses API 意义的人可能比例很少。。。 走 gitlab { \"$schema\": \"https://mimo.xiaomi.com/mimocode/config.json\", \"provider\": { \"gitlab\": { \"name\": \"GitLab\", \"models\": { \"gpt-5-codex\": { \"useResponsesApi\": true } } } } } 可以通过 GITLABINSTANCEURL GITLAB_TOKEN 环境变量去变通，但是 token 来自 directAccessClient.getDirectAc",
+    "source_root_domain": "feedburner.com"
+  },
+  {
+    "title": "2026.8.29",
+    "url": "https://www.justzht.com/2026-8-29/",
+    "date": "2026-08-29T08:39:28Z",
+    "description": "无事发生的一周，各种事情仍然卡在不前不后的部分。 上周末在家看了 King of New York 。老片子了，剧情有点虎头蛇尾，",
+    "source_root_domain": "justzht.com"
+  },
+  {
+    "title": "那时候，贾母也才十来岁",
+    "url": "https://kaix.in/2026/0829/",
+    "date": "2026-08-29T04:16:04Z",
+    "description": "最近总是猛不丁想起一些孩童时期的片段旧事。比如想起现在的一位好友多年前在教室里两眼放光地给大家讲故事；还想起不知多少年前，和一群记不清面孔的伙伴一起在狭窄的通道里登顶龙泉塔，从塔顶的小窗一览小城全貌，彼时塔东还是一片空旷之地；又想起，年少时很偶然地将几张海报贴在自己床头，就被家父认定是在追星，说我不走寻常路——妳能猜到我贴的是什么海报了吧——并不是抱怨，但父亲的确是时常误解我。 于是不禁想到，父亲的「闪回时间」里会出现哪些人和事呢？他是否也感叹时间匆匆，那些意气风发，那些心神涤荡，那些莫名其妙……最终成了镜子中当下的自己？或许不像我这么动辄伤春悲秋，但任谁都有难忘的经历吧，《红楼梦》第三十八回里的一段突然蹦了出来： 贾母听了，又抬头看匾，因回头向薛姨妈道：「我先小时，家里也有这么一个亭子，叫做什么『枕霞阁』。我那时也只象他们这么大年纪，同姊妹们天天顽去。那日谁知我失了脚掉下去，几乎没淹死，好容易救了上来，到底被那木钉把头碰破了。如今这鬓角上那指头顶大一块窝儿就是那残破了。众人都怕经了水，又怕冒了风，都说活不得了，谁知竟好了。」 fin. 激赏 ！ 来信 。",
+    "source_root_domain": "kaix.in"
+  },
+  {
+    "title": "洗眼睛",
+    "url": "https://www.hecaitou.com/2026/08/Washing-My-Eyes.html",
+    "date": "2026-08-29T03:56:46Z",
+    "description": "前阵子有个号称要破尽一切封建迷信的博主遭遇车祸而亡，之前那个姑娘把各种砸神像、闯坟地、住凶宅一类的事情都干了，做成视频放在网上给网友看，据说这也是目前网上做内容的一条「赛道」。 我那位格鲁巴的朋友当时给出的评论比较奇怪，没有落在唯心唯物，因果报应一类的观点上，而是说他看了一点姑娘的视频，后悔不已，不得不给自己做忏悔和除障仪式。 理由是什么呢？理由是当他看视频的时候，如果内心随喜那些行为，他就该忏悔；如果内心对姑娘产生了嗔恨，他还是该忏悔。所以，左右都没有好事，于是非常后悔自己为什么要那么好奇去点开看。 我看后不大以为然，觉得他们格鲁巴从来都热爱吵架，整天没事就辩来辩去，正过去思考倒过来思量，掉入这种两难处境肯定难免。不过，这两天我的想法有点改变，因为我也遇见了需要洗眼睛的事情。 起因是一篇加密货币领域著名镰刀手的小作文，讲述他和明星前女友之间的情感纠葛和经济纠纷。目的很单纯，就是彻底毁灭前女友的职业生涯，同时为自己捞一波流量---这是他的习惯，此人就算是被抓去枪毙，有人在法场上救回他来，松绑起身的第一时间，他就开始盘算怎么从对方手上弄到一笔回城的打车钱。 这篇小作文用意本身就不良善，所",
+    "source_root_domain": "hecaitou.com"
+  },
+  {
+    "title": "体验 Age + SOPS 的轻量化配置文件加密方案",
+    "url": "https://blog.yasking.org/a/age-sops",
+    "date": "2026-08-29T03:49:00Z",
+    "description": "前两天从 AI 那里听说 age + SOPS，不了解，学习看看。 安装 age & SOPS age 是使用 go 编写的现代、简单的文件加密工具，主打易用和安全，支持 …",
+    "source_root_domain": "yasking.org"
+  },
+  {
+    "title": "VMware VCF 9.1 下载和激活",
+    "url": "https://songxwn.com/VMware-VCF9.1-Download/",
+    "date": "2026-08-29T02:29:24Z",
+    "description": "VMware Cloud Foundation (VCF) 9.1 是一款面向现代私有云的统一平台，强调高效运维、快速应用交付以及内置的网络安全与数据保护能力。它支持虚拟机、容器和 AI 工作负载的统一运行，帮助企业在复杂环境下实现规模化、自动化和弹性。 VMware VMware Blogs ✨ VCF 9.1 的核心亮点 高效基础设施与运维 提供多租户云运维能力，支持安全 VPC、可扩展集群管理和生命周期自动化，降低运维复杂度。 VMware 快速应用交付 通过自动化云服务交付和自助式平台体验，加速应用上线，提升敏捷性与安全性。 VMware Blogs 集成网络安全与数据保护 内置网络安全、加密存储和数据保护机制，确保业务连续性和合规性。 VMware 🖥️ 技术增强 NVMe 内存分层 热数据保留在 DRAM，冷数据迁移至 NVMe，实现高达 40% 的服务器整合率和更低 TCO。 VMware Blogs vSAN 全局去重与压缩 持续消除冗余数据，提升压缩效率，降低存储成本。 VMware Blogs vSphere 弹性部署 支持并行镜像、自动发现和一致性配置，加快主机上",
+    "source_root_domain": "songxwn.com"
+  },
+  {
     "title": "模型越强，为什么我们反而越不敢放手？",
     "url": "https://gptkit.eth.limo/0F0DF99D-0544-4648-8C15-2388F6FB0F7F/",
     "date": "2026-08-29T01:53:26Z",
@@ -26,6 +89,13 @@
     "date": "2026-08-28T21:36:39Z",
     "description": "The build of OpenXWA for Star Wars: X-Wing Alliance has been updated to version 0.0.16 of the project",
     "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "介绍一家最近去的头马 Toastmasters 演讲俱乐部",
+    "url": "https://www.owenyoung.com/toastmasters",
+    "date": "2026-08-28T19:00:59Z",
+    "description": "最近连续 3 周周五晚上都会去一家听名字我都不太敢介绍给别人的一个组织：头马 （Toastmasters）演讲俱乐部，Toastmasters，字面意思是“祝酒辞大师”。我去的是上海的 LEP 演讲俱乐部。 头马这个组织成立于 1924 年，已经一百多年了（我三周前才知道头马这个词）。它是一个非营利的演讲组织，全球有一万五千多家分支俱乐部，上海有 100 多家。头马总部提供品牌+基本流程（黑话，仪式等），各个俱乐部高度自治，大家用的基本流程类似（下文会介绍到），会员入会是按半年交会费（各地价格不一样，我去的这家似乎是半年 800 左右，其中 500 块上交给总部的，但如果你经常贡献演讲和角色，会费会按比例返还一些）。 听到这里是不是警报已经响起哈哈： 听名字和流程有一种浓浓的成功学味。会费 + 发展会员，像邪教+传销。",
+    "source_root_domain": "owenyoung.com"
   },
   {
     "title": "Theme Hospital updated",
