@@ -27,15 +27,26 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-08-29 | [模型越强，为什么我们反而越不敢放手？](https://gptkit.eth.limo/0F0DF99D-0544-4648-8C15-2388F6FB0F7F/) | 模型跑分提高，和它更适合一起工作，并不是同一件事。 一个编码 Agent 可以更快定位错误、完成更长的任务，也可能在需求有歧义时替人选定方向。它交付得更快了，人却不敢离开屏幕：每隔几分钟就要检查它是否扩大范围、改变计划，或把某个未写出的假设当成事实。 本文由《听懂 AI》第 006 期整理而成。节目… |
+| 2026-08-29 | [《我的女友景甜》是富豪反女权的里程碑](https://sinyalee.com/blog/?p=1338) | 我认识的有钱人和顶级女人（指学历长相名气在择偶市场上被人追捧的女人）都不少。我从两个方向见过太多富豪被女权捞女 […] |
+| 2026-08-28 | [Star Wars: TIE Fighter updated](https://macsourceports.com/game/swtiefighter) | The build of OpenTIE for Star Wars: TIE Fighter has been updated to version 0.0.5 of the project |
+| 2026-08-28 | [Star Wars: X-Wing Alliance updated](https://macsourceports.com/game/swxwa) | The build of OpenXWA for Star Wars: X-Wing Alliance has been updated to version 0.0.16 of the project |
 | 2026-08-28 | [Theme Hospital updated](https://macsourceports.com/game/themehospital) | The build of CorsixTH for Theme Hospital has been updated to version v0.70.1 of the project |
 | 2026-08-28 | [No One Lives Forever 2: A Spy in H.A.R.M.'s Way updated](https://macsourceports.com/game/nolf2) | The build of NOLF2 for Mac for No One Lives Forever 2: A Spy in H.A.R.M.'s Way has been updated to version 0.4.2 of the project |
 | 2026-08-28 | [Quetoo updated](https://macsourceports.com/game/quetoo) | The build of Quetoo has been updated to version v1.0.84 of the project |
 | 2026-08-28 | [入蜀记 day459 十年周期](https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_459/) | 「十年周期。」 |
 | 2026-08-28 | [入蜀记 day458 Dead Kennedys](https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_458/) | 「Dead Kennedys.」 |
+| 2026-08-28 | [腾讯 hy4 才 770B 啊，也是MO](https://versun.me/blog/tweet-2093241536352018699) | Tencent Hy 🚀 Hy4 preview is here. 770B, 49B active, 1M context. Built for productivity. Open source frontier. Consistent affordable price. Use it. Tel… |
 | 2026-08-28 | [理财笔记 20260828](https://z.arlmy.me/posts/TILs/money/20260828_InvestmentNote/) | 「小记。」 |
+| 2026-08-28 | [哈哈，想起以前自己折腾 linux 的时](https://versun.me/blog/tweet-2093196663976562782) | DHH Maybe Nix is like Rust: Amazing if you don't have to look at the code! I'm open to the idea that Omarchy Cinque could switch packaging system if I… |
+| 2026-08-28 | [DeepSeek Harness：为什么要把智能体的所有部件都做成插件](https://gptkit.eth.limo/1058DA1B-E83D-40F2-B88C-171915F02042/) | 比较 AI Agent 时，人们往往先问“用了哪个模型”。但模型只是其中一部分。它能访问哪些文件和工具、怎样管理上下文、何时请求批准、如何恢复失败、把运行记录保存在哪里，这些都由模型之外的 Harness 决定。 DeepSeek Harness 的 Developer Preview 把这层基础设… |
 | 2026-08-28 | [下坡路的走法](https://www.hecaitou.com/2026/08/the-art-of-walking-downhill.html) | 近期不断有公众号作者来找我，哭诉流量下降的事。如果要一个简单的回答，我会说：耐心一点，也许只是一次算法调整，调整完毕之后也许会有改观。如果要一个直接的回复，我则会说：你还是去做视频或者音频吧，虽然现在也有点晚了。如果一定要写文字，那么小红书的笔记可能在现阶段更适合你。 至于我本人的想法？我经历了 B… |
+| 2026-08-28 | [终于拿到 Kimi 的飞书助手 Mira](https://versun.me/blog/tweet-2093165397264777369) | 终于拿到 Kimi 的飞书助手 Mira 的内测资格了，这几天玩玩看怎么样 |
 | 2026-08-28 | [开箱小米BE3600路由器(2.5G)+小米中枢网关](https://www.cheshirex.com/11043.html) | 前面我在拼多多百亿补贴买的小米BE6500Pro路由器翻车了，拼多多给了我一个二手货。 拼多多百亿补贴卖给了我 […] |
+| 2026-08-28 | [AI 让代码变便宜以后，工程师真正昂贵的是什么](https://gptkit.eth.limo/9465B233-6B36-4432-ADA1-1A7E447C9186/) | AI 编程工具最直观的变化，是让“写出一批能运行的代码”变得更快。一个需求可以在几小时内长出页面、接口、数据表和测试，过去需要几天的实现工作被压缩到一个下午。 但软件交付并不在代码生成时结束。团队还要理解设计、审查影响、验证行为、迁移数据、处理故障，并在几个月后继续修改。生成速度提高后，这些工作反而… |
 | 2026-08-28 | [一个小区门口可以开几家包子店？](https://mobius.blog/25519.html) | 楼下有两家包子店，一家只在一、三、五、六的上午营业，而另一家一周开七天，从早上 6 点工作到凌晨 1 点。两家 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
+| 2026-08-28 | [这个有点好玩呀，AI 开始系统化了，以后](https://versun.me/blog/tweet-2093147301091099122) | warmwind Introducing warmwind OS: The World’s First AI Operating System warmwind is live. After three years of building, testing, breaking things, reb… |
+| 2026-08-28 | [以前安装试一试后，如果不错会付费 现在我](https://versun.me/blog/tweet-2093140694810624017) | 向阳乔木 全键盘操作的笔记工具，类似Workflowy，无限层级大纲视图笔记软件。 AI、看板、脑图功能收费，其他免费。 地址见评论区 以前安装试一试后，如果不错会付费 现在我的第一反应竟然是，让 AI 复刻难不难，其次才是值不值得付费。。。 现在做产品是真难呀😂不仅要比卖点，还得比复刻难度 |
 | 2026-08-28 | [Memos #2026-08-27](https://www.taober.blog/memos/memo_20260827013049_4202nz) | 09:33 昨晚下雨，九点准时打车，快十点才上车。到家空调吹得眼睛特别干。晚上做了个梦，导致今天又九点十五才醒，纠结了一阵还是去公司上班吧。 真两眼一睁就是干！ |
 | 2026-08-27 | [科技爱好者周刊（第 410 期）：你需要知道的 AI 三种机制](http://www.ruanyifeng.com/blog/2026/08/weekly-issue-410.html) | 这里记录每周值得分享的科技内容，周五发布。 本杂志 开源 ，欢迎 投稿 。另有 《谁在招人》 服务，发布程序员招聘信息。合作请 邮件联系 （yifeng.ruan@gmail.com）。 封面图 宁夏沙坡头景区的巨型蒙眼雕塑。（ via ） 你需要知道的 AI 三种机制 这是"AI 小知识系列"的第… |
 | 2026-08-27 | [我开始搭自己的 Jarvis，然后发现最难的是信任它｜灵感电波 #136](https://www.linggandianbo.com/newsletter-136/) | 过去几天，我开始认真搭自己的 Jarvis，也第一次感受到：个人 AGI 真正难的不是接入一个更强的模型，而是让资料、流程和每一次行动都值得信任。本期还会聊到 AI 时代的“认知债”、不靠天赋也能练习的理解力、本地模型与云端模型的分工，以及宜家产品名背后的隐藏语法。 |
@@ -162,19 +173,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-08-22 | [Python 潮流周刊#164：deepseek-harness 万物皆插件](https://pythoncat.top/posts/2026-08-22-weekly/) | 分享了 12 篇文章，12 个开源项目 |
 | 2026-08-22 | [2026年第33、34周](https://blog.sakoamc.com/posts/263334/) | 题记：二零二六年的第三十三、三十四周，无论阅读、重复、出行，在特殊的时机下都能产生启发。 |
 | 2026-08-22 | [Memos #2026-08-21](https://www.taober.blog/memos/memo_20260821025944_n1fchg) | 11:00 好想吃老家的小笼包🤤 |
-| 2026-08-21 | [诺兰的《奥德赛》采取了什么样的改编策略？ III](https://www.geedea.pro/article/odyssey-3/) | 终于，我的奥德赛之旅也要结束了。《奥德赛》影评的最后一篇，我将审视诺兰给电影定下的不属于原典的主题，以及我为什么讨厌这个主题。尽管因为让黑人演员饰演海伦和雅典娜，让不少人觉得诺兰是个被政治正确洗脑的激进派，但诺兰的叙事其实相当保守和传统，甚至有些…… 大男子主义。诺兰的奥德修斯不是原典中的狡诈英雄，… |
-| 2026-08-21 | [错位的会员体系](https://blog.solazy.me/20260821/) | 这篇文章是我躺在临平万丽的床上写的 |
-| 2026-08-21 | [成为阿森纳球迷最好的时机就是现在（2026-2027）](https://cbvivi.today/episodes/pl2627) | 一年一度的足球播客，祝大家新赛季观赛愉快，度过充实的一年。 视频版本明天发，Come on Arsenal! 所有事实错误都是我在故意乱说，旨在引起你的注意。 我做的 app 了解一下：cbvivi.app |
-| 2026-08-21 | [稳住心态，日日修身](https://blog.zzbd.org/miao20260821-2/) | ☯︎乾卦 「潜龙勿用。」（初九） 字面：龙还潜在水底，不宜妄动。 心态：实力还在积蓄期，别急着出风头，先把自己练扎实。 |
-| 2026-08-21 | [破圈的风险](https://www.hecaitou.com/2026/08/perils-breaking-bubble.html) | 如今的互联网基本上属于畜牧业，每个 App 圈养一群用户，App 之间切断通路，老死不相往来。于是，微博老登、虎扑直男、小红书群芳、朋友圈之交和直播间职业用爱发电家之间，人群特征差异很大，行为习惯差异很大，每日接触的信息差异也很大，圈圈不同。 以前说一个人在网上「火」了，意思是全平台都火。现在说一个… |
-| 2026-08-21 | [『周易』十条办公室处事之道](https://blog.zzbd.org/miao20260821/) | 「安而不忘危，存而不忘亡，治而不忘乱。」（《易·系辞》） ——顺利时也记得风险在，那就不会被眼前的小事吓乱阵脚。 |
-| 2026-08-21 | [骂人最脏的那句，也是骂自己最狠的那句](https://mobius.blog/25460.html) | 前两天收到一条没头没尾、也没有办法联系对方的匿名私信： 我一开始很想骂你，写了一半，发现你骂我的都对，我骂你的 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
-| 2026-08-21 | [野人编年史](http://imlane.zhanglintc.co/ye-ren-bian-nian-shi) | 野人编年史 野人创始人 徐队 ，群昵称Shogun。姓徐，称徐队，真野人队长，野人 抖音官号 持有者。 张队 ，群昵称张小不。江湖人称竹节虫，简称虫队。 熊队 ，群昵称熊嘎婆，称熊队。 野人CLUB游泳事业部 群主。 亮队 ，群昵称亮什么，称亮队，野人 小红书官号 持有者。 野人声明 从 泳往直前… |
-| 2026-08-21 | [我从未爱过这个世界](https://honmaple.me/posts/2026/08/i-have-never-loved-this-world/) | 我貌似很少在网上分享我的生活，我的博客从建立起到现在已经快11年了，除了一些技术上的流水账之外，关于生活的记录可谓寥寥无几，即使有，也总是藏着掖着，生怕有人看出点什么。 可能是为了隐私，但我仔细想来，更多的可能是我根本就没有分享的欲望，小到看了一部电影，大到亲人离世，总是觉得生活中的琐事不值得记录，… |
-| 2026-08-21 | [Kubernetes 探针（Probe）详解与生产环境配置实践](https://199604.com/3654) | Kubernetes 探针（Probe）详解与生产环境配置实践 记录时间：2026-08-20 环境：K8s […] |
-| 2026-08-21 | [烧饼论坛正式开业](https://u.sb/sb-sb/) | 折腾了一阵子，烧饼论坛终于开业啦，这是一个面向海外 IT 从业者和技术爱好者的社区论坛。 |
-| 2026-08-21 | [AI-Native 之路 —— 从 AI 友好型网站改造开始](https://lrd.im/blog/2026-08-21) | AI 改变了搜索范式，我从探索 Agent 阅读网页的方式开始，逐步让自己网站里的内容对 AI 更加开放、友好。 |
-| 2026-08-21 | [在新 Mac 上复刻我的终端环境](https://jimmy-blog.vercel.app/posts/mac) | 这是一份可复现的终端配置清单：Shell、终端应用、提示符主题、Zsh 插件与字体。方便换机或重装时恢复同样的终端体验。 你可以这样用本文： 1. 先读正文 — 了解会装什么、需要从旧机带什么。 2. 再复制给 Agent — 把「Agent 总指令」或分步代码块贴给 Cursor / Claude… |
 
 ## Vibe Coding
 
