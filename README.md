@@ -28,6 +28,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | Date | Title | Summary |
 | --- | --- | --- |
 | 2026-08-29 | [深入 XRepoTest：如何把 LLM 单元测试生成拉回真实仓库](https://shansan.top/2026/08/29/xrepotest-deep-dive/) | XRepoTest, repository-level unit test generation, LLM benchmark, invocation rate, multilingual testing |
+| 2026-08-29 | [一些切片的终止](https://blog.solazy.me/20260829/) | 意外和明天，究竟哪个会先来？ |
 | 2026-08-29 | [计算机网络如何帮我理解「人们难以相互理解」？](https://www.geedea.pro/article/layers-of-mental-models/) | 题中所指的「计算机网络」并非「互联网」，而是每个计算机学生都一定会修读的《计算机网络》中涵盖的相关知识。本文不谈社交媒体、同温层、信息茧房和推荐算法如何让人们陷入不能相互理解的困境和情绪化的骂战——我的确会谈此类现象，但不是通过这种方式。 人们把互联网想象得太具破坏性，而鲜少自省。在极客和书呆子们修… |
 | 2026-08-29 | [《大空头》与 2008 年金融危机](https://depp.wang/2026/the-big-short/) | 看完《大空头》以后，我原本以为 2008 年金融危机的逻辑很简单：美国人借了太多房贷，还不上，于是房价下跌，银行就出问题了。 但电影真正讲的不是一笔笔房贷本身，而是这些房贷后来被华尔街不断打包、出售、再打包，以及在上面反复下注。危机的核心，是大量低质量的次级房贷被证券化，并通过 MBS、CDO 和衍… |
 | 2026-08-29 | [Mimocode/Opencode 的 Responses API 支持](https://blog.est.im/2026/stdout-34) | 当前的 MiMoCodev0.1.13里，Responses API 有两套入口 Vercel SDK 的 responses() 方法 —— 触发条件是 provider id 为 openai / github-copilot / azure 。 provider 为 gitlab 且每个模型加… |
@@ -38,9 +39,11 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-08-29 | [VMware VCF 9.1 下载和激活](https://songxwn.com/VMware-VCF9.1-Download/) | VMware Cloud Foundation (VCF) 9.1 是一款面向现代私有云的统一平台，强调高效运维、快速应用交付以及内置的网络安全与数据保护能力。它支持虚拟机、容器和 AI 工作负载的统一运行，帮助企业在复杂环境下实现规模化、自动化和弹性。 VMware VMware Blogs ✨… |
 | 2026-08-29 | [模型越强，为什么我们反而越不敢放手？](https://gptkit.eth.limo/0F0DF99D-0544-4648-8C15-2388F6FB0F7F/) | 模型跑分提高，和它更适合一起工作，并不是同一件事。 一个编码 Agent 可以更快定位错误、完成更长的任务，也可能在需求有歧义时替人选定方向。它交付得更快了，人却不敢离开屏幕：每隔几分钟就要检查它是否扩大范围、改变计划，或把某个未写出的假设当成事实。 本文由《听懂 AI》第 006 期整理而成。节目… |
 | 2026-08-29 | [《我的女友景甜》是富豪反女权的里程碑](https://sinyalee.com/blog/?p=1338) | 我认识的有钱人和顶级女人（指学历长相名气在择偶市场上被人追捧的女人）都不少。我从两个方向见过太多富豪被女权捞女 […] |
+| 2026-08-29 | [Python 潮流周刊#165：Mojo 正式开源](https://pythoncat.top/posts/2026-08-29-weekly/) | 分享了 12 篇文章，12 个开源项目，3 则音视频 |
 | 2026-08-28 | [Star Wars: TIE Fighter updated](https://macsourceports.com/game/swtiefighter) | The build of OpenTIE for Star Wars: TIE Fighter has been updated to version 0.0.5 of the project |
 | 2026-08-28 | [Star Wars: X-Wing Alliance updated](https://macsourceports.com/game/swxwa) | The build of OpenXWA for Star Wars: X-Wing Alliance has been updated to version 0.0.16 of the project |
 | 2026-08-28 | [介绍一家最近去的头马 Toastmasters 演讲俱乐部](https://www.owenyoung.com/toastmasters) | 最近连续 3 周周五晚上都会去一家听名字我都不太敢介绍给别人的一个组织：头马 （Toastmasters）演讲俱乐部，Toastmasters，字面意思是“祝酒辞大师”。我去的是上海的 LEP 演讲俱乐部。 头马这个组织成立于 1924 年，已经一百多年了（我三周前才知道头马这个词）。它是一个非营利… |
+| 2026-08-28 | [小棉袄成长三部曲](https://springwood.me/toddler-growth/) | （摘要）最近终于搞定了上厕所 |
 | 2026-08-28 | [Theme Hospital updated](https://macsourceports.com/game/themehospital) | The build of CorsixTH for Theme Hospital has been updated to version v0.70.1 of the project |
 | 2026-08-28 | [No One Lives Forever 2: A Spy in H.A.R.M.'s Way updated](https://macsourceports.com/game/nolf2) | The build of NOLF2 for Mac for No One Lives Forever 2: A Spy in H.A.R.M.'s Way has been updated to version 0.4.2 of the project |
 | 2026-08-28 | [Quetoo updated](https://macsourceports.com/game/quetoo) | The build of Quetoo has been updated to version v1.0.84 of the project |
@@ -54,6 +57,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-08-28 | [终于拿到 Kimi 的飞书助手 Mira](https://versun.me/blog/tweet-2093165397264777369) | 终于拿到 Kimi 的飞书助手 Mira 的内测资格了，这几天玩玩看怎么样 |
 | 2026-08-28 | [开箱小米BE3600路由器(2.5G)+小米中枢网关](https://www.cheshirex.com/11043.html) | 前面我在拼多多百亿补贴买的小米BE6500Pro路由器翻车了，拼多多给了我一个二手货。 拼多多百亿补贴卖给了我 […] |
 | 2026-08-28 | [AI 让代码变便宜以后，工程师真正昂贵的是什么](https://gptkit.eth.limo/9465B233-6B36-4432-ADA1-1A7E447C9186/) | AI 编程工具最直观的变化，是让“写出一批能运行的代码”变得更快。一个需求可以在几小时内长出页面、接口、数据表和测试，过去需要几天的实现工作被压缩到一个下午。 但软件交付并不在代码生成时结束。团队还要理解设计、审查影响、验证行为、迁移数据、处理故障，并在几个月后继续修改。生成速度提高后，这些工作反而… |
+| 2026-08-28 | [一个小区门口可以开几家包子店？](https://onojyun.com/25519.html) | 楼下有两家包子店，一家只在一、三、五、六的上午营业，而另一家一周开七天，从早上 6 点工作到凌晨 1 点。两家 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-08-28 | [一个小区门口可以开几家包子店？](https://mobius.blog/25519.html) | 楼下有两家包子店，一家只在一、三、五、六的上午营业，而另一家一周开七天，从早上 6 点工作到凌晨 1 点。两家 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-08-28 | [这个有点好玩呀，AI 开始系统化了，以后](https://versun.me/blog/tweet-2093147301091099122) | warmwind Introducing warmwind OS: The World’s First AI Operating System warmwind is live. After three years of building, testing, breaking things, reb… |
 | 2026-08-28 | [以前安装试一试后，如果不错会付费 现在我](https://versun.me/blog/tweet-2093140694810624017) | 向阳乔木 全键盘操作的笔记工具，类似Workflowy，无限层级大纲视图笔记软件。 AI、看板、脑图功能收费，其他免费。 地址见评论区 以前安装试一试后，如果不错会付费 现在我的第一反应竟然是，让 AI 复刻难不难，其次才是值不值得付费。。。 现在做产品是真难呀😂不仅要比卖点，还得比复刻难度 |
@@ -64,6 +68,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-08-27 | [加密的思考，也会被偷走吗？这篇论文真正发现了什么](https://gptkit.eth.limo/513D8E71-35EE-4F4B-BD20-E9FB633C8742/) | 看到一段无法阅读的加密文本，人很容易把它当成“安全的乱码”。但在大模型 API 里，这类不透明数据可能保存着模型的隐藏推理、工具返回值，甚至用户输入过的敏感信息。 2026 年 8 月提交的论文《Stealing Reasoning Traces from Proprietary LLM APIs》… |
 | 2026-08-27 | [一群模型，各干各的活：Nemotron 3.5 Lightning 和 Switchyard 到底解决什么](https://gptkit.eth.limo/88ED405F-A12D-48AB-9B8F-C3EB7390F47B/) | 一个 AI Agent 真正运行起来以后，并不是每一步都需要最强模型。制定计划、处理复杂异常，可能值得调用能力最强的模型；执行工具、检查返回值、整理格式和重复查询，往往更在意速度和成本。 如果所有步骤都交给同一个昂贵模型，效果容易预测，账单和延迟却会迅速增加。反过来，如果只用便宜模型，复杂任务又可能… |
 | 2026-08-27 | [它真的“懂”你吗？用一杯咖啡理解大语言模型](https://gptkit.eth.limo/102AFE24-4642-44C5-8390-DC6A5D2A99A4/) | 第一次和大语言模型聊天，很容易产生一种错觉：屏幕另一端像是坐着一个读过无数书、什么都能聊的人。它能续写邮件，能解释概念，也能顺着语气安慰你。可一旦追问一个冷门事实，它又可能用同样笃定的口吻编出不存在的人名、论文和日期。 这两种表现并不矛盾。要理解它，先放下“电子大脑”这个比喻，把它想成一位特别擅长接… |
+| 2026-08-27 | [一年](https://onojyun.com/25525.html) | 我特地在日历上设定了 8 月 28 日是一个特殊的日子，去年这个时候，我们决定给家里最老的一只、已经处于严重肾 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-08-27 | [一年](https://mobius.blog/25525.html) | 我特地在日历上设定了 8 月 28 日是一个特殊的日子，去年这个时候，我们决定给家里最老的一只、已经处于严重肾 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-08-27 | [AI Infra：Token 价格博弈策略分析](https://luweiqing.com/gossip/Token-Price-Speculation-Strategy-Analysis.html) | 模型更新快。价格难看懂。有的厂商把 API 降到几分钱一百万 Token。有的旗舰模型维持几十美元高价。新模型发布就降价抢用户。能力升级后反而提价。同一家厂商同时提供缓存价、批处理价、峰谷价、标... |
 | 2026-08-27 | [AWS 收购 DuckLabs](https://luweiqing.com/gossip/AWS-DuckLabs.html) | 买团队，不买项目。 DuckLabs（阿姆斯特丹核心团队+商业支持）→ AWS；DuckDB/Foundation/MIT 许可不变。一、数据库层面维度DuckDB 角色AWS 战略意义定位嵌入... |
@@ -75,6 +80,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-08-27 | [面对系统](https://www.hecaitou.com/2026/08/facing-the-system.html) | 昨天半夜看到一个熟悉的名字在网络热闻里闪烁，把他前后几次发言都读过一遍，结论很明确：这是要掀桌子、撕脸皮、彻底搞大，痛快一下自己。 当个人面对系统的时候，走到这一步就非常难看了。如何同系统打交道，这种事情其实需要有人教的。首先要理解系统是如何运转的，然后弄清楚自己在系统内是什么位置，再深入下去就是应… |
 | 2026-08-27 | [Google斥资1000万美元购买破产企业内部数据，用于AI训练](https://wenfeixiang.com/2026/08/google-wins-bankruptcy-auction-for-spirit-airlines-emails-chats-documents/) | 一家破产企业的内部数据，比如聊天记录、电子邮件、相关文档等，值多少钱？在过往的话，或许一文不值，到了人工智能和 […] |
 | 2026-08-27 | [Prometheus 切换到 VictoriaMetrics 统一告警的部署记录](https://199604.com/3666) | Prometheus 切换到 VictoriaMetrics 统一告警的部署记录 记录时间：2026-08-2 […] |
+| 2026-08-27 | [公共厕所与公共知识](https://onojyun.com/25511.html) | “竹知了”开了个好头，以至于这一次“公共厕所”引起的热度比“竹知了”还快，甚至已经有人制作出了可以手动调整公共 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-08-27 | [公共厕所与公共知识](https://mobius.blog/25511.html) | “竹知了”开了个好头，以至于这一次“公共厕所”引起的热度比“竹知了”还快，甚至已经有人制作出了可以手动调整公共 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-08-27 | [拼多多百亿补贴卖给了我一个二手路由器（已经烧坏了）](https://www.cheshirex.com/11030.html) | 2023年12月我买了个小米BE6500Pro路由器，当时是看这个路由器有2.5G网口并且内置米家的蓝牙中枢网 […] |
 | 2026-08-27 | [Memos #2026-08-26](https://www.taober.blog/memos/memo_20260826125704_5jg1z9) | 20:57 顶级吃法：麦当劳薯条沾甜筒！ 甜加咸，冷加热，好吃到打摆子！ |

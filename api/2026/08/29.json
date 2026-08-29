@@ -7,6 +7,13 @@
     "source_root_domain": "shansan.top"
   },
   {
+    "title": "一些切片的终止",
+    "url": "https://blog.solazy.me/20260829/",
+    "date": "2026-08-29T15:00:00Z",
+    "description": "意外和明天，究竟哪个会先来？",
+    "source_root_domain": "solazy.me"
+  },
+  {
     "title": "计算机网络如何帮我理解「人们难以相互理解」？",
     "url": "https://www.geedea.pro/article/layers-of-mental-models/",
     "date": "2026-08-29T10:49:58Z",
@@ -77,6 +84,13 @@
     "source_root_domain": "sinyalee.com"
   },
   {
+    "title": "Python 潮流周刊#165：Mojo 正式开源",
+    "url": "https://pythoncat.top/posts/2026-08-29-weekly/",
+    "date": "2026-08-29T00:00:00Z",
+    "description": "分享了 12 篇文章，12 个开源项目，3 则音视频",
+    "source_root_domain": "pythoncat.top"
+  },
+  {
     "title": "Star Wars: TIE Fighter updated",
     "url": "https://macsourceports.com/game/swtiefighter",
     "date": "2026-08-28T21:36:39Z",
@@ -96,6 +110,13 @@
     "date": "2026-08-28T19:00:59Z",
     "description": "最近连续 3 周周五晚上都会去一家听名字我都不太敢介绍给别人的一个组织：头马 （Toastmasters）演讲俱乐部，Toastmasters，字面意思是“祝酒辞大师”。我去的是上海的 LEP 演讲俱乐部。 头马这个组织成立于 1924 年，已经一百多年了（我三周前才知道头马这个词）。它是一个非营利的演讲组织，全球有一万五千多家分支俱乐部，上海有 100 多家。头马总部提供品牌+基本流程（黑话，仪式等），各个俱乐部高度自治，大家用的基本流程类似（下文会介绍到），会员入会是按半年交会费（各地价格不一样，我去的这家似乎是半年 800 左右，其中 500 块上交给总部的，但如果你经常贡献演讲和角色，会费会按比例返还一些）。 听到这里是不是警报已经响起哈哈： 听名字和流程有一种浓浓的成功学味。会费 + 发展会员，像邪教+传销。",
     "source_root_domain": "owenyoung.com"
+  },
+  {
+    "title": "小棉袄成长三部曲",
+    "url": "https://springwood.me/toddler-growth/",
+    "date": "2026-08-28T15:00:00Z",
+    "description": "（摘要）最近终于搞定了上厕所",
+    "source_root_domain": "springwood.me"
   },
   {
     "title": "Theme Hospital updated",
@@ -190,6 +211,13 @@
   },
   {
     "title": "一个小区门口可以开几家包子店？",
+    "url": "https://onojyun.com/25519.html",
+    "date": "2026-08-28T01:30:00Z",
+    "description": "楼下有两家包子店，一家只在一、三、五、六的上午营业，而另一家一周开七天，从早上 6 点工作到凌晨 1 点。两家 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。",
+    "source_root_domain": "onojyun.com"
+  },
+  {
+    "title": "一个小区门口可以开几家包子店？",
     "url": "https://mobius.blog/25519.html",
     "date": "2026-08-28T01:30:00Z",
     "description": "楼下有两家包子店，一家只在一、三、五、六的上午营业，而另一家一周开七天，从早上 6 点工作到凌晨 1 点。两家 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。",
@@ -257,6 +285,13 @@
     "date": "2026-08-27T17:14:17Z",
     "description": "第一次和大语言模型聊天，很容易产生一种错觉：屏幕另一端像是坐着一个读过无数书、什么都能聊的人。它能续写邮件，能解释概念，也能顺着语气安慰你。可一旦追问一个冷门事实，它又可能用同样笃定的口吻编出不存在的人名、论文和日期。 这两种表现并不矛盾。要理解它，先放下“电子大脑”这个比喻，把它想成一位特别擅长接话、但不会自动查证的咖啡馆店员。 本文由《听懂 AI》第 001 期访谈整理而成。该期节目从科普主题出发，并非改写某一篇原文；文末补充了 Transformer、GPT-3、语言理解争议和真实性评测的原始论文。 一句话版本：它在反复预测下一个 token 假设你说：“今晚下雨，出门记得带……” 人很容易想到“伞”。语言模型做的事情与此有一点相似，但规模大得多：它先把输入切成一组 token，再结合前面的上下文，为下一个 token 计算概率。选出一个之后，它把这个 token 加回上下文，继续预测下一个，直到回答结束。 token 不一定等于一个完整汉字或单词。它只是模型处理文字时使用的基本单位；具体怎样切分，取决于模型采用的分词方法。 图中的候选词和概率只是工作原理示意，不是某个真实模型的",
     "source_root_domain": "eth.limo"
+  },
+  {
+    "title": "一年",
+    "url": "https://onojyun.com/25525.html",
+    "date": "2026-08-27T16:55:03Z",
+    "description": "我特地在日历上设定了 8 月 28 日是一个特殊的日子，去年这个时候，我们决定给家里最老的一只、已经处于严重肾 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。",
+    "source_root_domain": "onojyun.com"
   },
   {
     "title": "一年",
@@ -334,6 +369,13 @@
     "date": "2026-08-27T02:37:11Z",
     "description": "Prometheus 切换到 VictoriaMetrics 统一告警的部署记录 记录时间：2026-08-2 […]",
     "source_root_domain": "199604.com"
+  },
+  {
+    "title": "公共厕所与公共知识",
+    "url": "https://onojyun.com/25511.html",
+    "date": "2026-08-27T02:13:23Z",
+    "description": "“竹知了”开了个好头，以至于这一次“公共厕所”引起的热度比“竹知了”还快，甚至已经有人制作出了可以手动调整公共 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。",
+    "source_root_domain": "onojyun.com"
   },
   {
     "title": "公共厕所与公共知识",
