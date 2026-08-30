@@ -1,5 +1,47 @@
 [
   {
+    "title": "给我发邮件吧，放轻松",
+    "url": "https://www.geedea.pro/article/email-me/",
+    "date": "2026-08-30T15:44:00Z",
+    "description": "我观察到不少人都会对写电子邮件这件事情感到有压力，尤其是国人。我之前在《 论独立博客的评论 》一文中提及过英文使用者和中文使用者对于电子邮件的态度差异，不少英文博客都只会在文章底部留下邮箱地址，鼓励读者发邮件交流。我之前向某个开源项目的维护者问了些问题，关闭 Issue 之后他跟我说：再发邮件联系也是可以的。 大部分中文使用者对写邮件这件事情感到很微妙。在工作上，邮件是比即时通信软件更正式的沟通工具。给共事的人发邮件，就相当于是给对方投递了一个「待办事项」，对方不能说「哦，我没看到消息」这种话，因为大家默认邮件都是要挨个处理的。尽管不如手写的书信正式，但大家似乎觉得邮件不该很短，也应遵循一定格式，就算不遵循格式也要找个理由，比如事情紧急，然后写上「寒暄省略」之类的词句。邮件能写的话题似乎也很局限，如果只是想推荐对方可能感兴趣的东西，似乎在即时通信软件里发会更合适。我想这也是邮件的「正式感」衍生出来的，过于随性的话题让人感到不适合放到邮件里聊。如果没有什么深刻的话题或正式的事宜要探讨，貌似就不应该发邮件打扰人家。 可对我来说，只要不是工作邮件，不是发垃圾邮件和推广信息，给我的私人邮箱投递",
+    "source_root_domain": "geedea.pro"
+  },
+  {
+    "title": "Toots 434 2026 Aug.23 - Aug.29",
+    "url": "https://z.arlmy.me/posts/MastodonArchives/2026/MastodonTootsArchives_20260829/",
+    "date": "2026-08-30T15:36:27Z",
+    "description": "「拓扑。」",
+    "source_root_domain": "arlmy.me"
+  },
+  {
+    "title": "生活碎碎念：升学首日有感",
+    "url": "https://blog.mfwt.top/index.php/archives/1562/",
+    "date": "2026-08-30T15:34:00Z",
+    "description": "这篇博文基本上成型于今晚的班会课之后。如果说笔者的专升本是『插班生』，那么本文应该算是一篇『插班文』，因为原本是有一篇开学前文具店小景的文章，打算这两天发的的，现在先搁置一下那篇，先发这篇，所以...",
+    "source_root_domain": "mfwt.top"
+  },
+  {
+    "title": "入蜀记 day462 猎人与ADHD",
+    "url": "https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_462/",
+    "date": "2026-08-30T15:30:27Z",
+    "description": "「猎人与ADHD。」",
+    "source_root_domain": "arlmy.me"
+  },
+  {
+    "title": "入蜀记 day461 以人类为载体",
+    "url": "https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_461/",
+    "date": "2026-08-30T15:29:27Z",
+    "description": "「以人类为载体。」",
+    "source_root_domain": "arlmy.me"
+  },
+  {
+    "title": "入蜀记 day460 鹤鸣早茶",
+    "url": "https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_460/",
+    "date": "2026-08-30T15:26:27Z",
+    "description": "「鹤鸣早茶。」",
+    "source_root_domain": "arlmy.me"
+  },
+  {
     "title": "烹饪日记：干煸蚕蛹",
     "url": "https://blog.yasking.org/a/dry-fried-silkworm-pupae",
     "date": "2026-08-30T14:03:00Z",
@@ -25,6 +67,13 @@
     "url": "https://liduos.com/weekly/the-weekly-gradient-116",
     "date": "2026-08-30T08:00:00Z",
     "description": "本期内容聚焦AI效率竞赛：模型、芯片与软件协同优化使智能成本骤降，稀缺转向可信数据、安全边界、长期记忆与用户注意力。剖析Agent工程、组织治理及长期主义投资，探讨能力充裕时代的新护城河。",
+    "source_root_domain": "liduos.com"
+  },
+  {
+    "title": "Vol.117 AI效率革命与新稀缺：模型竞争转向工程协同与可信资产",
+    "url": "https://liduos.com/weekly/the-weekly-gradient-117",
+    "date": "2026-08-30T08:00:00Z",
+    "description": "本期内容聚焦AI模型效率竞争与工程协同，探讨智能供给成本下降后，可信数据、安全边界、长期记忆等新稀缺资产的重要性。从芯片到Agent，从软件工厂到人形机器人，重新审视长期价值。",
     "source_root_domain": "liduos.com"
   },
   {
@@ -68,6 +117,13 @@
     "date": "2026-08-30T00:00:00Z",
     "description": "意义是基于现实活动的产物，需要先行动、经历体验、回忆和思考作为基础。",
     "source_root_domain": "prologue.dev"
+  },
+  {
+    "title": "氛围编程——从零开始一个项目",
+    "url": "https://blog.196000.xyz/2026/2026-08-25-develop-vibe-coding.html",
+    "date": "2026-08-30T00:00:00Z",
+    "description": "早期只有一个模糊的想法，例如“开发一个系统，将用户警入的内容自动转换为小红书风格的卡片与配套文案”。将构想借助系统化的需求分析过程逐步细化，为后续的工程实践奠定扎实基础。",
+    "source_root_domain": "196000.xyz"
   },
   {
     "title": "2026年第35周",
