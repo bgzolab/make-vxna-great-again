@@ -27,10 +27,14 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-08-30 | [隔壁桌的暧昧学](https://blog.solazy.me/20260830/) | 今天聊点日常八卦和随想 |
+| 2026-08-30 | [Pensieve: 2608](https://xiaket.github.io/2026/pensieve-2608.html) | 所读所观所玩 |
+| 2026-08-30 | [老狗不跳崖](https://www.hecaitou.com/2026/08/old-dog-wont-leap-cliffs.html) | 我说，在自己内心的定力尚未培育至强大之前，最好要远离外部的各种干扰和诱惑。于是，就有一堆读者跑来教育我，要么劝我要勇往直前，战而胜之；要么来教育我，只要有一颗平静的心，就无需在意这些东西，就无需做各种分别，可以直入其中。 之前我在某本经书里读到一句话：狮子跃处，犬跳毙命。意思是狮子可以一跃而过的地方… |
 | 2026-08-30 | [读《万历十五年》：人物、制度与一个王朝的问题](https://depp.wang/2026/1587-a-Year-of-No-Significance/) | 我原来以为《万历十五年》是一本讲明朝某一年发生了什么事的历史书，或者更直接一点，是一本写万历皇帝的书。 读下来才发现不是这样。 它当然有历史事件，也写了很多真实人物，但读起来更像一篇很长的历史文章。黄仁宇不是把史料一条条摆出来，而是从万历皇帝、张居正、申时行、海瑞、戚继光和李贽几个人身上，写出他自己… |
 | 2026-08-30 | [≡ 008｜这两周莫比乌斯环转到了哪里？](https://mobius.blog/25535.html) | —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-08-30 | [边想边聊 Vol.6](https://bluepika.life/blog/thinking-out-loud-6) | 纯主观，想到哪聊到哪，聊到作品的内容可能会涉及剧透。 |
 | 2026-08-29 | [上海今年的夏天真是异常凉快呀😂 这都9月](https://versun.me/blog/tweet-2093842513610395876) | 上海今年的夏天真是异常凉快呀😂 这都9月份了，还不到30度，太夸张了 |
+| 2026-08-29 | [VMware NSX 4.2 - 平滑升级](https://songxwn.com/NSX4-Upgrade/) | NSX可以利用NSX Edge集群，ESXi集群进行平滑逐个升级，在保持业务不中断的情况下进行升级。 NSX系列文章： https://songxwn.com/tags/NSX/ |
 | 2026-08-29 | [深入 XRepoTest：如何把 LLM 单元测试生成拉回真实仓库](https://shansan.top/2026/08/29/xrepotest-deep-dive/) | XRepoTest, repository-level unit test generation, LLM benchmark, invocation rate, multilingual testing |
 | 2026-08-29 | [真实的人、虚伪的人，以及想要成为的人和被驯化成的人](https://mobius.blog/25565.html) | 文章是 2017 年第一次五百日写作计划时的内容，刚好用来回答这段时间的对于写作身份、创作者解释权、读者过度解 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-08-29 | [真实的人、虚伪的人，以及想要成为的人和被驯化成的人](https://onojyun.com/25565.html) | 文章是 2017 年第一次五百日写作计划时的内容，刚好用来回答这段时间的对于写作身份、创作者解释权、读者过度解 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
@@ -38,7 +42,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-08-29 | [一些切片的终止](https://blog.solazy.me/20260829/) | 意外和明天，究竟哪个会先来？ |
 | 2026-08-29 | [？？？与时俱进呀，这只丑鸟](https://versun.me/blog/tweet-2093655481713877149) | Duolingo this movie on repeat till the cows come home #niulai https://twitter.com/toonhive/status/2090576946719555727 ？？？与时俱进呀，这只丑鸟 |
 | 2026-08-29 | [计算机网络如何帮我理解「人们难以相互理解」？](https://www.geedea.pro/article/layers-of-mental-models/) | 题中所指的「计算机网络」并非「互联网」，而是每个计算机学生都一定会修读的《计算机网络》中涵盖的相关知识。本文不谈社交媒体、同温层、信息茧房和推荐算法如何让人们陷入不能相互理解的困境和情绪化的骂战——我的确会谈此类现象，但不是通过这种方式。 人们把互联网想象得太具破坏性，而鲜少自省。在极客和书呆子们修… |
-| 2026-08-29 | [《大空头》与 2008 年金融危机](https://depp.wang/2026/the-big-short/) | 看完《大空头》以后，我原本以为 2008 年金融危机的逻辑很简单：美国人借了太多房贷，还不上，于是房价下跌，银行就出问题了。 但电影真正讲的不是一笔笔房贷本身，而是这些房贷后来被华尔街不断打包、出售、再打包，以及在上面反复下注。危机的核心，是大量低质量的次级房贷被证券化，并通过 MBS、CDO 和衍… |
+| 2026-08-29 | [《大空头》里的金融术语与个人理解](https://depp.wang/2026/the-big-short/) | 看完《大空头》以后，我原本以为 2008 年金融危机的逻辑很简单：美国人借了太多房贷，还不上，于是房价下跌，银行就出问题了。 但电影真正讲的不是一笔笔房贷本身，而是这些房贷后来被华尔街不断打包、出售、再打包，以及在上面反复下注。危机的核心，是大量低质量的次级房贷被证券化，并通过 MBS、CDO 和衍… |
 | 2026-08-29 | [Mimocode/Opencode 的 Responses API 支持](https://blog.est.im/2026/stdout-34) | 当前的 MiMoCodev0.1.13里，Responses API 有两套入口 Vercel SDK 的 responses() 方法 —— 触发条件是 provider id 为 openai / github-copilot / azure 。 provider 为 gitlab 且每个模型加… |
 | 2026-08-29 | [2026.8.29](https://www.justzht.com/2026-8-29/) | 无事发生的一周，各种事情仍然卡在不前不后的部分。 上周末在家看了 King of New York 。老片子了，剧情有点虎头蛇尾， |
 | 2026-08-29 | [那时候，贾母也才十来岁](https://kaix.in/2026/0829/) | 最近总是猛不丁想起一些孩童时期的片段旧事。比如想起现在的一位好友多年前在教室里两眼放光地给大家讲故事；还想起不知多少年前，和一群记不清面孔的伙伴一起在狭窄的通道里登顶龙泉塔，从塔顶的小窗一览小城全貌，彼时塔东还是一片空旷之地；又想起，年少时很偶然地将几张海报贴在自己床头，就被家父认定是在追星，说我不… |
