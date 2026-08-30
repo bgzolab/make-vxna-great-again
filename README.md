@@ -27,12 +27,16 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-08-30 | [读《万历十五年》：人物、制度与一个王朝的问题](https://depp.wang/2026/1587-a-Year-of-No-Significance/) | 我原来以为《万历十五年》是一本讲明朝某一年发生了什么事的历史书，或者更直接一点，是一本写万历皇帝的书。 读下来才发现不是这样。 它当然有历史事件，也写了很多真实人物，但读起来更像一篇很长的历史文章。黄仁宇不是把史料一条条摆出来，而是从万历皇帝、张居正、申时行、海瑞、戚继光和李贽几个人身上，写出他自己… |
+| 2026-08-30 | [≡ 008｜这两周莫比乌斯环转到了哪里？](https://mobius.blog/25535.html) | —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-08-30 | [边想边聊 Vol.6](https://bluepika.life/blog/thinking-out-loud-6) | 纯主观，想到哪聊到哪，聊到作品的内容可能会涉及剧透。 |
+| 2026-08-29 | [上海今年的夏天真是异常凉快呀😂 这都9月](https://versun.me/blog/tweet-2093842513610395876) | 上海今年的夏天真是异常凉快呀😂 这都9月份了，还不到30度，太夸张了 |
 | 2026-08-29 | [深入 XRepoTest：如何把 LLM 单元测试生成拉回真实仓库](https://shansan.top/2026/08/29/xrepotest-deep-dive/) | XRepoTest, repository-level unit test generation, LLM benchmark, invocation rate, multilingual testing |
 | 2026-08-29 | [真实的人、虚伪的人，以及想要成为的人和被驯化成的人](https://mobius.blog/25565.html) | 文章是 2017 年第一次五百日写作计划时的内容，刚好用来回答这段时间的对于写作身份、创作者解释权、读者过度解 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-08-29 | [真实的人、虚伪的人，以及想要成为的人和被驯化成的人](https://onojyun.com/25565.html) | 文章是 2017 年第一次五百日写作计划时的内容，刚好用来回答这段时间的对于写作身份、创作者解释权、读者过度解 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-08-29 | [Nacos 3.1.1 升级 3.2.4 修复权限绕过漏洞记录](https://199604.com/3670) | Nacos 3.1.1 升级 3.2.4 修复权限绕过漏洞记录 记录时间：2026-08-28 至 2026- […] |
 | 2026-08-29 | [一些切片的终止](https://blog.solazy.me/20260829/) | 意外和明天，究竟哪个会先来？ |
+| 2026-08-29 | [？？？与时俱进呀，这只丑鸟](https://versun.me/blog/tweet-2093655481713877149) | Duolingo this movie on repeat till the cows come home #niulai https://twitter.com/toonhive/status/2090576946719555727 ？？？与时俱进呀，这只丑鸟 |
 | 2026-08-29 | [计算机网络如何帮我理解「人们难以相互理解」？](https://www.geedea.pro/article/layers-of-mental-models/) | 题中所指的「计算机网络」并非「互联网」，而是每个计算机学生都一定会修读的《计算机网络》中涵盖的相关知识。本文不谈社交媒体、同温层、信息茧房和推荐算法如何让人们陷入不能相互理解的困境和情绪化的骂战——我的确会谈此类现象，但不是通过这种方式。 人们把互联网想象得太具破坏性，而鲜少自省。在极客和书呆子们修… |
 | 2026-08-29 | [《大空头》与 2008 年金融危机](https://depp.wang/2026/the-big-short/) | 看完《大空头》以后，我原本以为 2008 年金融危机的逻辑很简单：美国人借了太多房贷，还不上，于是房价下跌，银行就出问题了。 但电影真正讲的不是一笔笔房贷本身，而是这些房贷后来被华尔街不断打包、出售、再打包，以及在上面反复下注。危机的核心，是大量低质量的次级房贷被证券化，并通过 MBS、CDO 和衍… |
 | 2026-08-29 | [Mimocode/Opencode 的 Responses API 支持](https://blog.est.im/2026/stdout-34) | 当前的 MiMoCodev0.1.13里，Responses API 有两套入口 Vercel SDK 的 responses() 方法 —— 触发条件是 provider id 为 openai / github-copilot / azure 。 provider 为 gitlab 且每个模型加… |
@@ -40,9 +44,11 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-08-29 | [那时候，贾母也才十来岁](https://kaix.in/2026/0829/) | 最近总是猛不丁想起一些孩童时期的片段旧事。比如想起现在的一位好友多年前在教室里两眼放光地给大家讲故事；还想起不知多少年前，和一群记不清面孔的伙伴一起在狭窄的通道里登顶龙泉塔，从塔顶的小窗一览小城全貌，彼时塔东还是一片空旷之地；又想起，年少时很偶然地将几张海报贴在自己床头，就被家父认定是在追星，说我不… |
 | 2026-08-29 | [洗眼睛](https://www.hecaitou.com/2026/08/Washing-My-Eyes.html) | 前阵子有个号称要破尽一切封建迷信的博主遭遇车祸而亡，之前那个姑娘把各种砸神像、闯坟地、住凶宅一类的事情都干了，做成视频放在网上给网友看，据说这也是目前网上做内容的一条「赛道」。 我那位格鲁巴的朋友当时给出的评论比较奇怪，没有落在唯心唯物，因果报应一类的观点上，而是说他看了一点姑娘的视频，后悔不已，不… |
 | 2026-08-29 | [体验 Age + SOPS 的轻量化配置文件加密方案](https://blog.yasking.org/a/age-sops) | 前两天从 AI 那里听说 age + SOPS，不了解，学习看看。 安装 age & SOPS age 是使用 go 编写的现代、简单的文件加密工具，主打易用和安全，支持 … |
+| 2026-08-29 | [11月12日起，Cursor里就不能用](https://versun.me/blog/tweet-2093532229557469454) | Tibo We unfortunately have decided that we cannot continue providing access to our models through Cursor and are ending our partnership. It boils down… |
 | 2026-08-29 | [VMware VCF 9.1 下载和激活](https://songxwn.com/VMware-VCF9.1-Download/) | VMware Cloud Foundation (VCF) 9.1 是一款面向现代私有云的统一平台，强调高效运维、快速应用交付以及内置的网络安全与数据保护能力。它支持虚拟机、容器和 AI 工作负载的统一运行，帮助企业在复杂环境下实现规模化、自动化和弹性。 VMware VMware Blogs ✨… |
 | 2026-08-29 | [模型越强，为什么我们反而越不敢放手？](https://gptkit.eth.limo/0F0DF99D-0544-4648-8C15-2388F6FB0F7F/) | 模型跑分提高，和它更适合一起工作，并不是同一件事。 一个编码 Agent 可以更快定位错误、完成更长的任务，也可能在需求有歧义时替人选定方向。它交付得更快了，人却不敢离开屏幕：每隔几分钟就要检查它是否扩大范围、改变计划，或把某个未写出的假设当成事实。 本文由《听懂 AI》第 006 期整理而成。节目… |
 | 2026-08-29 | [《我的女友景甜》是富豪反女权的里程碑](https://sinyalee.com/blog/?p=1338) | 我认识的有钱人和顶级女人（指学历长相名气在择偶市场上被人追捧的女人）都不少。我从两个方向见过太多富豪被女权捞女 […] |
+| 2026-08-29 | [我10月底软考中级，希望能过🫡](https://versun.me/blog/tweet-2093493269267452295) | 引用 我10月底软考中级，希望能过🫡 |
 | 2026-08-29 | [Python 潮流周刊#165：Mojo 正式开源](https://pythoncat.top/posts/2026-08-29-weekly/) | 分享了 12 篇文章，12 个开源项目，3 则音视频 |
 | 2026-08-28 | [Star Wars: TIE Fighter updated](https://macsourceports.com/game/swtiefighter) | The build of OpenTIE for Star Wars: TIE Fighter has been updated to version 0.0.5 of the project |
 | 2026-08-28 | [Star Wars: X-Wing Alliance updated](https://macsourceports.com/game/swxwa) | The build of OpenXWA for Star Wars: X-Wing Alliance has been updated to version 0.0.16 of the project |

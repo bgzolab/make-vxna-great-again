@@ -1,10 +1,31 @@
 [
   {
+    "title": "读《万历十五年》：人物、制度与一个王朝的问题",
+    "url": "https://depp.wang/2026/1587-a-Year-of-No-Significance/",
+    "date": "2026-08-30T02:47:11Z",
+    "description": "我原来以为《万历十五年》是一本讲明朝某一年发生了什么事的历史书，或者更直接一点，是一本写万历皇帝的书。 读下来才发现不是这样。 它当然有历史事件，也写了很多真实人物，但读起来更像一篇很长的历史文章。黄仁宇不是把史料一条条摆出来，而是从万历皇帝、张居正、申时行、海瑞、戚继光和李贽几个人身上，写出他自己对明朝制度的理解。人物写得很具体，可读性也很好，但背后其实一直在讲同一个问题：明朝当时的社会已经在变化，治理国家的制度和思想却没有完全跟上。 黄仁宇的经历也让我觉得挺厉害。他早年有从军经历，后来到美国研究明史。《万历十五年》的英文书稿在 1976 年就完成了，最开始还多次被出版社拒绝。最后他把这样一本本来很严肃的明史研究，写得很白话、很通俗，也没有把历史写成简单的忠奸故事。 理解这本书，还要先放回明朝的社会背景里。它仍然是一个以农业为根基的国家：土地、赋税、军饷和基层治理，都绕不开农村和农民。可真正承担国家治理的，已经不是春秋战国时期那种以宗族和名门望族为中心的贵族，而是通过科举进入官场的士大夫文官。文官既是国家建立起来解决问题的人，也是国家最难处理的问题之一。",
+    "source_root_domain": "depp.wang"
+  },
+  {
+    "title": "≡ 008｜这两周莫比乌斯环转到了哪里？",
+    "url": "https://mobius.blog/25535.html",
+    "date": "2026-08-30T01:30:00Z",
+    "description": "—— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。",
+    "source_root_domain": "onojyun.com"
+  },
+  {
     "title": "边想边聊 Vol.6",
     "url": "https://bluepika.life/blog/thinking-out-loud-6",
     "date": "2026-08-30T00:00:00Z",
     "description": "纯主观，想到哪聊到哪，聊到作品的内容可能会涉及剧透。",
     "source_root_domain": "bluepika.life"
+  },
+  {
+    "title": "上海今年的夏天真是异常凉快呀😂 这都9月",
+    "url": "https://versun.me/blog/tweet-2093842513610395876",
+    "date": "2026-08-29T23:25:31Z",
+    "description": "上海今年的夏天真是异常凉快呀😂 这都9月份了，还不到30度，太夸张了",
+    "source_root_domain": "versun.me"
   },
   {
     "title": "深入 XRepoTest：如何把 LLM 单元测试生成拉回真实仓库",
@@ -33,6 +54,13 @@
     "date": "2026-08-29T15:00:00Z",
     "description": "意外和明天，究竟哪个会先来？",
     "source_root_domain": "solazy.me"
+  },
+  {
+    "title": "？？？与时俱进呀，这只丑鸟",
+    "url": "https://versun.me/blog/tweet-2093655481713877149",
+    "date": "2026-08-29T11:02:19Z",
+    "description": "Duolingo this movie on repeat till the cows come home #niulai https://twitter.com/toonhive/status/2090576946719555727 ？？？与时俱进呀，这只丑鸟",
+    "source_root_domain": "versun.me"
   },
   {
     "title": "计算机网络如何帮我理解「人们难以相互理解」？",
@@ -84,6 +112,13 @@
     "source_root_domain": "yasking.org"
   },
   {
+    "title": "11月12日起，Cursor里就不能用",
+    "url": "https://versun.me/blog/tweet-2093532229557469454",
+    "date": "2026-08-29T02:52:34Z",
+    "description": "Tibo We unfortunately have decided that we cannot continue providing access to our models through Cursor and are ending our partnership. It boils down to trust and we’ve asked that this takes effect on November 12 to give you some time to plan. Many have 11月12日起，Cursor里就不能用 GPT 模型了 自从被 X 收购后，迟早有这一天，和 Windsurf 一样的下场",
+    "source_root_domain": "versun.me"
+  },
+  {
     "title": "VMware VCF 9.1 下载和激活",
     "url": "https://songxwn.com/VMware-VCF9.1-Download/",
     "date": "2026-08-29T02:29:24Z",
@@ -103,6 +138,13 @@
     "date": "2026-08-29T00:29:37Z",
     "description": "我认识的有钱人和顶级女人（指学历长相名气在择偶市场上被人追捧的女人）都不少。我从两个方向见过太多富豪被女权捞女 […]",
     "source_root_domain": "sinyalee.com"
+  },
+  {
+    "title": "我10月底软考中级，希望能过🫡",
+    "url": "https://versun.me/blog/tweet-2093493269267452295",
+    "date": "2026-08-29T00:17:45Z",
+    "description": "引用 我10月底软考中级，希望能过🫡",
+    "source_root_domain": "versun.me"
   },
   {
     "title": "Python 潮流周刊#165：Mojo 正式开源",
