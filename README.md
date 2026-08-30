@@ -27,14 +27,20 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-08-30 | [烹饪日记：干煸蚕蛹](https://blog.yasking.org/a/dry-fried-silkworm-pupae) | （害怕蚕蛹的小伙伴不建议阅读本文） ｜ ｜ ｜ ｜ ｜ ｜ ｜ ｜ ｜ ｜ ｜ ｜ 安全区 ｜ ｜ ｜ ｜ ｜ ｜ ｜ ｜ ｜ 前些天在淘宝买回来一些东北的黑蚕蛹，一斤价格 56.8，顺丰包邮。 因为一直冷 … |
+| 2026-08-30 | [Win10 开始菜单点击没反应、所有窗口只有一个能点，最后发现是鼠标侧键的锅](https://www.less-bug.com/posts/logi-mouse-is-bad/) | 我 Windows 10 之前出现奇怪的症状，除了一个窗口有反应，其它点什么都没反应，点桌面图标没反应，任务栏、开始按钮没反应。点微信窗口没反应。但是各个窗口自身状态又好像是正常的，微信能正常收消息，没有任何卡死迹象。幸好前台我开了一个 WezTerm 可以用来排查问题，它完全能正常输入输出。 我第… |
+| 2026-08-30 | [Zine#57 - IndieWeb Is Punk、用你的錢包去投票、為終端瀏覧器优化網站](https://taxodium.ink/57.html) | Zine#57 IndieWeb Is Punk、用你的錢包去投票、為終端瀏覧器优化網站 目录󠄃 News &#124; Article Cool Bit Tutorial &#124; Resource Code Related AI Related Tool &#124; Library Emacs 一些话 &#124; 摘抄 多媒体… |
+| 2026-08-30 | [Vol.116 效率竞赛开启：智能成本下降，稀缺转向数据、信任与注意力](https://liduos.com/weekly/the-weekly-gradient-116) | 本期内容聚焦AI效率竞赛：模型、芯片与软件协同优化使智能成本骤降，稀缺转向可信数据、安全边界、长期记忆与用户注意力。剖析Agent工程、组织治理及长期主义投资，探讨能力充裕时代的新护城河。 |
 | 2026-08-30 | [隔壁桌的暧昧学](https://blog.solazy.me/20260830/) | 今天聊点日常八卦和随想 |
 | 2026-08-30 | [Pensieve: 2608](https://xiaket.github.io/2026/pensieve-2608.html) | 所读所观所玩 |
 | 2026-08-30 | [老狗不跳崖](https://www.hecaitou.com/2026/08/old-dog-wont-leap-cliffs.html) | 我说，在自己内心的定力尚未培育至强大之前，最好要远离外部的各种干扰和诱惑。于是，就有一堆读者跑来教育我，要么劝我要勇往直前，战而胜之；要么来教育我，只要有一颗平静的心，就无需在意这些东西，就无需做各种分别，可以直入其中。 之前我在某本经书里读到一句话：狮子跃处，犬跳毙命。意思是狮子可以一跃而过的地方… |
 | 2026-08-30 | [读《万历十五年》：人物、制度与一个王朝的问题](https://depp.wang/2026/1587-a-Year-of-No-Significance/) | 我原来以为《万历十五年》是一本讲明朝某一年发生了什么事的历史书，或者更直接一点，是一本写万历皇帝的书。 读下来才发现不是这样。 它当然有历史事件，也写了很多真实人物，但读起来更像一篇很长的历史文章。黄仁宇不是把史料一条条摆出来，而是从万历皇帝、张居正、申时行、海瑞、戚继光和李贽几个人身上，写出他自己… |
 | 2026-08-30 | [≡ 008｜这两周莫比乌斯环转到了哪里？](https://mobius.blog/25535.html) | —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
+| 2026-08-30 | [存在主义，另一种形式的不人道](https://prologue.dev/blog/existentialism-another-form-of-inhumanity) | 意义是基于现实活动的产物，需要先行动、经历体验、回忆和思考作为基础。 |
+| 2026-08-30 | [2026年第35周](https://blog.sakoamc.com/posts/2635/) | 题记：二零二六年的第三十五周，珍惜稍纵即逝的想象力，阅读是在阅读他人和丰富自己。 |
 | 2026-08-30 | [边想边聊 Vol.6](https://bluepika.life/blog/thinking-out-loud-6) | 纯主观，想到哪聊到哪，聊到作品的内容可能会涉及剧透。 |
 | 2026-08-29 | [上海今年的夏天真是异常凉快呀😂 这都9月](https://versun.me/blog/tweet-2093842513610395876) | 上海今年的夏天真是异常凉快呀😂 这都9月份了，还不到30度，太夸张了 |
-| 2026-08-29 | [VMware NSX 4.2 - 平滑升级](https://songxwn.com/NSX4-Upgrade/) | NSX可以利用NSX Edge集群，ESXi集群进行平滑逐个升级，在保持业务不中断的情况下进行升级。 NSX系列文章： https://songxwn.com/tags/NSX/ |
+| 2026-08-29 | [VMware NSX 4.2 - 平滑升级](https://songxwn.com/NSX4-Upgrade/) | NSX可以利用NSX Edge集群，ESXi集群、NSX Manager进行平滑逐个进入维护模式升级，可在保持业务不中断的情况下进行升级。 NSX系列文章： https://songxwn.com/tags/NSX/ |
 | 2026-08-29 | [深入 XRepoTest：如何把 LLM 单元测试生成拉回真实仓库](https://shansan.top/2026/08/29/xrepotest-deep-dive/) | XRepoTest, repository-level unit test generation, LLM benchmark, invocation rate, multilingual testing |
 | 2026-08-29 | [真实的人、虚伪的人，以及想要成为的人和被驯化成的人](https://mobius.blog/25565.html) | 文章是 2017 年第一次五百日写作计划时的内容，刚好用来回答这段时间的对于写作身份、创作者解释权、读者过度解 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-08-29 | [真实的人、虚伪的人，以及想要成为的人和被驯化成的人](https://onojyun.com/25565.html) | 文章是 2017 年第一次五百日写作计划时的内容，刚好用来回答这段时间的对于写作身份、创作者解释权、读者过度解 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
