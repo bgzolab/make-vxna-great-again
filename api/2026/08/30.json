@@ -1,0 +1,261 @@
+[
+  {
+    "title": "边想边聊 Vol.6",
+    "url": "https://bluepika.life/blog/thinking-out-loud-6",
+    "date": "2026-08-30T00:00:00Z",
+    "description": "纯主观，想到哪聊到哪，聊到作品的内容可能会涉及剧透。",
+    "source_root_domain": "bluepika.life"
+  },
+  {
+    "title": "深入 XRepoTest：如何把 LLM 单元测试生成拉回真实仓库",
+    "url": "https://shansan.top/2026/08/29/xrepotest-deep-dive/",
+    "date": "2026-08-29T18:00:00Z",
+    "description": "XRepoTest, repository-level unit test generation, LLM benchmark, invocation rate, multilingual testing",
+    "source_root_domain": "shansan.top"
+  },
+  {
+    "title": "真实的人、虚伪的人，以及想要成为的人和被驯化成的人",
+    "url": "https://mobius.blog/25565.html",
+    "date": "2026-08-29T16:55:59Z",
+    "description": "文章是 2017 年第一次五百日写作计划时的内容，刚好用来回答这段时间的对于写作身份、创作者解释权、读者过度解 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。",
+    "source_root_domain": "onojyun.com"
+  },
+  {
+    "title": "Nacos 3.1.1 升级 3.2.4 修复权限绕过漏洞记录",
+    "url": "https://199604.com/3670",
+    "date": "2026-08-29T16:43:26Z",
+    "description": "Nacos 3.1.1 升级 3.2.4 修复权限绕过漏洞记录 记录时间：2026-08-28 至 2026- […]",
+    "source_root_domain": "199604.com"
+  },
+  {
+    "title": "一些切片的终止",
+    "url": "https://blog.solazy.me/20260829/",
+    "date": "2026-08-29T15:00:00Z",
+    "description": "意外和明天，究竟哪个会先来？",
+    "source_root_domain": "solazy.me"
+  },
+  {
+    "title": "计算机网络如何帮我理解「人们难以相互理解」？",
+    "url": "https://www.geedea.pro/article/layers-of-mental-models/",
+    "date": "2026-08-29T10:49:58Z",
+    "description": "题中所指的「计算机网络」并非「互联网」，而是每个计算机学生都一定会修读的《计算机网络》中涵盖的相关知识。本文不谈社交媒体、同温层、信息茧房和推荐算法如何让人们陷入不能相互理解的困境和情绪化的骂战——我的确会谈此类现象，但不是通过这种方式。 人们把互联网想象得太具破坏性，而鲜少自省。在极客和书呆子们修建好虚拟广场之前，人们就已经在其他的广场上建好巴别塔了，而互联网只是让巴别塔伸手可及，也让人们建立起对它的病态依赖，是放大因素而非万恶之源。本文基于我自己的观察和总结，试图分析为什么人们无法相互理解。我并不会把话题下降到情绪层面（对应的问题是「为什么人们 不想 相互理解？」），我只在理性的领域讨论。 开胃小菜 倘若读者接受过像样的计算机本科教育，或者自己研究过相关知识，就可以跳过这一节。我并不会讲太深刻的内容，尽力让所有人都能读懂。 架设计算机网络很复杂，人们要考虑的问题很多：用什么媒介传输数据？数据用什么格式表示？数据包里需要包含什么信息？计算机之前怎么建立连接？一台计算机怎么找到庞大网络中的另一台计算机？仔细审视一番就不难发现，这些问题之间还存在依赖关系，比方说，计算机之间建立连接的方式",
+    "source_root_domain": "geedea.pro"
+  },
+  {
+    "title": "《大空头》与 2008 年金融危机",
+    "url": "https://depp.wang/2026/the-big-short/",
+    "date": "2026-08-29T09:37:25Z",
+    "description": "看完《大空头》以后，我原本以为 2008 年金融危机的逻辑很简单：美国人借了太多房贷，还不上，于是房价下跌，银行就出问题了。 但电影真正讲的不是一笔笔房贷本身，而是这些房贷后来被华尔街不断打包、出售、再打包，以及在上面反复下注。危机的核心，是大量低质量的次级房贷被证券化，并通过 MBS、CDO 和衍生品扩散到整个金融系统。最开始只是少数人还不起房贷，为什么会变成全球金融危机？我把自己看电影时想问的几个问题，按这条链路重新整理了一下。",
+    "source_root_domain": "depp.wang"
+  },
+  {
+    "title": "Mimocode/Opencode 的 Responses API 支持",
+    "url": "https://blog.est.im/2026/stdout-34",
+    "date": "2026-08-29T08:47:00Z",
+    "description": "当前的 MiMoCodev0.1.13里，Responses API 有两套入口 Vercel SDK 的 responses() 方法 —— 触发条件是 provider id 为 openai / github-copilot / azure 。 provider 为 gitlab 且每个模型加上 \"useResponsesApi\": true 就tmd很神奇。。一眼 vibe coding。我感觉世界上理解 Responses API 意义的人可能比例很少。。。 走 gitlab { \"$schema\": \"https://mimo.xiaomi.com/mimocode/config.json\", \"provider\": { \"gitlab\": { \"name\": \"GitLab\", \"models\": { \"gpt-5-codex\": { \"useResponsesApi\": true } } } } } 可以通过 GITLABINSTANCEURL GITLAB_TOKEN 环境变量去变通，但是 token 来自 directAccessClient.getDirectAc",
+    "source_root_domain": "feedburner.com"
+  },
+  {
+    "title": "2026.8.29",
+    "url": "https://www.justzht.com/2026-8-29/",
+    "date": "2026-08-29T08:39:28Z",
+    "description": "无事发生的一周，各种事情仍然卡在不前不后的部分。 上周末在家看了 King of New York 。老片子了，剧情有点虎头蛇尾，",
+    "source_root_domain": "justzht.com"
+  },
+  {
+    "title": "那时候，贾母也才十来岁",
+    "url": "https://kaix.in/2026/0829/",
+    "date": "2026-08-29T04:16:04Z",
+    "description": "最近总是猛不丁想起一些孩童时期的片段旧事。比如想起现在的一位好友多年前在教室里两眼放光地给大家讲故事；还想起不知多少年前，和一群记不清面孔的伙伴一起在狭窄的通道里登顶龙泉塔，从塔顶的小窗一览小城全貌，彼时塔东还是一片空旷之地；又想起，年少时很偶然地将几张海报贴在自己床头，就被家父认定是在追星，说我不走寻常路——妳能猜到我贴的是什么海报了吧——并不是抱怨，但父亲的确是时常误解我。 于是不禁想到，父亲的「闪回时间」里会出现哪些人和事呢？他是否也感叹时间匆匆，那些意气风发，那些心神涤荡，那些莫名其妙……最终成了镜子中当下的自己？或许不像我这么动辄伤春悲秋，但任谁都有难忘的经历吧，《红楼梦》第三十八回里的一段突然蹦了出来： 贾母听了，又抬头看匾，因回头向薛姨妈道：「我先小时，家里也有这么一个亭子，叫做什么『枕霞阁』。我那时也只象他们这么大年纪，同姊妹们天天顽去。那日谁知我失了脚掉下去，几乎没淹死，好容易救了上来，到底被那木钉把头碰破了。如今这鬓角上那指头顶大一块窝儿就是那残破了。众人都怕经了水，又怕冒了风，都说活不得了，谁知竟好了。」 fin. 激赏 ！ 来信 。",
+    "source_root_domain": "kaix.in"
+  },
+  {
+    "title": "洗眼睛",
+    "url": "https://www.hecaitou.com/2026/08/Washing-My-Eyes.html",
+    "date": "2026-08-29T03:56:46Z",
+    "description": "前阵子有个号称要破尽一切封建迷信的博主遭遇车祸而亡，之前那个姑娘把各种砸神像、闯坟地、住凶宅一类的事情都干了，做成视频放在网上给网友看，据说这也是目前网上做内容的一条「赛道」。 我那位格鲁巴的朋友当时给出的评论比较奇怪，没有落在唯心唯物，因果报应一类的观点上，而是说他看了一点姑娘的视频，后悔不已，不得不给自己做忏悔和除障仪式。 理由是什么呢？理由是当他看视频的时候，如果内心随喜那些行为，他就该忏悔；如果内心对姑娘产生了嗔恨，他还是该忏悔。所以，左右都没有好事，于是非常后悔自己为什么要那么好奇去点开看。 我看后不大以为然，觉得他们格鲁巴从来都热爱吵架，整天没事就辩来辩去，正过去思考倒过来思量，掉入这种两难处境肯定难免。不过，这两天我的想法有点改变，因为我也遇见了需要洗眼睛的事情。 起因是一篇加密货币领域著名镰刀手的小作文，讲述他和明星前女友之间的情感纠葛和经济纠纷。目的很单纯，就是彻底毁灭前女友的职业生涯，同时为自己捞一波流量---这是他的习惯，此人就算是被抓去枪毙，有人在法场上救回他来，松绑起身的第一时间，他就开始盘算怎么从对方手上弄到一笔回城的打车钱。 这篇小作文用意本身就不良善，所",
+    "source_root_domain": "hecaitou.com"
+  },
+  {
+    "title": "体验 Age + SOPS 的轻量化配置文件加密方案",
+    "url": "https://blog.yasking.org/a/age-sops",
+    "date": "2026-08-29T03:49:00Z",
+    "description": "前两天从 AI 那里听说 age + SOPS，不了解，学习看看。 安装 age & SOPS age 是使用 go 编写的现代、简单的文件加密工具，主打易用和安全，支持 …",
+    "source_root_domain": "yasking.org"
+  },
+  {
+    "title": "VMware VCF 9.1 下载和激活",
+    "url": "https://songxwn.com/VMware-VCF9.1-Download/",
+    "date": "2026-08-29T02:29:24Z",
+    "description": "VMware Cloud Foundation (VCF) 9.1 是一款面向现代私有云的统一平台，强调高效运维、快速应用交付以及内置的网络安全与数据保护能力。它支持虚拟机、容器和 AI 工作负载的统一运行，帮助企业在复杂环境下实现规模化、自动化和弹性。 VMware VMware Blogs ✨ VCF 9.1 的核心亮点 高效基础设施与运维 提供多租户云运维能力，支持安全 VPC、可扩展集群管理和生命周期自动化，降低运维复杂度。 VMware 快速应用交付 通过自动化云服务交付和自助式平台体验，加速应用上线，提升敏捷性与安全性。 VMware Blogs 集成网络安全与数据保护 内置网络安全、加密存储和数据保护机制，确保业务连续性和合规性。 VMware 🖥️ 技术增强 NVMe 内存分层 热数据保留在 DRAM，冷数据迁移至 NVMe，实现高达 40% 的服务器整合率和更低 TCO。 VMware Blogs vSAN 全局去重与压缩 持续消除冗余数据，提升压缩效率，降低存储成本。 VMware Blogs vSphere 弹性部署 支持并行镜像、自动发现和一致性配置，加快主机上",
+    "source_root_domain": "songxwn.com"
+  },
+  {
+    "title": "模型越强，为什么我们反而越不敢放手？",
+    "url": "https://gptkit.eth.limo/0F0DF99D-0544-4648-8C15-2388F6FB0F7F/",
+    "date": "2026-08-29T01:53:26Z",
+    "description": "模型跑分提高，和它更适合一起工作，并不是同一件事。 一个编码 Agent 可以更快定位错误、完成更长的任务，也可能在需求有歧义时替人选定方向。它交付得更快了，人却不敢离开屏幕：每隔几分钟就要检查它是否扩大范围、改变计划，或把某个未写出的假设当成事实。 本文由《听懂 AI》第 006 期整理而成。节目主要讨论 Mun Logadan 于 2026 年 8 月 14 日发布的个人文章《Why does Opus 5 feel worse to work with?》，并补充 Anthropic 的 Opus 5 发布说明和 Hacker News 社区讨论。原文描述的是作者及同事的使用感受，不是模型对照实验；关于训练和 benchmark 的解释也被作者明确标为推测。 原文到底在抱怨什么 Mun Logadan 并没有说 Opus 5 能力倒退。相反，他认为它比 Opus 4.7、4.8 更有能力，benchmark 表现也很强。让他不舒服的是协作方式： 意图不清楚时，不太愿意停下来询问； 信息缺失时，会自行补充假设； 已有计划存在多种解释时，可能不经确认就重新理解或修改。 这会产生一种反",
+    "source_root_domain": "eth.limo"
+  },
+  {
+    "title": "《我的女友景甜》是富豪反女权的里程碑",
+    "url": "https://sinyalee.com/blog/?p=1338",
+    "date": "2026-08-29T00:29:37Z",
+    "description": "我认识的有钱人和顶级女人（指学历长相名气在择偶市场上被人追捧的女人）都不少。我从两个方向见过太多富豪被女权捞女 […]",
+    "source_root_domain": "sinyalee.com"
+  },
+  {
+    "title": "Python 潮流周刊#165：Mojo 正式开源",
+    "url": "https://pythoncat.top/posts/2026-08-29-weekly/",
+    "date": "2026-08-29T00:00:00Z",
+    "description": "分享了 12 篇文章，12 个开源项目，3 则音视频",
+    "source_root_domain": "pythoncat.top"
+  },
+  {
+    "title": "Star Wars: TIE Fighter updated",
+    "url": "https://macsourceports.com/game/swtiefighter",
+    "date": "2026-08-28T21:36:39Z",
+    "description": "The build of OpenTIE for Star Wars: TIE Fighter has been updated to version 0.0.5 of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "Star Wars: X-Wing Alliance updated",
+    "url": "https://macsourceports.com/game/swxwa",
+    "date": "2026-08-28T21:36:39Z",
+    "description": "The build of OpenXWA for Star Wars: X-Wing Alliance has been updated to version 0.0.16 of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "介绍一家最近去的头马 Toastmasters 演讲俱乐部",
+    "url": "https://www.owenyoung.com/toastmasters",
+    "date": "2026-08-28T19:00:59Z",
+    "description": "最近连续 3 周周五晚上都会去一家听名字我都不太敢介绍给别人的一个组织：头马 （Toastmasters）演讲俱乐部，Toastmasters，字面意思是“祝酒辞大师”。我去的是上海的 LEP 演讲俱乐部。 头马这个组织成立于 1924 年，已经一百多年了（我三周前才知道头马这个词）。它是一个非营利的演讲组织，全球有一万五千多家分支俱乐部，上海有 100 多家。头马总部提供品牌+基本流程（黑话，仪式等），各个俱乐部高度自治，大家用的基本流程类似（下文会介绍到），会员入会是按半年交会费（各地价格不一样，我去的这家似乎是半年 800 左右，其中 500 块上交给总部的，但如果你经常贡献演讲和角色，会费会按比例返还一些）。 听到这里是不是警报已经响起哈哈： 听名字和流程有一种浓浓的成功学味。会费 + 发展会员，像邪教+传销。",
+    "source_root_domain": "owenyoung.com"
+  },
+  {
+    "title": "小棉袄成长三部曲",
+    "url": "https://springwood.me/toddler-growth/",
+    "date": "2026-08-28T15:00:00Z",
+    "description": "（摘要）最近终于搞定了上厕所",
+    "source_root_domain": "springwood.me"
+  },
+  {
+    "title": "Theme Hospital updated",
+    "url": "https://macsourceports.com/game/themehospital",
+    "date": "2026-08-28T14:55:16Z",
+    "description": "The build of CorsixTH for Theme Hospital has been updated to version v0.70.1 of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "No One Lives Forever 2: A Spy in H.A.R.M.'s Way updated",
+    "url": "https://macsourceports.com/game/nolf2",
+    "date": "2026-08-28T13:58:31Z",
+    "description": "The build of NOLF2 for Mac for No One Lives Forever 2: A Spy in H.A.R.M.'s Way has been updated to version 0.4.2 of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "Quetoo updated",
+    "url": "https://macsourceports.com/game/quetoo",
+    "date": "2026-08-28T13:57:32Z",
+    "description": "The build of Quetoo has been updated to version v1.0.84 of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "入蜀记 day459 十年周期",
+    "url": "https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_459/",
+    "date": "2026-08-28T08:01:27Z",
+    "description": "「十年周期。」",
+    "source_root_domain": "arlmy.me"
+  },
+  {
+    "title": "入蜀记 day458 Dead Kennedys",
+    "url": "https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_458/",
+    "date": "2026-08-28T07:57:27Z",
+    "description": "「Dead Kennedys.」",
+    "source_root_domain": "arlmy.me"
+  },
+  {
+    "title": "腾讯 hy4 才 770B 啊，也是MO",
+    "url": "https://versun.me/blog/tweet-2093241536352018699",
+    "date": "2026-08-28T07:37:27Z",
+    "description": "Tencent Hy 🚀 Hy4 preview is here. 770B, 49B active, 1M context. Built for productivity. Open source frontier. Consistent affordable price. Use it. Tell us what breaks. More on Hy blog：https://hy.tencent.ai/research/hy4-preview HuggingFace：https://huggingface. 腾讯 hy4 才 770B 啊，也是MOE架构，这 bench 看起来很不错呐！可惜不是多模态 官方还提供了 BF16 的 Instruct 版和 FP8 量化版， 各路大神，可以开始量化4bit了吧，坐等🤤 workbuddy 上目前免费",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "理财笔记 20260828",
+    "url": "https://z.arlmy.me/posts/TILs/money/20260828_InvestmentNote/",
+    "date": "2026-08-28T07:30:27Z",
+    "description": "「小记。」",
+    "source_root_domain": "arlmy.me"
+  },
+  {
+    "title": "哈哈，想起以前自己折腾 linux 的时",
+    "url": "https://versun.me/blog/tweet-2093196663976562782",
+    "date": "2026-08-28T04:39:09Z",
+    "description": "DHH Maybe Nix is like Rust: Amazing if you don't have to look at the code! I'm open to the idea that Omarchy Cinque could switch packaging system if I never have to look at nixlang, there are no ergonomic regressions, and we have full repo sovereignty. 哈哈，想起以前自己折腾 linux 的时候，一模一样的想法，唯一不同的是，我只是折腾着玩，dhh是真的能折腾出东西来🤣",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "DeepSeek Harness：为什么要把智能体的所有部件都做成插件",
+    "url": "https://gptkit.eth.limo/1058DA1B-E83D-40F2-B88C-171915F02042/",
+    "date": "2026-08-28T04:24:22Z",
+    "description": "比较 AI Agent 时，人们往往先问“用了哪个模型”。但模型只是其中一部分。它能访问哪些文件和工具、怎样管理上下文、何时请求批准、如何恢复失败、把运行记录保存在哪里，这些都由模型之外的 Harness 决定。 DeepSeek Harness 的 Developer Preview 把这层基础设施单独摆到台面上，并给出两个醒目的设计目标：所有能力都可以作为插件替换；每次运行都能从同一条事件流中追溯。 本文由《听懂 AI》第 005 期整理而成。主要来源是 DeepSeek Harness 官方站点、GitHub 仓库和架构文档。2026 年 8 月 26 日发布的 Cordis 预印本补充了可逆副作用和动态依赖的理论说明。项目截至 2026 年 8 月 28 日仍处于 Developer Preview，官方明确表示会出现破坏兼容性的变更。 Harness 到底负责什么 模型可以生成文本或工具调用意图，但它不能直接在操作系统里“自己做事”。Harness 负责把模型接进真实环境： 组装系统提示、历史消息和工具描述； 暴露文件、终端、搜索、网络等能力； 执行工具并把结果送回模型； 管",
+    "source_root_domain": "eth.limo"
+  },
+  {
+    "title": "下坡路的走法",
+    "url": "https://www.hecaitou.com/2026/08/the-art-of-walking-downhill.html",
+    "date": "2026-08-28T03:50:23Z",
+    "description": "近期不断有公众号作者来找我，哭诉流量下降的事。如果要一个简单的回答，我会说：耐心一点，也许只是一次算法调整，调整完毕之后也许会有改观。如果要一个直接的回复，我则会说：你还是去做视频或者音频吧，虽然现在也有点晚了。如果一定要写文字，那么小红书的笔记可能在现阶段更适合你。 至于我本人的想法？我经历了 BBS 时代、Blog 时代、微博时代、公众号时代，如果要给出今天关于网络文字创作的判断，我会说：整个互联网世界里关于文字阅读的基础已经发生了根本性的变化。 首先是用户变化，全民转为网民的进程已经完成，各种内容形式和内容平台早就进入了存量用户竞争阶段。而从数据上看，网民花在视频上的时间越来越长，这就意味着他们在别的内容形式上花的时间就会减少。大江大河变成了小河小溪，今天还愿意阅读的网民数量在减少，分到每一位写作者这里自然也就更少了。无怪乎有人刻薄地评价说：如今的作者要比读者多。 然后是内容形式过时。文字本身不会过时，但是文字具体用什么形式讲述，在每一个时代里都不同。在过去十多年里，互联网上的文字处于超量供应状态，有了工作室、MCN 公司，尤其是 AI 辅助创作之后，更是严重超量。严重超量带来的",
+    "source_root_domain": "hecaitou.com"
+  },
+  {
+    "title": "终于拿到 Kimi 的飞书助手 Mira",
+    "url": "https://versun.me/blog/tweet-2093165397264777369",
+    "date": "2026-08-28T02:34:54Z",
+    "description": "终于拿到 Kimi 的飞书助手 Mira 的内测资格了，这几天玩玩看怎么样",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "开箱小米BE3600路由器(2.5G)+小米中枢网关",
+    "url": "https://www.cheshirex.com/11043.html",
+    "date": "2026-08-28T02:28:13Z",
+    "description": "前面我在拼多多百亿补贴买的小米BE6500Pro路由器翻车了，拼多多给了我一个二手货。 拼多多百亿补贴卖给了我 […]",
+    "source_root_domain": "cheshirex.com"
+  },
+  {
+    "title": "AI 让代码变便宜以后，工程师真正昂贵的是什么",
+    "url": "https://gptkit.eth.limo/9465B233-6B36-4432-ADA1-1A7E447C9186/",
+    "date": "2026-08-28T02:18:35Z",
+    "description": "AI 编程工具最直观的变化，是让“写出一批能运行的代码”变得更快。一个需求可以在几小时内长出页面、接口、数据表和测试，过去需要几天的实现工作被压缩到一个下午。 但软件交付并不在代码生成时结束。团队还要理解设计、审查影响、验证行为、迁移数据、处理故障，并在几个月后继续修改。生成速度提高后，这些工作反而更容易成为新的瓶颈。 本文由《听懂 AI》第 004 期整理而成。节目来源是 Florian Herrengt 于 2026 年 8 月 11 日发布的个人文章《AI is removing the middle class of software engineering》。原文以作者经历和判断为主，并不是就业市场或软件质量的统计研究；本文另外引入 GitHub、METR 和 DORA 的研究，核对“写得更快是否等于生产力更高”。 原文所说的“中间地带”是什么 Herrengt 描述了一个常见场景：周一早上出现多个由 Agent 生成的巨大合并请求，功能看起来能运行，却没有人能清楚解释数据从哪里来、为什么增加某个抽象、失败后如何恢复。设计依据甚至只存在于一条来回改口的模型对话里。 他所谓的“",
+    "source_root_domain": "eth.limo"
+  },
+  {
+    "title": "一个小区门口可以开几家包子店？",
+    "url": "https://mobius.blog/25519.html",
+    "date": "2026-08-28T01:30:00Z",
+    "description": "楼下有两家包子店，一家只在一、三、五、六的上午营业，而另一家一周开七天，从早上 6 点工作到凌晨 1 点。两家 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。",
+    "source_root_domain": "onojyun.com"
+  },
+  {
+    "title": "这个有点好玩呀，AI 开始系统化了，以后",
+    "url": "https://versun.me/blog/tweet-2093147301091099122",
+    "date": "2026-08-28T01:23:00Z",
+    "description": "warmwind Introducing warmwind OS: The World’s First AI Operating System warmwind is live. After three years of building, testing, breaking things, rebuilding them, and a long beta phase, we’re finally ready. For the launch, we did what we apparently like doi 这个有点好玩呀，AI 开始系统化了，以后有个浏览器就行了",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "以前安装试一试后，如果不错会付费 现在我",
+    "url": "https://versun.me/blog/tweet-2093140694810624017",
+    "date": "2026-08-28T00:56:44Z",
+    "description": "向阳乔木 全键盘操作的笔记工具，类似Workflowy，无限层级大纲视图笔记软件。 AI、看板、脑图功能收费，其他免费。 地址见评论区 以前安装试一试后，如果不错会付费 现在我的第一反应竟然是，让 AI 复刻难不难，其次才是值不值得付费。。。 现在做产品是真难呀😂不仅要比卖点，还得比复刻难度",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "Memos #2026-08-27",
+    "url": "https://www.taober.blog/memos/memo_20260827013049_4202nz",
+    "date": "2026-08-28T00:00:00Z",
+    "description": "09:33 昨晚下雨，九点准时打车，快十点才上车。到家空调吹得眼睛特别干。晚上做了个梦，导致今天又九点十五才醒，纠结了一阵还是去公司上班吧。 真两眼一睁就是干！",
+    "source_root_domain": "taober.blog"
+  }
+]

@@ -27,7 +27,9 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-08-30 | [边想边聊 Vol.6](https://bluepika.life/blog/thinking-out-loud-6) | 纯主观，想到哪聊到哪，聊到作品的内容可能会涉及剧透。 |
 | 2026-08-29 | [深入 XRepoTest：如何把 LLM 单元测试生成拉回真实仓库](https://shansan.top/2026/08/29/xrepotest-deep-dive/) | XRepoTest, repository-level unit test generation, LLM benchmark, invocation rate, multilingual testing |
+| 2026-08-29 | [真实的人、虚伪的人，以及想要成为的人和被驯化成的人](https://mobius.blog/25565.html) | 文章是 2017 年第一次五百日写作计划时的内容，刚好用来回答这段时间的对于写作身份、创作者解释权、读者过度解 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-08-29 | [真实的人、虚伪的人，以及想要成为的人和被驯化成的人](https://onojyun.com/25565.html) | 文章是 2017 年第一次五百日写作计划时的内容，刚好用来回答这段时间的对于写作身份、创作者解释权、读者过度解 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-08-29 | [Nacos 3.1.1 升级 3.2.4 修复权限绕过漏洞记录](https://199604.com/3670) | Nacos 3.1.1 升级 3.2.4 修复权限绕过漏洞记录 记录时间：2026-08-28 至 2026- […] |
 | 2026-08-29 | [一些切片的终止](https://blog.solazy.me/20260829/) | 意外和明天，究竟哪个会先来？ |
@@ -59,8 +61,8 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-08-28 | [终于拿到 Kimi 的飞书助手 Mira](https://versun.me/blog/tweet-2093165397264777369) | 终于拿到 Kimi 的飞书助手 Mira 的内测资格了，这几天玩玩看怎么样 |
 | 2026-08-28 | [开箱小米BE3600路由器(2.5G)+小米中枢网关](https://www.cheshirex.com/11043.html) | 前面我在拼多多百亿补贴买的小米BE6500Pro路由器翻车了，拼多多给了我一个二手货。 拼多多百亿补贴卖给了我 […] |
 | 2026-08-28 | [AI 让代码变便宜以后，工程师真正昂贵的是什么](https://gptkit.eth.limo/9465B233-6B36-4432-ADA1-1A7E447C9186/) | AI 编程工具最直观的变化，是让“写出一批能运行的代码”变得更快。一个需求可以在几小时内长出页面、接口、数据表和测试，过去需要几天的实现工作被压缩到一个下午。 但软件交付并不在代码生成时结束。团队还要理解设计、审查影响、验证行为、迁移数据、处理故障，并在几个月后继续修改。生成速度提高后，这些工作反而… |
-| 2026-08-28 | [一个小区门口可以开几家包子店？](https://onojyun.com/25519.html) | 楼下有两家包子店，一家只在一、三、五、六的上午营业，而另一家一周开七天，从早上 6 点工作到凌晨 1 点。两家 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-08-28 | [一个小区门口可以开几家包子店？](https://mobius.blog/25519.html) | 楼下有两家包子店，一家只在一、三、五、六的上午营业，而另一家一周开七天，从早上 6 点工作到凌晨 1 点。两家 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
+| 2026-08-28 | [一个小区门口可以开几家包子店？](https://onojyun.com/25519.html) | 楼下有两家包子店，一家只在一、三、五、六的上午营业，而另一家一周开七天，从早上 6 点工作到凌晨 1 点。两家 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-08-28 | [这个有点好玩呀，AI 开始系统化了，以后](https://versun.me/blog/tweet-2093147301091099122) | warmwind Introducing warmwind OS: The World’s First AI Operating System warmwind is live. After three years of building, testing, breaking things, reb… |
 | 2026-08-28 | [以前安装试一试后，如果不错会付费 现在我](https://versun.me/blog/tweet-2093140694810624017) | 向阳乔木 全键盘操作的笔记工具，类似Workflowy，无限层级大纲视图笔记软件。 AI、看板、脑图功能收费，其他免费。 地址见评论区 以前安装试一试后，如果不错会付费 现在我的第一反应竟然是，让 AI 复刻难不难，其次才是值不值得付费。。。 现在做产品是真难呀😂不仅要比卖点，还得比复刻难度 |
 | 2026-08-28 | [Memos #2026-08-27](https://www.taober.blog/memos/memo_20260827013049_4202nz) | 09:33 昨晚下雨，九点准时打车，快十点才上车。到家空调吹得眼睛特别干。晚上做了个梦，导致今天又九点十五才醒，纠结了一阵还是去公司上班吧。 真两眼一睁就是干！ |
@@ -177,20 +179,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-08-23 | [我把所有的ETF投资都转到了一个平台](https://www.ozexplorers.com/%E6%8A%95%E8%B5%84%E7%90%86%E8%B4%A2/2026/08/23/chess-or-custodian-how-i-chose-an-etf-platform-in-australia.html) | 又到了报税季，作为一个有着工资、存款和投资收入的澳洲牛马，我需要等待雇主、银行和ETF发行方挨个提供Tax Statement，才能填写并提交澳洲税务部门ATO的年度Tax Return表格。 |
 | 2026-08-23 | [Memos #2026-08-22](https://www.taober.blog/memos/memo_20260821164550_kjm08c) | 00:56 看了深夜档的《欢迎来龙餐馆》，质感很好，演技也没得说，尤其是用了厨子这个小人物的视角去讲故事。 这段时间就有意地不去刷相关信息，保留了今天的完整观影体验。 另外提升体验的一部分是开了一个小时的座椅按摩，享受。 附一张影院《牛来》海报。 |
 | 2026-08-23 | [Memos #2026-08-22](https://www.taober.blog/memos) | 00:56 看了深夜档的《欢迎来龙餐馆》，质感很好，演技也没得说，尤其是用了厨子这个小人物的视角去讲故事。 这段时间就有意地不去刷相关信息，保留了今天的完整观影体验。 另外提升体验的一部分是开了一个小时的座椅按摩，享受。 附一张影院《牛来》海报。 |
-| 2026-08-22 | [Jenkins Vue 流水线构建 OOM（exit 137）复发的问题](https://199604.com/3657) | Jenkins Vue 流水线构建 OOM（exit 137）复发的问题 记录时间：2026-08-21 环境 […] |
-| 2026-08-22 | [周末流水账 0822](https://blog.solazy.me/20260822/) | 好久没写周末流水账了，今天是阔别重逢的一篇 |
-| 2026-08-22 | [一副牌的惯蛋玩法](https://depp.wang/2026/guandan/) | 大侄子来到我家过暑假，我想提升一下他的逻辑思维能力，所以就一起打扑克。 打扑克的话，现在我们比较常玩的是「干瞪眼」，这是最开始只有五张牌的这种玩法，看谁先出完。但是这种玩法相对简单一点。 稍微复杂点的就是「斗地主」，但是只能三个人玩。我们有四个人，这种不太适合大家一起玩。 所以我想四个人怎么一起玩？… |
-| 2026-08-22 | [入蜀记 day450 正行亡私](https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_450/) | 「正行亡私。」 |
-| 2026-08-22 | [入蜀记 day449 东北蓝调](https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_449/) | 「东北蓝调。」 |
-| 2026-08-22 | [入蜀记 day448 大学同学相识20周年](https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_448/) | 「大学同学相识20周年。」 |
-| 2026-08-22 | [入蜀记 day447 辽宁大厦](https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_447/) | 「辽宁大厦。」 |
-| 2026-08-22 | [丁达尔 II](https://mobius.blog/25466.html) | 小王因为掏出手机拍夕阳的丁达尔现象，结果被路人“抓了个正着”，此时此刻他还真的被扭送去了派出所。 “你们干嘛？ […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
-| 2026-08-22 | [我个人最欣赏的 AI 用法](https://www.hecaitou.com/2026/08/my-favorite-way-to-use-ai.html) | 关于 AI 的文章我已经写过太多了，但是今天还是想再写一篇。我知道，总是谈同一个话题容易让人觉得厌烦，所以不如这样：如果一看到 「AI 」这个词，你的第一反应是「听吐了」，或者「我对 AI 太熟了」，那么你大可以现在就关闭离开，因为接下来的内容对你毫无帮助。那么美好的周末，干点什么别的不成？ 还没有… |
-| 2026-08-22 | [感谢 Kimi 和 Go，早上给我的博客](https://versun.me/blog/tweet-2091018026091184560) | 感谢 Kimi 和 Go，早上给我的博客添加了 子域名跳转 的功能，一次就成，太方便了 |
-| 2026-08-22 | [“灵活就业即自由”言论背后的晚期资本主义特征与国家去责任化](https://prologue.dev/blog/the-characteristics-of-late-capitalism-and-state-disengagement-behind-the-claim-that-flexible-employment-equals-freedom) | 公民个体承担生命周期的所有成本，包括教育、生育、养老、医疗等。国家不再通过财政与再分配来保障个人，而是通过塑造竞争性主体来治理风险。 |
-| 2026-08-22 | [Python 潮流周刊#164：deepseek-harness 万物皆插件](https://pythoncat.top/posts/2026-08-22-weekly/) | 分享了 12 篇文章，12 个开源项目 |
-| 2026-08-22 | [2026年第33、34周](https://blog.sakoamc.com/posts/263334/) | 题记：二零二六年的第三十三、三十四周，无论阅读、重复、出行，在特殊的时机下都能产生启发。 |
-| 2026-08-22 | [Memos #2026-08-21](https://www.taober.blog/memos/memo_20260821025944_n1fchg) | 11:00 好想吃老家的小笼包🤤 |
 
 ## Vibe Coding
 
