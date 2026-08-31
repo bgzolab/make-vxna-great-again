@@ -1,10 +1,45 @@
 [
   {
+    "title": "Quake updated",
+    "url": "https://macsourceports.com/game/quake",
+    "date": "2026-08-31T17:03:18Z",
+    "description": "The build of vkQuake for Quake has been updated to version 1.36.0 of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "人类高质量思政课",
+    "url": "https://elmagnifico.tech/2026/09/01/Political-Courses/",
+    "date": "2026-08-31T16:00:00Z",
+    "description": "Foreword 我记得很久以前，有一个政治老师说：你不关注政治，但政治始终在关注你 以前不理解，这东西有啥好学的，其实还是当年的课程有点脱离生活了。讲的东西过于模糊，没有明确说明这个政治或者政策是什么意思，他的结果是什么，他对或者不对。 以前的政治课讲的都是正面的，都是这个东西的作用，但是一旦问到你这个东西有啥负面的作用？起到了啥作用，怎么落到基层，怎么指导实际政府工作的？都不知道，感觉就是个假大空的东西。 没想到这个课竟然意外点透了以前听的迷迷糊糊的东西，感觉有点意思，就追完了。 沈辛成在交大东上院上的博士公共课《中国马克思主义与当代》，2025 年秋季现场课，他自己剪了传到 B 站，合集叫《历史的进程》。这是博士阶段最后一门思政课，一共十讲。没想到是博士生的课，不过感觉有点晚了，其实这应该早点讲。 B 站没有官方字幕。这次是把各集音频拉下来，用本地语音识别转成文稿再整理的。 人类高质量思政课 讲课的人是沈辛成，B 站叫沈枯燥在搞教育，在交大做技术史。合集 51 集，PV 加十讲加番外。 教材是马工程的《中国马克思主义与当代》。他没有按章宣读。十讲按这个顺序走：先用当代案例把方法讲",
+    "source_root_domain": "elmagnifico.tech"
+  },
+  {
     "title": "Redis 集群模式下使用 MGET 触发 CROSSSLOT Keys",
     "url": "https://blog.yasking.org/a/redis-crossslot",
     "date": "2026-08-31T13:00:00Z",
     "description": "说来惭愧，今天我才了解到 Redis Cluster 模式下 MGET 的使用 “陷阱”，起因是翻日志看到 Redis 请求报错日志： ( error ) CROSSSLOT Keys in request don't hash to the same slot 定位 …",
     "source_root_domain": "yasking.org"
+  },
+  {
+    "title": "R#117 寻找正反馈",
+    "url": "https://blog.sakanano.moe/journals/random_117",
+    "date": "2026-08-31T13:00:00Z",
+    "description": "2026.8.25 ~ 2026.8.31",
+    "source_root_domain": "sakanano.moe"
+  },
+  {
+    "title": "开学前，文具店小景",
+    "url": "https://blog.mfwt.top/index.php/archives/1561/",
+    "date": "2026-08-31T10:58:00Z",
+    "description": "上一篇文章提到的文具店小景，就是这篇了。如果不是因为昨晚的文章插进来，其实应该更早发出来才对。具体发生的时间是在8/29，也就是真正来到学校之前的事情了。笔者和这个文具店其实并没有太大联系，毕竟...",
+    "source_root_domain": "mfwt.top"
+  },
+  {
+    "title": "景甜、张继科，性工作者的爱情",
+    "url": "https://sinyalee.com/blog/?p=1343",
+    "date": "2026-08-31T10:44:01Z",
+    "description": "孙宇晨和景甜的事件中，很多人嘲笑孙哥，说北大学生被运动员打败了。这种标签化、娱乐化的解读是对景甜的不尊重，也没 […]",
+    "source_root_domain": "sinyalee.com"
   },
   {
     "title": "哇咔财务管家｜理财模块上线，现在记账、基金、股票、理财四合一",
