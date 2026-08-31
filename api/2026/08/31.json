@@ -1,5 +1,68 @@
 [
   {
+    "title": "Redis 集群模式下使用 MGET 触发 CROSSSLOT Keys",
+    "url": "https://blog.yasking.org/a/redis-crossslot",
+    "date": "2026-08-31T13:00:00Z",
+    "description": "说来惭愧，今天我才了解到 Redis Cluster 模式下 MGET 的使用 “陷阱”，起因是翻日志看到 Redis 请求报错日志： ( error ) CROSSSLOT Keys in request don't hash to the same slot 定位 …",
+    "source_root_domain": "yasking.org"
+  },
+  {
+    "title": "哇咔财务管家｜理财模块上线，现在记账、基金、股票、理财四合一",
+    "url": "https://blog.ops-coffee.com/fire/wakaka-bookkeeping-fund-stock-wealth.html",
+    "date": "2026-08-31T10:20:48Z",
+    "description": "",
+    "source_root_domain": "ops-coffee.cn"
+  },
+  {
+    "title": "My Creator Appreciation",
+    "url": "https://z.arlmy.me/posts/ZArlmyMe/Blaugust_20260831_2/",
+    "date": "2026-08-31T09:54:03Z",
+    "description": "「Favorites.」",
+    "source_root_domain": "arlmy.me"
+  },
+  {
+    "title": "野人编年史",
+    "url": "http://imlane.zhanglintc.co/ye-ren-bian-nian-shi",
+    "date": "2026-08-31T09:37:34Z",
+    "description": "野人编年史 野人创始人 徐队 ，群昵称Shogun。姓徐，称徐队，真野人队长，野人 抖音官号 持有者。 张队 ，群昵称张小不。江湖人称竹节虫，简称虫队。 熊队 ，群昵称熊嘎婆，称熊队。 野人CLUB游泳事业部 群主。 亮队 ，群昵称亮什么，称亮队，野人 小红书官号 持有者。 野人声明 从 泳往直前 过来加入的朋友： 野人 在加入 泳往直前 之前就已成立，我们不是另起炉灶，我们也不搞分裂主义，我们永远欢迎 泳往直前 成员加入 野人 。 从小红书、抖音，或者其他途径加入的朋友： 欢迎加入 野人 ，也永远欢迎 野人 的成员随时加入 泳往直前 。 加入 野人 需要认可 野人 ，对组织有认可感、归属感。 野人 创始人均为业余爱好者，但是无论是新手还是高手，都希望大家互相尊重、互相帮助，一起快乐玩水。若参加户外活动请务必正确佩戴跟屁虫，不盲目下水。务必注意自我防护，安全责任自负。 2024年 6月 徐队带张队第一次下凤溪沱。 亮队不时参与凤溪沱游江活动。 10月 熊队正式加入，并介绍徐队、张队加入 大竹林冬泳队 。 徐队、张队、熊队日常于 大竹林冬泳基地 进行户外游泳，队伍初具雏形，并开始尝试冬泳",
+    "source_root_domain": "zhanglintc.co"
+  },
+  {
+    "title": "Nacos 3.2.4 升级后老客户端报 501 no such api 的问题处理记录",
+    "url": "https://199604.com/3673",
+    "date": "2026-08-31T09:27:01Z",
+    "description": "Nacos 3.2.4 升级后老客户端报 501 no such api 的问题处理记录 记录时间：2026- […]",
+    "source_root_domain": "199604.com"
+  },
+  {
+    "title": "About Arlmy (Finally I wrote it!)",
+    "url": "https://z.arlmy.me/posts/ZArlmyMe/Blaugust_20260831_1/",
+    "date": "2026-08-31T08:37:03Z",
+    "description": "「About.」",
+    "source_root_domain": "arlmy.me"
+  },
+  {
+    "title": "搬工位时的三波人",
+    "url": "https://blog.solazy.me/20260831/",
+    "date": "2026-08-31T08:00:00Z",
+    "description": "今天简单聊聊在最近搬工位时候观察到的三种同事",
+    "source_root_domain": "solazy.me"
+  },
+  {
+    "title": "树说话",
+    "url": "https://www.hecaitou.com/2026/08/the-tree-speaks.html",
+    "date": "2026-08-31T04:11:23Z",
+    "description": "一般来说，读者在我的公众号留什么言，在我看来都是个人自由，我不会加以干涉，尤其是不会下重手---我自己都还没活明白呢，能给别人什么灵魂一击？再说了，网上的缘分很浅，浅有浅的好，不容易生出很复杂的因果。所以有时候我只是提一句，看到对方根本听不进去，或者完全理解不了，那就立即收手。 附带说一句，我发现很多内心反复受苦的人，并非是因为精神孱弱，反倒经常是刚强到了刚愎的程度，哪怕听了一万句话，回来还是依然按照自己的想法再来一遍，然后在同一个地方按照同一个姿势跌倒。要我说，十二生肖里应该加一个倔驴才对。 一旦发现一个人驴了，无论网上还是线下，我会选择立即闭嘴。因为换个思路，换个视角，本质上需要的是个人福德。个人福德不足，哪怕思路摊开了揉碎了放在他面前，也依然看不到，看到了也不会多花一分钟去想。福德这种东西，哪里是可以靠言辞来提升的？讲了也白讲，讲多了就变成针对个人，上升为恩怨，有恩怨就会结因果，有因果就要背业债，完全没有这个必要。 更何况很多读者来我这里整天留言，就是把我这里当作个树洞，大事小情都写几条，写几条留言是为了纾压解闷，回去该干嘛接着干嘛，不过可能心情轻松了一些。为什么一定是我这里，我",
+    "source_root_domain": "hecaitou.com"
+  },
+  {
+    "title": "The httpx 1.0 situation",
+    "url": "https://blog.est.im/2026/stdout-35",
+    "date": "2026-08-31T03:35:00Z",
+    "description": "In case you weren't aware, there's quite a debate over httpx v1.0 release, especially maintainer of both openai-python and anthropic-sdk-python showed up and decided to switch to httpx2 , a fork of httpx that maintains v0.28 styles httpx is a Python library that can handle both sync/async http, replacing requests (sync-only) and aiohttp (async-opnly). You can view original discussion starting here https://github.com/encode/httpx/discussions/3344 The maintainer closed discussion and issues 1. ver",
+    "source_root_domain": "feedburner.com"
+  },
+  {
     "title": "网球鹰眼 by GLM 5.3-Flash",
     "url": "https://7gugu.com/index.php/2026/08/31/%e7%bd%91%e7%90%83%e9%b9%b0%e7%9c%bc-by-glm-5-3-flash/",
     "date": "2026-08-31T02:32:57Z",

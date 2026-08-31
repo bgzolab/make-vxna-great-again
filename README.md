@@ -27,6 +27,15 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-08-31 | [Redis 集群模式下使用 MGET 触发 CROSSSLOT Keys](https://blog.yasking.org/a/redis-crossslot) | 说来惭愧，今天我才了解到 Redis Cluster 模式下 MGET 的使用 “陷阱”，起因是翻日志看到 Redis 请求报错日志： ( error ) CROSSSLOT Keys in request don't hash to the same slot 定位 … |
+| 2026-08-31 | [哇咔财务管家｜理财模块上线，现在记账、基金、股票、理财四合一](https://blog.ops-coffee.com/fire/wakaka-bookkeeping-fund-stock-wealth.html) |  |
+| 2026-08-31 | [My Creator Appreciation](https://z.arlmy.me/posts/ZArlmyMe/Blaugust_20260831_2/) | 「Favorites.」 |
+| 2026-08-31 | [野人编年史](http://imlane.zhanglintc.co/ye-ren-bian-nian-shi) | 野人编年史 野人创始人 徐队 ，群昵称Shogun。姓徐，称徐队，真野人队长，野人 抖音官号 持有者。 张队 ，群昵称张小不。江湖人称竹节虫，简称虫队。 熊队 ，群昵称熊嘎婆，称熊队。 野人CLUB游泳事业部 群主。 亮队 ，群昵称亮什么，称亮队，野人 小红书官号 持有者。 野人声明 从 泳往直前… |
+| 2026-08-31 | [Nacos 3.2.4 升级后老客户端报 501 no such api 的问题处理记录](https://199604.com/3673) | Nacos 3.2.4 升级后老客户端报 501 no such api 的问题处理记录 记录时间：2026- […] |
+| 2026-08-31 | [About Arlmy (Finally I wrote it!)](https://z.arlmy.me/posts/ZArlmyMe/Blaugust_20260831_1/) | 「About.」 |
+| 2026-08-31 | [搬工位时的三波人](https://blog.solazy.me/20260831/) | 今天简单聊聊在最近搬工位时候观察到的三种同事 |
+| 2026-08-31 | [树说话](https://www.hecaitou.com/2026/08/the-tree-speaks.html) | 一般来说，读者在我的公众号留什么言，在我看来都是个人自由，我不会加以干涉，尤其是不会下重手---我自己都还没活明白呢，能给别人什么灵魂一击？再说了，网上的缘分很浅，浅有浅的好，不容易生出很复杂的因果。所以有时候我只是提一句，看到对方根本听不进去，或者完全理解不了，那就立即收手。 附带说一句，我发现很… |
+| 2026-08-31 | [The httpx 1.0 situation](https://blog.est.im/2026/stdout-35) | In case you weren't aware, there's quite a debate over httpx v1.0 release, especially maintainer of both openai-python and anthropic-sdk-python showed… |
 | 2026-08-31 | [网球鹰眼 by GLM 5.3-Flash](https://7gugu.com/index.php/2026/08/31/%e7%bd%91%e7%90%83%e9%b9%b0%e7%9c%bc-by-glm-5-3-flash/) | 背景 周末智谱免费给大家送了3亿token试用GLM 5.3，趁着周末下雨在家猛猛瞪了两天，烧了3亿token … 继续阅读 “网球鹰眼 by GLM 5.3-Flash” |
 | 2026-08-31 | [WorkBuddy 成功，是因为腾讯办公套件太烂了](https://1q43.blog/post/12578/) | 前几天和汐笺讨论 Workbuddy 为什么成功，我在微信里发出了一句很像为了流量硬拗出来的标题： “我突然意 […] |
 | 2026-08-31 | [关系里的孙子也可能是自己惯出来的](https://mobius.blog/25559.html) | 此时此刻，我的旁边有两个男性在聊天，但他们的对话一直其中一人的电话不停打断。以至于当一个人接电话时，另一个人也 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
