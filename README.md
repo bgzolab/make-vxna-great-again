@@ -27,6 +27,10 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-08-31 | [网球鹰眼 by GLM 5.3-Flash](https://7gugu.com/index.php/2026/08/31/%e7%bd%91%e7%90%83%e9%b9%b0%e7%9c%bc-by-glm-5-3-flash/) | 背景 周末智谱免费给大家送了3亿token试用GLM 5.3，趁着周末下雨在家猛猛瞪了两天，烧了3亿token … 继续阅读 “网球鹰眼 by GLM 5.3-Flash” |
+| 2026-08-31 | [WorkBuddy 成功，是因为腾讯办公套件太烂了](https://1q43.blog/post/12578/) | 前几天和汐笺讨论 Workbuddy 为什么成功，我在微信里发出了一句很像为了流量硬拗出来的标题： “我突然意 […] |
+| 2026-08-31 | [关系里的孙子也可能是自己惯出来的](https://mobius.blog/25559.html) | 此时此刻，我的旁边有两个男性在聊天，但他们的对话一直其中一人的电话不停打断。以至于当一个人接电话时，另一个人也 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
+| 2026-08-31 | [大脑充血 Vol.96](https://www.geedea.pro/weekly/96/) | 这是一篇小报。《大脑充血》已经在 上一期 改为月刊，发刊时间为每月的第一个周一，其他周一可能会随机出现篇幅较短的内容。小报不谈严肃内容，不遵循一般的格式，甚至可能全是技术内容。 Matt Damon 看完电影《奥德赛》之后我不仅成了 诺兰黑 ，还迷上了 Matt Damon。之前我对这个演员的关注不… |
 | 2026-08-30 | [给我发邮件吧，放轻松](https://www.geedea.pro/article/email-me/) | 我观察到不少人都会对写电子邮件这件事情感到有压力，尤其是国人。我之前在《 论独立博客的评论 》一文中提及过英文使用者和中文使用者对于电子邮件的态度差异，不少英文博客都只会在文章底部留下邮箱地址，鼓励读者发邮件交流。我之前向某个开源项目的维护者问了些问题，关闭 Issue 之后他跟我说：再发邮件联系也… |
 | 2026-08-30 | [Toots 434 2026 Aug.23 - Aug.29](https://z.arlmy.me/posts/MastodonArchives/2026/MastodonTootsArchives_20260829/) | 「拓扑。」 |
 | 2026-08-30 | [生活碎碎念：升学首日有感](https://blog.mfwt.top/index.php/archives/1562/) | 这篇博文基本上成型于今晚的班会课之后。如果说笔者的专升本是『插班生』，那么本文应该算是一篇『插班文』，因为原本是有一篇开学前文具店小景的文章，打算这两天发的的，现在先搁置一下那篇，先发这篇，所以... |
@@ -182,27 +186,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-08-24 | [交易员这行，到底在拼什么？](https://blog.forecho.com/what-traders-really-compete-on-beyond-technical-analysis.html) | 引言 最近在听一个付费课程，第一节课讲师没讲任何开单技巧，而是花了一整节课聊「交易员」这个职业本身。 很多人学交易，一上来就到处找指标、找各种高胜率形态，总觉得只要找到那本所谓的「圣经」或者「圣杯」就能赚钱。但现实是，技术分析在这行最多只占 40% 到 50%，剩下真正拉开差距的，全是技术之外的底层… |
 | 2026-08-24 | [ChatGPT 添加远程 MCP 插件报 403 问题解决](https://versun.me/blog/chatgpt-mcp-403-cloudflare-bot-fight-mode) | 记录一下在 ChatGPT 网页版添加 Knowledge Mem 插件时踩的坑，以及解决方法。 问题 按照 Knowledge Mem 官方文档，在 ChatGPT 中配置远程 MCP 时，一直报 403 错误： 排查过程 在 @yevazn 的帮助下定位到了原因：Cloudflare 拦截了请求… |
 | 2026-08-24 | [大脑充血 Vol.95](https://www.geedea.pro/weekly/95/) | 读者早上好，这有可能是《大脑充血》最后一期名副其实的「周刊」。我这周在 联邦宇宙 上发了个投票，说我打算改月刊，想投票看看固定在什么时间点发刊合适。 结果有超过一半的人选了「不准改月刊」的选项，我真的好讨厌你们 。 主要的原因是，每周都要更新一次，其实占据了很多我本来就不多的写作时间。我最近在写一篇… |
-| 2026-08-23 | [給博客添加純文本版本](https://taxodium.ink/add-plain-text-version-to-blog.html) | 給博客添加純文本版本 看了 wiwi 的 偷偷加入的功能 (另見 Zine#54 ) 我也給博客的文章添加了純文本版本，你可以在每篇文章的底部找到純文本版本的連結，也可以將頁面 URL 的 .html 換成 .txt 訪問純文本版本 (如果換成 .org 就能看到文章的原始文件) 。最近看到 Wiw… |
-| 2026-08-23 | [业余频段的对讲机，不能再商业应用了](https://blog.mfwt.top/index.php/archives/1550/) | 几天前，泉州市无线电管理局发了一份工作动态的新闻稿，大概的意思是要『开展对讲机及相关设备全链条监管工作』。从原文看，里面列出了几条『刚性监管红线』，其中有一项，笔者非常在意，也是等了非常久的：严... |
-| 2026-08-23 | [PVE 超融合基础设施 - 1.PVE 单机安装和初始化](https://songxwn.com/PVE-HCI-1/) | PVE HCI简介 PVE HCI 简介 PVE（Proxmox Virtual Environment）是一款开源的虚拟化平台，支持 KVM 虚拟机与 LXC 容器。结合 Ceph 分布式存储方案+ SDN EVPN-VXLAN，PVE 可以构建完整的 HCI（Hyper-Converged In… |
-| 2026-08-23 | [骷髅编程](https://www.geedea.pro/article/skeleton-programing/) | 软件架构的工作，除了搞清楚应该设计多少、什么样的组件来实现需求，还应该考虑组件之间的依赖关系。SOLID 原则之一的「依赖反转原则」是指数据流向应该与依赖的方向相反，比方说，数据从后端流向前端，但后端不应该依赖前端，而是要让前端调用后端提供的接口。此外，组件之间有抽象和具体之分，核心业务逻辑就是高度… |
-| 2026-08-23 | [周末流水账 0823](https://blog.solazy.me/20260823/) | 接着写流水账吧，最近没什么好的话题 |
-| 2026-08-23 | [认真想了下，机械帝国最可能诞生在中国，因](https://versun.me/blog/tweet-2091486413808386289) | 李不凯正在研究 @VersunPan 我眼中的世界在无可避免的《骇客帝国》化 认真想了下，机械帝国最可能诞生在中国，因为人多，电多，各种金属多，网络也没什么安全可言，还有强大的防火墙，简直是沃土😂😂😂 |
-| 2026-08-23 | [永远的新裤子——新裤子30周年演唱会](https://tianheg.co/posts/new-pants-30th-anniversary/) | 新裤子乐队成立于1996年，是现今仍存世的历史最悠久的乐队之一。今年的演唱会是在纪念他们成立30周年。 |
-| 2026-08-23 | [在 Emacs 中用漢典查詢倉頡碼](https://taxodium.ink/query-cangjie-codes-using-han-dian-in-emacs.html) | 在 Emacs 中用漢典查詢倉頡碼 倉頡輸入法 我已經用了很長時間，通過強迫自己在日常中使用，現在日常打字已經沒什麼問題。我最近寫的文章都是用䌓體，是因為倉頡打繁體更容易，而且我也喜歡繁體字 (繁體字更容易反映字形，從而更好的理解一個字的含義) 。不過我的用法可能有點怪，現在用䌓體的更多是香港、澳門… |
-| 2026-08-23 | [过马路小游戏 by Godot](https://7gugu.com/index.php/2026/08/23/%e8%bf%87%e9%a9%ac%e8%b7%af%e5%b0%8f%e6%b8%b8%e6%88%8f/) | 最近一直都在学习怎么用Godot做小游戏，根据教程做了第一个Demo出来，真的好有趣呀。 Godot也做了很多 … 继续阅读 “过马路小游戏 by Godot” |
-| 2026-08-23 | [有孩子的看不得龙餐馆，刚看完，哭的稀里哗](https://versun.me/blog/tweet-2091427183541789153) | 有孩子的看不得龙餐馆，刚看完，哭的稀里哗啦的😭战争太残酷了 |
-| 2026-08-23 | [处暑说吃](https://www.hecaitou.com/2026/08/eating-through-end-of-heat.html) | 今天是农历七月十一，处暑。处暑的意思是到了这个时节暑气就开始消退，天气渐渐转凉。今年明显不是这样，命名处暑节气的时候并没有厄尔尼诺这个概念，反正是秋老虎的屁股摸不得。 和所有的节气一样，作为中国人我们应该主要讨论一下吃什么。 处暑应该吃龙眼，除了味道甜之外，据说是可以消暑补血。某些地方会用龙眼来配稀… |
-| 2026-08-23 | [Toots 433 2026 Aug.16 - Aug.22](https://z.arlmy.me/posts/MastodonArchives/2026/MastodonTootsArchives_20260822/) | 「卖“屎”。」 |
-| 2026-08-23 | [入蜀记 day452 时差](https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_452/) | 「时差。」 |
-| 2026-08-23 | [入蜀记 day451 梦醒](https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_451/) | 「梦醒。」 |
-| 2026-08-23 | [Rust 中的 Sync 和 Send 理解](https://www.less-bug.com/posts/sync-and-send-understanding-in-rust/) | 本文纯手打，无 AI。 AI 现在越来越不说人话了。所以我又开始写博客了。 先说 Send，它的作用是 标记 一个 类型的任意实例 的 所有权 可以在 不同线程 之间转移。 这几个要点得展开说： 转移：由于线程各自有独立的栈，它几乎一定会产生浅拷贝（除了 ZST 等极端情况）。这个拷贝不只是语义层面… |
-| 2026-08-23 | [Kimi Code CLI 也开始受5小](https://versun.me/blog/tweet-2091373362622902627) | Versun TIL：有用 Kimi 的注意了， Kimi Code CLI不受5小时的限制，直接用的周额度噢，亲测有效 Kimi Code CLI 也开始受5小时限制了。。。 |
-| 2026-08-23 | [我和 ChatGPT 聊了七十公里](https://www.tortorse.com/archives/chatgpt-seventy-kilometers/) | 蓝天下的高速公路 |
-| 2026-08-23 | [关于死本能](https://mobius.blog/25474.html) | 一般来说，每写四期就会觉得烦躁一下，所以这周的《莫比乌斯转到了哪里》就不聊这一周的事情。 在《写在 2026 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
-| 2026-08-23 | [我把所有的ETF投资都转到了一个平台](https://www.ozexplorers.com/%E6%8A%95%E8%B5%84%E7%90%86%E8%B4%A2/2026/08/23/chess-or-custodian-how-i-chose-an-etf-platform-in-australia.html) | 又到了报税季，作为一个有着工资、存款和投资收入的澳洲牛马，我需要等待雇主、银行和ETF发行方挨个提供Tax Statement，才能填写并提交澳洲税务部门ATO的年度Tax Return表格。 |
-| 2026-08-23 | [Memos #2026-08-22](https://www.taober.blog/memos/memo_20260821164550_kjm08c) | 00:56 看了深夜档的《欢迎来龙餐馆》，质感很好，演技也没得说，尤其是用了厨子这个小人物的视角去讲故事。 这段时间就有意地不去刷相关信息，保留了今天的完整观影体验。 另外提升体验的一部分是开了一个小时的座椅按摩，享受。 附一张影院《牛来》海报。 |
-| 2026-08-23 | [Memos #2026-08-22](https://www.taober.blog/memos) | 00:56 看了深夜档的《欢迎来龙餐馆》，质感很好，演技也没得说，尤其是用了厨子这个小人物的视角去讲故事。 这段时间就有意地不去刷相关信息，保留了今天的完整观影体验。 另外提升体验的一部分是开了一个小时的座椅按摩，享受。 附一张影院《牛来》海报。 |
 
 ## Vibe Coding
 
