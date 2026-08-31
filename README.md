@@ -27,7 +27,9 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-08-31 | [UZDoom updated](https://macsourceports.com/sourceport/uzdoom) | The build of UZDoom for the DOOM engine series of games has been updated to version 5.0.0 of the project\n\nhttps://macsourceports.com/sourceport/uzdo… |
 | 2026-08-31 | [Quake updated](https://macsourceports.com/game/quake) | The build of vkQuake for Quake has been updated to version 1.36.0 of the project |
+| 2026-08-31 | [给林夕](https://tianheg.co/posts/to-linxi/) | 给林夕（一）：喜爱你 写于 26/07/14 你的声音，让我怦然心动 你的话语，让我心生雀跃 你的样貌，让我好奇不已 |
 | 2026-08-31 | [人类高质量思政课](https://elmagnifico.tech/2026/09/01/Political-Courses/) | Foreword 我记得很久以前，有一个政治老师说：你不关注政治，但政治始终在关注你 以前不理解，这东西有啥好学的，其实还是当年的课程有点脱离生活了。讲的东西过于模糊，没有明确说明这个政治或者政策是什么意思，他的结果是什么，他对或者不对。 以前的政治课讲的都是正面的，都是这个东西的作用，但是一旦问到… |
 | 2026-08-31 | [Redis 集群模式下使用 MGET 触发 CROSSSLOT Keys](https://blog.yasking.org/a/redis-crossslot) | 说来惭愧，今天我才了解到 Redis Cluster 模式下 MGET 的使用 “陷阱”，起因是翻日志看到 Redis 请求报错日志： ( error ) CROSSSLOT Keys in request don't hash to the same slot 定位 … |
 | 2026-08-31 | [R#117 寻找正反馈](https://blog.sakanano.moe/journals/random_117) | 2026.8.25 ~ 2026.8.31 |
