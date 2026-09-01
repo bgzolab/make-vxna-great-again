@@ -27,14 +27,22 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-09-01 | [认领罗曼望远镜像素点](https://www.liesauer.net/blog/post/1042.html) | :point_right: [跃迁点坐标](https://science.nasa.gov/mission/roman-space-telescope/adopt-a-pixel/ "跃迁点坐... |
+| 2026-09-01 | [Memos: 新计费模式下的 Cursor Team $40 已无开通必要](https://blog.yasking.org/a/1788227709) | 本月公司订阅的 Cursor Team 计费方案变更，从按次每月 500 点数变为按量计费 20 额度。 20 额度。 20 额度。 40/人的席位费包含 $20 额度，Cursor … |
+| 2026-09-01 | [不再期待下一份工作](https://blog.solazy.me/20260901/) | 最近真的在工作上有一种心累的感觉 |
+| 2026-09-01 | [K8s 集群外部访问 Pod 的几种方式](https://199604.com/3675) | K8s 集群外部访问 Pod 的几种方式 记录时间：2026-08-20 环境：K8s 1.28 测试集群（C […] |
+| 2026-09-01 | [炒饭的顺序](https://mobius.blog/25571.html) | 副标题：《性癖纵横观 IX》 今天的文章涉及性、性欲、性癖等内容，请酌情阅读。 之所以把这篇文章放在“食色性也 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
+| 2026-09-01 | [Memos #2026-08-31](https://www.taober.blog/memos/memo_20260831033926_iad1h8) | 11:39 下雨天远程是真惬意呀😄 |
+| 2026-08-31 | [问下各位， 现在 macos 26 稳定](https://versun.me/blog/tweet-2094572387807473943) | 问下各位， 现在 macos 26 稳定了吗，速度快不， 我现在还是15版本， 是等27还是升26，或者停在15😂 |
+| 2026-08-31 | [给林夕](https://tianheg.co/posts/to-linxi/) | 给林夕（一）：喜爱你 写于 26/07/14 你的声音，让我怦然心动 你的话语，让我心生雀跃 你的样貌，让我好奇不已 |
 | 2026-08-31 | [UZDoom updated](https://macsourceports.com/sourceport/uzdoom) | The build of UZDoom for the DOOM engine series of games has been updated to version 5.0.0 of the project\n\nhttps://macsourceports.com/sourceport/uzdo… |
 | 2026-08-31 | [Quake updated](https://macsourceports.com/game/quake) | The build of vkQuake for Quake has been updated to version 1.36.0 of the project |
-| 2026-08-31 | [给林夕](https://tianheg.co/posts/to-linxi/) | 给林夕（一）：喜爱你 写于 26/07/14 你的声音，让我怦然心动 你的话语，让我心生雀跃 你的样貌，让我好奇不已 |
 | 2026-08-31 | [人类高质量思政课](https://elmagnifico.tech/2026/09/01/Political-Courses/) | Foreword 我记得很久以前，有一个政治老师说：你不关注政治，但政治始终在关注你 以前不理解，这东西有啥好学的，其实还是当年的课程有点脱离生活了。讲的东西过于模糊，没有明确说明这个政治或者政策是什么意思，他的结果是什么，他对或者不对。 以前的政治课讲的都是正面的，都是这个东西的作用，但是一旦问到… |
 | 2026-08-31 | [Redis 集群模式下使用 MGET 触发 CROSSSLOT Keys](https://blog.yasking.org/a/redis-crossslot) | 说来惭愧，今天我才了解到 Redis Cluster 模式下 MGET 的使用 “陷阱”，起因是翻日志看到 Redis 请求报错日志： ( error ) CROSSSLOT Keys in request don't hash to the same slot 定位 … |
 | 2026-08-31 | [R#117 寻找正反馈](https://blog.sakanano.moe/journals/random_117) | 2026.8.25 ~ 2026.8.31 |
 | 2026-08-31 | [开学前，文具店小景](https://blog.mfwt.top/index.php/archives/1561/) | 上一篇文章提到的文具店小景，就是这篇了。如果不是因为昨晚的文章插进来，其实应该更早发出来才对。具体发生的时间是在8/29，也就是真正来到学校之前的事情了。笔者和这个文具店其实并没有太大联系，毕竟... |
 | 2026-08-31 | [景甜、张继科，性工作者的爱情](https://sinyalee.com/blog/?p=1343) | 孙宇晨和景甜的事件中，很多人嘲笑孙哥，说北大学生被运动员打败了。这种标签化、娱乐化的解读是对景甜的不尊重，也没 […] |
+| 2026-08-31 | [这么想想真的有点可怕 当初我结婚后，没有](https://versun.me/blog/tweet-2094373003891187976) | 王依依棺材馅儿 有个亲戚是教师, 每当他补课赚点钱之后, 他老婆就会生一场大病把钱用完. 如果某个假期他没补课, 就不会生病, 健健康康的..... https://twitter.com/Yali1028/status/2094322222714470770 这么想想真的有点可怕 当初我结婚后，没… |
 | 2026-08-31 | [哇咔财务管家｜理财模块上线，现在记账、基金、股票、理财四合一](https://blog.ops-coffee.com/fire/wakaka-bookkeeping-fund-stock-wealth.html) |  |
 | 2026-08-31 | [My Creator Appreciation](https://z.arlmy.me/posts/ZArlmyMe/Blaugust_20260831_2/) | 「Favorites.」 |
 | 2026-08-31 | [野人编年史](http://imlane.zhanglintc.co/ye-ren-bian-nian-shi) | 野人编年史 野人创始人 徐队 ，群昵称Shogun。姓徐，称徐队，真野人队长，野人 抖音官号 持有者。 张队 ，群昵称张小不。江湖人称竹节虫，简称虫队。 熊队 ，群昵称熊嘎婆，称熊队。 野人CLUB游泳事业部 群主。 亮队 ，群昵称亮什么，称亮队，野人 小红书官号 持有者。 野人声明 从 泳往直前… |
@@ -55,7 +63,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-08-30 | [入蜀记 day460 鹤鸣早茶](https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_460/) | 「鹤鸣早茶。」 |
 | 2026-08-30 | [烹饪日记：干煸蚕蛹](https://blog.yasking.org/a/dry-fried-silkworm-pupae) | （害怕蚕蛹的小伙伴不建议阅读本文） ｜ ｜ ｜ ｜ ｜ ｜ ｜ ｜ ｜ ｜ ｜ ｜ 安全区 ｜ ｜ ｜ ｜ ｜ ｜ ｜ ｜ ｜ 前些天在淘宝买回来一些东北的黑蚕蛹，一斤价格 56.8，顺丰包邮。 因为一直冷 … |
 | 2026-08-30 | [Win10 开始菜单点击没反应、所有窗口只有一个能点，最后发现是鼠标侧键的锅](https://www.less-bug.com/posts/logi-mouse-is-bad/) | 我 Windows 10 之前出现奇怪的症状，除了一个窗口有反应，其它点什么都没反应，点桌面图标没反应，任务栏、开始按钮没反应。点微信窗口没反应。但是各个窗口自身状态又好像是正常的，微信能正常收消息，没有任何卡死迹象。幸好前台我开了一个 WezTerm 可以用来排查问题，它完全能正常输入输出。 我第… |
-| 2026-08-30 | [Zine#57 - IndieWeb Is Punk、用你的錢包去投票、為終端瀏覧器优化網站](https://taxodium.ink/57.html) | Zine#57 IndieWeb Is Punk、用你的錢包去投票、為終端瀏覧器优化網站 目录󠄃 News &#124; Article Cool Bit Tutorial &#124; Resource Code Related AI Related Tool &#124; Library Emacs 一些话 &#124; 摘抄 多媒体… |
+| 2026-08-30 | [Zine#57 - 用你的錢包去投票](https://taxodium.ink/57.html) | Zine#57 用你的錢包去投票 目录󠄃 News &#124; Article Cool Bit Tutorial &#124; Resource Code Related AI Related Tool &#124; Library Emacs 一些话 &#124; 摘抄 多媒体 图1 香港石澳拍的一張胶片，後面是山，山前是一片海灣，… |
 | 2026-08-30 | [Vol.116 效率竞赛开启：智能成本下降，稀缺转向数据、信任与注意力](https://liduos.com/weekly/the-weekly-gradient-116) | 本期内容聚焦AI效率竞赛：模型、芯片与软件协同优化使智能成本骤降，稀缺转向可信数据、安全边界、长期记忆与用户注意力。剖析Agent工程、组织治理及长期主义投资，探讨能力充裕时代的新护城河。 |
 | 2026-08-30 | [Vol.117 AI效率革命与新稀缺：模型竞争转向工程协同与可信资产](https://liduos.com/weekly/the-weekly-gradient-117) | 本期内容聚焦AI模型效率竞争与工程协同，探讨智能供给成本下降后，可信数据、安全边界、长期记忆等新稀缺资产的重要性。从芯片到Agent，从软件工厂到人形机器人，重新审视长期价值。 |
 | 2026-08-30 | [隔壁桌的暧昧学](https://blog.solazy.me/20260830/) | 今天聊点日常八卦和随想 |
@@ -171,37 +179,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-08-25 | [什么时候卖出？](https://www.ixiqin.com/2026/08/25/when-will-it-be-sold/) | 作者回顾了从基金到股票、再回到基金的投资经历，认为买入相对容易，卖出则难以判断。投资的本质是参与社会产出的分配，因此不应仅因市场变化或担心卖飞而出售资产。 卖出可分为换仓和变现：换仓应选择更有 … |
 | 2026-08-25 | [过度解读是不是读者拥有的绝对权力？II](https://mobius.blog/25500.html) | 继续昨天的话题。 在此之前，先聊一个有趣的话题：如果在小红书这样的社交平台分别搜索《奥德赛》和《龙餐馆》，很快 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-08-25 | [workbuddy 最近更新的 人机双写](https://versun.me/blog/tweet-2092049698689614315) | workbuddy 最近更新的 人机双写 有点东西啊，内置了 office 套件，可以直接在 workbuddy 上和 AI 一起编辑文档， 如图我直接在表格里选区让它帮我创建甘特图，非常方便 不得不说，腾讯做落地还是很有一套的 @tencentcloud #tencentcloudbuddy @W… |
-| 2026-08-24 | [openApiGateway 跨域 403 问题](https://199604.com/3661) | openApiGateway 跨域 403 问题 记录时间：2026-08-21 环境：测试环境 / open […] |
-| 2026-08-24 | [2026 年七月 读基层生计，理财育儿 7 本](https://conge.livingwithfcs.org/2026/08/24/reading_summary/) | 引子 引子 七月的阅读，从马驹桥的日结工、深圳的保洁员、大街上的外卖员，到小区门口的保安，我读了几本关于基层生计的书，看见城市运转背后那些被忽视的人——他们像极了社会主义革命者所同情的资本主义社会的无保障的工人与贫民。社会主义中国运行了这么多年，底层问题是重新出现吗？这个问题，我在这些书里没有找到答… |
-| 2026-08-24 | [Jazz Jackrabbit 2 updated](https://macsourceports.com/game/jazzjackrabbit2) | The build of Jazz² Resurrection for Jazz Jackrabbit 2 has been updated to version 3.8.0 of the project |
-| 2026-08-24 | [迷幻](https://mobius.blog/25491.html) | 现在是 00:49 分，睡觉要的药效已经持续了 15 分钟，我现在头部的每一个摇动，都可以把我狠狠砸在书桌上， […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
-| 2026-08-24 | [香港雞公嶺](https://taxodium.ink/hong-kong-kai-kung-leng.html) | 香港雞公嶺 🎵 你知道天空有多蓝 - 椅子乐团 The Chairs 上周二和女友去爬了香港 雞公嶺 ，之所以想去，是之前看到了一些別人拍的圖片，山頂大片的綠、天空大片的蓝，還有雪白得刺眼的 濃積雲 ，就像是宫崎駿動画裡的埸景，一直想去看看。要看到這樣的景色，得在夏天去才行，這時山上的草還是綠的，也… |
-| 2026-08-24 | [Memos 的那年今日和随机笔记](http://www.uncoverman.com/on-this-day-and-random-note-in-memos.html) | M emos 最初定位是一款笔记软件。对于笔记来说，怎么复现曾经有价值的笔记，激活沉淀的知识？在方法层面，除了标签、双链，就是 「那年今日」和「随机笔记」 。 最早用到「那年今日」功能是在 Day One 里自带的，Obsidian 里通过 DataView 也能实现。「随机笔记」则是 Obsidi… |
-| 2026-08-24 | [先把自己的水桶装满](https://blog.solazy.me/20260824/) | 今日随笔 |
-| 2026-08-24 | [PVE 超融合基础设施 - 3.PVE 配置分布式共享存储Ceph](https://songxwn.com/PVE-HCI-3/) | Ceph 简介 一、Ceph 核心组件在 PVE 中的角色 组件 作用 在 PVE 中的体现 MON 维护集群状态与一致性 PVE 节点可安装 MON，通常部署 3 个以上，保证仲裁；在 Web 界面可查看集群健康 OSD 存储对象数据并处理读写 每块硬盘对应一个 OSD；在 PVE 中通过 pve… |
-| 2026-08-24 | [R#116 决策劳动](https://blog.sakanano.moe/journals/random_116) | 2026.8.18 ~ 2026.8.24 |
-| 2026-08-24 | [PVE 超融合基础设施 - 2.PVE 配置集群](https://songxwn.com/PVE-HCI-2/) | Proxmox VE 集群管理器 pvecm 是一款用于创建一组 物理服务器。这样的群称为 簇 。我们使用 Corosync 集群引擎 来实现可靠的群组 沟通。集群中没有明确的节点数量限制。 实际上，实际可能的节点数可能受主机和 网络表现。目前（2021年），有关于集群（使用 高端企业硬件）拥有超过… |
-| 2026-08-24 | [在浙大的走廊里，我看见了1947年的爷爷](https://www.tortorse.com/archives/zhejiang-university-1947-grandfather/) | 浙江大学老校区求是碑 |
-| 2026-08-24 | [小米好速度啊，这么快就推出 AI Cub](https://versun.me/blog/tweet-2091872160088535157) | MarsDoge 整理了下芯片参数，供大家速览。 玄戒 O3： 3nm，10 核全大核 CPU，16 核 GPU，200 TOPS NPU，支持 LPDDR6，内存带宽 113.8 GB/s。 玄戒 O100： 6nm，14 核大模型 NPU，采用 3D DRAM 堆叠，内存带宽高达 1.22 TB… |
-| 2026-08-24 | [我刚注册2天，申请了一个活动，希望能喝到](https://versun.me/blog/tweet-2091850786984849898) | ICSR Tutti Outbid Top No.1 这个是真能捞到钱的啊， 门槛最近也降低了。 https://tutti.so/join?ref=CLU8MB https://twitter.com/tuttihq/status/2091802270799454590 我刚注册2天，申请了一个活… |
-| 2026-08-24 | [跑步不香了](https://hux.ink/posts/more-riding/) | 进入 8 月份，天空终于舍得放晴，不再天天漏雨。买来吃灰的小折叠也终于有机会多出去遛遛。骑了几次 20～50 公里后，对比之前跑步，有了几点不同的感受。 首先是骑行更有趣。跑步通常就在家附近，固定的路线来回跑，比如布吉河、洪湖公园。有时担心回到家就不出门了，干脆下班直接跑回去，路上绕荔枝公园一圈，刚… |
-| 2026-08-24 | [回国后我去香港开了银行和券商](https://koukyo.site/posts/hk-investment-accounts-lower-fees/) | 手续费看似不起眼，30年复利下来能吃掉你四分之一的财富。回国后我花一天时间去香港开了三家银行和两家券商，这篇聊聊为什么、怎么做、以及踩了哪些坑。 |
-| 2026-08-24 | [籍古安心：五经经典箴言修心稳志文](https://blog.zzbd.org/miao20260824/) | 适配职场焦虑、惶恐内耗。 身处职场，很多人常陷入诚惶诚恐的内耗：做事怕出错、待人怕失度、付出怕不被认可，终日心神紧绷、惴惴不安。这种焦虑并非能力不足，多是心念不定、得失太重、心境浮躁所致。中华传统经典《周易》《大学》《中庸》《论语》《道德经》藏有千年修心定心的智慧，不讲功利技巧，只修本心定力。熟读自… |
-| 2026-08-24 | [入蜀记 day454 第一颗白果掉落](https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_454/) | 「第一颗白果掉落。」 |
-| 2026-08-24 | [入蜀记 day453 冷雨](https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_453/) | 「冷雨。」 |
-| 2026-08-24 | [最近惦念 20260813](https://z.arlmy.me/posts/TILs/thoughts/20260813_Recently/) | 「一念荒唐的事情最有价值。」 |
-| 2026-08-24 | [关于饮酒的反思](https://kaix.in/2026/0824/) | 二十岁时的酒量大概是 50 多度的白酒喝完一斤还能走直线。但是三十五岁之后很少再饮酒，偶尔为之，也只选酒精度极低的果酒小酌。没能品出酒的妙处只在其次，主要是我看到研究表明酒精会对大脑造成不可逆的器质性损伤，导致脑组织萎缩、认知功能衰退及严重的神经系统并发症。 理由充分，但是一度让我自鄙贪生怕死不够洒… |
-| 2026-08-24 | [翻译-文本模式的谎言：为什么现代 TUI 对无障碍性是一场噩梦](https://blog.prayhand13013.top/20260824T125051--翻译-文本模式的谎言：为什么现代-tui-对无障碍性是一场噩梦__blog.html) |  |
-| 2026-08-24 | [差一分就是差十分](https://www.hecaitou.com/2026/08/missing-by-one-means-trailing-by-ten.html) | 以百分制计算，如果考试成绩是 59 分，那么意味着其实和及格线有 10 分的整体差距。这不是什么个人暴论，而是我当年读书的时候学到的常识。 那时候老师和家长为了增加我们的焦虑，经常会给我们讲同一个案例，每次只是换人而已：谁家那小谁，在中考/高考的时候，差一分，就因为那一分而落榜了。当然，结论就是要努… |
-| 2026-08-24 | [今天我成功策反了我的老婆把手机换成安卓手](https://versun.me/blog/tweet-2091723663380971541) | 今天我成功策反了我的老婆把手机换成安卓手机了，她可是十几年的苹果用户， 我自己目前用的是一加13T，oppo 的 AI 功能做的真的很舒服 相比苹果，电池大，顺畅，空间大，还有适配国内的很多小细节，用起来真的非常舒服 |
-| 2026-08-24 | [荐《奥德赛》电影――十年苦难让奥德修斯更具人性](https://tianheg.co/posts/odyssey-movie/) | 《奥德赛》电影看完了，IMAX的大宽屏确实不错。 《奥德赛》原著作者并不确定，比较可信的说法是荷马和他同时代的人一同写就（参考：《奥德赛（张秋子导读版）》），讲述的是奥德修斯在特洛伊战争结束后十年漂泊异乡被众神阻挠不得返乡，经历重重磨难才最终返回故乡伊萨卡的故事。诺兰拍摄的电影按照原著进行了故事的讲… |
-| 2026-08-24 | [过度解读是不是读者拥有的绝对权力？I](https://mobius.blog/25482.html) | 本期的内容，本身可能也在过度解读喜欢过度解读的人群。 从过度解读到曼德拉效应 每次看到庵野秀明出面，解释自己并 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
-| 2026-08-24 | [上庭（二）](https://www.justzht.com/go-to-court-two/) | 电话号码并不熟悉。J 盯着手机屏幕的呼入界面愣了一会，直到手机开始自动进入语音信箱。屏幕上开始一个字一 |
-| 2026-08-24 | [自从换了 Mac mini 后，一直想念](https://versun.me/blog/tweet-2091710430205083747) | 自从换了 Mac mini 后，一直想念 macbook 的触控板，多指操作太顺滑了，单独买一个又太占地了（因为还有个鼠标） 突发奇想，能不能在键盘的键帽上添加触控，实现类似触控板的多指操作，有类似的产品吗，实现难度大不 @grok |
-| 2026-08-24 | [Jenkins 推送成功但 Harbor 查无镜像——retention 误删新镜像与 GC 竞态的问题](https://199604.com/3659) | Jenkins 推送成功但 Harbor 查无镜像——retention 误删新镜像与 GC 竞态的问题 记录 […] |
-| 2026-08-24 | [交易员这行，到底在拼什么？](https://blog.forecho.com/what-traders-really-compete-on-beyond-technical-analysis.html) | 引言 最近在听一个付费课程，第一节课讲师没讲任何开单技巧，而是花了一整节课聊「交易员」这个职业本身。 很多人学交易，一上来就到处找指标、找各种高胜率形态，总觉得只要找到那本所谓的「圣经」或者「圣杯」就能赚钱。但现实是，技术分析在这行最多只占 40% 到 50%，剩下真正拉开差距的，全是技术之外的底层… |
-| 2026-08-24 | [ChatGPT 添加远程 MCP 插件报 403 问题解决](https://versun.me/blog/chatgpt-mcp-403-cloudflare-bot-fight-mode) | 记录一下在 ChatGPT 网页版添加 Knowledge Mem 插件时踩的坑，以及解决方法。 问题 按照 Knowledge Mem 官方文档，在 ChatGPT 中配置远程 MCP 时，一直报 403 错误： 排查过程 在 @yevazn 的帮助下定位到了原因：Cloudflare 拦截了请求… |
-| 2026-08-24 | [大脑充血 Vol.95](https://www.geedea.pro/weekly/95/) | 读者早上好，这有可能是《大脑充血》最后一期名副其实的「周刊」。我这周在 联邦宇宙 上发了个投票，说我打算改月刊，想投票看看固定在什么时间点发刊合适。 结果有超过一半的人选了「不准改月刊」的选项，我真的好讨厌你们 。 主要的原因是，每周都要更新一次，其实占据了很多我本来就不多的写作时间。我最近在写一篇… |
 
 ## Vibe Coding
 
