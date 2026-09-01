@@ -27,6 +27,10 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-09-01 | [最近惦念 20260820](https://z.arlmy.me/posts/TILs/thoughts/20260820_Recently/) | 「珍惜闲暇。」 |
+| 2026-09-01 | [入蜀记 day464 love thyself last](https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_464/) | 「love thyself last。」 |
+| 2026-09-01 | [入蜀记 day463 BIGGER Art Fair](https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_463/) | 「BIGGER Art Fair。」 |
+| 2026-09-01 | [2026.8.31](https://www.justzht.com/2026-8-31/) | 很流水账的一篇。 周六开大车陪搬家的朋友去收 fb market 上的二手家具。我对这种事情有种莫名的兴致，不管是开 UHaul 还 |
 | 2026-09-01 | [认领罗曼望远镜像素点](https://www.liesauer.net/blog/post/1042.html) | :point_right: [跃迁点坐标](https://science.nasa.gov/mission/roman-space-telescope/adopt-a-pixel/ "跃迁点坐... |
 | 2026-09-01 | [Memos: 新计费模式下的 Cursor Team $40 已无开通必要](https://blog.yasking.org/a/1788227709) | 本月公司订阅的 Cursor Team 计费方案变更，从按次每月 500 点数变为按量计费 20 额度。 20 额度。 20 额度。 40/人的席位费包含 $20 额度，Cursor … |
 | 2026-09-01 | [不再期待下一份工作](https://blog.solazy.me/20260901/) | 最近真的在工作上有一种心累的感觉 |
@@ -37,7 +41,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-08-31 | [给林夕](https://tianheg.co/posts/to-linxi/) | 给林夕（一）：喜爱你 写于 26/07/14 你的声音，让我怦然心动 你的话语，让我心生雀跃 你的样貌，让我好奇不已 |
 | 2026-08-31 | [UZDoom updated](https://macsourceports.com/sourceport/uzdoom) | The build of UZDoom for the DOOM engine series of games has been updated to version 5.0.0 of the project\n\nhttps://macsourceports.com/sourceport/uzdo… |
 | 2026-08-31 | [Quake updated](https://macsourceports.com/game/quake) | The build of vkQuake for Quake has been updated to version 1.36.0 of the project |
-| 2026-08-31 | [人类高质量思政课](https://elmagnifico.tech/2026/09/01/Political-Courses/) | Foreword 我记得很久以前，有一个政治老师说：你不关注政治，但政治始终在关注你 以前不理解，这东西有啥好学的，其实还是当年的课程有点脱离生活了。讲的东西过于模糊，没有明确说明这个政治或者政策是什么意思，他的结果是什么，他对或者不对。 以前的政治课讲的都是正面的，都是这个东西的作用，但是一旦问到… |
+| 2026-08-31 | [人类高质量思政课](https://elmagnifico.tech/2026/09/01/Political-Courses/) | Foreword 我记得很久以前，有一个政治老师说：你不关注政治，但政治始终在关注你。 以前不理解，这东西有啥好学的，其实还是当年的课程有点脱离生活了。讲的东西过于模糊，没有明确说明这个政治或者政策是什么意思，他的结果是什么，他对或者不对。 以前的政治课讲的都是正面的，都是这个东西的作用，但是一旦问… |
 | 2026-08-31 | [Redis 集群模式下使用 MGET 触发 CROSSSLOT Keys](https://blog.yasking.org/a/redis-crossslot) | 说来惭愧，今天我才了解到 Redis Cluster 模式下 MGET 的使用 “陷阱”，起因是翻日志看到 Redis 请求报错日志： ( error ) CROSSSLOT Keys in request don't hash to the same slot 定位 … |
 | 2026-08-31 | [R#117 寻找正反馈](https://blog.sakanano.moe/journals/random_117) | 2026.8.25 ~ 2026.8.31 |
 | 2026-08-31 | [开学前，文具店小景](https://blog.mfwt.top/index.php/archives/1561/) | 上一篇文章提到的文具店小景，就是这篇了。如果不是因为昨晚的文章插进来，其实应该更早发出来才对。具体发生的时间是在8/29，也就是真正来到学校之前的事情了。笔者和这个文具店其实并没有太大联系，毕竟... |
