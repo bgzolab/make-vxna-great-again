@@ -27,20 +27,30 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-09-01 | [曼远/曼掌/曼丢：佛是大家的，鬼是各家的](https://macin.org/2026/09/01/dai-zu-zhai-zi/) | 阅读全文 → 飞机降落嘎洒机场那一刻，舷窗外是成片的橡胶林和红土地，热浪裹着湿气扑进机舱。 |
+| 2026-09-01 | [The Evolution of Modern Naval Combat, from the First Sino-Japanese War](https://victor42.eth.limo/post-en/the-evolution-of-naval-warfare/) | I was putting together a travel plan when my mind drifted onto a naval battlefield. I’m about to take the family to Weihai. It is a city that still ca… |
+| 2026-09-01 | [从甲午战争说起：近现代海战形式的变迁](https://victor42.eth.limo/post/the-evolution-of-naval-warfare/) | 正做着旅行攻略，思绪飘到海战现场。 即将带家人去威海度假。威海是一座承载着历史伤疤的城市，这伤疤，指的就是甲午战争。 大家对甲午战争的印象，可能是邓世昌的悲壮身影，高呼着撞沉吉野，指挥致远号冲锋。不过严格来说，那是甲午战争中的黄海海战，发生在朝鲜半岛附近。军事史正式名称为大东沟海战，对中国来说黄海海… |
+| 2026-09-01 | [Codex第三方API使用生图接口](https://blog.alliot.tech/post/codex-third-party-api-image-generation) | Codex(或ChatGPT客户端) 在配置第三方 API 来使用时，其内置的 imagegen Skills 无法正常使用，通过简单的配置即可修复。 |
+| 2026-09-01 | [景甜是鸡，胡锡进是狗](https://sinyalee.com/blog/?p=1351) | 一 景甜是鸡，胡锡进是狗 鸡会下蛋，狗会叼盘 鸡下一个蛋，3.36亿元人民币 狗叼一个盘，五毛 鸡下蛋和狗叼盘 […] |
+| 2026-09-01 | [TIL:Punycode - 域名中的 Unicode](https://taxodium.ink/til-punycode.html) | TIL:Punycode 域名中的 Unicode 之前看了 マリウス 的 disable-javascript.org ，我就用 Elfeed 訂閱了他的博客，但後面一直在 Elfeed 裡看到拉取报錯，錯誤信息如下： [error]: https://マリウス.com/index.xml: "(… |
+| 2026-09-01 | [Earlybird合伙人分享：如何打造一家 AI 原生的VC投资机构？](https://wenfeixiang.com/2026/09/how-to-be-the-ai-native-vc-firm/) | 几乎每家 VC 机构都会说自己在使用人工智能，目前看 使用是很容易的、也确实很多人在用，但真要围绕人工智能打造 […] |
 | 2026-09-01 | [最近惦念 20260820](https://z.arlmy.me/posts/TILs/thoughts/20260820_Recently/) | 「珍惜闲暇。」 |
 | 2026-09-01 | [入蜀记 day464 love thyself last](https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_464/) | 「love thyself last。」 |
 | 2026-09-01 | [入蜀记 day463 BIGGER Art Fair](https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_463/) | 「BIGGER Art Fair。」 |
+| 2026-09-01 | [博客加速实践](https://liudon.com/posts/blog-performance-optimization/) | 记录一次博客完整的性能优化实践：响应式图片预生成和JS文件延迟加载。 |
 | 2026-09-01 | [2026.8.31](https://www.justzht.com/2026-8-31/) | 很流水账的一篇。 周六开大车陪搬家的朋友去收 fb market 上的二手家具。我对这种事情有种莫名的兴致，不管是开 UHaul 还 |
 | 2026-09-01 | [认领罗曼望远镜像素点](https://www.liesauer.net/blog/post/1042.html) | :point_right: [跃迁点坐标](https://science.nasa.gov/mission/roman-space-telescope/adopt-a-pixel/ "跃迁点坐... |
 | 2026-09-01 | [Memos: 新计费模式下的 Cursor Team $40 已无开通必要](https://blog.yasking.org/a/1788227709) | 本月公司订阅的 Cursor Team 计费方案变更，从按次每月 500 点数变为按量计费 20 额度。 20 额度。 20 额度。 40/人的席位费包含 $20 额度，Cursor … |
 | 2026-09-01 | [不再期待下一份工作](https://blog.solazy.me/20260901/) | 最近真的在工作上有一种心累的感觉 |
 | 2026-09-01 | [K8s 集群外部访问 Pod 的几种方式](https://199604.com/3675) | K8s 集群外部访问 Pod 的几种方式 记录时间：2026-08-20 环境：K8s 1.28 测试集群（C […] |
 | 2026-09-01 | [炒饭的顺序](https://mobius.blog/25571.html) | 副标题：《性癖纵横观 IX》 今天的文章涉及性、性欲、性癖等内容，请酌情阅读。 之所以把这篇文章放在“食色性也 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
+| 2026-09-01 | [1999，互联网到了校门外](https://www.tortorse.com/archives/internet-outside-the-school-gate-1999/) | 冬日清晨，校门外的早点摊与游戏室 |
 | 2026-09-01 | [Memos #2026-08-31](https://www.taober.blog/memos/memo_20260831033926_iad1h8) | 11:39 下雨天远程是真惬意呀😄 |
 | 2026-08-31 | [问下各位， 现在 macos 26 稳定](https://versun.me/blog/tweet-2094572387807473943) | 问下各位， 现在 macos 26 稳定了吗，速度快不， 我现在还是15版本， 是等27还是升26，或者停在15😂 |
 | 2026-08-31 | [给林夕](https://tianheg.co/posts/to-linxi/) | 给林夕（一）：喜爱你 写于 26/07/14 你的声音，让我怦然心动 你的话语，让我心生雀跃 你的样貌，让我好奇不已 |
 | 2026-08-31 | [UZDoom updated](https://macsourceports.com/sourceport/uzdoom) | The build of UZDoom for the DOOM engine series of games has been updated to version 5.0.0 of the project\n\nhttps://macsourceports.com/sourceport/uzdo… |
 | 2026-08-31 | [Quake updated](https://macsourceports.com/game/quake) | The build of vkQuake for Quake has been updated to version 1.36.0 of the project |
+| 2026-08-31 | [CodeBind Docs插件-JetBrains版本](https://elmagnifico.tech/2026/09/01/CBD-JetBrain-Plugin/) | Foreword CodeBind Docs 那篇写完时说过：真混排、跨IDE，以后再说。VS Code / Cursor这边用了一阵，绑定格式也稳了，但实际还是有部分代码工程绑在 IntelliJ IDEA、Android Studio 里，既然如此不如把 IntelliJ Platform 这一… |
 | 2026-08-31 | [人类高质量思政课](https://elmagnifico.tech/2026/09/01/Political-Courses/) | Foreword 我记得很久以前，有一个政治老师说：你不关注政治，但政治始终在关注你。 以前不理解，这东西有啥好学的，其实还是当年的课程有点脱离生活了。讲的东西过于模糊，没有明确说明这个政治或者政策是什么意思，他的结果是什么，他对或者不对。 以前的政治课讲的都是正面的，都是这个东西的作用，但是一旦问… |
 | 2026-08-31 | [Redis 集群模式下使用 MGET 触发 CROSSSLOT Keys](https://blog.yasking.org/a/redis-crossslot) | 说来惭愧，今天我才了解到 Redis Cluster 模式下 MGET 的使用 “陷阱”，起因是翻日志看到 Redis 请求报错日志： ( error ) CROSSSLOT Keys in request don't hash to the same slot 定位 … |
 | 2026-08-31 | [R#117 寻找正反馈](https://blog.sakanano.moe/journals/random_117) | 2026.8.25 ~ 2026.8.31 |

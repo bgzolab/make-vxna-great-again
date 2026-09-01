@@ -1,5 +1,54 @@
 [
   {
+    "title": "曼远/曼掌/曼丢：佛是大家的，鬼是各家的",
+    "url": "https://macin.org/2026/09/01/dai-zu-zhai-zi/",
+    "date": "2026-09-01T21:53:38Z",
+    "description": "阅读全文 → 飞机降落嘎洒机场那一刻，舷窗外是成片的橡胶林和红土地，热浪裹着湿气扑进机舱。",
+    "source_root_domain": "macin.org"
+  },
+  {
+    "title": "The Evolution of Modern Naval Combat, from the First Sino-Japanese War",
+    "url": "https://victor42.eth.limo/post-en/the-evolution-of-naval-warfare/",
+    "date": "2026-09-01T19:07:00Z",
+    "description": "I was putting together a travel plan when my mind drifted onto a naval battlefield. I’m about to take the family to Weihai. It is a city that still carries a historical scar, and that scar is the First Sino-Japanese War. People’s picture of the First Sino-Japanese War is probably Deng Shichang’s tragic figure, shouting that he would ram Yoshino, driving Zhiyuan into a charge. Strictly speaking, that was the war’s Battle of the Yellow Sea, fought near the Korean Peninsula. Military history’s offi",
+    "source_root_domain": "eth.limo"
+  },
+  {
+    "title": "从甲午战争说起：近现代海战形式的变迁",
+    "url": "https://victor42.eth.limo/post/the-evolution-of-naval-warfare/",
+    "date": "2026-09-01T19:07:00Z",
+    "description": "正做着旅行攻略，思绪飘到海战现场。 即将带家人去威海度假。威海是一座承载着历史伤疤的城市，这伤疤，指的就是甲午战争。 大家对甲午战争的印象，可能是邓世昌的悲壮身影，高呼着撞沉吉野，指挥致远号冲锋。不过严格来说，那是甲午战争中的黄海海战，发生在朝鲜半岛附近。军事史正式名称为大东沟海战，对中国来说黄海海战只有一个，但对世界来说还有别的黄海海战。 威海与甲午战争的关系，更多在后半段，是北洋水师最终被困在港内全军覆没的故事。当然，现代的威海绝对有它精彩的一面，那部分我旅行归来游记里再写。这篇我们来看看发生在威海以外的故事。 黄海海战：机动战的优势 甲午战争黄海海战，其实是海战史上两条技术路线第一次在现实中对决：德式堡垒舰与英法高速巡洋舰。这也是历史上第一次蒸汽动力海军的大规模战斗。 此战双方舰船数量相当。北洋水师从德国采购2艘重甲堡垒舰，定远号与镇远号，关键位置装甲厚度可达300mm级别，但火炮射速比较低，弹药是当时主流的穿甲弹，物理撞击为主。老电影《甲午风云》曾演绎过致远号炮弹火药被换成沙子，导致无法战斗才选择撞击，但这严格说不算颐和园之祸。掺沙子给动能弹增重确实是当时海军的合理做法，真正装",
+    "source_root_domain": "eth.limo"
+  },
+  {
+    "title": "Codex第三方API使用生图接口",
+    "url": "https://blog.alliot.tech/post/codex-third-party-api-image-generation",
+    "date": "2026-09-01T13:42:20Z",
+    "description": "Codex(或ChatGPT客户端) 在配置第三方 API 来使用时，其内置的 imagegen Skills 无法正常使用，通过简单的配置即可修复。",
+    "source_root_domain": "iots.vip"
+  },
+  {
+    "title": "景甜是鸡，胡锡进是狗",
+    "url": "https://sinyalee.com/blog/?p=1351",
+    "date": "2026-09-01T12:29:35Z",
+    "description": "一 景甜是鸡，胡锡进是狗 鸡会下蛋，狗会叼盘 鸡下一个蛋，3.36亿元人民币 狗叼一个盘，五毛 鸡下蛋和狗叼盘 […]",
+    "source_root_domain": "sinyalee.com"
+  },
+  {
+    "title": "TIL:Punycode - 域名中的 Unicode",
+    "url": "https://taxodium.ink/til-punycode.html",
+    "date": "2026-09-01T10:30:00Z",
+    "description": "TIL:Punycode 域名中的 Unicode 之前看了 マリウス 的 disable-javascript.org ，我就用 Elfeed 訂閱了他的博客，但後面一直在 Elfeed 裡看到拉取报錯，錯誤信息如下： [error]: https://マリウス.com/index.xml: \"(60) Peer certificate cannot be authenticated with known CA certificates.\" Elfeed 是用 curl 發請求的 (前提是 elfeed-use-curl 為 t ) ，直接用 curl 請求的話，报錯是： curl: (35) LibreSSL SSLconnect: SSLERRORSYSCALL in connection to マリウス.com:443 之後我去問了 Kagi Assistant，經過一些排查後，終於找到了問題。 留意請求的域名，你會發現 你会讶异，你是我最压抑，最深处的秘密 ，我請求的域名是 マリウス.com 。但是 域名只支持 ASCII ，而 マリウス 顯然不是 ASCII ，而是 Uni",
+    "source_root_domain": "taxodium.ink"
+  },
+  {
+    "title": "Earlybird合伙人分享：如何打造一家 AI 原生的VC投资机构？",
+    "url": "https://wenfeixiang.com/2026/09/how-to-be-the-ai-native-vc-firm/",
+    "date": "2026-09-01T10:05:21Z",
+    "description": "几乎每家 VC 机构都会说自己在使用人工智能，目前看 使用是很容易的、也确实很多人在用，但真要围绕人工智能打造 […]",
+    "source_root_domain": "wenfeixiang.com"
+  },
+  {
     "title": "最近惦念 20260820",
     "url": "https://z.arlmy.me/posts/TILs/thoughts/20260820_Recently/",
     "date": "2026-09-01T08:07:27Z",
@@ -19,6 +68,13 @@
     "date": "2026-09-01T08:00:27Z",
     "description": "「BIGGER Art Fair。」",
     "source_root_domain": "arlmy.me"
+  },
+  {
+    "title": "博客加速实践",
+    "url": "https://liudon.com/posts/blog-performance-optimization/",
+    "date": "2026-09-01T07:14:02Z",
+    "description": "记录一次博客完整的性能优化实践：响应式图片预生成和JS文件延迟加载。",
+    "source_root_domain": "liudon.com"
   },
   {
     "title": "2026.8.31",
@@ -63,6 +119,13 @@
     "source_root_domain": "onojyun.com"
   },
   {
+    "title": "1999，互联网到了校门外",
+    "url": "https://www.tortorse.com/archives/internet-outside-the-school-gate-1999/",
+    "date": "2026-09-01T01:13:32Z",
+    "description": "冬日清晨，校门外的早点摊与游戏室",
+    "source_root_domain": "tortorse.com"
+  },
+  {
     "title": "Memos #2026-08-31",
     "url": "https://www.taober.blog/memos/memo_20260831033926_iad1h8",
     "date": "2026-09-01T00:00:00Z",
@@ -96,6 +159,13 @@
     "date": "2026-08-31T17:03:18Z",
     "description": "The build of vkQuake for Quake has been updated to version 1.36.0 of the project",
     "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "CodeBind Docs插件-JetBrains版本",
+    "url": "https://elmagnifico.tech/2026/09/01/CBD-JetBrain-Plugin/",
+    "date": "2026-08-31T16:00:00Z",
+    "description": "Foreword CodeBind Docs 那篇写完时说过：真混排、跨IDE，以后再说。VS Code / Cursor这边用了一阵，绑定格式也稳了，但实际还是有部分代码工程绑在 IntelliJ IDEA、Android Studio 里，既然如此不如把 IntelliJ Platform 这一侧也补上 于是把同一套旁路绑定迁到了 IntelliJ Platform。由于两边代码差的比较多，没办法通用，仓库只能分开 https://github.com/elmagnificogi/CodeBindDocs-IntelliJ 绑定头和 VS Code 版完全兼容，同一个仓库两边都能开。目前JetBrains Marketplace审核还没过，本地打 zip 来装。 为什么要做 CBD 的核心不是编辑器插件，是那份 YAML 头：文档跟代码走，源码零侵入。编辑器只是读这份头、把文档甩到旁边。 现实却是：TypeScript / 前端在 Cursor，Kotlin / Android / 后端在 IntelliJ IDEA。两边各写一套文档，Agent 更懵。VS Code 扩展已经能生",
+    "source_root_domain": "elmagnifico.tech"
   },
   {
     "title": "人类高质量思政课",
