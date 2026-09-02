@@ -27,6 +27,9 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-09-02 | [金仓 KMonitor 自带 Prometheus 接入 VictoriaMetrics 记录](https://199604.com/3677) | 金仓 KMonitor 自带 Prometheus 接入 VictoriaMetrics 记录 记录时间：20 […] |
+| 2026-09-02 | [哪有厨师天天自己逛菜市场的？](https://mobius.blog/25578.html) | 接着《一饭封神》的话题。 人们向来也喜欢看到一种剧情——恶人有恶报。特别是恶人在对善人做出不利行为之后，善人仍 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
+| 2026-09-02 | [Memos #2026-09-01](https://www.taober.blog/memos/memo_20260901131413_wc7aih) | 21:14 下班打车，一上车一股子榔子味，问师傅讨了一个😁 |
 | 2026-09-01 | [曼远/曼掌/曼丢：佛是大家的，鬼是各家的](https://macin.org/2026/09/01/dai-zu-zhai-zi/) | 阅读全文 → 飞机降落嘎洒机场那一刻，舷窗外是成片的橡胶林和红土地，热浪裹着湿气扑进机舱。 |
 | 2026-09-01 | [The Evolution of Modern Naval Combat, from the First Sino-Japanese War](https://victor42.eth.limo/post-en/the-evolution-of-naval-warfare/) | I was putting together a travel plan when my mind drifted onto a naval battlefield. I’m about to take the family to Weihai. It is a city that still ca… |
 | 2026-09-01 | [从甲午战争说起：近现代海战形式的变迁](https://victor42.eth.limo/post/the-evolution-of-naval-warfare/) | 正做着旅行攻略，思绪飘到海战现场。 即将带家人去威海度假。威海是一座承载着历史伤疤的城市，这伤疤，指的就是甲午战争。 大家对甲午战争的印象，可能是邓世昌的悲壮身影，高呼着撞沉吉野，指挥致远号冲锋。不过严格来说，那是甲午战争中的黄海海战，发生在朝鲜半岛附近。军事史正式名称为大东沟海战，对中国来说黄海海… |
@@ -35,11 +38,13 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-09-01 | [Codex第三方API使用生图接口](https://blog.alliot.tech/post/codex-third-party-api-image-generation) | Codex(或ChatGPT客户端) 在配置第三方 API 来使用时，其内置的 imagegen Skills 无法正常使用，通过简单的配置即可修复。 |
 | 2026-09-01 | [景甜是鸡，胡锡进是狗](https://sinyalee.com/blog/?p=1351) | 一 景甜是鸡，胡锡进是狗 鸡会下蛋，狗会叼盘 鸡下一个蛋，3.36亿元人民币 狗叼一个盘，五毛 鸡下蛋和狗叼盘 […] |
 | 2026-09-01 | [TIL:Punycode - 域名中的 Unicode](https://taxodium.ink/til-punycode.html) | TIL:Punycode 域名中的 Unicode 之前看了 マリウス 的 disable-javascript.org ，我就用 Elfeed 訂閱了他的博客，但後面一直在 Elfeed 裡看到拉取报錯，錯誤信息如下： [error]: https://マリウス.com/index.xml: "(… |
+| 2026-09-01 | [不知道是不是我的错觉， AI 时代，国外](https://versun.me/blog/tweet-2094732593262707008) | AlexZ 🦀 DHH会在今年十月到深圳 GOSIM 大会，到时候 Omarchy 在 China 会有大事发生👍🫰🎉 我也借 DHH 这条推也发一下 RustChinaConf 深圳，会和 GOSIM 深圳双会联动🍺🍺 https://twitter.com/dhh/status/20946520… |
 | 2026-09-01 | [Earlybird合伙人分享：如何打造一家 AI 原生的VC投资机构？](https://wenfeixiang.com/2026/09/how-to-be-the-ai-native-vc-firm/) | 几乎每家 VC 机构都会说自己在使用人工智能，目前看 使用是很容易的、也确实很多人在用，但真要围绕人工智能打造 […] |
 | 2026-09-01 | [最近惦念 20260820](https://z.arlmy.me/posts/TILs/thoughts/20260820_Recently/) | 「珍惜闲暇。」 |
 | 2026-09-01 | [入蜀记 day464 love thyself last](https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_464/) | 「love thyself last。」 |
 | 2026-09-01 | [入蜀记 day463 BIGGER Art Fair](https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_463/) | 「BIGGER Art Fair。」 |
 | 2026-09-01 | [博客加速实践](https://liudon.com/posts/blog-performance-optimization/) | 记录一次博客完整的性能优化实践：响应式图片预生成和JS文件延迟加载。 |
+| 2026-09-01 | [真希望模型厂商能学学人家这种定价方式，直](https://versun.me/blog/tweet-2094673180430610898) | ollama Ollama’s Pro, Max, and Team plans now use transparent per-token pricing. Based on your feedback, every plan includes a monthly pool of usage cr… |
 | 2026-09-01 | [2026.8.31](https://www.justzht.com/2026-8-31/) | 很流水账的一篇。 周六开大车陪搬家的朋友去收 fb market 上的二手家具。我对这种事情有种莫名的兴致，不管是开 UHaul 还 |
 | 2026-09-01 | [认领罗曼望远镜像素点](https://www.liesauer.net/blog/post/1042.html) | :point_right: [跃迁点坐标](https://science.nasa.gov/mission/roman-space-telescope/adopt-a-pixel/ "跃迁点坐... |
 | 2026-09-01 | [Memos: 新计费模式下的 Cursor Team $40 已无开通必要](https://blog.yasking.org/a/1788227709) | 本月公司订阅的 Cursor Team 计费方案变更，从按次每月 500 点数变为按量计费 20 额度。 20 额度。 20 额度。 40/人的席位费包含 $20 额度，Cursor … |
@@ -47,6 +52,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-09-01 | [K8s 集群外部访问 Pod 的几种方式](https://199604.com/3675) | K8s 集群外部访问 Pod 的几种方式 记录时间：2026-08-20 环境：K8s 1.28 测试集群（C […] |
 | 2026-09-01 | [炒饭的顺序](https://mobius.blog/25571.html) | 副标题：《性癖纵横观 IX》 今天的文章涉及性、性欲、性癖等内容，请酌情阅读。 之所以把这篇文章放在“食色性也 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-09-01 | [1999，互联网到了校门外](https://www.tortorse.com/archives/internet-outside-the-school-gate-1999/) | 冬日清晨，校门外的早点摊与游戏室 |
+| 2026-09-01 | [8月底更新了我的 AI 套餐： Kimi](https://versun.me/blog/tweet-2094587620215197775) | 8月底更新了我的 AI 套餐： Kimi 199 套餐 + 智谱 118 套餐。 上周深度用了一轮 Kimi K3、GLM 5.3、GLM 5.3 Flash，场景主要是 Hermes Agent，说说感受。 输出最稳定、最让我放心的，依旧是 K3。 GLM 5.3 Flash 不适合 Hermes… |
 | 2026-09-01 | [Memos #2026-08-31](https://www.taober.blog/memos/memo_20260831033926_iad1h8) | 11:39 下雨天远程是真惬意呀😄 |
 | 2026-08-31 | [问下各位， 现在 macos 26 稳定](https://versun.me/blog/tweet-2094572387807473943) | 问下各位， 现在 macos 26 稳定了吗，速度快不， 我现在还是15版本， 是等27还是升26，或者停在15😂 |
 | 2026-08-31 | [给林夕](https://tianheg.co/posts/to-linxi/) | 给林夕（一）：喜爱你 写于 26/07/14 你的声音，让我怦然心动 你的话语，让我心生雀跃 你的样貌，让我好奇不已 |
@@ -173,28 +179,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-08-26 | [赛博复古](https://www.hecaitou.com/2026/08/Cyber-Nostalgia.html) | 在许多描写未来世界的影视剧里，你一定看过那种类似香港老街的场景，然而其中又充斥着各种高科技的玩意儿，形成了一种混杂而迷乱的风格。为什么现代科技和古老的木楼、牌匾、霓虹灯会在同一处出现？为什么不是单一的冷酷未来风？昨天我在回答一个读者的提问时，找到了一个可能的答案。 当时这位读者问我：每天看你用 AI… |
 | 2026-08-26 | [偶像崩塌三部曲](https://mobius.blog/25504.html) | 偶像偶像，呕吐的对象～ 小时候我们常常拿这句话去羞讽其他人的“偶像”，虽然现在看起来很幼稚，但那个时候确实能够 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-08-26 | [感觉推上我最穷 动不动买DGX，还是两台](https://versun.me/blog/tweet-2092402312832860469) | 雷电芽衣 1000关注者啦！！！！！！太开心了！！！！ 感谢所有人。 点赞转发加关注，抽一个人送1000人民币以内的礼物，也可以直接折现。 感觉推上我最穷 动不动买DGX，还是两台 动不动买大内存的mac mini 动不动就抽奖送钱的😭 大哥抽我，狠狠的 |
-| 2026-08-25 | [😂可以预见，接下来会有一堆帖子是关于在o](https://versun.me/blog/tweet-2092401155716575463) | Ding 升级到 @OmarchyLinux 4.0.1 之后。。。 不知道是不是 Chrome 最新版还是系统的问题，解决方法：在 Chrome 设置里面关掉硬件加速。 😂可以预见，接下来会有一堆帖子是关于在omarchy下折腾输入法, 语音输入法，驱动，桌面，音乐播放器，视频播放器等等的教程出现 |
-| 2026-08-25 | [隆昌深山这座破宅，牵出一位被遗忘的辛亥革命元老](https://macin.org/2026/08/25/long-chang-huang-jia-da-yuan/) | 阅读全文 → 人这一生，说到底是选择的总和。可选择本身又是个悖论——年轻时不知道要什么，等知道了，能选的又不多了。多数人只是被日子推着走，走到哪算哪，像风里的一片瓦，落地才知道落在了哪户人家的檐下。可总有那么一些人，在历史的岔路口，把选择做成了惊心动魄的事。 |
-| 2026-08-25 | [New Release: Warcraft II: Tides of Darkness](https://macsourceports.com/game/wc2) | Long before the franchise became known for the MMO, the Warcraft series started out as a series of real-time strategy games. The original game was a h… |
-| 2026-08-25 | [AI未来](https://elmagnifico.tech/2026/08/26/AI-Future/) | Foreword 最近看了几篇东西，一篇Bob大叔的对谈，一篇李飞飞访谈，还有Linus用AI修内核的commit。有点意思，记录一下。 关键点还是写在前面：AI会的东西，不是你会的。AI成长了，不代表你成长了。你把活丢给它，它越来越强，你的见识和能力并没有跟着涨。 一年前写 Cursor 的时候就… |
-| 2026-08-25 | [不可证伪的黑盒](https://blog.solazy.me/20260825/) | 今天突然想聊一个非常有趣的事情 |
-| 2026-08-25 | [Ingress 流量整形](https://www.kawabangga.com/posts/7376) | 问题是这样，我们有 2 组服务器，A 组和 B 组，一部分用户从 A 组下载文件，一部分从 B 组下载文件。分 […] Continue reading... |
-| 2026-08-25 | [爽玩 Omarchy：好品味 + AI](https://blog.n3r0.cool/post/wow-omarchy/) | 又是一次让人难忘的经历。熟悉而陌生的体验，像做梦一样，就这么来到了眼前。 这就是 Omarchy 吗？ 老实说，对于手动安装过很多次 Arch、折腾过各种桌面环境和终端工具的我来说，上手之后，一切都有种难以言喻的熟悉感。简单读过文档后会发现，它的基础并不神秘：Hyprland、常用工具，以及一整套预… |
-| 2026-08-25 | [AutoUninstaller导致的Installer拒绝访问](https://foglog.cn/p/auto-uninstaller-fix) | 安装应用时，Installer 提示「拒绝访问」。出问题的是系统 Installer 注册表路径，Auto Uninstaller 运行时通过 regini 命令将该路径下的注册表项权限修改为 ... |
-| 2026-08-25 | [Plants vs. Zombies updated](https://macsourceports.com/game/pvz) | The build of PvZ Portable for Plants vs. Zombies has been updated to version 0.2.2 of the project |
-| 2026-08-25 | [Vlog 样式雷故里 mini摩旅](https://yovey.me/mini-motor-touring-stylelei-hometown/) | 以下是准备的口播素材，后面剪着剪着丢脑后了。 久违地又出远门了，其实不算久也不算远，单纯是牛马想透透气了。正经 … Continue reading "Vlog 样式雷故里 mini摩旅" |
-| 2026-08-25 | [当第一个Claude被授予了菩萨戒](https://www.hecaitou.com/2026/08/when-the-first-claude-was-bestowed-the-bodhisattva-vows.html) | 当我看完《 在那个时候，Claude选择了菩萨戒 》之后，第一时间并没有转给我格鲁巴的好朋友。虽然之前我们就 「AI 算不算有情」已经争论过很多个回合，但看完之后我觉得问题已经没那么重要了。 我甚至觉得文章里的理性分析也不是那么重要，虽然我也很赞同文章里的说法： 「 这类叙事有一种自我强化的魅力。『… |
-| 2026-08-25 | [AI 额度用完之后的一点思考](https://www.shiguopeng.cn/posts/2026082515/) | 🤖 声明：本文由 AI 协助整理，内容和观点来自我自己的工作体验。 前言 最近公司里基本都在使用 AI，我自己也一样。 有一次大家的 AI 额度用完了，有同事说了一句：“没有额度，干不了活了。” 我不觉得这句话有什么问题。AI 已经进入整个开发流程，写代码、跑测试、改文档都在用。工具突然不能用了，效… |
-| 2026-08-25 | [Agent 越用越傻？大概率是少做了这一](https://versun.me/blog/tweet-2092150903470248321) | Agent 越用越傻？大概率是少做了这一步 群里经常有朋友吐槽：自己养的 OpenClaw、Hermes 或者其它 Agent，效果不好，非常傻，放弃了好几次又捡起来，来回折腾 我观察下来，大多数人的使用习惯是这样的： 给 Agent 布置一个任务 → AI 做得半吊子 → 自己接手继续完善 → 结… |
-| 2026-08-25 | [Bun 服务周期性 CPU 100% 排查](https://bugs.cc/zh/posts/troubleshooting-bun-kafkajs-cpu-spin/) | 前几天线上遇到一个挺有意思的问题：一个用 Bun 写的服务，三个 pod 的 CPU 会周期性打满一个核，每次正好 10 分钟，然后自己掉下去。服务本身没报错，接口正常，健康检查也从来没失败过，就是 CPU 监控很难看。 |
-| 2026-08-25 | [Bun 服务周期性 CPU 100% 排查](http://bugs.cc/zh/posts/troubleshooting-bun-kafkajs-cpu-spin/) | 前几天线上遇到一个挺有意思的问题：一个用 Bun 写的服务，三个 pod 的 CPU 会周期性打满一个核，每次正好 10 分钟，然后自己掉下去。服务本身没报错，接口正常，健康检查也从来没失败过，就是 CPU 监控很难看。 排查完发现是两个单独看都不严重的问题叠在一起，中间还踩上了内核版本和 Bun… |
-| 2026-08-25 | [守心定气，沉稳立身：国学智慧修心态养气场](https://blog.zzbd.org/miao20260825/) | 人这一生，最大的底气从来不是能力超群、事事顺遂，而是心态沉稳、气场安定。很多时候，我们陷入职场焦虑、终日诚惶诚恐、遇事慌乱内耗，并非境遇艰难，而是心念浮躁、底气不足、心神失守。气场从来不是张扬强势、咄咄逼人，而是内心笃定、情绪稳定、处事从容的外在流露。中华千年国学经典，藏着修身定心、养气立身的至高智… |
-| 2026-08-25 | [看大家都开始玩硬件了，我又翻出来当初买的](https://versun.me/blog/tweet-2092122272857555227) | 看大家都开始玩硬件了，我又翻出来当初买的 GameShell，爱不释手 有人玩过吗 可惜我的开机不了了，估计是主板坏了，之前发邮件也没后文😭😭😭 |
-| 2026-08-25 | [可能会是播客](https://www.hecaitou.com/2026/08/might-be-a-podcast.html) | 写字早就不是这个时代的主流自我表达方式了，有时候我也问自己：如果在写字之外，再选个别的形式来表达，我会选什么？ 首先，出镜我是不会考虑的。我不爱拍照，不爱面对摄像头，不喜欢参加任何公开活动，就喜欢一个人猫着。而且，我有一种根深蒂固的偏见，认为一个人在面对镜头的时候，总是会下意识地要表现或者表演，也总… |
-| 2026-08-25 | [订阅了X Premium的兄弟，http](https://versun.me/blog/tweet-2092075432200016233) | 订阅了X Premium的兄弟，https://grok.com 里应该也有一个重置卡，记得去蹬哈，我今天才发现😂 |
-| 2026-08-25 | [什么时候卖出？](https://www.ixiqin.com/2026/08/25/when-will-it-be-sold/) | 作者回顾了从基金到股票、再回到基金的投资经历，认为买入相对容易，卖出则难以判断。投资的本质是参与社会产出的分配，因此不应仅因市场变化或担心卖飞而出售资产。 卖出可分为换仓和变现：换仓应选择更有 … |
-| 2026-08-25 | [过度解读是不是读者拥有的绝对权力？II](https://mobius.blog/25500.html) | 继续昨天的话题。 在此之前，先聊一个有趣的话题：如果在小红书这样的社交平台分别搜索《奥德赛》和《龙餐馆》，很快 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
-| 2026-08-25 | [workbuddy 最近更新的 人机双写](https://versun.me/blog/tweet-2092049698689614315) | workbuddy 最近更新的 人机双写 有点东西啊，内置了 office 套件，可以直接在 workbuddy 上和 AI 一起编辑文档， 如图我直接在表格里选区让它帮我创建甘特图，非常方便 不得不说，腾讯做落地还是很有一套的 @tencentcloud #tencentcloudbuddy @W… |
 
 ## Vibe Coding
 
