@@ -27,6 +27,11 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-09-02 | [20260902的胡言乱语](https://www.bboy.app/2026/09/02/20260902%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | 简介 欢迎关注我的频道，不时发送垃圾消息 https://t.me/bboyapp 或者关注我的 twitter https://twitter.com/bboysoulcn |
+| 2026-09-02 | [Random Thoughts - 20260902](https://www.bboy.app/2026/09/02/random-thoughts-20260902/) | Introduction Welcome to follow my channel, where I occasionally share random messages https://t.me/bboyapp Or follow me on Twitter https://twitter.com… |
+| 2026-09-02 | [Maven 多模块 Spring Boot repackage 让被依赖模块变成 fat jar 的编译失败问题](https://199604.com/3679) | Maven 多模块 Spring Boot repackage 让被依赖模块变成 fat jar 的编译失败问 […] |
+| 2026-09-02 | [小学算术视野下的人生](https://www.hecaitou.com/2026/09/life-through-the-lens-of-grade-school-arithmetic.html) | 假设每个人平均可以活 80 年，22 岁开始上班，60 岁退休，那么，上班的 38 年是 80 年人生的 47.5%，也就是说，为了保障自己的人生，需要用生命的近一半去上班。 而每个人每天睡 8 小时，占一天的⅓，计算下来，人生的 33.33% 用于睡觉休息。如果这样计算的话，人生未免有些悲观，休息… |
+| 2026-09-02 | [AI 小项目盘点：第一期](https://blog.zzbd.org/vibe-project-1/) | 刚刚看到一个帖子 Fable5.1，四冲程柴油机测试 ，效果叹为观止，现在的 AI 能力恐怖如斯。 正好最近用 hermes 折腾了些小项目，简单记录一下。 |
 | 2026-09-02 | [金仓 KMonitor 自带 Prometheus 接入 VictoriaMetrics 记录](https://199604.com/3677) | 金仓 KMonitor 自带 Prometheus 接入 VictoriaMetrics 记录 记录时间：20 […] |
 | 2026-09-02 | [哪有厨师天天自己逛菜市场的？](https://mobius.blog/25578.html) | 接着《一饭封神》的话题。 人们向来也喜欢看到一种剧情——恶人有恶报。特别是恶人在对善人做出不利行为之后，善人仍 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-09-02 | [Memos #2026-09-01](https://www.taober.blog/memos/memo_20260901131413_wc7aih) | 21:14 下班打车，一上车一股子榔子味，问师傅讨了一个😁 |
