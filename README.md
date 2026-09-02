@@ -27,8 +27,15 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-09-02 | [Deploying LiteLLM on Kubernetes](https://www.bboy.app/2026/09/02/deploying-litellm-on-kubernetes/) | Introduction I have access to LLM APIs from several different providers. I use Hermes for all kinds of tasks, and I do not want to edit the Hermes con… |
+| 2026-09-02 | [在Kubernetes中部署LiteLLM](https://www.bboy.app/2026/09/02/%E5%9C%A8kubernetes%E4%B8%AD%E9%83%A8%E7%BD%B2litellm/) | 简介 我手里有多个渠道的大模型接口。平时用 Hermes 跑各种任务，换模型的时候不想每次去改 Hermes 的配置。所以搭了个 LiteLLM，把不同渠道的模型收进同一个 OpenAI 兼容接口。Hermes 只需要配置一次，之后想切换底层模型，在 LiteLLM 的管理页面把模型映射改一下就行。… |
 | 2026-09-02 | [20260902的胡言乱语](https://www.bboy.app/2026/09/02/20260902%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | 简介 欢迎关注我的频道，不时发送垃圾消息 https://t.me/bboyapp 或者关注我的 twitter https://twitter.com/bboysoulcn |
 | 2026-09-02 | [Random Thoughts - 20260902](https://www.bboy.app/2026/09/02/random-thoughts-20260902/) | Introduction Welcome to follow my channel, where I occasionally share random messages https://t.me/bboyapp Or follow me on Twitter https://twitter.com… |
+| 2026-09-02 | [和校园网斗智斗勇的日子（第九辑）](https://blog.mfwt.top/index.php/archives/1570/) | 两年了，我去，时间过得真快。这个系列的第八辑已经是很久之前的事情了，当然前面其实还有另外七集，不过因为那都是老学校的情况，和本文已经没有太大关系，因此不再放出目录，感兴趣的朋友可以到第八辑的页面... |
+| 2026-09-02 | [谁在替你的生疏买单](https://blog.solazy.me/20260902/) | 今天聊一个中午吃饭时候发生的事情 |
+| 2026-09-02 | [Memos: 推荐试试 oh-my-pi Agent](https://blog.yasking.org/a/1788343823) | 同事推荐的，我下载试了试，可以连接到 ChatGPT、Cursor、Claude..及各种订阅，使用其订阅额度。 相较于 ChatGPT（Codex），使用同样的 OpenAI 的 5.6 Luna High，OMP 运行 … |
+| 2026-09-02 | [可感](https://z.arlmy.me/posts/Poems/2026/20260831_KeGan/) | 「可感。」 |
+| 2026-09-02 | [旧书店](https://z.arlmy.me/posts/Poems/2026/20260813_JiuShuDian/) | 「旧书店。」 |
 | 2026-09-02 | [Maven 多模块 Spring Boot repackage 让被依赖模块变成 fat jar 的编译失败问题](https://199604.com/3679) | Maven 多模块 Spring Boot repackage 让被依赖模块变成 fat jar 的编译失败问 […] |
 | 2026-09-02 | [小学算术视野下的人生](https://www.hecaitou.com/2026/09/life-through-the-lens-of-grade-school-arithmetic.html) | 假设每个人平均可以活 80 年，22 岁开始上班，60 岁退休，那么，上班的 38 年是 80 年人生的 47.5%，也就是说，为了保障自己的人生，需要用生命的近一半去上班。 而每个人每天睡 8 小时，占一天的⅓，计算下来，人生的 33.33% 用于睡觉休息。如果这样计算的话，人生未免有些悲观，休息… |
 | 2026-09-02 | [AI 小项目盘点：第一期](https://blog.zzbd.org/vibe-project-1/) | 刚刚看到一个帖子 Fable5.1，四冲程柴油机测试 ，效果叹为观止，现在的 AI 能力恐怖如斯。 正好最近用 hermes 折腾了些小项目，简单记录一下。 |

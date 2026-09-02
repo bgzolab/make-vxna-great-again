@@ -1,5 +1,19 @@
 [
   {
+    "title": "Deploying LiteLLM on Kubernetes",
+    "url": "https://www.bboy.app/2026/09/02/deploying-litellm-on-kubernetes/",
+    "date": "2026-09-02T17:15:00Z",
+    "description": "Introduction I have access to LLM APIs from several different providers. I use Hermes for all kinds of tasks, and I do not want to edit the Hermes configuration every time I switch models. So I set up LiteLLM and put the models from those different providers behind one OpenAI-compatible API. Hermes only needs to be configured once. After that, when I want to switch the underlying model, I just change the model mapping in the LiteLLM admin UI. I first got everything working locally and confirmed ",
+    "source_root_domain": "bboy.app"
+  },
+  {
+    "title": "在Kubernetes中部署LiteLLM",
+    "url": "https://www.bboy.app/2026/09/02/%E5%9C%A8kubernetes%E4%B8%AD%E9%83%A8%E7%BD%B2litellm/",
+    "date": "2026-09-02T17:15:00Z",
+    "description": "简介 我手里有多个渠道的大模型接口。平时用 Hermes 跑各种任务，换模型的时候不想每次去改 Hermes 的配置。所以搭了个 LiteLLM，把不同渠道的模型收进同一个 OpenAI 兼容接口。Hermes 只需要配置一次，之后想切换底层模型，在 LiteLLM 的管理页面把模型映射改一下就行。 先在本机跑通，确认模型真能调用，再搬到 Kubernetes。最终接了 PostgreSQL、Redis、Traefik 和 ArgoCD。这篇记录一下完整配置，还有中间碰到的几个坑。",
+    "source_root_domain": "bboy.app"
+  },
+  {
     "title": "20260902的胡言乱语",
     "url": "https://www.bboy.app/2026/09/02/20260902%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/",
     "date": "2026-09-02T15:30:55Z",
@@ -12,6 +26,41 @@
     "date": "2026-09-02T15:30:55Z",
     "description": "Introduction Welcome to follow my channel, where I occasionally share random messages https://t.me/bboyapp Or follow me on Twitter https://twitter.com/bboysoulcn",
     "source_root_domain": "bboy.app"
+  },
+  {
+    "title": "和校园网斗智斗勇的日子（第九辑）",
+    "url": "https://blog.mfwt.top/index.php/archives/1570/",
+    "date": "2026-09-02T13:53:46Z",
+    "description": "两年了，我去，时间过得真快。这个系列的第八辑已经是很久之前的事情了，当然前面其实还有另外七集，不过因为那都是老学校的情况，和本文已经没有太大关系，因此不再放出目录，感兴趣的朋友可以到第八辑的页面...",
+    "source_root_domain": "mfwt.top"
+  },
+  {
+    "title": "谁在替你的生疏买单",
+    "url": "https://blog.solazy.me/20260902/",
+    "date": "2026-09-02T11:00:00Z",
+    "description": "今天聊一个中午吃饭时候发生的事情",
+    "source_root_domain": "solazy.me"
+  },
+  {
+    "title": "Memos: 推荐试试 oh-my-pi Agent",
+    "url": "https://blog.yasking.org/a/1788343823",
+    "date": "2026-09-02T10:10:23Z",
+    "description": "同事推荐的，我下载试了试，可以连接到 ChatGPT、Cursor、Claude..及各种订阅，使用其订阅额度。 相较于 ChatGPT（Codex），使用同样的 OpenAI 的 5.6 Luna High，OMP 运行 …",
+    "source_root_domain": "yasking.org"
+  },
+  {
+    "title": "可感",
+    "url": "https://z.arlmy.me/posts/Poems/2026/20260831_KeGan/",
+    "date": "2026-09-02T08:50:27Z",
+    "description": "「可感。」",
+    "source_root_domain": "arlmy.me"
+  },
+  {
+    "title": "旧书店",
+    "url": "https://z.arlmy.me/posts/Poems/2026/20260813_JiuShuDian/",
+    "date": "2026-09-02T08:44:27Z",
+    "description": "「旧书店。」",
+    "source_root_domain": "arlmy.me"
   },
   {
     "title": "Maven 多模块 Spring Boot repackage 让被依赖模块变成 fat jar 的编译失败问题",
