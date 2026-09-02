@@ -14,6 +14,13 @@
     "source_root_domain": "bboy.app"
   },
   {
+    "title": "人人都能玩的 AI 玩具 —— AI Passport",
+    "url": "https://veryjack.com/technique/ai_passport/",
+    "date": "2026-09-02T15:56:24Z",
+    "description": "最近 TRAE AI 创意大会上的一款“电子工牌”受到了广大网友的关注。它只有一张卡片大小，配备一块 240 × 320 的小屏幕，没有触屏，控制全靠几个实体按钮，内存也只有区区 8 MB。放在当下，这个硬件配置可谓是“拉完了”，但在网络上却异常火热。早鸟价仅 99 元，在正式售卖前，闲鱼上的价格甚至被炒到了好几百。 我也在预售开启的第一时间下了单，目前到手玩了三天，正好和大家分享一下这款有意思的 AI 玩具。 人人都能玩的 AI 玩具 —— AI Passport 最先出现在 Jack's Space 。",
+    "source_root_domain": "veryjack.com"
+  },
+  {
     "title": "20260902的胡言乱语",
     "url": "https://www.bboy.app/2026/09/02/20260902%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/",
     "date": "2026-09-02T15:30:55Z",
@@ -28,9 +35,16 @@
     "source_root_domain": "bboy.app"
   },
   {
+    "title": "Generated work should not be published.",
+    "url": "https://www.geedea.pro/en/article/on-llm-work/",
+    "date": "2026-09-02T14:18:20Z",
+    "description": "I’ve been looking closely at some of my Mac apps, and I noticed how SuperCMD haven’t fixed their homebrew cask issue even though somemone created a Pull Request months ago. Warnings pop up everytime I run brew update and it annoys me. I looked through the repository, and could not help but notice how much contribution Claude had made and that they lack an LLM policy. Well, I’d rather not have unreviewed TypeScript written by Claude running on my laptop. The alternative I found is vicinae . For a",
+    "source_root_domain": "geedea.pro"
+  },
+  {
     "title": "和校园网斗智斗勇的日子（第九辑）",
     "url": "https://blog.mfwt.top/index.php/archives/1570/",
-    "date": "2026-09-02T13:53:46Z",
+    "date": "2026-09-02T13:53:00Z",
     "description": "两年了，我去，时间过得真快。这个系列的第八辑已经是很久之前的事情了，当然前面其实还有另外七集，不过因为那都是老学校的情况，和本文已经没有太大关系，因此不再放出目录，感兴趣的朋友可以到第八辑的页面...",
     "source_root_domain": "mfwt.top"
   },

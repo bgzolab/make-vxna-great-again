@@ -29,8 +29,10 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | --- | --- | --- |
 | 2026-09-02 | [Deploying LiteLLM on Kubernetes](https://www.bboy.app/2026/09/02/deploying-litellm-on-kubernetes/) | Introduction I have access to LLM APIs from several different providers. I use Hermes for all kinds of tasks, and I do not want to edit the Hermes con… |
 | 2026-09-02 | [在Kubernetes中部署LiteLLM](https://www.bboy.app/2026/09/02/%E5%9C%A8kubernetes%E4%B8%AD%E9%83%A8%E7%BD%B2litellm/) | 简介 我手里有多个渠道的大模型接口。平时用 Hermes 跑各种任务，换模型的时候不想每次去改 Hermes 的配置。所以搭了个 LiteLLM，把不同渠道的模型收进同一个 OpenAI 兼容接口。Hermes 只需要配置一次，之后想切换底层模型，在 LiteLLM 的管理页面把模型映射改一下就行。… |
+| 2026-09-02 | [人人都能玩的 AI 玩具 —— AI Passport](https://veryjack.com/technique/ai_passport/) | 最近 TRAE AI 创意大会上的一款“电子工牌”受到了广大网友的关注。它只有一张卡片大小，配备一块 240 × 320 的小屏幕，没有触屏，控制全靠几个实体按钮，内存也只有区区 8 MB。放在当下，这个硬件配置可谓是“拉完了”，但在网络上却异常火热。早鸟价仅 99 元，在正式售卖前，闲鱼上的价格甚… |
 | 2026-09-02 | [20260902的胡言乱语](https://www.bboy.app/2026/09/02/20260902%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | 简介 欢迎关注我的频道，不时发送垃圾消息 https://t.me/bboyapp 或者关注我的 twitter https://twitter.com/bboysoulcn |
 | 2026-09-02 | [Random Thoughts - 20260902](https://www.bboy.app/2026/09/02/random-thoughts-20260902/) | Introduction Welcome to follow my channel, where I occasionally share random messages https://t.me/bboyapp Or follow me on Twitter https://twitter.com… |
+| 2026-09-02 | [Generated work should not be published.](https://www.geedea.pro/en/article/on-llm-work/) | I’ve been looking closely at some of my Mac apps, and I noticed how SuperCMD haven’t fixed their homebrew cask issue even though somemone created a Pu… |
 | 2026-09-02 | [和校园网斗智斗勇的日子（第九辑）](https://blog.mfwt.top/index.php/archives/1570/) | 两年了，我去，时间过得真快。这个系列的第八辑已经是很久之前的事情了，当然前面其实还有另外七集，不过因为那都是老学校的情况，和本文已经没有太大关系，因此不再放出目录，感兴趣的朋友可以到第八辑的页面... |
 | 2026-09-02 | [谁在替你的生疏买单](https://blog.solazy.me/20260902/) | 今天聊一个中午吃饭时候发生的事情 |
 | 2026-09-02 | [Memos: 推荐试试 oh-my-pi Agent](https://blog.yasking.org/a/1788343823) | 同事推荐的，我下载试了试，可以连接到 ChatGPT、Cursor、Claude..及各种订阅，使用其订阅额度。 相较于 ChatGPT（Codex），使用同样的 OpenAI 的 5.6 Luna High，OMP 运行 … |
