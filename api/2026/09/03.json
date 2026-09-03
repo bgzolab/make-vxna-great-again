@@ -1,5 +1,19 @@
 [
   {
+    "title": "Blog Theme Update Easier-to-Read Articles and Code Blocks",
+    "url": "https://www.bboy.app/2026/09/03/blog-theme-update-easier-to-read-articles-and-code-blocks/",
+    "date": "2026-09-03T17:50:00Z",
+    "description": "Introduction I just did a round of updates on the blog theme, mostly about the reading experience: fonts load more smoothly, article pages are wider and more comfortable, code blocks got a toolbar, and the table of contents now works on mobile too. This post records what changed.",
+    "source_root_domain": "bboy.app"
+  },
+  {
+    "title": "博客主题更新：更好读的文章页和代码块",
+    "url": "https://www.bboy.app/2026/09/03/%E5%8D%9A%E5%AE%A2%E4%B8%BB%E9%A2%98%E6%9B%B4%E6%96%B0%E6%9B%B4%E5%A5%BD%E8%AF%BB%E7%9A%84%E6%96%87%E7%AB%A0%E9%A1%B5%E5%92%8C%E4%BB%A3%E7%A0%81%E5%9D%97/",
+    "date": "2026-09-03T17:50:00Z",
+    "description": "简介 给博客主题做了一轮更新，重点在阅读体验：字体加载更顺、文章页更宽更舒服、代码块加了工具栏、移动端也能看目录了。这篇记录下这次都改了哪些东西。",
+    "source_root_domain": "bboy.app"
+  },
+  {
     "title": "Building a Personal Manga Library with Komga",
     "url": "https://www.bboy.app/2026/09/03/building-a-personal-manga-library-with-komga/",
     "date": "2026-09-03T15:15:00Z",
@@ -12,6 +26,20 @@
     "date": "2026-09-03T15:15:00Z",
     "description": "简介 最近搭了一套自己的漫画库。漫画下载好以后放进 Komga，服务跑在 Kubernetes 里，iPhone 上用 KMReader 看。文件和阅读进度都在自己手里，用起来比我原来想的省事。",
     "source_root_domain": "bboy.app"
+  },
+  {
+    "title": "Writing following the F-pattern is a horrible horrible idea",
+    "url": "https://www.geedea.pro/en/article/f-with-f-pattern/",
+    "date": "2026-09-03T12:00:32Z",
+    "description": "The F-shape reading pattern is a well-known UX design consideration. UI/UX designers make use of users’ tendency to scan only the first paragraph, first sentence of each paragraph, and subheadings, to create interfaces that’s easier to read. They may try to guide users with well-signaled subheadings, multiple columns and what some call a layer cake pattern . It’s good practice for designers to guide users through landing pages, shopping websites and so on. It’s definitely not good practice for w",
+    "source_root_domain": "geedea.pro"
+  },
+  {
+    "title": "Memos: 终于、用上了 Google AI Pro 套餐",
+    "url": "https://blog.yasking.org/a/1788433028",
+    "date": "2026-09-03T11:04:23Z",
+    "description": "两个月前在闲鱼购买了个 18 月的 Google AI Pro 订阅，使用 小号 领取。 而后下载 Gemini Cli，登录后网页提示验证，提示需要输入手机号，一 …",
+    "source_root_domain": "yasking.org"
   },
   {
     "title": "友链",
@@ -257,6 +285,13 @@
     "date": "2026-09-01T12:29:35Z",
     "description": "一 景甜是鸡，胡锡进是狗 鸡会下蛋，狗会叼盘 鸡下一个蛋，3.36亿元人民币 狗叼一个盘，五毛 鸡下蛋和狗叼盘 […]",
     "source_root_domain": "sinyalee.com"
+  },
+  {
+    "title": "TIL:Punycode - 域名中的 Unicode",
+    "url": "https://taxodium.ink/til-punycode.html",
+    "date": "2026-09-01T10:30:00Z",
+    "description": "TIL:Punycode 域名中的 Unicode 之前看了 マリウス 的 disable-javascript.org ，我就用 Elfeed 訂閱了他的博客，但後面一直在 Elfeed 裡看到拉取报錯，錯誤信息如下： [error]: https://マリウス.com/index.xml: \"(60) Peer certificate cannot be authenticated with known CA certificates.\" Elfeed 是用 curl 發請求的 (前提是 elfeed-use-curl 為 t ) ，直接用 curl 請求的話，报錯是： curl: (35) LibreSSL SSLconnect: SSLERRORSYSCALL in connection to マリウス.com:443 之後我去問了 Kagi Assistant，經過一些排查後，終於找到了問題。 留意請求的域名，你會發現 你会讶异，你是我最压抑，最深处的秘密 ，我請求的域名是 マリウス.com 。但是 域名只支持 ASCII ，而 マリウス 顯然不是 ASCII ，而是 Uni",
+    "source_root_domain": "taxodium.ink"
   },
   {
     "title": "不知道是不是我的错觉， AI 时代，国外",

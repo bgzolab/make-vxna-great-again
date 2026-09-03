@@ -27,8 +27,12 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-09-03 | [Blog Theme Update Easier-to-Read Articles and Code Blocks](https://www.bboy.app/2026/09/03/blog-theme-update-easier-to-read-articles-and-code-blocks/) | Introduction I just did a round of updates on the blog theme, mostly about the reading experience: fonts load more smoothly, article pages are wider a… |
+| 2026-09-03 | [博客主题更新：更好读的文章页和代码块](https://www.bboy.app/2026/09/03/%E5%8D%9A%E5%AE%A2%E4%B8%BB%E9%A2%98%E6%9B%B4%E6%96%B0%E6%9B%B4%E5%A5%BD%E8%AF%BB%E7%9A%84%E6%96%87%E7%AB%A0%E9%A1%B5%E5%92%8C%E4%BB%A3%E7%A0%81%E5%9D%97/) | 简介 给博客主题做了一轮更新，重点在阅读体验：字体加载更顺、文章页更宽更舒服、代码块加了工具栏、移动端也能看目录了。这篇记录下这次都改了哪些东西。 |
 | 2026-09-03 | [Building a Personal Manga Library with Komga](https://www.bboy.app/2026/09/03/building-a-personal-manga-library-with-komga/) | Introduction I recently set up my own manga library. I download the manga, put it into Komga running on Kubernetes, and read it on my iPhone with KMRe… |
 | 2026-09-03 | [用 Komga 搭一个自己的漫画库](https://www.bboy.app/2026/09/03/%E7%94%A8-komga-%E6%90%AD%E4%B8%80%E4%B8%AA%E8%87%AA%E5%B7%B1%E7%9A%84%E6%BC%AB%E7%94%BB%E5%BA%93/) | 简介 最近搭了一套自己的漫画库。漫画下载好以后放进 Komga，服务跑在 Kubernetes 里，iPhone 上用 KMReader 看。文件和阅读进度都在自己手里，用起来比我原来想的省事。 |
+| 2026-09-03 | [Writing following the F-pattern is a horrible horrible idea](https://www.geedea.pro/en/article/f-with-f-pattern/) | The F-shape reading pattern is a well-known UX design consideration. UI/UX designers make use of users’ tendency to scan only the first paragraph, fir… |
+| 2026-09-03 | [Memos: 终于、用上了 Google AI Pro 套餐](https://blog.yasking.org/a/1788433028) | 两个月前在闲鱼购买了个 18 月的 Google AI Pro 订阅，使用 小号 领取。 而后下载 Gemini Cli，登录后网页提示验证，提示需要输入手机号，一 … |
 | 2026-09-03 | [友链](https://liudon.com/links/) | 欢迎交换友链，但需要一定条件： 使用独立域名 内容以原创主，保持一定的更新频率 上线一年以上，内容十篇以上 本站友链相关信息： 站点名称：流动 站点地址：https://liudon.com 站点LOGO：https://liudon.com/avatar.png 申请友链时，请提供以下信息： |
 | 2026-09-03 | [星际杀手](https://mobius.blog/25588.html) | 星际杀手做好了打响指的准备，他再一次威胁谈判专家：“你知道我这个响指下去意味着什么，离我们最近的参宿四会立刻爆 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-09-03 | [我玩了下Robinhood罗宾汉链上的fomo](https://www.cheshirex.com/11070.html) | Robinhood罗宾汉是什么？ Robinhood是美国一个炒股APP，上面有很多散户股民。他在7月发了一个 […] |
