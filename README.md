@@ -27,6 +27,9 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-09-03 | [New Release: Prey](https://macsourceports.com/game/prey) | So, first things first: this is the 2006 game called Prey , not the more recent 2017 game called Prey . In keeping with the trend of melding the game… |
+| 2026-09-03 | [让下一台机器接着做（下）：我们如何设计一个可恢复的 Workflow Kernel](https://www.l1ch40.com/2026/09/designing-a-resilient-workflow-kernel-part-2.html) | 上篇解释了为什么「一个任务状态 + 一个从头跑到尾的函数」无法继续承载越来越长的任务处理链路，以及 Temporal 的 durable execution 思想给了我们什么启发。下篇进入实现：状态怎样分层，Worker 怎样接管中断任务，为什么 Redis 可以丢而 Mongo 不能丢，以及改造后… |
+| 2026-09-03 | [服务重启了，为什么用户的任务失败了？（上）：从长任务到 Workflow](https://www.l1ch40.com/2026/09/from-long-tasks-to-workflow-part-1.html) | 本文来自一次真实的长任务处理链路重构。上篇先讲一个在早期约束下成立、后来逐渐超出适用边界的设计：服务关停时，通过回调把一批未完成任务收敛为失败。然后从零解释 Workflow 是什么、它和任务队列、状态机、DAG 有什么区别，以及 Temporal 的设计思想如何影响了我们的选择。 本文内容仅为抽象… |
 | 2026-09-03 | [Blog Theme Update Easier-to-Read Articles and Code Blocks](https://www.bboy.app/2026/09/03/blog-theme-update-easier-to-read-articles-and-code-blocks/) | Introduction I just did a round of updates on the blog theme, mostly about the reading experience: fonts load more smoothly, article pages are wider a… |
 | 2026-09-03 | [博客主题更新：更好读的文章页和代码块](https://www.bboy.app/2026/09/03/%E5%8D%9A%E5%AE%A2%E4%B8%BB%E9%A2%98%E6%9B%B4%E6%96%B0%E6%9B%B4%E5%A5%BD%E8%AF%BB%E7%9A%84%E6%96%87%E7%AB%A0%E9%A1%B5%E5%92%8C%E4%BB%A3%E7%A0%81%E5%9D%97/) | 简介 给博客主题做了一轮更新，重点在阅读体验：字体加载更顺、文章页更宽更舒服、代码块加了工具栏、移动端也能看目录了。这篇记录下这次都改了哪些东西。 |
 | 2026-09-03 | [Building a Personal Manga Library with Komga](https://www.bboy.app/2026/09/03/building-a-personal-manga-library-with-komga/) | Introduction I recently set up my own manga library. I download the manga, put it into Komga running on Kubernetes, and read it on my iPhone with KMRe… |

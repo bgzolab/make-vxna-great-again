@@ -1,5 +1,26 @@
 [
   {
+    "title": "New Release: Prey",
+    "url": "https://macsourceports.com/game/prey",
+    "date": "2026-09-03T21:59:10Z",
+    "description": "So, first things first: this is the 2006 game called Prey , not the more recent 2017 game called Prey . In keeping with the trend of melding the game source with a related…",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "让下一台机器接着做（下）：我们如何设计一个可恢复的 Workflow Kernel",
+    "url": "https://www.l1ch40.com/2026/09/designing-a-resilient-workflow-kernel-part-2.html",
+    "date": "2026-09-03T20:09:54Z",
+    "description": "上篇解释了为什么「一个任务状态 + 一个从头跑到尾的函数」无法继续承载越来越长的任务处理链路，以及 Temporal 的 durable execution 思想给了我们什么启发。下篇进入实现：状态怎样分层，Worker 怎样接管中断任务，为什么 Redis 可以丢而 Mongo 不能丢，以及改造后增加了哪些恢复、干预和观察能力。 本文基于一套真实运行的业务实现整理。为避免暴露具体产品和内部结构，示例中的业务名称、类型数量、字段名和流程组合均经过泛化；状态转换、故障窗口和协议约束保持不变。没有数据支撑的成功率、吞吐或成本改善也不会被写成量化结论。 这套 Kernel 处理的核心问题是：在至少一次执行、进程随时退出和外部系统不受我们控制的条件下，怎样让一项工作持续、可控地走向唯一业务终态。 本文内容仅为抽象化的示范讲解，用于说明一类通用设计思路；文中的业务场景、字段名与执行细节均为虚构示例，不代表任何真实线上系统的实际执行逻辑；读者不需要了解原项目也可以独立阅读。 阅读词表 下篇会进入实现细节。下面这张表不要求读者记住字段名，只用来说明这些词分别在回答什么问题。 词 在本文中的含义 Wo",
+    "source_root_domain": "l1ch40.com"
+  },
+  {
+    "title": "服务重启了，为什么用户的任务失败了？（上）：从长任务到 Workflow",
+    "url": "https://www.l1ch40.com/2026/09/from-long-tasks-to-workflow-part-1.html",
+    "date": "2026-09-03T20:09:14Z",
+    "description": "本文来自一次真实的长任务处理链路重构。上篇先讲一个在早期约束下成立、后来逐渐超出适用边界的设计：服务关停时，通过回调把一批未完成任务收敛为失败。然后从零解释 Workflow 是什么、它和任务队列、状态机、DAG 有什么区别，以及 Temporal 的设计思想如何影响了我们的选择。 本文内容仅为抽象化的示范讲解，用于说明一类通用设计思路；文中的业务场景、字段名与执行细节均为虚构示例，不代表任何真实线上系统的实际执行逻辑；读者不需要了解原项目也可以独立阅读。 一个在早期约束下合理的关停逻辑 很长一段时间里，服务关停时会由一个回调把命中条件的处理中业务对象标记为失败。 这个选择有明确的工程背景。进程马上就要退出，内存中的 goroutine 也不会继续运行。将任务收敛到失败状态，可以避免用户长期看到「生成中」，也给后续重试留下一个明确入口。 服务运行在 Kubernetes 上，滚动部署时会进入优雅终止流程。Pod 的退出宽限期配置为五分钟： spec: terminationGracePeriodSeconds: 300 300 秒是从 Kubernetes 发出 SIGTERM 开始计",
+    "source_root_domain": "l1ch40.com"
+  },
+  {
     "title": "Blog Theme Update Easier-to-Read Articles and Code Blocks",
     "url": "https://www.bboy.app/2026/09/03/blog-theme-update-easier-to-read-articles-and-code-blocks/",
     "date": "2026-09-03T17:50:00Z",
