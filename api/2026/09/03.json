@@ -28,6 +28,13 @@
     "source_root_domain": "bboy.app"
   },
   {
+    "title": "海南之行后记",
+    "url": "https://blog.est.im/2026/stderr-28",
+    "date": "2026-09-03T12:51:00Z",
+    "description": "趁还记得，记录一些 起初是发现 嫦娥七号 在文昌发射，于是兴冲冲带着孩子去观看 CZ-5 发射 围绕着这个火箭发射基地做了大量调研；了解到很多知识： 发射基地分两块，一个是国发，一个是商发；CZ-5 在国发 国发最佳观赏地是 文昌县 门楼镇，淇水湾 发射前会封路，开车进不去 二话不说，定机票；无意中刷到 云闪付 有 -200 优惠，于是周五定闹钟抢票，抢到手。不过发现使用优惠，折腾了大半天发现 这优惠只能买去海南的单程，不能往返； 订单必须只有一人，而且必须是自己，付款人和乘机人必须是同一个人。 孩子未成年无法单独购票 未成年人在 -200 优惠之后附加购买，+100 折腾半天，感觉还比如直接一起打包买往返划算。囧 然后就是轰轰烈烈的定住处，观礼台。 因为时间比较接近了，发现价格贵得起飞，甚至一度想到骑电瓶车去路边看，考虑发射时间早上8点太早，很可能天气预报有雨于是作罢 选了一圈定 淇水湾五号 小区，价格 1500 。其实在门楼镇上有1200甚至900的，但是住宿条件更差。 然后，延迟一天，房东也爽快的答应延期一天入住； 但是返程机票已定，时间不够，于是折腾半天去改机票，每个人 -14",
+    "source_root_domain": "feedburner.com"
+  },
+  {
     "title": "Writing following the F-pattern is a horrible horrible idea",
     "url": "https://www.geedea.pro/en/article/f-with-f-pattern/",
     "date": "2026-09-03T12:00:32Z",
@@ -40,6 +47,13 @@
     "date": "2026-09-03T11:04:23Z",
     "description": "两个月前在闲鱼购买了个 18 月的 Google AI Pro 订阅，使用 小号 领取。 而后下载 Gemini Cli，登录后网页提示验证，提示需要输入手机号，一 …",
     "source_root_domain": "yasking.org"
+  },
+  {
+    "title": "如何优雅地更新 MACOS 系统上的软件",
+    "url": "http://yi.gs/post/duo_updater",
+    "date": "2026-09-03T10:59:00Z",
+    "description": "上一次更新正好是一年前，所以更新一下。 既然是为了更新而更新，就来写写如何更新吧 ；） TL;DR：直接看 「优雅的软件更新： Duo Updater」 小节。 关于 macOS 上的软件安装 与 iOS 正常情况下只能通过 App Store 安装 APP 不同，macOS 有类似 Windows 的自由度来安装和使用第三方软件。 在「设置」-「隐私与安全性」-「安全性」-「允许以下来源的应用程序」中开启「App Store 与已知开发者」后，不管是通过 Homebrew 还是软件官网下载，只要第三方软件满足以下两点即可直接使用： 有效代码签名（Developer ID 证书签名） 开发者加入 99 刀/年的 Apple Developer Program 来获取 Developer ID 证书。 苹果公证（Notarization） 开发者把签好名的 App 上传到 Apple Notary Service，苹果自动扫描通过后打上公证凭证。 关于 macOS 上的软件更新 安装后，新版强迫症患者总希望使用最新版本的软件，问题是 macOS 上的更新途径非常分散且不够优雅： Home",
+    "source_root_domain": "yi.gs"
   },
   {
     "title": "友链",
