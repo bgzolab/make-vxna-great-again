@@ -1,5 +1,40 @@
 [
   {
+    "title": "Building a Personal Manga Library with Komga",
+    "url": "https://www.bboy.app/2026/09/03/building-a-personal-manga-library-with-komga/",
+    "date": "2026-09-03T15:15:00Z",
+    "description": "Introduction I recently set up my own manga library. I download the manga, put it into Komga running on Kubernetes, and read it on my iPhone with KMReader. The files and reading progress stay under my control, and the whole setup is easier to use than I expected.",
+    "source_root_domain": "bboy.app"
+  },
+  {
+    "title": "用 Komga 搭一个自己的漫画库",
+    "url": "https://www.bboy.app/2026/09/03/%E7%94%A8-komga-%E6%90%AD%E4%B8%80%E4%B8%AA%E8%87%AA%E5%B7%B1%E7%9A%84%E6%BC%AB%E7%94%BB%E5%BA%93/",
+    "date": "2026-09-03T15:15:00Z",
+    "description": "简介 最近搭了一套自己的漫画库。漫画下载好以后放进 Komga，服务跑在 Kubernetes 里，iPhone 上用 KMReader 看。文件和阅读进度都在自己手里，用起来比我原来想的省事。",
+    "source_root_domain": "bboy.app"
+  },
+  {
+    "title": "友链",
+    "url": "https://liudon.com/links/",
+    "date": "2026-09-03T06:17:58Z",
+    "description": "欢迎交换友链，但需要一定条件： 使用独立域名 内容以原创主，保持一定的更新频率 上线一年以上，内容十篇以上 本站友链相关信息： 站点名称：流动 站点地址：https://liudon.com 站点LOGO：https://liudon.com/avatar.png 申请友链时，请提供以下信息：",
+    "source_root_domain": "liudon.com"
+  },
+  {
+    "title": "星际杀手",
+    "url": "https://mobius.blog/25588.html",
+    "date": "2026-09-03T06:00:00Z",
+    "description": "星际杀手做好了打响指的准备，他再一次威胁谈判专家：“你知道我这个响指下去意味着什么，离我们最近的参宿四会立刻爆 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。",
+    "source_root_domain": "onojyun.com"
+  },
+  {
+    "title": "我玩了下Robinhood罗宾汉链上的fomo",
+    "url": "https://www.cheshirex.com/11070.html",
+    "date": "2026-09-03T02:12:43Z",
+    "description": "Robinhood罗宾汉是什么？ Robinhood是美国一个炒股APP，上面有很多散户股民。他在7月发了一个 […]",
+    "source_root_domain": "cheshirex.com"
+  },
+  {
     "title": "一次优质离婚",
     "url": "https://www.hecaitou.com/2026/09/a-meaningful-divorce.html",
     "date": "2026-09-03T02:11:32Z",
@@ -14,11 +49,25 @@
     "source_root_domain": "onojyun.com"
   },
   {
+    "title": "Al Brooks 团队交易员 Rose 访谈复盘：震荡区间的本质、散户优势与 PF 考核法则",
+    "url": "https://blog.forecho.com/al-brooks-team-trader-rose-interview-insights.html",
+    "date": "2026-09-03T02:00:00Z",
+    "description": "引言 前几天看到了一期专访视频，嘉宾是 Al Brooks（阿布）团队的全职交易员兼直播交易员 Rose （她也是知名交易员 Tom Hougaard 极力推崇的搭档之一）。 整个访谈刨去前后的活动寒暄和洛杉矶闲聊，干货非常密集。Rose 从设计和艺术背景转行做交易，经历了亏损、重新学习、在 Al Brooks 团队全职交易 8 年，每天只盯标普 500（ES）5 分钟 K 线图。 她在访谈里分享了三个非常核心的交易认知： 为什么市场 80% 的时间是震荡区间（以及如何用限价单思维交易它） 、 散户对比机构的真正军事实时优势 ，以及 作为过来人，她如何打通 Prop Firm（自营交易公司）考核并实现提现 。 我把其中最有价值的交易逻辑和方法论系统整理了出来。 1. K 线是语言：你面对的是限价单市场，还是止损单市场？ 很多人学价格行为（Price Action），死记硬背各种蜡烛图形态，但一进实盘就亏钱。Rose 提出了一个非常生动的比喻： 每一根 K 线都是有性格的人，它们组合在一起是在进行一场对话 。 交易前首先要问自己两个问题： 今天市场处于什么情绪？ 当前是「止损单市场（St",
+    "source_root_domain": "forecho.com"
+  },
+  {
     "title": "个人 AGI：Jarvis 正在从科幻走进现实",
     "url": "https://www.linggandianbo.com/newsletter-137/",
     "date": "2026-09-02T23:30:41Z",
     "description": "几年前，我们还在惊叹 AI 能像人一样说话。现在，它开始记住我们、使用工具、操作电脑，把一句模糊的想法变成真实的结果。｜灵感电波 #137",
     "source_root_domain": "linggandianbo.com"
+  },
+  {
+    "title": "无需忧虑 无需挂虑",
+    "url": "https://blog.zzbd.org/miao20260903-3/",
+    "date": "2026-09-02T19:06:42Z",
+    "description": "亲爱的朋友，先停一下，深深吸一口气。如果今天心里有些沉、有些乱，请记得：你不是一个人在扛。愿下面的句子，像清晨的光，一寸一寸照进你的心。不急，慢慢读，读到哪一句心动了，就在那里停一停，多读几遍。",
+    "source_root_domain": "zzbd.org"
   },
   {
     "title": "Deploying LiteLLM on Kubernetes",
@@ -133,6 +182,27 @@
     "source_root_domain": "onojyun.com"
   },
   {
+    "title": "《菜根谭》潜心定心篇：褪去惶恐，沉气立身",
+    "url": "https://blog.zzbd.org/miao20260903-5/",
+    "date": "2026-09-02T00:23:41Z",
+    "description": "古人云：“咬得菜根，百事可做。”《菜根谭》一书，不尚浮华、不执功利，字字皆是修心养气、立身行事的人间大道。职场之人多惶恐、多紧绷、多内耗，并非境遇苛责，而是心浮气躁、执念太深、气息不稳。心浮，则遇事慌乱；念杂，则方寸大乱；气躁，则气场溃散。读懂《菜根谭》的静心之道，便能于繁杂工作、人际纷扰、压力起伏之中，沉下心、稳住气、定住神，做到处事有度、遇事不慌、得失不惊。",
+    "source_root_domain": "zzbd.org"
+  },
+  {
+    "title": "沉心自愈：成年人最顶级的清醒，是向内安顿自己",
+    "url": "https://blog.zzbd.org/miao20260903-1/",
+    "date": "2026-09-02T00:22:15Z",
+    "description": "人这一生，真正的修行，从来不是向外追逐、拼命讨好、刻意合群，而是学会与自己和解，与世界温柔相处。我们这一生所有的疲惫、焦虑、内耗、社交困顿、心态失衡，本质上都不是外界出了问题，而是我们的内心，长期处于动荡、慌张、不自安的状态里。",
+    "source_root_domain": "zzbd.org"
+  },
+  {
+    "title": "习武筑基养气，国学定心修身",
+    "url": "https://blog.zzbd.org/miao20260902/",
+    "date": "2026-09-02T00:17:22Z",
+    "description": "（静心稳气箴言集） 人心一日浮躁，气息一日紊乱；身形一日懈怠，心神一日涣散。习武以炼身，固本培元，收敛浮躁之气；读书以修心，明理守志，安定纷乱之神。武术基本功锤炼筋骨、规整气息，国学经典涵养心性、沉淀格局，二者相辅相成，外塑身形风骨，内养平和本心。今日以此文武箴言静心养气，沉身、定心、守神，褪去焦躁，稳住本心，从容度日，安稳前行。",
+    "source_root_domain": "zzbd.org"
+  },
+  {
     "title": "Memos #2026-09-01",
     "url": "https://www.taober.blog/memos/memo_20260901131413_wc7aih",
     "date": "2026-09-02T00:00:00Z",
@@ -227,7 +297,7 @@
     "title": "博客加速实践",
     "url": "https://liudon.com/posts/blog-performance-optimization/",
     "date": "2026-09-01T07:14:02Z",
-    "description": "记录一次博客完整的性能优化实践：响应式图片预生成和JS文件延迟加载。",
+    "description": "目前博客部署在 Cloudflare Pages 服务上，通过 DnsPod 服务做了国内和海外分线路解析。 Cloudflare Pages ↑ blog.liudon.xyz ↑ ↑ 回源 直接访问 │ │ 腾讯云 CDN │ ↑ ↑ 国内 海外 \\ / DNSPod ↑ liudon.com 因为 Cloudflare 在国内属于反向加速，所以加了一层国内CDN做加速。",
     "source_root_domain": "liudon.com"
   },
   {

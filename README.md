@@ -27,9 +27,16 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-09-03 | [Building a Personal Manga Library with Komga](https://www.bboy.app/2026/09/03/building-a-personal-manga-library-with-komga/) | Introduction I recently set up my own manga library. I download the manga, put it into Komga running on Kubernetes, and read it on my iPhone with KMRe… |
+| 2026-09-03 | [用 Komga 搭一个自己的漫画库](https://www.bboy.app/2026/09/03/%E7%94%A8-komga-%E6%90%AD%E4%B8%80%E4%B8%AA%E8%87%AA%E5%B7%B1%E7%9A%84%E6%BC%AB%E7%94%BB%E5%BA%93/) | 简介 最近搭了一套自己的漫画库。漫画下载好以后放进 Komga，服务跑在 Kubernetes 里，iPhone 上用 KMReader 看。文件和阅读进度都在自己手里，用起来比我原来想的省事。 |
+| 2026-09-03 | [友链](https://liudon.com/links/) | 欢迎交换友链，但需要一定条件： 使用独立域名 内容以原创主，保持一定的更新频率 上线一年以上，内容十篇以上 本站友链相关信息： 站点名称：流动 站点地址：https://liudon.com 站点LOGO：https://liudon.com/avatar.png 申请友链时，请提供以下信息： |
+| 2026-09-03 | [星际杀手](https://mobius.blog/25588.html) | 星际杀手做好了打响指的准备，他再一次威胁谈判专家：“你知道我这个响指下去意味着什么，离我们最近的参宿四会立刻爆 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
+| 2026-09-03 | [我玩了下Robinhood罗宾汉链上的fomo](https://www.cheshirex.com/11070.html) | Robinhood罗宾汉是什么？ Robinhood是美国一个炒股APP，上面有很多散户股民。他在7月发了一个 […] |
 | 2026-09-03 | [一次优质离婚](https://www.hecaitou.com/2026/09/a-meaningful-divorce.html) | 有 位读者联系我，劈头一句话：菜头，我离婚了，我们当初是在你开发的 APP 上认识的。才看到这个开头我就觉得胃疼，这么多年我对网友的路数实在太熟悉了，接下来肯定就是各种各样的「都怪你」，比如： 都怪你，你不开发这个 App，我命里就不会有这一劫。 不过这次还好，后面他话锋一转，说结婚四年，有个可爱的… |
 | 2026-09-03 | [跳皮筋](https://mobius.blog/25584.html) | 我小时候会跳皮筋，但更多是被抓去做那个帮别人固定皮筋的“桩子”，所以我也为此遭到过不少嘲笑：一说是跟女生玩女生 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
+| 2026-09-03 | [Al Brooks 团队交易员 Rose 访谈复盘：震荡区间的本质、散户优势与 PF 考核法则](https://blog.forecho.com/al-brooks-team-trader-rose-interview-insights.html) | 引言 前几天看到了一期专访视频，嘉宾是 Al Brooks（阿布）团队的全职交易员兼直播交易员 Rose （她也是知名交易员 Tom Hougaard 极力推崇的搭档之一）。 整个访谈刨去前后的活动寒暄和洛杉矶闲聊，干货非常密集。Rose 从设计和艺术背景转行做交易，经历了亏损、重新学习、在 Al… |
 | 2026-09-02 | [个人 AGI：Jarvis 正在从科幻走进现实](https://www.linggandianbo.com/newsletter-137/) | 几年前，我们还在惊叹 AI 能像人一样说话。现在，它开始记住我们、使用工具、操作电脑，把一句模糊的想法变成真实的结果。｜灵感电波 #137 |
+| 2026-09-02 | [无需忧虑 无需挂虑](https://blog.zzbd.org/miao20260903-3/) | 亲爱的朋友，先停一下，深深吸一口气。如果今天心里有些沉、有些乱，请记得：你不是一个人在扛。愿下面的句子，像清晨的光，一寸一寸照进你的心。不急，慢慢读，读到哪一句心动了，就在那里停一停，多读几遍。 |
 | 2026-09-02 | [Deploying LiteLLM on Kubernetes](https://www.bboy.app/2026/09/02/deploying-litellm-on-kubernetes/) | Introduction I have access to LLM APIs from several different providers. I use Hermes for all kinds of tasks, and I do not want to edit the Hermes con… |
 | 2026-09-02 | [在Kubernetes中部署LiteLLM](https://www.bboy.app/2026/09/02/%E5%9C%A8kubernetes%E4%B8%AD%E9%83%A8%E7%BD%B2litellm/) | 简介 我手里有多个渠道的大模型接口。平时用 Hermes 跑各种任务，换模型的时候不想每次去改 Hermes 的配置。所以搭了个 LiteLLM，把不同渠道的模型收进同一个 OpenAI 兼容接口。Hermes 只需要配置一次，之后想切换底层模型，在 LiteLLM 的管理页面把模型映射改一下就行。… |
 | 2026-09-02 | [人人都能玩的 AI 玩具 —— AI Passport](https://veryjack.com/technique/ai_passport/) | 最近 TRAE AI 创意大会上的一款“电子工牌”受到了广大网友的关注。它只有一张卡片大小，配备一块 240 × 320 的小屏幕，没有触屏，控制全靠几个实体按钮，内存也只有区区 8 MB。放在当下，这个硬件配置可谓是“拉完了”，但在网络上却异常火热。早鸟价仅 99 元，在正式售卖前，闲鱼上的价格甚… |
@@ -46,6 +53,9 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-09-02 | [AI 小项目盘点：第一期](https://blog.zzbd.org/vibe-project-1/) | 刚刚看到一个帖子 Fable5.1，四冲程柴油机测试 ，效果叹为观止，现在的 AI 能力恐怖如斯。 正好最近用 hermes 折腾了些小项目，简单记录一下。 |
 | 2026-09-02 | [金仓 KMonitor 自带 Prometheus 接入 VictoriaMetrics 记录](https://199604.com/3677) | 金仓 KMonitor 自带 Prometheus 接入 VictoriaMetrics 记录 记录时间：20 […] |
 | 2026-09-02 | [哪有厨师天天自己逛菜市场的？](https://mobius.blog/25578.html) | 接着《一饭封神》的话题。 人们向来也喜欢看到一种剧情——恶人有恶报。特别是恶人在对善人做出不利行为之后，善人仍 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
+| 2026-09-02 | [《菜根谭》潜心定心篇：褪去惶恐，沉气立身](https://blog.zzbd.org/miao20260903-5/) | 古人云：“咬得菜根，百事可做。”《菜根谭》一书，不尚浮华、不执功利，字字皆是修心养气、立身行事的人间大道。职场之人多惶恐、多紧绷、多内耗，并非境遇苛责，而是心浮气躁、执念太深、气息不稳。心浮，则遇事慌乱；念杂，则方寸大乱；气躁，则气场溃散。读懂《菜根谭》的静心之道，便能于繁杂工作、人际纷扰、压力起伏… |
+| 2026-09-02 | [沉心自愈：成年人最顶级的清醒，是向内安顿自己](https://blog.zzbd.org/miao20260903-1/) | 人这一生，真正的修行，从来不是向外追逐、拼命讨好、刻意合群，而是学会与自己和解，与世界温柔相处。我们这一生所有的疲惫、焦虑、内耗、社交困顿、心态失衡，本质上都不是外界出了问题，而是我们的内心，长期处于动荡、慌张、不自安的状态里。 |
+| 2026-09-02 | [习武筑基养气，国学定心修身](https://blog.zzbd.org/miao20260902/) | （静心稳气箴言集） 人心一日浮躁，气息一日紊乱；身形一日懈怠，心神一日涣散。习武以炼身，固本培元，收敛浮躁之气；读书以修心，明理守志，安定纷乱之神。武术基本功锤炼筋骨、规整气息，国学经典涵养心性、沉淀格局，二者相辅相成，外塑身形风骨，内养平和本心。今日以此文武箴言静心养气，沉身、定心、守神，褪去焦躁… |
 | 2026-09-02 | [Memos #2026-09-01](https://www.taober.blog/memos/memo_20260901131413_wc7aih) | 21:14 下班打车，一上车一股子榔子味，问师傅讨了一个😁 |
 | 2026-09-01 | [曼远/曼掌/曼丢：佛是大家的，鬼是各家的](https://macin.org/2026/09/01/dai-zu-zhai-zi/) | 阅读全文 → 飞机降落嘎洒机场那一刻，舷窗外是成片的橡胶林和红土地，热浪裹着湿气扑进机舱。 |
 | 2026-09-01 | [The Evolution of Modern Naval Combat, from the First Sino-Japanese War](https://victor42.eth.limo/post-en/the-evolution-of-naval-warfare/) | I was putting together a travel plan when my mind drifted onto a naval battlefield. I’m about to take the family to Weihai. It is a city that still ca… |
@@ -60,7 +70,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-09-01 | [最近惦念 20260820](https://z.arlmy.me/posts/TILs/thoughts/20260820_Recently/) | 「珍惜闲暇。」 |
 | 2026-09-01 | [入蜀记 day464 love thyself last](https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_464/) | 「love thyself last。」 |
 | 2026-09-01 | [入蜀记 day463 BIGGER Art Fair](https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_463/) | 「BIGGER Art Fair。」 |
-| 2026-09-01 | [博客加速实践](https://liudon.com/posts/blog-performance-optimization/) | 记录一次博客完整的性能优化实践：响应式图片预生成和JS文件延迟加载。 |
+| 2026-09-01 | [博客加速实践](https://liudon.com/posts/blog-performance-optimization/) | 目前博客部署在 Cloudflare Pages 服务上，通过 DnsPod 服务做了国内和海外分线路解析。 Cloudflare Pages ↑ blog.liudon.xyz ↑ ↑ 回源 直接访问 │ │ 腾讯云 CDN │ ↑ ↑ 国内 海外 \ / DNSPod ↑ liudon.com… |
 | 2026-09-01 | [真希望模型厂商能学学人家这种定价方式，直](https://versun.me/blog/tweet-2094673180430610898) | ollama Ollama’s Pro, Max, and Team plans now use transparent per-token pricing. Based on your feedback, every plan includes a monthly pool of usage cr… |
 | 2026-09-01 | [2026.8.31](https://www.justzht.com/2026-8-31/) | 很流水账的一篇。 周六开大车陪搬家的朋友去收 fb market 上的二手家具。我对这种事情有种莫名的兴致，不管是开 UHaul 还 |
 | 2026-09-01 | [认领罗曼望远镜像素点](https://www.liesauer.net/blog/post/1042.html) | :point_right: [跃迁点坐标](https://science.nasa.gov/mission/roman-space-telescope/adopt-a-pixel/ "跃迁点坐... |
