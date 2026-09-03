@@ -27,6 +27,9 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-09-03 | [一次优质离婚](https://www.hecaitou.com/2026/09/a-meaningful-divorce.html) | 有 位读者联系我，劈头一句话：菜头，我离婚了，我们当初是在你开发的 APP 上认识的。才看到这个开头我就觉得胃疼，这么多年我对网友的路数实在太熟悉了，接下来肯定就是各种各样的「都怪你」，比如： 都怪你，你不开发这个 App，我命里就不会有这一劫。 不过这次还好，后面他话锋一转，说结婚四年，有个可爱的… |
+| 2026-09-03 | [跳皮筋](https://mobius.blog/25584.html) | 我小时候会跳皮筋，但更多是被抓去做那个帮别人固定皮筋的“桩子”，所以我也为此遭到过不少嘲笑：一说是跟女生玩女生 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
+| 2026-09-02 | [个人 AGI：Jarvis 正在从科幻走进现实](https://www.linggandianbo.com/newsletter-137/) | 几年前，我们还在惊叹 AI 能像人一样说话。现在，它开始记住我们、使用工具、操作电脑，把一句模糊的想法变成真实的结果。｜灵感电波 #137 |
 | 2026-09-02 | [Deploying LiteLLM on Kubernetes](https://www.bboy.app/2026/09/02/deploying-litellm-on-kubernetes/) | Introduction I have access to LLM APIs from several different providers. I use Hermes for all kinds of tasks, and I do not want to edit the Hermes con… |
 | 2026-09-02 | [在Kubernetes中部署LiteLLM](https://www.bboy.app/2026/09/02/%E5%9C%A8kubernetes%E4%B8%AD%E9%83%A8%E7%BD%B2litellm/) | 简介 我手里有多个渠道的大模型接口。平时用 Hermes 跑各种任务，换模型的时候不想每次去改 Hermes 的配置。所以搭了个 LiteLLM，把不同渠道的模型收进同一个 OpenAI 兼容接口。Hermes 只需要配置一次，之后想切换底层模型，在 LiteLLM 的管理页面把模型映射改一下就行。… |
 | 2026-09-02 | [人人都能玩的 AI 玩具 —— AI Passport](https://veryjack.com/technique/ai_passport/) | 最近 TRAE AI 创意大会上的一款“电子工牌”受到了广大网友的关注。它只有一张卡片大小，配备一块 240 × 320 的小屏幕，没有触屏，控制全靠几个实体按钮，内存也只有区区 8 MB。放在当下，这个硬件配置可谓是“拉完了”，但在网络上却异常火热。早鸟价仅 99 元，在正式售卖前，闲鱼上的价格甚… |
@@ -176,23 +179,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-08-27 | [公共厕所与公共知识](https://mobius.blog/25511.html) | “竹知了”开了个好头，以至于这一次“公共厕所”引起的热度比“竹知了”还快，甚至已经有人制作出了可以手动调整公共 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-08-27 | [拼多多百亿补贴卖给了我一个二手路由器（已经烧坏了）](https://www.cheshirex.com/11030.html) | 2023年12月我买了个小米BE6500Pro路由器，当时是看这个路由器有2.5G网口并且内置米家的蓝牙中枢网 […] |
 | 2026-08-27 | [Memos #2026-08-26](https://www.taober.blog/memos/memo_20260826125704_5jg1z9) | 20:57 顶级吃法：麦当劳薯条沾甜筒！ 甜加咸，冷加热，好吃到打摆子！ |
-| 2026-08-26 | [《欢迎来到龙餐馆》美国眼泪、儿童炸弹，和那盘不走心的中国菜](https://blog.mzh.ren/zh/posts/2026/08/once-upon-a-time-in-the-middle-east/) | 2026 年，电影市场已经是日薄西山了，但还是爆发不少有争议的电影。比如，既有叫好又叫座、有情又有义的《给阿嬷的情书》；也有“走个面”的《抓特务》；还有炒冷饭都能失手的《功夫女足》；以及击穿电影工业下限的《牛来》。当然，我觉得其中最最离谱的是这两部： |
-| 2026-08-26 | [新手如何上手自营交易（Prop Firm）：FundedNext 保姆级开户与配置指南](https://blog.forecho.com/fundednext-prop-firm-beginner-guide.html) | 引言 很多刚接触期货自营交易（Prop Firm / PF）的新手，经常在第一步就被各种英文术语、账户类型和平台登录给搞懵了。 自营交易简单来说，就是你花几十美元买一个考核账号，用平台提供的模拟资金在真实市场里交易。只要达成目标且不触碰最大回撤，就能通过考核并拿到出金分成。它最大的好处是用有限的报名… |
-| 2026-08-26 | [玩了 1 年半 Prop Firm，我才搞懂考试号和出金号的玩法](https://blog.forecho.com/prop-firm-evaluation-and-funded-account-strategy.html) | 引言 我玩 Prop Firm（期货自营交易）已经一年半了，前后买号花了不少钱，却一直没有顺利通过考试拿到出金。 前几天我看了一期专门讲期货自营交易底层逻辑和数学计算的视频，看完之后整个人愣住了。我才意识到，我这一年半完全在用做实盘和出金号的思路在打考试号。 我平时特别怕自己亏钱上头，所以在软件里设… |
-| 2026-08-26 | [玩车日志](https://elmagnifico.tech/2026/08/27/Car-Record/) | Foreword 五一以后就只下场跑了两次赛道。前一次是懂车帝 6.14 珠海站 L2-车手启航计划-进阶特训，这次是 8.22 车手启航计划-超级赛道日-珠海站。中间还去了对话灿哥，以及小米 CTCC 的珠海观赛。 两次都在跟天气预报对赌，两次都输了。 懂车帝 L2 进阶特训 天气预报要下雨，准备… |
-| 2026-08-26 | [解锁网易云音乐歌曲 轻松搭建飞牛音乐私人音乐库](https://chengpeiquan.com/article/netease-cloud-music-fnnas-music-organizer) | 飞牛 NAS 终于上线了音乐，真是激动人心！ 虽然我自己的网易云音乐账号早在 2018 还是 19 年就已经到了 Lv.10 ，每年也通过 88VIP 送的音乐会员当着丐版 VIP ，但不论是网易云音乐还是 QQ 音乐，这些平台的付费体验和版权分散、版权失效没得听等问题，一直让人一言难尽。 Appl… |
-| 2026-08-26 | [模糊规则与最终解释权](https://blog.solazy.me/20260826/) | 弹性工作和不打卡有时候并不代表自由 |
-| 2026-08-26 | [中元节随笔](https://blog.mfwt.top/index.php/archives/1556/) | 农历七月十四，中元节。有人可能要说了，这站长迷糊了，中元节不是七月十五么？其实在华南地区，至少在广东，至少在我们这，中元节是习惯放在七月十四过的。这恐怕又是历史上的某一个事件导致的，不去深究它，... |
-| 2026-08-26 | [Rack-auto 裸金属服务器自动化](https://songxwn.com/Rack-auto/) | 简介 把机房里的服务器从「按开机键、插 U 盘」变成「网页里点一下」完成裸金属服务器开局。 支持主流Linux和Windows Server自动化装机 可自动化安装系统、密码/密钥、分区、网卡配置等。 Windows Server 19-25支持自动KMS激活。 支持Linux 发行版有Debian… |
-| 2026-08-26 | [横版闯关小游戏 by Godot](https://7gugu.com/index.php/2026/08/26/%e6%a8%aa%e7%89%88%e9%97%af%e5%85%b3%e5%b0%8f%e6%b8%b8%e6%88%8f-by-godot/) | 继续学习制作Godot小游戏 瓦片编辑器真的好方便可以随便就能选中自己需要的素材，但是这个素材绘制不知道自己要 … 继续阅读 “横版闯关小游戏 by Godot” |
-| 2026-08-26 | [如何选择 DeepSeekHarnes / Claude Code/Codex/ Pi](https://www.ixiqin.com/2026/08/26/how-to-choose-depseekharnes-claude-code-codex-pi/) | 文章将 Agent 工具分为 Coding Agent 产品、Agent SDK 和 Agent Framework，建议先根据使用目的选择类别，再比较具体工具。Coding Agent 的选择取决于预算、模型偏好、自定义需求以及是否想尝试递归自进化 … |
-| 2026-08-26 | [入蜀记 day457 桂花香！](https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_457/) | 「桂花香！」 |
-| 2026-08-26 | [入蜀记 day456 自指](https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_456/) | 「自指。」 |
-| 2026-08-26 | [入蜀记 day455 排泄的仍是信息](https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_455/) | 「排泄的仍是信息。」 |
-| 2026-08-26 | [Centos6.5 LVM跨盘数据盘缩容回收与替换扩容](https://199604.com/3664) | Centos6.5 LVM跨盘数据盘缩容回收与替换扩容 记录时间：2026-08-26 环境：RHEL 6.5 […] |
-| 2026-08-26 | [赛博复古](https://www.hecaitou.com/2026/08/Cyber-Nostalgia.html) | 在许多描写未来世界的影视剧里，你一定看过那种类似香港老街的场景，然而其中又充斥着各种高科技的玩意儿，形成了一种混杂而迷乱的风格。为什么现代科技和古老的木楼、牌匾、霓虹灯会在同一处出现？为什么不是单一的冷酷未来风？昨天我在回答一个读者的提问时，找到了一个可能的答案。 当时这位读者问我：每天看你用 AI… |
-| 2026-08-26 | [偶像崩塌三部曲](https://mobius.blog/25504.html) | 偶像偶像，呕吐的对象～ 小时候我们常常拿这句话去羞讽其他人的“偶像”，虽然现在看起来很幼稚，但那个时候确实能够 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
-| 2026-08-26 | [感觉推上我最穷 动不动买DGX，还是两台](https://versun.me/blog/tweet-2092402312832860469) | 雷电芽衣 1000关注者啦！！！！！！太开心了！！！！ 感谢所有人。 点赞转发加关注，抽一个人送1000人民币以内的礼物，也可以直接折现。 感觉推上我最穷 动不动买DGX，还是两台 动不动买大内存的mac mini 动不动就抽奖送钱的😭 大哥抽我，狠狠的 |
 
 ## Vibe Coding
 

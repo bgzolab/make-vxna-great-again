@@ -1,0 +1,303 @@
+[
+  {
+    "title": "一次优质离婚",
+    "url": "https://www.hecaitou.com/2026/09/a-meaningful-divorce.html",
+    "date": "2026-09-03T02:11:32Z",
+    "description": "有 位读者联系我，劈头一句话：菜头，我离婚了，我们当初是在你开发的 APP 上认识的。才看到这个开头我就觉得胃疼，这么多年我对网友的路数实在太熟悉了，接下来肯定就是各种各样的「都怪你」，比如： 都怪你，你不开发这个 App，我命里就不会有这一劫。 不过这次还好，后面他话锋一转，说结婚四年，有个可爱的孩子，如今已经搬出家去，内心非常后悔且不甘。然后，他做了一番反思，觉得问题出在自己身上，说自己是属于某一种什么人格，我也不懂，现在新名词很多，学不过来。 问题想清楚了，婚姻也没了，有千万句话不知道对谁说，只能来找我聊两句。最后，他带着歉意说，自己是在我开发的 APP 上认识的前妻，因而得到了婚姻，最后却让自己亲手给搞砸了。 本来我都低下头等着挨骂，然后反手一个拉黑断了因果，没想到读到最后会是这个样子。一时之间内心泛滥，却又不知道从何说起。 记得 有种说法，如果不考虑死亡的话，人生中最痛苦的两件事莫过于搬家和离婚。离婚对于一个人的打击很大，无论是其中哪一方，哪怕是迫不及待逃离婚姻的那一方也是如此。因为离婚很容易被理解为失败，而且是系列失败，从识人开始，到相恋，再到相处，全都是人生失败。错误的选",
+    "source_root_domain": "hecaitou.com"
+  },
+  {
+    "title": "跳皮筋",
+    "url": "https://mobius.blog/25584.html",
+    "date": "2026-09-03T02:02:19Z",
+    "description": "我小时候会跳皮筋，但更多是被抓去做那个帮别人固定皮筋的“桩子”，所以我也为此遭到过不少嘲笑：一说是跟女生玩女生 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。",
+    "source_root_domain": "onojyun.com"
+  },
+  {
+    "title": "个人 AGI：Jarvis 正在从科幻走进现实",
+    "url": "https://www.linggandianbo.com/newsletter-137/",
+    "date": "2026-09-02T23:30:41Z",
+    "description": "几年前，我们还在惊叹 AI 能像人一样说话。现在，它开始记住我们、使用工具、操作电脑，把一句模糊的想法变成真实的结果。｜灵感电波 #137",
+    "source_root_domain": "linggandianbo.com"
+  },
+  {
+    "title": "Deploying LiteLLM on Kubernetes",
+    "url": "https://www.bboy.app/2026/09/02/deploying-litellm-on-kubernetes/",
+    "date": "2026-09-02T17:15:00Z",
+    "description": "Introduction I have access to LLM APIs from several different providers. I use Hermes for all kinds of tasks, and I do not want to edit the Hermes configuration every time I switch models. So I set up LiteLLM and put the models from those different providers behind one OpenAI-compatible API. Hermes only needs to be configured once. After that, when I want to switch the underlying model, I just change the model mapping in the LiteLLM admin UI. I first got everything working locally and confirmed ",
+    "source_root_domain": "bboy.app"
+  },
+  {
+    "title": "在Kubernetes中部署LiteLLM",
+    "url": "https://www.bboy.app/2026/09/02/%E5%9C%A8kubernetes%E4%B8%AD%E9%83%A8%E7%BD%B2litellm/",
+    "date": "2026-09-02T17:15:00Z",
+    "description": "简介 我手里有多个渠道的大模型接口。平时用 Hermes 跑各种任务，换模型的时候不想每次去改 Hermes 的配置。所以搭了个 LiteLLM，把不同渠道的模型收进同一个 OpenAI 兼容接口。Hermes 只需要配置一次，之后想切换底层模型，在 LiteLLM 的管理页面把模型映射改一下就行。 先在本机跑通，确认模型真能调用，再搬到 Kubernetes。最终接了 PostgreSQL、Redis、Traefik 和 ArgoCD。这篇记录一下完整配置，还有中间碰到的几个坑。",
+    "source_root_domain": "bboy.app"
+  },
+  {
+    "title": "人人都能玩的 AI 玩具 —— AI Passport",
+    "url": "https://veryjack.com/technique/ai_passport/",
+    "date": "2026-09-02T15:56:24Z",
+    "description": "最近 TRAE AI 创意大会上的一款“电子工牌”受到了广大网友的关注。它只有一张卡片大小，配备一块 240 × 320 的小屏幕，没有触屏，控制全靠几个实体按钮，内存也只有区区 8 MB。放在当下，这个硬件配置可谓是“拉完了”，但在网络上却异常火热。早鸟价仅 99 元，在正式售卖前，闲鱼上的价格甚至被炒到了好几百。 我也在预售开启的第一时间下了单，目前到手玩了三天，正好和大家分享一下这款有意思的 AI 玩具。 人人都能玩的 AI 玩具 —— AI Passport 最先出现在 Jack's Space 。",
+    "source_root_domain": "veryjack.com"
+  },
+  {
+    "title": "20260902的胡言乱语",
+    "url": "https://www.bboy.app/2026/09/02/20260902%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/",
+    "date": "2026-09-02T15:30:55Z",
+    "description": "简介 欢迎关注我的频道，不时发送垃圾消息 https://t.me/bboyapp 或者关注我的 twitter https://twitter.com/bboysoulcn",
+    "source_root_domain": "bboy.app"
+  },
+  {
+    "title": "Random Thoughts - 20260902",
+    "url": "https://www.bboy.app/2026/09/02/random-thoughts-20260902/",
+    "date": "2026-09-02T15:30:55Z",
+    "description": "Introduction Welcome to follow my channel, where I occasionally share random messages https://t.me/bboyapp Or follow me on Twitter https://twitter.com/bboysoulcn",
+    "source_root_domain": "bboy.app"
+  },
+  {
+    "title": "Generated work should not be published.",
+    "url": "https://www.geedea.pro/en/article/on-llm-work/",
+    "date": "2026-09-02T14:18:20Z",
+    "description": "I’ve been looking closely at some of my Mac apps, and I noticed how SuperCMD haven’t fixed their homebrew cask issue even though somemone created a Pull Request months ago. Warnings pop up everytime I run brew update and it annoys me. I looked through the repository, and could not help but notice how much contribution Claude had made and that they lack an LLM policy. Well, I’d rather not have unreviewed TypeScript written by Claude running on my laptop. The alternative I found is vicinae . For a",
+    "source_root_domain": "geedea.pro"
+  },
+  {
+    "title": "和校园网斗智斗勇的日子（第九辑）",
+    "url": "https://blog.mfwt.top/index.php/archives/1570/",
+    "date": "2026-09-02T13:53:00Z",
+    "description": "两年了，我去，时间过得真快。这个系列的第八辑已经是很久之前的事情了，当然前面其实还有另外七集，不过因为那都是老学校的情况，和本文已经没有太大关系，因此不再放出目录，感兴趣的朋友可以到第八辑的页面...",
+    "source_root_domain": "mfwt.top"
+  },
+  {
+    "title": "谁在替你的生疏买单",
+    "url": "https://blog.solazy.me/20260902/",
+    "date": "2026-09-02T11:00:00Z",
+    "description": "今天聊一个中午吃饭时候发生的事情",
+    "source_root_domain": "solazy.me"
+  },
+  {
+    "title": "Memos: 推荐试试 oh-my-pi Agent",
+    "url": "https://blog.yasking.org/a/1788343823",
+    "date": "2026-09-02T10:10:23Z",
+    "description": "同事推荐的，我下载试了试，可以连接到 ChatGPT、Cursor、Claude..及各种订阅，使用其订阅额度。 相较于 ChatGPT（Codex），使用同样的 OpenAI 的 5.6 Luna High，OMP 运行 …",
+    "source_root_domain": "yasking.org"
+  },
+  {
+    "title": "可感",
+    "url": "https://z.arlmy.me/posts/Poems/2026/20260831_KeGan/",
+    "date": "2026-09-02T08:50:27Z",
+    "description": "「可感。」",
+    "source_root_domain": "arlmy.me"
+  },
+  {
+    "title": "旧书店",
+    "url": "https://z.arlmy.me/posts/Poems/2026/20260813_JiuShuDian/",
+    "date": "2026-09-02T08:44:27Z",
+    "description": "「旧书店。」",
+    "source_root_domain": "arlmy.me"
+  },
+  {
+    "title": "Maven 多模块 Spring Boot repackage 让被依赖模块变成 fat jar 的编译失败问题",
+    "url": "https://199604.com/3679",
+    "date": "2026-09-02T05:51:33Z",
+    "description": "Maven 多模块 Spring Boot repackage 让被依赖模块变成 fat jar 的编译失败问 […]",
+    "source_root_domain": "199604.com"
+  },
+  {
+    "title": "小学算术视野下的人生",
+    "url": "https://www.hecaitou.com/2026/09/life-through-the-lens-of-grade-school-arithmetic.html",
+    "date": "2026-09-02T03:55:41Z",
+    "description": "假设每个人平均可以活 80 年，22 岁开始上班，60 岁退休，那么，上班的 38 年是 80 年人生的 47.5%，也就是说，为了保障自己的人生，需要用生命的近一半去上班。 而每个人每天睡 8 小时，占一天的⅓，计算下来，人生的 33.33% 用于睡觉休息。如果这样计算的话，人生未免有些悲观，休息和打工已经占用了 80% 的人生，只有 20% 算是自己的。 但这里还有一种算法，不去计算工作日，而是计算工作时长。假设一周工作 5 天，每天工作 8 小时。同时，把通勤时间计入，再把午休时间加上---午休是工作带来的，并不真正属于自己。调整算法之后，工作时间占人生的 16%。 16% 加上 33%，依然占人生一半。换句话来说，每个早晨起床，睁开眼睛的一瞬间，这一天就只有半天属于你自己。当然，这依然是很乐观的算法。为了保障生活顺利进行，每天还要花时间在孩子身上，在伴侣身上，在应酬上，在买菜做饭维修理发购物看病等等等等这些事情上，都是强制任务，不能随意取消。 所以，用小学算术计算一下就知道，即便一个人活 80 年，人生中的大部分时间都不属于自己，最少有一半早已经被占用。如果每天能给自己留下一两",
+    "source_root_domain": "hecaitou.com"
+  },
+  {
+    "title": "AI 小项目盘点：第一期",
+    "url": "https://blog.zzbd.org/vibe-project-1/",
+    "date": "2026-09-02T02:31:05Z",
+    "description": "刚刚看到一个帖子 Fable5.1，四冲程柴油机测试 ，效果叹为观止，现在的 AI 能力恐怖如斯。 正好最近用 hermes 折腾了些小项目，简单记录一下。",
+    "source_root_domain": "zzbd.org"
+  },
+  {
+    "title": "金仓 KMonitor 自带 Prometheus 接入 VictoriaMetrics 记录",
+    "url": "https://199604.com/3677",
+    "date": "2026-09-02T02:24:53Z",
+    "description": "金仓 KMonitor 自带 Prometheus 接入 VictoriaMetrics 记录 记录时间：20 […]",
+    "source_root_domain": "199604.com"
+  },
+  {
+    "title": "哪有厨师天天自己逛菜市场的？",
+    "url": "https://mobius.blog/25578.html",
+    "date": "2026-09-02T01:30:00Z",
+    "description": "接着《一饭封神》的话题。 人们向来也喜欢看到一种剧情——恶人有恶报。特别是恶人在对善人做出不利行为之后，善人仍 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。",
+    "source_root_domain": "onojyun.com"
+  },
+  {
+    "title": "Memos #2026-09-01",
+    "url": "https://www.taober.blog/memos/memo_20260901131413_wc7aih",
+    "date": "2026-09-02T00:00:00Z",
+    "description": "21:14 下班打车，一上车一股子榔子味，问师傅讨了一个😁",
+    "source_root_domain": "taober.blog"
+  },
+  {
+    "title": "曼远/曼掌/曼丢：佛是大家的，鬼是各家的",
+    "url": "https://macin.org/2026/09/01/dai-zu-zhai-zi/",
+    "date": "2026-09-01T21:53:38Z",
+    "description": "阅读全文 → 飞机降落嘎洒机场那一刻，舷窗外是成片的橡胶林和红土地，热浪裹着湿气扑进机舱。",
+    "source_root_domain": "macin.org"
+  },
+  {
+    "title": "The Evolution of Modern Naval Combat, from the First Sino-Japanese War",
+    "url": "https://victor42.eth.limo/post-en/the-evolution-of-naval-warfare/",
+    "date": "2026-09-01T19:07:00Z",
+    "description": "I was putting together a travel plan when my mind drifted onto a naval battlefield. I’m about to take the family to Weihai. It is a city that still carries a historical scar, and that scar is the First Sino-Japanese War. People’s picture of the First Sino-Japanese War is probably Deng Shichang’s tragic figure, shouting that he would ram Yoshino, driving Zhiyuan into a charge. Strictly speaking, that was the war’s Battle of the Yellow Sea, fought near the Korean Peninsula. Military history’s offi",
+    "source_root_domain": "eth.limo"
+  },
+  {
+    "title": "从甲午战争说起：近现代海战形式的变迁",
+    "url": "https://victor42.eth.limo/post/the-evolution-of-naval-warfare/",
+    "date": "2026-09-01T19:07:00Z",
+    "description": "正做着旅行攻略，思绪飘到海战现场。 即将带家人去威海度假。威海是一座承载着历史伤疤的城市，这伤疤，指的就是甲午战争。 大家对甲午战争的印象，可能是邓世昌的悲壮身影，高呼着撞沉吉野，指挥致远号冲锋。不过严格来说，那是甲午战争中的黄海海战，发生在朝鲜半岛附近。军事史正式名称为大东沟海战，对中国来说黄海海战只有一个，但对世界来说还有别的黄海海战。 威海与甲午战争的关系，更多在后半段，是北洋水师最终被困在港内全军覆没的故事。当然，现代的威海绝对有它精彩的一面，那部分我旅行归来游记里再写。这篇我们来看看发生在威海以外的故事。 黄海海战：机动战的优势 甲午战争黄海海战，其实是海战史上两条技术路线第一次在现实中对决：德式堡垒舰与英法高速巡洋舰。这也是历史上第一次蒸汽动力海军的大规模战斗。 此战双方舰船数量相当。北洋水师从德国采购2艘重甲堡垒舰，定远号与镇远号，关键位置装甲厚度可达300mm级别，但火炮射速比较低，弹药是当时主流的穿甲弹，物理撞击为主。老电影《甲午风云》曾演绎过致远号炮弹火药被换成沙子，导致无法战斗才选择撞击，但这严格说不算颐和园之祸。掺沙子给动能弹增重确实是当时海军的合理做法，真正装",
+    "source_root_domain": "eth.limo"
+  },
+  {
+    "title": "时代在召唤",
+    "url": "https://hux.ink/posts/grade-1/",
+    "date": "2026-09-01T15:05:12Z",
+    "description": "今天 9 月 1 日，正式开学。作为一年级萌新，娃在前两天已经到小学进行了为期一天半的适应性训练。今天，迎来了真正意义上的小学生活。 昨天发新书，说好的晚上和他一起包书皮，结果包着包着，他跑去玩玩具去了，留我一人给他一本一本包。 包书皮的时候，20 多年前的一些记忆自动浮现。那时候我们包书皮用的是报纸，不像现在，直接买透明书膜，裁剪一下就能用。 但有个问题一直想不明白：明明那时候家里没人订报纸，也没人读报纸，那些包书皮的报纸到底从哪里来的？想来想去，好像只有一个来源——买回来如厕用的。 包完书皮，我又简单翻了翻他的课本。一年级一共有 6 本书：语文、数学、英语、科学、艺术、道德与法治。 想想我自己的一年级，当时应该也就四五本书。除了语文和数学，印象里还有自然、美术、思想品德。自然课本当年我们最爱，因为会附赠一些配套教具，童年里难得的小玩具。 至于英语，那时候压根没有这个概念。我第一次接触英语，是从初一。 翻开语文课本，是一种熟悉又陌生的感觉。 我们当年是从“a o e i u ü”汉语拼音学起，学声母、韵母、声调。作业题中最常见的一句话就是：“不会写的字可以用拼音代替。” 而现在的一年",
+    "source_root_domain": "hux.ink"
+  },
+  {
+    "title": "读《鱼不存在》",
+    "url": "https://www.quji.org/archives/8826?pk_campaign=feed&pk_kwd=%25e8%25af%25bb%25e3%2580%258a%25e9%25b1%25bc%25e4%25b8%258d%25e5%25ad%2598%25e5%259c%25a8%25e3%2580%258b",
+    "date": "2026-09-01T14:49:30Z",
+    "description": "阅读《鱼不存在》带来深刻启示。书中讲述了斯坦福大学首任校长大卫执着为鱼分类的故事，揭示了他将秩序偏执延伸至优生学的阴暗面。现代生物学最终证实“鱼”这一分类并不存在。作者借此反思人生应学会接受混沌与谦卑，并感叹读书是获取智慧最高效的方式。",
+    "source_root_domain": "quji.org"
+  },
+  {
+    "title": "Codex第三方API使用生图接口",
+    "url": "https://blog.alliot.tech/post/codex-third-party-api-image-generation",
+    "date": "2026-09-01T13:42:20Z",
+    "description": "Codex(或ChatGPT客户端) 在配置第三方 API 来使用时，其内置的 imagegen Skills 无法正常使用，通过简单的配置即可修复。",
+    "source_root_domain": "iots.vip"
+  },
+  {
+    "title": "景甜是鸡，胡锡进是狗",
+    "url": "https://sinyalee.com/blog/?p=1351",
+    "date": "2026-09-01T12:29:35Z",
+    "description": "一 景甜是鸡，胡锡进是狗 鸡会下蛋，狗会叼盘 鸡下一个蛋，3.36亿元人民币 狗叼一个盘，五毛 鸡下蛋和狗叼盘 […]",
+    "source_root_domain": "sinyalee.com"
+  },
+  {
+    "title": "不知道是不是我的错觉， AI 时代，国外",
+    "url": "https://versun.me/blog/tweet-2094732593262707008",
+    "date": "2026-09-01T10:22:23Z",
+    "description": "AlexZ 🦀 DHH会在今年十月到深圳 GOSIM 大会，到时候 Omarchy 在 China 会有大事发生👍🫰🎉 我也借 DHH 这条推也发一下 RustChinaConf 深圳，会和 GOSIM 深圳双会联动🍺🍺 https://twitter.com/dhh/status/2094652010905636988 不知道是不是我的错觉， AI 时代，国外的开发者都开始非常注重中国的开发者和市场 比如 openclaw, hermes, 现在是omarchy",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "Earlybird合伙人分享：如何打造一家 AI 原生的VC投资机构？",
+    "url": "https://wenfeixiang.com/2026/09/how-to-be-the-ai-native-vc-firm/",
+    "date": "2026-09-01T10:05:21Z",
+    "description": "几乎每家 VC 机构都会说自己在使用人工智能，目前看 使用是很容易的、也确实很多人在用，但真要围绕人工智能打造 […]",
+    "source_root_domain": "wenfeixiang.com"
+  },
+  {
+    "title": "最近惦念 20260820",
+    "url": "https://z.arlmy.me/posts/TILs/thoughts/20260820_Recently/",
+    "date": "2026-09-01T08:07:27Z",
+    "description": "「珍惜闲暇。」",
+    "source_root_domain": "arlmy.me"
+  },
+  {
+    "title": "入蜀记 day464 love thyself last",
+    "url": "https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_464/",
+    "date": "2026-09-01T08:03:27Z",
+    "description": "「love thyself last。」",
+    "source_root_domain": "arlmy.me"
+  },
+  {
+    "title": "入蜀记 day463 BIGGER Art Fair",
+    "url": "https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_463/",
+    "date": "2026-09-01T08:00:27Z",
+    "description": "「BIGGER Art Fair。」",
+    "source_root_domain": "arlmy.me"
+  },
+  {
+    "title": "博客加速实践",
+    "url": "https://liudon.com/posts/blog-performance-optimization/",
+    "date": "2026-09-01T07:14:02Z",
+    "description": "记录一次博客完整的性能优化实践：响应式图片预生成和JS文件延迟加载。",
+    "source_root_domain": "liudon.com"
+  },
+  {
+    "title": "真希望模型厂商能学学人家这种定价方式，直",
+    "url": "https://versun.me/blog/tweet-2094673180430610898",
+    "date": "2026-09-01T06:26:18Z",
+    "description": "ollama Ollama’s Pro, Max, and Team plans now use transparent per-token pricing. Based on your feedback, every plan includes a monthly pool of usage credits. If you’re on an existing Pro, Max, or Team plan, your plan continues to work as-is. You can upgrad 真希望模型厂商能学学人家这种定价方式，直接透明 没有5小时和周限制，能用多少明码标价 特别是国内厂商，还搞积分转换制。。。。有些还不透明。。。",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "2026.8.31",
+    "url": "https://www.justzht.com/2026-8-31/",
+    "date": "2026-09-01T06:04:05Z",
+    "description": "很流水账的一篇。 周六开大车陪搬家的朋友去收 fb market 上的二手家具。我对这种事情有种莫名的兴致，不管是开 UHaul 还",
+    "source_root_domain": "justzht.com"
+  },
+  {
+    "title": "认领罗曼望远镜像素点",
+    "url": "https://www.liesauer.net/blog/post/1042.html",
+    "date": "2026-09-01T02:38:10Z",
+    "description": ":point_right: [跃迁点坐标](https://science.nasa.gov/mission/roman-space-telescope/adopt-a-pixel/ \"跃迁点坐...",
+    "source_root_domain": "liesauer.net"
+  },
+  {
+    "title": "Memos: 新计费模式下的 Cursor Team $40 已无开通必要",
+    "url": "https://blog.yasking.org/a/1788227709",
+    "date": "2026-09-01T02:35:00Z",
+    "description": "本月公司订阅的 Cursor Team 计费方案变更，从按次每月 500 点数变为按量计费 20 额度。 20 额度。 20 额度。 40/人的席位费包含 $20 额度，Cursor …",
+    "source_root_domain": "yasking.org"
+  },
+  {
+    "title": "不再期待下一份工作",
+    "url": "https://blog.solazy.me/20260901/",
+    "date": "2026-09-01T02:00:00Z",
+    "description": "最近真的在工作上有一种心累的感觉",
+    "source_root_domain": "solazy.me"
+  },
+  {
+    "title": "K8s 集群外部访问 Pod 的几种方式",
+    "url": "https://199604.com/3675",
+    "date": "2026-09-01T01:46:22Z",
+    "description": "K8s 集群外部访问 Pod 的几种方式 记录时间：2026-08-20 环境：K8s 1.28 测试集群（C […]",
+    "source_root_domain": "199604.com"
+  },
+  {
+    "title": "炒饭的顺序",
+    "url": "https://mobius.blog/25571.html",
+    "date": "2026-09-01T01:30:00Z",
+    "description": "副标题：《性癖纵横观 IX》 今天的文章涉及性、性欲、性癖等内容，请酌情阅读。 之所以把这篇文章放在“食色性也 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。",
+    "source_root_domain": "onojyun.com"
+  },
+  {
+    "title": "1999，互联网到了校门外",
+    "url": "https://www.tortorse.com/archives/internet-outside-the-school-gate-1999/",
+    "date": "2026-09-01T01:13:32Z",
+    "description": "冬日清晨，校门外的早点摊与游戏室",
+    "source_root_domain": "tortorse.com"
+  },
+  {
+    "title": "8月底更新了我的 AI 套餐： Kimi",
+    "url": "https://versun.me/blog/tweet-2094587620215197775",
+    "date": "2026-09-01T00:46:18Z",
+    "description": "8月底更新了我的 AI 套餐： Kimi 199 套餐 + 智谱 118 套餐。 上周深度用了一轮 Kimi K3、GLM 5.3、GLM 5.3 Flash，场景主要是 Hermes Agent，说说感受。 输出最稳定、最让我放心的，依旧是 K3。 GLM 5.3 Flash 不适合 Hermes：长上下文经常忘事，丢三落四，但编码和单任务还不错，可以当 subagent 用 GLM 5.3 位置比较尴尬，比 Flash 好很多，但不稳定，有时候想太多，有时候又做太少。不过保底还是强过 Flash，目前作为 K3 的备用。 估计后续应该还会再开一个 K3 199，之前 699 套餐用不完，所以退到了 199 套餐",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "Memos #2026-08-31",
+    "url": "https://www.taober.blog/memos/memo_20260831033926_iad1h8",
+    "date": "2026-09-01T00:00:00Z",
+    "description": "11:39 下雨天远程是真惬意呀😄",
+    "source_root_domain": "taober.blog"
+  }
+]
