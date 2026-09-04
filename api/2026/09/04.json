@@ -7,6 +7,13 @@
     "source_root_domain": "solazy.me"
   },
   {
+    "title": "6.47 MB 的 JS 字符串占了 15.4 MB 内存",
+    "url": "https://bugs.cc/zh/posts/one-character-doubles-js-string-memory/",
+    "date": "2026-09-04T11:30:00Z",
+    "description": "open-connector 是我们在做的一个开源项目，把 1464 个第三方 API (Slack、GitHub、飞书这些) 包装成统一的 action 接口。每个第三方叫一个 provider，它有哪些 action、每个 action 的输入输出长什么样 (JSON Schema)，都写在一个 JSON…",
+    "source_root_domain": "bugs.cc"
+  },
+  {
     "title": "用 Tamper-monkey 集成 Kagi Translate - 以及用 Docker Sandbox 使用 OpenCode 和 DeepSeek",
     "url": "https://taxodium.ink/integrate-kagi-translate-with-tampermonkey.html",
     "date": "2026-09-04T09:20:00Z",

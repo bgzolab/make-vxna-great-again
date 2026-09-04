@@ -28,6 +28,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | Date | Title | Summary |
 | --- | --- | --- |
 | 2026-09-04 | [只活到 50 岁也挺好](https://blog.solazy.me/20260904/) | 其实最近一直在想这个话题 |
+| 2026-09-04 | [6.47 MB 的 JS 字符串占了 15.4 MB 内存](https://bugs.cc/zh/posts/one-character-doubles-js-string-memory/) | open-connector 是我们在做的一个开源项目，把 1464 个第三方 API (Slack、GitHub、飞书这些) 包装成统一的 action 接口。每个第三方叫一个 provider，它有哪些 action、每个 action 的输入输出长什么样 (JSON Schema)，都写在一个… |
 | 2026-09-04 | [用 Tamper-monkey 集成 Kagi Translate - 以及用 Docker Sandbox 使用 OpenCode 和 DeepSeek](https://taxodium.ink/integrate-kagi-translate-with-tampermonkey.html) | 用 Tamper-monkey 集成 Kagi Translate 以及用 Docker Sandbox 使用 OpenCode 和 DeepSeek 我現在主要用 Kagi Translate 閱讀外文， Kagi Translate 提供了 瀏覧器插件 ，有三個我常用的功能： 1) 網頁全文翻譯… |
 | 2026-09-04 | [最短的咒语](https://mobius.blog/25604.html) | 最近在整理以前写的短篇和片段小说，汇总之后，我才发现我是一个不太喜欢“取名”的人。一方面，大部分短篇小说都是我 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-09-04 | [以后就不麻烦您了](https://hux.ink/posts/leave-me-alone/) | 2014 年入市，最开始用的是华泰证券。2016 年股灾后，华泰不再支持同花顺第三方登录，于是弃之。重新开了个国金证券的账户，一用就是十余年。 这些年用下来，除了始终怀疑账户被下了“中不了新股”的诅咒，其他方面都挺好。以前也有客户经理，但基本不打电话营销，没什么存在感，正合我意。券商提供交易通道，我… |
