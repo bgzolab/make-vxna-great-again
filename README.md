@@ -27,6 +27,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-09-04 | [你们要休息，要知道我是神。](https://diff.im/blog/2026/09/%E4%BD%A0%E4%BB%AC%E8%A6%81%E4%BC%91%E6%81%AF%E8%A6%81%E7%9F%A5%E9%81%93%E6%88%91%E6%98%AF%E7%A5%9E/) | 为了得到创业路上的正向的反馈，我像着了迷一样地投入到 AI Coding 之中。 尽管这个礼拜相比之前生活要平衡很多，但依然每天有超过 4 小时的时间放在 AI Coding 里面。这不仅是时间上的投入，更是精力上的投入。特别是现在的 AI 编程工具这么发达，不管在电脑前还是手机上，随时随地都可以做… |
 | 2026-09-04 | [只活到 50 岁也挺好](https://blog.solazy.me/20260904/) | 其实最近一直在想这个话题 |
 | 2026-09-04 | [6.47 MB 的 JS 字符串占了 15.4 MB 内存](https://bugs.cc/zh/posts/one-character-doubles-js-string-memory/) | open-connector 是我们在做的一个开源项目，把 1464 个第三方 API (Slack、GitHub、飞书这些) 包装成统一的 action 接口。每个第三方叫一个 provider，它有哪些 action、每个 action 的输入输出长什么样 (JSON Schema)，都写在一个… |
 | 2026-09-04 | [用 Tamper-monkey 集成 Kagi Translate - 以及用 Docker Sandbox 使用 OpenCode 和 DeepSeek](https://taxodium.ink/integrate-kagi-translate-with-tampermonkey.html) | 用 Tamper-monkey 集成 Kagi Translate 以及用 Docker Sandbox 使用 OpenCode 和 DeepSeek 我現在主要用 Kagi Translate 閱讀外文， Kagi Translate 提供了 瀏覧器插件 ，有三個我常用的功能： 1) 網頁全文翻譯… |
