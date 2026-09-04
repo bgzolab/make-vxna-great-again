@@ -27,6 +27,9 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-09-04 | [跳皮筋 II](https://mobius.blog/25597.html) | 小王的同桌小张前几天被学校田径队选上了，其实没多少人在乎这件事，倒是以前老是迟到的小张，最近这段时间都准时来学 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
+| 2026-09-03 | [科技爱好者周刊（第 411 期）：OpenClaw 2.0 是一个缩影](http://www.ruanyifeng.com/blog/2026/09/weekly-issue-411.html) | 这里记录每周值得分享的科技内容，周五发布。 本杂志 开源 ，欢迎 投稿 。另有 《谁在招人》 服务，发布程序员招聘信息。合作请 邮件联系 （yifeng.ruan@gmail.com）。 封面图 宁夏西夏陵使用金属网，将残片还原成石像生。（ via ） OpenClaw 2.0 是一个缩影 本周，O… |
+| 2026-09-03 | [GPT 6 astra 发布了，为啥我一](https://versun.me/blog/tweet-2095655099406422273) | GPT 6 astra 发布了，为啥我一点兴趣没有，贤者时间？ |
 | 2026-09-03 | [New Release: Prey](https://macsourceports.com/game/prey) | So, first things first: this is the 2006 game called Prey , not the more recent 2017 game called Prey . In keeping with the trend of melding the game… |
 | 2026-09-03 | [让下一台机器接着做（下）：我们如何设计一个可恢复的 Workflow Kernel](https://www.l1ch40.com/2026/09/designing-a-resilient-workflow-kernel-part-2.html) | 上篇解释了为什么「一个任务状态 + 一个从头跑到尾的函数」无法继续承载越来越长的任务处理链路，以及 Temporal 的 durable execution 思想给了我们什么启发。下篇进入实现：状态怎样分层，Worker 怎样接管中断任务，为什么 Redis 可以丢而 Mongo 不能丢，以及改造后… |
 | 2026-09-03 | [服务重启了，为什么用户的任务失败了？（上）：从长任务到 Workflow](https://www.l1ch40.com/2026/09/from-long-tasks-to-workflow-part-1.html) | 本文来自一次真实的长任务处理链路重构。上篇先讲一个在早期约束下成立、后来逐渐超出适用边界的设计：服务关停时，通过回调把一批未完成任务收敛为失败。然后从零解释 Workflow 是什么、它和任务队列、状态机、DAG 有什么区别，以及 Temporal 的设计思想如何影响了我们的选择。 本文内容仅为抽象… |
@@ -38,12 +41,15 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-09-03 | [Writing following the F-pattern is a horrible horrible idea](https://www.geedea.pro/en/article/f-with-f-pattern/) | The F-shape reading pattern is a well-known UX design consideration. UI/UX designers make use of users’ tendency to scan only the first paragraph, fir… |
 | 2026-09-03 | [Memos: 终于、用上了 Google AI Pro 套餐](https://blog.yasking.org/a/1788433028) | 两个月前在闲鱼购买了个 18 月的 Google AI Pro 订阅，使用 小号 领取。 而后下载 Gemini Cli，登录后网页提示验证，提示需要输入手机号，一 … |
 | 2026-09-03 | [如何优雅地更新 MACOS 系统上的软件](http://yi.gs/post/duo_updater) | 上一次更新正好是一年前，所以更新一下。 既然是为了更新而更新，就来写写如何更新吧 ；） TL;DR：直接看 「优雅的软件更新： Duo Updater」 小节。 关于 macOS 上的软件安装 与 iOS 正常情况下只能通过 App Store 安装 APP 不同，macOS 有类似 Windows… |
+| 2026-09-03 | [太牛了，mac下的linux安装助理，大](https://versun.me/blog/tweet-2095463010458616293) | DHH We are moving very, very fast towards a fully streamlined Omarchy installer for Apple M machines. You just download our Omarchy M app, try it firs… |
 | 2026-09-03 | [友链](https://liudon.com/links/) | 欢迎交换友链，但需要一定条件： 使用独立域名 内容以原创主，保持一定的更新频率 上线一年以上，内容十篇以上 本站友链相关信息： 站点名称：流动 站点地址：https://liudon.com 站点LOGO：https://liudon.com/avatar.png 申请友链时，请提供以下信息： |
 | 2026-09-03 | [星际杀手](https://mobius.blog/25588.html) | 星际杀手做好了打响指的准备，他再一次威胁谈判专家：“你知道我这个响指下去意味着什么，离我们最近的参宿四会立刻爆 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-09-03 | [我玩了下Robinhood罗宾汉链上的fomo](https://www.cheshirex.com/11070.html) | Robinhood罗宾汉是什么？ Robinhood是美国一个炒股APP，上面有很多散户股民。他在7月发了一个 […] |
 | 2026-09-03 | [一次优质离婚](https://www.hecaitou.com/2026/09/a-meaningful-divorce.html) | 有 位读者联系我，劈头一句话：菜头，我离婚了，我们当初是在你开发的 APP 上认识的。才看到这个开头我就觉得胃疼，这么多年我对网友的路数实在太熟悉了，接下来肯定就是各种各样的「都怪你」，比如： 都怪你，你不开发这个 App，我命里就不会有这一劫。 不过这次还好，后面他话锋一转，说结婚四年，有个可爱的… |
 | 2026-09-03 | [跳皮筋](https://mobius.blog/25584.html) | 我小时候会跳皮筋，但更多是被抓去做那个帮别人固定皮筋的“桩子”，所以我也为此遭到过不少嘲笑：一说是跟女生玩女生 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-09-03 | [Al Brooks 团队交易员 Rose 访谈复盘：震荡区间的本质、散户优势与 PF 考核法则](https://blog.forecho.com/al-brooks-team-trader-rose-interview-insights.html) | 引言 前几天看到了一期专访视频，嘉宾是 Al Brooks（阿布）团队的全职交易员兼直播交易员 Rose （她也是知名交易员 Tom Hougaard 极力推崇的搭档之一）。 整个访谈刨去前后的活动寒暄和洛杉矶闲聊，干货非常密集。Rose 从设计和艺术背景转行做交易，经历了亏损、重新学习、在 Al… |
+| 2026-09-03 | [发3个内推哈，英语是工作语言，只要求技术](https://versun.me/blog/tweet-2095309149441798432) | 发3个内推哈，英语是工作语言，只要求技术和语言，学历不要求，感兴趣的可发简历到图二邮箱哈 java support: 负责 Apple CRS 的运维，懂 Java，前端 react 管理页面开发、运维、云服务、ERP，onsite 在 apple java developer: Java, Ali… |
+| 2026-09-03 | [浦东今天好凉快，非常适合去公园野营！可惜](https://versun.me/blog/tweet-2095302278928560519) | 浦东今天好凉快，非常适合去公园野营！可惜我要上班🥲 |
 | 2026-09-02 | [个人 AGI：Jarvis 正在从科幻走进现实](https://www.linggandianbo.com/newsletter-137/) | 几年前，我们还在惊叹 AI 能像人一样说话。现在，它开始记住我们、使用工具、操作电脑，把一句模糊的想法变成真实的结果。｜灵感电波 #137 |
 | 2026-09-02 | [无需忧虑 无需挂虑](https://blog.zzbd.org/miao20260903-3/) | 亲爱的朋友，先停一下，深深吸一口气。如果今天心里有些沉、有些乱，请记得：你不是一个人在扛。愿下面的句子，像清晨的光，一寸一寸照进你的心。不急，慢慢读，读到哪一句心动了，就在那里停一停，多读几遍。 |
 | 2026-09-02 | [Deploying LiteLLM on Kubernetes](https://www.bboy.app/2026/09/02/deploying-litellm-on-kubernetes/) | Introduction I have access to LLM APIs from several different providers. I use Hermes for all kinds of tasks, and I do not want to edit the Hermes con… |
@@ -176,28 +182,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-08-28 | [这个有点好玩呀，AI 开始系统化了，以后](https://versun.me/blog/tweet-2093147301091099122) | warmwind Introducing warmwind OS: The World’s First AI Operating System warmwind is live. After three years of building, testing, breaking things, reb… |
 | 2026-08-28 | [以前安装试一试后，如果不错会付费 现在我](https://versun.me/blog/tweet-2093140694810624017) | 向阳乔木 全键盘操作的笔记工具，类似Workflowy，无限层级大纲视图笔记软件。 AI、看板、脑图功能收费，其他免费。 地址见评论区 以前安装试一试后，如果不错会付费 现在我的第一反应竟然是，让 AI 复刻难不难，其次才是值不值得付费。。。 现在做产品是真难呀😂不仅要比卖点，还得比复刻难度 |
 | 2026-08-28 | [Memos #2026-08-27](https://www.taober.blog/memos/memo_20260827013049_4202nz) | 09:33 昨晚下雨，九点准时打车，快十点才上车。到家空调吹得眼睛特别干。晚上做了个梦，导致今天又九点十五才醒，纠结了一阵还是去公司上班吧。 真两眼一睁就是干！ |
-| 2026-08-27 | [科技爱好者周刊（第 410 期）：你需要知道的 AI 三种机制](http://www.ruanyifeng.com/blog/2026/08/weekly-issue-410.html) | 这里记录每周值得分享的科技内容，周五发布。 本杂志 开源 ，欢迎 投稿 。另有 《谁在招人》 服务，发布程序员招聘信息。合作请 邮件联系 （yifeng.ruan@gmail.com）。 封面图 宁夏沙坡头景区的巨型蒙眼雕塑。（ via ） 你需要知道的 AI 三种机制 这是"AI 小知识系列"的第… |
-| 2026-08-27 | [我开始搭自己的 Jarvis，然后发现最难的是信任它｜灵感电波 #136](https://www.linggandianbo.com/newsletter-136/) | 过去几天，我开始认真搭自己的 Jarvis，也第一次感受到：个人 AGI 真正难的不是接入一个更强的模型，而是让资料、流程和每一次行动都值得信任。本期还会聊到 AI 时代的“认知债”、不靠天赋也能练习的理解力、本地模型与云端模型的分工，以及宜家产品名背后的隐藏语法。 |
-| 2026-08-27 | [学习周刊-总第278期-2026年第35周](https://wiki.eryajf.net/pages/4327cf/) | 如要阅读全文，点击标题跳转。 学习周刊-总第278期 &#124; Recordly &#124; agentbro &#124; vistars &#124; SkylerX &#124; Momento &#124; fluxnotes &#124; markra |
-| 2026-08-27 | [加密的思考，也会被偷走吗？这篇论文真正发现了什么](https://gptkit.eth.limo/513D8E71-35EE-4F4B-BD20-E9FB633C8742/) | 看到一段无法阅读的加密文本，人很容易把它当成“安全的乱码”。但在大模型 API 里，这类不透明数据可能保存着模型的隐藏推理、工具返回值，甚至用户输入过的敏感信息。 2026 年 8 月提交的论文《Stealing Reasoning Traces from Proprietary LLM APIs》… |
-| 2026-08-27 | [一群模型，各干各的活：Nemotron 3.5 Lightning 和 Switchyard 到底解决什么](https://gptkit.eth.limo/88ED405F-A12D-48AB-9B8F-C3EB7390F47B/) | 一个 AI Agent 真正运行起来以后，并不是每一步都需要最强模型。制定计划、处理复杂异常，可能值得调用能力最强的模型；执行工具、检查返回值、整理格式和重复查询，往往更在意速度和成本。 如果所有步骤都交给同一个昂贵模型，效果容易预测，账单和延迟却会迅速增加。反过来，如果只用便宜模型，复杂任务又可能… |
-| 2026-08-27 | [它真的“懂”你吗？用一杯咖啡理解大语言模型](https://gptkit.eth.limo/102AFE24-4642-44C5-8390-DC6A5D2A99A4/) | 第一次和大语言模型聊天，很容易产生一种错觉：屏幕另一端像是坐着一个读过无数书、什么都能聊的人。它能续写邮件，能解释概念，也能顺着语气安慰你。可一旦追问一个冷门事实，它又可能用同样笃定的口吻编出不存在的人名、论文和日期。 这两种表现并不矛盾。要理解它，先放下“电子大脑”这个比喻，把它想成一位特别擅长接… |
-| 2026-08-27 | [一年](https://onojyun.com/25525.html) | 我特地在日历上设定了 8 月 28 日是一个特殊的日子，去年这个时候，我们决定给家里最老的一只、已经处于严重肾 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
-| 2026-08-27 | [一年](https://mobius.blog/25525.html) | 我特地在日历上设定了 8 月 28 日是一个特殊的日子，去年这个时候，我们决定给家里最老的一只、已经处于严重肾 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
-| 2026-08-27 | [AI Infra：Token 价格博弈策略分析](https://luweiqing.com/gossip/Token-Price-Speculation-Strategy-Analysis.html) | 模型更新快。价格难看懂。有的厂商把 API 降到几分钱一百万 Token。有的旗舰模型维持几十美元高价。新模型发布就降价抢用户。能力升级后反而提价。同一家厂商同时提供缓存价、批处理价、峰谷价、标... |
-| 2026-08-27 | [AWS 收购 DuckLabs](https://luweiqing.com/gossip/AWS-DuckLabs.html) | 买团队，不买项目。 DuckLabs（阿姆斯特丹核心团队+商业支持）→ AWS；DuckDB/Foundation/MIT 许可不变。一、数据库层面维度DuckDB 角色AWS 战略意义定位嵌入... |
-| 2026-08-27 | [emacs-在org-agenda中展示从今日开始一月后的任务](https://blog.prayhand13013.top/20260827T173018--emacs-在org-agenda中展示从今日开始一月后的任务__blog.html) |  |
-| 2026-08-27 | [横屏首次显示被缩小问题处理](https://www.an.rustfisher.com/android/fragment/dialogFragment/dialogFragment-adjust-fontscale/?utm_source=documentation&utm_medium=RSS&utm_campaign=feed-syndication) | Android处理DialogFragment横屏首次显示被缩小的问题。在横屏 Activity 中弹出自定义 DialogFragment 时，出现首次显示尺寸偏小（被压缩），但在关闭后第二次显示恢复正常的诡异现象。 |
-| 2026-08-27 | [不是 Bug,是 Feature](https://hux.ink/posts/not-a-bug-its-a-feature/) | 最近借助 Codex，把博客前台、管理后台和 Obsidian 零零碎碎折腾了一轮，主要是把一些长期用着不太顺手、看着不太舒服的地方重新收拾了一遍。 先是博客前台： 增加主题切换，目前有明亮、夜幕、霜灰、晨曦四组主题色调。 除了原有的霞鹜文楷，又加入朱雀仿宋、京华老宋体、霞鹜新致宋三款可选字体。 左… |
-| 2026-08-27 | [人不知而不愠](https://kaix.in/2026/0827/) | 虽然这几年到店里来拍照的客人一直不少，但是前几天是第一次遇到开闪光灯拍照的客人不听劝阻的情况。上前制止时，对方就像是有一套固有招式，连珠炮似的，提前给我们彼此都加了许多标签：我认知高，我幸福者退让，我不和妳这种开小店的人一般见识，妳这种规矩多的破店，一看就开不长…… 实话实说，这类言语，目的只是激怒… |
-| 2026-08-27 | [广府古城一日游](https://liudon.com/posts/guangfu-ancient-city-day-trip/) | 6月底给家里添置了辆车，还在磨合期。 平时爸妈开的不多，这次暑假回家，想着找一天带爸妈出门逛逛。 上午带老妈去医院做了个CT检查，检查完结果要4个小时才能出来。 |
-| 2026-08-27 | [面对系统](https://www.hecaitou.com/2026/08/facing-the-system.html) | 昨天半夜看到一个熟悉的名字在网络热闻里闪烁，把他前后几次发言都读过一遍，结论很明确：这是要掀桌子、撕脸皮、彻底搞大，痛快一下自己。 当个人面对系统的时候，走到这一步就非常难看了。如何同系统打交道，这种事情其实需要有人教的。首先要理解系统是如何运转的，然后弄清楚自己在系统内是什么位置，再深入下去就是应… |
-| 2026-08-27 | [Google斥资1000万美元购买破产企业内部数据，用于AI训练](https://wenfeixiang.com/2026/08/google-wins-bankruptcy-auction-for-spirit-airlines-emails-chats-documents/) | 一家破产企业的内部数据，比如聊天记录、电子邮件、相关文档等，值多少钱？在过往的话，或许一文不值，到了人工智能和 […] |
-| 2026-08-27 | [Prometheus 切换到 VictoriaMetrics 统一告警的部署记录](https://199604.com/3666) | Prometheus 切换到 VictoriaMetrics 统一告警的部署记录 记录时间：2026-08-2 […] |
-| 2026-08-27 | [公共厕所与公共知识](https://onojyun.com/25511.html) | “竹知了”开了个好头，以至于这一次“公共厕所”引起的热度比“竹知了”还快，甚至已经有人制作出了可以手动调整公共 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
-| 2026-08-27 | [公共厕所与公共知识](https://mobius.blog/25511.html) | “竹知了”开了个好头，以至于这一次“公共厕所”引起的热度比“竹知了”还快，甚至已经有人制作出了可以手动调整公共 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
-| 2026-08-27 | [拼多多百亿补贴卖给了我一个二手路由器（已经烧坏了）](https://www.cheshirex.com/11030.html) | 2023年12月我买了个小米BE6500Pro路由器，当时是看这个路由器有2.5G网口并且内置米家的蓝牙中枢网 […] |
-| 2026-08-27 | [Memos #2026-08-26](https://www.taober.blog/memos/memo_20260826125704_5jg1z9) | 20:57 顶级吃法：麦当劳薯条沾甜筒！ 甜加咸，冷加热，好吃到打摆子！ |
 
 ## Vibe Coding
 
