@@ -27,6 +27,8 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-09-04 | [只活到 50 岁也挺好](https://blog.solazy.me/20260904/) | 其实最近一直在想这个话题 |
+| 2026-09-04 | [用 Tamper-monkey 集成 Kagi Translate - 以及用 Docker Sandbox 使用 OpenCode 和 DeepSeek](https://taxodium.ink/integrate-kagi-translate-with-tampermonkey.html) | 用 Tamper-monkey 集成 Kagi Translate 以及用 Docker Sandbox 使用 OpenCode 和 DeepSeek 我現在主要用 Kagi Translate 閱讀外文， Kagi Translate 提供了 瀏覧器插件 ，有三個我常用的功能： 1) 網頁全文翻譯… |
 | 2026-09-04 | [最短的咒语](https://mobius.blog/25604.html) | 最近在整理以前写的短篇和片段小说，汇总之后，我才发现我是一个不太喜欢“取名”的人。一方面，大部分短篇小说都是我 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-09-04 | [以后就不麻烦您了](https://hux.ink/posts/leave-me-alone/) | 2014 年入市，最开始用的是华泰证券。2016 年股灾后，华泰不再支持同花顺第三方登录，于是弃之。重新开了个国金证券的账户，一用就是十余年。 这些年用下来，除了始终怀疑账户被下了“中不了新股”的诅咒，其他方面都挺好。以前也有客户经理，但基本不打电话营销，没什么存在感，正合我意。券商提供交易通道，我… |
 | 2026-09-04 | [博客焕新，记录继续](https://liudon.com/posts/blog-refresh/) | 前言 经常访问本站的朋友，可能已经发现本站换了新的主题。 回顾折腾博客的这一路，已经用过了5个主题，其中 PaperMod 这个用的时间最长。 cactus jane yinyang meme PaperMod 一直想换个新主题，但查了一下，没有找到特别喜欢的主题了。 |
@@ -42,6 +44,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-09-03 | [博客主题更新：更好读的文章页和代码块](https://www.bboy.app/2026/09/03/%E5%8D%9A%E5%AE%A2%E4%B8%BB%E9%A2%98%E6%9B%B4%E6%96%B0%E6%9B%B4%E5%A5%BD%E8%AF%BB%E7%9A%84%E6%96%87%E7%AB%A0%E9%A1%B5%E5%92%8C%E4%BB%A3%E7%A0%81%E5%9D%97/) | 简介 给博客主题做了一轮更新，重点在阅读体验：字体加载更顺、文章页更宽更舒服、代码块加了工具栏、移动端也能看目录了。这篇记录下这次都改了哪些东西。 |
 | 2026-09-03 | [Building a Personal Manga Library with Komga](https://www.bboy.app/2026/09/03/building-a-personal-manga-library-with-komga/) | Introduction I recently set up my own manga library. I download the manga, put it into Komga running on Kubernetes, and read it on my iPhone with KMRe… |
 | 2026-09-03 | [用 Komga 搭一个自己的漫画库](https://www.bboy.app/2026/09/03/%E7%94%A8-komga-%E6%90%AD%E4%B8%80%E4%B8%AA%E8%87%AA%E5%B7%B1%E7%9A%84%E6%BC%AB%E7%94%BB%E5%BA%93/) | 简介 最近搭了一套自己的漫画库。漫画下载好以后放进 Komga，服务跑在 Kubernetes 里，iPhone 上用 KMReader 看。文件和阅读进度都在自己手里，用起来比我原来想的省事。 |
+| 2026-09-03 | [把焦虑推迟到最后一天](https://blog.solazy.me/20260903/) | 最近半年，我养成了一个很管用的习惯 |
 | 2026-09-03 | [海南之行后记](https://blog.est.im/2026/stderr-28) | 趁还记得，记录一些 起初是发现 嫦娥七号 在文昌发射，于是兴冲冲带着孩子去观看 CZ-5 发射 围绕着这个火箭发射基地做了大量调研；了解到很多知识： 发射基地分两块，一个是国发，一个是商发；CZ-5 在国发 国发最佳观赏地是 文昌县 门楼镇，淇水湾 发射前会封路，开车进不去 二话不说，定机票；无意中… |
 | 2026-09-03 | [Writing following the F-pattern is a horrible horrible idea](https://www.geedea.pro/en/article/f-with-f-pattern/) | The F-shape reading pattern is a well-known UX design consideration. UI/UX designers make use of users’ tendency to scan only the first paragraph, fir… |
 | 2026-09-03 | [Memos: 终于、用上了 Google AI Pro 套餐](https://blog.yasking.org/a/1788433028) | 两个月前在闲鱼购买了个 18 月的 Google AI Pro 订阅，使用 小号 领取。 而后下载 Gemini Cli，登录后网页提示验证，提示需要输入手机号，一 … |

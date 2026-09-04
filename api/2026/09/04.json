@@ -1,5 +1,19 @@
 [
   {
+    "title": "只活到 50 岁也挺好",
+    "url": "https://blog.solazy.me/20260904/",
+    "date": "2026-09-04T14:00:00Z",
+    "description": "其实最近一直在想这个话题",
+    "source_root_domain": "solazy.me"
+  },
+  {
+    "title": "用 Tamper-monkey 集成 Kagi Translate - 以及用 Docker Sandbox 使用 OpenCode 和 DeepSeek",
+    "url": "https://taxodium.ink/integrate-kagi-translate-with-tampermonkey.html",
+    "date": "2026-09-04T09:20:00Z",
+    "description": "用 Tamper-monkey 集成 Kagi Translate 以及用 Docker Sandbox 使用 OpenCode 和 DeepSeek 我現在主要用 Kagi Translate 閱讀外文， Kagi Translate 提供了 瀏覧器插件 ，有三個我常用的功能： 1) 網頁全文翻譯 2) 選擇內容翻譯 3) 字典定義。但插件很久沒更新了，最近用下來也有兩個很影响使用的地方： 網頁翻譯有時會吞掉一些文章內容；有的段落可能只翻譯了一兩個單詞。原來我可以打開一堆頁面，然後全部翻譯，哪個翻譯好了我就看哪個，現在我還要檢查內容是否完整，用起來提心吊胆的。而且重新翻譯也未必有用，它是有緩存的，先要清空插件的緩存後才能触發新的翻譯，但清除緩存重新請求也未必正常，有時我需要切換目標語言或不同的翻譯質量才行。總之就是不穩定，不能放心地用。 除了全文翻譯，我有時也會用到字典功能，去了解一個我不認識的單詞，但現在查詢結果經常是空白一片，也不清楚是什麼問題。唯一比較穩定的就是選擇內容翻譯了。 Kagi Translate 的網頁功能倒是一直在更新，每過几天就提示我刷新頁面获取新版本，網頁上也",
+    "source_root_domain": "taxodium.ink"
+  },
+  {
     "title": "最短的咒语",
     "url": "https://mobius.blog/25604.html",
     "date": "2026-09-04T06:00:00Z",
@@ -103,6 +117,13 @@
     "date": "2026-09-03T15:15:00Z",
     "description": "简介 最近搭了一套自己的漫画库。漫画下载好以后放进 Komga，服务跑在 Kubernetes 里，iPhone 上用 KMReader 看。文件和阅读进度都在自己手里，用起来比我原来想的省事。",
     "source_root_domain": "bboy.app"
+  },
+  {
+    "title": "把焦虑推迟到最后一天",
+    "url": "https://blog.solazy.me/20260903/",
+    "date": "2026-09-03T15:00:00Z",
+    "description": "最近半年，我养成了一个很管用的习惯",
+    "source_root_domain": "solazy.me"
   },
   {
     "title": "海南之行后记",
