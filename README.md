@@ -27,7 +27,12 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-09-04 | [最短的咒语](https://mobius.blog/25604.html) | 最近在整理以前写的短篇和片段小说，汇总之后，我才发现我是一个不太喜欢“取名”的人。一方面，大部分短篇小说都是我 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
+| 2026-09-04 | [以后就不麻烦您了](https://hux.ink/posts/leave-me-alone/) | 2014 年入市，最开始用的是华泰证券。2016 年股灾后，华泰不再支持同花顺第三方登录，于是弃之。重新开了个国金证券的账户，一用就是十余年。 这些年用下来，除了始终怀疑账户被下了“中不了新股”的诅咒，其他方面都挺好。以前也有客户经理，但基本不打电话营销，没什么存在感，正合我意。券商提供交易通道，我… |
+| 2026-09-04 | [博客焕新，记录继续](https://liudon.com/posts/blog-refresh/) | 前言 经常访问本站的朋友，可能已经发现本站换了新的主题。 回顾折腾博客的这一路，已经用过了5个主题，其中 PaperMod 这个用的时间最长。 cactus jane yinyang meme PaperMod 一直想换个新主题，但查了一下，没有找到特别喜欢的主题了。 |
+| 2026-09-04 | [记一次疯狂的盲狙](https://www.hecaitou.com/2026/09/one-crazy-blind-buy.html) | 今天是 2026 年 9 月 4 日，在一个多月前的 7 月 25 日，我做了一件很疯狂的事情：盲狙一套监听音箱。 什么是音箱不重要，什么是监听音箱也不重要，盲狙比较重要，它本来是游戏术语，指在游戏里根本没有瞄准，而是凭借感觉直接开枪狙击。如今在网上，它的意思转变为根本没有上手亲自试过，真正体验过感… |
 | 2026-09-04 | [跳皮筋 II](https://mobius.blog/25597.html) | 小王的同桌小张前几天被学校田径队选上了，其实没多少人在乎这件事，倒是以前老是迟到的小张，最近这段时间都准时来学 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
+| 2026-09-04 | [2000，跨世纪的旧日常](https://www.tortorse.com/archives/old-daily-life-at-the-turn-of-the-century-2000/) | 校园公用电话旁，带着BP机的学生拿着电话卡 |
 | 2026-09-03 | [科技爱好者周刊（第 411 期）：OpenClaw 2.0 是一个缩影](http://www.ruanyifeng.com/blog/2026/09/weekly-issue-411.html) | 这里记录每周值得分享的科技内容，周五发布。 本杂志 开源 ，欢迎 投稿 。另有 《谁在招人》 服务，发布程序员招聘信息。合作请 邮件联系 （yifeng.ruan@gmail.com）。 封面图 宁夏西夏陵使用金属网，将残片还原成石像生。（ via ） OpenClaw 2.0 是一个缩影 本周，O… |
 | 2026-09-03 | [GPT 6 astra 发布了，为啥我一](https://versun.me/blog/tweet-2095655099406422273) | GPT 6 astra 发布了，为啥我一点兴趣没有，贤者时间？ |
 | 2026-09-03 | [New Release: Prey](https://macsourceports.com/game/prey) | So, first things first: this is the 2006 game called Prey , not the more recent 2017 game called Prey . In keeping with the trend of melding the game… |
