@@ -27,6 +27,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-09-05 | [霓虹下的微型交易：我的香港隐秘经济史游记](https://www.l1ch40.com/2026/09/hong-kongs-shadow-economy-under-neon-lights.html) | “阿金努力，阿金搵到食！” 这句台词来自香港电影《金鸡》，它代表了 “狮子山下”一种艰难而灵活的生存精神。电影中，主人公阿金凭借这种精神在鱼龙混杂的场所打拼，但她的生意很快被新的时代背景冲击——大陆及其他国家妓女的涌入“抢”走了本地人的生意。阿金的故事让我心底埋下了一颗种子：我想去看看光鲜亮丽的香港… |
 | 2026-09-05 | [高鲁棒性 API 设计之 Idempotency Key 幂等键](https://blog.yasking.org/a/idempotency-key) | 有这样一个场景，客户端调用服务端 API 兑换奖励： POST /api/v1/redemptions { "reward_id" : "id-123" } 用户发起一次商品兑换请求，因网络等因素，客户端不清楚 … |
 | 2026-09-05 | [周末流水账 0905](https://blog.solazy.me/20260905/) | 这周末是说走就走的休闲游 |
 | 2026-09-05 | [入蜀记 day467 小小的真理](https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_467/) | 「小小的真理。」 |
