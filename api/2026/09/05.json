@@ -1,0 +1,247 @@
+[
+  {
+    "title": "如何优雅地更新 MACOS 系统上的软件",
+    "url": "http://yi.gs/post/duo_updater",
+    "date": "2026-09-05T02:05:14Z",
+    "description": "上一次更新正好是一年前，所以更新一下。 既然是为了更新而更新，就来写写如何更新吧 ；） TL;DR：直接看 「更优雅地更新软件」 小节。 关于 macOS 上的软件安装 与 iOS 正常情况下只能通过 App Store 安装 APP 不同，macOS 有类似 Windows 的自由度来安装和使用第三方软件。 在「设置」-「隐私与安全性」-「安全性」-「允许以下来源的应用程序」中开启「App Store 与已知开发者」后，无论是通过 Homebrew 还是软件官网下载，只要第三方软件满足以下两点即可直接使用： 有效代码签名（Developer ID 证书签名） 开发者加入 99 刀/年的 Apple Developer Program 来获取 Developer ID 证书。 苹果公证（Notarization） 开发者把签好名的 App 上传到 Apple Notary Service，苹果自动扫描通过后打上公证凭证。 关于在 macOS 上更新软件 安装后，对于新版强迫症患者最大的问题是 macOS 上的更新途径非常分散且不够优雅： 使用 App Store 更新 App Stor",
+    "source_root_domain": "yi.gs"
+  },
+  {
+    "title": "Memos #2026-09-04",
+    "url": "https://www.taober.blog/memos/memo_20260904112856_zwhlrk",
+    "date": "2026-09-05T00:00:00Z",
+    "description": "19:30 多申请了一个 claude 账号，双持 fable 太爽了！ 比这更爽的发现同事一直在用 sonnet 🐶",
+    "source_root_domain": "taober.blog"
+  },
+  {
+    "title": "你们要休息，要知道我是神。",
+    "url": "https://diff.im/blog/2026/09/%E4%BD%A0%E4%BB%AC%E8%A6%81%E4%BC%91%E6%81%AF%E8%A6%81%E7%9F%A5%E9%81%93%E6%88%91%E6%98%AF%E7%A5%9E/",
+    "date": "2026-09-04T17:45:00Z",
+    "description": "为了得到创业路上的正向的反馈，我像着了迷一样地投入到 AI Coding 之中。 尽管这个礼拜相比之前生活要平衡很多，但依然每天有超过 4 小时的时间放在 AI Coding 里面。这不仅是时间上的投入，更是精力上的投入。特别是现在的 AI 编程工具这么发达，不管在电脑前还是手机上，随时随地都可以做上几个任务，我好像有一种被 AI 给控制了的感觉。 但是过去有两个时刻，让我体验到了不被控制里面的内心平静，甚至是有一丝的喜乐。 周日我们教会是下午 2 点聚会，但是在 1 点的时候，我还没有停下手里的 AI coding 工作，还在给 AI 排满一个又一个的任务，以便聚会时 AI 依然可以为我工作。 但有那么一个时刻，我的电脑好像被黑客黑了，因为我看到银行流水的一个文件夹被打开了。我心里很害怕，很快就把那个窗口关闭，然后在 1:20 开车去教会。 路上回想银行流水的事情，我还是觉得很害怕，所以远程把家里的网络给断了。因为家里断了网，AI 也不在线，因此在教会聚会的整个下午，我的心终于能够安静下来。说实话，我的身体也安静、放松了下来。 另外一个时刻，也是因为我太长时间身体和精神都处于与 AI",
+    "source_root_domain": "diff.im"
+  },
+  {
+    "title": "只活到 50 岁也挺好",
+    "url": "https://blog.solazy.me/20260904/",
+    "date": "2026-09-04T14:00:00Z",
+    "description": "其实最近一直在想这个话题",
+    "source_root_domain": "solazy.me"
+  },
+  {
+    "title": "6.47 MB 的 JS 字符串占了 15.4 MB 内存",
+    "url": "https://bugs.cc/zh/posts/one-character-doubles-js-string-memory/",
+    "date": "2026-09-04T11:30:00Z",
+    "description": "open-connector 是我们在做的一个开源项目，把 1464 个第三方 API (Slack、GitHub、飞书这些) 包装成统一的 action 接口。每个第三方叫一个 provider，它有哪些 action、每个 action 的输入输出长什么样 (JSON Schema)，都写在一个 JSON…",
+    "source_root_domain": "bugs.cc"
+  },
+  {
+    "title": "用 Tamper-monkey 集成 Kagi Translate - 以及用 Docker Sandbox 使用 OpenCode 和 DeepSeek",
+    "url": "https://taxodium.ink/integrate-kagi-translate-with-tampermonkey.html",
+    "date": "2026-09-04T09:20:00Z",
+    "description": "用 Tamper-monkey 集成 Kagi Translate 以及用 Docker Sandbox 使用 OpenCode 和 DeepSeek 我現在主要用 Kagi Translate 閱讀外文， Kagi Translate 提供了 瀏覧器插件 ，有三個我常用的功能： 1) 網頁全文翻譯 2) 選擇內容翻譯 3) 字典定義。但插件很久沒更新了，最近用下來也有兩個很影响使用的地方： 網頁翻譯有時會吞掉一些文章內容；有的段落可能只翻譯了一兩個單詞。原來我可以打開一堆頁面，然後全部翻譯，哪個翻譯好了我就看哪個，現在我還要檢查內容是否完整，用起來提心吊胆的。而且重新翻譯也未必有用，它是有緩存的，先要清空插件的緩存後才能触發新的翻譯，但清除緩存重新請求也未必正常，有時我需要切換目標語言或不同的翻譯質量才行。總之就是不穩定，不能放心地用。 除了全文翻譯，我有時也會用到字典功能，去了解一個我不認識的單詞，但現在查詢結果經常是空白一片，也不清楚是什麼問題。唯一比較穩定的就是選擇內容翻譯了。 Kagi Translate 的網頁功能倒是一直在更新，每過几天就提示我刷新頁面获取新版本，網頁上也",
+    "source_root_domain": "taxodium.ink"
+  },
+  {
+    "title": "最短的咒语",
+    "url": "https://mobius.blog/25604.html",
+    "date": "2026-09-04T06:00:00Z",
+    "description": "最近在整理以前写的短篇和片段小说，汇总之后，我才发现我是一个不太喜欢“取名”的人。一方面，大部分短篇小说都是我 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。",
+    "source_root_domain": "onojyun.com"
+  },
+  {
+    "title": "以后就不麻烦您了",
+    "url": "https://hux.ink/posts/leave-me-alone/",
+    "date": "2026-09-04T03:58:00Z",
+    "description": "2014 年入市，最开始用的是华泰证券。2016 年股灾后，华泰不再支持同花顺第三方登录，于是弃之。重新开了个国金证券的账户，一用就是十余年。 这些年用下来，除了始终怀疑账户被下了“中不了新股”的诅咒，其他方面都挺好。以前也有客户经理，但基本不打电话营销，没什么存在感，正合我意。券商提供交易通道，我在里面自生自灭，大家互不打扰，非常纯粹的赌博环境。 直到今年，给我换了一个客户经理。 昨天突然接到他的电话，说前天有只新股挺不错，问我有没有开通科创板权限。我有点疑惑，反问他：“你看不到我账户的客户信息和交易权限吗？” 他回答得很坦然：“查是可以查到的，但我管理的客户比较多，一个一个查比较麻烦。” 这回答把我给整毛了。原来不是看不到，是懒得看。 想了想，可能是账户里的钱太少，不值得他费这个工夫。7 月份割肉之后，现在的持仓规模大概只有 5 月份最高峰时的十分之一。 当然，嫌贫爱富是我猜的，嫌查起来麻烦可是他亲口说的。客户多，忙不过来，可以不打这个电话。我也没指望客户经理带我发财，这么多年自己亏得挺熟练了。但既然主动打电话过来，连我有没有交易权限都懒得看一眼，这算哪门子服务。 于是，我给国金证",
+    "source_root_domain": "hux.ink"
+  },
+  {
+    "title": "博客焕新，记录继续",
+    "url": "https://liudon.com/posts/blog-refresh/",
+    "date": "2026-09-04T03:41:08Z",
+    "description": "前言 经常访问本站的朋友，可能已经发现本站换了新的主题。 回顾折腾博客的这一路，已经用过了5个主题，其中 PaperMod 这个用的时间最长。 cactus jane yinyang meme PaperMod 一直想换个新主题，但查了一下，没有找到特别喜欢的主题了。",
+    "source_root_domain": "liudon.com"
+  },
+  {
+    "title": "记一次疯狂的盲狙",
+    "url": "https://www.hecaitou.com/2026/09/one-crazy-blind-buy.html",
+    "date": "2026-09-04T03:18:45Z",
+    "description": "今天是 2026 年 9 月 4 日，在一个多月前的 7 月 25 日，我做了一件很疯狂的事情：盲狙一套监听音箱。 什么是音箱不重要，什么是监听音箱也不重要，盲狙比较重要，它本来是游戏术语，指在游戏里根本没有瞄准，而是凭借感觉直接开枪狙击。如今在网上，它的意思转变为根本没有上手亲自试过，真正体验过感受过，就直接下单购买。 盲狙一般称不上疯狂，盲狙一提从未用过的卷筒纸能有多疯狂？盲狙马应龙眼霜这才有点疯狂的意思。我这一次盲狙的疯狂之处不在于我之前从未听过这对音箱，也不在于我从闲鱼买的二手音箱，而在于全程都是 AI 提供的判断决策。 首先，我的 AI 和我很熟。之前我请它们帮我挑选了很多次 CD，和它们讨论过很多次我喜欢的音乐类型，还花了相当长时间和它们讨论如何调试音响系统，所以它们对我喜欢什么音乐类型，喜欢什么音色的音箱很清楚。 在这个基础上，我测量了房间的尺寸，拍照片让 AI 看了空间结构和房间内的物品，让 AI 充分了解我的听音环境。根据这些信息，AI 做了计算，先给了我一份声学装修建议。大概意思是如果按照这份建议布置房间，声音会很好听。然后我和 AI 讨价还价，让 AI 在预算上尽",
+    "source_root_domain": "hecaitou.com"
+  },
+  {
+    "title": "正在做一份本地模型的实用能力排行榜，测试",
+    "url": "https://versun.me/blog/tweet-2095699381437792299",
+    "date": "2026-09-04T02:24:03Z",
+    "description": "正在做一份本地模型的实用能力排行榜，测试集是从各种公开 benchmark中挑选微调，覆盖任务拆解、代码开发、长链路执行、上下文、指令遵循、记忆抽取、逻辑与常识 7 个维度 目前针对本地模型的评测很少，不知道有人感兴趣不，关注人多的话，我尽快测完放出来",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "跳皮筋 II",
+    "url": "https://mobius.blog/25597.html",
+    "date": "2026-09-04T01:30:00Z",
+    "description": "小王的同桌小张前几天被学校田径队选上了，其实没多少人在乎这件事，倒是以前老是迟到的小张，最近这段时间都准时来学 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。",
+    "source_root_domain": "onojyun.com"
+  },
+  {
+    "title": "2000，跨世纪的旧日常",
+    "url": "https://www.tortorse.com/archives/old-daily-life-at-the-turn-of-the-century-2000/",
+    "date": "2026-09-04T00:57:42Z",
+    "description": "校园公用电话旁，带着BP机的学生拿着电话卡",
+    "source_root_domain": "tortorse.com"
+  },
+  {
+    "title": "科技爱好者周刊（第 411 期）：OpenClaw 2.0 是一个缩影",
+    "url": "http://www.ruanyifeng.com/blog/2026/09/weekly-issue-411.html",
+    "date": "2026-09-03T23:59:05Z",
+    "description": "这里记录每周值得分享的科技内容，周五发布。 本杂志 开源 ，欢迎 投稿 。另有 《谁在招人》 服务，发布程序员招聘信息。合作请 邮件联系 （yifeng.ruan@gmail.com）。 封面图 宁夏西夏陵使用金属网，将残片还原成石像生。（ via ） OpenClaw 2.0 是一个缩影 本周，OpenClaw 发布了 2.0版 。 是不是很久没听到这个名字了？现在很少有人提到它，不过就是半年。 回想今年春节，它一夜走红，引发了全民热议。一时间，上门安装龙虾成了热门服务，还真有不少人付费。 仅仅过了半年，它就成了昨日黄花，已经被遗忘了。AI 时代就是这样，新事物层出不穷，再大的热门也就走红几天。 用了半年，它终于从1.0版升级到2.0版。 大家知道，OpenClaw 的代码几乎百分之百都是 AI 生成，早期每天发一个版本。后来发现不能这样，会把用户累死，于是从7月份开始，改成 每月发一个版本 。 以八月为例，月初的时候发布了测试版 2026.8.1-beta1 ，月中又发了 beta2 和 beta3，到了月底就发了 8月正式版 。同时，也发了9月的测试版 2026.9.1.beta",
+    "source_root_domain": "feedburner.com"
+  },
+  {
+    "title": "GPT 6 astra 发布了，为啥我一",
+    "url": "https://versun.me/blog/tweet-2095655099406422273",
+    "date": "2026-09-03T23:28:05Z",
+    "description": "GPT 6 astra 发布了，为啥我一点兴趣没有，贤者时间？",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "New Release: Prey",
+    "url": "https://macsourceports.com/game/prey",
+    "date": "2026-09-03T21:59:10Z",
+    "description": "So, first things first: this is the 2006 game called Prey , not the more recent 2017 game called Prey . In keeping with the trend of melding the game source with a related…",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "让下一台机器接着做（下）：我们如何设计一个可恢复的 Workflow Kernel",
+    "url": "https://www.l1ch40.com/2026/09/designing-a-resilient-workflow-kernel-part-2.html",
+    "date": "2026-09-03T20:09:54Z",
+    "description": "上篇解释了为什么「一个任务状态 + 一个从头跑到尾的函数」无法继续承载越来越长的任务处理链路，以及 Temporal 的 durable execution 思想给了我们什么启发。下篇进入实现：状态怎样分层，Worker 怎样接管中断任务，为什么 Redis 可以丢而 Mongo 不能丢，以及改造后增加了哪些恢复、干预和观察能力。 本文基于一套真实运行的业务实现整理。为避免暴露具体产品和内部结构，示例中的业务名称、类型数量、字段名和流程组合均经过泛化；状态转换、故障窗口和协议约束保持不变。没有数据支撑的成功率、吞吐或成本改善也不会被写成量化结论。 这套 Kernel 处理的核心问题是：在至少一次执行、进程随时退出和外部系统不受我们控制的条件下，怎样让一项工作持续、可控地走向唯一业务终态。 本文内容仅为抽象化的示范讲解，用于说明一类通用设计思路；文中的业务场景、字段名与执行细节均为虚构示例，不代表任何真实线上系统的实际执行逻辑；读者不需要了解原项目也可以独立阅读。 阅读词表 下篇会进入实现细节。下面这张表不要求读者记住字段名，只用来说明这些词分别在回答什么问题。 词 在本文中的含义 Wo",
+    "source_root_domain": "l1ch40.com"
+  },
+  {
+    "title": "服务重启了，为什么用户的任务失败了？（上）：从长任务到 Workflow",
+    "url": "https://www.l1ch40.com/2026/09/from-long-tasks-to-workflow-part-1.html",
+    "date": "2026-09-03T20:09:14Z",
+    "description": "本文来自一次真实的长任务处理链路重构。上篇先讲一个在早期约束下成立、后来逐渐超出适用边界的设计：服务关停时，通过回调把一批未完成任务收敛为失败。然后从零解释 Workflow 是什么、它和任务队列、状态机、DAG 有什么区别，以及 Temporal 的设计思想如何影响了我们的选择。 本文内容仅为抽象化的示范讲解，用于说明一类通用设计思路；文中的业务场景、字段名与执行细节均为虚构示例，不代表任何真实线上系统的实际执行逻辑；读者不需要了解原项目也可以独立阅读。 一个在早期约束下合理的关停逻辑 很长一段时间里，服务关停时会由一个回调把命中条件的处理中业务对象标记为失败。 这个选择有明确的工程背景。进程马上就要退出，内存中的 goroutine 也不会继续运行。将任务收敛到失败状态，可以避免用户长期看到「生成中」，也给后续重试留下一个明确入口。 服务运行在 Kubernetes 上，滚动部署时会进入优雅终止流程。Pod 的退出宽限期配置为五分钟： spec: terminationGracePeriodSeconds: 300 300 秒是从 Kubernetes 发出 SIGTERM 开始计",
+    "source_root_domain": "l1ch40.com"
+  },
+  {
+    "title": "Blog Theme Update Easier-to-Read Articles and Code Blocks",
+    "url": "https://www.bboy.app/2026/09/03/blog-theme-update-easier-to-read-articles-and-code-blocks/",
+    "date": "2026-09-03T17:50:00Z",
+    "description": "Introduction I just did a round of updates on the blog theme, mostly about the reading experience: fonts load more smoothly, article pages are wider and more comfortable, code blocks got a toolbar, and the table of contents now works on mobile too. This post records what changed.",
+    "source_root_domain": "bboy.app"
+  },
+  {
+    "title": "博客主题更新：更好读的文章页和代码块",
+    "url": "https://www.bboy.app/2026/09/03/%E5%8D%9A%E5%AE%A2%E4%B8%BB%E9%A2%98%E6%9B%B4%E6%96%B0%E6%9B%B4%E5%A5%BD%E8%AF%BB%E7%9A%84%E6%96%87%E7%AB%A0%E9%A1%B5%E5%92%8C%E4%BB%A3%E7%A0%81%E5%9D%97/",
+    "date": "2026-09-03T17:50:00Z",
+    "description": "简介 给博客主题做了一轮更新，重点在阅读体验：字体加载更顺、文章页更宽更舒服、代码块加了工具栏、移动端也能看目录了。这篇记录下这次都改了哪些东西。",
+    "source_root_domain": "bboy.app"
+  },
+  {
+    "title": "Building a Personal Manga Library with Komga",
+    "url": "https://www.bboy.app/2026/09/03/building-a-personal-manga-library-with-komga/",
+    "date": "2026-09-03T15:15:00Z",
+    "description": "Introduction I recently set up my own manga library. I download the manga, put it into Komga running on Kubernetes, and read it on my iPhone with KMReader. The files and reading progress stay under my control, and the whole setup is easier to use than I expected.",
+    "source_root_domain": "bboy.app"
+  },
+  {
+    "title": "用 Komga 搭一个自己的漫画库",
+    "url": "https://www.bboy.app/2026/09/03/%E7%94%A8-komga-%E6%90%AD%E4%B8%80%E4%B8%AA%E8%87%AA%E5%B7%B1%E7%9A%84%E6%BC%AB%E7%94%BB%E5%BA%93/",
+    "date": "2026-09-03T15:15:00Z",
+    "description": "简介 最近搭了一套自己的漫画库。漫画下载好以后放进 Komga，服务跑在 Kubernetes 里，iPhone 上用 KMReader 看。文件和阅读进度都在自己手里，用起来比我原来想的省事。",
+    "source_root_domain": "bboy.app"
+  },
+  {
+    "title": "把焦虑推迟到最后一天",
+    "url": "https://blog.solazy.me/20260903/",
+    "date": "2026-09-03T15:00:00Z",
+    "description": "最近半年，我养成了一个很管用的习惯",
+    "source_root_domain": "solazy.me"
+  },
+  {
+    "title": "海南之行后记",
+    "url": "https://blog.est.im/2026/stderr-28",
+    "date": "2026-09-03T12:51:00Z",
+    "description": "趁还记得，记录一些 起初是发现 嫦娥七号 在文昌发射，于是兴冲冲带着孩子去观看 CZ-5 发射 围绕着这个火箭发射基地做了大量调研；了解到很多知识： 发射基地分两块，一个是国发，一个是商发；CZ-5 在国发 国发最佳观赏地是 文昌县 门楼镇，淇水湾 发射前会封路，开车进不去 二话不说，定机票；无意中刷到 云闪付 有 -200 优惠，于是周五定闹钟抢票，抢到手。不过发现使用优惠，折腾了大半天发现 这优惠只能买去海南的单程，不能往返； 订单必须只有一人，而且必须是自己，付款人和乘机人必须是同一个人。 孩子未成年无法单独购票 未成年人在 -200 优惠之后附加购买，+100 折腾半天，感觉还比如直接一起打包买往返划算。囧 然后就是轰轰烈烈的定住处，观礼台。 因为时间比较接近了，发现价格贵得起飞，甚至一度想到骑电瓶车去路边看，考虑发射时间早上8点太早，很可能天气预报有雨于是作罢 选了一圈定 淇水湾五号 小区，价格 1500 。其实在门楼镇上有1200甚至900的，但是住宿条件更差。 然后，延迟一天，房东也爽快的答应延期一天入住； 但是返程机票已定，时间不够，于是折腾半天去改机票，每个人 -14",
+    "source_root_domain": "feedburner.com"
+  },
+  {
+    "title": "Writing following the F-pattern is a horrible horrible idea",
+    "url": "https://www.geedea.pro/en/article/f-with-f-pattern/",
+    "date": "2026-09-03T12:00:32Z",
+    "description": "The F-shape reading pattern is a well-known UX design consideration. UI/UX designers make use of users’ tendency to scan only the first paragraph, first sentence of each paragraph, and subheadings, to create interfaces that’s easier to read. They may try to guide users with well-signaled subheadings, multiple columns and what some call a layer cake pattern . It’s good practice for designers to guide users through landing pages, shopping websites and so on. It’s definitely not good practice for w",
+    "source_root_domain": "geedea.pro"
+  },
+  {
+    "title": "Memos: 终于、用上了 Google AI Pro 套餐",
+    "url": "https://blog.yasking.org/a/1788433028",
+    "date": "2026-09-03T11:04:23Z",
+    "description": "两个月前在闲鱼购买了个 18 月的 Google AI Pro 订阅，使用 小号 领取。 而后下载 Gemini Cli，登录后网页提示验证，提示需要输入手机号，一 …",
+    "source_root_domain": "yasking.org"
+  },
+  {
+    "title": "太牛了，mac下的linux安装助理，大",
+    "url": "https://versun.me/blog/tweet-2095463010458616293",
+    "date": "2026-09-03T10:44:48Z",
+    "description": "DHH We are moving very, very fast towards a fully streamlined Omarchy installer for Apple M machines. You just download our Omarchy M app, try it first, then pick how much space you dedicate, and we do the rest. Incredible team effort. Full announcement 太牛了，mac下的linux安装助理，大概率是基于 asahi linux，但是 asahi 雷电接口不能用，无法外接显示器😢 omarchy 能解决这些驱动吗",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "友链",
+    "url": "https://liudon.com/links/",
+    "date": "2026-09-03T06:17:58Z",
+    "description": "欢迎交换友链，但需要一定条件： 使用独立域名 内容以原创主，保持一定的更新频率 上线一年以上，内容十篇以上 本站友链相关信息： 站点名称：流动 站点地址：https://liudon.com 站点LOGO：https://liudon.com/avatar.png 申请友链时，请提供以下信息：",
+    "source_root_domain": "liudon.com"
+  },
+  {
+    "title": "星际杀手",
+    "url": "https://mobius.blog/25588.html",
+    "date": "2026-09-03T06:00:00Z",
+    "description": "星际杀手做好了打响指的准备，他再一次威胁谈判专家：“你知道我这个响指下去意味着什么，离我们最近的参宿四会立刻爆 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。",
+    "source_root_domain": "onojyun.com"
+  },
+  {
+    "title": "我玩了下Robinhood罗宾汉链上的fomo",
+    "url": "https://www.cheshirex.com/11070.html",
+    "date": "2026-09-03T02:12:43Z",
+    "description": "Robinhood罗宾汉是什么？ Robinhood是美国一个炒股APP，上面有很多散户股民。他在7月发了一个 […]",
+    "source_root_domain": "cheshirex.com"
+  },
+  {
+    "title": "一次优质离婚",
+    "url": "https://www.hecaitou.com/2026/09/a-meaningful-divorce.html",
+    "date": "2026-09-03T02:11:32Z",
+    "description": "有 位读者联系我，劈头一句话：菜头，我离婚了，我们当初是在你开发的 APP 上认识的。才看到这个开头我就觉得胃疼，这么多年我对网友的路数实在太熟悉了，接下来肯定就是各种各样的「都怪你」，比如： 都怪你，你不开发这个 App，我命里就不会有这一劫。 不过这次还好，后面他话锋一转，说结婚四年，有个可爱的孩子，如今已经搬出家去，内心非常后悔且不甘。然后，他做了一番反思，觉得问题出在自己身上，说自己是属于某一种什么人格，我也不懂，现在新名词很多，学不过来。 问题想清楚了，婚姻也没了，有千万句话不知道对谁说，只能来找我聊两句。最后，他带着歉意说，自己是在我开发的 APP 上认识的前妻，因而得到了婚姻，最后却让自己亲手给搞砸了。 本来我都低下头等着挨骂，然后反手一个拉黑断了因果，没想到读到最后会是这个样子。一时之间内心泛滥，却又不知道从何说起。 记得 有种说法，如果不考虑死亡的话，人生中最痛苦的两件事莫过于搬家和离婚。离婚对于一个人的打击很大，无论是其中哪一方，哪怕是迫不及待逃离婚姻的那一方也是如此。因为离婚很容易被理解为失败，而且是系列失败，从识人开始，到相恋，再到相处，全都是人生失败。错误的选",
+    "source_root_domain": "hecaitou.com"
+  },
+  {
+    "title": "跳皮筋",
+    "url": "https://mobius.blog/25584.html",
+    "date": "2026-09-03T02:02:19Z",
+    "description": "我小时候会跳皮筋，但更多是被抓去做那个帮别人固定皮筋的“桩子”，所以我也为此遭到过不少嘲笑：一说是跟女生玩女生 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。",
+    "source_root_domain": "onojyun.com"
+  },
+  {
+    "title": "Al Brooks 团队交易员 Rose 访谈复盘：震荡区间的本质、散户优势与 PF 考核法则",
+    "url": "https://blog.forecho.com/al-brooks-team-trader-rose-interview-insights.html",
+    "date": "2026-09-03T02:00:00Z",
+    "description": "引言 前几天看到了一期专访视频，嘉宾是 Al Brooks（阿布）团队的全职交易员兼直播交易员 Rose （她也是知名交易员 Tom Hougaard 极力推崇的搭档之一）。 整个访谈刨去前后的活动寒暄和洛杉矶闲聊，干货非常密集。Rose 从设计和艺术背景转行做交易，经历了亏损、重新学习、在 Al Brooks 团队全职交易 8 年，每天只盯标普 500（ES）5 分钟 K 线图。 她在访谈里分享了三个非常核心的交易认知： 为什么市场 80% 的时间是震荡区间（以及如何用限价单思维交易它） 、 散户对比机构的真正军事实时优势 ，以及 作为过来人，她如何打通 Prop Firm（自营交易公司）考核并实现提现 。 我把其中最有价值的交易逻辑和方法论系统整理了出来。 1. K 线是语言：你面对的是限价单市场，还是止损单市场？ 很多人学价格行为（Price Action），死记硬背各种蜡烛图形态，但一进实盘就亏钱。Rose 提出了一个非常生动的比喻： 每一根 K 线都是有性格的人，它们组合在一起是在进行一场对话 。 交易前首先要问自己两个问题： 今天市场处于什么情绪？ 当前是「止损单市场（St",
+    "source_root_domain": "forecho.com"
+  },
+  {
+    "title": "发3个内推哈，英语是工作语言，只要求技术",
+    "url": "https://versun.me/blog/tweet-2095309149441798432",
+    "date": "2026-09-03T00:33:24Z",
+    "description": "发3个内推哈，英语是工作语言，只要求技术和语言，学历不要求，感兴趣的可发简历到图二邮箱哈 java support: 负责 Apple CRS 的运维，懂 Java，前端 react 管理页面开发、运维、云服务、ERP，onsite 在 apple java developer: Java, Aliyun, database, AWS, 最近在从 aws 迁移到 aliyun，onsite 在 apple python: python, vue, java加分，onsite 在 Merck",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "浦东今天好凉快，非常适合去公园野营！可惜",
+    "url": "https://versun.me/blog/tweet-2095302278928560519",
+    "date": "2026-09-03T00:06:06Z",
+    "description": "浦东今天好凉快，非常适合去公园野营！可惜我要上班🥲",
+    "source_root_domain": "versun.me"
+  }
+]

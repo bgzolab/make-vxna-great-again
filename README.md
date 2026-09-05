@@ -27,6 +27,8 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-09-05 | [如何优雅地更新 MACOS 系统上的软件](http://yi.gs/post/duo_updater) | 上一次更新正好是一年前，所以更新一下。 既然是为了更新而更新，就来写写如何更新吧 ；） TL;DR：直接看 「更优雅地更新软件」 小节。 关于 macOS 上的软件安装 与 iOS 正常情况下只能通过 App Store 安装 APP 不同，macOS 有类似 Windows 的自由度来安装和使用第… |
+| 2026-09-05 | [Memos #2026-09-04](https://www.taober.blog/memos/memo_20260904112856_zwhlrk) | 19:30 多申请了一个 claude 账号，双持 fable 太爽了！ 比这更爽的发现同事一直在用 sonnet 🐶 |
 | 2026-09-04 | [你们要休息，要知道我是神。](https://diff.im/blog/2026/09/%E4%BD%A0%E4%BB%AC%E8%A6%81%E4%BC%91%E6%81%AF%E8%A6%81%E7%9F%A5%E9%81%93%E6%88%91%E6%98%AF%E7%A5%9E/) | 为了得到创业路上的正向的反馈，我像着了迷一样地投入到 AI Coding 之中。 尽管这个礼拜相比之前生活要平衡很多，但依然每天有超过 4 小时的时间放在 AI Coding 里面。这不仅是时间上的投入，更是精力上的投入。特别是现在的 AI 编程工具这么发达，不管在电脑前还是手机上，随时随地都可以做… |
 | 2026-09-04 | [只活到 50 岁也挺好](https://blog.solazy.me/20260904/) | 其实最近一直在想这个话题 |
 | 2026-09-04 | [6.47 MB 的 JS 字符串占了 15.4 MB 内存](https://bugs.cc/zh/posts/one-character-doubles-js-string-memory/) | open-connector 是我们在做的一个开源项目，把 1464 个第三方 API (Slack、GitHub、飞书这些) 包装成统一的 action 接口。每个第三方叫一个 provider，它有哪些 action、每个 action 的输入输出长什么样 (JSON Schema)，都写在一个… |
@@ -35,6 +37,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-09-04 | [以后就不麻烦您了](https://hux.ink/posts/leave-me-alone/) | 2014 年入市，最开始用的是华泰证券。2016 年股灾后，华泰不再支持同花顺第三方登录，于是弃之。重新开了个国金证券的账户，一用就是十余年。 这些年用下来，除了始终怀疑账户被下了“中不了新股”的诅咒，其他方面都挺好。以前也有客户经理，但基本不打电话营销，没什么存在感，正合我意。券商提供交易通道，我… |
 | 2026-09-04 | [博客焕新，记录继续](https://liudon.com/posts/blog-refresh/) | 前言 经常访问本站的朋友，可能已经发现本站换了新的主题。 回顾折腾博客的这一路，已经用过了5个主题，其中 PaperMod 这个用的时间最长。 cactus jane yinyang meme PaperMod 一直想换个新主题，但查了一下，没有找到特别喜欢的主题了。 |
 | 2026-09-04 | [记一次疯狂的盲狙](https://www.hecaitou.com/2026/09/one-crazy-blind-buy.html) | 今天是 2026 年 9 月 4 日，在一个多月前的 7 月 25 日，我做了一件很疯狂的事情：盲狙一套监听音箱。 什么是音箱不重要，什么是监听音箱也不重要，盲狙比较重要，它本来是游戏术语，指在游戏里根本没有瞄准，而是凭借感觉直接开枪狙击。如今在网上，它的意思转变为根本没有上手亲自试过，真正体验过感… |
+| 2026-09-04 | [正在做一份本地模型的实用能力排行榜，测试](https://versun.me/blog/tweet-2095699381437792299) | 正在做一份本地模型的实用能力排行榜，测试集是从各种公开 benchmark中挑选微调，覆盖任务拆解、代码开发、长链路执行、上下文、指令遵循、记忆抽取、逻辑与常识 7 个维度 目前针对本地模型的评测很少，不知道有人感兴趣不，关注人多的话，我尽快测完放出来 |
 | 2026-09-04 | [跳皮筋 II](https://mobius.blog/25597.html) | 小王的同桌小张前几天被学校田径队选上了，其实没多少人在乎这件事，倒是以前老是迟到的小张，最近这段时间都准时来学 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-09-04 | [2000，跨世纪的旧日常](https://www.tortorse.com/archives/old-daily-life-at-the-turn-of-the-century-2000/) | 校园公用电话旁，带着BP机的学生拿着电话卡 |
 | 2026-09-03 | [科技爱好者周刊（第 411 期）：OpenClaw 2.0 是一个缩影](http://www.ruanyifeng.com/blog/2026/09/weekly-issue-411.html) | 这里记录每周值得分享的科技内容，周五发布。 本杂志 开源 ，欢迎 投稿 。另有 《谁在招人》 服务，发布程序员招聘信息。合作请 邮件联系 （yifeng.ruan@gmail.com）。 封面图 宁夏西夏陵使用金属网，将残片还原成石像生。（ via ） OpenClaw 2.0 是一个缩影 本周，O… |
@@ -50,7 +53,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-09-03 | [海南之行后记](https://blog.est.im/2026/stderr-28) | 趁还记得，记录一些 起初是发现 嫦娥七号 在文昌发射，于是兴冲冲带着孩子去观看 CZ-5 发射 围绕着这个火箭发射基地做了大量调研；了解到很多知识： 发射基地分两块，一个是国发，一个是商发；CZ-5 在国发 国发最佳观赏地是 文昌县 门楼镇，淇水湾 发射前会封路，开车进不去 二话不说，定机票；无意中… |
 | 2026-09-03 | [Writing following the F-pattern is a horrible horrible idea](https://www.geedea.pro/en/article/f-with-f-pattern/) | The F-shape reading pattern is a well-known UX design consideration. UI/UX designers make use of users’ tendency to scan only the first paragraph, fir… |
 | 2026-09-03 | [Memos: 终于、用上了 Google AI Pro 套餐](https://blog.yasking.org/a/1788433028) | 两个月前在闲鱼购买了个 18 月的 Google AI Pro 订阅，使用 小号 领取。 而后下载 Gemini Cli，登录后网页提示验证，提示需要输入手机号，一 … |
-| 2026-09-03 | [如何优雅地更新 MACOS 系统上的软件](http://yi.gs/post/duo_updater) | 上一次更新正好是一年前，所以更新一下。 既然是为了更新而更新，就来写写如何更新吧 ；） TL;DR：直接看 「更优雅地更新软件」 小节。 关于 macOS 上的软件安装 与 iOS 正常情况下只能通过 App Store 安装 APP 不同，macOS 有类似 Windows 的自由度来安装和使用第… |
 | 2026-09-03 | [太牛了，mac下的linux安装助理，大](https://versun.me/blog/tweet-2095463010458616293) | DHH We are moving very, very fast towards a fully streamlined Omarchy installer for Apple M machines. You just download our Omarchy M app, try it firs… |
 | 2026-09-03 | [友链](https://liudon.com/links/) | 欢迎交换友链，但需要一定条件： 使用独立域名 内容以原创主，保持一定的更新频率 上线一年以上，内容十篇以上 本站友链相关信息： 站点名称：流动 站点地址：https://liudon.com 站点LOGO：https://liudon.com/avatar.png 申请友链时，请提供以下信息： |
 | 2026-09-03 | [星际杀手](https://mobius.blog/25588.html) | 星际杀手做好了打响指的准备，他再一次威胁谈判专家：“你知道我这个响指下去意味着什么，离我们最近的参宿四会立刻爆 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
@@ -153,7 +155,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-08-29 | [VMware NSX 4.2 - 平滑升级](https://songxwn.com/NSX4-Upgrade/) | NSX可以利用NSX Edge集群，ESXi集群、NSX Manager进行平滑逐个进入维护模式升级，可在保持业务不中断的情况下进行升级。 NSX系列文章： https://songxwn.com/tags/NSX/ |
 | 2026-08-29 | [深入 XRepoTest：如何把 LLM 单元测试生成拉回真实仓库](https://shansan.top/2026/08/29/xrepotest-deep-dive/) | XRepoTest, repository-level unit test generation, LLM benchmark, invocation rate, multilingual testing |
 | 2026-08-29 | [真实的人、虚伪的人，以及想要成为的人和被驯化成的人](https://mobius.blog/25565.html) | 文章是 2017 年第一次五百日写作计划时的内容，刚好用来回答这段时间的对于写作身份、创作者解释权、读者过度解 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
-| 2026-08-29 | [真实的人、虚伪的人，以及想要成为的人和被驯化成的人](https://onojyun.com/25565.html) | 文章是 2017 年第一次五百日写作计划时的内容，刚好用来回答这段时间的对于写作身份、创作者解释权、读者过度解 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-08-29 | [Nacos 3.1.1 升级 3.2.4 修复权限绕过漏洞记录](https://199604.com/3670) | Nacos 3.1.1 升级 3.2.4 修复权限绕过漏洞记录 记录时间：2026-08-28 至 2026- […] |
 | 2026-08-29 | [一些切片的终止](https://blog.solazy.me/20260829/) | 意外和明天，究竟哪个会先来？ |
 | 2026-08-29 | [？？？与时俱进呀，这只丑鸟](https://versun.me/blog/tweet-2093655481713877149) | Duolingo this movie on repeat till the cows come home #niulai https://twitter.com/toonhive/status/2090576946719555727 ？？？与时俱进呀，这只丑鸟 |
@@ -170,28 +171,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-08-29 | [《我的女友景甜》是富豪反女权的里程碑](https://sinyalee.com/blog/?p=1338) | 我认识的有钱人和顶级女人（指学历长相名气在择偶市场上被人追捧的女人）都不少。我从两个方向见过太多富豪被女权捞女 […] |
 | 2026-08-29 | [我10月底软考中级，希望能过🫡](https://versun.me/blog/tweet-2093493269267452295) | 引用 我10月底软考中级，希望能过🫡 |
 | 2026-08-29 | [Python 潮流周刊#165：Mojo 正式开源](https://pythoncat.top/posts/2026-08-29-weekly/) | 分享了 12 篇文章，12 个开源项目，3 则音视频 |
-| 2026-08-28 | [Star Wars: TIE Fighter updated](https://macsourceports.com/game/swtiefighter) | The build of OpenTIE for Star Wars: TIE Fighter has been updated to version 0.0.5 of the project |
-| 2026-08-28 | [Star Wars: X-Wing Alliance updated](https://macsourceports.com/game/swxwa) | The build of OpenXWA for Star Wars: X-Wing Alliance has been updated to version 0.0.16 of the project |
-| 2026-08-28 | [介绍一家最近去的头马 Toastmasters 演讲俱乐部](https://www.owenyoung.com/toastmasters) | 最近连续 3 周周五晚上都会去一家听名字我都不太敢介绍给别人的一个组织：头马 （Toastmasters）演讲俱乐部，Toastmasters，字面意思是“祝酒辞大师”。我去的是上海的 LEP 演讲俱乐部。 头马这个组织成立于 1924 年，已经一百多年了（我三周前才知道头马这个词）。它是一个非营利… |
-| 2026-08-28 | [小棉袄成长三部曲](https://springwood.me/toddler-growth/) | （摘要）最近终于搞定了上厕所 |
-| 2026-08-28 | [Theme Hospital updated](https://macsourceports.com/game/themehospital) | The build of CorsixTH for Theme Hospital has been updated to version v0.70.1 of the project |
-| 2026-08-28 | [No One Lives Forever 2: A Spy in H.A.R.M.'s Way updated](https://macsourceports.com/game/nolf2) | The build of NOLF2 for Mac for No One Lives Forever 2: A Spy in H.A.R.M.'s Way has been updated to version 0.4.2 of the project |
-| 2026-08-28 | [Quetoo updated](https://macsourceports.com/game/quetoo) | The build of Quetoo has been updated to version v1.0.84 of the project |
-| 2026-08-28 | [入蜀记 day459 十年周期](https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_459/) | 「十年周期。」 |
-| 2026-08-28 | [入蜀记 day458 Dead Kennedys](https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_458/) | 「Dead Kennedys.」 |
-| 2026-08-28 | [腾讯 hy4 才 770B 啊，也是MO](https://versun.me/blog/tweet-2093241536352018699) | Tencent Hy 🚀 Hy4 preview is here. 770B, 49B active, 1M context. Built for productivity. Open source frontier. Consistent affordable price. Use it. Tel… |
-| 2026-08-28 | [理财笔记 20260828](https://z.arlmy.me/posts/TILs/money/20260828_InvestmentNote/) | 「小记。」 |
-| 2026-08-28 | [哈哈，想起以前自己折腾 linux 的时](https://versun.me/blog/tweet-2093196663976562782) | DHH Maybe Nix is like Rust: Amazing if you don't have to look at the code! I'm open to the idea that Omarchy Cinque could switch packaging system if I… |
-| 2026-08-28 | [DeepSeek Harness：为什么要把智能体的所有部件都做成插件](https://gptkit.eth.limo/1058DA1B-E83D-40F2-B88C-171915F02042/) | 比较 AI Agent 时，人们往往先问“用了哪个模型”。但模型只是其中一部分。它能访问哪些文件和工具、怎样管理上下文、何时请求批准、如何恢复失败、把运行记录保存在哪里，这些都由模型之外的 Harness 决定。 DeepSeek Harness 的 Developer Preview 把这层基础设… |
-| 2026-08-28 | [下坡路的走法](https://www.hecaitou.com/2026/08/the-art-of-walking-downhill.html) | 近期不断有公众号作者来找我，哭诉流量下降的事。如果要一个简单的回答，我会说：耐心一点，也许只是一次算法调整，调整完毕之后也许会有改观。如果要一个直接的回复，我则会说：你还是去做视频或者音频吧，虽然现在也有点晚了。如果一定要写文字，那么小红书的笔记可能在现阶段更适合你。 至于我本人的想法？我经历了 B… |
-| 2026-08-28 | [终于拿到 Kimi 的飞书助手 Mira](https://versun.me/blog/tweet-2093165397264777369) | 终于拿到 Kimi 的飞书助手 Mira 的内测资格了，这几天玩玩看怎么样 |
-| 2026-08-28 | [开箱小米BE3600路由器(2.5G)+小米中枢网关](https://www.cheshirex.com/11043.html) | 前面我在拼多多百亿补贴买的小米BE6500Pro路由器翻车了，拼多多给了我一个二手货。 拼多多百亿补贴卖给了我 […] |
-| 2026-08-28 | [AI 让代码变便宜以后，工程师真正昂贵的是什么](https://gptkit.eth.limo/9465B233-6B36-4432-ADA1-1A7E447C9186/) | AI 编程工具最直观的变化，是让“写出一批能运行的代码”变得更快。一个需求可以在几小时内长出页面、接口、数据表和测试，过去需要几天的实现工作被压缩到一个下午。 但软件交付并不在代码生成时结束。团队还要理解设计、审查影响、验证行为、迁移数据、处理故障，并在几个月后继续修改。生成速度提高后，这些工作反而… |
-| 2026-08-28 | [一个小区门口可以开几家包子店？](https://mobius.blog/25519.html) | 楼下有两家包子店，一家只在一、三、五、六的上午营业，而另一家一周开七天，从早上 6 点工作到凌晨 1 点。两家 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
-| 2026-08-28 | [一个小区门口可以开几家包子店？](https://onojyun.com/25519.html) | 楼下有两家包子店，一家只在一、三、五、六的上午营业，而另一家一周开七天，从早上 6 点工作到凌晨 1 点。两家 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
-| 2026-08-28 | [这个有点好玩呀，AI 开始系统化了，以后](https://versun.me/blog/tweet-2093147301091099122) | warmwind Introducing warmwind OS: The World’s First AI Operating System warmwind is live. After three years of building, testing, breaking things, reb… |
-| 2026-08-28 | [以前安装试一试后，如果不错会付费 现在我](https://versun.me/blog/tweet-2093140694810624017) | 向阳乔木 全键盘操作的笔记工具，类似Workflowy，无限层级大纲视图笔记软件。 AI、看板、脑图功能收费，其他免费。 地址见评论区 以前安装试一试后，如果不错会付费 现在我的第一反应竟然是，让 AI 复刻难不难，其次才是值不值得付费。。。 现在做产品是真难呀😂不仅要比卖点，还得比复刻难度 |
-| 2026-08-28 | [Memos #2026-08-27](https://www.taober.blog/memos/memo_20260827013049_4202nz) | 09:33 昨晚下雨，九点准时打车，快十点才上车。到家空调吹得眼睛特别干。晚上做了个梦，导致今天又九点十五才醒，纠结了一阵还是去公司上班吧。 真两眼一睁就是干！ |
 
 ## Vibe Coding
 
