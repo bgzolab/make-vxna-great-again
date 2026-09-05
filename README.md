@@ -27,6 +27,11 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-09-05 | [周末流水账 0905](https://blog.solazy.me/20260905/) | 这周末是说走就走的休闲游 |
+| 2026-09-05 | [入蜀记 day467 小小的真理](https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_467/) | 「小小的真理。」 |
+| 2026-09-05 | [入蜀记 day466 近谿](https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_466/) | 「近谿。」 |
+| 2026-09-05 | [入蜀记 day465 一点秋高气爽](https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_465/) | 「一点秋高气爽。」 |
+| 2026-09-05 | [现象学导论](https://www.geedea.pro/library/2026/introduction-to-phenomenology/) | 顾名思义，本书是介绍「现象学」这一哲学分支的专著。作者索科罗斯基是美国天主教大学的哲学教授，我去看他在豆瓣上的照片，也是身穿黑袍的模样。不难理解，这本书其实是本给本科生读的现象学入门教材，不过文风和一般的教材不同，语言通俗，有对话感，不过对我来说有些太啰唆了，尽管我知道这个老先生真的很想循序渐进，把… |
 | 2026-09-05 | [2001，电脑进了家门](https://www.tortorse.com/archives/computer-came-home-2001/) | 2001年的房间里，年轻人坐在电脑前 |
 | 2026-09-05 | [抒情的基础](https://www.hecaitou.com/2026/09/the-groundwork-for-romance.html) | 抒情也需要基础的，不是说内心足够敏感就够了，不是说掏钱买个道具就行了。哪怕你就是看一下云，也得去到一个可以看到广阔天空的地方。这意味着你要知道这地方在哪里，你有合适的交通方式抵达。 很多人一听到有什么可以为生活增色的小物件，第一句话就是问「链接呢」，要不然就是问「什么牌子，什么型号」，感觉是自己和美… |
 | 2026-09-05 | [Memos #2026-09-04](https://www.taober.blog/memos/memo_20260904112856_zwhlrk) | 19:30 多申请了一个 claude 账号，双持 fable 太爽了！ 比这更爽的发现同事一直在用 sonnet 🐶 |
