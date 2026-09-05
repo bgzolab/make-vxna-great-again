@@ -27,7 +27,8 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
-| 2026-09-05 | [如何优雅地更新 MACOS 系统上的软件](http://yi.gs/post/duo_updater) | 上一次更新正好是一年前，所以更新一下。 既然是为了更新而更新，就来写写如何更新吧 ；） TL;DR：直接看 「更优雅地更新软件」 小节。 关于 macOS 上的软件安装 与 iOS 正常情况下只能通过 App Store 安装 APP 不同，macOS 有类似 Windows 的自由度来安装和使用第… |
+| 2026-09-05 | [2001，电脑进了家门](https://www.tortorse.com/archives/computer-came-home-2001/) | 2001年的房间里，年轻人坐在电脑前 |
+| 2026-09-05 | [抒情的基础](https://www.hecaitou.com/2026/09/the-groundwork-for-romance.html) | 抒情也需要基础的，不是说内心足够敏感就够了，不是说掏钱买个道具就行了。哪怕你就是看一下云，也得去到一个可以看到广阔天空的地方。这意味着你要知道这地方在哪里，你有合适的交通方式抵达。 很多人一听到有什么可以为生活增色的小物件，第一句话就是问「链接呢」，要不然就是问「什么牌子，什么型号」，感觉是自己和美… |
 | 2026-09-05 | [Memos #2026-09-04](https://www.taober.blog/memos/memo_20260904112856_zwhlrk) | 19:30 多申请了一个 claude 账号，双持 fable 太爽了！ 比这更爽的发现同事一直在用 sonnet 🐶 |
 | 2026-09-04 | [你们要休息，要知道我是神。](https://diff.im/blog/2026/09/%E4%BD%A0%E4%BB%AC%E8%A6%81%E4%BC%91%E6%81%AF%E8%A6%81%E7%9F%A5%E9%81%93%E6%88%91%E6%98%AF%E7%A5%9E/) | 为了得到创业路上的正向的反馈，我像着了迷一样地投入到 AI Coding 之中。 尽管这个礼拜相比之前生活要平衡很多，但依然每天有超过 4 小时的时间放在 AI Coding 里面。这不仅是时间上的投入，更是精力上的投入。特别是现在的 AI 编程工具这么发达，不管在电脑前还是手机上，随时随地都可以做… |
 | 2026-09-04 | [只活到 50 岁也挺好](https://blog.solazy.me/20260904/) | 其实最近一直在想这个话题 |
@@ -53,6 +54,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-09-03 | [海南之行后记](https://blog.est.im/2026/stderr-28) | 趁还记得，记录一些 起初是发现 嫦娥七号 在文昌发射，于是兴冲冲带着孩子去观看 CZ-5 发射 围绕着这个火箭发射基地做了大量调研；了解到很多知识： 发射基地分两块，一个是国发，一个是商发；CZ-5 在国发 国发最佳观赏地是 文昌县 门楼镇，淇水湾 发射前会封路，开车进不去 二话不说，定机票；无意中… |
 | 2026-09-03 | [Writing following the F-pattern is a horrible horrible idea](https://www.geedea.pro/en/article/f-with-f-pattern/) | The F-shape reading pattern is a well-known UX design consideration. UI/UX designers make use of users’ tendency to scan only the first paragraph, fir… |
 | 2026-09-03 | [Memos: 终于、用上了 Google AI Pro 套餐](https://blog.yasking.org/a/1788433028) | 两个月前在闲鱼购买了个 18 月的 Google AI Pro 订阅，使用 小号 领取。 而后下载 Gemini Cli，登录后网页提示验证，提示需要输入手机号，一 … |
+| 2026-09-03 | [如何优雅地更新 MACOS 系统上的软件](http://yi.gs/post/duo_updater) | 上一次更新正好是一年前，所以更新一下。 既然是为了更新而更新，就来写写如何更新吧 ；） TL;DR：直接看 「更优雅地更新软件」 小节。 关于 macOS 上的软件安装 与 iOS 正常情况下只能通过 App Store 安装 APP 不同，macOS 有类似 Windows 的自由度来安装和使用第… |
 | 2026-09-03 | [太牛了，mac下的linux安装助理，大](https://versun.me/blog/tweet-2095463010458616293) | DHH We are moving very, very fast towards a fully streamlined Omarchy installer for Apple M machines. You just download our Omarchy M app, try it firs… |
 | 2026-09-03 | [友链](https://liudon.com/links/) | 欢迎交换友链，但需要一定条件： 使用独立域名 内容以原创主，保持一定的更新频率 上线一年以上，内容十篇以上 本站友链相关信息： 站点名称：流动 站点地址：https://liudon.com 站点LOGO：https://liudon.com/avatar.png 申请友链时，请提供以下信息： |
 | 2026-09-03 | [星际杀手](https://mobius.blog/25588.html) | 星际杀手做好了打响指的准备，他再一次威胁谈判专家：“你知道我这个响指下去意味着什么，离我们最近的参宿四会立刻爆 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |

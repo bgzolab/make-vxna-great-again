@@ -1,10 +1,17 @@
 [
   {
-    "title": "如何优雅地更新 MACOS 系统上的软件",
-    "url": "http://yi.gs/post/duo_updater",
-    "date": "2026-09-05T02:05:14Z",
-    "description": "上一次更新正好是一年前，所以更新一下。 既然是为了更新而更新，就来写写如何更新吧 ；） TL;DR：直接看 「更优雅地更新软件」 小节。 关于 macOS 上的软件安装 与 iOS 正常情况下只能通过 App Store 安装 APP 不同，macOS 有类似 Windows 的自由度来安装和使用第三方软件。 在「设置」-「隐私与安全性」-「安全性」-「允许以下来源的应用程序」中开启「App Store 与已知开发者」后，无论是通过 Homebrew 还是软件官网下载，只要第三方软件满足以下两点即可直接使用： 有效代码签名（Developer ID 证书签名） 开发者加入 99 刀/年的 Apple Developer Program 来获取 Developer ID 证书。 苹果公证（Notarization） 开发者把签好名的 App 上传到 Apple Notary Service，苹果自动扫描通过后打上公证凭证。 关于在 macOS 上更新软件 安装后，对于新版强迫症患者最大的问题是 macOS 上的更新途径非常分散且不够优雅： 使用 App Store 更新 App Stor",
-    "source_root_domain": "yi.gs"
+    "title": "2001，电脑进了家门",
+    "url": "https://www.tortorse.com/archives/computer-came-home-2001/",
+    "date": "2026-09-05T05:03:56Z",
+    "description": "2001年的房间里，年轻人坐在电脑前",
+    "source_root_domain": "tortorse.com"
+  },
+  {
+    "title": "抒情的基础",
+    "url": "https://www.hecaitou.com/2026/09/the-groundwork-for-romance.html",
+    "date": "2026-09-05T04:07:36Z",
+    "description": "抒情也需要基础的，不是说内心足够敏感就够了，不是说掏钱买个道具就行了。哪怕你就是看一下云，也得去到一个可以看到广阔天空的地方。这意味着你要知道这地方在哪里，你有合适的交通方式抵达。 很多人一听到有什么可以为生活增色的小物件，第一句话就是问「链接呢」，要不然就是问「什么牌子，什么型号」，感觉是自己和美好生活之间只差一次购物。 事情当真那么简单么？ 比如说那种星空投影灯，晚上躺在床上关了顶灯，点亮投影灯，它就会在房顶投射出缓缓移动的银河。这时候播放一些轻柔的音乐，仰面看着繁星满天，星河流动，让人觉得静谧而松弛，很容易入睡。但你的卧室有根隆起的梁呢？银河就会出现折痕，强烈地提醒你大梁的存在，提醒你是躺在一个水泥盒子里，于是你就无法抒情了。 星空投影灯还只是涉及光影和平面，要素非常简单，但是稍微有一点点变动，整体效果就会大打折扣，这是一次「买买买」或者「上链接」就能解决的么？ 现在，我加上一个要素：亮度，那就是家用投影仪。也是很浪漫的物件，一方面你可以在自家客厅里保留一面大白墙，视觉效果上简约而整洁。另一方面你也可以用投影仪在这面白墙上播放影视剧，很轻易地获得 100 英寸电视的显示效果，在家",
+    "source_root_domain": "hecaitou.com"
   },
   {
     "title": "Memos #2026-09-04",
@@ -180,6 +187,13 @@
     "date": "2026-09-03T11:04:23Z",
     "description": "两个月前在闲鱼购买了个 18 月的 Google AI Pro 订阅，使用 小号 领取。 而后下载 Gemini Cli，登录后网页提示验证，提示需要输入手机号，一 …",
     "source_root_domain": "yasking.org"
+  },
+  {
+    "title": "如何优雅地更新 MACOS 系统上的软件",
+    "url": "http://yi.gs/post/duo_updater",
+    "date": "2026-09-03T10:59:00Z",
+    "description": "上一次更新正好是一年前，所以更新一下。 既然是为了更新而更新，就来写写如何更新吧 ；） TL;DR：直接看 「更优雅地更新软件」 小节。 关于 macOS 上的软件安装 与 iOS 正常情况下只能通过 App Store 安装 APP 不同，macOS 有类似 Windows 的自由度来安装和使用第三方软件。 在「设置」-「隐私与安全性」-「安全性」-「允许以下来源的应用程序」中开启「App Store 与已知开发者」后，无论是通过 Homebrew 还是软件官网下载，只要第三方软件满足以下两点即可直接使用： 有效代码签名（Developer ID 证书签名） 开发者加入 99 刀/年的 Apple Developer Program 来获取 Developer ID 证书。 苹果公证（Notarization） 开发者把签好名的 App 上传到 Apple Notary Service，苹果自动扫描通过后打上公证凭证。 关于在 macOS 上更新软件 安装后，对于新版强迫症患者最大的问题是 macOS 上的更新途径非常分散且不够优雅： 使用 App Store 更新 App Stor",
+    "source_root_domain": "yi.gs"
   },
   {
     "title": "太牛了，mac下的linux安装助理，大",
