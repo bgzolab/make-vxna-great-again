@@ -27,6 +27,8 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-09-06 | [Jenkins Vue 流水线接入存量 yarn 项目：依赖安装连环失败与产物目录不匹配的排查](https://199604.com/3682) | Jenkins Vue 流水线接入存量 yarn 项目：依赖安装连环失败与产物目录不匹配的排查 记录时间：20 […] |
+| 2026-09-06 | [Toots 435 2026 Aug.30 - Sep.5](https://z.arlmy.me/posts/MastodonArchives/2026/MastodonTootsArchives_20260905/) | 「耗散。」 |
 | 2026-09-06 | [2026.9.6](https://www.justzht.com/2026-9-6/) | labor day 长周末，原本要开一号公路的计划因为封路泡汤，在家没啥事情，捡起来今年一月份在做的 epoch 的 Playdate 版本，想优 |
 | 2026-09-06 | [Virae 项目的最新进展和困境](https://smallyu.net/2026/09/06/Virae%E9%A1%B9%E7%9B%AE%E7%9A%84%E6%9C%80%E6%96%B0%E8%BF%9B%E5%B1%95%E5%92%8C%E5%9B%B0%E5%A2%83/) | 距离《<a |
 | 2026-09-06 | [少年承载了太多年长者的恶臭投射](https://www.geedea.pro/article/projections-on-the-young/) | 我在《 为什么尝试理解年轻人的年长者都略显笨拙？ 》中提到，有很多自以为懂得年轻人的年长者仅仅是把年轻人当成行为一致的整体来看，而不关注具体的人。他们教其他年长者如何与年轻人对话，就像是给城里人 介绍家畜的习性 一样，仿佛每个年轻人都长着一样的脑袋。最近我观察到了另一种年长者，我对他们与我对话的方式… |
@@ -37,6 +39,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-09-06 | [记录购买替尔泊肽](https://www.quji.org/archives/8839?pk_campaign=feed&pk_kwd=%25e8%25ae%25b0%25e5%25bd%2595%25e8%25b4%25ad%25e4%25b9%25b0%25e6%259b%25bf%25e5%25b0%2594%25e6%25b3%258a%25e8%2582%25bd) | 去年我才知道了这个药，领导在打，我就去了解了一下，果然是减肥神药，只是价格很贵，最近价格下来了很多，据说是要纳 […] |
 | 2026-09-06 | [月刊（第36期）：伊始](https://ursb.me/posts/weekly-36/) | 从六月到八月：不断增加的 AI 开销、自己的小世界，首尔与釜山的旅行，以及在徒步、游戏和日常里慢慢找回节奏。 |
 | 2026-09-05 | [霓虹下的微型交易：我的香港隐秘经济史游记](https://www.l1ch40.com/2026/09/hong-kongs-shadow-economy-under-neon-lights.html) | “阿金努力，阿金搵到食！” 这句台词来自香港电影《金鸡》，它代表了 “狮子山下”一种艰难而灵活的生存精神。电影中，主人公阿金凭借这种精神在鱼龙混杂的场所打拼，但她的生意很快被新的时代背景冲击——大陆及其他国家妓女的涌入“抢”走了本地人的生意。阿金的故事让我心底埋下了一颗种子：我想去看看光鲜亮丽的香港… |
+| 2026-09-05 | [轻糖的 KMP 实战：一次冷启动 3 秒必现崩溃，与 viewModelScope 异常逃逸的代价](https://youngxhui.top/2026/09/sugarlite-kmp-exception/) | 第三篇文章收尾时，我们说迁移完成后的日常是"新功能默认 KMP-first"。这句话没错，但它隐藏了一个前提： 共享层代码在两端的运行环境并不对等 ——同样的代码，在 Android 上是一次可捕获的异常，在 iOS 上可能是整个进程的直接死亡。 这篇文章记录一次真实事故：轻糖 iOS 版冷启动 3… |
 | 2026-09-05 | [高鲁棒性 API 设计之 Idempotency Key 幂等键](https://blog.yasking.org/a/idempotency-key) | 有这样一个场景，客户端调用服务端 API 兑换奖励： POST /api/v1/redemptions { "reward_id" : "id-123" } 用户发起一次商品兑换请求，因网络等因素，客户端不清楚 … |
 | 2026-09-05 | [周末流水账 0905](https://blog.solazy.me/20260905/) | 这周末是说走就走的休闲游 |
 | 2026-09-05 | [入蜀记 day467 小小的真理](https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_467/) | 「小小的真理。」 |

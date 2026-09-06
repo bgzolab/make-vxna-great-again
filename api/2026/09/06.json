@@ -1,5 +1,19 @@
 [
   {
+    "title": "Jenkins Vue 流水线接入存量 yarn 项目：依赖安装连环失败与产物目录不匹配的排查",
+    "url": "https://199604.com/3682",
+    "date": "2026-09-06T15:00:07Z",
+    "description": "Jenkins Vue 流水线接入存量 yarn 项目：依赖安装连环失败与产物目录不匹配的排查 记录时间：20 […]",
+    "source_root_domain": "199604.com"
+  },
+  {
+    "title": "Toots 435 2026 Aug.30 - Sep.5",
+    "url": "https://z.arlmy.me/posts/MastodonArchives/2026/MastodonTootsArchives_20260905/",
+    "date": "2026-09-06T14:56:27Z",
+    "description": "「耗散。」",
+    "source_root_domain": "arlmy.me"
+  },
+  {
     "title": "2026.9.6",
     "url": "https://www.justzht.com/2026-9-6/",
     "date": "2026-09-06T12:02:00Z",
@@ -68,6 +82,13 @@
     "date": "2026-09-05T16:44:19Z",
     "description": "“阿金努力，阿金搵到食！” 这句台词来自香港电影《金鸡》，它代表了 “狮子山下”一种艰难而灵活的生存精神。电影中，主人公阿金凭借这种精神在鱼龙混杂的场所打拼，但她的生意很快被新的时代背景冲击——大陆及其他国家妓女的涌入“抢”走了本地人的生意。阿金的故事让我心底埋下了一颗种子：我想去看看光鲜亮丽的香港之下，那隐秘的B面生活。 Russian? 我的冒险始于湾仔的一栋旧式大厦。在上升的电梯里，我遇到了一位来自中国南方的中年大哥。他直截了当地问我：“你知道哪楼有外国人吗？” 我说自己也是初次来，不太懂。沉默片刻，我提议：“咱俩可以扫一下楼找找看。” 就这样，我陪着他从顶楼开始往下走。一路上的霓虹灯悬挂着，门上的纸条像勋章一样贴满了整个门面。这种景象让人想起“鱼翅捞饭”的黄金年代，经济上升，人人对未来充满期待。也正是那时的经济差距和高汇率，吸引了大陆以及其他国家的性工作者涌入香港。 扫楼期间，大哥叩响了数不清的房门，每次开门都只问一句：“Russian？” 我好奇他为何如此执着，他淡淡一笑，说俄罗斯人漂亮。大楼的内部结构像蜂巢一样，让人感到压抑和眼花。墙上“偷手机的人，死全家”的标语，则揭示了",
     "source_root_domain": "l1ch40.com"
+  },
+  {
+    "title": "轻糖的 KMP 实战：一次冷启动 3 秒必现崩溃，与 viewModelScope 异常逃逸的代价",
+    "url": "https://youngxhui.top/2026/09/sugarlite-kmp-exception/",
+    "date": "2026-09-05T16:00:00Z",
+    "description": "第三篇文章收尾时，我们说迁移完成后的日常是\"新功能默认 KMP-first\"。这句话没错，但它隐藏了一个前提： 共享层代码在两端的运行环境并不对等 ——同样的代码，在 Android 上是一次可捕获的异常，在 iOS 上可能是整个进程的直接死亡。 这篇文章记录一次真实事故：轻糖 iOS 版冷启动 3 秒必现 SIGABRT，堆栈指向一个陌生的符号 propagateExceptionFinalResort 。根因不在 iOS 侧的任何一行 Swift 代码，而在 shared 层 ViewModel 里几个看似无害的 Flow 订阅—— 它们的异常从未被捕获，在 Kotlin/Native 上直接杀死了进程 。 💥 事故现场：启动 3 秒，进程消失 现象非常规律：iOS 冷启动后，首页数据刚开始加载，大约 3 秒，App 闪退。必现，不分机型，不分系统版本。 崩溃报告里能看到的信息： 信号是 SIGABRT ，不是常见的 SIGSEGV / SIGTRAP； 栈底出现 propagateExceptionFinalResort 这个符号——它不是我们的代码，也不是 Swift 运行时的",
+    "source_root_domain": "youngxhui.top"
   },
   {
     "title": "高鲁棒性 API 设计之 Idempotency Key 幂等键",
