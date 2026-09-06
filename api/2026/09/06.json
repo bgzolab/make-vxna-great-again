@@ -1,0 +1,191 @@
+[
+  {
+    "title": "Star Wars: X-Wing Alliance updated",
+    "url": "https://macsourceports.com/game/swxwa",
+    "date": "2026-09-06T02:47:44Z",
+    "description": "The build of OpenXWA for Star Wars: X-Wing Alliance has been updated to version v0.0.17 of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "Quetoo updated",
+    "url": "https://macsourceports.com/game/quetoo",
+    "date": "2026-09-06T02:47:00Z",
+    "description": "The build of Quetoo has been updated to version v1.0.86 of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "≡ 009｜这一周莫比乌斯环转到了哪里？",
+    "url": "https://mobius.blog/25666.html",
+    "date": "2026-09-06T01:30:00Z",
+    "description": "—— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。",
+    "source_root_domain": "onojyun.com"
+  },
+  {
+    "title": "记录购买替尔泊肽",
+    "url": "https://www.quji.org/archives/8839?pk_campaign=feed&pk_kwd=%25e8%25ae%25b0%25e5%25bd%2595%25e8%25b4%25ad%25e4%25b9%25b0%25e6%259b%25bf%25e5%25b0%2594%25e6%25b3%258a%25e8%2582%25bd",
+    "date": "2026-09-06T00:17:06Z",
+    "description": "去年我才知道了这个药，领导在打，我就去了解了一下，果然是减肥神药，只是价格很贵，最近价格下来了很多，据说是要纳 […]",
+    "source_root_domain": "quji.org"
+  },
+  {
+    "title": "霓虹下的微型交易：我的香港隐秘经济史游记",
+    "url": "https://www.l1ch40.com/2026/09/hong-kongs-shadow-economy-under-neon-lights.html",
+    "date": "2026-09-05T16:44:19Z",
+    "description": "“阿金努力，阿金搵到食！” 这句台词来自香港电影《金鸡》，它代表了 “狮子山下”一种艰难而灵活的生存精神。电影中，主人公阿金凭借这种精神在鱼龙混杂的场所打拼，但她的生意很快被新的时代背景冲击——大陆及其他国家妓女的涌入“抢”走了本地人的生意。阿金的故事让我心底埋下了一颗种子：我想去看看光鲜亮丽的香港之下，那隐秘的B面生活。 Russian? 我的冒险始于湾仔的一栋旧式大厦。在上升的电梯里，我遇到了一位来自中国南方的中年大哥。他直截了当地问我：“你知道哪楼有外国人吗？” 我说自己也是初次来，不太懂。沉默片刻，我提议：“咱俩可以扫一下楼找找看。” 就这样，我陪着他从顶楼开始往下走。一路上的霓虹灯悬挂着，门上的纸条像勋章一样贴满了整个门面。这种景象让人想起“鱼翅捞饭”的黄金年代，经济上升，人人对未来充满期待。也正是那时的经济差距和高汇率，吸引了大陆以及其他国家的性工作者涌入香港。 扫楼期间，大哥叩响了数不清的房门，每次开门都只问一句：“Russian？” 我好奇他为何如此执着，他淡淡一笑，说俄罗斯人漂亮。大楼的内部结构像蜂巢一样，让人感到压抑和眼花。墙上“偷手机的人，死全家”的标语，则揭示了",
+    "source_root_domain": "l1ch40.com"
+  },
+  {
+    "title": "高鲁棒性 API 设计之 Idempotency Key 幂等键",
+    "url": "https://blog.yasking.org/a/idempotency-key",
+    "date": "2026-09-05T13:34:00Z",
+    "description": "有这样一个场景，客户端调用服务端 API 兑换奖励： POST /api/v1/redemptions { \"reward_id\" : \"id-123\" } 用户发起一次商品兑换请求，因网络等因素，客户端不清楚 …",
+    "source_root_domain": "yasking.org"
+  },
+  {
+    "title": "周末流水账 0905",
+    "url": "https://blog.solazy.me/20260905/",
+    "date": "2026-09-05T12:00:00Z",
+    "description": "这周末是说走就走的休闲游",
+    "source_root_domain": "solazy.me"
+  },
+  {
+    "title": "入蜀记 day467 小小的真理",
+    "url": "https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_467/",
+    "date": "2026-09-05T11:49:27Z",
+    "description": "「小小的真理。」",
+    "source_root_domain": "arlmy.me"
+  },
+  {
+    "title": "入蜀记 day466 近谿",
+    "url": "https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_466/",
+    "date": "2026-09-05T11:47:27Z",
+    "description": "「近谿。」",
+    "source_root_domain": "arlmy.me"
+  },
+  {
+    "title": "入蜀记 day465 一点秋高气爽",
+    "url": "https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_465/",
+    "date": "2026-09-05T11:43:27Z",
+    "description": "「一点秋高气爽。」",
+    "source_root_domain": "arlmy.me"
+  },
+  {
+    "title": "家里有一台十几年前的戴尔xps 11，还",
+    "url": "https://versun.me/blog/tweet-2096198283114737774",
+    "date": "2026-09-05T11:26:30Z",
+    "description": "家里有一台十几年前的戴尔xps 11，还能开机，但很卡，卖不出，又不想用，太重了，有啥可以利用的吗？还是只能收废品了😂",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "现象学导论",
+    "url": "https://www.geedea.pro/library/2026/introduction-to-phenomenology/",
+    "date": "2026-09-05T10:14:46Z",
+    "description": "顾名思义，本书是介绍「现象学」这一哲学分支的专著。作者索科罗斯基是美国天主教大学的哲学教授，我去看他在豆瓣上的照片，也是身穿黑袍的模样。不难理解，这本书其实是本给本科生读的现象学入门教材，不过文风和一般的教材不同，语言通俗，有对话感，不过对我来说有些太啰唆了，尽管我知道这个老先生真的很想循序渐进，把我一步步引进现象学乃至哲学的门道里来。 书本读起来没有什么难度，不过现象学的概念和理论模型不少。我想要吃透，所以阅读过程中停下来记了不少笔记，所以读了一个多月（我是从 8 月 1 日开始读的），另一个原因是下班之后没什么精神，只能早晨阅读，每天的阅读时间真的不多。 那么之后就该读点小说了…… 这本书的语言和结构，与现象学这个学科本身一样，「既是简单明了，又是错综复杂」。由于现象学诞生于特定的历史时期，所以还能了解到它与前后的其他哲学学派的关系。作为导论类的书籍，它的确阐明了概念，捋清了学说的内部结构，同时作者没有把书写成对胡塞尔等人著作的注脚，而是大量地从自己的角度出发，此外他还给我提供了不少引子，让我知道接下来可以再读哪些哲学家的著作。 关于翻译 译者很认真负责，尤其是对名词的考证。比如在",
+    "source_root_domain": "geedea.pro"
+  },
+  {
+    "title": "2001，电脑进了家门",
+    "url": "https://www.tortorse.com/archives/computer-came-home-2001/",
+    "date": "2026-09-05T05:03:56Z",
+    "description": "2001年的房间里，年轻人坐在电脑前",
+    "source_root_domain": "tortorse.com"
+  },
+  {
+    "title": "抒情的基础",
+    "url": "https://www.hecaitou.com/2026/09/the-groundwork-for-romance.html",
+    "date": "2026-09-05T04:07:36Z",
+    "description": "抒情也需要基础的，不是说内心足够敏感就够了，不是说掏钱买个道具就行了。哪怕你就是看一下云，也得去到一个可以看到广阔天空的地方。这意味着你要知道这地方在哪里，你有合适的交通方式抵达。 很多人一听到有什么可以为生活增色的小物件，第一句话就是问「链接呢」，要不然就是问「什么牌子，什么型号」，感觉是自己和美好生活之间只差一次购物。 事情当真那么简单么？ 比如说那种星空投影灯，晚上躺在床上关了顶灯，点亮投影灯，它就会在房顶投射出缓缓移动的银河。这时候播放一些轻柔的音乐，仰面看着繁星满天，星河流动，让人觉得静谧而松弛，很容易入睡。但你的卧室有根隆起的梁呢？银河就会出现折痕，强烈地提醒你大梁的存在，提醒你是躺在一个水泥盒子里，于是你就无法抒情了。 星空投影灯还只是涉及光影和平面，要素非常简单，但是稍微有一点点变动，整体效果就会大打折扣，这是一次「买买买」或者「上链接」就能解决的么？ 现在，我加上一个要素：亮度，那就是家用投影仪。也是很浪漫的物件，一方面你可以在自家客厅里保留一面大白墙，视觉效果上简约而整洁。另一方面你也可以用投影仪在这面白墙上播放影视剧，很轻易地获得 100 英寸电视的显示效果，在家",
+    "source_root_domain": "hecaitou.com"
+  },
+  {
+    "title": "Python 潮流周刊#166：拆解 Kimi K3 的登顶之路",
+    "url": "https://pythoncat.top/posts/2026-09-05-weekly/",
+    "date": "2026-09-05T00:00:00Z",
+    "description": "分享了 12 篇文章，12 个开源项目",
+    "source_root_domain": "pythoncat.top"
+  },
+  {
+    "title": "Memos #2026-09-04",
+    "url": "https://www.taober.blog/memos/memo_20260904112856_zwhlrk",
+    "date": "2026-09-05T00:00:00Z",
+    "description": "19:30 多申请了一个 claude 账号，双持 fable 太爽了！ 比这更爽的发现同事一直在用 sonnet 🐶",
+    "source_root_domain": "taober.blog"
+  },
+  {
+    "title": "你们要休息，要知道我是神。",
+    "url": "https://diff.im/blog/2026/09/%E4%BD%A0%E4%BB%AC%E8%A6%81%E4%BC%91%E6%81%AF%E8%A6%81%E7%9F%A5%E9%81%93%E6%88%91%E6%98%AF%E7%A5%9E/",
+    "date": "2026-09-04T17:45:00Z",
+    "description": "为了得到创业路上的正向的反馈，我像着了迷一样地投入到 AI Coding 之中。 尽管这个礼拜相比之前生活要平衡很多，但依然每天有超过 4 小时的时间放在 AI Coding 里面。这不仅是时间上的投入，更是精力上的投入。特别是现在的 AI 编程工具这么发达，不管在电脑前还是手机上，随时随地都可以做上几个任务，我好像有一种被 AI 给控制了的感觉。 但是过去有两个时刻，让我体验到了不被控制里面的内心平静，甚至是有一丝的喜乐。 周日我们教会是下午 2 点聚会，但是在 1 点的时候，我还没有停下手里的 AI coding 工作，还在给 AI 排满一个又一个的任务，以便聚会时 AI 依然可以为我工作。 但有那么一个时刻，我的电脑好像被黑客黑了，因为我看到银行流水的一个文件夹被打开了。我心里很害怕，很快就把那个窗口关闭，然后在 1:20 开车去教会。 路上回想银行流水的事情，我还是觉得很害怕，所以远程把家里的网络给断了。因为家里断了网，AI 也不在线，因此在教会聚会的整个下午，我的心终于能够安静下来。说实话，我的身体也安静、放松了下来。 另外一个时刻，也是因为我太长时间身体和精神都处于与 AI",
+    "source_root_domain": "diff.im"
+  },
+  {
+    "title": "只活到 50 岁也挺好",
+    "url": "https://blog.solazy.me/20260904/",
+    "date": "2026-09-04T14:00:00Z",
+    "description": "其实最近一直在想这个话题",
+    "source_root_domain": "solazy.me"
+  },
+  {
+    "title": "6.47 MB 的 JS 字符串占了 15.4 MB 内存",
+    "url": "https://bugs.cc/zh/posts/one-character-doubles-js-string-memory/",
+    "date": "2026-09-04T11:30:00Z",
+    "description": "open-connector 是我们在做的一个开源项目，把 1464 个第三方 API (Slack、GitHub、飞书这些) 包装成统一的 action 接口。每个第三方叫一个 provider，它有哪些 action、每个 action 的输入输出长什么样 (JSON Schema)，都写在一个 JSON…",
+    "source_root_domain": "bugs.cc"
+  },
+  {
+    "title": "用 Tamper-monkey 集成 Kagi Translate - 以及用 Docker Sandbox 使用 OpenCode 和 DeepSeek",
+    "url": "https://taxodium.ink/integrate-kagi-translate-with-tampermonkey.html",
+    "date": "2026-09-04T09:20:00Z",
+    "description": "用 Tamper-monkey 集成 Kagi Translate 以及用 Docker Sandbox 使用 OpenCode 和 DeepSeek 我現在主要用 Kagi Translate 閱讀外文， Kagi Translate 提供了 瀏覧器插件 ，有三個我常用的功能： 1) 網頁全文翻譯 2) 選擇內容翻譯 3) 字典定義。但插件很久沒更新了，最近用下來也有兩個很影响使用的地方： 網頁翻譯有時會吞掉一些文章內容；有的段落可能只翻譯了一兩個單詞。原來我可以打開一堆頁面，然後全部翻譯，哪個翻譯好了我就看哪個，現在我還要檢查內容是否完整，用起來提心吊胆的。而且重新翻譯也未必有用，它是有緩存的，先要清空插件的緩存後才能触發新的翻譯，但清除緩存重新請求也未必正常，有時我需要切換目標語言或不同的翻譯質量才行。總之就是不穩定，不能放心地用。 除了全文翻譯，我有時也會用到字典功能，去了解一個我不認識的單詞，但現在查詢結果經常是空白一片，也不清楚是什麼問題。唯一比較穩定的就是選擇內容翻譯了。 Kagi Translate 的網頁功能倒是一直在更新，每過几天就提示我刷新頁面获取新版本，網頁上也",
+    "source_root_domain": "taxodium.ink"
+  },
+  {
+    "title": "最短的咒语",
+    "url": "https://mobius.blog/25604.html",
+    "date": "2026-09-04T06:00:00Z",
+    "description": "最近在整理以前写的短篇和片段小说，汇总之后，我才发现我是一个不太喜欢“取名”的人。一方面，大部分短篇小说都是我 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。",
+    "source_root_domain": "onojyun.com"
+  },
+  {
+    "title": "以后就不麻烦您了",
+    "url": "https://hux.ink/posts/leave-me-alone/",
+    "date": "2026-09-04T03:58:00Z",
+    "description": "2014 年入市，最开始用的是华泰证券。2016 年股灾后，华泰不再支持同花顺第三方登录，于是弃之。重新开了个国金证券的账户，一用就是十余年。 这些年用下来，除了始终怀疑账户被下了“中不了新股”的诅咒，其他方面都挺好。以前也有客户经理，但基本不打电话营销，没什么存在感，正合我意。券商提供交易通道，我在里面自生自灭，大家互不打扰，非常纯粹的赌博环境。 直到今年，给我换了一个客户经理。 昨天突然接到他的电话，说前天有只新股挺不错，问我有没有开通科创板权限。我有点疑惑，反问他：“你看不到我账户的客户信息和交易权限吗？” 他回答得很坦然：“查是可以查到的，但我管理的客户比较多，一个一个查比较麻烦。” 这回答把我给整毛了。原来不是看不到，是懒得看。 想了想，可能是账户里的钱太少，不值得他费这个工夫。7 月份割肉之后，现在的持仓规模大概只有 5 月份最高峰时的十分之一。 当然，嫌贫爱富是我猜的，嫌查起来麻烦可是他亲口说的。客户多，忙不过来，可以不打这个电话。我也没指望客户经理带我发财，这么多年自己亏得挺熟练了。但既然主动打电话过来，连我有没有交易权限都懒得看一眼，这算哪门子服务。 于是，我给国金证",
+    "source_root_domain": "hux.ink"
+  },
+  {
+    "title": "博客焕新，记录继续",
+    "url": "https://liudon.com/posts/blog-refresh/",
+    "date": "2026-09-04T03:41:08Z",
+    "description": "前言 经常访问本站的朋友，可能已经发现本站换了新的主题。 回顾折腾博客的这一路，已经用过了5个主题，其中 PaperMod 这个用的时间最长。 cactus jane yinyang meme PaperMod 一直想换个新主题，但查了一下，没有找到特别喜欢的主题了。",
+    "source_root_domain": "liudon.com"
+  },
+  {
+    "title": "记一次疯狂的盲狙",
+    "url": "https://www.hecaitou.com/2026/09/one-crazy-blind-buy.html",
+    "date": "2026-09-04T03:18:45Z",
+    "description": "今天是 2026 年 9 月 4 日，在一个多月前的 7 月 25 日，我做了一件很疯狂的事情：盲狙一套监听音箱。 什么是音箱不重要，什么是监听音箱也不重要，盲狙比较重要，它本来是游戏术语，指在游戏里根本没有瞄准，而是凭借感觉直接开枪狙击。如今在网上，它的意思转变为根本没有上手亲自试过，真正体验过感受过，就直接下单购买。 盲狙一般称不上疯狂，盲狙一提从未用过的卷筒纸能有多疯狂？盲狙马应龙眼霜这才有点疯狂的意思。我这一次盲狙的疯狂之处不在于我之前从未听过这对音箱，也不在于我从闲鱼买的二手音箱，而在于全程都是 AI 提供的判断决策。 首先，我的 AI 和我很熟。之前我请它们帮我挑选了很多次 CD，和它们讨论过很多次我喜欢的音乐类型，还花了相当长时间和它们讨论如何调试音响系统，所以它们对我喜欢什么音乐类型，喜欢什么音色的音箱很清楚。 在这个基础上，我测量了房间的尺寸，拍照片让 AI 看了空间结构和房间内的物品，让 AI 充分了解我的听音环境。根据这些信息，AI 做了计算，先给了我一份声学装修建议。大概意思是如果按照这份建议布置房间，声音会很好听。然后我和 AI 讨价还价，让 AI 在预算上尽",
+    "source_root_domain": "hecaitou.com"
+  },
+  {
+    "title": "正在做一份本地模型的实用能力排行榜，测试",
+    "url": "https://versun.me/blog/tweet-2095699381437792299",
+    "date": "2026-09-04T02:24:03Z",
+    "description": "正在做一份本地模型的实用能力排行榜，测试集是从各种公开 benchmark中挑选微调，覆盖任务拆解、代码开发、长链路执行、上下文、指令遵循、记忆抽取、逻辑与常识 7 个维度 目前针对本地模型的评测很少，不知道有人感兴趣不，关注人多的话，我尽快测完放出来",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "跳皮筋 II",
+    "url": "https://mobius.blog/25597.html",
+    "date": "2026-09-04T01:30:00Z",
+    "description": "小王的同桌小张前几天被学校田径队选上了，其实没多少人在乎这件事，倒是以前老是迟到的小张，最近这段时间都准时来学 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。",
+    "source_root_domain": "onojyun.com"
+  },
+  {
+    "title": "2000，跨世纪的旧日常",
+    "url": "https://www.tortorse.com/archives/old-daily-life-at-the-turn-of-the-century-2000/",
+    "date": "2026-09-04T00:57:42Z",
+    "description": "校园公用电话旁，带着BP机的学生拿着电话卡",
+    "source_root_domain": "tortorse.com"
+  }
+]

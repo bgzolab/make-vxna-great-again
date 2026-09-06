@@ -27,12 +27,17 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-09-06 | [Star Wars: X-Wing Alliance updated](https://macsourceports.com/game/swxwa) | The build of OpenXWA for Star Wars: X-Wing Alliance has been updated to version v0.0.17 of the project |
+| 2026-09-06 | [Quetoo updated](https://macsourceports.com/game/quetoo) | The build of Quetoo has been updated to version v1.0.86 of the project |
+| 2026-09-06 | [≡ 009｜这一周莫比乌斯环转到了哪里？](https://mobius.blog/25666.html) | —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
+| 2026-09-06 | [记录购买替尔泊肽](https://www.quji.org/archives/8839?pk_campaign=feed&pk_kwd=%25e8%25ae%25b0%25e5%25bd%2595%25e8%25b4%25ad%25e4%25b9%25b0%25e6%259b%25bf%25e5%25b0%2594%25e6%25b3%258a%25e8%2582%25bd) | 去年我才知道了这个药，领导在打，我就去了解了一下，果然是减肥神药，只是价格很贵，最近价格下来了很多，据说是要纳 […] |
 | 2026-09-05 | [霓虹下的微型交易：我的香港隐秘经济史游记](https://www.l1ch40.com/2026/09/hong-kongs-shadow-economy-under-neon-lights.html) | “阿金努力，阿金搵到食！” 这句台词来自香港电影《金鸡》，它代表了 “狮子山下”一种艰难而灵活的生存精神。电影中，主人公阿金凭借这种精神在鱼龙混杂的场所打拼，但她的生意很快被新的时代背景冲击——大陆及其他国家妓女的涌入“抢”走了本地人的生意。阿金的故事让我心底埋下了一颗种子：我想去看看光鲜亮丽的香港… |
 | 2026-09-05 | [高鲁棒性 API 设计之 Idempotency Key 幂等键](https://blog.yasking.org/a/idempotency-key) | 有这样一个场景，客户端调用服务端 API 兑换奖励： POST /api/v1/redemptions { "reward_id" : "id-123" } 用户发起一次商品兑换请求，因网络等因素，客户端不清楚 … |
 | 2026-09-05 | [周末流水账 0905](https://blog.solazy.me/20260905/) | 这周末是说走就走的休闲游 |
 | 2026-09-05 | [入蜀记 day467 小小的真理](https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_467/) | 「小小的真理。」 |
 | 2026-09-05 | [入蜀记 day466 近谿](https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_466/) | 「近谿。」 |
 | 2026-09-05 | [入蜀记 day465 一点秋高气爽](https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_465/) | 「一点秋高气爽。」 |
+| 2026-09-05 | [家里有一台十几年前的戴尔xps 11，还](https://versun.me/blog/tweet-2096198283114737774) | 家里有一台十几年前的戴尔xps 11，还能开机，但很卡，卖不出，又不想用，太重了，有啥可以利用的吗？还是只能收废品了😂 |
 | 2026-09-05 | [现象学导论](https://www.geedea.pro/library/2026/introduction-to-phenomenology/) | 顾名思义，本书是介绍「现象学」这一哲学分支的专著。作者索科罗斯基是美国天主教大学的哲学教授，我去看他在豆瓣上的照片，也是身穿黑袍的模样。不难理解，这本书其实是本给本科生读的现象学入门教材，不过文风和一般的教材不同，语言通俗，有对话感，不过对我来说有些太啰唆了，尽管我知道这个老先生真的很想循序渐进，把… |
 | 2026-09-05 | [2001，电脑进了家门](https://www.tortorse.com/archives/computer-came-home-2001/) | 2001年的房间里，年轻人坐在电脑前 |
 | 2026-09-05 | [抒情的基础](https://www.hecaitou.com/2026/09/the-groundwork-for-romance.html) | 抒情也需要基础的，不是说内心足够敏感就够了，不是说掏钱买个道具就行了。哪怕你就是看一下云，也得去到一个可以看到广阔天空的地方。这意味着你要知道这地方在哪里，你有合适的交通方式抵达。 很多人一听到有什么可以为生活增色的小物件，第一句话就是问「链接呢」，要不然就是问「什么牌子，什么型号」，感觉是自己和美… |
@@ -161,26 +166,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-08-30 | [氛围编程——从零开始一个项目](https://blog.196000.xyz/2026/2026-08-25-develop-vibe-coding.html) | 早期只有一个模糊的想法，例如“开发一个系统，将用户警入的内容自动转换为小红书风格的卡片与配套文案”。将构想借助系统化的需求分析过程逐步细化，为后续的工程实践奠定扎实基础。 |
 | 2026-08-30 | [2026年第35周](https://blog.sakoamc.com/posts/2635/) | 题记：二零二六年的第三十五周，珍惜稍纵即逝的想象力，阅读是在阅读他人和丰富自己。 |
 | 2026-08-30 | [边想边聊 Vol.6](https://bluepika.life/blog/thinking-out-loud-6) | 纯主观，想到哪聊到哪，聊到作品的内容可能会涉及剧透。 |
-| 2026-08-29 | [上海今年的夏天真是异常凉快呀😂 这都9月](https://versun.me/blog/tweet-2093842513610395876) | 上海今年的夏天真是异常凉快呀😂 这都9月份了，还不到30度，太夸张了 |
-| 2026-08-29 | [VMware NSX 4.2 - 平滑升级](https://songxwn.com/NSX4-Upgrade/) | NSX可以利用NSX Edge集群，ESXi集群、NSX Manager进行平滑逐个进入维护模式升级，可在保持业务不中断的情况下进行升级。 NSX系列文章： https://songxwn.com/tags/NSX/ |
-| 2026-08-29 | [深入 XRepoTest：如何把 LLM 单元测试生成拉回真实仓库](https://shansan.top/2026/08/29/xrepotest-deep-dive/) | XRepoTest, repository-level unit test generation, LLM benchmark, invocation rate, multilingual testing |
-| 2026-08-29 | [真实的人、虚伪的人，以及想要成为的人和被驯化成的人](https://mobius.blog/25565.html) | 文章是 2017 年第一次五百日写作计划时的内容，刚好用来回答这段时间的对于写作身份、创作者解释权、读者过度解 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
-| 2026-08-29 | [Nacos 3.1.1 升级 3.2.4 修复权限绕过漏洞记录](https://199604.com/3670) | Nacos 3.1.1 升级 3.2.4 修复权限绕过漏洞记录 记录时间：2026-08-28 至 2026- […] |
-| 2026-08-29 | [一些切片的终止](https://blog.solazy.me/20260829/) | 意外和明天，究竟哪个会先来？ |
-| 2026-08-29 | [？？？与时俱进呀，这只丑鸟](https://versun.me/blog/tweet-2093655481713877149) | Duolingo this movie on repeat till the cows come home #niulai https://twitter.com/toonhive/status/2090576946719555727 ？？？与时俱进呀，这只丑鸟 |
-| 2026-08-29 | [计算机网络如何帮我理解「人们难以相互理解」？](https://www.geedea.pro/article/layers-of-mental-models/) | 题中所指的「计算机网络」并非「互联网」，而是每个计算机学生都一定会修读的《计算机网络》中涵盖的相关知识。本文不谈社交媒体、同温层、信息茧房和推荐算法如何让人们陷入不能相互理解的困境和情绪化的骂战——我的确会谈此类现象，但不是通过这种方式。 人们把互联网想象得太具破坏性，而鲜少自省。在极客和书呆子们修… |
-| 2026-08-29 | [《大空头》里的金融术语与个人理解](https://depp.wang/2026/the-big-short/) | 看完《大空头》以后，我原本以为 2008 年金融危机的逻辑很简单：美国人借了太多房贷，还不上，于是房价下跌，银行就出问题了。 但电影真正讲的不是一笔笔房贷本身，而是这些房贷后来被华尔街不断打包、出售、再打包，以及在上面反复下注。危机的核心，是大量低质量的次级房贷被证券化，并通过 MBS、CDO 和衍… |
-| 2026-08-29 | [Mimocode/Opencode 的 Responses API 支持](https://blog.est.im/2026/stdout-34) | 当前的 MiMoCodev0.1.13里，Responses API 有两套入口 Vercel SDK 的 responses() 方法 —— 触发条件是 provider id 为 openai / github-copilot / azure 。 provider 为 gitlab 且每个模型加… |
-| 2026-08-29 | [2026.8.29](https://www.justzht.com/2026-8-29/) | 无事发生的一周，各种事情仍然卡在不前不后的部分。 上周末在家看了 King of New York 。老片子了，剧情有点虎头蛇尾， |
-| 2026-08-29 | [那时候，贾母也才十来岁](https://kaix.in/2026/0829/) | 最近总是猛不丁想起一些孩童时期的片段旧事。比如想起现在的一位好友多年前在教室里两眼放光地给大家讲故事；还想起不知多少年前，和一群记不清面孔的伙伴一起在狭窄的通道里登顶龙泉塔，从塔顶的小窗一览小城全貌，彼时塔东还是一片空旷之地；又想起，年少时很偶然地将几张海报贴在自己床头，就被家父认定是在追星，说我不… |
-| 2026-08-29 | [洗眼睛](https://www.hecaitou.com/2026/08/Washing-My-Eyes.html) | 前阵子有个号称要破尽一切封建迷信的博主遭遇车祸而亡，之前那个姑娘把各种砸神像、闯坟地、住凶宅一类的事情都干了，做成视频放在网上给网友看，据说这也是目前网上做内容的一条「赛道」。 我那位格鲁巴的朋友当时给出的评论比较奇怪，没有落在唯心唯物，因果报应一类的观点上，而是说他看了一点姑娘的视频，后悔不已，不… |
-| 2026-08-29 | [体验 Age + SOPS 的轻量化配置文件加密方案](https://blog.yasking.org/a/age-sops) | 前两天从 AI 那里听说 age + SOPS，不了解，学习看看。 安装 age & SOPS age 是使用 go 编写的现代、简单的文件加密工具，主打易用和安全，支持 … |
-| 2026-08-29 | [11月12日起，Cursor里就不能用](https://versun.me/blog/tweet-2093532229557469454) | Tibo We unfortunately have decided that we cannot continue providing access to our models through Cursor and are ending our partnership. It boils down… |
-| 2026-08-29 | [VMware VCF 9.1 下载和激活](https://songxwn.com/VMware-VCF9.1-Download/) | VMware Cloud Foundation (VCF) 9.1 是一款面向现代私有云的统一平台，强调高效运维、快速应用交付以及内置的网络安全与数据保护能力。它支持虚拟机、容器和 AI 工作负载的统一运行，帮助企业在复杂环境下实现规模化、自动化和弹性。 VMware VMware Blogs ✨… |
-| 2026-08-29 | [模型越强，为什么我们反而越不敢放手？](https://gptkit.eth.limo/0F0DF99D-0544-4648-8C15-2388F6FB0F7F/) | 模型跑分提高，和它更适合一起工作，并不是同一件事。 一个编码 Agent 可以更快定位错误、完成更长的任务，也可能在需求有歧义时替人选定方向。它交付得更快了，人却不敢离开屏幕：每隔几分钟就要检查它是否扩大范围、改变计划，或把某个未写出的假设当成事实。 本文由《听懂 AI》第 006 期整理而成。节目… |
-| 2026-08-29 | [《我的女友景甜》是富豪反女权的里程碑](https://sinyalee.com/blog/?p=1338) | 我认识的有钱人和顶级女人（指学历长相名气在择偶市场上被人追捧的女人）都不少。我从两个方向见过太多富豪被女权捞女 […] |
-| 2026-08-29 | [我10月底软考中级，希望能过🫡](https://versun.me/blog/tweet-2093493269267452295) | 引用 我10月底软考中级，希望能过🫡 |
-| 2026-08-29 | [Python 潮流周刊#165：Mojo 正式开源](https://pythoncat.top/posts/2026-08-29-weekly/) | 分享了 12 篇文章，12 个开源项目，3 则音视频 |
 
 ## Vibe Coding
 
