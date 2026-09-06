@@ -27,10 +27,13 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-09-06 | [少年承载了太多年长者的恶臭投射](https://www.geedea.pro/article/projections-on-the-young/) | 我在《 为什么尝试理解年轻人的年长者都略显笨拙？ 》中提到，有很多自以为懂得年轻人的年长者仅仅是把年轻人当成行为一致的整体来看，而不关注具体的人。他们教其他年长者如何与年轻人对话，就像是给城里人 介绍家畜的习性 一样，仿佛每个年轻人都长着一样的脑袋。最近我观察到了另一种年长者，我对他们与我对话的方式… |
+| 2026-09-06 | [BPG 连接建立失败问题](https://www.kawabangga.com/posts/7397) | 好久没有更新「抓包破案」系列了，最近遇到的一个 case 适合拿出来考一考读者，需要一点点的 BGP 前置知识 […] Continue reading... |
 | 2026-09-06 | [Star Wars: X-Wing Alliance updated](https://macsourceports.com/game/swxwa) | The build of OpenXWA for Star Wars: X-Wing Alliance has been updated to version v0.0.17 of the project |
 | 2026-09-06 | [Quetoo updated](https://macsourceports.com/game/quetoo) | The build of Quetoo has been updated to version v1.0.86 of the project |
 | 2026-09-06 | [≡ 009｜这一周莫比乌斯环转到了哪里？](https://mobius.blog/25666.html) | —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-09-06 | [记录购买替尔泊肽](https://www.quji.org/archives/8839?pk_campaign=feed&pk_kwd=%25e8%25ae%25b0%25e5%25bd%2595%25e8%25b4%25ad%25e4%25b9%25b0%25e6%259b%25bf%25e5%25b0%2594%25e6%25b3%258a%25e8%2582%25bd) | 去年我才知道了这个药，领导在打，我就去了解了一下，果然是减肥神药，只是价格很贵，最近价格下来了很多，据说是要纳 […] |
+| 2026-09-06 | [月刊（第36期）：伊始](https://ursb.me/posts/weekly-36/) | 从六月到八月：不断增加的 AI 开销、自己的小世界，首尔与釜山的旅行，以及在徒步、游戏和日常里慢慢找回节奏。 |
 | 2026-09-05 | [霓虹下的微型交易：我的香港隐秘经济史游记](https://www.l1ch40.com/2026/09/hong-kongs-shadow-economy-under-neon-lights.html) | “阿金努力，阿金搵到食！” 这句台词来自香港电影《金鸡》，它代表了 “狮子山下”一种艰难而灵活的生存精神。电影中，主人公阿金凭借这种精神在鱼龙混杂的场所打拼，但她的生意很快被新的时代背景冲击——大陆及其他国家妓女的涌入“抢”走了本地人的生意。阿金的故事让我心底埋下了一颗种子：我想去看看光鲜亮丽的香港… |
 | 2026-09-05 | [高鲁棒性 API 设计之 Idempotency Key 幂等键](https://blog.yasking.org/a/idempotency-key) | 有这样一个场景，客户端调用服务端 API 兑换奖励： POST /api/v1/redemptions { "reward_id" : "id-123" } 用户发起一次商品兑换请求，因网络等因素，客户端不清楚 … |
 | 2026-09-05 | [周末流水账 0905](https://blog.solazy.me/20260905/) | 这周末是说走就走的休闲游 |
