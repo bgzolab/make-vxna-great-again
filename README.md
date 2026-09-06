@@ -32,6 +32,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-09-06 | [2026.9.6](https://www.justzht.com/2026-9-6/) | labor day 长周末，原本要开一号公路的计划因为封路泡汤，在家没啥事情，捡起来今年一月份在做的 epoch 的 Playdate 版本，想优 |
 | 2026-09-06 | [Virae 项目的最新进展和困境](https://smallyu.net/2026/09/06/Virae%E9%A1%B9%E7%9B%AE%E7%9A%84%E6%9C%80%E6%96%B0%E8%BF%9B%E5%B1%95%E5%92%8C%E5%9B%B0%E5%A2%83/) | 距离《<a |
 | 2026-09-06 | [少年承载了太多年长者的恶臭投射](https://www.geedea.pro/article/projections-on-the-young/) | 我在《 为什么尝试理解年轻人的年长者都略显笨拙？ 》中提到，有很多自以为懂得年轻人的年长者仅仅是把年轻人当成行为一致的整体来看，而不关注具体的人。他们教其他年长者如何与年轻人对话，就像是给城里人 介绍家畜的习性 一样，仿佛每个年轻人都长着一样的脑袋。最近我观察到了另一种年长者，我对他们与我对话的方式… |
+| 2026-09-06 | [Vol.118 经验复利：当Agent进入长期协作，组织如何把一次成功变成可重复方法](https://liduos.com/weekly/the-weekly-gradient-118) | 本期内容围绕“经验复利”展开，探讨模型能力增强后，Agent进入团队与产品长期协作时，如何通过纠正、判断与失败积累，将一次性成功转化为可重复的方法与组织资产。 |
 | 2026-09-06 | [BPG 连接建立失败问题](https://www.kawabangga.com/posts/7397) | 好久没有更新「抓包破案」系列了，最近遇到的一个 case 适合拿出来考一考读者，需要一点点的 BGP 前置知识 […] Continue reading... |
 | 2026-09-06 | [Star Wars: X-Wing Alliance updated](https://macsourceports.com/game/swxwa) | The build of OpenXWA for Star Wars: X-Wing Alliance has been updated to version v0.0.17 of the project |
 | 2026-09-06 | [Quetoo updated](https://macsourceports.com/game/quetoo) | The build of Quetoo has been updated to version v1.0.86 of the project |
