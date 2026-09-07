@@ -27,6 +27,8 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-09-07 | [Sweep LLM 功耗控制调度策略研究(二)](https://eduardoqian.com/archives/sweep-llm-gong-hao-kong-zhi-diao-du-ce-lue-yan-jiu-er) | 前篇文章：https://eduardoqian.com/archives/sweep-llm-gong-hao-kong-zhi-diao-du-ce-lue-yan-jiu-yi 继续书接上回。 PD分离 目前vllm PD分离广泛应用于推理系统中，考虑到prefill和decode的计算特征， |
+| 2026-09-07 | [Token 应译作「符」](https://www.geedea.pro/article/token-translation/) | 整场「要不要把 Token 翻译成词元？」的争论令我感到诡异，诡异的点在于所有参与者都只看到了 Token 作为大语言模型计价单位的意思，而 Token 一词存在于英语语言中已经有很久了（对中文的影响也很大）。若把 Token 先前的释义也译作「词元」，场面会非常可笑： 这套桌游里的某个词元不见了！… |
 | 2026-09-07 | [R#118 周报系统v2了](https://blog.sakanano.moe/journals/random_118) | 2026.9.1 ~ 2026.9.7 |
 | 2026-09-07 | [小论博客的更新速度](https://blog.mfwt.top/index.php/archives/1582/) | 几天不更，冒个泡，证明自己还活蹦乱跳的。本文聊聊最近博客的更新问题，所以其实不算是『议论』，因为不是什么严肃话题；『讨论』又好像只有我一个人在说；当然也不是什么『大论』，毕竟个人事务而已，而且也... |
 | 2026-09-07 | [辣椒炒肉](https://taxodium.ink/recipe-la-jiao-chao-rou.html) | 辣椒炒肉 實踐一下 Zine#57 裡分享的 RecipeTables 的做法。 辣椒炒肉菜譜 螺丝椒或是其它青椒約 250g 切片 熱鍋，少許少許油，下入青椒煽炒，壓一壓， 煽一陣子後加入少量盐，直到煽軟，有點虎皮的感覺，捞起備用。 熱鍋，放入適量油 (可以稍微多一些) ， 如果有肥肉就先放入肥肉… |

@@ -1,5 +1,19 @@
 [
   {
+    "title": "Sweep LLM 功耗控制调度策略研究(二)",
+    "url": "https://eduardoqian.com/archives/sweep-llm-gong-hao-kong-zhi-diao-du-ce-lue-yan-jiu-er",
+    "date": "2026-09-07T19:23:00Z",
+    "description": "前篇文章：https://eduardoqian.com/archives/sweep-llm-gong-hao-kong-zhi-diao-du-ce-lue-yan-jiu-yi 继续书接上回。 PD分离 目前vllm PD分离广泛应用于推理系统中，考虑到prefill和decode的计算特征，",
+    "source_root_domain": "eduardoqian.com"
+  },
+  {
+    "title": "Token 应译作「符」",
+    "url": "https://www.geedea.pro/article/token-translation/",
+    "date": "2026-09-07T15:37:10Z",
+    "description": "整场「要不要把 Token 翻译成词元？」的争论令我感到诡异，诡异的点在于所有参与者都只看到了 Token 作为大语言模型计价单位的意思，而 Token 一词存在于英语语言中已经有很久了（对中文的影响也很大）。若把 Token 先前的释义也译作「词元」，场面会非常可笑： 这套桌游里的某个词元不见了！ 请求体里必须携带词元才能通过验证。 在构造抽象语法树之前，要先把字符串词元化。（这倒还算接近的） 把安全词元插入电脑的 USB-C 接口。 为保证数据安全，可以把敏感信息词元化。 用你的词元兑换优惠或者奖品。 正如人们滥用「人工智能」一词指代「大语言模型」，因为他们只知道热度最高的技术，便让 AI 这个上世纪就出现的概念被人工智能的一个小分支占据一样，人们滥用 Token 一词，以至于他们不关心其他的意思。更何况「词元」这个意思用在 LLM 里其实相当不准确。 不过，也需要批评前人，Token 一词的翻译本身就很混乱。 桌游中的 Token 桌游里的 Token 是「指示物」的意思，还有人根据情况译作「代币」「标记」。大富翁里用来标记地产的房子，飞行棋里的飞机，龙与地下城里的角色小人，都叫",
+    "source_root_domain": "geedea.pro"
+  },
+  {
     "title": "R#118 周报系统v2了",
     "url": "https://blog.sakanano.moe/journals/random_118",
     "date": "2026-09-07T14:00:00Z",
