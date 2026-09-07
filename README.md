@@ -27,7 +27,11 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-09-07 | [第一次去佛山，看王菀之演唱会](https://tianheg.co/posts/first-time-in-foshan/) | 和上次看 新裤子 一样，从深圳北到广州南坐高铁去，然后坐佛山地铁2号线去到目的地。到了地方，一开始没搞明白什么是北活一区、北下一区，导致我的座位在北下却坐到北活，还好最后还是发现了，坐到了正确的位置。这个体育馆的座位没有广州宝能的舒服，看起来蛮破旧的。VIP区的座位竟然就只是草草地摆了很多排椅子。当… |
+| 2026-09-07 | [山西之旅](https://liudon.com/posts/the-trip-of-shanxi/) | 趁着暑假最后一个周末的尾声，来了一趟三天两晚的山西之行。 第一天 上午11:29分在清河站乘坐G2509次火车，下午14:27分直达忻州西。 |
 | 2026-09-07 | [多行平铺的方式展示当前窗口所有标签页的Chrome扩展](https://hzzio.top/blog/multi-row-tabs) | 多行平铺的方式展示当前窗口所有标签页的Chrome扩展 |
+| 2026-09-07 | [取消英文，取消古文](https://www.hecaitou.com/2026/09/cancel-english-cancel-the-classics.html) | 上网年限太长，人就容易厌倦，比如说这几天看到又有人在吵取消英文，取消英文主科地位。记得我第一次在网上看到这个话题时，胡子还是软的，头发也依然茂密。 这种翻炒万年话题本来没什么意思，不过和海峡那边对照观察一番，事情就变得有趣起来：这边是过阵子就吵要不要取消英文，那边是过阵子就吵要不要取消古文。 我个人… |
+| 2026-09-07 | [野人编年史](http://imlane.zhanglintc.co/ye-ren-bian-nian-shi) | 野人编年史 野人创始人 徐队 ，群昵称Shogun。姓徐，称徐队，真野人队长，野人 抖音官号 持有者。 张队 ，群昵称张小不。江湖人称竹节虫，简称虫队。 熊队 ，群昵称熊嘎婆，称熊队。 野人CLUB游泳事业部 群主。 亮队 ，群昵称亮什么，称亮队，野人 小红书官号 持有者。 野人声明 从 泳往直前… |
 | 2026-09-07 | [你会痛苦吗](https://mobius.blog/25686.html) | 收到一则私信，我就写了这么几个字：你会痛苦吗？ 我觉得这是个很好的问题，因为我也不知道该如何回答，所以得先向对 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-09-07 | [迷你 MTR：在地图上看香港地铁实时运行](https://7gugu.com/index.php/2026/09/07/%e8%bf%b7%e4%bd%a0-mtr%ef%bc%9a%e5%9c%a8%e5%9c%b0%e5%9b%be%e4%b8%8a%e7%9c%8b%e9%a6%99%e6%b8%af%e5%9c%b0%e9%93%81%e5%ae%9e%e6%97%b6%e8%bf%90%e8%a1%8c/) | 背景 之前第一次看到 Mini Tokyo 3D 的时候，就很想做一个香港地铁版本：把线路铺在真实地图上，再让 … 继续阅读 “迷你 MTR：在地图上看香港地铁实时运行” |
 | 2026-09-07 | [大脑充血 Vol.97](https://www.geedea.pro/weekly/97/) | 宣布 周刊改月刊 已经有两周了，我怎么还在周更……？ 这篇是九月的正刊，正刊在每月的第一个周一发布。上周发布的是一篇 小报 ，小报可能会随机出现在非正刊发布日的周一，也可能没有。简而言之，这篇之后，九月就没有正刊了。国庆再见！ 吾仅悉落 London Calling The Clash NeoDB… |
@@ -152,7 +156,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-08-31 | [这么想想真的有点可怕 当初我结婚后，没有](https://versun.me/blog/tweet-2094373003891187976) | 王依依棺材馅儿 有个亲戚是教师, 每当他补课赚点钱之后, 他老婆就会生一场大病把钱用完. 如果某个假期他没补课, 就不会生病, 健健康康的..... https://twitter.com/Yali1028/status/2094322222714470770 这么想想真的有点可怕 当初我结婚后，没… |
 | 2026-08-31 | [哇咔财务管家｜理财模块上线，现在记账、基金、股票、理财四合一](https://blog.ops-coffee.com/fire/wakaka-bookkeeping-fund-stock-wealth.html) |  |
 | 2026-08-31 | [My Creator Appreciation](https://z.arlmy.me/posts/ZArlmyMe/Blaugust_20260831_2/) | 「Favorites.」 |
-| 2026-08-31 | [野人编年史](http://imlane.zhanglintc.co/ye-ren-bian-nian-shi) | 野人编年史 野人创始人 徐队 ，群昵称Shogun。姓徐，称徐队，真野人队长，野人 抖音官号 持有者。 张队 ，群昵称张小不。江湖人称竹节虫，简称虫队。 熊队 ，群昵称熊嘎婆，称熊队。 野人CLUB游泳事业部 群主。 亮队 ，群昵称亮什么，称亮队，野人 小红书官号 持有者。 野人声明 从 泳往直前… |
 | 2026-08-31 | [Nacos 3.2.4 升级后老客户端报 501 no such api 的问题处理记录](https://199604.com/3673) | Nacos 3.2.4 升级后老客户端报 501 no such api 的问题处理记录 记录时间：2026- […] |
 | 2026-08-31 | [About Arlmy (Finally I wrote it!)](https://z.arlmy.me/posts/ZArlmyMe/Blaugust_20260831_1/) | 「About.」 |
 | 2026-08-31 | [搬工位时的三波人](https://blog.solazy.me/20260831/) | 今天简单聊聊在最近搬工位时候观察到的三种同事 |
