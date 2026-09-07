@@ -27,13 +27,20 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-09-07 | [多行平铺的方式展示当前窗口所有标签页的Chrome扩展](https://hzzio.top/blog/multi-row-tabs) | 多行平铺的方式展示当前窗口所有标签页的Chrome扩展 |
+| 2026-09-07 | [你会痛苦吗](https://mobius.blog/25686.html) | 收到一则私信，我就写了这么几个字：你会痛苦吗？ 我觉得这是个很好的问题，因为我也不知道该如何回答，所以得先向对 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
+| 2026-09-07 | [迷你 MTR：在地图上看香港地铁实时运行](https://7gugu.com/index.php/2026/09/07/%e8%bf%b7%e4%bd%a0-mtr%ef%bc%9a%e5%9c%a8%e5%9c%b0%e5%9b%be%e4%b8%8a%e7%9c%8b%e9%a6%99%e6%b8%af%e5%9c%b0%e9%93%81%e5%ae%9e%e6%97%b6%e8%bf%90%e8%a1%8c/) | 背景 之前第一次看到 Mini Tokyo 3D 的时候，就很想做一个香港地铁版本：把线路铺在真实地图上，再让 … 继续阅读 “迷你 MTR：在地图上看香港地铁实时运行” |
+| 2026-09-07 | [大脑充血 Vol.97](https://www.geedea.pro/weekly/97/) | 宣布 周刊改月刊 已经有两周了，我怎么还在周更……？ 这篇是九月的正刊，正刊在每月的第一个周一发布。上周发布的是一篇 小报 ，小报可能会随机出现在非正刊发布日的周一，也可能没有。简而言之，这篇之后，九月就没有正刊了。国庆再见！ 吾仅悉落 London Calling The Clash NeoDB… |
+| 2026-09-06 | [各位，gpt 6到底怎么样，可以上车不](https://versun.me/blog/tweet-2096741823830208577) | 各位，gpt 6到底怎么样，可以上车不 我目前 kimi k3 和 glm 5.3 不够用了 |
 | 2026-09-06 | [Jenkins Vue 流水线接入存量 yarn 项目：依赖安装连环失败与产物目录不匹配的排查](https://199604.com/3682) | Jenkins Vue 流水线接入存量 yarn 项目：依赖安装连环失败与产物目录不匹配的排查 记录时间：20 […] |
+| 2026-09-06 | [周末流水账 0906](https://blog.solazy.me/20260906/) | 平淡的一天 |
 | 2026-09-06 | [Toots 435 2026 Aug.30 - Sep.5](https://z.arlmy.me/posts/MastodonArchives/2026/MastodonTootsArchives_20260905/) | 「耗散。」 |
 | 2026-09-06 | [2026.9.6](https://www.justzht.com/2026-9-6/) | labor day 长周末，原本要开一号公路的计划因为封路泡汤，在家没啥事情，捡起来今年一月份在做的 epoch 的 Playdate 版本，想优 |
 | 2026-09-06 | [Virae 项目的最新进展和困境](https://smallyu.net/2026/09/06/Virae%E9%A1%B9%E7%9B%AE%E7%9A%84%E6%9C%80%E6%96%B0%E8%BF%9B%E5%B1%95%E5%92%8C%E5%9B%B0%E5%A2%83/) | 距离《<a |
 | 2026-09-06 | [少年承载了太多年长者的恶臭投射](https://www.geedea.pro/article/projections-on-the-young/) | 我在《 为什么尝试理解年轻人的年长者都略显笨拙？ 》中提到，有很多自以为懂得年轻人的年长者仅仅是把年轻人当成行为一致的整体来看，而不关注具体的人。他们教其他年长者如何与年轻人对话，就像是给城里人 介绍家畜的习性 一样，仿佛每个年轻人都长着一样的脑袋。最近我观察到了另一种年长者，我对他们与我对话的方式… |
 | 2026-09-06 | [Vol.118 经验复利：当Agent进入长期协作，组织如何把一次成功变成可重复方法](https://liduos.com/weekly/the-weekly-gradient-118) | 本期内容围绕“经验复利”展开，探讨模型能力增强后，Agent进入团队与产品长期协作时，如何通过纠正、判断与失败积累，将一次性成功转化为可重复的方法与组织资产。 |
-| 2026-09-06 | [BPG 连接建立失败问题](https://www.kawabangga.com/posts/7397) | 好久没有更新「抓包破案」系列了，最近遇到的一个 case 适合拿出来考一考读者，需要一点点的 BGP 前置知识 […] Continue reading... |
+| 2026-09-06 | [BGP 连接建立失败问题](https://www.kawabangga.com/posts/7397) | 好久没有更新「抓包破案」系列了，最近遇到的一个 case 适合拿出来考一考读者，需要一点点的 BGP 前置知识 […] Continue reading... |
+| 2026-09-06 | [刚刚和我老婆一起在B站上看了泄露的苹果折](https://versun.me/blog/tweet-2096448241932075390) | 刚刚和我老婆一起在B站上看了泄露的苹果折叠机的评测 第一反应是，这做的什么垃圾，也太丑了吧，这灵动岛是开玩笑的吧，苹果那些设计师拿那么高工资是吃屎的吗😂 |
 | 2026-09-06 | [Star Wars: X-Wing Alliance updated](https://macsourceports.com/game/swxwa) | The build of OpenXWA for Star Wars: X-Wing Alliance has been updated to version v0.0.17 of the project |
 | 2026-09-06 | [Quetoo updated](https://macsourceports.com/game/quetoo) | The build of Quetoo has been updated to version v1.0.86 of the project |
 | 2026-09-06 | [≡ 009｜这一周莫比乌斯环转到了哪里？](https://mobius.blog/25666.html) | —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
@@ -155,26 +162,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-08-31 | [WorkBuddy 成功，是因为腾讯办公套件太烂了](https://1q43.blog/post/12578/) | 前几天和汐笺讨论 Workbuddy 为什么成功，我在微信里发出了一句很像为了流量硬拗出来的标题： “我突然意 […] |
 | 2026-08-31 | [关系里的孙子也可能是自己惯出来的](https://mobius.blog/25559.html) | 此时此刻，我的旁边有两个男性在聊天，但他们的对话一直其中一人的电话不停打断。以至于当一个人接电话时，另一个人也 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-08-31 | [大脑充血 Vol.96](https://www.geedea.pro/weekly/96/) | 这是一篇小报。《大脑充血》已经在 上一期 改为月刊，发刊时间为每月的第一个周一，其他周一可能会随机出现篇幅较短的内容。小报不谈严肃内容，不遵循一般的格式，甚至可能全是技术内容。 Matt Damon 看完电影《奥德赛》之后我不仅成了 诺兰黑 ，还迷上了 Matt Damon。之前我对这个演员的关注不… |
-| 2026-08-30 | [给我发邮件吧，放轻松](https://www.geedea.pro/article/email-me/) | 我观察到不少人都会对写电子邮件这件事情感到有压力，尤其是国人。我之前在《 论独立博客的评论 》一文中提及过英文使用者和中文使用者对于电子邮件的态度差异，不少英文博客都只会在文章底部留下邮箱地址，鼓励读者发邮件交流。我之前向某个开源项目的维护者问了些问题，关闭 Issue 之后他跟我说：再发邮件联系也… |
-| 2026-08-30 | [Toots 434 2026 Aug.23 - Aug.29](https://z.arlmy.me/posts/MastodonArchives/2026/MastodonTootsArchives_20260829/) | 「拓扑。」 |
-| 2026-08-30 | [生活碎碎念：升学首日有感](https://blog.mfwt.top/index.php/archives/1562/) | 这篇博文基本上成型于今晚的班会课之后。如果说笔者的专升本是『插班生』，那么本文应该算是一篇『插班文』，因为原本是有一篇开学前文具店小景的文章，打算这两天发的的，现在先搁置一下那篇，先发这篇，所以... |
-| 2026-08-30 | [入蜀记 day462 猎人与ADHD](https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_462/) | 「猎人与ADHD。」 |
-| 2026-08-30 | [入蜀记 day461 以人类为载体](https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_461/) | 「以人类为载体。」 |
-| 2026-08-30 | [入蜀记 day460 鹤鸣早茶](https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_460/) | 「鹤鸣早茶。」 |
-| 2026-08-30 | [烹饪日记：干煸蚕蛹](https://blog.yasking.org/a/dry-fried-silkworm-pupae) | （害怕蚕蛹的小伙伴不建议阅读本文） ｜ ｜ ｜ ｜ ｜ ｜ ｜ ｜ ｜ ｜ ｜ ｜ 安全区 ｜ ｜ ｜ ｜ ｜ ｜ ｜ ｜ ｜ 前些天在淘宝买回来一些东北的黑蚕蛹，一斤价格 56.8，顺丰包邮。 因为一直冷 … |
-| 2026-08-30 | [Win10 开始菜单点击没反应、所有窗口只有一个能点，最后发现是鼠标侧键的锅](https://www.less-bug.com/posts/logi-mouse-is-bad/) | 我 Windows 10 之前出现奇怪的症状，除了一个窗口有反应，其它点什么都没反应，点桌面图标没反应，任务栏、开始按钮没反应。点微信窗口没反应。但是各个窗口自身状态又好像是正常的，微信能正常收消息，没有任何卡死迹象。幸好前台我开了一个 WezTerm 可以用来排查问题，它完全能正常输入输出。 我第… |
-| 2026-08-30 | [Zine#57 - 用你的錢包去投票](https://taxodium.ink/57.html) | Zine#57 用你的錢包去投票 目录󠄃 News &#124; Article Cool Bit Tutorial &#124; Resource Code Related AI Related Tool &#124; Library Emacs 一些话 &#124; 摘抄 多媒体 图1 香港石澳拍的一張胶片，後面是山，山前是一片海灣，… |
-| 2026-08-30 | [Vol.116 效率竞赛开启：智能成本下降，稀缺转向数据、信任与注意力](https://liduos.com/weekly/the-weekly-gradient-116) | 本期内容聚焦AI效率竞赛：模型、芯片与软件协同优化使智能成本骤降，稀缺转向可信数据、安全边界、长期记忆与用户注意力。剖析Agent工程、组织治理及长期主义投资，探讨能力充裕时代的新护城河。 |
-| 2026-08-30 | [Vol.117 AI效率革命与新稀缺：模型竞争转向工程协同与可信资产](https://liduos.com/weekly/the-weekly-gradient-117) | 本期内容聚焦AI模型效率竞争与工程协同，探讨智能供给成本下降后，可信数据、安全边界、长期记忆等新稀缺资产的重要性。从芯片到Agent，从软件工厂到人形机器人，重新审视长期价值。 |
-| 2026-08-30 | [隔壁桌的暧昧学](https://blog.solazy.me/20260830/) | 今天聊点日常八卦和随想 |
-| 2026-08-30 | [Pensieve: 2608](https://xiaket.github.io/2026/pensieve-2608.html) | 所读所观所玩 |
-| 2026-08-30 | [老狗不跳崖](https://www.hecaitou.com/2026/08/old-dog-wont-leap-cliffs.html) | 我说，在自己内心的定力尚未培育至强大之前，最好要远离外部的各种干扰和诱惑。于是，就有一堆读者跑来教育我，要么劝我要勇往直前，战而胜之；要么来教育我，只要有一颗平静的心，就无需在意这些东西，就无需做各种分别，可以直入其中。 之前我在某本经书里读到一句话：狮子跃处，犬跳毙命。意思是狮子可以一跃而过的地方… |
-| 2026-08-30 | [读《万历十五年》：人物、制度与一个王朝的问题](https://depp.wang/2026/1587-a-Year-of-No-Significance/) | 我原来以为《万历十五年》是一本讲明朝某一年发生了什么事的历史书，或者更直接一点，是一本写万历皇帝的书。 读下来才发现不是这样。 它当然有历史事件，也写了很多真实人物，但读起来更像一篇很长的历史文章。黄仁宇不是把史料一条条摆出来，而是从万历皇帝、张居正、申时行、海瑞、戚继光和李贽几个人身上，写出他自己… |
-| 2026-08-30 | [≡ 008｜这两周莫比乌斯环转到了哪里？](https://mobius.blog/25535.html) | —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
-| 2026-08-30 | [存在主义，另一种形式的不人道](https://prologue.dev/blog/existentialism-another-form-of-inhumanity) | 意义是基于现实活动的产物，需要先行动、经历体验、回忆和思考作为基础。 |
-| 2026-08-30 | [氛围编程——从零开始一个项目](https://blog.196000.xyz/2026/2026-08-25-develop-vibe-coding.html) | 早期只有一个模糊的想法，例如“开发一个系统，将用户警入的内容自动转换为小红书风格的卡片与配套文案”。将构想借助系统化的需求分析过程逐步细化，为后续的工程实践奠定扎实基础。 |
-| 2026-08-30 | [2026年第35周](https://blog.sakoamc.com/posts/2635/) | 题记：二零二六年的第三十五周，珍惜稍纵即逝的想象力，阅读是在阅读他人和丰富自己。 |
-| 2026-08-30 | [边想边聊 Vol.6](https://bluepika.life/blog/thinking-out-loud-6) | 纯主观，想到哪聊到哪，聊到作品的内容可能会涉及剧透。 |
 
 ## Vibe Coding
 
