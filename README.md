@@ -27,6 +27,11 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-09-08 | [入蜀记 day470 处境是一种外来的东西](https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_470/) | 「处境是一种外来的东西。」 |
+| 2026-09-08 | [入蜀记 day469 四开](https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_469/) | 「四开。」 |
+| 2026-09-08 | [入蜀记 day468 经销商版家博会](https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_468/) | 「经销商版家博会。」 |
+| 2026-09-08 | [日本浮生录 ｜探秘奄美大岛，寻找南国秘境](https://song.al/amami) | 写在前面 盛夏的夜晚总是很长。 那天晚上和朋友聊起旅行，话题从九州一路往南，最后停在了手机地图上的一片海。朋友指着鹿儿岛以南那座狭长的岛，说了一句：“奄美大岛，好像还没去过。” 关于奄美大岛，我知道得并不算多。印象中，它夹在九州与冲绳之间，四周都是海，岛上似乎有大片亚热带森林，也有红树林和漫长的海岸… |
+| 2026-09-08 | [门外石榴](https://www.hecaitou.com/2026/09/the-pomegranate-outside.html) | 小区里有一树石榴，才开始挂果我就开始觊觎。夏天悄悄过去，一枚大果渐渐显露身形，我心中贪念随即生起，如野火蔓烧，日甚一日。 先是忍不住去想，这是什么品种，又是什么滋味？有籽无籽，皮厚皮薄，摘回去又要用什么方法完整解开？「摘回去」三个字凭空出现，我却毫无觉察，从此，眼前石榴在我心中早已成为囊中之物。一切… |
 | 2026-09-08 | [悲观主义者的依恋练习](https://mobius.blog/25689.html) | 每次在陌生城市坐车，看到车辆经过的高架桥下、或是立交桥中央的杂木林，我的脑子都会自动为我播放一些奇怪的画面—— […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-09-08 | [ES transport证书p12到期监控实现（CronJob推送指标）](https://199604.com/3689) | ES transport证书p12到期监控实现（CronJob推送指标） 记录时间：2026-09-07 环境 […] |
 | 2026-09-07 | [这两天给我的 hermes 配了 gem](https://versun.me/blog/tweet-2097106789947027843) | 这两天给我的 hermes 配了 gemini-3.8-flash，体感非常好，文字能力顶级，智商也很在线，感觉比 k3 还要好一点 也是第一次竟然能跳读 AI 写的内容而不会看不懂。。。 至少要比这两天刚出的 gpt-4o 要好很多🤡 |
@@ -34,6 +39,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-09-07 | [做为 Zenmux 的天使用户，用到现在](https://versun.me/blog/tweet-2097097968289714585) | ZenMux 🚀 OpenAI: GPT-6 Astra is now live on ZenMux! @OpenAI 's most capable model for teams running complex agent workflows across code, browsers, res… |
 | 2026-09-07 | [Sweep LLM 功耗控制调度策略研究(二)](https://eduardoqian.com/archives/sweep-llm-gong-hao-kong-zhi-diao-du-ce-lue-yan-jiu-er) | 前篇文章：https://eduardoqian.com/archives/sweep-llm-gong-hao-kong-zhi-diao-du-ce-lue-yan-jiu-yi 继续书接上回。 PD分离 目前vllm PD分离广泛应用于推理系统中，考虑到prefill和decode的计算特征， |
 | 2026-09-07 | [Token 应译作「符」](https://www.geedea.pro/article/token-translation/) | 整场「要不要把 Token 翻译成词元？」的争论令我感到诡异，诡异的点在于所有参与者都只看到了 Token 作为大语言模型计价单位的意思，而 Token 一词存在于英语语言中已经有很久了（对中文的影响也很大）。若把 Token 先前的释义也译作「词元」，场面会非常可笑： 这套桌游里的某个词元不见了！… |
+| 2026-09-07 | [终究还是要搬家了](https://blog.solazy.me/20260907/) | 最近可能要考虑接下来往哪儿搬了 |
 | 2026-09-07 | [R#118 周报系统v2了](https://blog.sakanano.moe/journals/random_118) | 2026.9.1 ~ 2026.9.7 |
 | 2026-09-07 | [小论博客的更新速度](https://blog.mfwt.top/index.php/archives/1582/) | 几天不更，冒个泡，证明自己还活蹦乱跳的。本文聊聊最近博客的更新问题，所以其实不算是『议论』，因为不是什么严肃话题；『讨论』又好像只有我一个人在说；当然也不是什么『大论』，毕竟个人事务而已，而且也... |
 | 2026-09-07 | [辣椒炒肉](https://taxodium.ink/recipe-la-jiao-chao-rou.html) | 辣椒炒肉 實踐一下 Zine#57 裡分享的 RecipeTables 的做法。 辣椒炒肉菜譜 螺丝椒或是其它青椒約 250g 切片 熱鍋，少許少許油，下入青椒煽炒，壓一壓， 煽一陣子後加入少量盐，直到煽軟，有點虎皮的感覺，捞起備用。 熱鍋，放入適量油 (可以稍微多一些) ， 如果有肥肉就先放入肥肉… |
