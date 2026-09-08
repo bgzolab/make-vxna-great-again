@@ -27,17 +27,24 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-09-08 | [悲观主义者的依恋练习](https://mobius.blog/25689.html) | 每次在陌生城市坐车，看到车辆经过的高架桥下、或是立交桥中央的杂木林，我的脑子都会自动为我播放一些奇怪的画面—— […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
+| 2026-09-08 | [ES transport证书p12到期监控实现（CronJob推送指标）](https://199604.com/3689) | ES transport证书p12到期监控实现（CronJob推送指标） 记录时间：2026-09-07 环境 […] |
+| 2026-09-07 | [这两天给我的 hermes 配了 gem](https://versun.me/blog/tweet-2097106789947027843) | 这两天给我的 hermes 配了 gemini-3.8-flash，体感非常好，文字能力顶级，智商也很在线，感觉比 k3 还要好一点 也是第一次竟然能跳读 AI 写的内容而不会看不懂。。。 至少要比这两天刚出的 gpt-4o 要好很多🤡 |
+| 2026-09-07 | [找到一个青少年入门 AI 最好的教程，是](https://versun.me/blog/tweet-2097105906035200118) | 找到一个青少年入门 AI 最好的教程，是有谷歌和树莓派基金会一起搞的： https://experience-ai.org/en-US/units |
+| 2026-09-07 | [做为 Zenmux 的天使用户，用到现在](https://versun.me/blog/tweet-2097097968289714585) | ZenMux 🚀 OpenAI: GPT-6 Astra is now live on ZenMux! @OpenAI 's most capable model for teams running complex agent workflows across code, browsers, res… |
 | 2026-09-07 | [Sweep LLM 功耗控制调度策略研究(二)](https://eduardoqian.com/archives/sweep-llm-gong-hao-kong-zhi-diao-du-ce-lue-yan-jiu-er) | 前篇文章：https://eduardoqian.com/archives/sweep-llm-gong-hao-kong-zhi-diao-du-ce-lue-yan-jiu-yi 继续书接上回。 PD分离 目前vllm PD分离广泛应用于推理系统中，考虑到prefill和decode的计算特征， |
 | 2026-09-07 | [Token 应译作「符」](https://www.geedea.pro/article/token-translation/) | 整场「要不要把 Token 翻译成词元？」的争论令我感到诡异，诡异的点在于所有参与者都只看到了 Token 作为大语言模型计价单位的意思，而 Token 一词存在于英语语言中已经有很久了（对中文的影响也很大）。若把 Token 先前的释义也译作「词元」，场面会非常可笑： 这套桌游里的某个词元不见了！… |
 | 2026-09-07 | [R#118 周报系统v2了](https://blog.sakanano.moe/journals/random_118) | 2026.9.1 ~ 2026.9.7 |
 | 2026-09-07 | [小论博客的更新速度](https://blog.mfwt.top/index.php/archives/1582/) | 几天不更，冒个泡，证明自己还活蹦乱跳的。本文聊聊最近博客的更新问题，所以其实不算是『议论』，因为不是什么严肃话题；『讨论』又好像只有我一个人在说；当然也不是什么『大论』，毕竟个人事务而已，而且也... |
 | 2026-09-07 | [辣椒炒肉](https://taxodium.ink/recipe-la-jiao-chao-rou.html) | 辣椒炒肉 實踐一下 Zine#57 裡分享的 RecipeTables 的做法。 辣椒炒肉菜譜 螺丝椒或是其它青椒約 250g 切片 熱鍋，少許少許油，下入青椒煽炒，壓一壓， 煽一陣子後加入少量盐，直到煽軟，有點虎皮的感覺，捞起備用。 熱鍋，放入適量油 (可以稍微多一些) ， 如果有肥肉就先放入肥肉… |
 | 2026-09-07 | [AI 烧钱还在继续：收入追得上利息吗？](https://wenfeixiang.com/2026/09/ai-debt/) | 说个没人算过的账： 未来 5 年，全球要砸 5 万亿美元（美国预计新增 4万亿）去建 AI 数据中心。 数据中 […] |
+| 2026-09-07 | [差距明显啊，Astra效果好好，Fabl](https://versun.me/blog/tweet-2096861825707167803) | Chasen 为什么最近都没人讨论 Fable 5.1？？ 至少我最近刷到的内容，几乎都被 Astra 占满了。我反而有点好奇：把它们放到同一个任务里，差别到底有多大？ 于是我在 @ZenMuxAI 上给两个模型发了同一句提示词： 「生成 3D 鹈鹕皮划艇」 第一个视频是 Astra，第二个是 Fa… |
 | 2026-09-07 | [第一次去佛山，看王菀之演唱会](https://tianheg.co/posts/first-time-in-foshan/) | 和上次看 新裤子 一样，从深圳北到广州南坐高铁去，然后坐佛山地铁2号线去到目的地。到了地方，一开始没搞明白什么是北活一区、北下一区，导致我的座位在北下却坐到北活，还好最后还是发现了，坐到了正确的位置。这个体育馆的座位没有广州宝能的舒服，看起来蛮破旧的。VIP区的座位竟然就只是草草地摆了很多排椅子。当… |
 | 2026-09-07 | [山西之旅](https://liudon.com/posts/the-trip-of-shanxi/) | 趁着暑假最后一个周末的尾声，来了一趟三天两晚的山西之行。 第一天 上午11:29分在清河站乘坐G2509次火车，下午14:27分直达忻州西。 |
 | 2026-09-07 | [多行平铺的方式展示当前窗口所有标签页的Chrome扩展](https://hzzio.top/blog/multi-row-tabs) | 多行平铺的方式展示当前窗口所有标签页的Chrome扩展 |
 | 2026-09-07 | [取消英文，取消古文](https://www.hecaitou.com/2026/09/cancel-english-cancel-the-classics.html) | 上网年限太长，人就容易厌倦，比如说这几天看到又有人在吵取消英文，取消英文主科地位。记得我第一次在网上看到这个话题时，胡子还是软的，头发也依然茂密。 这种翻炒万年话题本来没什么意思，不过和海峡那边对照观察一番，事情就变得有趣起来：这边是过阵子就吵要不要取消英文，那边是过阵子就吵要不要取消古文。 我个人… |
 | 2026-09-07 | [野人编年史](http://imlane.zhanglintc.co/ye-ren-bian-nian-shi) | 野人编年史 野人创始人 徐队 ，群昵称Shogun。姓徐，称徐队，真野人队长，野人 抖音官号 持有者。 张队 ，群昵称张小不。江湖人称竹节虫，简称虫队。 熊队 ，群昵称熊嘎婆，称熊队。 野人CLUB游泳事业部 群主。 亮队 ，群昵称亮什么，称亮队，野人 小红书官号 持有者。 野人声明 从 泳往直前… |
+| 2026-09-07 | [羡慕啊，不知道啥时候能实现 token](https://versun.me/blog/tweet-2096795789129666938) | DHH THAT'S A LOT OF TOKENS FOR OMARCHY!! Thanks again to the awesome team at @AIatMeta for supporting us as Founding Corporate Patrons for the Omacom… |
 | 2026-09-07 | [你会痛苦吗](https://mobius.blog/25686.html) | 收到一则私信，我就写了这么几个字：你会痛苦吗？ 我觉得这是个很好的问题，因为我也不知道该如何回答，所以得先向对 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-09-07 | [迷你 MTR：在地图上看香港地铁实时运行](https://7gugu.com/index.php/2026/09/07/%e8%bf%b7%e4%bd%a0-mtr%ef%bc%9a%e5%9c%a8%e5%9c%b0%e5%9b%be%e4%b8%8a%e7%9c%8b%e9%a6%99%e6%b8%af%e5%9c%b0%e9%93%81%e5%ae%9e%e6%97%b6%e8%bf%90%e8%a1%8c/) | 背景 之前第一次看到 Mini Tokyo 3D 的时候，就很想做一个香港地铁版本：把线路铺在真实地图上，再让 … 继续阅读 “迷你 MTR：在地图上看香港地铁实时运行” |
 | 2026-09-07 | [大脑充血 Vol.97](https://www.geedea.pro/weekly/97/) | 宣布 周刊改月刊 已经有两周了，我怎么还在周更……？ 这篇是九月的正刊，正刊在每月的第一个周一发布。上周发布的是一篇 小报 ，小报可能会随机出现在非正刊发布日的周一，也可能没有。简而言之，这篇之后，九月就没有正刊了。国庆再见！ 吾仅悉落 London Calling The Clash NeoDB… |
@@ -149,28 +156,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-09-01 | [1999，互联网到了校门外](https://www.tortorse.com/archives/internet-outside-the-school-gate-1999/) | 冬日清晨，校门外的早点摊与游戏室 |
 | 2026-09-01 | [8月底更新了我的 AI 套餐： Kimi](https://versun.me/blog/tweet-2094587620215197775) | 8月底更新了我的 AI 套餐： Kimi 199 套餐 + 智谱 118 套餐。 上周深度用了一轮 Kimi K3、GLM 5.3、GLM 5.3 Flash，场景主要是 Hermes Agent，说说感受。 输出最稳定、最让我放心的，依旧是 K3。 GLM 5.3 Flash 不适合 Hermes… |
 | 2026-09-01 | [Memos #2026-08-31](https://www.taober.blog/memos/memo_20260831033926_iad1h8) | 11:39 下雨天远程是真惬意呀😄 |
-| 2026-08-31 | [问下各位， 现在 macos 26 稳定](https://versun.me/blog/tweet-2094572387807473943) | 问下各位， 现在 macos 26 稳定了吗，速度快不， 我现在还是15版本， 是等27还是升26，或者停在15😂 |
-| 2026-08-31 | [给林夕](https://tianheg.co/posts/to-linxi/) | 给林夕（一）：喜爱你 写于 26/07/14 你的声音，让我怦然心动 你的话语，让我心生雀跃 你的样貌，让我好奇不已 |
-| 2026-08-31 | [UZDoom updated](https://macsourceports.com/sourceport/uzdoom) | The build of UZDoom for the DOOM engine series of games has been updated to version 5.0.0 of the project\n\nhttps://macsourceports.com/sourceport/uzdo… |
-| 2026-08-31 | [Quake updated](https://macsourceports.com/game/quake) | The build of vkQuake for Quake has been updated to version 1.36.0 of the project |
-| 2026-08-31 | [CodeBind Docs插件-JetBrains版本](https://elmagnifico.tech/2026/09/01/CBD-JetBrain-Plugin/) | Foreword CodeBind Docs 那篇写完时说过：真混排、跨IDE，以后再说。VS Code / Cursor这边用了一阵，绑定格式也稳了，但实际还是有部分代码工程绑在 IntelliJ IDEA、Android Studio 里，既然如此不如把 IntelliJ Platform 这一… |
-| 2026-08-31 | [人类高质量思政课](https://elmagnifico.tech/2026/09/01/Political-Courses/) | Foreword 我记得很久以前，有一个政治老师说：你不关注政治，但政治始终在关注你。 以前不理解，这东西有啥好学的，其实还是当年的课程有点脱离生活了。讲的东西过于模糊，没有明确说明这个政治或者政策是什么意思，他的结果是什么，他对或者不对。 以前的政治课讲的都是正面的，都是这个东西的作用，但是一旦问… |
-| 2026-08-31 | [Redis 集群模式下使用 MGET 触发 CROSSSLOT Keys](https://blog.yasking.org/a/redis-crossslot) | 说来惭愧，今天我才了解到 Redis Cluster 模式下 MGET 的使用 “陷阱”，起因是翻日志看到 Redis 请求报错日志： ( error ) CROSSSLOT Keys in request don't hash to the same slot 定位 … |
-| 2026-08-31 | [R#117 寻找正反馈](https://blog.sakanano.moe/journals/random_117) | 2026.8.25 ~ 2026.8.31 |
-| 2026-08-31 | [开学前，文具店小景](https://blog.mfwt.top/index.php/archives/1561/) | 上一篇文章提到的文具店小景，就是这篇了。如果不是因为昨晚的文章插进来，其实应该更早发出来才对。具体发生的时间是在8/29，也就是真正来到学校之前的事情了。笔者和这个文具店其实并没有太大联系，毕竟... |
-| 2026-08-31 | [景甜、张继科，性工作者的爱情](https://sinyalee.com/blog/?p=1343) | 孙宇晨和景甜的事件中，很多人嘲笑孙哥，说北大学生被运动员打败了。这种标签化、娱乐化的解读是对景甜的不尊重，也没 […] |
-| 2026-08-31 | [这么想想真的有点可怕 当初我结婚后，没有](https://versun.me/blog/tweet-2094373003891187976) | 王依依棺材馅儿 有个亲戚是教师, 每当他补课赚点钱之后, 他老婆就会生一场大病把钱用完. 如果某个假期他没补课, 就不会生病, 健健康康的..... https://twitter.com/Yali1028/status/2094322222714470770 这么想想真的有点可怕 当初我结婚后，没… |
-| 2026-08-31 | [哇咔财务管家｜理财模块上线，现在记账、基金、股票、理财四合一](https://blog.ops-coffee.com/fire/wakaka-bookkeeping-fund-stock-wealth.html) |  |
-| 2026-08-31 | [My Creator Appreciation](https://z.arlmy.me/posts/ZArlmyMe/Blaugust_20260831_2/) | 「Favorites.」 |
-| 2026-08-31 | [Nacos 3.2.4 升级后老客户端报 501 no such api 的问题处理记录](https://199604.com/3673) | Nacos 3.2.4 升级后老客户端报 501 no such api 的问题处理记录 记录时间：2026- […] |
-| 2026-08-31 | [About Arlmy (Finally I wrote it!)](https://z.arlmy.me/posts/ZArlmyMe/Blaugust_20260831_1/) | 「About.」 |
-| 2026-08-31 | [搬工位时的三波人](https://blog.solazy.me/20260831/) | 今天简单聊聊在最近搬工位时候观察到的三种同事 |
-| 2026-08-31 | [树说话](https://www.hecaitou.com/2026/08/the-tree-speaks.html) | 一般来说，读者在我的公众号留什么言，在我看来都是个人自由，我不会加以干涉，尤其是不会下重手---我自己都还没活明白呢，能给别人什么灵魂一击？再说了，网上的缘分很浅，浅有浅的好，不容易生出很复杂的因果。所以有时候我只是提一句，看到对方根本听不进去，或者完全理解不了，那就立即收手。 附带说一句，我发现很… |
-| 2026-08-31 | [The httpx 1.0 situation](https://blog.est.im/2026/stdout-35) | In case you weren't aware, there's quite a debate over httpx v1.0 release, especially maintainer of both openai-python and anthropic-sdk-python showed… |
-| 2026-08-31 | [网球鹰眼 by GLM 5.3-Flash](https://7gugu.com/index.php/2026/08/31/%e7%bd%91%e7%90%83%e9%b9%b0%e7%9c%bc-by-glm-5-3-flash/) | 背景 周末智谱免费给大家送了3亿token试用GLM 5.3，趁着周末下雨在家猛猛瞪了两天，烧了3亿token … 继续阅读 “网球鹰眼 by GLM 5.3-Flash” |
-| 2026-08-31 | [WorkBuddy 成功，是因为腾讯办公套件太烂了](https://1q43.blog/post/12578/) | 前几天和汐笺讨论 Workbuddy 为什么成功，我在微信里发出了一句很像为了流量硬拗出来的标题： “我突然意 […] |
-| 2026-08-31 | [关系里的孙子也可能是自己惯出来的](https://mobius.blog/25559.html) | 此时此刻，我的旁边有两个男性在聊天，但他们的对话一直其中一人的电话不停打断。以至于当一个人接电话时，另一个人也 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
-| 2026-08-31 | [大脑充血 Vol.96](https://www.geedea.pro/weekly/96/) | 这是一篇小报。《大脑充血》已经在 上一期 改为月刊，发刊时间为每月的第一个周一，其他周一可能会随机出现篇幅较短的内容。小报不谈严肃内容，不遵循一般的格式，甚至可能全是技术内容。 Matt Damon 看完电影《奥德赛》之后我不仅成了 诺兰黑 ，还迷上了 Matt Damon。之前我对这个演员的关注不… |
 
 ## Vibe Coding
 
