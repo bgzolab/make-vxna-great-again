@@ -27,6 +27,8 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-09-08 | [AI 写下的那把 Redis 锁](https://depp.wang/2026/ai-redis-lock/) | 配套代码： transaction-lock-demo 。文中的代码位置都可以直接跳转到 GitHub 查看。 一个具体的技术问题 最近看 AI 写的一段后台代码时，我遇到一个具体、也很容易被忽略的技术问题。 代码里有这样一行： HjEventDtos.CreateResult result = l… |
+| 2026-09-08 | [怀念 SinaAppEngine](https://www.ichenfu.com/2026/09/08/rip-sina-app-engine/) | 经历了十几年的运营，SinaAppEngine 终于要走完一个产品的一生，即将下线并永久终止服务了。SAE 是我很早就接触过的平台，也是我人生中的第一份工作。借此契机，回忆一下我在 SAE 期间的一些工作，谨以此文，悼念我心中永远的 SinaAppEngine。 |
 | 2026-09-08 | [入蜀记 day470 处境是一种外来的东西](https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_470/) | 「处境是一种外来的东西。」 |
 | 2026-09-08 | [入蜀记 day469 四开](https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_469/) | 「四开。」 |
 | 2026-09-08 | [入蜀记 day468 经销商版家博会](https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_468/) | 「经销商版家博会。」 |
