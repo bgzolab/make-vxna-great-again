@@ -27,6 +27,9 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-09-09 | [超辉夜姬的BD拉完了](https://www.ghostchu.com/%e8%b6%85%e8%be%89%e5%a4%9c%e5%a7%ac%e7%9a%84bd%e6%8b%89%e5%ae%8c%e4%ba%86/) | 得知《超时空辉夜姬》BD 今日发售，已经投入了 787 + 495 元人民币沉没成本 + 苦网易云和官方音源糟 […] 超辉夜姬的BD拉完了 最先出现在 Ghost_chu's Blog 。 |
+| 2026-09-09 | [Escaping Huawei/Honor PC Manager](https://www.tinyedi.com/escaping-huawei-honor-pc-manager/) | Background Honor PC Manager—essentially the Honor-flavored sibling of Huawei PC Manager—is far heavier than it needs to be. For my use case, the featu… |
+| 2026-09-09 | [放下助人情结，我又辞职了](https://blog.solazy.me/20260909/) | 今天我又辞职了 |
 | 2026-09-09 | [开源我的个人基因分析流程](https://anotherdayu.com/4250/) | 去年做完 WeGene 的全基因组测序之后，我就一直想自己分析试试。于是就有了这个项目。 整个项目是和 Claude 一起完成的，把分析流程整理成了 Skill 的形式，并开源到了 GitHub： https://github.com/DayuGuo/genome-atlas-skill 目前 We… |
 | 2026-09-09 | [野人编年史](http://imlane.zhanglintc.co/ye-ren-bian-nian-shi) | 野人编年史 野人创始人 徐队 ，群昵称Shogun。姓徐，称徐队，真野人队长，野人 抖音官号 持有者。 张队 ，群昵称张小不。江湖人称竹节虫，简称虫队。 熊队 ，群昵称熊嘎婆，称熊队。 野人CLUB游泳事业部 群主。 亮队 ，群昵称亮什么，称亮队，野人 小红书官号 持有者。 野人声明 从 泳往直前… |
 | 2026-09-09 | [I Recreated My Own Version of TickTick with AI](https://www.bboy.app/2026/09/09/i-recreated-my-own-version-of-ticktick-with-ai/) | Introduction I had been using TickTick for quite a while, and the subscription cost me over 100 RMB a year. It wasn’t a lot of money, but I still want… |
