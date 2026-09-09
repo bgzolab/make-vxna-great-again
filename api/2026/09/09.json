@@ -14,6 +14,48 @@
     "source_root_domain": "bboy.app"
   },
   {
+    "title": "BPG 连接建立失败问题的答案和解析",
+    "url": "https://www.kawabangga.com/posts/7413",
+    "date": "2026-09-09T08:39:35Z",
+    "description": "本文是 BPG 连接建立失败问题 一文的答案和解析。 抓包文件中有两处可疑的地方。 第一处是 BGP OPEN […] Continue reading...",
+    "source_root_domain": "kawabangga.com"
+  },
+  {
+    "title": "欢迎来到薄肌俱乐部",
+    "url": "https://www.hecaitou.com/2026/09/Welcome-to-Fit-Club.html",
+    "date": "2026-09-09T04:12:42Z",
+    "description": "可能是算法推荐的缘故，最近「薄肌」这个词不断在我眼前出现，感觉一枚新的网络流行词在冉冉升起。 上网查了一下，「薄肌」是一种最新的身材审美标准。它不同于之前的「病娇」审美，也不同于之前的「肌霸」审美，而是走了一条中间道路：男性应该有肌肉，但不应该达到夸张臃肿的程度，应该保持一定的纤细身材，但要求肌肉轮廓清晰，不可以是风吹就倒的纸片。女性那边也与之类似。 已经有人仿照电影《搏击俱乐部》，开始为「薄肌俱乐部」定出规则，给出思想支持。也有人给出了具体的数值：男性薄肌标准是体脂在8%-15%， 女性标准则是 15%-20%。 我记得在我小的时候，《健美先生》杂志封面上的男女都还算是身材匀称，但等我开始工作，审美的风向就变了，健美先生一个个都像是比利时蓝牛，你可以去查一下这种牛的图片。从十多年前开始，大只佬又有点退烧，新崛起的都是病娇男，苍白单薄，但又说是「陌上人如玉」，人们就喜欢这样形貌。 如今兜兜转转，两头都尝试完毕，似乎一切又回归均值，人们开始追求不那么极端的身材。不过，如果那些体脂率标准不是开玩笑，那我觉得薄肌的标准其实并不低。我认识一些体脂率在 10% 左右的健身好友，那种投入程度普通人",
+    "source_root_domain": "hecaitou.com"
+  },
+  {
+    "title": "UZDoom updated",
+    "url": "https://macsourceports.com/sourceport/uzdoom",
+    "date": "2026-09-09T03:41:20Z",
+    "description": "The build of UZDoom for the DOOM engine series of games has been updated to version 5.0.1 of the project\\n\\nhttps://macsourceports.com/sourceport/uzdoom\\n\\n#macgaming #retrogaming #macOS #uzdoom #gaming #apple #m1 #m2 #m3 #applesilicon\\n\\n",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "帮助Marvis马维斯逃离腾讯魔爪",
+    "url": "https://www.cheshirex.com/11102.html",
+    "date": "2026-09-09T03:21:20Z",
+    "description": "Marvis马维斯是腾讯的一个免费AI助手，它运行在腾讯云服务器上。用户下载安装登陆Marvis马维斯后会给你 […]",
+    "source_root_domain": "cheshirex.com"
+  },
+  {
+    "title": "RollerCoaster Tycoon 2 updated",
+    "url": "https://macsourceports.com/game/rct2",
+    "date": "2026-09-09T02:01:50Z",
+    "description": "The build of OpenRCT2 for RollerCoaster Tycoon 2 has been updated to version v0.5.5 of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "Quetoo updated",
+    "url": "https://macsourceports.com/game/quetoo",
+    "date": "2026-09-09T02:01:07Z",
+    "description": "The build of Quetoo has been updated to version v1.0.89 of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
     "title": "死猫为大",
     "url": "https://mobius.blog/25692.html",
     "date": "2026-09-09T01:30:02Z",

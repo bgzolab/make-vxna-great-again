@@ -29,6 +29,12 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | --- | --- | --- |
 | 2026-09-09 | [I Recreated My Own Version of TickTick with AI](https://www.bboy.app/2026/09/09/i-recreated-my-own-version-of-ticktick-with-ai/) | Introduction I had been using TickTick for quite a while, and the subscription cost me over 100 RMB a year. It wasn’t a lot of money, but I still want… |
 | 2026-09-09 | [我用 AI 复刻了一个自己的 TickTick](https://www.bboy.app/2026/09/09/%E6%88%91%E7%94%A8-ai-%E5%A4%8D%E5%88%BB%E4%BA%86%E4%B8%80%E4%B8%AA%E8%87%AA%E5%B7%B1%E7%9A%84-ticktick/) | 简介 TickTick 我用了挺久，每年一百多块钱的订阅费。钱不算多，但我还是想试试，能不能让 AI 按照我的习惯，重新做一个只属于我自己的版本。 最后真做出来了，我给它取名叫 Dodo。 |
+| 2026-09-09 | [BPG 连接建立失败问题的答案和解析](https://www.kawabangga.com/posts/7413) | 本文是 BPG 连接建立失败问题 一文的答案和解析。 抓包文件中有两处可疑的地方。 第一处是 BGP OPEN […] Continue reading... |
+| 2026-09-09 | [欢迎来到薄肌俱乐部](https://www.hecaitou.com/2026/09/Welcome-to-Fit-Club.html) | 可能是算法推荐的缘故，最近「薄肌」这个词不断在我眼前出现，感觉一枚新的网络流行词在冉冉升起。 上网查了一下，「薄肌」是一种最新的身材审美标准。它不同于之前的「病娇」审美，也不同于之前的「肌霸」审美，而是走了一条中间道路：男性应该有肌肉，但不应该达到夸张臃肿的程度，应该保持一定的纤细身材，但要求肌肉轮… |
+| 2026-09-09 | [UZDoom updated](https://macsourceports.com/sourceport/uzdoom) | The build of UZDoom for the DOOM engine series of games has been updated to version 5.0.1 of the project\n\nhttps://macsourceports.com/sourceport/uzdo… |
+| 2026-09-09 | [帮助Marvis马维斯逃离腾讯魔爪](https://www.cheshirex.com/11102.html) | Marvis马维斯是腾讯的一个免费AI助手，它运行在腾讯云服务器上。用户下载安装登陆Marvis马维斯后会给你 […] |
+| 2026-09-09 | [RollerCoaster Tycoon 2 updated](https://macsourceports.com/game/rct2) | The build of OpenRCT2 for RollerCoaster Tycoon 2 has been updated to version v0.5.5 of the project |
+| 2026-09-09 | [Quetoo updated](https://macsourceports.com/game/quetoo) | The build of Quetoo has been updated to version v1.0.89 of the project |
 | 2026-09-09 | [死猫为大](https://mobius.blog/25692.html) | 之前常来小区喂猫的“爱猫阿姨”，因想毒死野狗却毒死了小区流浪猫——这件事最终还是在这群定期来小区喂猫的“爱猫阿 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-09-08 | [AI 写下的那把 Redis 锁](https://depp.wang/2026/ai-redis-lock/) | 配套代码： transaction-lock-demo 。文中的代码位置都可以直接跳转到 GitHub 查看。 一个具体的技术问题 最近看 AI 写的一段后台代码时，我遇到一个具体、也很容易被忽略的技术问题。 代码里有这样一行： HjEventDtos.CreateResult result = l… |
 | 2026-09-08 | [怀念 SinaAppEngine](https://www.ichenfu.com/2026/09/08/rip-sina-app-engine/) | 经历了十几年的运营，SinaAppEngine 终于要走完一个产品的一生，即将下线并永久终止服务了。SAE 是我很早就接触过的平台，也是我人生中的第一份工作。借此契机，回忆一下我在 SAE 期间的一些工作，谨以此文，悼念我心中永远的 SinaAppEngine。 |
@@ -71,7 +77,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-09-06 | [BGP 连接建立失败问题](https://www.kawabangga.com/posts/7397) | 好久没有更新「抓包破案」系列了，最近遇到的一个 case 适合拿出来考一考读者，需要一点点的 BGP 前置知识 […] Continue reading... |
 | 2026-09-06 | [刚刚和我老婆一起在B站上看了泄露的苹果折](https://versun.me/blog/tweet-2096448241932075390) | 刚刚和我老婆一起在B站上看了泄露的苹果折叠机的评测 第一反应是，这做的什么垃圾，也太丑了吧，这灵动岛是开玩笑的吧，苹果那些设计师拿那么高工资是吃屎的吗😂 |
 | 2026-09-06 | [Star Wars: X-Wing Alliance updated](https://macsourceports.com/game/swxwa) | The build of OpenXWA for Star Wars: X-Wing Alliance has been updated to version v0.0.17 of the project |
-| 2026-09-06 | [Quetoo updated](https://macsourceports.com/game/quetoo) | The build of Quetoo has been updated to version v1.0.86 of the project |
 | 2026-09-06 | [≡ 009｜这一周莫比乌斯环转到了哪里？](https://mobius.blog/25666.html) | —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-09-06 | [记录购买替尔泊肽](https://www.quji.org/archives/8839?pk_campaign=feed&pk_kwd=%25e8%25ae%25b0%25e5%25bd%2595%25e8%25b4%25ad%25e4%25b9%25b0%25e6%259b%25bf%25e5%25b0%2594%25e6%25b3%258a%25e8%2582%25bd) | 去年我才知道了这个药，领导在打，我就去了解了一下，果然是减肥神药，只是价格很贵，最近价格下来了很多，据说是要纳 […] |
 | 2026-09-06 | [月刊（第36期）：伊始](https://ursb.me/posts/weekly-36/) | 从六月到八月：不断增加的 AI 开销、自己的小世界，首尔与釜山的旅行，以及在徒步、游戏和日常里慢慢找回节奏。 |
