@@ -1,0 +1,233 @@
+[
+  {
+    "title": "I Recreated My Own Version of TickTick with AI",
+    "url": "https://www.bboy.app/2026/09/09/i-recreated-my-own-version-of-ticktick-with-ai/",
+    "date": "2026-09-09T09:15:00Z",
+    "description": "Introduction I had been using TickTick for quite a while, and the subscription cost me over 100 RMB a year. It wasn’t a lot of money, but I still wanted to see whether AI could rebuild it around my own habits and make a version just for me. It actually worked. I named it Dodo.",
+    "source_root_domain": "bboy.app"
+  },
+  {
+    "title": "我用 AI 复刻了一个自己的 TickTick",
+    "url": "https://www.bboy.app/2026/09/09/%E6%88%91%E7%94%A8-ai-%E5%A4%8D%E5%88%BB%E4%BA%86%E4%B8%80%E4%B8%AA%E8%87%AA%E5%B7%B1%E7%9A%84-ticktick/",
+    "date": "2026-09-09T09:15:00Z",
+    "description": "简介 TickTick 我用了挺久，每年一百多块钱的订阅费。钱不算多，但我还是想试试，能不能让 AI 按照我的习惯，重新做一个只属于我自己的版本。 最后真做出来了，我给它取名叫 Dodo。",
+    "source_root_domain": "bboy.app"
+  },
+  {
+    "title": "死猫为大",
+    "url": "https://mobius.blog/25692.html",
+    "date": "2026-09-09T01:30:02Z",
+    "description": "之前常来小区喂猫的“爱猫阿姨”，因想毒死野狗却毒死了小区流浪猫——这件事最终还是在这群定期来小区喂猫的“爱猫阿 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。",
+    "source_root_domain": "onojyun.com"
+  },
+  {
+    "title": "AI 写下的那把 Redis 锁",
+    "url": "https://depp.wang/2026/ai-redis-lock/",
+    "date": "2026-09-08T13:51:22Z",
+    "description": "配套代码： transaction-lock-demo 。文中的代码位置都可以直接跳转到 GitHub 查看。 一个具体的技术问题 最近看 AI 写的一段后台代码时，我遇到一个具体、也很容易被忽略的技术问题。 代码里有这样一行： HjEventDtos.CreateResult result = lockService.inTransaction( idemKey, () -> { // 创建活动 // 创建行程 return result; }); 方法名叫 inTransaction ，第一眼看起来只是「把操作放进数据库事务」。但继续看它的实现，才发现它先获取了一把 Redis 分布式锁，然后才开启数据库事务： public T inTransaction (String key, Supplier action) { RLock lock = redissonClient.getLock( \"activity:\" + key); lock.lock(); try { return transactionTemplate.execute(status -> action.get()",
+    "source_root_domain": "depp.wang"
+  },
+  {
+    "title": "怀念 SinaAppEngine",
+    "url": "https://www.ichenfu.com/2026/09/08/rip-sina-app-engine/",
+    "date": "2026-09-08T11:06:26Z",
+    "description": "经历了十几年的运营，SinaAppEngine 终于要走完一个产品的一生，即将下线并永久终止服务了。SAE 是我很早就接触过的平台，也是我人生中的第一份工作。借此契机，回忆一下我在 SAE 期间的一些工作，谨以此文，悼念我心中永远的 SinaAppEngine。",
+    "source_root_domain": "ichenfu.com"
+  },
+  {
+    "title": "入蜀记 day470 处境是一种外来的东西",
+    "url": "https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_470/",
+    "date": "2026-09-08T08:09:27Z",
+    "description": "「处境是一种外来的东西。」",
+    "source_root_domain": "arlmy.me"
+  },
+  {
+    "title": "入蜀记 day469 四开",
+    "url": "https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_469/",
+    "date": "2026-09-08T08:08:27Z",
+    "description": "「四开。」",
+    "source_root_domain": "arlmy.me"
+  },
+  {
+    "title": "入蜀记 day468 经销商版家博会",
+    "url": "https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_468/",
+    "date": "2026-09-08T08:07:27Z",
+    "description": "「经销商版家博会。」",
+    "source_root_domain": "arlmy.me"
+  },
+  {
+    "title": "本来最近为了 gpt 6 想重新开 gp",
+    "url": "https://versun.me/blog/tweet-2097228719404589098",
+    "date": "2026-09-08T07:41:05Z",
+    "description": "ZenMux 🚀 OpenAI: GPT-6 Astra is now live on ZenMux! @OpenAI 's most capable model for teams running complex agent workflows across code, browsers, research, and document work. - Strong on reasoning, coding, computer use, research, and document creation - 本来最近为了 gpt 6 想重新开 gpt 订阅的，但是官方神不知鬼不觉的降智很恶心啊，难道只有按量付费的 api 才能原汁原味吗。。。。 那我还不如用 zenmux 的，也是走的官方接口，最近还有充值优惠 各位还有啥其它比较实惠的方法吗",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "日本浮生录 ｜探秘奄美大岛，寻找南国秘境",
+    "url": "https://song.al/amami",
+    "date": "2026-09-08T07:23:57Z",
+    "description": "写在前面 盛夏的夜晚总是很长。 那天晚上和朋友聊起旅行，话题从九州一路往南，最后停在了手机地图上的一片海。朋友指着鹿儿岛以南那座狭长的岛，说了一句：“奄美大岛，好像还没去过。” 关于奄美大岛，我知道得并不算多。印象中，它夹在九州与冲绳之间，四周都是海，岛上似乎有大片亚热带森林，也有红树林和漫长的海岸线。地图上的距离看起来和九州本岛不远，但似乎一直没找到合适的机会专程去一趟。 朋友说，要不就趁着过阵子的假期出发吧。 于是事情变得简单，查机票、看住宿、租台车。像往常一样，没有任何关于旅行地的具体归化，也没有什么特别的朝圣理由。 我也想看看，这座我们一直没有去过的岛，究竟是什么样子。 九州“穴场” 日语里有一个词叫「穴場」，大概是指那些名气不大，却值得专程去一趟的地方。 在探寻奄美的日子到来之前，我索性提前来到九州，暂住在朋友家。看着距和朋友汇合的日子尚有几天，于是我想干脆趁这几天空档，去找一找九州地图上的那些「穴場」。 锅瀑布 一直以来，我很喜欢在日本自驾离开城市的感觉：当城市的道路一点点退出视野，随着导航，一头扎进进阿苏北部的山里。窗外的房子和电线越来越少，取而代之的是一片片绿色，偶尔还",
+    "source_root_domain": "song.al"
+  },
+  {
+    "title": "门外石榴",
+    "url": "https://www.hecaitou.com/2026/09/the-pomegranate-outside.html",
+    "date": "2026-09-08T04:08:11Z",
+    "description": "小区里有一树石榴，才开始挂果我就开始觊觎。夏天悄悄过去，一枚大果渐渐显露身形，我心中贪念随即生起，如野火蔓烧，日甚一日。 先是忍不住去想，这是什么品种，又是什么滋味？有籽无籽，皮厚皮薄，摘回去又要用什么方法完整解开？「摘回去」三个字凭空出现，我却毫无觉察，从此，眼前石榴在我心中早已成为囊中之物。一切自然而然，贪婪自生，却又全无痕迹。 既然起心动念，石榴就不再是石榴，而是私产、爱物、禁脔，于是一日看三回，担忧与日俱增：会不会风吹落？会不会遭鸟害？会不会有路人捷足先登？心念如电，忧思如潮，石榴一日红过一日，我心一回重过一回。每天早起就去检查，石榴还在就心头一喜，再看石榴红胜昨日，我就心头陡然一紧，慌忙四顾有人无人，想要买个纸袋套住。 才想到纸袋遮掩，思路瞬间打开，万千想法奔涌而出。记得其中一条相当毒辣：买一张贴纸，打印黑色骷髅头标识，外加红色粗体「警告：刚打农药」字样，然后贴上。 我每天为石榴拍一张照片，发布在网上，每天读者都在敦促我尽早采摘。连续发布到第五次，读者和我一样，牵动心神，开始对那枚石榴投入关注和情感。「和菜头今天会不会动手」，「阿头究竟何时下手」，逐渐变成读者日常悬念。「是道",
+    "source_root_domain": "hecaitou.com"
+  },
+  {
+    "title": "悲观主义者的依恋练习",
+    "url": "https://mobius.blog/25689.html",
+    "date": "2026-09-08T01:30:00Z",
+    "description": "每次在陌生城市坐车，看到车辆经过的高架桥下、或是立交桥中央的杂木林，我的脑子都会自动为我播放一些奇怪的画面—— […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。",
+    "source_root_domain": "onojyun.com"
+  },
+  {
+    "title": "ES transport证书p12到期监控实现（CronJob推送指标）",
+    "url": "https://199604.com/3689",
+    "date": "2026-09-08T00:56:16Z",
+    "description": "ES transport证书p12到期监控实现（CronJob推送指标） 记录时间：2026-09-07 环境 […]",
+    "source_root_domain": "199604.com"
+  },
+  {
+    "title": "这两天给我的 hermes 配了 gem",
+    "url": "https://versun.me/blog/tweet-2097106789947027843",
+    "date": "2026-09-07T23:36:35Z",
+    "description": "这两天给我的 hermes 配了 gemini-3.8-flash，体感非常好，文字能力顶级，智商也很在线，感觉比 k3 还要好一点 也是第一次竟然能跳读 AI 写的内容而不会看不懂。。。 至少要比这两天刚出的 gpt-4o 要好很多🤡",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "找到一个青少年入门 AI 最好的教程，是",
+    "url": "https://versun.me/blog/tweet-2097105906035200118",
+    "date": "2026-09-07T23:33:04Z",
+    "description": "找到一个青少年入门 AI 最好的教程，是有谷歌和树莓派基金会一起搞的： https://experience-ai.org/en-US/units",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "做为 Zenmux 的天使用户，用到现在",
+    "url": "https://versun.me/blog/tweet-2097097968289714585",
+    "date": "2026-09-07T23:01:32Z",
+    "description": "ZenMux 🚀 OpenAI: GPT-6 Astra is now live on ZenMux! @OpenAI 's most capable model for teams running complex agent workflows across code, browsers, research, and document work. - Strong on reasoning, coding, computer use, research, and document creation - 做为 Zenmux 的天使用户，用到现在还是很满意的，每次新模型发布几乎隔天就上架了，这次 GPT 6 也是秒上啊，非常快，可以说是国内 openrouter 的平替",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "Sweep LLM 功耗控制调度策略研究(二)",
+    "url": "https://eduardoqian.com/archives/sweep-llm-gong-hao-kong-zhi-diao-du-ce-lue-yan-jiu-er",
+    "date": "2026-09-07T19:23:00Z",
+    "description": "前篇文章：https://eduardoqian.com/archives/sweep-llm-gong-hao-kong-zhi-diao-du-ce-lue-yan-jiu-yi 继续书接上回。 PD分离 目前vllm PD分离广泛应用于推理系统中，考虑到prefill和decode的计算特征，",
+    "source_root_domain": "eduardoqian.com"
+  },
+  {
+    "title": "Token 应译作「符」",
+    "url": "https://www.geedea.pro/article/token-translation/",
+    "date": "2026-09-07T15:37:10Z",
+    "description": "整场「要不要把 Token 翻译成词元？」的争论令我感到诡异，诡异的点在于所有参与者都只看到了 Token 作为大语言模型计价单位的意思，而 Token 一词存在于英语语言中已经有很久了（对中文的影响也很大）。若把 Token 先前的释义也译作「词元」，场面会非常可笑： 这套桌游里的某个词元不见了！ 请求体里必须携带词元才能通过验证。 在构造抽象语法树之前，要先把字符串词元化。（这倒还算接近的） 把安全词元插入电脑的 USB-C 接口。 为保证数据安全，可以把敏感信息词元化。 用你的词元兑换优惠或者奖品。 正如人们滥用「人工智能」一词指代「大语言模型」，因为他们只知道热度最高的技术，便让 AI 这个上世纪就出现的概念被人工智能的一个小分支占据一样，人们滥用 Token 一词，以至于他们不关心其他的意思。更何况「词元」这个意思用在 LLM 里其实相当不准确。 不过，也需要批评前人，Token 一词的翻译本身就很混乱。 桌游中的 Token 桌游里的 Token 是「指示物」的意思，还有人根据情况译作「代币」「标记」。大富翁里用来标记地产的房子，飞行棋里的飞机，龙与地下城里的角色小人，都叫",
+    "source_root_domain": "geedea.pro"
+  },
+  {
+    "title": "终究还是要搬家了",
+    "url": "https://blog.solazy.me/20260907/",
+    "date": "2026-09-07T15:00:00Z",
+    "description": "最近可能要考虑接下来往哪儿搬了",
+    "source_root_domain": "solazy.me"
+  },
+  {
+    "title": "R#118 周报系统v2了",
+    "url": "https://blog.sakanano.moe/journals/random_118",
+    "date": "2026-09-07T14:00:00Z",
+    "description": "2026.9.1 ~ 2026.9.7",
+    "source_root_domain": "sakanano.moe"
+  },
+  {
+    "title": "小论博客的更新速度",
+    "url": "https://blog.mfwt.top/index.php/archives/1582/",
+    "date": "2026-09-07T13:20:54Z",
+    "description": "几天不更，冒个泡，证明自己还活蹦乱跳的。本文聊聊最近博客的更新问题，所以其实不算是『议论』，因为不是什么严肃话题；『讨论』又好像只有我一个人在说；当然也不是什么『大论』，毕竟个人事务而已，而且也...",
+    "source_root_domain": "mfwt.top"
+  },
+  {
+    "title": "辣椒炒肉",
+    "url": "https://taxodium.ink/recipe-la-jiao-chao-rou.html",
+    "date": "2026-09-07T12:09:00Z",
+    "description": "辣椒炒肉 實踐一下 Zine#57 裡分享的 RecipeTables 的做法。 辣椒炒肉菜譜 螺丝椒或是其它青椒約 250g 切片 熱鍋，少許少許油，下入青椒煽炒，壓一壓， 煽一陣子後加入少量盐，直到煽軟，有點虎皮的感覺，捞起備用。 熱鍋，放入適量油 (可以稍微多一些) ， 如果有肥肉就先放入肥肉，先中大火炒變色，再小火煸出猪油。 捞走肥肉，下入豆豉炒香，接著放入蒜片炒香 (一起放也行) 。 下入青椒和肉，將肉炒熟變色，再下入白木耳翻炒一段時間，把食材炒熟。 都差不多熟了 (用肉色判斷) 之後， 加入適量生抽（咸味）、老抽 （上色）、白糖（提鮮，削减辣味），翻炒均勻即可裝盤。 梅花肉或前腿肉 200g ~ 400g 切片，不要太厚。 基於肉量，加入適量生抽、老抽、小蘇打腌製十分鐘左右 白木耳若干 (喜歡就多放點) 温水泡發 30 分鐘，再用清水洗干净 豆豉少許 清水清洗一下，切碎 大蒜兩顆 (十來瓣) 切片 图1 辣椒炒肉成品 參考視頻教程： 【无敌下饭神菜!!辣椒炒肉!!】 (03:19) by 村驴 感谢你的阅读！ 欢迎 邮件 跟我分享你的想法 :) 你也可以 訂閱 我的博客，保",
+    "source_root_domain": "taxodium.ink"
+  },
+  {
+    "title": "AI 烧钱还在继续：收入追得上利息吗？",
+    "url": "https://wenfeixiang.com/2026/09/ai-debt/",
+    "date": "2026-09-07T09:49:41Z",
+    "description": "说个没人算过的账： 未来 5 年，全球要砸 5 万亿美元（美国预计新增 4万亿）去建 AI 数据中心。 数据中 […]",
+    "source_root_domain": "wenfeixiang.com"
+  },
+  {
+    "title": "差距明显啊，Astra效果好好，Fabl",
+    "url": "https://versun.me/blog/tweet-2096861825707167803",
+    "date": "2026-09-07T07:23:11Z",
+    "description": "Chasen 为什么最近都没人讨论 Fable 5.1？？ 至少我最近刷到的内容，几乎都被 Astra 占满了。我反而有点好奇：把它们放到同一个任务里，差别到底有多大？ 于是我在 @ZenMuxAI 上给两个模型发了同一句提示词： 「生成 3D 鹈鹕皮划艇」 第一个视频是 Astra，第二个是 Fable 5.1 第一眼看过去，肯定是 Astra 的完胜 Fable 5.1 配色柔和，鹈鹕的造型更饱满，救生衣、船头绑绳这些小细节也补出来了，整个场景更精致，两只手分别握在桨杆上，身体、手和桨的位置 差距明显啊，Astra效果好好，Fable 5.1感觉还不如Kimi😂",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "第一次去佛山，看王菀之演唱会",
+    "url": "https://tianheg.co/posts/first-time-in-foshan/",
+    "date": "2026-09-07T07:00:00Z",
+    "description": "和上次看 新裤子 一样，从深圳北到广州南坐高铁去，然后坐佛山地铁2号线去到目的地。到了地方，一开始没搞明白什么是北活一区、北下一区，导致我的座位在北下却坐到北活，还好最后还是发现了，坐到了正确的位置。这个体育馆的座位没有广州宝能的舒服，看起来蛮破旧的。VIP区的座位竟然就只是草草地摆了很多排椅子。当时觉得：买VIP不见得就好哈。 座位两侧都有人，左边的一个姐很爱说话，住在佛山。我呢，在休息，她问一句我就答一句，她不问我也就不说话。右边的一个姐我没和她说过话，只是散场时她对我说了句抱歉，我没明白她为什么这么说，也礼貌地回了句没事儿。",
+    "source_root_domain": "tianheg.co"
+  },
+  {
+    "title": "山西之旅",
+    "url": "https://liudon.com/posts/the-trip-of-shanxi/",
+    "date": "2026-09-07T06:55:05Z",
+    "description": "趁着暑假最后一个周末的尾声，来了一趟三天两晚的山西之行。 第一天 上午11:29分在清河站乘坐G2509次火车，下午14:27分直达忻州西。",
+    "source_root_domain": "liudon.com"
+  },
+  {
+    "title": "多行平铺的方式展示当前窗口所有标签页的Chrome扩展",
+    "url": "https://hzzio.top/blog/multi-row-tabs",
+    "date": "2026-09-07T05:09:57Z",
+    "description": "多行平铺的方式展示当前窗口所有标签页的Chrome扩展",
+    "source_root_domain": "hzz.cool"
+  },
+  {
+    "title": "取消英文，取消古文",
+    "url": "https://www.hecaitou.com/2026/09/cancel-english-cancel-the-classics.html",
+    "date": "2026-09-07T04:45:14Z",
+    "description": "上网年限太长，人就容易厌倦，比如说这几天看到又有人在吵取消英文，取消英文主科地位。记得我第一次在网上看到这个话题时，胡子还是软的，头发也依然茂密。 这种翻炒万年话题本来没什么意思，不过和海峡那边对照观察一番，事情就变得有趣起来：这边是过阵子就吵要不要取消英文，那边是过阵子就吵要不要取消古文。 我个人对于取消派的所有想法都支持，想取消英文那就取消好了，想取消古文那就取消好了。反正我又不能决定这件事，干脆就支持一下。就算是他们呼吁取消数学物理，我还是支持。以后上学这件事，进去能学会写自己的名字，我觉得就已经足够，全部科目都应该取消。 然后文盲不能上网，世界就算是消停了。 我在学校的时候，英文让我感到痛苦，古文也让我感到痛苦。但是在毕业之后，我却自己花了很长时间持续研习它们。没有了老师，没有了考试，也不涉及补考和文凭，但我却开始主动学习。 原因可能是我晚熟，也有一种可能是它们都属于那种需要长期投入，直到中后期才会收获的学科。在学校学十六年英文，给人的感觉是没有多大用处，说是说不了，写是写不成，听又听不大懂。等到走上社会之后，我的日常工作里都需要和气象预报设备打交道，大部分都是进口设备，大部分",
+    "source_root_domain": "hecaitou.com"
+  },
+  {
+    "title": "野人编年史",
+    "url": "http://imlane.zhanglintc.co/ye-ren-bian-nian-shi",
+    "date": "2026-09-07T03:35:53Z",
+    "description": "野人编年史 野人创始人 徐队 ，群昵称Shogun。姓徐，称徐队，真野人队长，野人 抖音官号 持有者。 张队 ，群昵称张小不。江湖人称竹节虫，简称虫队。 熊队 ，群昵称熊嘎婆，称熊队。 野人CLUB游泳事业部 群主。 亮队 ，群昵称亮什么，称亮队，野人 小红书官号 持有者。 野人声明 从 泳往直前 过来加入的朋友： 野人 在加入 泳往直前 之前就已成立，我们不是另起炉灶，我们也不搞分裂主义，我们永远欢迎 泳往直前 成员加入 野人 。 从小红书、抖音，或者其他途径加入的朋友： 欢迎加入 野人 ，也永远欢迎 野人 的成员随时加入 泳往直前 。 加入 野人 需要认可 野人 ，对组织有认可感、归属感。 野人 创始人均为业余爱好者，但是无论是新手还是高手，都希望大家互相尊重、互相帮助，一起快乐玩水。若参加户外活动请务必正确佩戴跟屁虫，不盲目下水。务必注意自我防护，安全责任自负。 2024年 6月 徐队带张队第一次下凤溪沱。 亮队不时参与凤溪沱游江活动。 10月 熊队正式加入，并介绍徐队、张队加入 大竹林冬泳队 。 徐队、张队、熊队日常于 大竹林冬泳基地 进行户外游泳，队伍初具雏形，并开始尝试冬泳",
+    "source_root_domain": "zhanglintc.co"
+  },
+  {
+    "title": "羡慕啊，不知道啥时候能实现 token",
+    "url": "https://versun.me/blog/tweet-2096795789129666938",
+    "date": "2026-09-07T03:00:47Z",
+    "description": "DHH THAT'S A LOT OF TOKENS FOR OMARCHY!! Thanks again to the awesome team at @AIatMeta for supporting us as Founding Corporate Patrons for the Omacom Foundation. We will put these tokens to great, endless use 🙏 羡慕啊，不知道啥时候能实现 token 自由",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "你会痛苦吗",
+    "url": "https://mobius.blog/25686.html",
+    "date": "2026-09-07T01:30:00Z",
+    "description": "收到一则私信，我就写了这么几个字：你会痛苦吗？ 我觉得这是个很好的问题，因为我也不知道该如何回答，所以得先向对 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。",
+    "source_root_domain": "onojyun.com"
+  },
+  {
+    "title": "迷你 MTR：在地图上看香港地铁实时运行",
+    "url": "https://7gugu.com/index.php/2026/09/07/%e8%bf%b7%e4%bd%a0-mtr%ef%bc%9a%e5%9c%a8%e5%9c%b0%e5%9b%be%e4%b8%8a%e7%9c%8b%e9%a6%99%e6%b8%af%e5%9c%b0%e9%93%81%e5%ae%9e%e6%97%b6%e8%bf%90%e8%a1%8c/",
+    "date": "2026-09-07T00:17:00Z",
+    "description": "背景 之前第一次看到 Mini Tokyo 3D 的时候，就很想做一个香港地铁版本：把线路铺在真实地图上，再让 … 继续阅读 “迷你 MTR：在地图上看香港地铁实时运行”",
+    "source_root_domain": "7gugu.com"
+  },
+  {
+    "title": "大脑充血 Vol.97",
+    "url": "https://www.geedea.pro/weekly/97/",
+    "date": "2026-09-07T00:08:57Z",
+    "description": "宣布 周刊改月刊 已经有两周了，我怎么还在周更……？ 这篇是九月的正刊，正刊在每月的第一个周一发布。上周发布的是一篇 小报 ，小报可能会随机出现在非正刊发布日的周一，也可能没有。简而言之，这篇之后，九月就没有正刊了。国庆再见！ 吾仅悉落 London Calling The Clash NeoDB Lucida 起因是在 YouTube（Invidious）上看到了这个《Hazbin Hotel》第二季歌曲的 反应视频 （至于我为什么看这个类别的视频，是因为我意外发现然后被这个男人迷住了， 他长得太帅了声音又好听 ，然后就看完了）。视频里他评价 Abel 的配音演员有朋克的嗓音（punk voice），我便想起来自己有段时间没听新的朋克专辑了。所以，比起 停下来分析我的 Daddy issue ，我找到了 The Clash 。 听完之后好像只记得第一首《London Calling》，每天脑袋里都在重复 London Calling~ 。整体上这张专辑不是特别硬的朋克，或者说是非常早期的朋克，和《Ramones》的风格更像。Ramones 乐队据说是朋克摇滚的开创者，不过我其实不太喜",
+    "source_root_domain": "geedea.pro"
+  }
+]

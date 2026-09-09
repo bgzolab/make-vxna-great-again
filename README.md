@@ -27,11 +27,15 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-09-09 | [I Recreated My Own Version of TickTick with AI](https://www.bboy.app/2026/09/09/i-recreated-my-own-version-of-ticktick-with-ai/) | Introduction I had been using TickTick for quite a while, and the subscription cost me over 100 RMB a year. It wasn’t a lot of money, but I still want… |
+| 2026-09-09 | [我用 AI 复刻了一个自己的 TickTick](https://www.bboy.app/2026/09/09/%E6%88%91%E7%94%A8-ai-%E5%A4%8D%E5%88%BB%E4%BA%86%E4%B8%80%E4%B8%AA%E8%87%AA%E5%B7%B1%E7%9A%84-ticktick/) | 简介 TickTick 我用了挺久，每年一百多块钱的订阅费。钱不算多，但我还是想试试，能不能让 AI 按照我的习惯，重新做一个只属于我自己的版本。 最后真做出来了，我给它取名叫 Dodo。 |
+| 2026-09-09 | [死猫为大](https://mobius.blog/25692.html) | 之前常来小区喂猫的“爱猫阿姨”，因想毒死野狗却毒死了小区流浪猫——这件事最终还是在这群定期来小区喂猫的“爱猫阿 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-09-08 | [AI 写下的那把 Redis 锁](https://depp.wang/2026/ai-redis-lock/) | 配套代码： transaction-lock-demo 。文中的代码位置都可以直接跳转到 GitHub 查看。 一个具体的技术问题 最近看 AI 写的一段后台代码时，我遇到一个具体、也很容易被忽略的技术问题。 代码里有这样一行： HjEventDtos.CreateResult result = l… |
 | 2026-09-08 | [怀念 SinaAppEngine](https://www.ichenfu.com/2026/09/08/rip-sina-app-engine/) | 经历了十几年的运营，SinaAppEngine 终于要走完一个产品的一生，即将下线并永久终止服务了。SAE 是我很早就接触过的平台，也是我人生中的第一份工作。借此契机，回忆一下我在 SAE 期间的一些工作，谨以此文，悼念我心中永远的 SinaAppEngine。 |
 | 2026-09-08 | [入蜀记 day470 处境是一种外来的东西](https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_470/) | 「处境是一种外来的东西。」 |
 | 2026-09-08 | [入蜀记 day469 四开](https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_469/) | 「四开。」 |
 | 2026-09-08 | [入蜀记 day468 经销商版家博会](https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_468/) | 「经销商版家博会。」 |
+| 2026-09-08 | [本来最近为了 gpt 6 想重新开 gp](https://versun.me/blog/tweet-2097228719404589098) | ZenMux 🚀 OpenAI: GPT-6 Astra is now live on ZenMux! @OpenAI 's most capable model for teams running complex agent workflows across code, browsers, res… |
 | 2026-09-08 | [日本浮生录 ｜探秘奄美大岛，寻找南国秘境](https://song.al/amami) | 写在前面 盛夏的夜晚总是很长。 那天晚上和朋友聊起旅行，话题从九州一路往南，最后停在了手机地图上的一片海。朋友指着鹿儿岛以南那座狭长的岛，说了一句：“奄美大岛，好像还没去过。” 关于奄美大岛，我知道得并不算多。印象中，它夹在九州与冲绳之间，四周都是海，岛上似乎有大片亚热带森林，也有红树林和漫长的海岸… |
 | 2026-09-08 | [门外石榴](https://www.hecaitou.com/2026/09/the-pomegranate-outside.html) | 小区里有一树石榴，才开始挂果我就开始觊觎。夏天悄悄过去，一枚大果渐渐显露身形，我心中贪念随即生起，如野火蔓烧，日甚一日。 先是忍不住去想，这是什么品种，又是什么滋味？有籽无籽，皮厚皮薄，摘回去又要用什么方法完整解开？「摘回去」三个字凭空出现，我却毫无觉察，从此，眼前石榴在我心中早已成为囊中之物。一切… |
 | 2026-09-08 | [悲观主义者的依恋练习](https://mobius.blog/25689.html) | 每次在陌生城市坐车，看到车辆经过的高架桥下、或是立交桥中央的杂木林，我的脑子都会自动为我播放一些奇怪的画面—— […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
@@ -140,30 +144,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-09-02 | [沉心自愈：成年人最顶级的清醒，是向内安顿自己](https://blog.zzbd.org/miao20260903-1/) | 人这一生，真正的修行，从来不是向外追逐、拼命讨好、刻意合群，而是学会与自己和解，与世界温柔相处。我们这一生所有的疲惫、焦虑、内耗、社交困顿、心态失衡，本质上都不是外界出了问题，而是我们的内心，长期处于动荡、慌张、不自安的状态里。 |
 | 2026-09-02 | [习武筑基养气，国学定心修身](https://blog.zzbd.org/miao20260902/) | （静心稳气箴言集） 人心一日浮躁，气息一日紊乱；身形一日懈怠，心神一日涣散。习武以炼身，固本培元，收敛浮躁之气；读书以修心，明理守志，安定纷乱之神。武术基本功锤炼筋骨、规整气息，国学经典涵养心性、沉淀格局，二者相辅相成，外塑身形风骨，内养平和本心。今日以此文武箴言静心养气，沉身、定心、守神，褪去焦躁… |
 | 2026-09-02 | [Memos #2026-09-01](https://www.taober.blog/memos/memo_20260901131413_wc7aih) | 21:14 下班打车，一上车一股子榔子味，问师傅讨了一个😁 |
-| 2026-09-01 | [曼远/曼掌/曼丢：佛是大家的，鬼是各家的](https://macin.org/2026/09/01/dai-zu-zhai-zi/) | 阅读全文 → 飞机降落嘎洒机场那一刻，舷窗外是成片的橡胶林和红土地，热浪裹着湿气扑进机舱。 |
-| 2026-09-01 | [The Evolution of Modern Naval Combat, from the First Sino-Japanese War](https://victor42.eth.limo/post-en/the-evolution-of-naval-warfare/) | I was putting together a travel plan when my mind drifted onto a naval battlefield. I’m about to take the family to Weihai. It is a city that still ca… |
-| 2026-09-01 | [从甲午战争说起：近现代海战形式的变迁](https://victor42.eth.limo/post/the-evolution-of-naval-warfare/) | 正做着旅行攻略，思绪飘到海战现场。 即将带家人去威海度假。威海是一座承载着历史伤疤的城市，这伤疤，指的就是甲午战争。 大家对甲午战争的印象，可能是邓世昌的悲壮身影，高呼着撞沉吉野，指挥致远号冲锋。不过严格来说，那是甲午战争中的黄海海战，发生在朝鲜半岛附近。军事史正式名称为大东沟海战，对中国来说黄海海… |
-| 2026-09-01 | [时代在召唤](https://hux.ink/posts/grade-1/) | 今天 9 月 1 日，正式开学。作为一年级萌新，娃在前两天已经到小学进行了为期一天半的适应性训练。今天，迎来了真正意义上的小学生活。 昨天发新书，说好的晚上和他一起包书皮，结果包着包着，他跑去玩玩具去了，留我一人给他一本一本包。 包书皮的时候，20 多年前的一些记忆自动浮现。那时候我们包书皮用的是报… |
-| 2026-09-01 | [读《鱼不存在》](https://www.quji.org/archives/8826?pk_campaign=feed&pk_kwd=%25e8%25af%25bb%25e3%2580%258a%25e9%25b1%25bc%25e4%25b8%258d%25e5%25ad%2598%25e5%259c%25a8%25e3%2580%258b) | 阅读《鱼不存在》带来深刻启示。书中讲述了斯坦福大学首任校长大卫执着为鱼分类的故事，揭示了他将秩序偏执延伸至优生学的阴暗面。现代生物学最终证实“鱼”这一分类并不存在。作者借此反思人生应学会接受混沌与谦卑，并感叹读书是获取智慧最高效的方式。 |
-| 2026-09-01 | [Codex第三方API使用生图接口](https://blog.alliot.tech/post/codex-third-party-api-image-generation) | Codex(或ChatGPT客户端) 在配置第三方 API 来使用时，其内置的 imagegen Skills 无法正常使用，通过简单的配置即可修复。 |
-| 2026-09-01 | [景甜是鸡，胡锡进是狗](https://sinyalee.com/blog/?p=1351) | 一 景甜是鸡，胡锡进是狗 鸡会下蛋，狗会叼盘 鸡下一个蛋，3.36亿元人民币 狗叼一个盘，五毛 鸡下蛋和狗叼盘 […] |
-| 2026-09-01 | [TIL:Punycode - 域名中的 Unicode](https://taxodium.ink/til-punycode.html) | TIL:Punycode 域名中的 Unicode 之前看了 マリウス 的 disable-javascript.org ，我就用 Elfeed 訂閱了他的博客，但後面一直在 Elfeed 裡看到拉取报錯，錯誤信息如下： [error]: https://マリウス.com/index.xml: "(… |
-| 2026-09-01 | [不知道是不是我的错觉， AI 时代，国外](https://versun.me/blog/tweet-2094732593262707008) | AlexZ 🦀 DHH会在今年十月到深圳 GOSIM 大会，到时候 Omarchy 在 China 会有大事发生👍🫰🎉 我也借 DHH 这条推也发一下 RustChinaConf 深圳，会和 GOSIM 深圳双会联动🍺🍺 https://twitter.com/dhh/status/20946520… |
-| 2026-09-01 | [Earlybird合伙人分享：如何打造一家 AI 原生的VC投资机构？](https://wenfeixiang.com/2026/09/how-to-be-the-ai-native-vc-firm/) | 几乎每家 VC 机构都会说自己在使用人工智能，目前看 使用是很容易的、也确实很多人在用，但真要围绕人工智能打造 […] |
-| 2026-09-01 | [最近惦念 20260820](https://z.arlmy.me/posts/TILs/thoughts/20260820_Recently/) | 「珍惜闲暇。」 |
-| 2026-09-01 | [入蜀记 day464 love thyself last](https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_464/) | 「love thyself last。」 |
-| 2026-09-01 | [入蜀记 day463 BIGGER Art Fair](https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_463/) | 「BIGGER Art Fair。」 |
-| 2026-09-01 | [博客加速实践](https://liudon.com/posts/blog-performance-optimization/) | 目前博客部署在 Cloudflare Pages 服务上，通过 DnsPod 服务做了国内和海外分线路解析。 Cloudflare Pages ↑ blog.liudon.xyz ↑ ↑ 回源 直接访问 │ │ 腾讯云 CDN │ ↑ ↑ 国内 海外 \ / DNSPod ↑ liudon.com… |
-| 2026-09-01 | [真希望模型厂商能学学人家这种定价方式，直](https://versun.me/blog/tweet-2094673180430610898) | ollama Ollama’s Pro, Max, and Team plans now use transparent per-token pricing. Based on your feedback, every plan includes a monthly pool of usage cr… |
-| 2026-09-01 | [2026.8.31](https://www.justzht.com/2026-8-31/) | 很流水账的一篇。 周六开大车陪搬家的朋友去收 fb market 上的二手家具。我对这种事情有种莫名的兴致，不管是开 UHaul 还 |
-| 2026-09-01 | [认领罗曼望远镜像素点](https://www.liesauer.net/blog/post/1042.html) | :point_right: [跃迁点坐标](https://science.nasa.gov/mission/roman-space-telescope/adopt-a-pixel/ "跃迁点坐... |
-| 2026-09-01 | [Memos: 新计费模式下的 Cursor Team $40 已无开通必要](https://blog.yasking.org/a/1788227709) | 本月公司订阅的 Cursor Team 计费方案变更，从按次每月 500 点数变为按量计费 20 额度。 20 额度。 20 额度。 40/人的席位费包含 $20 额度，Cursor … |
-| 2026-09-01 | [不再期待下一份工作](https://blog.solazy.me/20260901/) | 最近真的在工作上有一种心累的感觉 |
-| 2026-09-01 | [K8s 集群外部访问 Pod 的几种方式](https://199604.com/3675) | K8s 集群外部访问 Pod 的几种方式 记录时间：2026-08-20 环境：K8s 1.28 测试集群（C […] |
-| 2026-09-01 | [炒饭的顺序](https://mobius.blog/25571.html) | 副标题：《性癖纵横观 IX》 今天的文章涉及性、性欲、性癖等内容，请酌情阅读。 之所以把这篇文章放在“食色性也 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
-| 2026-09-01 | [1999，互联网到了校门外](https://www.tortorse.com/archives/internet-outside-the-school-gate-1999/) | 冬日清晨，校门外的早点摊与游戏室 |
-| 2026-09-01 | [8月底更新了我的 AI 套餐： Kimi](https://versun.me/blog/tweet-2094587620215197775) | 8月底更新了我的 AI 套餐： Kimi 199 套餐 + 智谱 118 套餐。 上周深度用了一轮 Kimi K3、GLM 5.3、GLM 5.3 Flash，场景主要是 Hermes Agent，说说感受。 输出最稳定、最让我放心的，依旧是 K3。 GLM 5.3 Flash 不适合 Hermes… |
-| 2026-09-01 | [Memos #2026-08-31](https://www.taober.blog/memos/memo_20260831033926_iad1h8) | 11:39 下雨天远程是真惬意呀😄 |
 
 ## Vibe Coding
 
