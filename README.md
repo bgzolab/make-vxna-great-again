@@ -27,8 +27,11 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-09-09 | [开源我的个人基因分析流程](https://anotherdayu.com/4250/) | 去年做完 WeGene 的全基因组测序之后，我就一直想自己分析试试。于是就有了这个项目。 整个项目是和 Claude 一起完成的，把分析流程整理成了 Skill 的形式，并开源到了 GitHub： https://github.com/DayuGuo/genome-atlas-skill 目前 We… |
+| 2026-09-09 | [野人编年史](http://imlane.zhanglintc.co/ye-ren-bian-nian-shi) | 野人编年史 野人创始人 徐队 ，群昵称Shogun。姓徐，称徐队，真野人队长，野人 抖音官号 持有者。 张队 ，群昵称张小不。江湖人称竹节虫，简称虫队。 熊队 ，群昵称熊嘎婆，称熊队。 野人CLUB游泳事业部 群主。 亮队 ，群昵称亮什么，称亮队，野人 小红书官号 持有者。 野人声明 从 泳往直前… |
 | 2026-09-09 | [I Recreated My Own Version of TickTick with AI](https://www.bboy.app/2026/09/09/i-recreated-my-own-version-of-ticktick-with-ai/) | Introduction I had been using TickTick for quite a while, and the subscription cost me over 100 RMB a year. It wasn’t a lot of money, but I still want… |
 | 2026-09-09 | [我用 AI 复刻了一个自己的 TickTick](https://www.bboy.app/2026/09/09/%E6%88%91%E7%94%A8-ai-%E5%A4%8D%E5%88%BB%E4%BA%86%E4%B8%80%E4%B8%AA%E8%87%AA%E5%B7%B1%E7%9A%84-ticktick/) | 简介 TickTick 我用了挺久，每年一百多块钱的订阅费。钱不算多，但我还是想试试，能不能让 AI 按照我的习惯，重新做一个只属于我自己的版本。 最后真做出来了，我给它取名叫 Dodo。 |
+| 2026-09-09 | [Memos: 客户端藏不住接口参数和密钥](https://blog.yasking.org/a/1788943478) | 这两天使用 AI（GPT 5.6 Luna High 模型）做了两个测试： 某不支持导出历史记录的记账软件，我从 2022 年开始使用，已经有不少数据，想 … |
 | 2026-09-09 | [BPG 连接建立失败问题的答案和解析](https://www.kawabangga.com/posts/7413) | 本文是 BPG 连接建立失败问题 一文的答案和解析。 抓包文件中有两处可疑的地方。 第一处是 BGP OPEN […] Continue reading... |
 | 2026-09-09 | [欢迎来到薄肌俱乐部](https://www.hecaitou.com/2026/09/Welcome-to-Fit-Club.html) | 可能是算法推荐的缘故，最近「薄肌」这个词不断在我眼前出现，感觉一枚新的网络流行词在冉冉升起。 上网查了一下，「薄肌」是一种最新的身材审美标准。它不同于之前的「病娇」审美，也不同于之前的「肌霸」审美，而是走了一条中间道路：男性应该有肌肉，但不应该达到夸张臃肿的程度，应该保持一定的纤细身材，但要求肌肉轮… |
 | 2026-09-09 | [UZDoom updated](https://macsourceports.com/sourceport/uzdoom) | The build of UZDoom for the DOOM engine series of games has been updated to version 5.0.1 of the project\n\nhttps://macsourceports.com/sourceport/uzdo… |
@@ -61,7 +64,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-09-07 | [山西之旅](https://liudon.com/posts/the-trip-of-shanxi/) | 趁着暑假最后一个周末的尾声，来了一趟三天两晚的山西之行。 第一天 上午11:29分在清河站乘坐G2509次火车，下午14:27分直达忻州西。 |
 | 2026-09-07 | [多行平铺的方式展示当前窗口所有标签页的Chrome扩展](https://hzzio.top/blog/multi-row-tabs) | 多行平铺的方式展示当前窗口所有标签页的Chrome扩展 |
 | 2026-09-07 | [取消英文，取消古文](https://www.hecaitou.com/2026/09/cancel-english-cancel-the-classics.html) | 上网年限太长，人就容易厌倦，比如说这几天看到又有人在吵取消英文，取消英文主科地位。记得我第一次在网上看到这个话题时，胡子还是软的，头发也依然茂密。 这种翻炒万年话题本来没什么意思，不过和海峡那边对照观察一番，事情就变得有趣起来：这边是过阵子就吵要不要取消英文，那边是过阵子就吵要不要取消古文。 我个人… |
-| 2026-09-07 | [野人编年史](http://imlane.zhanglintc.co/ye-ren-bian-nian-shi) | 野人编年史 野人创始人 徐队 ，群昵称Shogun。姓徐，称徐队，真野人队长，野人 抖音官号 持有者。 张队 ，群昵称张小不。江湖人称竹节虫，简称虫队。 熊队 ，群昵称熊嘎婆，称熊队。 野人CLUB游泳事业部 群主。 亮队 ，群昵称亮什么，称亮队，野人 小红书官号 持有者。 野人声明 从 泳往直前… |
 | 2026-09-07 | [羡慕啊，不知道啥时候能实现 token](https://versun.me/blog/tweet-2096795789129666938) | DHH THAT'S A LOT OF TOKENS FOR OMARCHY!! Thanks again to the awesome team at @AIatMeta for supporting us as Founding Corporate Patrons for the Omacom… |
 | 2026-09-07 | [你会痛苦吗](https://mobius.blog/25686.html) | 收到一则私信，我就写了这么几个字：你会痛苦吗？ 我觉得这是个很好的问题，因为我也不知道该如何回答，所以得先向对 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-09-07 | [迷你 MTR：在地图上看香港地铁实时运行](https://7gugu.com/index.php/2026/09/07/%e8%bf%b7%e4%bd%a0-mtr%ef%bc%9a%e5%9c%a8%e5%9c%b0%e5%9b%be%e4%b8%8a%e7%9c%8b%e9%a6%99%e6%b8%af%e5%9c%b0%e9%93%81%e5%ae%9e%e6%97%b6%e8%bf%90%e8%a1%8c/) | 背景 之前第一次看到 Mini Tokyo 3D 的时候，就很想做一个香港地铁版本：把线路铺在真实地图上，再让 … 继续阅读 “迷你 MTR：在地图上看香港地铁实时运行” |
