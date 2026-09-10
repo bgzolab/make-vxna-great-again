@@ -27,6 +27,10 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-09-10 | [Claude Tag 产品分析](https://www.ixiqin.com/2026/09/10/claude-tag-product-analysis/) | Claude Tag 这个产品市面上的仿品很多，但我看到的绝大多数的产品仿品仿其型而未有仿其神。这背后是本身绝 […] |
+| 2026-09-10 | [爹味人的自由](https://blog.solazy.me/20260910/) | 今天突然想到一个话题 |
+| 2026-09-10 | [2026.9.10](https://www.justzht.com/2026-9-10/) | Epoch Playdate 版本的一些开发截图 晚上十点多的时候突发奇想买了张十点半的 Akira 4K 重映票，刚看完回到家。可能是这周过的 |
+| 2026-09-10 | [为我的比亚迪车机开发了一款音乐暂停器](https://hellodk.cn/post/1230) | 由于比亚迪DiLink3.0/4.0方向盘上的音量滚轮中键功能是静音，而不是暂停，为此我开发了一个音乐暂停器。我很需要这个暂停功能，很讨厌静音了音乐仍然在播放这个问题。补充一些细节：Androi... |
 | 2026-09-10 | [摘：《听客溪的朝圣》](https://z.arlmy.me/posts/Note/Note_AnnieDillard_PilgrimAtTinkerCreek/) | 「反观疯狂。」 |
 | 2026-09-10 | [摘：《怪女人和一座城》](https://z.arlmy.me/posts/Note/Note_VivianGornick_TheOddWomanAndTheCity/) | 「孤独。」 |
 | 2026-09-10 | [摘：《荒野集》](https://z.arlmy.me/posts/Note/Note_RockwellKent_Wilderness/) | 「伪经毁灭！」 |
@@ -37,6 +41,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-09-10 | [为需求创造的回忆](https://mobius.blog/25696.html) | TG 收到一条求助性质的留言，跟对方沟通后，决定匿名分享出来，因为它非常具有代表性。 留言的朋友称：自己跟前男 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-09-10 | [Memos #2026-09-09](https://www.taober.blog/memos/memo_20260909124454_qw7xkt) | 20:48 最近工作上学到的一些小技巧： 严肃场合不要露怯，允许临场的「不懂装懂」，过后补上就好； 大概率被动到我头上的事，干脆主动承接； 需要别人配合的果断抛出去，避免无意义的内耗； ... |
 | 2026-09-09 | [超辉夜姬的BD拉完了](https://www.ghostchu.com/%e8%b6%85%e8%be%89%e5%a4%9c%e5%a7%ac%e7%9a%84bd%e6%8b%89%e5%ae%8c%e4%ba%86/) | 得知《超时空辉夜姬》BD 今日发售，已经投入了 787 + 495 元人民币沉没成本 + 苦网易云和官方音源糟 […] 超辉夜姬的BD拉完了 最先出现在 Ghost_chu's Blog 。 |
+| 2026-09-09 | [上海看展](http://www.uncoverman.com/exhibition-hopping-in-shanghai.html) | 周末，带着小朋友，去了趟上海看展。秋高气爽，凉凉的凤吹着很舒服。 # 停车 这是第一次自驾去上海。 听说上海交规严，没打转向灯或者压线都会罚款，而且上海停车费贵，市区 10 元/小时都算少的，一天玩下来停车费 + 罚款，比路费都高。于是提前做了攻略，车子开到 P+R 停车场 ，换乘地铁出行，一天停车… |
 | 2026-09-09 | [Escaping Huawei/Honor PC Manager](https://www.tinyedi.com/escaping-huawei-honor-pc-manager/) | Background Honor PC Manager—essentially the Honor-flavored sibling of Huawei PC Manager—is far heavier than it needs to be. For my use case, the featu… |
 | 2026-09-09 | [放下助人情结，我又辞职了](https://blog.solazy.me/20260909/) | 今天我又辞职了 |
 | 2026-09-09 | [开源我的个人基因分析流程](https://anotherdayu.com/4250/) | 去年做完 WeGene 的全基因组测序之后，我就一直想自己分析试试。于是就有了这个项目。 整个项目是和 Claude 一起完成的，把分析流程整理成了 Skill 的形式，并开源到了 GitHub： https://github.com/DayuGuo/genome-atlas-skill 目前 We… |
