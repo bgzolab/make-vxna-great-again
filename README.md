@@ -27,6 +27,11 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-09-10 | [摘：《听客溪的朝圣》](https://z.arlmy.me/posts/Note/Note_AnnieDillard_PilgrimAtTinkerCreek/) | 「反观疯狂。」 |
+| 2026-09-10 | [摘：《怪女人和一座城》](https://z.arlmy.me/posts/Note/Note_VivianGornick_TheOddWomanAndTheCity/) | 「孤独。」 |
+| 2026-09-10 | [摘：《荒野集》](https://z.arlmy.me/posts/Note/Note_RockwellKent_Wilderness/) | 「伪经毁灭！」 |
+| 2026-09-10 | [心的教师](https://www.hecaitou.com/2026/09/The-Teacher-Within.html) | 今天是教师节，我想起自己曾在一本书里读过一位教师忆念自己老师的文字。他说，虽然老师已经逝世多年，但是他觉得自己的心和老师没有一刻分离。这些年来，在他的案头一直摆放着老师的相片。有时候自己起心动念，有了什么不好的念头，转头看到老师在镜框里正凝视着自己，心中就立即大为惭愧，恶念也随之消融。 这段回忆让我… |
+| 2026-09-10 | [2026 北京社保下限上调｜个体户每月最低缴费 2707.44 元](https://blog.yasking.org/a/beijing-shebao-2026) | 自 2026 年 7 月起，北京市职工基本养老、失业、工伤及职工基本医疗保险（含生育）的月缴费基数上限和下限分别为： 上限：36348 元 下 … |
 | 2026-09-10 | [Plants vs. Zombies updated](https://macsourceports.com/game/pvz) | The build of PvZ Portable for Plants vs. Zombies has been updated to version 0.2.3 of the project |
 | 2026-09-10 | [生产单点登录反复跳认证排查](https://199604.com/3698) | 生产单点登录反复跳认证排查 记录时间：2026-09-09 环境：生产单点登录门户（外层 nginx + K8 […] |
 | 2026-09-10 | [为需求创造的回忆](https://mobius.blog/25696.html) | TG 收到一条求助性质的留言，跟对方沟通后，决定匿名分享出来，因为它非常具有代表性。 留言的朋友称：自己跟前男 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
