@@ -27,6 +27,10 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-09-10 | [Plants vs. Zombies updated](https://macsourceports.com/game/pvz) | The build of PvZ Portable for Plants vs. Zombies has been updated to version 0.2.3 of the project |
+| 2026-09-10 | [生产单点登录反复跳认证排查](https://199604.com/3698) | 生产单点登录反复跳认证排查 记录时间：2026-09-09 环境：生产单点登录门户（外层 nginx + K8 […] |
+| 2026-09-10 | [为需求创造的回忆](https://mobius.blog/25696.html) | TG 收到一条求助性质的留言，跟对方沟通后，决定匿名分享出来，因为它非常具有代表性。 留言的朋友称：自己跟前男 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
+| 2026-09-10 | [Memos #2026-09-09](https://www.taober.blog/memos/memo_20260909124454_qw7xkt) | 20:48 最近工作上学到的一些小技巧： 严肃场合不要露怯，允许临场的「不懂装懂」，过后补上就好； 大概率被动到我头上的事，干脆主动承接； 需要别人配合的果断抛出去，避免无意义的内耗； ... |
 | 2026-09-09 | [超辉夜姬的BD拉完了](https://www.ghostchu.com/%e8%b6%85%e8%be%89%e5%a4%9c%e5%a7%ac%e7%9a%84bd%e6%8b%89%e5%ae%8c%e4%ba%86/) | 得知《超时空辉夜姬》BD 今日发售，已经投入了 787 + 495 元人民币沉没成本 + 苦网易云和官方音源糟 […] 超辉夜姬的BD拉完了 最先出现在 Ghost_chu's Blog 。 |
 | 2026-09-09 | [Escaping Huawei/Honor PC Manager](https://www.tinyedi.com/escaping-huawei-honor-pc-manager/) | Background Honor PC Manager—essentially the Honor-flavored sibling of Huawei PC Manager—is far heavier than it needs to be. For my use case, the featu… |
 | 2026-09-09 | [放下助人情结，我又辞职了](https://blog.solazy.me/20260909/) | 今天我又辞职了 |
@@ -41,6 +45,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-09-09 | [帮助Marvis马维斯逃离腾讯魔爪](https://www.cheshirex.com/11102.html) | Marvis马维斯是腾讯的一个免费AI助手，它运行在腾讯云服务器上。用户下载安装登陆Marvis马维斯后会给你 […] |
 | 2026-09-09 | [RollerCoaster Tycoon 2 updated](https://macsourceports.com/game/rct2) | The build of OpenRCT2 for RollerCoaster Tycoon 2 has been updated to version v0.5.5 of the project |
 | 2026-09-09 | [Quetoo updated](https://macsourceports.com/game/quetoo) | The build of Quetoo has been updated to version v1.0.89 of the project |
+| 2026-09-09 | [我突然发现，很多领域好像已经很久没有真正](https://versun.me/blog/tweet-2097498081260716290) | 我突然发现，很多领域好像已经很久没有真正的创新了。 现在的小孩，听着我们当年的老歌，看着我们小时候的动画片，很少自己琢磨游戏玩了。以前没钱买玩具，捡根树枝能开发出十几种玩法，能玩上好几十天；现在的小孩只会买玩具。 编程领域也是。进入 AI 时代后，我印象里最后一个冒出来的新语言，还是那个号称要替代… |
 | 2026-09-09 | [死猫为大](https://mobius.blog/25692.html) | 之前常来小区喂猫的“爱猫阿姨”，因想毒死野狗却毒死了小区流浪猫——这件事最终还是在这群定期来小区喂猫的“爱猫阿 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-09-08 | [AI 写下的那把 Redis 锁](https://depp.wang/2026/ai-redis-lock/) | 配套代码： transaction-lock-demo 。文中的代码位置都可以直接跳转到 GitHub 查看。 一个具体的技术问题 最近看 AI 写的一段后台代码时，我遇到一个具体、也很容易被忽略的技术问题。 代码里有这样一行： HjEventDtos.CreateResult result = l… |
 | 2026-09-08 | [怀念 SinaAppEngine](https://www.ichenfu.com/2026/09/08/rip-sina-app-engine/) | 经历了十几年的运营，SinaAppEngine 终于要走完一个产品的一生，即将下线并永久终止服务了。SAE 是我很早就接触过的平台，也是我人生中的第一份工作。借此契机，回忆一下我在 SAE 期间的一些工作，谨以此文，悼念我心中永远的 SinaAppEngine。 |
@@ -132,28 +137,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-09-03 | [Al Brooks 团队交易员 Rose 访谈复盘：震荡区间的本质、散户优势与 PF 考核法则](https://blog.forecho.com/al-brooks-team-trader-rose-interview-insights.html) | 引言 前几天看到了一期专访视频，嘉宾是 Al Brooks（阿布）团队的全职交易员兼直播交易员 Rose （她也是知名交易员 Tom Hougaard 极力推崇的搭档之一）。 整个访谈刨去前后的活动寒暄和洛杉矶闲聊，干货非常密集。Rose 从设计和艺术背景转行做交易，经历了亏损、重新学习、在 Al… |
 | 2026-09-03 | [发3个内推哈，英语是工作语言，只要求技术](https://versun.me/blog/tweet-2095309149441798432) | 发3个内推哈，英语是工作语言，只要求技术和语言，学历不要求，感兴趣的可发简历到图二邮箱哈 java support: 负责 Apple CRS 的运维，懂 Java，前端 react 管理页面开发、运维、云服务、ERP，onsite 在 apple java developer: Java, Ali… |
 | 2026-09-03 | [浦东今天好凉快，非常适合去公园野营！可惜](https://versun.me/blog/tweet-2095302278928560519) | 浦东今天好凉快，非常适合去公园野营！可惜我要上班🥲 |
-| 2026-09-02 | [个人 AGI：Jarvis 正在从科幻走进现实](https://www.linggandianbo.com/newsletter-137/) | 几年前，我们还在惊叹 AI 能像人一样说话。现在，它开始记住我们、使用工具、操作电脑，把一句模糊的想法变成真实的结果。｜灵感电波 #137 |
-| 2026-09-02 | [无需忧虑 无需挂虑](https://blog.zzbd.org/miao20260903-3/) | 亲爱的朋友，先停一下，深深吸一口气。如果今天心里有些沉、有些乱，请记得：你不是一个人在扛。愿下面的句子，像清晨的光，一寸一寸照进你的心。不急，慢慢读，读到哪一句心动了，就在那里停一停，多读几遍。 |
-| 2026-09-02 | [Deploying LiteLLM on Kubernetes](https://www.bboy.app/2026/09/02/deploying-litellm-on-kubernetes/) | Introduction I have access to LLM APIs from several different providers. I use Hermes for all kinds of tasks, and I do not want to edit the Hermes con… |
-| 2026-09-02 | [在Kubernetes中部署LiteLLM](https://www.bboy.app/2026/09/02/%E5%9C%A8kubernetes%E4%B8%AD%E9%83%A8%E7%BD%B2litellm/) | 简介 我手里有多个渠道的大模型接口。平时用 Hermes 跑各种任务，换模型的时候不想每次去改 Hermes 的配置。所以搭了个 LiteLLM，把不同渠道的模型收进同一个 OpenAI 兼容接口。Hermes 只需要配置一次，之后想切换底层模型，在 LiteLLM 的管理页面把模型映射改一下就行。… |
-| 2026-09-02 | [人人都能玩的 AI 玩具 —— AI Passport](https://veryjack.com/technique/ai_passport/) | 最近 TRAE AI 创意大会上的一款“电子工牌”受到了广大网友的关注。它只有一张卡片大小，配备一块 240 × 320 的小屏幕，没有触屏，控制全靠几个实体按钮，内存也只有区区 8 MB。放在当下，这个硬件配置可谓是“拉完了”，但在网络上却异常火热。早鸟价仅 99 元，在正式售卖前，闲鱼上的价格甚… |
-| 2026-09-02 | [20260902的胡言乱语](https://www.bboy.app/2026/09/02/20260902%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | 简介 欢迎关注我的频道，不时发送垃圾消息 https://t.me/bboyapp 或者关注我的 twitter https://twitter.com/bboysoulcn |
-| 2026-09-02 | [Random Thoughts - 20260902](https://www.bboy.app/2026/09/02/random-thoughts-20260902/) | Introduction Welcome to follow my channel, where I occasionally share random messages https://t.me/bboyapp Or follow me on Twitter https://twitter.com… |
-| 2026-09-02 | [Generated work should not be published.](https://www.geedea.pro/en/article/on-llm-work/) | I’ve been looking closely at some of my Mac apps, and I noticed how SuperCMD haven’t fixed their homebrew cask issue even though somemone created a Pu… |
-| 2026-09-02 | [和校园网斗智斗勇的日子（第九辑）](https://blog.mfwt.top/index.php/archives/1570/) | 两年了，我去，时间过得真快。这个系列的第八辑已经是很久之前的事情了，当然前面其实还有另外七集，不过因为那都是老学校的情况，和本文已经没有太大关系，因此不再放出目录，感兴趣的朋友可以到第八辑的页面... |
-| 2026-09-02 | [谁在替你的生疏买单](https://blog.solazy.me/20260902/) | 今天聊一个中午吃饭时候发生的事情 |
-| 2026-09-02 | [Memos: 推荐试试 oh-my-pi Agent](https://blog.yasking.org/a/1788343823) | 同事推荐的，我下载试了试，可以连接到 ChatGPT、Cursor、Claude..及各种订阅，使用其订阅额度。 相较于 ChatGPT（Codex），使用同样的 OpenAI 的 5.6 Luna High，OMP 运行 … |
-| 2026-09-02 | [可感](https://z.arlmy.me/posts/Poems/2026/20260831_KeGan/) | 「可感。」 |
-| 2026-09-02 | [旧书店](https://z.arlmy.me/posts/Poems/2026/20260813_JiuShuDian/) | 「旧书店。」 |
-| 2026-09-02 | [Maven 多模块 Spring Boot repackage 让被依赖模块变成 fat jar 的编译失败问题](https://199604.com/3679) | Maven 多模块 Spring Boot repackage 让被依赖模块变成 fat jar 的编译失败问 […] |
-| 2026-09-02 | [小学算术视野下的人生](https://www.hecaitou.com/2026/09/life-through-the-lens-of-grade-school-arithmetic.html) | 假设每个人平均可以活 80 年，22 岁开始上班，60 岁退休，那么，上班的 38 年是 80 年人生的 47.5%，也就是说，为了保障自己的人生，需要用生命的近一半去上班。 而每个人每天睡 8 小时，占一天的⅓，计算下来，人生的 33.33% 用于睡觉休息。如果这样计算的话，人生未免有些悲观，休息… |
-| 2026-09-02 | [AI 小项目盘点：第一期](https://blog.zzbd.org/vibe-project-1/) | 刚刚看到一个帖子 Fable5.1，四冲程柴油机测试 ，效果叹为观止，现在的 AI 能力恐怖如斯。 正好最近用 hermes 折腾了些小项目，简单记录一下。 |
-| 2026-09-02 | [金仓 KMonitor 自带 Prometheus 接入 VictoriaMetrics 记录](https://199604.com/3677) | 金仓 KMonitor 自带 Prometheus 接入 VictoriaMetrics 记录 记录时间：20 […] |
-| 2026-09-02 | [哪有厨师天天自己逛菜市场的？](https://mobius.blog/25578.html) | 接着《一饭封神》的话题。 人们向来也喜欢看到一种剧情——恶人有恶报。特别是恶人在对善人做出不利行为之后，善人仍 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
-| 2026-09-02 | [《菜根谭》潜心定心篇：褪去惶恐，沉气立身](https://blog.zzbd.org/miao20260903-5/) | 古人云：“咬得菜根，百事可做。”《菜根谭》一书，不尚浮华、不执功利，字字皆是修心养气、立身行事的人间大道。职场之人多惶恐、多紧绷、多内耗，并非境遇苛责，而是心浮气躁、执念太深、气息不稳。心浮，则遇事慌乱；念杂，则方寸大乱；气躁，则气场溃散。读懂《菜根谭》的静心之道，便能于繁杂工作、人际纷扰、压力起伏… |
-| 2026-09-02 | [沉心自愈：成年人最顶级的清醒，是向内安顿自己](https://blog.zzbd.org/miao20260903-1/) | 人这一生，真正的修行，从来不是向外追逐、拼命讨好、刻意合群，而是学会与自己和解，与世界温柔相处。我们这一生所有的疲惫、焦虑、内耗、社交困顿、心态失衡，本质上都不是外界出了问题，而是我们的内心，长期处于动荡、慌张、不自安的状态里。 |
-| 2026-09-02 | [习武筑基养气，国学定心修身](https://blog.zzbd.org/miao20260902/) | （静心稳气箴言集） 人心一日浮躁，气息一日紊乱；身形一日懈怠，心神一日涣散。习武以炼身，固本培元，收敛浮躁之气；读书以修心，明理守志，安定纷乱之神。武术基本功锤炼筋骨、规整气息，国学经典涵养心性、沉淀格局，二者相辅相成，外塑身形风骨，内养平和本心。今日以此文武箴言静心养气，沉身、定心、守神，褪去焦躁… |
-| 2026-09-02 | [Memos #2026-09-01](https://www.taober.blog/memos/memo_20260901131413_wc7aih) | 21:14 下班打车，一上车一股子榔子味，问师傅讨了一个😁 |
 
 ## Vibe Coding
 
