@@ -40,6 +40,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-09-10 | [学习周刊-总第280期-2026年第37周](https://wiki.eryajf.net/pages/eb7d06/) | 如要阅读全文，点击标题跳转。 学习周刊-总第280期 &#124; tolaria &#124; hosts-manager-extension &#124; shortcast &#124; Fanny-MacOs-FanControl &#124; gantry &#124; StayAwake &#124; Adnify |
 | 2026-09-10 | [学习周刊-总第279期-2026年第36周](https://wiki.eryajf.net/pages/702d84/) | 如要阅读全文，点击标题跳转。 学习周刊-总第279期 &#124; gos &#124; CodexBar &#124; kaloscope &#124; skyadb &#124; dbx &#124; dory &#124; conar &#124; ore-code |
 | 2026-09-10 | [闲鱼淘来的绿联蓝光刻录机 CM780-35349](https://www.ghostchu.com/5821/%e9%97%b2%e9%b1%bc%e6%b7%98%e6%9d%a5%e7%9a%84%e7%bb%bf%e8%81%94%e8%93%9d%e5%85%89%e5%88%bb%e5%bd%95%e6%9c%ba-cm780-35349/) | 前情提要 – aiyouwei 蓝光光驱 为了播放《超时空辉夜姬 BD》，稍早前购入了一款 aiy […] 闲鱼淘来的绿联蓝光刻录机 CM780-35349 最先出现在 Ghost_chu's Blog 。 |
+| 2026-09-10 | [iCloud忽略同步指定文件夹](http://www.uncoverman.com/icloud-nosync.html) | <img src="https://i.see.you/2026/09/11/mKz2/icloud-no-sync.png" alt="icloud-nosync.png" loading="eager" fetchpriority="high" decoding="async" srcset="… |
 | 2026-09-10 | [Claude Tag 产品分析](https://www.ixiqin.com/2026/09/10/claude-tag-product-analysis/) | Claude Tag 这个产品市面上的仿品很多，但我看到的绝大多数的产品仿品仿其型而未有仿其神。这背后是本身绝 […] |
 | 2026-09-10 | [爹味人的自由](https://blog.solazy.me/20260910/) | 今天突然想到一个话题 |
 | 2026-09-10 | [2026.9.10](https://www.justzht.com/2026-9-10/) | Epoch Playdate 版本的一些开发截图 晚上十点多的时候突发奇想买了张十点半的 Akira 4K 重映票，刚看完回到家。可能是这周过的 |
