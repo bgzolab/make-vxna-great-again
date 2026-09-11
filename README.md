@@ -27,6 +27,11 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-09-11 | [摘：《说灵魂》](https://z.arlmy.me/posts/Note/Note_ChengBaoYi_ShuoLingHun/) | 「一朵鸢尾花，万物合理。」 |
+| 2026-09-11 | [摘：《熟食动物》](https://z.arlmy.me/posts/Note/Note_RichardWrangham_CatchingFire/) | 「黑暗时代。」 |
+| 2026-09-11 | [2002，宿舍里的网线](https://www.tortorse.com/archives/dorm-room-ethernet-2002/) | 夏夜里，学生坐三蹦子去校外网吧 |
+| 2026-09-11 | [中年翻种子](https://www.hecaitou.com/2026/09/dormant-seeds-midlife.html) | 有读者问我：「叔，你到了这个年纪还会有焦虑和烦心事吗？」 首先，这个问题就很讨打，如果不是问我，如果不是问现在刚好德艺双馨的我，多半会遭到白眼：什么年纪？什么叫「到了这个年纪」？那你觉得我是有多老？ 大家应该都能理解这种心态，绝大多数人都厌恶衰老，热爱青春，因为我们都是生命。所以，面对衰老这种问题，… |
+| 2026-09-11 | [用美国 LLC 公司主体申请 Apple Developer](https://rokcso.com/p/apply-apple-developer-with-us-llc/) | 本文记录我使用美国 LLC 公司主体申请 Apple Developer Company / Organization 账号的过程，主要包括注册美区 Apple ID、查询 D-U-N-S Number，以及提交公司信息等待审核。 Apple 的页面和审核要求可能会调整，文中使用的地址、手机号和具体… |
 | 2026-09-11 | [只要结果，拒绝理由](https://mobius.blog/25700.html) | 据说9月7日，泰国军方带领媒体及东盟观察团进入柬泰边境奥斯玛的一处大型诈骗园区，在园区办公室的一处墙上，用中文 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-09-11 | [最近惦念 20260831](https://z.arlmy.me/posts/TILs/thoughts/20260831_Recently/) | 「要主动排出废物，做麦克斯韦妖。」 |
 | 2026-09-11 | [2026 纸书单](https://z.arlmy.me/posts/YearlyBooks/BookList_2026/) | 「买的书和借阅的书」 |
