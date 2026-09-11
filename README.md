@@ -27,13 +27,18 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-09-11 | [只要结果，拒绝理由](https://mobius.blog/25700.html) | 据说9月7日，泰国军方带领媒体及东盟观察团进入柬泰边境奥斯玛的一处大型诈骗园区，在园区办公室的一处墙上，用中文 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
+| 2026-09-11 | [最近惦念 20260831](https://z.arlmy.me/posts/TILs/thoughts/20260831_Recently/) | 「要主动排出废物，做麦克斯韦妖。」 |
+| 2026-09-11 | [2026 纸书单](https://z.arlmy.me/posts/YearlyBooks/BookList_2026/) | 「买的书和借阅的书」 |
+| 2026-09-11 | [科技爱好者周刊（第 412 期）：禁止 issue，只用 PR](http://www.ruanyifeng.com/blog/2026/09/weekly-issue-412.html) | 这里记录每周值得分享的科技内容，周五发布。 本杂志 开源 ，欢迎 投稿 。另有 《谁在招人》 服务，发布程序员招聘信息。合作请 邮件联系 （yifeng.ruan@gmail.com）。 封面 上海前滩太古里举办的"英雄联盟15周年"展览。（ via ） 禁止 issue，只用 PR 上周，PHP… |
+| 2026-09-10 | [1Panel服务器迁移记录](https://199604.com/3706) | 1Panel服务器迁移记录 记录时间：2026-08-20 环境：旧服务器（阿里云，1Panel + Open […] |
 | 2026-09-10 | [学习周刊-总第280期-2026年第37周](https://wiki.eryajf.net/pages/eb7d06/) | 如要阅读全文，点击标题跳转。 学习周刊-总第280期 &#124; tolaria &#124; hosts-manager-extension &#124; shortcast &#124; Fanny-MacOs-FanControl &#124; gantry &#124; StayAwake &#124; Adnify |
 | 2026-09-10 | [学习周刊-总第279期-2026年第36周](https://wiki.eryajf.net/pages/702d84/) | 如要阅读全文，点击标题跳转。 学习周刊-总第279期 &#124; gos &#124; CodexBar &#124; kaloscope &#124; skyadb &#124; dbx &#124; dory &#124; conar &#124; ore-code |
 | 2026-09-10 | [闲鱼淘来的绿联蓝光刻录机 CM780-35349](https://www.ghostchu.com/5821/%e9%97%b2%e9%b1%bc%e6%b7%98%e6%9d%a5%e7%9a%84%e7%bb%bf%e8%81%94%e8%93%9d%e5%85%89%e5%88%bb%e5%bd%95%e6%9c%ba-cm780-35349/) | 前情提要 – aiyouwei 蓝光光驱 为了播放《超时空辉夜姬 BD》，稍早前购入了一款 aiy […] 闲鱼淘来的绿联蓝光刻录机 CM780-35349 最先出现在 Ghost_chu's Blog 。 |
 | 2026-09-10 | [Claude Tag 产品分析](https://www.ixiqin.com/2026/09/10/claude-tag-product-analysis/) | Claude Tag 这个产品市面上的仿品很多，但我看到的绝大多数的产品仿品仿其型而未有仿其神。这背后是本身绝 […] |
 | 2026-09-10 | [爹味人的自由](https://blog.solazy.me/20260910/) | 今天突然想到一个话题 |
 | 2026-09-10 | [2026.9.10](https://www.justzht.com/2026-9-10/) | Epoch Playdate 版本的一些开发截图 晚上十点多的时候突发奇想买了张十点半的 Akira 4K 重映票，刚看完回到家。可能是这周过的 |
-| 2026-09-10 | [为我的比亚迪车机开发了一款音乐暂停器](https://hellodk.cn/post/1230) | 由于比亚迪DiLink3.0/4.0方向盘上的音量滚轮中键功能是静音，而不是暂停，为此我开发了一个音乐暂停器。我很需要这个暂停功能，很讨厌静音了音乐仍然在播放这个问题。补充一些细节：Androi... |
+| 2026-09-10 | [为我的比亚迪车机开发了一款音乐暂停器](https://hellodk.cn/post/1230) | 由于比亚迪DiLink3.0/4.0方向盘上的音量滚轮中键功能是静音，而不是暂停，为此我开发了一个音乐暂停器。我很需要这个暂停功能，很讨厌静音了音乐仍然在播放这个问题。重要说明v1.3 增加了开... |
 | 2026-09-10 | [摘：《听客溪的朝圣》](https://z.arlmy.me/posts/Note/Note_AnnieDillard_PilgrimAtTinkerCreek/) | 「反观疯狂。」 |
 | 2026-09-10 | [摘：《怪女人和一座城》](https://z.arlmy.me/posts/Note/Note_VivianGornick_TheOddWomanAndTheCity/) | 「孤独。」 |
 | 2026-09-10 | [摘：《荒野集》](https://z.arlmy.me/posts/Note/Note_RockwellKent_Wilderness/) | 「伪经毁灭！」 |
@@ -128,29 +133,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-09-04 | [正在做一份本地模型的实用能力排行榜，测试](https://versun.me/blog/tweet-2095699381437792299) | 正在做一份本地模型的实用能力排行榜，测试集是从各种公开 benchmark中挑选微调，覆盖任务拆解、代码开发、长链路执行、上下文、指令遵循、记忆抽取、逻辑与常识 7 个维度 目前针对本地模型的评测很少，不知道有人感兴趣不，关注人多的话，我尽快测完放出来 |
 | 2026-09-04 | [跳皮筋 II](https://mobius.blog/25597.html) | 小王的同桌小张前几天被学校田径队选上了，其实没多少人在乎这件事，倒是以前老是迟到的小张，最近这段时间都准时来学 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-09-04 | [2000，跨世纪的旧日常](https://www.tortorse.com/archives/old-daily-life-at-the-turn-of-the-century-2000/) | 校园公用电话旁，带着BP机的学生拿着电话卡 |
-| 2026-09-03 | [科技爱好者周刊（第 411 期）：OpenClaw 2.0 是一个缩影](http://www.ruanyifeng.com/blog/2026/09/weekly-issue-411.html) | 这里记录每周值得分享的科技内容，周五发布。 本杂志 开源 ，欢迎 投稿 。另有 《谁在招人》 服务，发布程序员招聘信息。合作请 邮件联系 （yifeng.ruan@gmail.com）。 封面图 宁夏西夏陵使用金属网，将残片还原成石像生。（ via ） OpenClaw 2.0 是一个缩影 本周，O… |
-| 2026-09-03 | [GPT 6 astra 发布了，为啥我一](https://versun.me/blog/tweet-2095655099406422273) | GPT 6 astra 发布了，为啥我一点兴趣没有，贤者时间？ |
-| 2026-09-03 | [New Release: Prey](https://macsourceports.com/game/prey) | So, first things first: this is the 2006 game called Prey , not the more recent 2017 game called Prey . In keeping with the trend of melding the game… |
-| 2026-09-03 | [让下一台机器接着做（下）：我们如何设计一个可恢复的 Workflow Kernel](https://www.l1ch40.com/2026/09/designing-a-resilient-workflow-kernel-part-2.html) | 上篇解释了为什么「一个任务状态 + 一个从头跑到尾的函数」无法继续承载越来越长的任务处理链路，以及 Temporal 的 durable execution 思想给了我们什么启发。下篇进入实现：状态怎样分层，Worker 怎样接管中断任务，为什么 Redis 可以丢而 Mongo 不能丢，以及改造后… |
-| 2026-09-03 | [服务重启了，为什么用户的任务失败了？（上）：从长任务到 Workflow](https://www.l1ch40.com/2026/09/from-long-tasks-to-workflow-part-1.html) | 本文来自一次真实的长任务处理链路重构。上篇先讲一个在早期约束下成立、后来逐渐超出适用边界的设计：服务关停时，通过回调把一批未完成任务收敛为失败。然后从零解释 Workflow 是什么、它和任务队列、状态机、DAG 有什么区别，以及 Temporal 的设计思想如何影响了我们的选择。 本文内容仅为抽象… |
-| 2026-09-03 | [Blog Theme Update Easier-to-Read Articles and Code Blocks](https://www.bboy.app/2026/09/03/blog-theme-update-easier-to-read-articles-and-code-blocks/) | Introduction I just did a round of updates on the blog theme, mostly about the reading experience: fonts load more smoothly, article pages are wider a… |
-| 2026-09-03 | [博客主题更新：更好读的文章页和代码块](https://www.bboy.app/2026/09/03/%E5%8D%9A%E5%AE%A2%E4%B8%BB%E9%A2%98%E6%9B%B4%E6%96%B0%E6%9B%B4%E5%A5%BD%E8%AF%BB%E7%9A%84%E6%96%87%E7%AB%A0%E9%A1%B5%E5%92%8C%E4%BB%A3%E7%A0%81%E5%9D%97/) | 简介 给博客主题做了一轮更新，重点在阅读体验：字体加载更顺、文章页更宽更舒服、代码块加了工具栏、移动端也能看目录了。这篇记录下这次都改了哪些东西。 |
-| 2026-09-03 | [Building a Personal Manga Library with Komga](https://www.bboy.app/2026/09/03/building-a-personal-manga-library-with-komga/) | Introduction I recently set up my own manga library. I download the manga, put it into Komga running on Kubernetes, and read it on my iPhone with KMRe… |
-| 2026-09-03 | [用 Komga 搭一个自己的漫画库](https://www.bboy.app/2026/09/03/%E7%94%A8-komga-%E6%90%AD%E4%B8%80%E4%B8%AA%E8%87%AA%E5%B7%B1%E7%9A%84%E6%BC%AB%E7%94%BB%E5%BA%93/) | 简介 最近搭了一套自己的漫画库。漫画下载好以后放进 Komga，服务跑在 Kubernetes 里，iPhone 上用 KMReader 看。文件和阅读进度都在自己手里，用起来比我原来想的省事。 |
-| 2026-09-03 | [把焦虑推迟到最后一天](https://blog.solazy.me/20260903/) | 最近半年，我养成了一个很管用的习惯 |
-| 2026-09-03 | [海南之行后记](https://blog.est.im/2026/stderr-28) | 趁还记得，记录一些 起初是发现 嫦娥七号 在文昌发射，于是兴冲冲带着孩子去观看 CZ-5 发射 围绕着这个火箭发射基地做了大量调研；了解到很多知识： 发射基地分两块，一个是国发，一个是商发；CZ-5 在国发 国发最佳观赏地是 文昌县 门楼镇，淇水湾 发射前会封路，开车进不去 二话不说，定机票；无意中… |
-| 2026-09-03 | [Writing following the F-pattern is a horrible horrible idea](https://www.geedea.pro/en/article/f-with-f-pattern/) | The F-shape reading pattern is a well-known UX design consideration. UI/UX designers make use of users’ tendency to scan only the first paragraph, fir… |
-| 2026-09-03 | [Memos: 终于、用上了 Google AI Pro 套餐](https://blog.yasking.org/a/1788433028) | 两个月前在闲鱼购买了个 18 月的 Google AI Pro 订阅，使用 小号 领取。 而后下载 Gemini Cli，登录后网页提示验证，提示需要输入手机号，一 … |
-| 2026-09-03 | [如何优雅地更新 MACOS 系统上的软件](http://yi.gs/post/duo_updater) | 上一次更新正好是一年前，所以更新一下。 既然是为了更新而更新，就来写写如何更新吧 ；） TL;DR：直接看 「更优雅地更新软件」 小节。 关于 macOS 上的软件安装 与 iOS 正常情况下只能通过 App Store 安装 APP 不同，macOS 有类似 Windows 的自由度来安装和使用第… |
-| 2026-09-03 | [太牛了，mac下的linux安装助理，大](https://versun.me/blog/tweet-2095463010458616293) | DHH We are moving very, very fast towards a fully streamlined Omarchy installer for Apple M machines. You just download our Omarchy M app, try it firs… |
-| 2026-09-03 | [友链](https://liudon.com/links/) | 欢迎交换友链，但需要一定条件： 使用独立域名 内容以原创主，保持一定的更新频率 上线一年以上，内容十篇以上 本站友链相关信息： 站点名称：流动 站点地址：https://liudon.com 站点LOGO：https://liudon.com/avatar.png 申请友链时，请提供以下信息： |
-| 2026-09-03 | [星际杀手](https://mobius.blog/25588.html) | 星际杀手做好了打响指的准备，他再一次威胁谈判专家：“你知道我这个响指下去意味着什么，离我们最近的参宿四会立刻爆 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
-| 2026-09-03 | [我玩了下Robinhood罗宾汉链上的fomo](https://www.cheshirex.com/11070.html) | Robinhood罗宾汉是什么？ Robinhood是美国一个炒股APP，上面有很多散户股民。他在7月发了一个 […] |
-| 2026-09-03 | [一次优质离婚](https://www.hecaitou.com/2026/09/a-meaningful-divorce.html) | 有 位读者联系我，劈头一句话：菜头，我离婚了，我们当初是在你开发的 APP 上认识的。才看到这个开头我就觉得胃疼，这么多年我对网友的路数实在太熟悉了，接下来肯定就是各种各样的「都怪你」，比如： 都怪你，你不开发这个 App，我命里就不会有这一劫。 不过这次还好，后面他话锋一转，说结婚四年，有个可爱的… |
-| 2026-09-03 | [跳皮筋](https://mobius.blog/25584.html) | 我小时候会跳皮筋，但更多是被抓去做那个帮别人固定皮筋的“桩子”，所以我也为此遭到过不少嘲笑：一说是跟女生玩女生 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
-| 2026-09-03 | [Al Brooks 团队交易员 Rose 访谈复盘：震荡区间的本质、散户优势与 PF 考核法则](https://blog.forecho.com/al-brooks-team-trader-rose-interview-insights.html) | 引言 前几天看到了一期专访视频，嘉宾是 Al Brooks（阿布）团队的全职交易员兼直播交易员 Rose （她也是知名交易员 Tom Hougaard 极力推崇的搭档之一）。 整个访谈刨去前后的活动寒暄和洛杉矶闲聊，干货非常密集。Rose 从设计和艺术背景转行做交易，经历了亏损、重新学习、在 Al… |
-| 2026-09-03 | [发3个内推哈，英语是工作语言，只要求技术](https://versun.me/blog/tweet-2095309149441798432) | 发3个内推哈，英语是工作语言，只要求技术和语言，学历不要求，感兴趣的可发简历到图二邮箱哈 java support: 负责 Apple CRS 的运维，懂 Java，前端 react 管理页面开发、运维、云服务、ERP，onsite 在 apple java developer: Java, Ali… |
-| 2026-09-03 | [浦东今天好凉快，非常适合去公园野营！可惜](https://versun.me/blog/tweet-2095302278928560519) | 浦东今天好凉快，非常适合去公园野营！可惜我要上班🥲 |
 
 ## Vibe Coding
 
