@@ -27,6 +27,12 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-09-11 | [A 6-Day 5-Night Early Autumn Beach Trip to Weihai](https://victor42.eth.limo/post-en/trip-to-weihai/) | September had just opened the fishing season. Skip the summer holiday crush, and it is a fine time for sand and seafood. Photo Album: View Photo Album… |
+| 2026-09-11 | [威海初秋看海玩沙6天5夜](https://victor42.eth.limo/post/trip-to-weihai/) | 9月刚开渔，避开暑假，正是玩沙吃海鲜的好时节。 照片相册： 查看本篇相册 旅行攻略： 获取攻略文档 威海，胶东半岛尖端上的海滨小城，有历史厚重的一面，也有现代休闲的一面。多留几天给它，会有很丰富的度假体验。 第1天：幸福门 傍晚飞机着陆大水泊机场，军民两用机场。降落前约半小时，机长就广播要求所有乘客… |
+| 2026-09-11 | [入蜀记 day473 索书号](https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_473/) | 「索书号。」 |
+| 2026-09-11 | [入蜀记 day472 五块石](https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_472/) | 「五块石。」 |
+| 2026-09-11 | [入蜀记 day471 白露、快降温、冰糖雪梨](https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_471/) | 「白露、快降温、冰糖雪梨。」 |
+| 2026-09-11 | [emacs-为todo关键字设定不同字体](https://blog.prayhand13013.top/20260911T230544--emacs-为todo关键字设定不同字体__blog.html) |  |
 | 2026-09-11 | [摘：《说灵魂》](https://z.arlmy.me/posts/Note/Note_ChengBaoYi_ShuoLingHun/) | 「一朵鸢尾花，万物合理。」 |
 | 2026-09-11 | [摘：《熟食动物》](https://z.arlmy.me/posts/Note/Note_RichardWrangham_CatchingFire/) | 「黑暗时代。」 |
 | 2026-09-11 | [2002，宿舍里的网线](https://www.tortorse.com/archives/dorm-room-ethernet-2002/) | 夏夜里，学生坐三蹦子去校外网吧 |
@@ -36,11 +42,12 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-09-11 | [最近惦念 20260831](https://z.arlmy.me/posts/TILs/thoughts/20260831_Recently/) | 「要主动排出废物，做麦克斯韦妖。」 |
 | 2026-09-11 | [2026 纸书单](https://z.arlmy.me/posts/YearlyBooks/BookList_2026/) | 「买的书和借阅的书」 |
 | 2026-09-11 | [科技爱好者周刊（第 412 期）：禁止 issue，只用 PR](http://www.ruanyifeng.com/blog/2026/09/weekly-issue-412.html) | 这里记录每周值得分享的科技内容，周五发布。 本杂志 开源 ，欢迎 投稿 。另有 《谁在招人》 服务，发布程序员招聘信息。合作请 邮件联系 （yifeng.ruan@gmail.com）。 封面 上海前滩太古里举办的"英雄联盟15周年"展览。（ via ） 禁止 issue，只用 PR 上周，PHP… |
+| 2026-09-11 | [腾讯WorkBuddy海外版来啦,注册畅玩gpt-6-Astra,deepseek-4.1-flash限时免费](https://programnotes.cn/ai-workbuddy/index.html) | 腾讯WorkBuddy,海外版来啦,邀请好友注册立得350积分。 |
 | 2026-09-10 | [1Panel服务器迁移记录](https://199604.com/3706) | 1Panel服务器迁移记录 记录时间：2026-08-20 环境：旧服务器（阿里云，1Panel + Open […] |
 | 2026-09-10 | [学习周刊-总第280期-2026年第37周](https://wiki.eryajf.net/pages/eb7d06/) | 如要阅读全文，点击标题跳转。 学习周刊-总第280期 &#124; tolaria &#124; hosts-manager-extension &#124; shortcast &#124; Fanny-MacOs-FanControl &#124; gantry &#124; StayAwake &#124; Adnify |
 | 2026-09-10 | [学习周刊-总第279期-2026年第36周](https://wiki.eryajf.net/pages/702d84/) | 如要阅读全文，点击标题跳转。 学习周刊-总第279期 &#124; gos &#124; CodexBar &#124; kaloscope &#124; skyadb &#124; dbx &#124; dory &#124; conar &#124; ore-code |
 | 2026-09-10 | [闲鱼淘来的绿联蓝光刻录机 CM780-35349](https://www.ghostchu.com/5821/%e9%97%b2%e9%b1%bc%e6%b7%98%e6%9d%a5%e7%9a%84%e7%bb%bf%e8%81%94%e8%93%9d%e5%85%89%e5%88%bb%e5%bd%95%e6%9c%ba-cm780-35349/) | 前情提要 – aiyouwei 蓝光光驱 为了播放《超时空辉夜姬 BD》，稍早前购入了一款 aiy […] 闲鱼淘来的绿联蓝光刻录机 CM780-35349 最先出现在 Ghost_chu's Blog 。 |
-| 2026-09-10 | [iCloud忽略同步指定文件夹](http://www.uncoverman.com/icloud-nosync.html) | <img src="https://i.see.you/2026/09/11/mKz2/icloud-no-sync.png" alt="icloud-nosync.png" loading="eager" fetchpriority="high" decoding="async" srcset="… |
+| 2026-09-10 | [iCloud忽略同步指定文件夹](http://www.uncoverman.com/icloud-nosync.html) | 我会把常用的文件全部放到 iCloud，文件、照片都可以上云，用起来方便，同步实现备份功能。 但是，有些非用户自己产生的资料，我只想留在电脑本地，不想频繁同步，浪费流量，没有必要，有时候还会产生大量的冲突副本空文件，现象就是文件名后面带 2 的那种。比如 Hexo 静态博客的 Markdown 文件… |
 | 2026-09-10 | [Claude Tag 产品分析](https://www.ixiqin.com/2026/09/10/claude-tag-product-analysis/) | Claude Tag 这个产品市面上的仿品很多，但我看到的绝大多数的产品仿品仿其型而未有仿其神。这背后是本身绝 […] |
 | 2026-09-10 | [爹味人的自由](https://blog.solazy.me/20260910/) | 今天突然想到一个话题 |
 | 2026-09-10 | [2026.9.10](https://www.justzht.com/2026-9-10/) | Epoch Playdate 版本的一些开发截图 晚上十点多的时候突发奇想买了张十点半的 Akira 4K 重映票，刚看完回到家。可能是这周过的 |
