@@ -27,17 +27,23 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-09-12 | [摘：《作茧自缚》](https://z.arlmy.me/posts/Note/Note_JamesCScott_AgainstTheGrainADeepHistoryOfTheEarliestStates/) | 「人造的周期和暴力。」 |
+| 2026-09-12 | [记刘昊然讲的一段话](https://z.arlmy.me/posts/Note/Note_LiuHaoRan_AStory/) | 「关于母语和生活。」 |
+| 2026-09-12 | [Memos #2026-09-11](https://www.taober.blog/memos/memo_20260910164416_0xegw2) | 00:44 泪目 |
 | 2026-09-11 | [A 6-Day 5-Night Early Autumn Beach Trip to Weihai](https://victor42.eth.limo/post-en/trip-to-weihai/) | September had just opened the fishing season. Skip the summer holiday crush, and it is a fine time for sand and seafood. Photo Album: View Photo Album… |
 | 2026-09-11 | [威海初秋看海玩沙6天5夜](https://victor42.eth.limo/post/trip-to-weihai/) | 9月刚开渔，避开暑假，正是玩沙吃海鲜的好时节。 照片相册： 查看本篇相册 旅行攻略： 获取攻略文档 威海，胶东半岛尖端上的海滨小城，有历史厚重的一面，也有现代休闲的一面。多留几天给它，会有很丰富的度假体验。 第1天：幸福门 傍晚飞机着陆大水泊机场，军民两用机场。降落前约半小时，机长就广播要求所有乘客… |
 | 2026-09-11 | [入蜀记 day473 索书号](https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_473/) | 「索书号。」 |
 | 2026-09-11 | [入蜀记 day472 五块石](https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_472/) | 「五块石。」 |
 | 2026-09-11 | [入蜀记 day471 白露、快降温、冰糖雪梨](https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_471/) | 「白露、快降温、冰糖雪梨。」 |
 | 2026-09-11 | [emacs-为todo关键字设定不同字体](https://blog.prayhand13013.top/20260911T230544--emacs-为todo关键字设定不同字体__blog.html) |  |
+| 2026-09-11 | [Kimi K2.8 Preview刚出来](https://versun.me/blog/tweet-2098318060470075770) | Kimi K2.8 Preview刚出来 话说怎么版本号还回去了，，为啥不出 K3-flash 啊！！！ |
+| 2026-09-11 | [macOS 27 正式版出来了，有从 1](https://versun.me/blog/tweet-2098311082603590039) | macOS 27 正式版出来了，有从 15 升上来的吗 我有点憋不住了。。。 |
 | 2026-09-11 | [摘：《说灵魂》](https://z.arlmy.me/posts/Note/Note_ChengBaoYi_ShuoLingHun/) | 「一朵鸢尾花，万物合理。」 |
 | 2026-09-11 | [摘：《熟食动物》](https://z.arlmy.me/posts/Note/Note_RichardWrangham_CatchingFire/) | 「黑暗时代。」 |
 | 2026-09-11 | [2002，宿舍里的网线](https://www.tortorse.com/archives/dorm-room-ethernet-2002/) | 夏夜里，学生坐三蹦子去校外网吧 |
 | 2026-09-11 | [中年翻种子](https://www.hecaitou.com/2026/09/dormant-seeds-midlife.html) | 有读者问我：「叔，你到了这个年纪还会有焦虑和烦心事吗？」 首先，这个问题就很讨打，如果不是问我，如果不是问现在刚好德艺双馨的我，多半会遭到白眼：什么年纪？什么叫「到了这个年纪」？那你觉得我是有多老？ 大家应该都能理解这种心态，绝大多数人都厌恶衰老，热爱青春，因为我们都是生命。所以，面对衰老这种问题，… |
 | 2026-09-11 | [用美国 LLC 公司主体申请 Apple Developer](https://rokcso.com/p/apply-apple-developer-with-us-llc/) | 本文记录我使用美国 LLC 公司主体申请 Apple Developer Company / Organization 账号的过程，主要包括注册美区 Apple ID、查询 D-U-N-S Number，以及提交公司信息等待审核。 Apple 的页面和审核要求可能会调整，文中使用的地址、手机号和具体… |
+| 2026-09-11 | [从昨天开始用ds-v4.1-flash，](https://versun.me/blog/tweet-2098229959743664628) | 从昨天开始用ds-v4.1-flash，文字能力感觉退步些，但编程能力和 agent 能力确实提升很多 目前感受 Kimi K3 > Gemini 3.8 flash >= DS v4.1 flash Gemini 3.8 flash 的文字能力依旧顶级 |
 | 2026-09-11 | [只要结果，拒绝理由](https://mobius.blog/25700.html) | 据说9月7日，泰国军方带领媒体及东盟观察团进入柬泰边境奥斯玛的一处大型诈骗园区，在园区办公室的一处墙上，用中文 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-09-11 | [最近惦念 20260831](https://z.arlmy.me/posts/TILs/thoughts/20260831_Recently/) | 「要主动排出废物，做麦克斯韦妖。」 |
 | 2026-09-11 | [2026 纸书单](https://z.arlmy.me/posts/YearlyBooks/BookList_2026/) | 「买的书和借阅的书」 |
@@ -47,7 +53,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-09-10 | [学习周刊-总第280期-2026年第37周](https://wiki.eryajf.net/pages/eb7d06/) | 如要阅读全文，点击标题跳转。 学习周刊-总第280期 &#124; tolaria &#124; hosts-manager-extension &#124; shortcast &#124; Fanny-MacOs-FanControl &#124; gantry &#124; StayAwake &#124; Adnify |
 | 2026-09-10 | [学习周刊-总第279期-2026年第36周](https://wiki.eryajf.net/pages/702d84/) | 如要阅读全文，点击标题跳转。 学习周刊-总第279期 &#124; gos &#124; CodexBar &#124; kaloscope &#124; skyadb &#124; dbx &#124; dory &#124; conar &#124; ore-code |
 | 2026-09-10 | [闲鱼淘来的绿联蓝光刻录机 CM780-35349](https://www.ghostchu.com/5821/%e9%97%b2%e9%b1%bc%e6%b7%98%e6%9d%a5%e7%9a%84%e7%bb%bf%e8%81%94%e8%93%9d%e5%85%89%e5%88%bb%e5%bd%95%e6%9c%ba-cm780-35349/) | 前情提要 – aiyouwei 蓝光光驱 为了播放《超时空辉夜姬 BD》，稍早前购入了一款 aiy […] 闲鱼淘来的绿联蓝光刻录机 CM780-35349 最先出现在 Ghost_chu's Blog 。 |
-| 2026-09-10 | [iCloud忽略同步指定文件夹](http://www.uncoverman.com/icloud-nosync.html) | 我会把常用的文件全部放到 iCloud，文件、照片都可以上云，用起来方便，同步实现备份功能。 但是，有些非用户自己产生的资料，我只想留在电脑本地，不想频繁同步，浪费流量，没有必要，有时候还会产生大量的冲突副本空文件，现象就是文件名后面带 2 的那种。比如 Hexo 静态博客的 Markdown 文件… |
+| 2026-09-10 | [iCloud忽略同步指定文件夹](http://www.uncoverman.com/icloud-nosync.html) | 我会把常用的文件全部放到 iCloud，文件、照片都可以上云，用起来方便，同步实现备份功能。 但是，有些非用户产生的资料，只想留在电脑本地，不想频繁同步，浪费流量，没有必要，有时候还会产生大量的冲突副本空文件，现象就是文件名后面带 2 的那种。比如 Hexo 静态博客的 Markdown 文件我想同… |
 | 2026-09-10 | [Claude Tag 产品分析](https://www.ixiqin.com/2026/09/10/claude-tag-product-analysis/) | Claude Tag 这个产品市面上的仿品很多，但我看到的绝大多数的产品仿品仿其型而未有仿其神。这背后是本身绝 […] |
 | 2026-09-10 | [爹味人的自由](https://blog.solazy.me/20260910/) | 今天突然想到一个话题 |
 | 2026-09-10 | [2026.9.10](https://www.justzht.com/2026-9-10/) | Epoch Playdate 版本的一些开发截图 晚上十点多的时候突发奇想买了张十点半的 Akira 4K 重映票，刚看完回到家。可能是这周过的 |
@@ -135,17 +141,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-09-05 | [抒情的基础](https://www.hecaitou.com/2026/09/the-groundwork-for-romance.html) | 抒情也需要基础的，不是说内心足够敏感就够了，不是说掏钱买个道具就行了。哪怕你就是看一下云，也得去到一个可以看到广阔天空的地方。这意味着你要知道这地方在哪里，你有合适的交通方式抵达。 很多人一听到有什么可以为生活增色的小物件，第一句话就是问「链接呢」，要不然就是问「什么牌子，什么型号」，感觉是自己和美… |
 | 2026-09-05 | [Python 潮流周刊#166：拆解 Kimi K3 的登顶之路](https://pythoncat.top/posts/2026-09-05-weekly/) | 分享了 12 篇文章，12 个开源项目 |
 | 2026-09-05 | [Memos #2026-09-04](https://www.taober.blog/memos/memo_20260904112856_zwhlrk) | 19:30 多申请了一个 claude 账号，双持 fable 太爽了！ 比这更爽的发现同事一直在用 sonnet 🐶 |
-| 2026-09-04 | [你们要休息，要知道我是神。](https://diff.im/blog/2026/09/%E4%BD%A0%E4%BB%AC%E8%A6%81%E4%BC%91%E6%81%AF%E8%A6%81%E7%9F%A5%E9%81%93%E6%88%91%E6%98%AF%E7%A5%9E/) | 为了得到创业路上的正向的反馈，我像着了迷一样地投入到 AI Coding 之中。 尽管这个礼拜相比之前生活要平衡很多，但依然每天有超过 4 小时的时间放在 AI Coding 里面。这不仅是时间上的投入，更是精力上的投入。特别是现在的 AI 编程工具这么发达，不管在电脑前还是手机上，随时随地都可以做… |
-| 2026-09-04 | [只活到 50 岁也挺好](https://blog.solazy.me/20260904/) | 其实最近一直在想这个话题 |
-| 2026-09-04 | [6.47 MB 的 JS 字符串占了 15.4 MB 内存](https://bugs.cc/zh/posts/one-character-doubles-js-string-memory/) | open-connector 是我们在做的一个开源项目，把 1464 个第三方 API (Slack、GitHub、飞书这些) 包装成统一的 action 接口。每个第三方叫一个 provider，它有哪些 action、每个 action 的输入输出长什么样 (JSON Schema)，都写在一个… |
-| 2026-09-04 | [用 Tamper-monkey 集成 Kagi Translate - 以及用 Docker Sandbox 使用 OpenCode 和 DeepSeek](https://taxodium.ink/integrate-kagi-translate-with-tampermonkey.html) | 用 Tamper-monkey 集成 Kagi Translate 以及用 Docker Sandbox 使用 OpenCode 和 DeepSeek 我現在主要用 Kagi Translate 閱讀外文， Kagi Translate 提供了 瀏覧器插件 ，有三個我常用的功能： 1) 網頁全文翻譯… |
-| 2026-09-04 | [最短的咒语](https://mobius.blog/25604.html) | 最近在整理以前写的短篇和片段小说，汇总之后，我才发现我是一个不太喜欢“取名”的人。一方面，大部分短篇小说都是我 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
-| 2026-09-04 | [以后就不麻烦您了](https://hux.ink/posts/leave-me-alone/) | 2014 年入市，最开始用的是华泰证券。2016 年股灾后，华泰不再支持同花顺第三方登录，于是弃之。重新开了个国金证券的账户，一用就是十余年。 这些年用下来，除了始终怀疑账户被下了“中不了新股”的诅咒，其他方面都挺好。以前也有客户经理，但基本不打电话营销，没什么存在感，正合我意。券商提供交易通道，我… |
-| 2026-09-04 | [博客焕新，记录继续](https://liudon.com/posts/blog-refresh/) | 前言 经常访问本站的朋友，可能已经发现本站换了新的主题。 回顾折腾博客的这一路，已经用过了5个主题，其中 PaperMod 这个用的时间最长。 cactus jane yinyang meme PaperMod 一直想换个新主题，但查了一下，没有找到特别喜欢的主题了。 |
-| 2026-09-04 | [记一次疯狂的盲狙](https://www.hecaitou.com/2026/09/one-crazy-blind-buy.html) | 今天是 2026 年 9 月 4 日，在一个多月前的 7 月 25 日，我做了一件很疯狂的事情：盲狙一套监听音箱。 什么是音箱不重要，什么是监听音箱也不重要，盲狙比较重要，它本来是游戏术语，指在游戏里根本没有瞄准，而是凭借感觉直接开枪狙击。如今在网上，它的意思转变为根本没有上手亲自试过，真正体验过感… |
-| 2026-09-04 | [正在做一份本地模型的实用能力排行榜，测试](https://versun.me/blog/tweet-2095699381437792299) | 正在做一份本地模型的实用能力排行榜，测试集是从各种公开 benchmark中挑选微调，覆盖任务拆解、代码开发、长链路执行、上下文、指令遵循、记忆抽取、逻辑与常识 7 个维度 目前针对本地模型的评测很少，不知道有人感兴趣不，关注人多的话，我尽快测完放出来 |
-| 2026-09-04 | [跳皮筋 II](https://mobius.blog/25597.html) | 小王的同桌小张前几天被学校田径队选上了，其实没多少人在乎这件事，倒是以前老是迟到的小张，最近这段时间都准时来学 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
-| 2026-09-04 | [2000，跨世纪的旧日常](https://www.tortorse.com/archives/old-daily-life-at-the-turn-of-the-century-2000/) | 校园公用电话旁，带着BP机的学生拿着电话卡 |
 
 ## Vibe Coding
 
