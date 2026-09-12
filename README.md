@@ -27,12 +27,16 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-09-12 | [有点无语](https://elmagnifico.tech/2026/09/13/DreamComeTrue/) | Dream 有点无语 想起来是突然的 既不是过年，也不是什么特殊日子。就是普通的一天，忽然想起小时候的一个梦想，再看看现在：我已经站在那里了 当时觉得挺远的 远到可以先放着，先做眼前的事，以后再说 以后有的是时间 那会甚至没有认真问过自己，到了会是什么感觉，只是觉得，到了就好 后来毕业了 一年一年过… |
+| 2026-09-12 | [无用命途：自制三天王](https://blog.mfwt.top/index.php/archives/1546/) | 《无用命途》，专门用来记录笔者的一些无用（甚至无厘头的）想法，且每个想法后会附带一点内容，用来介绍这个想法（及其衍生的）有关的东西。每周最多更新一次，但不保证周更，主要看想法的活跃度如何。 |
+| 2026-09-12 | [Andy 的 Plan B](https://smallyu.net/2026/09/12/Andy%E7%9A%84PlanB/) | 2025年 7月，我处于失业期间，在找工作，第一次看了《肖申克的救赎》，后来反复看了几遍，最终产生了当时的《<a |
 | 2026-09-12 | [跳出 AI 的中等收入陷阱](https://shiquda.link/ai-middle-income-trap/) | AI 把执行能力拉近之后，真正拉开差距的是过去积累的判断力、品味和用户连接。会用 Agent 不再稀缺，关键是判断闭环和有选择的积累。 |
 | 2026-09-12 | [怀旧掌机初体验：ANBERNIC RG 34XX](https://blog.yuanji.dev/posts/anbernic-rg-34xx/) | 最近机缘巧合，我接触到了怀旧掌机，每天下了班都会花点时间来玩一些童年的老游戏。终于有了新的动力来更新博客，趁此 […] |
 | 2026-09-12 | [创造一个万人嫌](https://www.hecaitou.com/2026/09/engineering-a-public-villain.html) | 昨天我给朋友发过去一条新闻链接，附言说：还好，这个世界上并不存在一条忘恩负义的白眼狼。 是的，不存在一个高中时期就开始接受捐助的女大学生，一个在社交媒体上浓妆艳抹的女大学生，一个在使用 iPhone 17 MAX 的女大学生，一个当捐助人决定停止捐助反而开口索要的女大学生。一切都是虚构的，虚构的人这… |
 | 2026-09-12 | [摘：《作茧自缚》](https://z.arlmy.me/posts/Note/Note_JamesCScott_AgainstTheGrainADeepHistoryOfTheEarliestStates/) | 「人造的周期和暴力。」 |
 | 2026-09-12 | [记刘昊然讲的一段话](https://z.arlmy.me/posts/Note/Note_LiuHaoRan_AStory/) | 「关于母语和生活。」 |
 | 2026-09-12 | [倪海厦中医电子书资料全集【中医】【天纪、人纪】【资料全集】](https://www.gugegt.com/nihaixia-zhongyi-ziliao.html) | 倪海厦中医与易学宝藏资料库：从《天纪》到《人纪》的完整学习指南 在中医传承与现代学习的交汇点上，倪海厦老师的课程无疑是一座巍峨的高山。无论是想要深入研习中医经典的"人纪"系列，还是探索中国传统易学智慧的"天纪"系列，一套系统、完整且清晰的资料库都是学习者的刚需。 核心资源深度解析 1. 探索天人合一… |
+| 2026-09-12 | [Python 潮流周刊#167：用 1024 字节写个 Python 解释器](https://pythoncat.top/posts/2026-09-12-weekly/) | 分享了 12 篇文章，12 个开源项目 |
 | 2026-09-12 | [Memos #2026-09-11](https://www.taober.blog/memos/memo_20260910164416_0xegw2) | 00:44 泪目 |
 | 2026-09-11 | [A 6-Day 5-Night Early Autumn Beach Trip to Weihai](https://victor42.eth.limo/post-en/trip-to-weihai/) | September had just opened the fishing season. Skip the summer holiday crush, and it is a fine time for sand and seafood. Photo Album: View Photo Album… |
 | 2026-09-11 | [威海初秋看海玩沙6天5夜](https://victor42.eth.limo/post/trip-to-weihai/) | 9月刚开渔，避开暑假，正是玩沙吃海鲜的好时节。 照片相册： 查看本篇相册 旅行攻略： 获取攻略文档 威海，胶东半岛尖端上的海滨小城，有历史厚重的一面，也有现代休闲的一面。多留几天给它，会有很丰富的度假体验。 第1天：幸福门 傍晚飞机着陆大水泊机场，军民两用机场。降落前约半小时，机长就广播要求所有乘客… |
