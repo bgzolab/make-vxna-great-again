@@ -27,6 +27,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-09-12 | [跳出 AI 的中等收入陷阱](https://shiquda.link/ai-middle-income-trap/) | AI 把执行能力拉近之后，真正拉开差距的是过去积累的判断力、品味和用户连接。会用 Agent 不再稀缺，关键是判断闭环和有选择的积累。 |
 | 2026-09-12 | [怀旧掌机初体验：ANBERNIC RG 34XX](https://blog.yuanji.dev/posts/anbernic-rg-34xx/) | 最近机缘巧合，我接触到了怀旧掌机，每天下了班都会花点时间来玩一些童年的老游戏。终于有了新的动力来更新博客，趁此 […] |
 | 2026-09-12 | [创造一个万人嫌](https://www.hecaitou.com/2026/09/engineering-a-public-villain.html) | 昨天我给朋友发过去一条新闻链接，附言说：还好，这个世界上并不存在一条忘恩负义的白眼狼。 是的，不存在一个高中时期就开始接受捐助的女大学生，一个在社交媒体上浓妆艳抹的女大学生，一个在使用 iPhone 17 MAX 的女大学生，一个当捐助人决定停止捐助反而开口索要的女大学生。一切都是虚构的，虚构的人这… |
 | 2026-09-12 | [摘：《作茧自缚》](https://z.arlmy.me/posts/Note/Note_JamesCScott_AgainstTheGrainADeepHistoryOfTheEarliestStates/) | 「人造的周期和暴力。」 |
@@ -38,6 +39,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-09-11 | [入蜀记 day473 索书号](https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_473/) | 「索书号。」 |
 | 2026-09-11 | [入蜀记 day472 五块石](https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_472/) | 「五块石。」 |
 | 2026-09-11 | [入蜀记 day471 白露、快降温、冰糖雪梨](https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_471/) | 「白露、快降温、冰糖雪梨。」 |
+| 2026-09-11 | [PeakDesign Everyday Backpack换新](https://elmagnifico.tech/2026/09/12/PeakDesign/) | Foreword 19年买的PeakDesign Everyday Backpack，去年就已经出现涂层脱落了，只是没想起来这个是终身保修的。最近刷到一个质保的视频，才想起来这个可以换。 Everyday Backpack 30L v1 v1是19年买的，PD的包是摄影定位，我看上的是分层、分割，设… |
 | 2026-09-11 | [emacs-为todo关键字设定不同字体](https://blog.prayhand13013.top/20260911T230544--emacs-为todo关键字设定不同字体__blog.html) |  |
 | 2026-09-11 | [提完离职之后](https://blog.solazy.me/20260911/) | 写在我提完离职之后的观察 |
 | 2026-09-11 | [Kimi K2.8 Preview刚出来](https://versun.me/blog/tweet-2098318060470075770) | Kimi K2.8 Preview刚出来 话说怎么版本号还回去了，，为啥不出 K3-flash 啊！！！ |

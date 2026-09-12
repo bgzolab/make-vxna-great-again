@@ -1,5 +1,12 @@
 [
   {
+    "title": "跳出 AI 的中等收入陷阱",
+    "url": "https://shiquda.link/ai-middle-income-trap/",
+    "date": "2026-09-12T10:18:28Z",
+    "description": "AI 把执行能力拉近之后，真正拉开差距的是过去积累的判断力、品味和用户连接。会用 Agent 不再稀缺，关键是判断闭环和有选择的积累。",
+    "source_root_domain": "shiquda.link"
+  },
+  {
     "title": "怀旧掌机初体验：ANBERNIC RG 34XX",
     "url": "https://blog.yuanji.dev/posts/anbernic-rg-34xx/",
     "date": "2026-09-12T03:35:30Z",
@@ -75,6 +82,13 @@
     "date": "2026-09-11T16:11:27Z",
     "description": "「白露、快降温、冰糖雪梨。」",
     "source_root_domain": "arlmy.me"
+  },
+  {
+    "title": "PeakDesign Everyday Backpack换新",
+    "url": "https://elmagnifico.tech/2026/09/12/PeakDesign/",
+    "date": "2026-09-11T16:00:00Z",
+    "description": "Foreword 19年买的PeakDesign Everyday Backpack，去年就已经出现涂层脱落了，只是没想起来这个是终身保修的。最近刷到一个质保的视频，才想起来这个可以换。 Everyday Backpack 30L v1 v1是19年买的，PD的包是摄影定位，我看上的是分层、分割，设计得很有意思。后来不管是出差、还是旅游，都是只背一个包，所有东西都刚好能装下，装不下说明我不需要。 问题 不过可惜，包口这个地方的防水布，在来回折叠下，涂层脱落了。 涂层，落得一包都是，衣服沾上了都是黑色块块，很是麻烦。 除了包的涂层脱落了，其实包内部和侧面的纸板也有些受潮变形了，磁吸口反复使用也被蹭到掉漆了，还有包盖上也有一些脱线了，包拉链的涂层也有一些快要脱落了 售后 PD的包号称是终身保修，只要你不是人为损坏的，产品自然出现的问题就可以售后换新，当年买的时候就听说了，所以才买的。 还好当你在PD官网上注册了包，直接在官方申请售后，后续PD说，国内买的包都统一有一个亚洲的售后中心负责处理，其他地方是官方直接确认发货。 当年是在官方旗舰店买的，过了七年，这个店竟然还在，也没倒闭，说是让店家",
+    "source_root_domain": "elmagnifico.tech"
   },
   {
     "title": "emacs-为todo关键字设定不同字体",
