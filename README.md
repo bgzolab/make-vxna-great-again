@@ -27,17 +27,22 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-09-13 | [周末流水账 0913](https://blog.solazy.me/20260913/) | 在嘉兴躺尸的一天 |
+| 2026-09-13 | [2003，校门关上以后](https://www.tortorse.com/archives/after-the-school-gate-closed-2003/) | 傍晚的校园里，学生从校门旁走过，宿舍窗口亮着电脑的光 |
 | 2026-09-13 | [第一个人](https://www.geedea.pro/library/2026/le-premier-home/) | 加缪于 1960 年 1 月 4 日 13 点 54 分死于车祸，享年四十六岁，人们在他的皮包里发现了这篇手稿，经由他女儿卡特琳·加缪转录为打字稿之后以《第一个人》的名字出版。这篇小说没有完成，书中可见数处加缪的笔记和脚注，括号里还写着「这段要移到前面去」「描写一下房间？」之类的话，还有一些字看不清… |
 | 2026-09-13 | [如何优雅地更新 MACOS 系统上的软件](http://yi.gs/post/duo_updater) | 上一次更新正好是一年前，所以更新一下。 既然是为了更新而更新，就来写写如何更新吧 ；） TL;DR：直接看 「更优雅地更新软件」 小节。 关于 macOS 上的软件安装 与 iOS 正常情况下只能通过 App Store 安装 APP 不同，macOS 有类似 Windows 的自由度来安装和使用第… |
 | 2026-09-13 | [Toots 436 2026 Sep.6 - Sep.12](https://z.arlmy.me/posts/MastodonArchives/2026/MastodonTootsArchives_202609012/) | 「去县城！」 |
 | 2026-09-13 | [抢 iPhone 的早上](https://www.hecaitou.com/2026/09/iPhone-Launch-Morning.html) | 今天早上起来，打开手机，发现满屏幕都是抢 iPhone 18 的动态，我才意识到今天是新款 iPhone 发售日。 以前不是这样的，我也曾经是早起抢购的人之一。从 Apple Store 突然进入维护状态开始，就已经进入了期待状态。一旦下订成功，在网上晒订单这种事情我也干过，以至于后来看到有段子说「… |
 | 2026-09-13 | [当社会时钟也存在手表定律](https://mobius.blog/25706.html) | 这周的邮件订阅文章，打算聊一个非 Newsletter 的话题： 人生有不同的选择，但如何确保自己选择的就是“ […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
-| 2026-09-13 | [别再四处求邀请码了，这个网站把65条优惠码的验证日期和成功率都摊开了](https://www.gugegt.com/mashanghuigou-promocodego.html) | 上周，朋友把我拉进一个"邀请码互换"的群。三百多号人，消息刷得飞快，有人求币安的返佣码，有人找海外银行的推荐链接，还有人问哪个 AI 工具的邀请还能白拿积分。 我翻了十分钟，发现一件事。好用的码，没人愿意白给。随手贴出来的那些，点进去十有八九提示已失效。 麻烦出在码的信息上。有没有过期、绑没绑地区、… |
+| 2026-09-13 | [特殊符号 emoji 符号大全：挑了十几个在线工具都不顺手，干脆自己撸一个](https://gugegt.com/20260913-symbol-emoji-tool.html) | 找特殊符号这件事，我原本以为十分钟能搞定。为了给一份表格加几条分隔线，我在搜索引擎里翻了十几页符号网站，最后关掉浏览器自己写了一个。21 个分类，2800 多个特殊符号和 emoji 符号，鼠标悬停放大、点一下复制，网址是 gugegt.com/tools/emoji 。 |
+| 2026-09-13 | [别再四处求邀请码了，这个网站把65条优惠码的验证日期和成功率都摊开了](https://gugegt.com/mashanghuigou-promocodego.html) | 上周，朋友把我拉进一个"邀请码互换"的群。三百多号人，消息刷得飞快，有人求币安的返佣码，有人找海外银行的推荐链接，还有人问哪个 AI 工具的邀请还能白拿积分。 我翻了十分钟，发现一件事。好用的码，没人愿意白给。随手贴出来的那些，点进去十有八九提示已失效。 麻烦出在码的信息上。有没有过期、绑没绑地区、… |
 | 2026-09-13 | [喜欢吃的几家餐厅都陆续关店了](https://www.ozexplorers.com/%E6%BE%B3%E6%B4%B2%E7%94%9F%E6%B4%BB/2026/09/13/my-favorite-restaurants-keep-closing-down.html) | 我已经分不清澳洲经济到底是好是坏了。 |
 | 2026-09-13 | [2026年第36、37周：匆匆沪上与常州小憩](https://blog.sakoamc.com/posts/263637/) | 题记：不紧不慢，感受时间的极小间隙。常州教我如何不想她，意思是想常州呢，还是让人乐不思蜀呢？ |
 | 2026-09-13 | [Memos #2026-09-12](https://www.taober.blog/memos/memo_20260912090221_tnbpv4) | 17:02 嘿嘿，再无借口！ |
+| 2026-09-13 | [别再四处求邀请码了，这个网站把65条优惠码的验证日期和成功率都摊开了](https://www.gugegt.com/mashanghuigou-promocodego.html) | 上周，朋友把我拉进一个"邀请码互换"的群。三百多号人，消息刷得飞快，有人求币安的返佣码，有人找海外银行的推荐链接，还有人问哪个 AI 工具的邀请还能白拿积分。 我翻了十分钟，发现一件事。好用的码，没人愿意白给。随手贴出来的那些，点进去十有八九提示已失效。 麻烦出在码的信息上。有没有过期、绑没绑地区、… |
 | 2026-09-12 | [有点无语](https://elmagnifico.tech/2026/09/13/DreamComeTrue/) | Dream 有点无语 想起来是突然的 既不是过年，也不是什么特殊日子。就是普通的一天，忽然想起小时候的一个梦想，再看看现在：我已经站在那里了 当时觉得挺远的 远到可以先放着，先做眼前的事，以后再说 以后有的是时间 那会甚至没有认真问过自己，到了会是什么感觉，只是觉得，到了就好 后来毕业了 一年一年过… |
 | 2026-09-12 | [无用命途：自制三天王](https://blog.mfwt.top/index.php/archives/1546/) | 《无用命途》，专门用来记录笔者的一些无用（甚至无厘头的）想法，且每个想法后会附带一点内容，用来介绍这个想法（及其衍生的）有关的东西。每周最多更新一次，但不保证周更，主要看想法的活跃度如何。 |
+| 2026-09-12 | [周末流水账 0912](https://blog.solazy.me/20260912/) | 今天是嘉兴休闲流水账 |
 | 2026-09-12 | [Andy 的 Plan B](https://smallyu.net/2026/09/12/Andy%E7%9A%84PlanB/) | 2025年 7月，我处于失业期间，在找工作，第一次看了《肖申克的救赎》，后来反复看了几遍，最终产生了当时的《<a |
 | 2026-09-12 | [跳出 AI 的中等收入陷阱](https://shiquda.link/ai-middle-income-trap/) | AI 把执行能力拉近之后，真正拉开差距的是过去积累的判断力、品味和用户连接。会用 Agent 不再稀缺，关键是判断闭环和有选择的积累。 |
 | 2026-09-12 | [Nex_N2.5 竟然还有 1.6T 的](https://versun.me/blog/tweet-2098700638058344605) | 马识途 开源模型家族又添新的一员✨ 最近，上海创智学院全新智能体模型 Nex‑N2.5 正式发布并开源！ 整套家族包含 Mini / Pro / Max 三个版本。 ✅Mini：轻量化多模态，兼顾性能与速度 ✅Pro ：397B参数，多模态底座，强化 Vision 视觉、Computer Use 电… |
@@ -49,9 +54,10 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-09-12 | [记陈昊然讲的一段话](https://z.arlmy.me/posts/Note/Note_ChenHaoRan_AStory/) | 「关于母语和生活。」 |
 | 2026-09-12 | [记刘昊然讲的一段话](https://z.arlmy.me/posts/Note/Note_LiuHaoRan_AStory/) | 「关于母语和生活。」 |
 | 2026-09-12 | [这个 GamsGo 价格好便宜啊，20刀](https://versun.me/blog/tweet-2098575932059705383) | MR. SHAHBAZ I used ChatGPT on GamsGo this week to turn a messy research pile into a usable outline. Task: cut a 3-hour topic brief down to ~20 minutes… |
-| 2026-09-12 | [倪海厦中医电子书资料全集【中医】【天纪、人纪】【资料全集】](https://www.gugegt.com/nihaixia-zhongyi-ziliao.html) | 倪海厦中医与易学宝藏资料库：从《天纪》到《人纪》的完整学习指南 在中医传承与现代学习的交汇点上，倪海厦老师的课程无疑是一座巍峨的高山。无论是想要深入研习中医经典的"人纪"系列，还是探索中国传统易学智慧的"天纪"系列，一套系统、完整且清晰的资料库都是学习者的刚需。 核心资源深度解析 1. 探索天人合一… |
+| 2026-09-12 | [倪海厦中医电子书资料全集【中医】【天纪、人纪】【资料全集】](https://gugegt.com/nihaixia-zhongyi-ziliao.html) | 倪海厦中医与易学宝藏资料库：从《天纪》到《人纪》的完整学习指南 在中医传承与现代学习的交汇点上，倪海厦老师的课程无疑是一座巍峨的高山。无论是想要深入研习中医经典的"人纪"系列，还是探索中国传统易学智慧的"天纪"系列，一套系统、完整且清晰的资料库都是学习者的刚需。 核心资源深度解析 1. 探索天人合一… |
 | 2026-09-12 | [Python 潮流周刊#167：用 1024 字节写个 Python 解释器](https://pythoncat.top/posts/2026-09-12-weekly/) | 分享了 12 篇文章，12 个开源项目 |
 | 2026-09-12 | [Memos #2026-09-11](https://www.taober.blog/memos/memo_20260910164416_0xegw2) | 00:44 泪目 |
+| 2026-09-12 | [倪海厦中医电子书资料全集【中医】【天纪、人纪】【资料全集】](https://www.gugegt.com/nihaixia-zhongyi-ziliao.html) | 倪海厦中医与易学宝藏资料库：从《天纪》到《人纪》的完整学习指南 在中医传承与现代学习的交汇点上，倪海厦老师的课程无疑是一座巍峨的高山。无论是想要深入研习中医经典的"人纪"系列，还是探索中国传统易学智慧的"天纪"系列，一套系统、完整且清晰的资料库都是学习者的刚需。 核心资源深度解析 1. 探索天人合一… |
 | 2026-09-11 | [A 6-Day 5-Night Early Autumn Beach Trip to Weihai](https://victor42.eth.limo/post-en/trip-to-weihai/) | September had just opened the fishing season. Skip the summer holiday crush, and it is a fine time for sand and seafood. Photo Album: View Photo Album… |
 | 2026-09-11 | [威海初秋看海玩沙6天5夜](https://victor42.eth.limo/post/trip-to-weihai/) | 9月刚开渔，避开暑假，正是玩沙吃海鲜的好时节。 照片相册： 查看本篇相册 旅行攻略： 获取攻略文档 威海，胶东半岛尖端上的海滨小城，有历史厚重的一面，也有现代休闲的一面。多留几天给它，会有很丰富的度假体验。 第1天：幸福门 傍晚飞机着陆大水泊机场，军民两用机场。降落前约半小时，机长就广播要求所有乘客… |
 | 2026-09-11 | [入蜀记 day473 索书号](https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_473/) | 「索书号。」 |
