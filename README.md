@@ -27,14 +27,20 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-09-13 | [当社会时钟也存在手表定律](https://mobius.blog/25706.html) | 这周的邮件订阅文章，打算聊一个非 Newsletter 的话题： 人生有不同的选择，但如何确保自己选择的就是“ […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
+| 2026-09-13 | [Memos #2026-09-12](https://www.taober.blog/memos/memo_20260912090221_tnbpv4) | 17:02 嘿嘿，再无借口！ |
 | 2026-09-12 | [有点无语](https://elmagnifico.tech/2026/09/13/DreamComeTrue/) | Dream 有点无语 想起来是突然的 既不是过年，也不是什么特殊日子。就是普通的一天，忽然想起小时候的一个梦想，再看看现在：我已经站在那里了 当时觉得挺远的 远到可以先放着，先做眼前的事，以后再说 以后有的是时间 那会甚至没有认真问过自己，到了会是什么感觉，只是觉得，到了就好 后来毕业了 一年一年过… |
 | 2026-09-12 | [无用命途：自制三天王](https://blog.mfwt.top/index.php/archives/1546/) | 《无用命途》，专门用来记录笔者的一些无用（甚至无厘头的）想法，且每个想法后会附带一点内容，用来介绍这个想法（及其衍生的）有关的东西。每周最多更新一次，但不保证周更，主要看想法的活跃度如何。 |
 | 2026-09-12 | [Andy 的 Plan B](https://smallyu.net/2026/09/12/Andy%E7%9A%84PlanB/) | 2025年 7月，我处于失业期间，在找工作，第一次看了《肖申克的救赎》，后来反复看了几遍，最终产生了当时的《<a |
 | 2026-09-12 | [跳出 AI 的中等收入陷阱](https://shiquda.link/ai-middle-income-trap/) | AI 把执行能力拉近之后，真正拉开差距的是过去积累的判断力、品味和用户连接。会用 Agent 不再稀缺，关键是判断闭环和有选择的积累。 |
+| 2026-09-12 | [Nex_N2.5 竟然还有 1.6T 的](https://versun.me/blog/tweet-2098700638058344605) | 马识途 开源模型家族又添新的一员✨ 最近，上海创智学院全新智能体模型 Nex‑N2.5 正式发布并开源！ 整套家族包含 Mini / Pro / Max 三个版本。 ✅Mini：轻量化多模态，兼顾性能与速度 ✅Pro ：397B参数，多模态底座，强化 Vision 视觉、Computer Use 电… |
+| 2026-09-12 | [突然发现 openrouter 上架了一](https://versun.me/blog/tweet-2098660483016593490) | 突然发现 openrouter 上架了一个新的免费模型 Nex-N2.5-Pro，397B参数，多模态，看介绍也是主打 computer use 的 按照惯例，做个鹈鹕看看，效果还不过得去，和其它大模型对比下(glm-5.3-flash/glm-5.3/deepseek-v4.1-flash)，如视… |
 | 2026-09-12 | [怀旧掌机初体验：ANBERNIC RG 34XX](https://blog.yuanji.dev/posts/anbernic-rg-34xx/) | 最近机缘巧合，我接触到了怀旧掌机，每天下了班都会花点时间来玩一些童年的老游戏。终于有了新的动力来更新博客，趁此 […] |
 | 2026-09-12 | [创造一个万人嫌](https://www.hecaitou.com/2026/09/engineering-a-public-villain.html) | 昨天我给朋友发过去一条新闻链接，附言说：还好，这个世界上并不存在一条忘恩负义的白眼狼。 是的，不存在一个高中时期就开始接受捐助的女大学生，一个在社交媒体上浓妆艳抹的女大学生，一个在使用 iPhone 17 MAX 的女大学生，一个当捐助人决定停止捐助反而开口索要的女大学生。一切都是虚构的，虚构的人这… |
 | 2026-09-12 | [摘：《作茧自缚》](https://z.arlmy.me/posts/Note/Note_JamesCScott_AgainstTheGrainADeepHistoryOfTheEarliestStates/) | 「人造的周期和暴力。」 |
+| 2026-09-12 | [终于有人核实 openrouter 的这](https://versun.me/blog/tweet-2098585344811892776) | 终于有人核实 openrouter 的这个问题了 之前我在查看模型提供商时，就发现有些提供商提供的是量化版本 那么这就导致你可能在处理一个问题时，可能会同时用到不同的量化降智版本，因为 openrouter 的自动 Fallback 功能 不过在7月分添加了新的 quantizations 参数，可… |
 | 2026-09-12 | [记刘昊然讲的一段话](https://z.arlmy.me/posts/Note/Note_LiuHaoRan_AStory/) | 「关于母语和生活。」 |
+| 2026-09-12 | [这个 GamsGo 价格好便宜啊，20刀](https://versun.me/blog/tweet-2098575932059705383) | MR. SHAHBAZ I used ChatGPT on GamsGo this week to turn a messy research pile into a usable outline. Task: cut a 3-hour topic brief down to ~20 minutes… |
 | 2026-09-12 | [倪海厦中医电子书资料全集【中医】【天纪、人纪】【资料全集】](https://www.gugegt.com/nihaixia-zhongyi-ziliao.html) | 倪海厦中医与易学宝藏资料库：从《天纪》到《人纪》的完整学习指南 在中医传承与现代学习的交汇点上，倪海厦老师的课程无疑是一座巍峨的高山。无论是想要深入研习中医经典的"人纪"系列，还是探索中国传统易学智慧的"天纪"系列，一套系统、完整且清晰的资料库都是学习者的刚需。 核心资源深度解析 1. 探索天人合一… |
 | 2026-09-12 | [Python 潮流周刊#167：用 1024 字节写个 Python 解释器](https://pythoncat.top/posts/2026-09-12-weekly/) | 分享了 12 篇文章，12 个开源项目 |
 | 2026-09-12 | [Memos #2026-09-11](https://www.taober.blog/memos/memo_20260910164416_0xegw2) | 00:44 泪目 |
@@ -138,19 +144,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-09-06 | [≡ 009｜这一周莫比乌斯环转到了哪里？](https://mobius.blog/25666.html) | —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-09-06 | [记录购买替尔泊肽](https://www.quji.org/archives/8839?pk_campaign=feed&pk_kwd=%25e8%25ae%25b0%25e5%25bd%2595%25e8%25b4%25ad%25e4%25b9%25b0%25e6%259b%25bf%25e5%25b0%2594%25e6%25b3%258a%25e8%2582%25bd) | 去年我才知道了这个药，领导在打，我就去了解了一下，果然是减肥神药，只是价格很贵，最近价格下来了很多，据说是要纳 […] |
 | 2026-09-06 | [月刊（第36期）：伊始](https://ursb.me/posts/weekly-36/) | 从六月到八月：不断增加的 AI 开销、自己的小世界，首尔与釜山的旅行，以及在徒步、游戏和日常里慢慢找回节奏。 |
-| 2026-09-05 | [霓虹下的微型交易：我的香港隐秘经济史游记](https://www.l1ch40.com/2026/09/hong-kongs-shadow-economy-under-neon-lights.html) | “阿金努力，阿金搵到食！” 这句台词来自香港电影《金鸡》，它代表了 “狮子山下”一种艰难而灵活的生存精神。电影中，主人公阿金凭借这种精神在鱼龙混杂的场所打拼，但她的生意很快被新的时代背景冲击——大陆及其他国家妓女的涌入“抢”走了本地人的生意。阿金的故事让我心底埋下了一颗种子：我想去看看光鲜亮丽的香港… |
-| 2026-09-05 | [轻糖的 KMP 实战：一次冷启动 3 秒必现崩溃，与 viewModelScope 异常逃逸的代价](https://youngxhui.top/2026/09/sugarlite-kmp-exception/) | 第三篇文章收尾时，我们说迁移完成后的日常是"新功能默认 KMP-first"。这句话没错，但它隐藏了一个前提： 共享层代码在两端的运行环境并不对等 ——同样的代码，在 Android 上是一次可捕获的异常，在 iOS 上可能是整个进程的直接死亡。 这篇文章记录一次真实事故：轻糖 iOS 版冷启动 3… |
-| 2026-09-05 | [高鲁棒性 API 设计之 Idempotency Key 幂等键](https://blog.yasking.org/a/idempotency-key) | 有这样一个场景，客户端调用服务端 API 兑换奖励： POST /api/v1/redemptions { "reward_id" : "id-123" } 用户发起一次商品兑换请求，因网络等因素，客户端不清楚 … |
-| 2026-09-05 | [周末流水账 0905](https://blog.solazy.me/20260905/) | 这周末是说走就走的休闲游 |
-| 2026-09-05 | [入蜀记 day467 小小的真理](https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_467/) | 「小小的真理。」 |
-| 2026-09-05 | [入蜀记 day466 近谿](https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_466/) | 「近谿。」 |
-| 2026-09-05 | [入蜀记 day465 一点秋高气爽](https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_465/) | 「一点秋高气爽。」 |
-| 2026-09-05 | [家里有一台十几年前的戴尔xps 11，还](https://versun.me/blog/tweet-2096198283114737774) | 家里有一台十几年前的戴尔xps 11，还能开机，但很卡，卖不出，又不想用，太重了，有啥可以利用的吗？还是只能收废品了😂 |
-| 2026-09-05 | [现象学导论](https://www.geedea.pro/library/2026/introduction-to-phenomenology/) | 顾名思义，本书是介绍「现象学」这一哲学分支的专著。作者索科罗斯基是美国天主教大学的哲学教授，我去看他在豆瓣上的照片，也是身穿黑袍的模样。不难理解，这本书其实是本给本科生读的现象学入门教材，不过文风和一般的教材不同，语言通俗，有对话感，不过对我来说有些太啰唆了，尽管我知道这个老先生真的很想循序渐进，把… |
-| 2026-09-05 | [2001，电脑进了家门](https://www.tortorse.com/archives/computer-came-home-2001/) | 2001年的房间里，年轻人坐在电脑前 |
-| 2026-09-05 | [抒情的基础](https://www.hecaitou.com/2026/09/the-groundwork-for-romance.html) | 抒情也需要基础的，不是说内心足够敏感就够了，不是说掏钱买个道具就行了。哪怕你就是看一下云，也得去到一个可以看到广阔天空的地方。这意味着你要知道这地方在哪里，你有合适的交通方式抵达。 很多人一听到有什么可以为生活增色的小物件，第一句话就是问「链接呢」，要不然就是问「什么牌子，什么型号」，感觉是自己和美… |
-| 2026-09-05 | [Python 潮流周刊#166：拆解 Kimi K3 的登顶之路](https://pythoncat.top/posts/2026-09-05-weekly/) | 分享了 12 篇文章，12 个开源项目 |
-| 2026-09-05 | [Memos #2026-09-04](https://www.taober.blog/memos/memo_20260904112856_zwhlrk) | 19:30 多申请了一个 claude 账号，双持 fable 太爽了！ 比这更爽的发现同事一直在用 sonnet 🐶 |
 
 ## Vibe Coding
 

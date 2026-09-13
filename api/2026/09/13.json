@@ -1,0 +1,268 @@
+[
+  {
+    "title": "当社会时钟也存在手表定律",
+    "url": "https://mobius.blog/25706.html",
+    "date": "2026-09-13T01:30:00Z",
+    "description": "这周的邮件订阅文章，打算聊一个非 Newsletter 的话题： 人生有不同的选择，但如何确保自己选择的就是“ […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。",
+    "source_root_domain": "onojyun.com"
+  },
+  {
+    "title": "Memos #2026-09-12",
+    "url": "https://www.taober.blog/memos/memo_20260912090221_tnbpv4",
+    "date": "2026-09-13T00:00:00Z",
+    "description": "17:02 嘿嘿，再无借口！",
+    "source_root_domain": "taober.blog"
+  },
+  {
+    "title": "有点无语",
+    "url": "https://elmagnifico.tech/2026/09/13/DreamComeTrue/",
+    "date": "2026-09-12T16:00:00Z",
+    "description": "Dream 有点无语 想起来是突然的 既不是过年，也不是什么特殊日子。就是普通的一天，忽然想起小时候的一个梦想，再看看现在：我已经站在那里了 当时觉得挺远的 远到可以先放着，先做眼前的事，以后再说 以后有的是时间 那会甚至没有认真问过自己，到了会是什么感觉，只是觉得，到了就好 后来毕业了 一年一年过，方向没换过 只是很少抬头 同龄人的消息一直都有，谁怎样了，谁又怎样了 以前会看。看完心里发紧，觉得自己慢。慢在哪儿，又说不清。就是有点焦虑，有点慌 后来就不看了 30岁那年，回头看过一次 还早 那个地方还在前面，心里那点焦虑又冒了头，冒了一下，又按了回去 反正也比不明白，不如埋头 十年就这么走过来，一路上也失去了一些，逃避了一些 本来想列一列，又停了。列出来也回不来 33岁，再抬一次头，人已经站在那里了 没有谁通知我 也没有想象过，到了时的激动 日子还是日子，我还是我 甚至要过一会儿才反应过来：这不就是以前觉得很远的那个点吗 所以无语 以前觉得，到了就好了 现在到了，然后呢？",
+    "source_root_domain": "elmagnifico.tech"
+  },
+  {
+    "title": "无用命途：自制三天王",
+    "url": "https://blog.mfwt.top/index.php/archives/1546/",
+    "date": "2026-09-12T15:56:19Z",
+    "description": "《无用命途》，专门用来记录笔者的一些无用（甚至无厘头的）想法，且每个想法后会附带一点内容，用来介绍这个想法（及其衍生的）有关的东西。每周最多更新一次，但不保证周更，主要看想法的活跃度如何。",
+    "source_root_domain": "mfwt.top"
+  },
+  {
+    "title": "Andy 的 Plan B",
+    "url": "https://smallyu.net/2026/09/12/Andy%E7%9A%84PlanB/",
+    "date": "2026-09-12T12:49:02Z",
+    "description": "2025年 7月，我处于失业期间，在找工作，第一次看了《肖申克的救赎》，后来反复看了几遍，最终产生了当时的《<a",
+    "source_root_domain": "smallyu.net"
+  },
+  {
+    "title": "跳出 AI 的中等收入陷阱",
+    "url": "https://shiquda.link/ai-middle-income-trap/",
+    "date": "2026-09-12T10:18:28Z",
+    "description": "AI 把执行能力拉近之后，真正拉开差距的是过去积累的判断力、品味和用户连接。会用 Agent 不再稀缺，关键是判断闭环和有选择的积累。",
+    "source_root_domain": "shiquda.link"
+  },
+  {
+    "title": "Nex_N2.5 竟然还有 1.6T 的",
+    "url": "https://versun.me/blog/tweet-2098700638058344605",
+    "date": "2026-09-12T09:09:58Z",
+    "description": "马识途 开源模型家族又添新的一员✨ 最近，上海创智学院全新智能体模型 Nex‑N2.5 正式发布并开源！ 整套家族包含 Mini / Pro / Max 三个版本。 ✅Mini：轻量化多模态，兼顾性能与速度 ✅Pro ：397B参数，多模态底座，强化 Vision 视觉、Computer Use 电脑长程操作能力，可以直接操控 Blender、CAD、游戏，拆解复杂任务持续执行，对标 GPT‑6 Astra ✅Max：1.6T MoE 万亿参数基座，探索大参数后训练能力 我做了个趣味小测试： Nex_N2.5 竟然还有 1.6T 的 max？openrouter 上没看到呀",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "突然发现 openrouter 上架了一",
+    "url": "https://versun.me/blog/tweet-2098660483016593490",
+    "date": "2026-09-12T06:30:25Z",
+    "description": "突然发现 openrouter 上架了一个新的免费模型 Nex-N2.5-Pro，397B参数，多模态，看介绍也是主打 computer use 的 按照惯例，做个鹈鹕看看，效果还不过得去，和其它大模型对比下(glm-5.3-flash/glm-5.3/deepseek-v4.1-flash)，如视频 还有一个 35B 的 N2.5-Mini 版本，我在 Mac 上部署了 4bit 量化，速度能有 50 tk/s，在记忆抽取能力上，竟然排行第一，有点出乎我的意料了 https://openrouter.ai/nex-agi/nex-n2.5-pro:free",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "怀旧掌机初体验：ANBERNIC RG 34XX",
+    "url": "https://blog.yuanji.dev/posts/anbernic-rg-34xx/",
+    "date": "2026-09-12T03:35:30Z",
+    "description": "最近机缘巧合，我接触到了怀旧掌机，每天下了班都会花点时间来玩一些童年的老游戏。终于有了新的动力来更新博客，趁此 […]",
+    "source_root_domain": "gimo.me"
+  },
+  {
+    "title": "创造一个万人嫌",
+    "url": "https://www.hecaitou.com/2026/09/engineering-a-public-villain.html",
+    "date": "2026-09-12T03:26:38Z",
+    "description": "昨天我给朋友发过去一条新闻链接，附言说：还好，这个世界上并不存在一条忘恩负义的白眼狼。 是的，不存在一个高中时期就开始接受捐助的女大学生，一个在社交媒体上浓妆艳抹的女大学生，一个在使用 iPhone 17 MAX 的女大学生，一个当捐助人决定停止捐助反而开口索要的女大学生。一切都是虚构的，虚构的人这么做是为了得到流量和关注。 我特意把这段话写成这样，是想凸显一下这个人物的构成。女大学生，网络热词。浓妆艳抹，网络热词。iPhone 17 Max，网络热词。忘恩负义，人类有史以来的热词。 在我们的网络世界中，按照这样的配方创造人物，激发起人们心中的厌恶、恐惧、愤怒情绪，成功引爆一个帖子的做法，早就是一种流行。如果有一条真实的社会新闻引发公众热议，那么这条新闻就会被拆解开，看刺激大众神经的点究竟是什么。然后根据这些分析，可以精巧地设计一个同构的人物和同构的故事，最后激发同样的舆论热度。 最近这段时间，关于贫困生、低保户能不能过某种生活，做某种事的新闻层出不穷，每次都能维持相当高的讨论度。因此，网络上创造出一位并不存在的白眼狼女大学生也就是个时间问题，总有人会成功，区别在于最后是谁进拘留所。但",
+    "source_root_domain": "hecaitou.com"
+  },
+  {
+    "title": "摘：《作茧自缚》",
+    "url": "https://z.arlmy.me/posts/Note/Note_JamesCScott_AgainstTheGrainADeepHistoryOfTheEarliestStates/",
+    "date": "2026-09-12T01:44:46Z",
+    "description": "「人造的周期和暴力。」",
+    "source_root_domain": "arlmy.me"
+  },
+  {
+    "title": "终于有人核实 openrouter 的这",
+    "url": "https://versun.me/blog/tweet-2098585344811892776",
+    "date": "2026-09-12T01:31:50Z",
+    "description": "终于有人核实 openrouter 的这个问题了 之前我在查看模型提供商时，就发现有些提供商提供的是量化版本 那么这就导致你可能在处理一个问题时，可能会同时用到不同的量化降智版本，因为 openrouter 的自动 Fallback 功能 不过在7月分添加了新的 quantizations 参数，可以解决这个问题，比如 Kimi K3，别看提供商有 19 个，但提供 bf16 bit 的只有 1 家，水分很大的 各位生产环境有用 openrouter 的，注意下 https://mmoustafa.com/blog/so-you-want-to-use-openrouter/",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "记刘昊然讲的一段话",
+    "url": "https://z.arlmy.me/posts/Note/Note_LiuHaoRan_AStory/",
+    "date": "2026-09-12T01:00:46Z",
+    "description": "「关于母语和生活。」",
+    "source_root_domain": "arlmy.me"
+  },
+  {
+    "title": "这个 GamsGo 价格好便宜啊，20刀",
+    "url": "https://versun.me/blog/tweet-2098575932059705383",
+    "date": "2026-09-12T00:54:26Z",
+    "description": "MR. SHAHBAZ I used ChatGPT on GamsGo this week to turn a messy research pile into a usable outline. Task: cut a 3-hour topic brief down to ~20 minutes. Same model I already wanted. Different bill. Bought ChatGPT Plus on GamsGo — $4.83 USD / month, billed month 这个 GamsGo 价格好便宜啊，20刀的 ChatGPT Plus 不到5刀一个月，看起来还有质保，有用过的吗，靠谱不？ 我的推荐码 pcRFa",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "倪海厦中医电子书资料全集【中医】【天纪、人纪】【资料全集】",
+    "url": "https://www.gugegt.com/nihaixia-zhongyi-ziliao.html",
+    "date": "2026-09-12T00:00:00Z",
+    "description": "倪海厦中医与易学宝藏资料库：从《天纪》到《人纪》的完整学习指南 在中医传承与现代学习的交汇点上，倪海厦老师的课程无疑是一座巍峨的高山。无论是想要深入研习中医经典的\"人纪\"系列，还是探索中国传统易学智慧的\"天纪\"系列，一套系统、完整且清晰的资料库都是学习者的刚需。 核心资源深度解析 1. 探索天人合一的智慧：《天纪》系列 《天纪》是倪师关于易经、风水、命理的集大成之作。在这份资料中，我们为你准备了： 核心教材：包括《天机道》、《人间道》、《地脉道》的医师教学版PDF，这是理解倪师易学思想的基石。 实战工具：收录了《64卦PDF下载》，方便随时查阅卦象含义。 辅助笔记：【00】《天纪》听课笔记，前人的学习笔记往往能帮你点破迷津。 2. 中医临床的巅峰：《人纪》系列 这是中医学习者的重中之重，涵盖了中医五大经典。资料库中采用了\"三位一体\"的配置： 黄帝内经：教学版PDF + 上下册文字实录。从生理病理到养生智慧，全方位解读。 伤寒杂病论：教学版PDF + 文字实录。经方派的灵魂，倪师讲解深入浅出，直指临床核心。 金匮要略：教学版PDF + 文字实录。杂病治疗的圭臬。 神农本草经：教学版PDF",
+    "source_root_domain": "gugegt.com"
+  },
+  {
+    "title": "Python 潮流周刊#167：用 1024 字节写个 Python 解释器",
+    "url": "https://pythoncat.top/posts/2026-09-12-weekly/",
+    "date": "2026-09-12T00:00:00Z",
+    "description": "分享了 12 篇文章，12 个开源项目",
+    "source_root_domain": "pythoncat.top"
+  },
+  {
+    "title": "Memos #2026-09-11",
+    "url": "https://www.taober.blog/memos/memo_20260910164416_0xegw2",
+    "date": "2026-09-12T00:00:00Z",
+    "description": "00:44 泪目",
+    "source_root_domain": "taober.blog"
+  },
+  {
+    "title": "A 6-Day 5-Night Early Autumn Beach Trip to Weihai",
+    "url": "https://victor42.eth.limo/post-en/trip-to-weihai/",
+    "date": "2026-09-11T22:24:00Z",
+    "description": "September had just opened the fishing season. Skip the summer holiday crush, and it is a fine time for sand and seafood. Photo Album: View Photo Album Travel Guide: Get the itinerary Weihai is a small seaside city at the tip of the Jiaodong Peninsula, with a heavy historical side and a modern leisure side. Give it a few extra days and the holiday gets rich. Day 1: Happiness Gate The evening flight landed at Dashuipo Airport, a dual-use civil-military field. About half an hour before landing, the",
+    "source_root_domain": "eth.limo"
+  },
+  {
+    "title": "威海初秋看海玩沙6天5夜",
+    "url": "https://victor42.eth.limo/post/trip-to-weihai/",
+    "date": "2026-09-11T22:24:00Z",
+    "description": "9月刚开渔，避开暑假，正是玩沙吃海鲜的好时节。 照片相册： 查看本篇相册 旅行攻略： 获取攻略文档 威海，胶东半岛尖端上的海滨小城，有历史厚重的一面，也有现代休闲的一面。多留几天给它，会有很丰富的度假体验。 第1天：幸福门 傍晚飞机着陆大水泊机场，军民两用机场。降落前约半小时，机长就广播要求所有乘客关闭舷窗，降落后禁止拍照。 果然，在通往行李转盘的路上，亲眼看到一架歼10开着减速伞降落在跑道上。 机场离威海市区比较远，打车约40分钟。 一路过来，威海市区不是逐渐展开的，是穿过一座隧道后忽然来到面前的。这就是第一眼画面，跨越超长纵深扑面而来。 酒店入住，附近晚餐后，散步到海边幸福公园。这是威海地标幸福门。背后的海里漆黑一片，是当晚留下的悬念。 第2天：老城漫步 这天安排几处有代表性的老城街道和公园散步。 栖霞街 酒店在威高广场一带，离栖霞街非常近。这里是专门打造的一片老建筑群，里面还是现代餐饮娱乐，算一条风格化商业街吧。 新威附路 午餐后，打车到新威附路南端，步行逛完整条街，顺便避一避正午的烈日。 这是条七彩建筑网红街。但如果为了打卡拍照，只有最北端100米左右适合，其余部分都是常规的本",
+    "source_root_domain": "eth.limo"
+  },
+  {
+    "title": "入蜀记 day473 索书号",
+    "url": "https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_473/",
+    "date": "2026-09-11T16:16:27Z",
+    "description": "「索书号。」",
+    "source_root_domain": "arlmy.me"
+  },
+  {
+    "title": "入蜀记 day472 五块石",
+    "url": "https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_472/",
+    "date": "2026-09-11T16:13:27Z",
+    "description": "「五块石。」",
+    "source_root_domain": "arlmy.me"
+  },
+  {
+    "title": "入蜀记 day471 白露、快降温、冰糖雪梨",
+    "url": "https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_471/",
+    "date": "2026-09-11T16:11:27Z",
+    "description": "「白露、快降温、冰糖雪梨。」",
+    "source_root_domain": "arlmy.me"
+  },
+  {
+    "title": "PeakDesign Everyday Backpack换新",
+    "url": "https://elmagnifico.tech/2026/09/12/PeakDesign/",
+    "date": "2026-09-11T16:00:00Z",
+    "description": "Foreword 19年买的PeakDesign Everyday Backpack，去年就已经出现涂层脱落了，只是没想起来这个是终身保修的。最近刷到一个质保的视频，才想起来这个可以换。 Everyday Backpack 30L v1 v1是19年买的，PD的包是摄影定位，我看上的是分层、分割，设计得很有意思。后来不管是出差、还是旅游，都是只背一个包，所有东西都刚好能装下，装不下说明我不需要。 问题 不过可惜，包口这个地方的防水布，在来回折叠下，涂层脱落了。 涂层，落得一包都是，衣服沾上了都是黑色块块，很是麻烦。 除了包的涂层脱落了，其实包内部和侧面的纸板也有些受潮变形了，磁吸口反复使用也被蹭到掉漆了，还有包盖上也有一些脱线了，包拉链的涂层也有一些快要脱落了 售后 PD的包号称是终身保修，只要你不是人为损坏的，产品自然出现的问题就可以售后换新，当年买的时候就听说了，所以才买的。 还好当你在PD官网上注册了包，直接在官方申请售后，后续PD说，国内买的包都统一有一个亚洲的售后中心负责处理，其他地方是官方直接确认发货。 当年是在官方旗舰店买的，过了七年，这个店竟然还在，也没倒闭，说是让店家",
+    "source_root_domain": "elmagnifico.tech"
+  },
+  {
+    "title": "emacs-为todo关键字设定不同字体",
+    "url": "https://blog.prayhand13013.top/20260911T230544--emacs-为todo关键字设定不同字体__blog.html",
+    "date": "2026-09-11T15:05:00Z",
+    "description": "",
+    "source_root_domain": "tomoemami.github.io"
+  },
+  {
+    "title": "提完离职之后",
+    "url": "https://blog.solazy.me/20260911/",
+    "date": "2026-09-11T15:00:00Z",
+    "description": "写在我提完离职之后的观察",
+    "source_root_domain": "solazy.me"
+  },
+  {
+    "title": "Kimi K2.8 Preview刚出来",
+    "url": "https://versun.me/blog/tweet-2098318060470075770",
+    "date": "2026-09-11T07:49:45Z",
+    "description": "Kimi K2.8 Preview刚出来 话说怎么版本号还回去了，，为啥不出 K3-flash 啊！！！",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "macOS 27 正式版出来了，有从 1",
+    "url": "https://versun.me/blog/tweet-2098311082603590039",
+    "date": "2026-09-11T07:22:01Z",
+    "description": "macOS 27 正式版出来了，有从 15 升上来的吗 我有点憋不住了。。。",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "摘：《说灵魂》",
+    "url": "https://z.arlmy.me/posts/Note/Note_ChengBaoYi_ShuoLingHun/",
+    "date": "2026-09-11T05:18:46Z",
+    "description": "「一朵鸢尾花，万物合理。」",
+    "source_root_domain": "arlmy.me"
+  },
+  {
+    "title": "摘：《熟食动物》",
+    "url": "https://z.arlmy.me/posts/Note/Note_RichardWrangham_CatchingFire/",
+    "date": "2026-09-11T05:16:46Z",
+    "description": "「黑暗时代。」",
+    "source_root_domain": "arlmy.me"
+  },
+  {
+    "title": "2002，宿舍里的网线",
+    "url": "https://www.tortorse.com/archives/dorm-room-ethernet-2002/",
+    "date": "2026-09-11T05:13:22Z",
+    "description": "夏夜里，学生坐三蹦子去校外网吧",
+    "source_root_domain": "tortorse.com"
+  },
+  {
+    "title": "中年翻种子",
+    "url": "https://www.hecaitou.com/2026/09/dormant-seeds-midlife.html",
+    "date": "2026-09-11T03:10:16Z",
+    "description": "有读者问我：「叔，你到了这个年纪还会有焦虑和烦心事吗？」 首先，这个问题就很讨打，如果不是问我，如果不是问现在刚好德艺双馨的我，多半会遭到白眼：什么年纪？什么叫「到了这个年纪」？那你觉得我是有多老？ 大家应该都能理解这种心态，绝大多数人都厌恶衰老，热爱青春，因为我们都是生命。所以，面对衰老这种问题，面对自己青春不再的现状，人就会觉得不安，就要想逃避。于是，就会把对于衰老的恐惧用力压在心底，埋上很多土，再搬来很多石板镇上。 这种恐惧不能浮出心头，暂时被压制，被回避，被遮掩，被刻意遗忘，就会慢慢收缩，变成一颗很小的种子，在内心之底静静休眠。 如果你能接受这种说法，那么，你可以思考一下：一个人是不是只有恐惧衰老这一种负面的情绪？肯定不止。每个人都有很多恐惧，很多焦虑，很多悲伤，也有很多长期不得释放的欲望。它们都受到了类似的处理，变成一颗颗休眠的种子，沉入心底，在那里形成一个种子池。在种子池之上，则是每个人倒的土，压的石板，上的铁锁，贴的封印。 接下来我又要问两个问题。第一，青年人和中年人比较，谁种子池里的种子更多？答案是中年人，因为中年人没有年轻人那么多的希望和明天，但是却有很多责任和负累，",
+    "source_root_domain": "hecaitou.com"
+  },
+  {
+    "title": "用美国 LLC 公司主体申请 Apple Developer",
+    "url": "https://rokcso.com/p/apply-apple-developer-with-us-llc/",
+    "date": "2026-09-11T02:00:00Z",
+    "description": "本文记录我使用美国 LLC 公司主体申请 Apple Developer Company / Organization 账号的过程，主要包括注册美区 Apple ID、查询 D-U-N-S Number，以及提交公司信息等待审核。 Apple 的页面和审核要求可能会调整，文中使用的地址、手机号和具体流程仅代表本次申请经验，不构成 Apple 的官方流程说明。 提前准备 开始申请前，建议准备好以下资料： 一家已经注册完成的美国 LLC 公司； 公司官网； 使用公司官网域名的企业邮箱； 公司注册信息和法定名称； 公司可以正常接听电话的联系电话； 公司对应的 D-U-N-S Number（邓白氏码）。 如果还没有美国 LLC 公司，可以先参考 美国怀俄明州 LLC 公司注册 这篇文章。 注册美区 Apple ID Apple Developer 是建立在 Apple ID 之上的开发者身份。为了让申请资料更加独立、规范，我重新使用企业邮箱注册了一个美区 Apple ID。 打开 https://account.apple.com ，点击右上角的「Create Your Apple Accou",
+    "source_root_domain": "rokcso.com"
+  },
+  {
+    "title": "从昨天开始用ds-v4.1-flash，",
+    "url": "https://versun.me/blog/tweet-2098229959743664628",
+    "date": "2026-09-11T01:59:40Z",
+    "description": "从昨天开始用ds-v4.1-flash，文字能力感觉退步些，但编程能力和 agent 能力确实提升很多 目前感受 Kimi K3 > Gemini 3.8 flash >= DS v4.1 flash Gemini 3.8 flash 的文字能力依旧顶级",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "只要结果，拒绝理由",
+    "url": "https://mobius.blog/25700.html",
+    "date": "2026-09-11T01:48:45Z",
+    "description": "据说9月7日，泰国军方带领媒体及东盟观察团进入柬泰边境奥斯玛的一处大型诈骗园区，在园区办公室的一处墙上，用中文 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。",
+    "source_root_domain": "onojyun.com"
+  },
+  {
+    "title": "最近惦念 20260831",
+    "url": "https://z.arlmy.me/posts/TILs/thoughts/20260831_Recently/",
+    "date": "2026-09-11T01:38:27Z",
+    "description": "「要主动排出废物，做麦克斯韦妖。」",
+    "source_root_domain": "arlmy.me"
+  },
+  {
+    "title": "2026 纸书单",
+    "url": "https://z.arlmy.me/posts/YearlyBooks/BookList_2026/",
+    "date": "2026-09-11T01:34:00Z",
+    "description": "「买的书和借阅的书」",
+    "source_root_domain": "arlmy.me"
+  },
+  {
+    "title": "科技爱好者周刊（第 412 期）：禁止 issue，只用 PR",
+    "url": "http://www.ruanyifeng.com/blog/2026/09/weekly-issue-412.html",
+    "date": "2026-09-11T00:11:50Z",
+    "description": "这里记录每周值得分享的科技内容，周五发布。 本杂志 开源 ，欢迎 投稿 。另有 《谁在招人》 服务，发布程序员招聘信息。合作请 邮件联系 （yifeng.ruan@gmail.com）。 封面 上海前滩太古里举办的\"英雄联盟15周年\"展览。（ via ） 禁止 issue，只用 PR 上周，PHP 框架 Laravel 宣布了 一个新规定 ：禁止提交 issue，只能提交 Pull Request。 乍一看，这个规定太荒谬了。用户不能提交 issue，怎么报告问题呢？难道你要每个人都读懂源码，自己动手解决问题！ 但是仔细想想，你会发现这个措施 很合理 ，甚至值得推广。 （1）没有了垃圾 issue。 如果一个用户愿意花时间创建 PR，说明他对这个问题更上心。那些机器人和骚扰者，只会提交垃圾 issue，根本不愿意多花时间为项目做贡献。 （2）对维护者更方便。 项目维护者从 PR 里面得到的信息，远远多于 issue，更利于理解和解决问题，投入的时间也更少。 （3）没有增加用户的提交难度。 用户即使不懂源码，也能提交 PR。 他可以向 AI 描述问题，让 AI 生成 PR。在 AI 时代",
+    "source_root_domain": "feedburner.com"
+  },
+  {
+    "title": "腾讯WorkBuddy海外版来啦,注册畅玩gpt-6-Astra,deepseek-4.1-flash限时免费",
+    "url": "https://programnotes.cn/ai-workbuddy/index.html",
+    "date": "2026-09-11T00:00:00Z",
+    "description": "腾讯WorkBuddy,海外版来啦,邀请好友注册立得350积分。",
+    "source_root_domain": "programnotes.cn"
+  }
+]
