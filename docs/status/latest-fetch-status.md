@@ -1,7 +1,7 @@
 ---
 title: Latest Fetch Status
-created: 2026-09-13T03:09:22Z
-modified: 2026-09-13T03:09:22Z
+created: 2026-09-13T08:54:00Z
+modified: 2026-09-13T08:54:00Z
 description: Latest source-level fetch result for the most recent execution.
 tags:
   - ai-notes
@@ -11,7 +11,7 @@ tags:
 
 # Latest Fetch Status
 
-Generated at: 2026-09-13T03:09:22Z
+Generated at: 2026-09-13T08:54:00Z
 
 Total sources: 485
 Successful: 361
@@ -129,7 +129,7 @@ Failed: 124
 | Failed | [#533] V2EX › Think Note | [https://blog.wo0ow.com/rss.xml](https://blog.wo0ow.com/rss.xml) | [Origin](https://www.v2ex.com/xna/s/533) | 0 | [Errno -2] Name or service not known |
 | Failed | [#537] V2EX › JiaoYuan's Blog | [https://jiaoyuan.org/index.xml](https://jiaoyuan.org/index.xml) | [Origin](https://www.v2ex.com/xna/s/537) | 0 | Client error '404 Not Found' for url 'https://jiaoyuan.org/index.xml' For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404 |
 | Failed | [#540] V2EX › Cytrogen | [https://cytrogen.icu/atom.xml](https://cytrogen.icu/atom.xml) | [Origin](https://www.v2ex.com/xna/s/540) | 0 | Client error '404 Not Found' for url 'https://cytrogen.icu/atom.xml' For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404 |
-| Failed | [#544] V2EX › mxd's Blog | [https://blog.mxdyeah.com/feed/](https://blog.mxdyeah.com/feed/) | [Origin](https://www.v2ex.com/xna/s/544) | 0 | Client error '403 Forbidden' for url 'https://blog.mxdyeah.com/feed/' For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403 |
+| Failed | [#544] V2EX › mxd's Blog | [https://blog.mxdyeah.com/feed/](https://blog.mxdyeah.com/feed/) | [Origin](https://www.v2ex.com/xna/s/544) | 0 | [Errno -5] No address associated with hostname |
 | Failed | [#546] V2EX › Knowckx | [https://blog.knowckx.top/rss.xml](https://blog.knowckx.top/rss.xml) | [Origin](https://www.v2ex.com/xna/s/546) | 0 | feed parse error |
 | Failed | [#551] V2EX › CosmoLau 的个人博客 | [https://blog.cosmolau.top/rss.xml](https://blog.cosmolau.top/rss.xml) | [Origin](https://www.v2ex.com/xna/s/551) | 0 | Client error '403 Forbidden' for url 'https://blog.cosmolau.top/rss.xml' For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403 |
 | Failed | [#552] V2EX › get2.top | [https://get2.top/feed.xml](https://get2.top/feed.xml) | [Origin](https://www.v2ex.com/xna/s/552) | 0 | Client error '403 Forbidden' for url 'https://get2.top/feed.xml' For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403 |
@@ -386,7 +386,7 @@ Failed: 124
 | Success | [#443] V2EX › Rokcso's Blog | [https://rokcso.com/index.xml](https://rokcso.com/index.xml) | [Origin](https://www.v2ex.com/xna/s/443) | 10 | - |
 | Success | [#444] V2EX › 我与我周旋久 | [https://write.laily.net/zh-cn/index.xml](https://write.laily.net/zh-cn/index.xml) | [Origin](https://www.v2ex.com/xna/s/444) | 20 | - |
 | Success | [#445] V2EX › Lumos's Blog | [https://lomus.cc/feed](https://lomus.cc/feed) | [Origin](https://www.v2ex.com/xna/s/445) | 10 | - |
-| Success | [#447] V2EX › 神仙鱼不吃鱼鱼 | [https://blog.sakoamc.com/atom.xml](https://blog.sakoamc.com/atom.xml) | [Origin](https://www.v2ex.com/xna/s/447) | 111 | - |
+| Success | [#447] V2EX › 神仙鱼不吃鱼鱼 | [https://blog.sakoamc.com/atom.xml](https://blog.sakoamc.com/atom.xml) | [Origin](https://www.v2ex.com/xna/s/447) | 112 | - |
 | Success | [#449] V2EX › Bluepikachu | [https://bluepika.life/rss.xml](https://bluepika.life/rss.xml) | [Origin](https://www.v2ex.com/xna/s/449) | 117 | - |
 | Success | [#44] V2EX › 天地一沙鸥 | [https://haoluobo.com/feed/](https://haoluobo.com/feed/) | [Origin](https://www.v2ex.com/xna/s/44) | 10 | - |
 | Success | [#450] V2EX › 醒石 | [https://leonscave.com/index.xml](https://leonscave.com/index.xml) | [Origin](https://www.v2ex.com/xna/s/450) | 20 | - |

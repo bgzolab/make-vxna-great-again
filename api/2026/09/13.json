@@ -1,10 +1,45 @@
 [
   {
+    "title": "如何优雅地更新 MACOS 系统上的软件",
+    "url": "http://yi.gs/post/duo_updater",
+    "date": "2026-09-13T06:24:17Z",
+    "description": "上一次更新正好是一年前，所以更新一下。 既然是为了更新而更新，就来写写如何更新吧 ；） TL;DR：直接看 「更优雅地更新软件」 小节。 关于 macOS 上的软件安装 与 iOS 正常情况下只能通过 App Store 安装 APP 不同，macOS 有类似 Windows 的自由度来安装和使用第三方软件。 在「设置」-「隐私与安全性」-「安全性」-「允许以下来源的应用程序」中开启「App Store 与已知开发者」后，无论是通过 Homebrew 还是软件官网下载，只要第三方软件满足以下两点即可直接使用： 有效代码签名（Developer ID 证书签名） 开发者加入 99 刀/年的 Apple Developer Program 来获取 Developer ID 证书。 苹果公证（Notarization） 开发者把签好名的 App 上传到 Apple Notary Service，苹果自动扫描通过后打上公证凭证。 关于在 macOS 上更新软件 安装后，对于新版强迫症患者最大的问题是 macOS 上的更新途径非常分散且不够优雅： 使用 App Store 更新 App Stor",
+    "source_root_domain": "yi.gs"
+  },
+  {
+    "title": "Toots 436 2026 Sep.6 - Sep.12",
+    "url": "https://z.arlmy.me/posts/MastodonArchives/2026/MastodonTootsArchives_202609012/",
+    "date": "2026-09-13T04:22:27Z",
+    "description": "「去县城！」",
+    "source_root_domain": "arlmy.me"
+  },
+  {
+    "title": "抢 iPhone 的早上",
+    "url": "https://www.hecaitou.com/2026/09/iPhone-Launch-Morning.html",
+    "date": "2026-09-13T03:52:56Z",
+    "description": "今天早上起来，打开手机，发现满屏幕都是抢 iPhone 18 的动态，我才意识到今天是新款 iPhone 发售日。 以前不是这样的，我也曾经是早起抢购的人之一。从 Apple Store 突然进入维护状态开始，就已经进入了期待状态。一旦下订成功，在网上晒订单这种事情我也干过，以至于后来看到有段子说「冷知识：不在朋友圈晒 iPhone 订单，苹果也会发货的」时，也感觉到面皮有些发烧。 不知道从什么时候开始，这种冲动连同憧憬一并消失了。中间我也曾经反思过多次，但是每次我觉得新款 iPhone 没什么太大进步，也没有什么让人振奋的新功能时，总能在网上看到新的教程，教我如何发现苹果在「看不见处」的巨大提升和全新创造。类似的事情经历得多了，受教育次数多了，虽然我也算是一名「果粉」，也忍不住升起了忤逆的心。 教育对我失效了。 还有另外一种说法，设计上蛮巧妙的。如果你觉得没看出什么好来，那么就约等于你批评 iPhone。而你批评 iPhone，那就可以直接等于你穷，你买不起所以你妒忌，你酸葡萄症发作，忍不住就要说酸话。这种说法很成功，甚至还发展出一条定律：每次新 iPhone 上市就会有一轮酸言酸语",
+    "source_root_domain": "hecaitou.com"
+  },
+  {
     "title": "当社会时钟也存在手表定律",
     "url": "https://mobius.blog/25706.html",
     "date": "2026-09-13T01:30:00Z",
     "description": "这周的邮件订阅文章，打算聊一个非 Newsletter 的话题： 人生有不同的选择，但如何确保自己选择的就是“ […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。",
     "source_root_domain": "onojyun.com"
+  },
+  {
+    "title": "喜欢吃的几家餐厅都陆续关店了",
+    "url": "https://www.ozexplorers.com/%E6%BE%B3%E6%B4%B2%E7%94%9F%E6%B4%BB/2026/09/13/my-favorite-restaurants-keep-closing-down.html",
+    "date": "2026-09-13T00:00:00Z",
+    "description": "我已经分不清澳洲经济到底是好是坏了。",
+    "source_root_domain": "ozexplorers.com"
+  },
+  {
+    "title": "2026年第36、37周：匆匆沪上与常州小憩",
+    "url": "https://blog.sakoamc.com/posts/263637/",
+    "date": "2026-09-13T00:00:00Z",
+    "description": "题记：不紧不慢，感受时间的极小间隙。常州教我如何不想她，意思是想常州呢，还是让人乐不思蜀呢？",
+    "source_root_domain": "sakoamc.com"
   },
   {
     "title": "Memos #2026-09-12",
@@ -82,6 +117,13 @@
     "date": "2026-09-12T01:31:50Z",
     "description": "终于有人核实 openrouter 的这个问题了 之前我在查看模型提供商时，就发现有些提供商提供的是量化版本 那么这就导致你可能在处理一个问题时，可能会同时用到不同的量化降智版本，因为 openrouter 的自动 Fallback 功能 不过在7月分添加了新的 quantizations 参数，可以解决这个问题，比如 Kimi K3，别看提供商有 19 个，但提供 bf16 bit 的只有 1 家，水分很大的 各位生产环境有用 openrouter 的，注意下 https://mmoustafa.com/blog/so-you-want-to-use-openrouter/",
     "source_root_domain": "versun.me"
+  },
+  {
+    "title": "记陈昊然讲的一段话",
+    "url": "https://z.arlmy.me/posts/Note/Note_ChenHaoRan_AStory/",
+    "date": "2026-09-12T01:00:46Z",
+    "description": "「关于母语和生活。」",
+    "source_root_domain": "arlmy.me"
   },
   {
     "title": "记刘昊然讲的一段话",
