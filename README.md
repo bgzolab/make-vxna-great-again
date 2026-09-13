@@ -27,10 +27,12 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-09-13 | [第一个人](https://www.geedea.pro/library/2026/le-premier-home/) | 加缪于 1960 年 1 月 4 日 13 点 54 分死于车祸，享年四十六岁，人们在他的皮包里发现了这篇手稿，经由他女儿卡特琳·加缪转录为打字稿之后以《第一个人》的名字出版。这篇小说没有完成，书中可见数处加缪的笔记和脚注，括号里还写着「这段要移到前面去」「描写一下房间？」之类的话，还有一些字看不清… |
 | 2026-09-13 | [如何优雅地更新 MACOS 系统上的软件](http://yi.gs/post/duo_updater) | 上一次更新正好是一年前，所以更新一下。 既然是为了更新而更新，就来写写如何更新吧 ；） TL;DR：直接看 「更优雅地更新软件」 小节。 关于 macOS 上的软件安装 与 iOS 正常情况下只能通过 App Store 安装 APP 不同，macOS 有类似 Windows 的自由度来安装和使用第… |
 | 2026-09-13 | [Toots 436 2026 Sep.6 - Sep.12](https://z.arlmy.me/posts/MastodonArchives/2026/MastodonTootsArchives_202609012/) | 「去县城！」 |
 | 2026-09-13 | [抢 iPhone 的早上](https://www.hecaitou.com/2026/09/iPhone-Launch-Morning.html) | 今天早上起来，打开手机，发现满屏幕都是抢 iPhone 18 的动态，我才意识到今天是新款 iPhone 发售日。 以前不是这样的，我也曾经是早起抢购的人之一。从 Apple Store 突然进入维护状态开始，就已经进入了期待状态。一旦下订成功，在网上晒订单这种事情我也干过，以至于后来看到有段子说「… |
 | 2026-09-13 | [当社会时钟也存在手表定律](https://mobius.blog/25706.html) | 这周的邮件订阅文章，打算聊一个非 Newsletter 的话题： 人生有不同的选择，但如何确保自己选择的就是“ […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
+| 2026-09-13 | [别再四处求邀请码了，这个网站把65条优惠码的验证日期和成功率都摊开了](https://www.gugegt.com/mashanghuigou-promocodego.html) | 上周，朋友把我拉进一个"邀请码互换"的群。三百多号人，消息刷得飞快，有人求币安的返佣码，有人找海外银行的推荐链接，还有人问哪个 AI 工具的邀请还能白拿积分。 我翻了十分钟，发现一件事。好用的码，没人愿意白给。随手贴出来的那些，点进去十有八九提示已失效。 麻烦出在码的信息上。有没有过期、绑没绑地区、… |
 | 2026-09-13 | [喜欢吃的几家餐厅都陆续关店了](https://www.ozexplorers.com/%E6%BE%B3%E6%B4%B2%E7%94%9F%E6%B4%BB/2026/09/13/my-favorite-restaurants-keep-closing-down.html) | 我已经分不清澳洲经济到底是好是坏了。 |
 | 2026-09-13 | [2026年第36、37周：匆匆沪上与常州小憩](https://blog.sakoamc.com/posts/263637/) | 题记：不紧不慢，感受时间的极小间隙。常州教我如何不想她，意思是想常州呢，还是让人乐不思蜀呢？ |
 | 2026-09-13 | [Memos #2026-09-12](https://www.taober.blog/memos/memo_20260912090221_tnbpv4) | 17:02 嘿嘿，再无借口！ |
