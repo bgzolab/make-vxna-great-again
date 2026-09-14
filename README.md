@@ -28,8 +28,13 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | Date | Title | Summary |
 | --- | --- | --- |
 | 2026-09-14 | [Intel i225 / i226-V 固件升级指南](https://jetyu.me/post/intel-i225-i226-firmware-update-guide.html) | 记录 Intel i225 / i226-V 网卡断流问题的排查过程，以及通过 EEUPDATE 工具查看和升级 NVM 固件的方法。 |
+| 2026-09-14 | [黑洞与致密天体](https://physnya.top/compact-object/) | README 这里是 的「黑洞与致密天体」笔记. 本课程偏向比较简单的相关理论介绍. 但是鉴于选课的同学们基本上都对相关领域比较了解，因此也有很多理论推导的部分. |
+| 2026-09-14 | [Star Wars: TIE Fighter updated](https://macsourceports.com/game/swtiefighter) | The build of OpenTIE for Star Wars: TIE Fighter has been updated to version v0.0.6 of the project |
+| 2026-09-14 | [Quetoo updated](https://macsourceports.com/game/quetoo) | The build of Quetoo has been updated to version v1.0.94 of the project |
+| 2026-09-14 | [腾讯云开源了个 AI 助手：Octop，装自己电脑上，全家一起用](https://gugegt.com/20260915-octop-tencent-ai-assistant.html) | 你电脑里大概装了不止一个 AI 应用。聊天记录、上传的文件、跟客户谈的方案，都在别人的服务器上。 腾讯云在 GitHub 上开源了一个叫 Octop 的项目。MIT 协议，Python 写的，版本 0.9.33。它想把这些搬回你自己的电脑。 |
+| 2026-09-14 | [深圳-拉萨自驾-计划版](https://elmagnifico.tech/2026/09/15/shenzhen-lasa-plan/) | Foreword 今年中秋和国庆中间卡了三天班，直接请假从 9 月 25 号连到 10 月 7 号，一共 13 天。想去拉萨，也想过这时间其实拿去大理附近逛更合适，去程还能顺路把桂林、阳朔过了。先计划几版出来比较一下：托车到成都再开 318，车直接托到拉萨，深圳经桂林开去大理再开回来，或者深圳一路开… |
 | 2026-09-14 | [我写的代码不超过50%](https://blog.thetbw.xyz/archives/my-code-less-than-50-precent) | 刚才在洗澡的时候，想到今天踩了 AI 埋下的大坑，又想起了之前的种种，发现，其实作为一个程序员，我一直没有写多少的代码。 这个问题还要结合前段时间的面试一起来说，最近的程序员面试，仿佛面试官都会不约而同的问同样几句话： “你对 AI 怎么看？” “你平时用 AI 多吗？” “你有多少代码是用 AI… |
-| 2026-09-14 | [R#119](https://blog.sakanano.moe/journals/random_119) | 2026.9.8 ~ 2026.9.14 |
+| 2026-09-14 | [R#119 经验的惯性](https://blog.sakanano.moe/journals/random_119) | 2026.9.8 ~ 2026.9.14 |
 | 2026-09-14 | [UNSW Katana使用记录](https://mocusez.site/zh-CN/posts/d355) | UNSW Katana HPC使用 |
 | 2026-09-14 | [可怖的沉默](https://www.geedea.pro/article/silence/) | 一年前有位泛泛之交随口说过一句话，我现在都还记得：“没有声音很恐怖。”人独处的时候似乎总要放点东西当背景音，听着音乐或者电视的声音，貌似不会那么空洞。其实与人共处时也一样，哪怕是上班前在电梯里相见，似乎也要想办法填补沉默，都不说话的话会很尴尬。 另一种让人不安的沉默是没有回应，讲笑话、分享故事或任何… |
 | 2026-09-14 | [Fitbit Air: 近期最喜欢的数码产品](https://anotherdayu.com/fitbit-air/) | 引 过去一直是 Apple Watch 的忠实用户，听说过 Whoop，但我总觉得它只是无屏幕版的 Apple Watch，很酷，也很贵，没必要再买一款功能相近的产品。小米手环比它划算多了，设计的跟老款无屏小米手环差不多呀。 但用了一个多月，Fitbit Air 真的远超我的预期，跟 Apple W… |
@@ -131,7 +136,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-09-09 | [UZDoom updated](https://macsourceports.com/sourceport/uzdoom) | The build of UZDoom for the DOOM engine series of games has been updated to version 5.0.1 of the project\n\nhttps://macsourceports.com/sourceport/uzdo… |
 | 2026-09-09 | [帮助Marvis马维斯逃离腾讯魔爪](https://www.cheshirex.com/11102.html) | Marvis马维斯是腾讯的一个免费AI助手，它运行在腾讯云服务器上。用户下载安装登陆Marvis马维斯后会给你 […] |
 | 2026-09-09 | [RollerCoaster Tycoon 2 updated](https://macsourceports.com/game/rct2) | The build of OpenRCT2 for RollerCoaster Tycoon 2 has been updated to version v0.5.5 of the project |
-| 2026-09-09 | [Quetoo updated](https://macsourceports.com/game/quetoo) | The build of Quetoo has been updated to version v1.0.89 of the project |
 | 2026-09-09 | [我突然发现，很多领域好像已经很久没有真正](https://versun.me/blog/tweet-2097498081260716290) | 我突然发现，很多领域好像已经很久没有真正的创新了。 现在的小孩，听着我们当年的老歌，看着我们小时候的动画片，很少自己琢磨游戏玩了。以前没钱买玩具，捡根树枝能开发出十几种玩法，能玩上好几十天；现在的小孩只会买玩具。 编程领域也是。进入 AI 时代后，我印象里最后一个冒出来的新语言，还是那个号称要替代… |
 | 2026-09-09 | [死猫为大](https://mobius.blog/25692.html) | 之前常来小区喂猫的“爱猫阿姨”，因想毒死野狗却毒死了小区流浪猫——这件事最终还是在这群定期来小区喂猫的“爱猫阿 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-09-08 | [AI 写下的那把 Redis 锁](https://depp.wang/2026/ai-redis-lock/) | 配套代码： transaction-lock-demo 。文中的代码位置都可以直接跳转到 GitHub 查看。 一个具体的技术问题 最近看 AI 写的一段后台代码时，我遇到一个具体、也很容易被忽略的技术问题。 代码里有这样一行： HjEventDtos.CreateResult result = l… |

@@ -7,6 +7,41 @@
     "source_root_domain": "jetyu.me"
   },
   {
+    "title": "黑洞与致密天体",
+    "url": "https://physnya.top/compact-object/",
+    "date": "2026-09-14T18:19:21Z",
+    "description": "README 这里是 的「黑洞与致密天体」笔记. 本课程偏向比较简单的相关理论介绍. 但是鉴于选课的同学们基本上都对相关领域比较了解，因此也有很多理论推导的部分.",
+    "source_root_domain": "physnya.top"
+  },
+  {
+    "title": "Star Wars: TIE Fighter updated",
+    "url": "https://macsourceports.com/game/swtiefighter",
+    "date": "2026-09-14T16:32:06Z",
+    "description": "The build of OpenTIE for Star Wars: TIE Fighter has been updated to version v0.0.6 of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "Quetoo updated",
+    "url": "https://macsourceports.com/game/quetoo",
+    "date": "2026-09-14T16:30:58Z",
+    "description": "The build of Quetoo has been updated to version v1.0.94 of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "腾讯云开源了个 AI 助手：Octop，装自己电脑上，全家一起用",
+    "url": "https://gugegt.com/20260915-octop-tencent-ai-assistant.html",
+    "date": "2026-09-14T16:30:00Z",
+    "description": "你电脑里大概装了不止一个 AI 应用。聊天记录、上传的文件、跟客户谈的方案，都在别人的服务器上。 腾讯云在 GitHub 上开源了一个叫 Octop 的项目。MIT 协议，Python 写的，版本 0.9.33。它想把这些搬回你自己的电脑。",
+    "source_root_domain": "gugegt.com"
+  },
+  {
+    "title": "深圳-拉萨自驾-计划版",
+    "url": "https://elmagnifico.tech/2026/09/15/shenzhen-lasa-plan/",
+    "date": "2026-09-14T16:00:00Z",
+    "description": "Foreword 今年中秋和国庆中间卡了三天班，直接请假从 9 月 25 号连到 10 月 7 号，一共 13 天。想去拉萨，也想过这时间其实拿去大理附近逛更合适，去程还能顺路把桂林、阳朔过了。先计划几版出来比较一下：托车到成都再开 318，车直接托到拉萨，深圳经桂林开去大理再开回来，或者深圳一路开到拉萨。 假期是 9 月 25 号走，10 月 7 号得能回到深圳。 拖车成都去拉萨 拖车成都1700，拉萨拖回3000，返程直接拉萨飞深圳，不过已经没有直达了，全是中转，打算六号就返回，七号还能休息一下。 拖到成都要5天，拉萨拖回可能久一些 去程（计划） D1 9/25 飞成都取车。车到了、人还不晕，可以开到雅安（约 600 米）或泸定（约 1300 米） D2 9/26 成都到康定 ：大约 320 公里。现在走雅康高速，不走老二郎山那条土路。康定约 2500 米。山路从泸定附近开始，施工段灰大、路窄。 D3 9/27 康定到理塘 ：大约 280 公里，折多山垭口约 4300 米、新都桥约 3500 米，理塘住约 4000 米。海拔一天就抬升起来了。折多山是连续急弯爬升，柏油路，垭口有观景",
+    "source_root_domain": "elmagnifico.tech"
+  },
+  {
     "title": "我写的代码不超过50%",
     "url": "https://blog.thetbw.xyz/archives/my-code-less-than-50-precent",
     "date": "2026-09-14T15:30:02Z",
@@ -14,7 +49,7 @@
     "source_root_domain": "thetbw.xyz"
   },
   {
-    "title": "R#119",
+    "title": "R#119 经验的惯性",
     "url": "https://blog.sakanano.moe/journals/random_119",
     "date": "2026-09-14T14:30:00Z",
     "description": "2026.9.8 ~ 2026.9.14",
