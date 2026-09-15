@@ -1,5 +1,47 @@
 [
   {
+    "title": "入蜀记 day477 街头美食斗士、宜家、手机掉进地铁门缝",
+    "url": "https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_477/",
+    "date": "2026-09-15T16:01:27Z",
+    "description": "「街头美食斗士、宜家、手机掉进地铁门缝。」",
+    "source_root_domain": "arlmy.me"
+  },
+  {
+    "title": "入蜀记 day476 框剪结构、逼单、商业模式",
+    "url": "https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_476/",
+    "date": "2026-09-15T15:59:27Z",
+    "description": "「框剪结构、逼单、商业模式。」",
+    "source_root_domain": "arlmy.me"
+  },
+  {
+    "title": "入蜀记 day475 监理",
+    "url": "https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_475/",
+    "date": "2026-09-15T15:57:27Z",
+    "description": "「监理。」",
+    "source_root_domain": "arlmy.me"
+  },
+  {
+    "title": "入蜀记 day474 蛮族人、迷住、生态位",
+    "url": "https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_474/",
+    "date": "2026-09-15T15:48:27Z",
+    "description": "「蛮族人、迷住、生态位。」",
+    "source_root_domain": "arlmy.me"
+  },
+  {
+    "title": "敬畏之心",
+    "url": "https://blog.solazy.me/20260915/",
+    "date": "2026-09-15T15:00:00Z",
+    "description": "今天和几个朋友吃饭，说到敬畏之心这个话题……",
+    "source_root_domain": "solazy.me"
+  },
+  {
+    "title": "Coffee Break Clojure, Vol.0",
+    "url": "https://www.geedea.pro/article/tutorial-clj-0/",
+    "date": "2026-09-15T14:58:43Z",
+    "description": "如果有人问我最喜欢的编程语言是什么，我可能会在 Clojure 和 Go 之间纠结一番，但无疑我更 享受 手写 Clojure 的体验。可就像大部分 Lisp 一样，Clojure 的讨论度并不高，中文内容更是少得可怜。所以我为什么不能贡献一些内容呢？ 我前段时间听过一档名为《Coffee Break French》的播客，内容是可以在午休时喝着咖啡听完的法语对话。学习一门编程语言怎么不可以这样轻松呢？我最近也有在帮忙翻译《 A Scheme Primer 》，这篇教程的语言相当通俗。受其启发，再加上我一直想要练习节制地写作，而不是滔滔不绝地写上好几千字，所以我决定开启新的博客系列：《Coffee Break Clojure》。 希望我不会事无巨细、毫无保留地把某个概念讲得十分彻底，最后写成令人望而生畏的长文。我也会更多关注「为什么」而非只是「是什么」，尽力让读者理解某个东西为什么要存在于这门语言里，为什么要这么写。此外，这篇教程是写给有编程基础的人读的，读者至少要熟悉一门编程语言才能继续。 Show Me The Code! 我在了解一门编程语言之前，总想要先有些视觉印象，所以会找些",
+    "source_root_domain": "geedea.pro"
+  },
+  {
     "title": "非京籍个体户缴纳社保(补充)：Web 端员工工资薪金个税预扣预缴",
     "url": "https://blog.yasking.org/a/self-employed-append-two",
     "date": "2026-09-15T13:00:00Z",
@@ -12,6 +54,13 @@
     "date": "2026-09-15T12:47:23Z",
     "description": "UNSW Katana HPC使用",
     "source_root_domain": "mocusez.site"
+  },
+  {
+    "title": "来信 · 莫良",
+    "url": "https://www.gtdstudy.com/guestbook/87f68869-3498-4076-94c5-d8537125e557/",
+    "date": "2026-09-15T12:04:59Z",
+    "description": "",
+    "source_root_domain": "gtdstudy.com"
   },
   {
     "title": "GifPlay：Mac原生Gif录制和编辑工具，装机必备【效率工具指南】",
@@ -196,6 +245,13 @@
     "source_root_domain": "anotherdayu.com"
   },
   {
+    "title": "普洱采菌：三筐菌子，敢下锅的没几样",
+    "url": "https://macin.org/2026/09/14/pu-er-cai-jun-zi/",
+    "date": "2026-09-14T09:52:54Z",
+    "description": "阅读全文 → 上一篇还在西双版纳—— 曼丢古寺的贝叶经 、 勐仑植物园的龙脑香小苗 都看过了；这一篇，车已经开进了 普洱 的山里。",
+    "source_root_domain": "macin.org"
+  },
+  {
     "title": "Jenkins 备份与恢复（K8s 部署 + NFS 存储）",
     "url": "https://199604.com/3708",
     "date": "2026-09-14T07:04:17Z",
@@ -271,6 +327,13 @@
     "date": "2026-09-14T00:04:40Z",
     "description": "hermes agent 这几天有一个大 bug，如果你同时使用 tui/cli 和 desktop，则会出现 state.db 冲突写入问题，目前有好几个 issue 和 PR 了 目前的解决方法就是，会话一定要完全退出解锁数据库，比如 tui/cli 要通过 quit 命令退出，desktop 不用了也要完全退出",
     "source_root_domain": "versun.me"
+  },
+  {
+    "title": "智元灵犀X2机器人二开02:端侧环境与第一个 AIMDK 程序",
+    "url": "https://programnotes.cn/agibot-develop-2/index.html",
+    "date": "2026-09-14T00:00:00Z",
+    "description": "本文介绍灵犀X2二次开发的整体架构，包括端侧AIMDK和云端AgentSDK，并给出了需求判断依据和系统全景。",
+    "source_root_domain": "programnotes.cn"
   },
   {
     "title": "辅导作业之《为什么学生不喜欢上学？》",

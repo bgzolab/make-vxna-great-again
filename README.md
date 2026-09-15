@@ -27,8 +27,15 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-09-15 | [入蜀记 day477 街头美食斗士、宜家、手机掉进地铁门缝](https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_477/) | 「街头美食斗士、宜家、手机掉进地铁门缝。」 |
+| 2026-09-15 | [入蜀记 day476 框剪结构、逼单、商业模式](https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_476/) | 「框剪结构、逼单、商业模式。」 |
+| 2026-09-15 | [入蜀记 day475 监理](https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_475/) | 「监理。」 |
+| 2026-09-15 | [入蜀记 day474 蛮族人、迷住、生态位](https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_474/) | 「蛮族人、迷住、生态位。」 |
+| 2026-09-15 | [敬畏之心](https://blog.solazy.me/20260915/) | 今天和几个朋友吃饭，说到敬畏之心这个话题…… |
+| 2026-09-15 | [Coffee Break Clojure, Vol.0](https://www.geedea.pro/article/tutorial-clj-0/) | 如果有人问我最喜欢的编程语言是什么，我可能会在 Clojure 和 Go 之间纠结一番，但无疑我更 享受 手写 Clojure 的体验。可就像大部分 Lisp 一样，Clojure 的讨论度并不高，中文内容更是少得可怜。所以我为什么不能贡献一些内容呢？ 我前段时间听过一档名为《Coffee Brea… |
 | 2026-09-15 | [非京籍个体户缴纳社保(补充)：Web 端员工工资薪金个税预扣预缴](https://blog.yasking.org/a/self-employed-append-two) | 早在几年前，Web 端就支持了单位代扣代缴员工个人所得税，当时参考小红书上的教程，就一直沿用 Windows 客户端的方式缴纳，其 … |
 | 2026-09-15 | [UNSW Katana使用记录](https://mocusez.site/zh-CN/posts/d355) | UNSW Katana HPC使用 |
+| 2026-09-15 | [来信 · 莫良](https://www.gtdstudy.com/guestbook/87f68869-3498-4076-94c5-d8537125e557/) |  |
 | 2026-09-15 | [GifPlay：Mac原生Gif录制和编辑工具，装机必备【效率工具指南】](https://penghh.fun/2026/09/15/2026-9-15-gifplay/) | <script src=" |
 | 2026-09-15 | [动起来，否则你就要费劲思考了](https://www.gtdstudy.com/posts/2026-09-15-pascal/) |  |
 | 2026-09-15 | [Memos: AI 默默的从 ~/.zsh_history 翻到 token 更新了生产环境](https://blog.yasking.org/a/1789461576) | 我表述想更新 Tag Name，过了一会儿它已经把测试、正式环境都更新好了。 过于‘智能’，问题是我从未配置过生产环境的操作流程 … |
@@ -55,6 +62,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-09-14 | [R#119 经验的惯性](https://blog.sakanano.moe/journals/random_119) | 2026.9.8 ~ 2026.9.14 |
 | 2026-09-14 | [可怖的沉默](https://www.geedea.pro/article/silence/) | 一年前有位泛泛之交随口说过一句话，我现在都还记得：“没有声音很恐怖。”人独处的时候似乎总要放点东西当背景音，听着音乐或者电视的声音，貌似不会那么空洞。其实与人共处时也一样，哪怕是上班前在电梯里相见，似乎也要想办法填补沉默，都不说话的话会很尴尬。 另一种让人不安的沉默是没有回应，讲笑话、分享故事或任何… |
 | 2026-09-14 | [Fitbit Air: 近期最喜欢的数码产品](https://anotherdayu.com/fitbit-air/) | 引 过去一直是 Apple Watch 的忠实用户，听说过 Whoop，但我总觉得它只是无屏幕版的 Apple Watch，很酷，也很贵，没必要再买一款功能相近的产品。小米手环比它划算多了，设计的跟老款无屏小米手环差不多呀。 但用了一个多月，Fitbit Air 真的远超我的预期，跟 Apple W… |
+| 2026-09-14 | [普洱采菌：三筐菌子，敢下锅的没几样](https://macin.org/2026/09/14/pu-er-cai-jun-zi/) | 阅读全文 → 上一篇还在西双版纳—— 曼丢古寺的贝叶经 、 勐仑植物园的龙脑香小苗 都看过了；这一篇，车已经开进了 普洱 的山里。 |
 | 2026-09-14 | [Jenkins 备份与恢复（K8s 部署 + NFS 存储）](https://199604.com/3708) | Jenkins 备份与恢复（K8s 部署 + NFS 存储） 记录时间：2026-09-14 环境：K8s d […] |
 | 2026-09-14 | [天体物理](https://physnya.top/astro-physics/) | README 这里是 的「天体物理」笔记. 本课程为四门物理课程中天体物理的 4 学分版本，但是并不是很难. |
 | 2026-09-14 | [Introduction](https://physnya.top/astro-physics/lesson-1/) | 「上下四方曰宇，古往今来曰宙.」人类宇宙观的革新与天文学的发展紧密联系. 天体物理学指的是应用物理学的理论、方法和技术，研究天体的形态、结构和化学组成、物理状态和演化规律的学科. 其研究对象包含太阳、恒星、行星、星系以及宇宙本身. 学习内容： 理论讲授 (48 学时) 第 1 章 天体物理学简介 (… |
@@ -66,6 +74,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-09-14 | [新约经文｜保守内心，远离诡诈，放下算计](https://blog.zzbd.org/miao20260914-2/) | 选文主题：分辨诡诈之人，除去自己心里的筹谋算计，不陷入互相博弈、猜度、盘算的内耗。适合在办公室安静阅读，守住本心，不被周遭的算计裹挟。 |
 | 2026-09-14 | [大脑充血 Vol.98](https://www.geedea.pro/weekly/98/) | 这是一篇小报，不遵循一般的格式，一般不谈严肃内容，甚至可能全是技术内容。不过这篇…… 实际上还挺严肃的。写着写着就变成了对谷歌和各种大公司的嘲讽，不过并不是批评和要求，因为我对他们的道德水准实际上毫无期待。 这篇小报从版权聊到垄断，再谈到版权，希望能让读者对曾经忽视过的问题有些思考，如果你有相关的见… |
 | 2026-09-14 | [hermes agent 这几天有一个大](https://versun.me/blog/tweet-2099288182324129817) | hermes agent 这几天有一个大 bug，如果你同时使用 tui/cli 和 desktop，则会出现 state.db 冲突写入问题，目前有好几个 issue 和 PR 了 目前的解决方法就是，会话一定要完全退出解锁数据库，比如 tui/cli 要通过 quit 命令退出，desktop… |
+| 2026-09-14 | [智元灵犀X2机器人二开02:端侧环境与第一个 AIMDK 程序](https://programnotes.cn/agibot-develop-2/index.html) | 本文介绍灵犀X2二次开发的整体架构，包括端侧AIMDK和云端AgentSDK，并给出了需求判断依据和系统全景。 |
 | 2026-09-14 | [辅导作业之《为什么学生不喜欢上学？》](https://gaoyu.me/blog/33-2026-09-14) | 工作记忆与长期记忆+练习与知识迁移 |
 | 2026-09-13 | [新约经文选读｜稳住心神](https://blog.zzbd.org/miao20260914/) | 说明：节选新约中安慰、止息焦虑、内心得平安的经文，搭配简短平缓的引导，适合工作间隙慢慢读，稳住心绪，安然做完今日余下的工作。 |
 | 2026-09-13 | [Apple Watch Setup](http://www.uncoverman.com/apple-watch-setup.html) | 现在有一只 Apple Watch SE 3 (GPS)，星光色，配的米兰尼斯表带，44 寸手腕大小刚好，主要用于健康追踪。目前戴了 9 个月，分享一下 Apple Watch 的 Setup 。 # 表盘 表盘我选用的是模块化表盘，表盘上有更多菜单入口可以设置，实用。 体能训练：外出跑步、骑行、徒… |
