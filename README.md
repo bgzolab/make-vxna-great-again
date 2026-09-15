@@ -27,15 +27,27 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-09-15 | [非京籍个体户缴纳社保(补充)：Web 端员工工资薪金个税预扣预缴](https://blog.yasking.org/a/self-employed-append-two) | 早在几年前，Web 端就支持了单位代扣代缴员工个人所得税，当时参考小红书上的教程，就一直沿用 Windows 客户端的方式缴纳，其 … |
+| 2026-09-15 | [GifPlay：Mac原生Gif录制和编辑工具，装机必备【效率工具指南】](https://penghh.fun/2026/09/15/2026-9-15-gifplay/) | <script src=" |
+| 2026-09-15 | [骆驼、狮子、孩子、路飞、大笑](https://kaix.in/2026/0915/) | 前几天——或者十几天？俗务繁杂实在有些晕头转向了——偶然看到一段用尼采的精神三变来解读《海贼王》的 视频 ，感觉颇有趣味，不过就像如今的许多事一样，看过也就过去了。 但是这几日突然又感觉心里有些堵，简单说来，我意识到自己已经好久不觉得什么事情值得大笑出声了。如果《海贼王》里路飞那种开怀大笑正是精神三… |
+| 2026-09-15 | [给城里人搞点事情](https://www.hecaitou.com/2026/09/giving-city-folks-something-to-do.html) | 很久以前，我就发现下班之后的八小时很难打发。一方面是因为纠集一班朋友越来越难，有人要加班，有人要恋爱，有人要带孩子，另一方面是因为可以参与的项目极为有限，搞来搞去也就是那几样，而且每一次的体验也不确定。哪怕是你最喜欢的餐厅，也未必能做到每次去都满意。 所以，如何安排都市人口的这八个小时一直就是个问题… |
+| 2026-09-15 | [申请国家电网电费账单做KYC地址证明，4步搞定](https://gugegt.com/state-grid-electricity-bill-kyc-address-proof.html) | 你有没有遇到过这种情况：身份证或者户口本上的地址是A，但你实际住在B。填表的时候写的又是A，结果各种平台做KYC（身份验证）时要求提供地址证明，你手头没有任何带B地址的正式文件。 国家电网的APP能解决这个问题。它能生成一份PDF格式的电费账单，上面印着你的用电地址、户号、账单周期，盖着国网电力公司… |
+| 2026-09-15 | [Zuma updated](https://macsourceports.com/game/zuma) | The build of Zuma Portable for Zuma has been updated to version 0.8 of the project |
 | 2026-09-15 | [先做成一门生意，再谈增长](https://imzl.com/business-growth-methods) | 从互联网医疗、社交电商、建筑 SaaS、公链和 API Token 业务出发，复盘如何验证价值交换、完成冷启动、跑通商业闭环并复制增长。 |
+| 2026-09-15 | [llms.txt 不是 SEO 项目](https://rokcso.com/p/llms-txt-not-seo/) | 今年越来越多网站在根目录放了一份 llms.txt ，但会读它的，仍然很少。它不是新的 SEO 排名信号，更像是给已经找到你的网站 Agent 准备的一张目录。 llms.txt 是一段 Markdown：告诉 Agent 这站是什么、哪些页面值得花时间，它不是 robots.txt ，拦不住谁，也… |
+| 2026-09-15 | [把另一个人拖下水，有助于改善困境吗？I](https://mobius.blog/25721.html) | 前些日子，一个朋友问我今年要不要年年焕新 iPhone Duo，我实在是想不到我会使用折叠屏的场景，加上 18 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-09-14 | [虽然不懂金融，看的有点懵逼， 但我觉得未](https://versun.me/blog/tweet-2099640367096435052) | 苏打白.Dev https://x.com/i/article/2096259071133560832 虽然不懂金融，看的有点懵逼， 但我觉得未来各个行业都会有自己的专用模型， 而目前通用模型应该会拿来做统筹，说不定统筹都会有专用模型😎 |
 | 2026-09-14 | [Intel i225 / i226-V 固件升级指南](https://jetyu.me/post/intel-i225-i226-firmware-update-guide.html) | 记录 Intel i225 / i226-V 网卡断流问题的排查过程，以及通过 EEUPDATE 工具查看和升级 NVM 固件的方法。 |
+| 2026-09-14 | [办公室修身养性｜静守心神，安稳度日](https://blog.zzbd.org/miao20260915/) | 人在职场，最耗损人的从来不是手上的工作，而是纷乱的心。是忍不住的急躁，是看人看事的算计，是对结果的焦虑，是对失误的恐惧，是和他人无形的拉扯，是心里不肯放下的对错与得失。真正的修行，从来不是远离喧嚣，而是身在琐碎繁杂的办公室，依旧能守住内心的安稳，守住自己的节奏，守住干净的心念。 |
+| 2026-09-14 | [新约经文静心选读｜守住心神，安然直到下班](https://blog.zzbd.org/miao20260915-2/) | 前言：节选新约中安抚焦虑、保守心怀意念、教人在繁杂事务中持守平静的经文，搭配简短默想。适合工作间隙默读，抵挡烦躁、猜忌、内心的压力，稳住心绪，安心做完今日余下的工作。 |
 | 2026-09-14 | [黑洞与致密天体](https://physnya.top/compact-object/) | README 这里是 的「黑洞与致密天体」笔记. 本课程偏向比较简单的相关理论介绍. 但是鉴于选课的同学们基本上都对相关领域比较了解，因此也有很多理论推导的部分. |
 | 2026-09-14 | [Star Wars: TIE Fighter updated](https://macsourceports.com/game/swtiefighter) | The build of OpenTIE for Star Wars: TIE Fighter has been updated to version v0.0.6 of the project |
 | 2026-09-14 | [Quetoo updated](https://macsourceports.com/game/quetoo) | The build of Quetoo has been updated to version v1.0.94 of the project |
 | 2026-09-14 | [腾讯云开源了个 AI 助手：Octop，装自己电脑上，全家一起用](https://gugegt.com/20260915-octop-tencent-ai-assistant.html) | 你电脑里大概装了不止一个 AI 应用。聊天记录、上传的文件、跟客户谈的方案，都在别人的服务器上。 腾讯云在 GitHub 上开源了一个叫 Octop 的项目。MIT 协议，Python 写的，版本 0.9.33。它想把这些搬回你自己的电脑。 |
 | 2026-09-14 | [深圳-拉萨自驾-计划版](https://elmagnifico.tech/2026/09/15/shenzhen-lasa-plan/) | Foreword 今年中秋和国庆中间卡了三天班，直接请假从 9 月 25 号连到 10 月 7 号，一共 13 天。想去拉萨，也想过这时间其实拿去大理附近逛更合适，去程还能顺路把桂林、阳朔过了。先计划几版出来比较一下：托车到成都再开 318，车直接托到拉萨，深圳经桂林开去大理再开回来，或者深圳一路开… |
 | 2026-09-14 | [我写的代码不超过50%](https://blog.thetbw.xyz/archives/my-code-less-than-50-precent) | 刚才在洗澡的时候，想到今天踩了 AI 埋下的大坑，又想起了之前的种种，发现，其实作为一个程序员，我一直没有写多少的代码。 这个问题还要结合前段时间的面试一起来说，最近的程序员面试，仿佛面试官都会不约而同的问同样几句话： “你对 AI 怎么看？” “你平时用 AI 多吗？” “你有多少代码是用 AI… |
+| 2026-09-14 | [知乎主动向反贼约稿？](https://springwood.me/invitation-from-zhihu/) | （摘要）我的博客是被墙的，居然收到了来自知乎的约稿邀请。 |
+| 2026-09-14 | [细数一下我所有的离职瞬间](https://blog.solazy.me/20260914/) | 今天水一篇自己的经历 |
 | 2026-09-14 | [R#119 经验的惯性](https://blog.sakanano.moe/journals/random_119) | 2026.9.8 ~ 2026.9.14 |
 | 2026-09-14 | [UNSW Katana使用记录](https://mocusez.site/zh-CN/posts/d355) | UNSW Katana HPC使用 |
 | 2026-09-14 | [可怖的沉默](https://www.geedea.pro/article/silence/) | 一年前有位泛泛之交随口说过一句话，我现在都还记得：“没有声音很恐怖。”人独处的时候似乎总要放点东西当背景音，听着音乐或者电视的声音，貌似不会那么空洞。其实与人共处时也一样，哪怕是上班前在电梯里相见，似乎也要想办法填补沉默，都不说话的话会很尴尬。 另一种让人不安的沉默是没有回应，讲笑话、分享故事或任何… |
@@ -46,9 +58,9 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-09-14 | [2026.9.13](https://www.justzht.com/2026-9-13/) | Epoch 最近的一些进展。加了黑洞，额外的飞船，星门，以及一些有的没的。 刚从 Sea Ranch 开回来。周末和朋友在北边呆了 |
 | 2026-09-14 | [和折叠屏做个了断](https://www.hecaitou.com/2026/09/Done-with-Foldables.html) | 黑板上有道题：手机怎么做折叠屏？ 华为、三星、小米、Vivo、Oppo、Google 都交出了答卷，我没有动心，一直耐心等着，因为考场里还有一名学霸没有交卷，他就是苹果同学。 从他的历次答题情况来看，苹果同学要么直接一把揉了考题，自己新出一道，逼迫同学们回到考场跟着他的思路重考；要么就是用一种全新的… |
 | 2026-09-14 | [ITIN 不是美国信用卡的通行证：办之前你需要知道的事](https://rokcso.com/p/should-you-apply-for-itin/) | 我今年办了一个 ITIN，代办费六七百块，7 月初交资料，9 月初才拿到结果，前后大概两个月，中间只能等。当时想的是，有了这个号就能开始申请美国信用卡。拿到号之后，我回头把那些讲这件事的帖子重读了一遍，然后停在了申请第一张信用卡之前。 后来我才发现，ITIN 解决的是税务识别，而我真正想解决的是美国… |
-| 2026-09-14 | [llms.txt 不是 SEO 项目](https://rokcso.com/p/llms-txt-not-seo/) | 今年越来越多网站在根目录放了一份 llms.txt ，但会读它的，仍然很少。它不是新的 SEO 排名信号，更像是给已经找到你的网站 Agent 准备的一张目录。 llms.txt 是一段 Markdown：告诉 Agent 这站是什么、哪些页面值得花时间，它不是 robots.txt ，拦不住谁，也… |
 | 2026-09-14 | [铁口委婉断](https://mobius.blog/25711.html) | 这段时间突然能看懂八字了，所以就找了几个身边的典型案例来看，其中也包括我自己。 虽然还达不到“算命”的程度，但 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-09-14 | [T恤收到啦，摸起来质量好厚实，图案很喜欢](https://versun.me/blog/tweet-2099297741247742039) | T恤收到啦，摸起来质量好厚实，图案很喜欢，感谢！ ps: 手写的字也好好看呀，嫉妒中 @NowledgeMem @wey_gu @yevazn |
+| 2026-09-14 | [新约经文｜保守内心，远离诡诈，放下算计](https://blog.zzbd.org/miao20260914-2/) | 选文主题：分辨诡诈之人，除去自己心里的筹谋算计，不陷入互相博弈、猜度、盘算的内耗。适合在办公室安静阅读，守住本心，不被周遭的算计裹挟。 |
 | 2026-09-14 | [大脑充血 Vol.98](https://www.geedea.pro/weekly/98/) | 这是一篇小报，不遵循一般的格式，一般不谈严肃内容，甚至可能全是技术内容。不过这篇…… 实际上还挺严肃的。写着写着就变成了对谷歌和各种大公司的嘲讽，不过并不是批评和要求，因为我对他们的道德水准实际上毫无期待。 这篇小报从版权聊到垄断，再谈到版权，希望能让读者对曾经忽视过的问题有些思考，如果你有相关的见… |
 | 2026-09-14 | [hermes agent 这几天有一个大](https://versun.me/blog/tweet-2099288182324129817) | hermes agent 这几天有一个大 bug，如果你同时使用 tui/cli 和 desktop，则会出现 state.db 冲突写入问题，目前有好几个 issue 和 PR 了 目前的解决方法就是，会话一定要完全退出解锁数据库，比如 tui/cli 要通过 quit 命令退出，desktop… |
 | 2026-09-14 | [辅导作业之《为什么学生不喜欢上学？》](https://gaoyu.me/blog/33-2026-09-14) | 工作记忆与长期记忆+练习与知识迁移 |
@@ -65,6 +77,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-09-13 | [特殊符号 emoji 符号大全：挑了十几个在线工具都不顺手，干脆自己撸一个](https://gugegt.com/20260913-symbol-emoji-tool.html) | 找特殊符号这件事，我原本以为十分钟能搞定。为了给一份表格加几条分隔线，我在搜索引擎里翻了十几页符号网站，最后关掉浏览器自己写了一个。21 个分类，2800 多个特殊符号和 emoji 符号，鼠标悬停放大、点一下复制，网址是 gugegt.com/tools/emoji 。 |
 | 2026-09-13 | [别再四处求邀请码了，这个网站把65条优惠码的验证日期和成功率都摊开了](https://gugegt.com/mashanghuigou-promocodego.html) | 上周，朋友把我拉进一个"邀请码互换"的群。三百多号人，消息刷得飞快，有人求币安的返佣码，有人找海外银行的推荐链接，还有人问哪个 AI 工具的邀请还能白拿积分。 我翻了十分钟，发现一件事。好用的码，没人愿意白给。随手贴出来的那些，点进去十有八九提示已失效。 麻烦出在码的信息上。有没有过期、绑没绑地区、… |
 | 2026-09-13 | [喜欢吃的几家餐厅都陆续关店了](https://www.ozexplorers.com/%E6%BE%B3%E6%B4%B2%E7%94%9F%E6%B4%BB/2026/09/13/my-favorite-restaurants-keep-closing-down.html) | 我已经分不清澳洲经济到底是好是坏了。 |
+| 2026-09-13 | [智元灵犀X2机器人二开01:认识灵犀 X2 与二开全景，端侧、云端与灵心平台](https://programnotes.cn/agibot-develop-1/index.html) | 本文介绍灵犀X2二次开发的整体架构，包括端侧AIMDK和云端AgentSDK，并给出了需求判断依据和系统全景。 |
 | 2026-09-13 | [2026年第36、37周：匆匆沪上与常州小憩](https://blog.sakoamc.com/posts/263637/) | 题记：不紧不慢，感受时间的极小间隙。常州教我如何不想她，意思是想常州呢，还是让人乐不思蜀呢？ |
 | 2026-09-13 | [Memos #2026-09-12](https://www.taober.blog/memos/memo_20260912090221_tnbpv4) | 17:02 嘿嘿，再无借口！ |
 | 2026-09-13 | [别再四处求邀请码了，这个网站把65条优惠码的验证日期和成功率都摊开了](https://www.gugegt.com/mashanghuigou-promocodego.html) | 上周，朋友把我拉进一个"邀请码互换"的群。三百多号人，消息刷得飞快，有人求币安的返佣码，有人找海外银行的推荐链接，还有人问哪个 AI 工具的邀请还能白拿积分。 我翻了十分钟，发现一件事。好用的码，没人愿意白给。随手贴出来的那些，点进去十有八九提示已失效。 麻烦出在码的信息上。有没有过期、绑没绑地区、… |
