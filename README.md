@@ -28,7 +28,10 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | Date | Title | Summary |
 | --- | --- | --- |
 | 2026-09-15 | [非京籍个体户缴纳社保(补充)：Web 端员工工资薪金个税预扣预缴](https://blog.yasking.org/a/self-employed-append-two) | 早在几年前，Web 端就支持了单位代扣代缴员工个人所得税，当时参考小红书上的教程，就一直沿用 Windows 客户端的方式缴纳，其 … |
+| 2026-09-15 | [UNSW Katana使用记录](https://mocusez.site/zh-CN/posts/d355) | UNSW Katana HPC使用 |
 | 2026-09-15 | [GifPlay：Mac原生Gif录制和编辑工具，装机必备【效率工具指南】](https://penghh.fun/2026/09/15/2026-9-15-gifplay/) | <script src=" |
+| 2026-09-15 | [动起来，否则你就要费劲思考了](https://www.gtdstudy.com/posts/2026-09-15-pascal/) |  |
+| 2026-09-15 | [Memos: AI 默默的从 ~/.zsh_history 翻到 token 更新了生产环境](https://blog.yasking.org/a/1789461576) | 我表述想更新 Tag Name，过了一会儿它已经把测试、正式环境都更新好了。 过于‘智能’，问题是我从未配置过生产环境的操作流程 … |
 | 2026-09-15 | [骆驼、狮子、孩子、路飞、大笑](https://kaix.in/2026/0915/) | 前几天——或者十几天？俗务繁杂实在有些晕头转向了——偶然看到一段用尼采的精神三变来解读《海贼王》的 视频 ，感觉颇有趣味，不过就像如今的许多事一样，看过也就过去了。 但是这几日突然又感觉心里有些堵，简单说来，我意识到自己已经好久不觉得什么事情值得大笑出声了。如果《海贼王》里路飞那种开怀大笑正是精神三… |
 | 2026-09-15 | [给城里人搞点事情](https://www.hecaitou.com/2026/09/giving-city-folks-something-to-do.html) | 很久以前，我就发现下班之后的八小时很难打发。一方面是因为纠集一班朋友越来越难，有人要加班，有人要恋爱，有人要带孩子，另一方面是因为可以参与的项目极为有限，搞来搞去也就是那几样，而且每一次的体验也不确定。哪怕是你最喜欢的餐厅，也未必能做到每次去都满意。 所以，如何安排都市人口的这八个小时一直就是个问题… |
 | 2026-09-15 | [申请国家电网电费账单做KYC地址证明，4步搞定](https://gugegt.com/state-grid-electricity-bill-kyc-address-proof.html) | 你有没有遇到过这种情况：身份证或者户口本上的地址是A，但你实际住在B。填表的时候写的又是A，结果各种平台做KYC（身份验证）时要求提供地址证明，你手头没有任何带B地址的正式文件。 国家电网的APP能解决这个问题。它能生成一份PDF格式的电费账单，上面印着你的用电地址、户号、账单周期，盖着国网电力公司… |
@@ -36,6 +39,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-09-15 | [先做成一门生意，再谈增长](https://imzl.com/business-growth-methods) | 从互联网医疗、社交电商、建筑 SaaS、公链和 API Token 业务出发，复盘如何验证价值交换、完成冷启动、跑通商业闭环并复制增长。 |
 | 2026-09-15 | [llms.txt 不是 SEO 项目](https://rokcso.com/p/llms-txt-not-seo/) | 今年越来越多网站在根目录放了一份 llms.txt ，但会读它的，仍然很少。它不是新的 SEO 排名信号，更像是给已经找到你的网站 Agent 准备的一张目录。 llms.txt 是一段 Markdown：告诉 Agent 这站是什么、哪些页面值得花时间，它不是 robots.txt ，拦不住谁，也… |
 | 2026-09-15 | [把另一个人拖下水，有助于改善困境吗？I](https://mobius.blog/25721.html) | 前些日子，一个朋友问我今年要不要年年焕新 iPhone Duo，我实在是想不到我会使用折叠屏的场景，加上 18 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
+| 2026-09-15 | [置身 Agent 时代：当软件开始不再需要软件工程师](https://www.bmpi.dev/dev/agent-era-software-engineering/) | 从 Free4Chat 和策引两个长期项目出发，记录当 Coding Agent 开始接管实现、Review、测试、故障分析与部分运维后，软件工程师的角色、经验价值和培养路径正在发生什么变化。 |
 | 2026-09-14 | [虽然不懂金融，看的有点懵逼， 但我觉得未](https://versun.me/blog/tweet-2099640367096435052) | 苏打白.Dev https://x.com/i/article/2096259071133560832 虽然不懂金融，看的有点懵逼， 但我觉得未来各个行业都会有自己的专用模型， 而目前通用模型应该会拿来做统筹，说不定统筹都会有专用模型😎 |
 | 2026-09-14 | [Intel i225 / i226-V 固件升级指南](https://jetyu.me/post/intel-i225-i226-firmware-update-guide.html) | 记录 Intel i225 / i226-V 网卡断流问题的排查过程，以及通过 EEUPDATE 工具查看和升级 NVM 固件的方法。 |
 | 2026-09-14 | [办公室修身养性｜静守心神，安稳度日](https://blog.zzbd.org/miao20260915/) | 人在职场，最耗损人的从来不是手上的工作，而是纷乱的心。是忍不住的急躁，是看人看事的算计，是对结果的焦虑，是对失误的恐惧，是和他人无形的拉扯，是心里不肯放下的对错与得失。真正的修行，从来不是远离喧嚣，而是身在琐碎繁杂的办公室，依旧能守住内心的安稳，守住自己的节奏，守住干净的心念。 |
@@ -49,7 +53,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-09-14 | [知乎主动向反贼约稿？](https://springwood.me/invitation-from-zhihu/) | （摘要）我的博客是被墙的，居然收到了来自知乎的约稿邀请。 |
 | 2026-09-14 | [细数一下我所有的离职瞬间](https://blog.solazy.me/20260914/) | 今天水一篇自己的经历 |
 | 2026-09-14 | [R#119 经验的惯性](https://blog.sakanano.moe/journals/random_119) | 2026.9.8 ~ 2026.9.14 |
-| 2026-09-14 | [UNSW Katana使用记录](https://mocusez.site/zh-CN/posts/d355) | UNSW Katana HPC使用 |
 | 2026-09-14 | [可怖的沉默](https://www.geedea.pro/article/silence/) | 一年前有位泛泛之交随口说过一句话，我现在都还记得：“没有声音很恐怖。”人独处的时候似乎总要放点东西当背景音，听着音乐或者电视的声音，貌似不会那么空洞。其实与人共处时也一样，哪怕是上班前在电梯里相见，似乎也要想办法填补沉默，都不说话的话会很尴尬。 另一种让人不安的沉默是没有回应，讲笑话、分享故事或任何… |
 | 2026-09-14 | [Fitbit Air: 近期最喜欢的数码产品](https://anotherdayu.com/fitbit-air/) | 引 过去一直是 Apple Watch 的忠实用户，听说过 Whoop，但我总觉得它只是无屏幕版的 Apple Watch，很酷，也很贵，没必要再买一款功能相近的产品。小米手环比它划算多了，设计的跟老款无屏小米手环差不多呀。 但用了一个多月，Fitbit Air 真的远超我的预期，跟 Apple W… |
 | 2026-09-14 | [Jenkins 备份与恢复（K8s 部署 + NFS 存储）](https://199604.com/3708) | Jenkins 备份与恢复（K8s 部署 + NFS 存储） 记录时间：2026-09-14 环境：K8s d […] |

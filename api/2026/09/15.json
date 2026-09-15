@@ -7,11 +7,32 @@
     "source_root_domain": "yasking.org"
   },
   {
+    "title": "UNSW Katana使用记录",
+    "url": "https://mocusez.site/zh-CN/posts/d355",
+    "date": "2026-09-15T12:47:23Z",
+    "description": "UNSW Katana HPC使用",
+    "source_root_domain": "mocusez.site"
+  },
+  {
     "title": "GifPlay：Mac原生Gif录制和编辑工具，装机必备【效率工具指南】",
     "url": "https://penghh.fun/2026/09/15/2026-9-15-gifplay/",
     "date": "2026-09-15T09:46:00Z",
     "description": "<script src=\"",
     "source_root_domain": "penghh.fun"
+  },
+  {
+    "title": "动起来，否则你就要费劲思考了",
+    "url": "https://www.gtdstudy.com/posts/2026-09-15-pascal/",
+    "date": "2026-09-15T09:22:39Z",
+    "description": "",
+    "source_root_domain": "gtdstudy.com"
+  },
+  {
+    "title": "Memos: AI 默默的从 ~/.zsh_history 翻到 token 更新了生产环境",
+    "url": "https://blog.yasking.org/a/1789461576",
+    "date": "2026-09-15T09:01:23Z",
+    "description": "我表述想更新 Tag Name，过了一会儿它已经把测试、正式环境都更新好了。 过于‘智能’，问题是我从未配置过生产环境的操作流程 …",
+    "source_root_domain": "yasking.org"
   },
   {
     "title": "骆驼、狮子、孩子、路飞、大笑",
@@ -61,6 +82,13 @@
     "date": "2026-09-15T01:30:00Z",
     "description": "前些日子，一个朋友问我今年要不要年年焕新 iPhone Duo，我实在是想不到我会使用折叠屏的场景，加上 18 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。",
     "source_root_domain": "onojyun.com"
+  },
+  {
+    "title": "置身 Agent 时代：当软件开始不再需要软件工程师",
+    "url": "https://www.bmpi.dev/dev/agent-era-software-engineering/",
+    "date": "2026-09-15T00:00:00Z",
+    "description": "从 Free4Chat 和策引两个长期项目出发，记录当 Coding Agent 开始接管实现、Review、测试、故障分析与部分运维后，软件工程师的角色、经验价值和培养路径正在发生什么变化。",
+    "source_root_domain": "bmpi.dev"
   },
   {
     "title": "虽然不懂金融，看的有点懵逼， 但我觉得未",
@@ -152,13 +180,6 @@
     "date": "2026-09-14T14:30:00Z",
     "description": "2026.9.8 ~ 2026.9.14",
     "source_root_domain": "sakanano.moe"
-  },
-  {
-    "title": "UNSW Katana使用记录",
-    "url": "https://mocusez.site/zh-CN/posts/d355",
-    "date": "2026-09-14T12:47:23Z",
-    "description": "UNSW Katana HPC使用",
-    "source_root_domain": "mocusez.site"
   },
   {
     "title": "可怖的沉默",
