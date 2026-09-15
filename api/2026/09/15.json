@@ -1,0 +1,282 @@
+[
+  {
+    "title": "先做成一门生意，再谈增长",
+    "url": "https://imzl.com/business-growth-methods",
+    "date": "2026-09-15T02:00:00Z",
+    "description": "从互联网医疗、社交电商、建筑 SaaS、公链和 API Token 业务出发，复盘如何验证价值交换、完成冷启动、跑通商业闭环并复制增长。",
+    "source_root_domain": "imzl.com"
+  },
+  {
+    "title": "虽然不懂金融，看的有点懵逼， 但我觉得未",
+    "url": "https://versun.me/blog/tweet-2099640367096435052",
+    "date": "2026-09-14T23:24:07Z",
+    "description": "苏打白.Dev https://x.com/i/article/2096259071133560832 虽然不懂金融，看的有点懵逼， 但我觉得未来各个行业都会有自己的专用模型， 而目前通用模型应该会拿来做统筹，说不定统筹都会有专用模型😎",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "Intel i225 / i226-V 固件升级指南",
+    "url": "https://jetyu.me/post/intel-i225-i226-firmware-update-guide.html",
+    "date": "2026-09-14T22:00:00Z",
+    "description": "记录 Intel i225 / i226-V 网卡断流问题的排查过程，以及通过 EEUPDATE 工具查看和升级 NVM 固件的方法。",
+    "source_root_domain": "jetyu.me"
+  },
+  {
+    "title": "黑洞与致密天体",
+    "url": "https://physnya.top/compact-object/",
+    "date": "2026-09-14T18:19:21Z",
+    "description": "README 这里是 的「黑洞与致密天体」笔记. 本课程偏向比较简单的相关理论介绍. 但是鉴于选课的同学们基本上都对相关领域比较了解，因此也有很多理论推导的部分.",
+    "source_root_domain": "physnya.top"
+  },
+  {
+    "title": "Star Wars: TIE Fighter updated",
+    "url": "https://macsourceports.com/game/swtiefighter",
+    "date": "2026-09-14T16:32:06Z",
+    "description": "The build of OpenTIE for Star Wars: TIE Fighter has been updated to version v0.0.6 of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "Quetoo updated",
+    "url": "https://macsourceports.com/game/quetoo",
+    "date": "2026-09-14T16:30:58Z",
+    "description": "The build of Quetoo has been updated to version v1.0.94 of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "腾讯云开源了个 AI 助手：Octop，装自己电脑上，全家一起用",
+    "url": "https://gugegt.com/20260915-octop-tencent-ai-assistant.html",
+    "date": "2026-09-14T16:30:00Z",
+    "description": "你电脑里大概装了不止一个 AI 应用。聊天记录、上传的文件、跟客户谈的方案，都在别人的服务器上。 腾讯云在 GitHub 上开源了一个叫 Octop 的项目。MIT 协议，Python 写的，版本 0.9.33。它想把这些搬回你自己的电脑。",
+    "source_root_domain": "gugegt.com"
+  },
+  {
+    "title": "深圳-拉萨自驾-计划版",
+    "url": "https://elmagnifico.tech/2026/09/15/shenzhen-lasa-plan/",
+    "date": "2026-09-14T16:00:00Z",
+    "description": "Foreword 今年中秋和国庆中间卡了三天班，直接请假从 9 月 25 号连到 10 月 7 号，一共 13 天。想去拉萨，也想过这时间其实拿去大理附近逛更合适，去程还能顺路把桂林、阳朔过了。先计划几版出来比较一下：托车到成都再开 318，车直接托到拉萨，深圳经桂林开去大理再开回来，或者深圳一路开到拉萨。 假期是 9 月 25 号走，10 月 7 号得能回到深圳。 拖车成都去拉萨 拖车成都1700，拉萨拖回3000，返程直接拉萨飞深圳，不过已经没有直达了，全是中转，打算六号就返回，七号还能休息一下。 拖到成都要5天，拉萨拖回可能久一些 去程（计划） D1 9/25 飞成都取车。车到了、人还不晕，可以开到雅安（约 600 米）或泸定（约 1300 米） D2 9/26 成都到康定 ：大约 320 公里。现在走雅康高速，不走老二郎山那条土路。康定约 2500 米。山路从泸定附近开始，施工段灰大、路窄。 D3 9/27 康定到理塘 ：大约 280 公里，折多山垭口约 4300 米、新都桥约 3500 米，理塘住约 4000 米。海拔一天就抬升起来了。折多山是连续急弯爬升，柏油路，垭口有观景",
+    "source_root_domain": "elmagnifico.tech"
+  },
+  {
+    "title": "我写的代码不超过50%",
+    "url": "https://blog.thetbw.xyz/archives/my-code-less-than-50-precent",
+    "date": "2026-09-14T15:30:02Z",
+    "description": "刚才在洗澡的时候，想到今天踩了 AI 埋下的大坑，又想起了之前的种种，发现，其实作为一个程序员，我一直没有写多少的代码。 这个问题还要结合前段时间的面试一起来说，最近的程序员面试，仿佛面试官都会不约而同的问同样几句话： “你对 AI 怎么看？” “你平时用 AI 多吗？” “你有多少代码是用 AI 写的？” 面对这些问题，我还真没想好应该怎么回答，但是就像我刚才说的，我不知道有多少代码是 AI 写的，因为我也没心情去统计这些东西，但是从我工作起，我写的代码不超过 50%。 为什么会得出这个结论，这里要区分两个概念，我提交的代码≠我写的代码。早在几年前，互联网就流行着一个梗图：“程序员专用键盘”，用于调侃我们 CV 工程师（最近也没见提及 CV 工程师这个概念了）。 现在，社交媒体上又有很多“神人”在分享或者设想所谓的 ViboCoding 键盘，想到这里我愣了一下，这不就是同一种东西吗，果然，互联网是没有记忆的，人类也是不长记性的，不然也不会犯上一个个轮回。 再回到之前的问题，为什么我说我写的代码不超过 50%，因为在我之前开发的时候，很多时候是所谓的 CURD，之前开发一直会有那种模",
+    "source_root_domain": "thetbw.xyz"
+  },
+  {
+    "title": "R#119 经验的惯性",
+    "url": "https://blog.sakanano.moe/journals/random_119",
+    "date": "2026-09-14T14:30:00Z",
+    "description": "2026.9.8 ~ 2026.9.14",
+    "source_root_domain": "sakanano.moe"
+  },
+  {
+    "title": "UNSW Katana使用记录",
+    "url": "https://mocusez.site/zh-CN/posts/d355",
+    "date": "2026-09-14T12:47:23Z",
+    "description": "UNSW Katana HPC使用",
+    "source_root_domain": "mocusez.site"
+  },
+  {
+    "title": "可怖的沉默",
+    "url": "https://www.geedea.pro/article/silence/",
+    "date": "2026-09-14T12:34:38Z",
+    "description": "一年前有位泛泛之交随口说过一句话，我现在都还记得：“没有声音很恐怖。”人独处的时候似乎总要放点东西当背景音，听着音乐或者电视的声音，貌似不会那么空洞。其实与人共处时也一样，哪怕是上班前在电梯里相见，似乎也要想办法填补沉默，都不说话的话会很尴尬。 另一种让人不安的沉默是没有回应，讲笑话、分享故事或任何只要不是「今天天气不错」这种言之无物的话，如果被说出后没有收到任何回应，似乎会让人倍受打击。写博客也是，如果没有一个人评论，似乎也会让人失望。矛盾的是，人又时常想让人闭嘴，屏蔽甚至反击互联网上的蠢人。人或许只是想听到自己想听的声音。 周末和同事出去玩。经过一场时而评论周边街景以填充沉默的车程后，终于到了动物园。 上次去动物园我还很小很小，我对那里的动物已经没了印象，只记得当时父母买了一只珠鸡，它的羽毛黑色中带有珍珠一样的白色斑点。我记得我当时很喜欢它，还给他取名叫「小美」。没过多久我就在黑暗的厨房里大哭，反复喊着「小美」的名字。它被端上了餐桌，我不记得之后发生了什么，我也不知道我到底有没有吃小美。我相信当时厨房开着灯，可在我记忆里，无论是厨房还是餐厅，都黑黑的，家人在黑暗中大快朵颐，我看不见",
+    "source_root_domain": "geedea.pro"
+  },
+  {
+    "title": "Fitbit Air: 近期最喜欢的数码产品",
+    "url": "https://anotherdayu.com/fitbit-air/",
+    "date": "2026-09-14T12:08:00Z",
+    "description": "引 过去一直是 Apple Watch 的忠实用户，听说过 Whoop，但我总觉得它只是无屏幕版的 Apple Watch，很酷，也很贵，没必要再买一款功能相近的产品。小米手环比它划算多了，设计的跟老款无屏小米手环差不多呀。 但用了一个多月，Fitbit Air 真的远超我的预期，跟 Apple Watch 和小米手环不是一个类型的产品。 使用感受 Fitbit Air 和 WHOOP 这类产品最强的地方，是软硬件都围绕一个目标设计：尽量减少用户操作。 去掉屏幕、换来更长续航，只是最直观的一步。更关键的是一个很容易被忽略的参数： 后台心率数据的记录频率 。它直接影响设备能不能在运动结束后，回溯出完整的运动记录。 Apple Watch 在非运动状态下，大约每 5 分钟记录一次后台心率；进入运动模式后，采样频率才会明显提高。所以 Apple Watch 可以识别你开始运动了，但仍需要用户确认，才能正式进入 Workout 记录。 这一步操作看起来很小，但它要求用户参与。 而 Fitbit Air 和 WHOOP 的思路更接近后台自动记录。 Fitbit Air 大约每 2 秒保存一个心率",
+    "source_root_domain": "anotherdayu.com"
+  },
+  {
+    "title": "Jenkins 备份与恢复（K8s 部署 + NFS 存储）",
+    "url": "https://199604.com/3708",
+    "date": "2026-09-14T07:04:17Z",
+    "description": "Jenkins 备份与恢复（K8s 部署 + NFS 存储） 记录时间：2026-09-14 环境：K8s d […]",
+    "source_root_domain": "199604.com"
+  },
+  {
+    "title": "天体物理",
+    "url": "https://physnya.top/astro-physics/",
+    "date": "2026-09-14T06:52:02Z",
+    "description": "README 这里是 的「天体物理」笔记. 本课程为四门物理课程中天体物理的 4 学分版本，但是并不是很难.",
+    "source_root_domain": "physnya.top"
+  },
+  {
+    "title": "Introduction",
+    "url": "https://physnya.top/astro-physics/lesson-1/",
+    "date": "2026-09-14T06:52:02Z",
+    "description": "「上下四方曰宇，古往今来曰宙.」人类宇宙观的革新与天文学的发展紧密联系. 天体物理学指的是应用物理学的理论、方法和技术，研究天体的形态、结构和化学组成、物理状态和演化规律的学科. 其研究对象包含太阳、恒星、行星、星系以及宇宙本身. 学习内容： 理论讲授 (48 学时) 第 1 章 天体物理学简介 (3 学时) 第 2 章 天体参数测定 (3 学时) 第 3 章 太阳及空间物理 (3 学时) 第 4 章 恒星及星际介质 (15 学时) 第 5 章 致密天体 (3 学时) 第 6 章 银河系 (3 学时) 第 7 章 河外星系 (9 学时) 第 8 章 宇宙学 (9 学时) 天文实验 (16 学时) : 完成 1 份实验报告 (分组)，远程或实际操作熟悉天体亮度及光谱测量方法 课程成绩占比：作业 25 % 25\\% 25% ，实验 25 % 25\\% 25% ，期末 50 % 50\\% 50% .",
+    "source_root_domain": "physnya.top"
+  },
+  {
+    "title": "2026.9.13",
+    "url": "https://www.justzht.com/2026-9-13/",
+    "date": "2026-09-14T02:38:27Z",
+    "description": "Epoch 最近的一些进展。加了黑洞，额外的飞船，星门，以及一些有的没的。 刚从 Sea Ranch 开回来。周末和朋友在北边呆了",
+    "source_root_domain": "justzht.com"
+  },
+  {
+    "title": "和折叠屏做个了断",
+    "url": "https://www.hecaitou.com/2026/09/Done-with-Foldables.html",
+    "date": "2026-09-14T02:25:23Z",
+    "description": "黑板上有道题：手机怎么做折叠屏？ 华为、三星、小米、Vivo、Oppo、Google 都交出了答卷，我没有动心，一直耐心等着，因为考场里还有一名学霸没有交卷，他就是苹果同学。 从他的历次答题情况来看，苹果同学要么直接一把揉了考题，自己新出一道，逼迫同学们回到考场跟着他的思路重考；要么就是用一种全新的解法，证明自己比其他同学理解得深刻，解得更漂亮。 无论是哪一种做法，苹果同学都让人觉得期待。 昨天苹果同学最后交卷，交出了他的答案「Duo」，看完我确定自己这一轮不会买任何折叠屏手机。 其实我个人一直对折叠屏心存疑虑，也许这个考题本身就是某种一厢情愿，并不是用户的真实需求。当第一部折叠屏手机出现，我就一直在想：用这种折叠屏来做什么？我想不出什么使用上的飞跃。但是，价格是真的上去了，维修成本也真的是上去了，对了，还有重量也是如此。 不过我已经是个稳重的中年人了，在我做产品经理的那几年，学到了两条很重要的教导： 1、你的需求不等于用户的需求，尤其是大众用户；2、普通产品经理满足用户需求，伟大产品经理创造新的用户需求。 所以我沉默着观察，看折叠屏是不是一种大众消费者的真实需求，看折叠屏经过一段时间",
+    "source_root_domain": "hecaitou.com"
+  },
+  {
+    "title": "ITIN 不是美国信用卡的通行证：办之前你需要知道的事",
+    "url": "https://rokcso.com/p/should-you-apply-for-itin/",
+    "date": "2026-09-14T02:00:00Z",
+    "description": "我今年办了一个 ITIN，代办费六七百块，7 月初交资料，9 月初才拿到结果，前后大概两个月，中间只能等。当时想的是，有了这个号就能开始申请美国信用卡。拿到号之后，我回头把那些讲这件事的帖子重读了一遍，然后停在了申请第一张信用卡之前。 后来我才发现，ITIN 解决的是税务识别，而我真正想解决的是美国地址、信用记录和银行风控。它们是不同的问题。 ITIN 是美国国税局给没有资格拿 SSN 的人发的纳税人识别号，核心用途是联邦税务处理，让 IRS 在税务系统里找得到你。有些银行和房贷机构也接受它，但那是这些机构自己的政策，不是 IRS 授予它的权限。 有人把它当成半个 SSN，但它在法律上不是身份证件，不能用来工作，也不会改变居留状态，到了银行申请表上，它常被当作纳税人识别号那一格填进去，护照和地址证明该交的还是要交。 用到它的场合并不多：以个人身份向美国报税（比如 1040-NR）时可能需要；被按 30% 预扣股息税、希望依据适用的税收协定申请较低税率时可能需要；还有一种情况是某个支付方明确要求美国税号。除此之外，它很可能长期躺在抽屉里。 我自己的情况也能说明这一点，我有一家美国 LLC",
+    "source_root_domain": "rokcso.com"
+  },
+  {
+    "title": "llms.txt 不是 SEO 项目",
+    "url": "https://rokcso.com/p/llms-txt-not-seo/",
+    "date": "2026-09-14T02:00:00Z",
+    "description": "今年越来越多网站在根目录放了一份 llms.txt ，但会读它的，仍然很少。它不是新的 SEO 排名信号，更像是给已经找到你的网站 Agent 准备的一张目录。 llms.txt 是一段 Markdown：告诉 Agent 这站是什么、哪些页面值得花时间，它不是 robots.txt ，拦不住谁，也指挥不了 Google。 放的人在变多，但全网比例并不高 Originality.ai 跟踪 300 万以上域名。2025 年 6 月 4,088 个站有 llms.txt ，2026 年 5 月是 36,120 个，截至 2026 年 9 月，仪表盘最新计数已到 136,610。 Originality.ai tracking study 这是增长，可还不是普及。即使按 300 万域名计算，也只有约 4.6%，距离普及还很远。 读的人几乎没跟上 Ahrefs 看了 137,210 个域名 2026 年 5 月的服务器日志。有有效 llms.txt 的大约 38,000 个站里，97% 当月一个请求都没有。 被请求过的那 3% 里，最大头是 SEO 审计工具，占 21.7%。Chrome L",
+    "source_root_domain": "rokcso.com"
+  },
+  {
+    "title": "铁口委婉断",
+    "url": "https://mobius.blog/25711.html",
+    "date": "2026-09-14T01:30:00Z",
+    "description": "这段时间突然能看懂八字了，所以就找了几个身边的典型案例来看，其中也包括我自己。 虽然还达不到“算命”的程度，但 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。",
+    "source_root_domain": "onojyun.com"
+  },
+  {
+    "title": "T恤收到啦，摸起来质量好厚实，图案很喜欢",
+    "url": "https://versun.me/blog/tweet-2099297741247742039",
+    "date": "2026-09-14T00:42:39Z",
+    "description": "T恤收到啦，摸起来质量好厚实，图案很喜欢，感谢！ ps: 手写的字也好好看呀，嫉妒中 @NowledgeMem @wey_gu @yevazn",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "大脑充血 Vol.98",
+    "url": "https://www.geedea.pro/weekly/98/",
+    "date": "2026-09-14T00:10:47Z",
+    "description": "这是一篇小报，不遵循一般的格式，一般不谈严肃内容，甚至可能全是技术内容。不过这篇…… 实际上还挺严肃的。写着写着就变成了对谷歌和各种大公司的嘲讽，不过并不是批评和要求，因为我对他们的道德水准实际上毫无期待。 这篇小报从版权聊到垄断，再谈到版权，希望能让读者对曾经忽视过的问题有些思考，如果你有相关的见解，也欢迎 发邮件 讨论。 Remove Your Media 一家叫作 Remove Your Media LLC ，CEO 名叫 Eric Green 的公司开始在 YouTube 和各种网站上给人发律师函，准确来说是停终信（cease and desist）。他们似乎代理了很多日本动漫厂商，因为他们发停终的对象往往是关于火影忍者、BLEACH 和一拳超人的内容。 然后磁盘清理工具 BleachBit 收到了停终信。 ？ 需要解释的是， Bleach 的意思是清洁、漂白，是个非常常见的英语单词，而动漫 BLEACH 只是用了这个单词而已。 BleachBit 作为磁盘清理工具的意思可以理解为「清洁比特」。 这家公司用的不知道是什么诡异的关键词匹配系统，YouTube 上反应视频（Reac",
+    "source_root_domain": "geedea.pro"
+  },
+  {
+    "title": "hermes agent 这几天有一个大",
+    "url": "https://versun.me/blog/tweet-2099288182324129817",
+    "date": "2026-09-14T00:04:40Z",
+    "description": "hermes agent 这几天有一个大 bug，如果你同时使用 tui/cli 和 desktop，则会出现 state.db 冲突写入问题，目前有好几个 issue 和 PR 了 目前的解决方法就是，会话一定要完全退出解锁数据库，比如 tui/cli 要通过 quit 命令退出，desktop 不用了也要完全退出",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "辅导作业之《为什么学生不喜欢上学？》",
+    "url": "https://gaoyu.me/blog/33-2026-09-14",
+    "date": "2026-09-14T00:00:00Z",
+    "description": "工作记忆与长期记忆+练习与知识迁移",
+    "source_root_domain": "gaoyu.me"
+  },
+  {
+    "title": "新约经文选读｜稳住心神",
+    "url": "https://blog.zzbd.org/miao20260914/",
+    "date": "2026-09-13T17:39:22Z",
+    "description": "说明：节选新约中安慰、止息焦虑、内心得平安的经文，搭配简短平缓的引导，适合工作间隙慢慢读，稳住心绪，安然做完今日余下的工作。",
+    "source_root_domain": "zzbd.org"
+  },
+  {
+    "title": "Apple Watch Setup",
+    "url": "http://www.uncoverman.com/apple-watch-setup.html",
+    "date": "2026-09-13T16:00:00Z",
+    "description": "现在有一只 Apple Watch SE 3 (GPS)，星光色，配的米兰尼斯表带，44 寸手腕大小刚好，主要用于健康追踪。目前戴了 9 个月，分享一下 Apple Watch 的 Setup 。 # 表盘 表盘我选用的是模块化表盘，表盘上有更多菜单入口可以设置，实用。 体能训练：外出跑步、骑行、徒步会打开记录。在手机上能看到轨迹和运动参数，这个是核心诉求。 健身圆环：每天瞄一眼是否达标。 睡眠：每天睡醒了会看一下睡眠评分，记录睡眠质量，心里有个数。正如 GeekPlux 在 播客 里提到的——「不带表睡觉，甚至会觉得这个觉白睡了。」 语言备忘录：有时候小朋友会喜欢拿去录一些声音，所以放表盘上。 电量：提醒及时充电，以防忘了充电。以前一开始用的时候，不习惯充电频率，一两天后就没电自动关机了。现在的习惯是每天洗澡前摘下来充电，睡觉前",
+    "source_root_domain": "uncoverman.com"
+  },
+  {
+    "title": "周末流水账 0913",
+    "url": "https://blog.solazy.me/20260913/",
+    "date": "2026-09-13T14:00:00Z",
+    "description": "在嘉兴躺尸的一天",
+    "source_root_domain": "solazy.me"
+  },
+  {
+    "title": "2003，校门关上以后",
+    "url": "https://www.tortorse.com/archives/after-the-school-gate-closed-2003/",
+    "date": "2026-09-13T12:46:24Z",
+    "description": "傍晚的校园里，学生从校门旁走过，宿舍窗口亮着电脑的光",
+    "source_root_domain": "tortorse.com"
+  },
+  {
+    "title": "第一个人",
+    "url": "https://www.geedea.pro/library/2026/le-premier-home/",
+    "date": "2026-09-13T09:39:21Z",
+    "description": "加缪于 1960 年 1 月 4 日 13 点 54 分死于车祸，享年四十六岁，人们在他的皮包里发现了这篇手稿，经由他女儿卡特琳·加缪转录为打字稿之后以《第一个人》的名字出版。这篇小说没有完成，书中可见数处加缪的笔记和脚注，括号里还写着「这段要移到前面去」「描写一下房间？」之类的话，还有一些字看不清楚，同一个角色的名字也时常变换，小说也没有结尾。 熟悉加缪的读者都能一眼看出，这就是一本自传小说。书中的雅克就是加缪本人，书中同雅克共同生活的母亲、外婆和埃特斯特舅舅都确有其人，只是名字不同。加缪还时常把小说人物的名字写成真名，比如他的小学老师名叫热尔曼，小说中名为贝尔纳，而加缪有好几次把贝尔纳写成了热尔曼。小说中刻画的生活环境都与加缪的生平吻合，所以不难相信，书中描写的情感、挣扎和看似琐碎的细节，都是他的亲身经历。 小说题目「第一个人」的含义是没有祖先、没有回忆的人。加缪一岁丧父，他父亲是军人，那之后他就成了战争孤儿，和母亲、外婆和有语言障碍的舅舅生活在赤贫当中。他生活在法属阿尔及利亚，生活在那里的欧洲公民如今被称作 黑脚 （Pied-Noir），战争后这群人移民法国，原先的阿尔及利亚也几",
+    "source_root_domain": "geedea.pro"
+  },
+  {
+    "title": "如何优雅地更新 MACOS 系统上的软件",
+    "url": "http://yi.gs/post/duo_updater",
+    "date": "2026-09-13T06:24:17Z",
+    "description": "上一次更新正好是一年前，所以更新一下。 既然是为了更新而更新，就来写写如何更新吧 ；） TL;DR：直接看 「更优雅地更新软件」 小节。 关于 macOS 上的软件安装 与 iOS 正常情况下只能通过 App Store 安装 APP 不同，macOS 有类似 Windows 的自由度来安装和使用第三方软件。 在「设置」-「隐私与安全性」-「安全性」-「允许以下来源的应用程序」中开启「App Store 与已知开发者」后，无论是通过 Homebrew 还是软件官网下载，只要第三方软件满足以下两点即可直接使用： 有效代码签名（Developer ID 证书签名） 开发者加入 99 刀/年的 Apple Developer Program 来获取 Developer ID 证书。 苹果公证（Notarization） 开发者把签好名的 App 上传到 Apple Notary Service，苹果自动扫描通过后打上公证凭证。 关于在 macOS 上更新软件 安装后，对于新版强迫症患者最大的问题是 macOS 上的更新途径非常分散且不够优雅： 使用 App Store 更新 App Stor",
+    "source_root_domain": "yi.gs"
+  },
+  {
+    "title": "Toots 436 2026 Sep.6 - Sep.12",
+    "url": "https://z.arlmy.me/posts/MastodonArchives/2026/MastodonTootsArchives_202609012/",
+    "date": "2026-09-13T04:22:27Z",
+    "description": "「去县城！」",
+    "source_root_domain": "arlmy.me"
+  },
+  {
+    "title": "抢 iPhone 的早上",
+    "url": "https://www.hecaitou.com/2026/09/iPhone-Launch-Morning.html",
+    "date": "2026-09-13T03:52:56Z",
+    "description": "今天早上起来，打开手机，发现满屏幕都是抢 iPhone 18 的动态，我才意识到今天是新款 iPhone 发售日。 以前不是这样的，我也曾经是早起抢购的人之一。从 Apple Store 突然进入维护状态开始，就已经进入了期待状态。一旦下订成功，在网上晒订单这种事情我也干过，以至于后来看到有段子说「冷知识：不在朋友圈晒 iPhone 订单，苹果也会发货的」时，也感觉到面皮有些发烧。 不知道从什么时候开始，这种冲动连同憧憬一并消失了。中间我也曾经反思过多次，但是每次我觉得新款 iPhone 没什么太大进步，也没有什么让人振奋的新功能时，总能在网上看到新的教程，教我如何发现苹果在「看不见处」的巨大提升和全新创造。类似的事情经历得多了，受教育次数多了，虽然我也算是一名「果粉」，也忍不住升起了忤逆的心。 教育对我失效了。 还有另外一种说法，设计上蛮巧妙的。如果你觉得没看出什么好来，那么就约等于你批评 iPhone。而你批评 iPhone，那就可以直接等于你穷，你买不起所以你妒忌，你酸葡萄症发作，忍不住就要说酸话。这种说法很成功，甚至还发展出一条定律：每次新 iPhone 上市就会有一轮酸言酸语",
+    "source_root_domain": "hecaitou.com"
+  },
+  {
+    "title": "现在的安全环境远比我们想象的要严峻很多",
+    "url": "https://versun.me/blog/tweet-2098948486662398385",
+    "date": "2026-09-13T01:34:50Z",
+    "description": "安仔 平时每月 500 多美金的 AWS 账单，9 月才过 7 天，直接被刷到 6,600 多美金。 凌晨收到邮件，账号被停用了。元凶是两台完全不认识的 c5.2xlarge，一周跑了 70TB 出站流量，典型的被人拿去当代理节点卖带宽。 顺着 CloudTrail 一查，实锤了： 我的 IAM 密钥泄露，攻击者用脚本连开五波实例，来源 IP 全是美国住宅宽带。 最细思极恐的是，账号停用前几分钟，他还创建了一个叫 bedrock-console-4 的 IAM 用户，名字伪装成 AWS 官方服 现在的安全环境远比我们想象的要严峻很多 除了不要用中转站以外， api key 也不建议裸放在 env 文件里 还有不要乱安装体验各种新出的 AI 工具 分享下我的经历，我 mac 上安装了杀毒软件和各种监控工具，但也栽跟头了 因为上个月，我 openrouter 的 api 被莫民奇妙的盗刷了400 多刀，没有使用任何中转站，key 只放在 .env 文件夹下，日志显示也是正常应用的调用，我目前还查不出来怎么被盗刷的，只能认栽",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "当社会时钟也存在手表定律",
+    "url": "https://mobius.blog/25706.html",
+    "date": "2026-09-13T01:30:00Z",
+    "description": "这周的邮件订阅文章，打算聊一个非 Newsletter 的话题： 人生有不同的选择，但如何确保自己选择的就是“ […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。",
+    "source_root_domain": "onojyun.com"
+  },
+  {
+    "title": "特殊符号 emoji 符号大全：挑了十几个在线工具都不顺手，干脆自己撸一个",
+    "url": "https://gugegt.com/20260913-symbol-emoji-tool.html",
+    "date": "2026-09-13T00:00:00Z",
+    "description": "找特殊符号这件事，我原本以为十分钟能搞定。为了给一份表格加几条分隔线，我在搜索引擎里翻了十几页符号网站，最后关掉浏览器自己写了一个。21 个分类，2800 多个特殊符号和 emoji 符号，鼠标悬停放大、点一下复制，网址是 gugegt.com/tools/emoji 。",
+    "source_root_domain": "gugegt.com"
+  },
+  {
+    "title": "别再四处求邀请码了，这个网站把65条优惠码的验证日期和成功率都摊开了",
+    "url": "https://gugegt.com/mashanghuigou-promocodego.html",
+    "date": "2026-09-13T00:00:00Z",
+    "description": "上周，朋友把我拉进一个\"邀请码互换\"的群。三百多号人，消息刷得飞快，有人求币安的返佣码，有人找海外银行的推荐链接，还有人问哪个 AI 工具的邀请还能白拿积分。 我翻了十分钟，发现一件事。好用的码，没人愿意白给。随手贴出来的那些，点进去十有八九提示已失效。 麻烦出在码的信息上。有没有过期、绑没绑地区、新用户还认不认，这些散在各种帖子和截图里，全靠运气。 我自己也整理过一批 邀请码和邀请链接 ，放在站里当备份。手工维护有个绕不过去的天花板，码一多，哪条失效了根本顾不过来。 后来碰到一个专门做这件事的站，叫 码上惠购 ，域名 promocodego.com。它把自己的定位写得很直白：真实优惠码，人工验证，轻松省钱。 每条码能不能用，它写在了明面上 打开首页，第一眼是一列编号。从 65 开始往下排，每条对应一个品牌的推荐码。 推荐码本身、推荐链接、发布日期、有效期、发布人、成功率，六项信息压在一张卡片上。右上角挂一个绿色的「已验证」标，热门的再加一个 HOT。 我逛过不少聚合站，很少见到「成功率」这一栏。89%、95%、99%，数字背后是人工跑过的结果。一条码发出来到底能不能注册、能不能触发奖",
+    "source_root_domain": "gugegt.com"
+  },
+  {
+    "title": "喜欢吃的几家餐厅都陆续关店了",
+    "url": "https://www.ozexplorers.com/%E6%BE%B3%E6%B4%B2%E7%94%9F%E6%B4%BB/2026/09/13/my-favorite-restaurants-keep-closing-down.html",
+    "date": "2026-09-13T00:00:00Z",
+    "description": "我已经分不清澳洲经济到底是好是坏了。",
+    "source_root_domain": "ozexplorers.com"
+  },
+  {
+    "title": "2026年第36、37周：匆匆沪上与常州小憩",
+    "url": "https://blog.sakoamc.com/posts/263637/",
+    "date": "2026-09-13T00:00:00Z",
+    "description": "题记：不紧不慢，感受时间的极小间隙。常州教我如何不想她，意思是想常州呢，还是让人乐不思蜀呢？",
+    "source_root_domain": "sakoamc.com"
+  },
+  {
+    "title": "Memos #2026-09-12",
+    "url": "https://www.taober.blog/memos/memo_20260912090221_tnbpv4",
+    "date": "2026-09-13T00:00:00Z",
+    "description": "17:02 嘿嘿，再无借口！",
+    "source_root_domain": "taober.blog"
+  }
+]

@@ -27,6 +27,8 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-09-15 | [先做成一门生意，再谈增长](https://imzl.com/business-growth-methods) | 从互联网医疗、社交电商、建筑 SaaS、公链和 API Token 业务出发，复盘如何验证价值交换、完成冷启动、跑通商业闭环并复制增长。 |
+| 2026-09-14 | [虽然不懂金融，看的有点懵逼， 但我觉得未](https://versun.me/blog/tweet-2099640367096435052) | 苏打白.Dev https://x.com/i/article/2096259071133560832 虽然不懂金融，看的有点懵逼， 但我觉得未来各个行业都会有自己的专用模型， 而目前通用模型应该会拿来做统筹，说不定统筹都会有专用模型😎 |
 | 2026-09-14 | [Intel i225 / i226-V 固件升级指南](https://jetyu.me/post/intel-i225-i226-firmware-update-guide.html) | 记录 Intel i225 / i226-V 网卡断流问题的排查过程，以及通过 EEUPDATE 工具查看和升级 NVM 固件的方法。 |
 | 2026-09-14 | [黑洞与致密天体](https://physnya.top/compact-object/) | README 这里是 的「黑洞与致密天体」笔记. 本课程偏向比较简单的相关理论介绍. 但是鉴于选课的同学们基本上都对相关领域比较了解，因此也有很多理论推导的部分. |
 | 2026-09-14 | [Star Wars: TIE Fighter updated](https://macsourceports.com/game/swtiefighter) | The build of OpenTIE for Star Wars: TIE Fighter has been updated to version v0.0.6 of the project |
@@ -46,7 +48,9 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-09-14 | [ITIN 不是美国信用卡的通行证：办之前你需要知道的事](https://rokcso.com/p/should-you-apply-for-itin/) | 我今年办了一个 ITIN，代办费六七百块，7 月初交资料，9 月初才拿到结果，前后大概两个月，中间只能等。当时想的是，有了这个号就能开始申请美国信用卡。拿到号之后，我回头把那些讲这件事的帖子重读了一遍，然后停在了申请第一张信用卡之前。 后来我才发现，ITIN 解决的是税务识别，而我真正想解决的是美国… |
 | 2026-09-14 | [llms.txt 不是 SEO 项目](https://rokcso.com/p/llms-txt-not-seo/) | 今年越来越多网站在根目录放了一份 llms.txt ，但会读它的，仍然很少。它不是新的 SEO 排名信号，更像是给已经找到你的网站 Agent 准备的一张目录。 llms.txt 是一段 Markdown：告诉 Agent 这站是什么、哪些页面值得花时间，它不是 robots.txt ，拦不住谁，也… |
 | 2026-09-14 | [铁口委婉断](https://mobius.blog/25711.html) | 这段时间突然能看懂八字了，所以就找了几个身边的典型案例来看，其中也包括我自己。 虽然还达不到“算命”的程度，但 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
+| 2026-09-14 | [T恤收到啦，摸起来质量好厚实，图案很喜欢](https://versun.me/blog/tweet-2099297741247742039) | T恤收到啦，摸起来质量好厚实，图案很喜欢，感谢！ ps: 手写的字也好好看呀，嫉妒中 @NowledgeMem @wey_gu @yevazn |
 | 2026-09-14 | [大脑充血 Vol.98](https://www.geedea.pro/weekly/98/) | 这是一篇小报，不遵循一般的格式，一般不谈严肃内容，甚至可能全是技术内容。不过这篇…… 实际上还挺严肃的。写着写着就变成了对谷歌和各种大公司的嘲讽，不过并不是批评和要求，因为我对他们的道德水准实际上毫无期待。 这篇小报从版权聊到垄断，再谈到版权，希望能让读者对曾经忽视过的问题有些思考，如果你有相关的见… |
+| 2026-09-14 | [hermes agent 这几天有一个大](https://versun.me/blog/tweet-2099288182324129817) | hermes agent 这几天有一个大 bug，如果你同时使用 tui/cli 和 desktop，则会出现 state.db 冲突写入问题，目前有好几个 issue 和 PR 了 目前的解决方法就是，会话一定要完全退出解锁数据库，比如 tui/cli 要通过 quit 命令退出，desktop… |
 | 2026-09-14 | [辅导作业之《为什么学生不喜欢上学？》](https://gaoyu.me/blog/33-2026-09-14) | 工作记忆与长期记忆+练习与知识迁移 |
 | 2026-09-13 | [新约经文选读｜稳住心神](https://blog.zzbd.org/miao20260914/) | 说明：节选新约中安慰、止息焦虑、内心得平安的经文，搭配简短平缓的引导，适合工作间隙慢慢读，稳住心绪，安然做完今日余下的工作。 |
 | 2026-09-13 | [Apple Watch Setup](http://www.uncoverman.com/apple-watch-setup.html) | 现在有一只 Apple Watch SE 3 (GPS)，星光色，配的米兰尼斯表带，44 寸手腕大小刚好，主要用于健康追踪。目前戴了 9 个月，分享一下 Apple Watch 的 Setup 。 # 表盘 表盘我选用的是模块化表盘，表盘上有更多菜单入口可以设置，实用。 体能训练：外出跑步、骑行、徒… |
@@ -148,25 +152,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-09-08 | [门外石榴](https://www.hecaitou.com/2026/09/the-pomegranate-outside.html) | 小区里有一树石榴，才开始挂果我就开始觊觎。夏天悄悄过去，一枚大果渐渐显露身形，我心中贪念随即生起，如野火蔓烧，日甚一日。 先是忍不住去想，这是什么品种，又是什么滋味？有籽无籽，皮厚皮薄，摘回去又要用什么方法完整解开？「摘回去」三个字凭空出现，我却毫无觉察，从此，眼前石榴在我心中早已成为囊中之物。一切… |
 | 2026-09-08 | [悲观主义者的依恋练习](https://mobius.blog/25689.html) | 每次在陌生城市坐车，看到车辆经过的高架桥下、或是立交桥中央的杂木林，我的脑子都会自动为我播放一些奇怪的画面—— […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-09-08 | [ES transport证书p12到期监控实现（CronJob推送指标）](https://199604.com/3689) | ES transport证书p12到期监控实现（CronJob推送指标） 记录时间：2026-09-07 环境 […] |
-| 2026-09-07 | [这两天给我的 hermes 配了 gem](https://versun.me/blog/tweet-2097106789947027843) | 这两天给我的 hermes 配了 gemini-3.8-flash，体感非常好，文字能力顶级，智商也很在线，感觉比 k3 还要好一点 也是第一次竟然能跳读 AI 写的内容而不会看不懂。。。 至少要比这两天刚出的 gpt-4o 要好很多🤡 |
-| 2026-09-07 | [找到一个青少年入门 AI 最好的教程，是](https://versun.me/blog/tweet-2097105906035200118) | 找到一个青少年入门 AI 最好的教程，是有谷歌和树莓派基金会一起搞的： https://experience-ai.org/en-US/units |
-| 2026-09-07 | [做为 Zenmux 的天使用户，用到现在](https://versun.me/blog/tweet-2097097968289714585) | ZenMux 🚀 OpenAI: GPT-6 Astra is now live on ZenMux! @OpenAI 's most capable model for teams running complex agent workflows across code, browsers, res… |
-| 2026-09-07 | [Sweep LLM 功耗控制调度策略研究(二)](https://eduardoqian.com/archives/sweep-llm-gong-hao-kong-zhi-diao-du-ce-lue-yan-jiu-er) | 前篇文章：https://eduardoqian.com/archives/sweep-llm-gong-hao-kong-zhi-diao-du-ce-lue-yan-jiu-yi 继续书接上回。 PD分离 目前vllm PD分离广泛应用于推理系统中，考虑到prefill和decode的计算特征， |
-| 2026-09-07 | [Token 应译作「符」](https://www.geedea.pro/article/token-translation/) | 整场「要不要把 Token 翻译成词元？」的争论令我感到诡异，诡异的点在于所有参与者都只看到了 Token 作为大语言模型计价单位的意思，而 Token 一词存在于英语语言中已经有很久了（对中文的影响也很大）。若把 Token 先前的释义也译作「词元」，场面会非常可笑： 这套桌游里的某个词元不见了！… |
-| 2026-09-07 | [终究还是要搬家了](https://blog.solazy.me/20260907/) | 最近可能要考虑接下来往哪儿搬了 |
-| 2026-09-07 | [R#118 周报系统v2了](https://blog.sakanano.moe/journals/random_118) | 2026.9.1 ~ 2026.9.7 |
-| 2026-09-07 | [小论博客的更新速度](https://blog.mfwt.top/index.php/archives/1582/) | 几天不更，冒个泡，证明自己还活蹦乱跳的。本文聊聊最近博客的更新问题，所以其实不算是『议论』，因为不是什么严肃话题；『讨论』又好像只有我一个人在说；当然也不是什么『大论』，毕竟个人事务而已，而且也... |
-| 2026-09-07 | [辣椒炒肉](https://taxodium.ink/recipe-la-jiao-chao-rou.html) | 辣椒炒肉 實踐一下 Zine#57 裡分享的 RecipeTables 的做法。 辣椒炒肉菜譜 螺丝椒或是其它青椒約 250g 切片 熱鍋，少許少許油，下入青椒煽炒，壓一壓， 煽一陣子後加入少量盐，直到煽軟，有點虎皮的感覺，捞起備用。 熱鍋，放入適量油 (可以稍微多一些) ， 如果有肥肉就先放入肥肉… |
-| 2026-09-07 | [AI 烧钱还在继续：收入追得上利息吗？](https://wenfeixiang.com/2026/09/ai-debt/) | 说个没人算过的账： 未来 5 年，全球要砸 5 万亿美元（美国预计新增 4万亿）去建 AI 数据中心。 数据中 […] |
-| 2026-09-07 | [差距明显啊，Astra效果好好，Fabl](https://versun.me/blog/tweet-2096861825707167803) | Chasen 为什么最近都没人讨论 Fable 5.1？？ 至少我最近刷到的内容，几乎都被 Astra 占满了。我反而有点好奇：把它们放到同一个任务里，差别到底有多大？ 于是我在 @ZenMuxAI 上给两个模型发了同一句提示词： 「生成 3D 鹈鹕皮划艇」 第一个视频是 Astra，第二个是 Fa… |
-| 2026-09-07 | [第一次去佛山，看王菀之演唱会](https://tianheg.co/posts/first-time-in-foshan/) | 和上次看 新裤子 一样，从深圳北到广州南坐高铁去，然后坐佛山地铁2号线去到目的地。到了地方，一开始没搞明白什么是北活一区、北下一区，导致我的座位在北下却坐到北活，还好最后还是发现了，坐到了正确的位置。这个体育馆的座位没有广州宝能的舒服，看起来蛮破旧的。VIP区的座位竟然就只是草草地摆了很多排椅子。当… |
-| 2026-09-07 | [山西之旅](https://liudon.com/posts/the-trip-of-shanxi/) | 趁着暑假最后一个周末的尾声，来了一趟三天两晚的山西之行。 第一天 上午11:29分在清河站乘坐G2509次火车，下午14:27分直达忻州西。 |
-| 2026-09-07 | [多行平铺的方式展示当前窗口所有标签页的Chrome扩展](https://hzzio.top/blog/multi-row-tabs) | 多行平铺的方式展示当前窗口所有标签页的Chrome扩展 |
-| 2026-09-07 | [取消英文，取消古文](https://www.hecaitou.com/2026/09/cancel-english-cancel-the-classics.html) | 上网年限太长，人就容易厌倦，比如说这几天看到又有人在吵取消英文，取消英文主科地位。记得我第一次在网上看到这个话题时，胡子还是软的，头发也依然茂密。 这种翻炒万年话题本来没什么意思，不过和海峡那边对照观察一番，事情就变得有趣起来：这边是过阵子就吵要不要取消英文，那边是过阵子就吵要不要取消古文。 我个人… |
-| 2026-09-07 | [羡慕啊，不知道啥时候能实现 token](https://versun.me/blog/tweet-2096795789129666938) | DHH THAT'S A LOT OF TOKENS FOR OMARCHY!! Thanks again to the awesome team at @AIatMeta for supporting us as Founding Corporate Patrons for the Omacom… |
-| 2026-09-07 | [你会痛苦吗](https://mobius.blog/25686.html) | 收到一则私信，我就写了这么几个字：你会痛苦吗？ 我觉得这是个很好的问题，因为我也不知道该如何回答，所以得先向对 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
-| 2026-09-07 | [迷你 MTR：在地图上看香港地铁实时运行](https://7gugu.com/index.php/2026/09/07/%e8%bf%b7%e4%bd%a0-mtr%ef%bc%9a%e5%9c%a8%e5%9c%b0%e5%9b%be%e4%b8%8a%e7%9c%8b%e9%a6%99%e6%b8%af%e5%9c%b0%e9%93%81%e5%ae%9e%e6%97%b6%e8%bf%90%e8%a1%8c/) | 背景 之前第一次看到 Mini Tokyo 3D 的时候，就很想做一个香港地铁版本：把线路铺在真实地图上，再让 … 继续阅读 “迷你 MTR：在地图上看香港地铁实时运行” |
-| 2026-09-07 | [大脑充血 Vol.97](https://www.geedea.pro/weekly/97/) | 宣布 周刊改月刊 已经有两周了，我怎么还在周更……？ 这篇是九月的正刊，正刊在每月的第一个周一发布。上周发布的是一篇 小报 ，小报可能会随机出现在非正刊发布日的周一，也可能没有。简而言之，这篇之后，九月就没有正刊了。国庆再见！ 吾仅悉落 London Calling The Clash NeoDB… |
 
 ## Vibe Coding
 
