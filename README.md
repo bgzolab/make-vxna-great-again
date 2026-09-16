@@ -27,6 +27,10 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-09-16 | [数值分析](https://physnya.top/numerical-analysis/) | README 这里是 的「数值分析」笔记. 本课程在基础科学班的培养方案中属于数理基础课「十选四」，鉴于人工智能的编码能力已经很强，因此本课程比较偏向：对于经典的数学问题，寻求数值算法；对于已有的成果，设计新的算法. |
+| 2026-09-16 | [概论](https://physnya.top/numerical-analysis/lesson-1-introduction/) | 为什么要分析计算结果？ 计算机算出的仅仅只是数值解，而不是精确解. 因此不能盲目采用，需要用不同的方法来具体分析. 误差类型： 模型误差：例如假设地球是一个球，忽略了一些次要因素. 测量误差 截断误差：用有限代替无限，用简单代替复杂导致的误差. 舍入误差：计算机能表示的数都是有限位的. 前两者并不是… |
+| 2026-09-16 | [Nginx 反代裸路径 301 带出后端端口的问题](https://199604.com/3712) | Nginx 反代裸路径 301 带出后端端口的问题 记录时间：2026-09-16 环境：前置 Nginx（/ […] |
+| 2026-09-16 | [从灵感到施工](https://www.hecaitou.com/2026/09/From-Spark-to-Breaking-Ground.html) | 之前我谈过「如何找灵感」的问题，我给出的回答是： 「 你得先行动，行动的过程中就一定会和环境发生碰撞。碰撞过程中你得到新信息，新反馈，于是你受到外界的刺激，而这个刺激会让你产生灵感...... 这些刺激进入你的大脑和心灵，你自然而然会产生反应，有情绪上的，有思考上的，一开始是些碎片，你跟着碎片飘荡，… |
 | 2026-09-16 | [把另一个人拖下水，有助于改善困境吗？II](https://mobius.blog/25724.html) | 前序内容：《把另一个人拖下水，有助于改善困境吗？I》 再聊聊更宏观的“替罪羊机制”。 1954 年，戈登·奥尔 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-09-15 | [入蜀记 day477 街头美食斗士、宜家、手机掉进地铁门缝](https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_477/) | 「街头美食斗士、宜家、手机掉进地铁门缝。」 |
 | 2026-09-15 | [深圳-拉萨自驾-在路上](https://elmagnifico.tech/2026/09/16/shenzhen-lasa-ontheway/) | Foreword 如上篇所提，今年中秋和国庆中间卡了三天班，直接请假从 9 月 25 号连到 10 月 7 号，一共 13 天。去拉萨，托车到成都再开 318到拉萨，后续车托回深圳，我从拉萨直接飞回来。 准备 预算 拖车到成都1700，拉萨拖回来3000，飞成都1600，拉萨飞回3900，这部分固定… |
@@ -35,16 +39,17 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-09-15 | [入蜀记 day474 蛮族人、迷住、生态位](https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_474/) | 「蛮族人、迷住、生态位。」 |
 | 2026-09-15 | [敬畏之心](https://blog.solazy.me/20260915/) | 今天和几个朋友吃饭，说到敬畏之心这个话题…… |
 | 2026-09-15 | [Coffee Break Clojure, Vol.0](https://www.geedea.pro/article/tutorial-clj-0/) | 如果有人问我最喜欢的编程语言是什么，我可能会在 Clojure 和 Go 之间纠结一番，但无疑我更 享受 手写 Clojure 的体验。可就像大部分 Lisp 一样，Clojure 的讨论度并不高，中文内容更是少得可怜。所以我为什么不能贡献一些内容呢？ 我前段时间听过一档名为《Coffee Brea… |
-| 2026-09-15 | [非京籍个体户缴纳社保(补充)：Web 端员工工资薪金个税预扣预缴](https://blog.yasking.org/a/self-employed-append-two) | 早在几年前，Web 端就支持了单位代扣代缴员工个人所得税，当时参考小红书上的教程，就一直沿用 Windows 客户端的方式缴纳，其 … |
 | 2026-09-15 | [UNSW Katana使用记录](https://mocusez.site/zh-CN/posts/d355) | UNSW Katana HPC使用 |
 | 2026-09-15 | [来信 · 莫良](https://www.gtdstudy.com/guestbook/87f68869-3498-4076-94c5-d8537125e557/) |  |
 | 2026-09-15 | [GifPlay：Mac原生Gif录制和编辑工具，装机必备【效率工具指南】](https://penghh.fun/2026/09/15/2026-9-15-gifplay/) | <script src=" |
 | 2026-09-15 | [动起来，否则你就要费劲思考了](https://www.gtdstudy.com/posts/2026-09-15-pascal/) |  |
 | 2026-09-15 | [Memos: AI 默默的从 ~/.zsh_history 翻到 token 更新了生产环境](https://blog.yasking.org/a/1789461576) | 我表述想更新 Tag Name，过了一会儿它已经把测试、正式环境都更新好了。 过于‘智能’，问题是我从未配置过生产环境的操作流程 … |
+| 2026-09-15 | [灵感不上门](https://www.hecaitou.com/2026/09/inspiration-doesnt-make-house-calls.html) | 灵感，灵感，灵感，老有人跑来问我哪里来的灵感。每天一篇文章，灵感哪里来？每天三张图，灵感哪里来？ 这个问法本身就有问题，感觉是人坐在家里，门铃响，开门一看，灵感穿着西装三件套，手提公文包自我介绍： 「您好，我是灵感，叫我小灵就行，我今天来找您，是为了帮助您写一篇新文章」。 不会有这样的事的。 也不会… |
 | 2026-09-15 | [骆驼、狮子、孩子、路飞、大笑](https://kaix.in/2026/0915/) | 前几天——或者十几天？俗务繁杂实在有些晕头转向了——偶然看到一段用尼采的精神三变来解读《海贼王》的 视频 ，感觉颇有趣味，不过就像如今的许多事一样，看过也就过去了。 但是这几日突然又感觉心里有些堵，简单说来，我意识到自己已经好久不觉得什么事情值得大笑出声了。如果《海贼王》里路飞那种开怀大笑正是精神三… |
 | 2026-09-15 | [遇见你](https://hux.ink/posts/meet-u/) | 因 B 站 UP 主安州牧的一期视频《重返历史现场》，看完后 Loop 了两个多小时的博物馆系列。 继续刷到 UP 主破产兄弟有关博物馆入坑入门的两期视频，里面有一段文案击中人心。 “它生命当中遇到的第一个人是匠人，匠人带着非凡的技艺和观念把它制作了出来，然后它遇到了物主人，主人用一生去爱护它，甚至… |
 | 2026-09-15 | [给城里人搞点事情](https://www.hecaitou.com/2026/09/giving-city-folks-something-to-do.html) | 很久以前，我就发现下班之后的八小时很难打发。一方面是因为纠集一班朋友越来越难，有人要加班，有人要恋爱，有人要带孩子，另一方面是因为可以参与的项目极为有限，搞来搞去也就是那几样，而且每一次的体验也不确定。哪怕是你最喜欢的餐厅，也未必能做到每次去都满意。 所以，如何安排都市人口的这八个小时一直就是个问题… |
 | 2026-09-15 | [申请国家电网电费账单做KYC地址证明，4步搞定](https://gugegt.com/state-grid-electricity-bill-kyc-address-proof.html) | 你有没有遇到过这种情况：身份证或者户口本上的地址是A，但你实际住在B。填表的时候写的又是A，结果各种平台做KYC（身份验证）时要求提供地址证明，你手头没有任何带B地址的正式文件。 国家电网的APP能解决这个问题。它能生成一份PDF格式的电费账单，上面印着你的用电地址、户号、账单周期，盖着国网电力公司… |
+| 2026-09-15 | [非京籍个体户缴纳社保(补充)：Web 端员工工资薪金个税预扣预缴](https://blog.yasking.org/a/self-employed-append-two) | 早在几年前，Web 端就支持了单位代扣代缴员工个人所得税，当时参考小红书上的教程，就一直沿用 Windows 客户端的方式缴纳，其 … |
 | 2026-09-15 | [Zuma updated](https://macsourceports.com/game/zuma) | The build of Zuma Portable for Zuma has been updated to version 0.8 of the project |
 | 2026-09-15 | [这个工具好呀，可视化修改历史 git 提](https://versun.me/blog/tweet-2099681672967172507) | 这个工具好呀，可视化修改历史 git 提交 https://github.com/simonw/commit-rewriter |
 | 2026-09-15 | [macOS 27用了2天，很满意，很顺滑](https://versun.me/blog/tweet-2099680875181215930) | Versun macOS 27 正式版出来了，有从 15 升上来的吗 我有点憋不住了。。。 macOS 27用了2天，很满意，很顺滑，响应速度很快，比macOS 15好用 |
@@ -57,6 +62,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-09-14 | [办公室修身养性｜静守心神，安稳度日](https://blog.zzbd.org/miao20260915/) | 人在职场，最耗损人的从来不是手上的工作，而是纷乱的心。是忍不住的急躁，是看人看事的算计，是对结果的焦虑，是对失误的恐惧，是和他人无形的拉扯，是心里不肯放下的对错与得失。真正的修行，从来不是远离喧嚣，而是身在琐碎繁杂的办公室，依旧能守住内心的安稳，守住自己的节奏，守住干净的心念。 |
 | 2026-09-14 | [新约经文静心选读｜守住心神，安然直到下班](https://blog.zzbd.org/miao20260915-2/) | 前言：节选新约中安抚焦虑、保守心怀意念、教人在繁杂事务中持守平静的经文，搭配简短默想。适合工作间隙默读，抵挡烦躁、猜忌、内心的压力，稳住心绪，安心做完今日余下的工作。 |
 | 2026-09-14 | [黑洞与致密天体](https://physnya.top/compact-object/) | README 这里是 的「黑洞与致密天体」笔记. 本课程偏向比较简单的相关理论介绍. 但是鉴于选课的同学们基本上都对相关领域比较了解，因此也有很多理论推导的部分. |
+| 2026-09-14 | [Introduction](https://physnya.top/compact-object/lesson-1-introduction/) | 考核方式： 10 % 10\% 10% 课堂参与、 15 % 15\% 15% 个人课堂阅读报告 (20 min，每个人一次，读文献)、 30 % 30\% 30% 4 次作业、 15 % 15\% 15% 期末展示、 30 % 30\% 30% 期末考核. |
 | 2026-09-14 | [Star Wars: TIE Fighter updated](https://macsourceports.com/game/swtiefighter) | The build of OpenTIE for Star Wars: TIE Fighter has been updated to version v0.0.6 of the project |
 | 2026-09-14 | [Quetoo updated](https://macsourceports.com/game/quetoo) | The build of Quetoo has been updated to version v1.0.94 of the project |
 | 2026-09-14 | [腾讯云开源了个 AI 助手：Octop，装自己电脑上，全家一起用](https://gugegt.com/20260915-octop-tencent-ai-assistant.html) | 你电脑里大概装了不止一个 AI 应用。聊天记录、上传的文件、跟客户谈的方案，都在别人的服务器上。 腾讯云在 GitHub 上开源了一个叫 Octop 的项目。MIT 协议，Python 写的，版本 0.9.33。它想把这些搬回你自己的电脑。 |
