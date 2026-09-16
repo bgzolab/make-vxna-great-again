@@ -1,5 +1,12 @@
 [
   {
+    "title": "用 Tamper-monkey 集成 Kagi Translate (2) - 結合 Zen 瀏覧器的分屏功能",
+    "url": "https://taxodium.ink/integrate-kagi-translate-with-tampermonkey-2.html",
+    "date": "2026-09-16T13:41:00Z",
+    "description": "用 Tamper-monkey 集成 Kagi Translate (2) 結合 Zen 瀏覧器的分屏功能 之前分享了 用 Tamper-monkey 集成 Kagi Translate ，誰能想到還有續集 :P 上次分享後，我又基於我的使用習慣做了一些調整，例如將字典和翻譯用不同窗口呈現，不再複用同一個窗口，這樣在翻譯的同時也能查字典；通過檢測原始頁面關閉，自動關閉臨時窗口，减少一些手動操作。 自動關閉窗口是用 visibilitychange event 實現的，也試過 beforeunload event 和 pagehide event ，但都不如 visibilitychange 穩定。 visibilitychange 的問題是，一旦离開一個頁面就會触發，對於字典和段落翻譯來說沒問題，因為它們都翻譯得比較快，就是一些很臨時的窗口。但網頁翻譯時間相對比較長，我也需要一些時間才能看完，過程中如果我不小心切換了頁面或應用，窗口也會被關閉，就不太方便。 後來我想，也許在新的 Tab 打開會更好，這樣就沒有額外窗口，我也能利用 Zen 瀏覧器 的分屏功能，將 Tab 拖動過來分屏看，",
+    "source_root_domain": "taxodium.ink"
+  },
+  {
     "title": "Zine#58 - 用合理的排版引导讀者閱讀、值得熬夜的事情都值得早起",
     "url": "https://taxodium.ink/58.html",
     "date": "2026-09-16T09:45:00Z",

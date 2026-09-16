@@ -27,6 +27,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-09-16 | [用 Tamper-monkey 集成 Kagi Translate (2) - 結合 Zen 瀏覧器的分屏功能](https://taxodium.ink/integrate-kagi-translate-with-tampermonkey-2.html) | 用 Tamper-monkey 集成 Kagi Translate (2) 結合 Zen 瀏覧器的分屏功能 之前分享了 用 Tamper-monkey 集成 Kagi Translate ，誰能想到還有續集 :P 上次分享後，我又基於我的使用習慣做了一些調整，例如將字典和翻譯用不同窗口呈現，不再複用… |
 | 2026-09-16 | [Zine#58 - 用合理的排版引导讀者閱讀、值得熬夜的事情都值得早起](https://taxodium.ink/58.html) | Zine#58 用合理的排版引导讀者閱讀、值得熬夜的事情都值得早起 目錄 News &#124; Article Cool Bit Tutorial &#124; Resource Code Related AI Related Tool &#124; Library Emacs 一些话 &#124; 摘抄 多媒体 這周又聴了陳嫻静的「如… |
 | 2026-09-16 | [数值分析](https://physnya.top/numerical-analysis/) | README 这里是 的「数值分析」笔记. 本课程在基础科学班的培养方案中属于数理基础课「十选四」，鉴于人工智能的编码能力已经很强，因此本课程比较偏向：对于经典的数学问题，寻求数值算法；对于已有的成果，设计新的算法. |
 | 2026-09-16 | [概论](https://physnya.top/numerical-analysis/lesson-1-introduction/) | 为什么要分析计算结果？ 计算机算出的仅仅只是数值解，而不是精确解. 因此不能盲目采用，需要用不同的方法来具体分析. 误差类型： 模型误差：例如假设地球是一个球，忽略了一些次要因素. 测量误差 截断误差：用有限代替无限，用简单代替复杂导致的误差. 舍入误差：计算机能表示的数都是有限位的. 前两者并不是… |
