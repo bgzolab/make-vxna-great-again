@@ -1,7 +1,7 @@
 ---
 title: Latest Fetch Status
-created: 2026-09-15T21:00:15Z
-modified: 2026-09-15T21:00:15Z
+created: 2026-09-16T00:06:05Z
+modified: 2026-09-16T00:06:05Z
 description: Latest source-level fetch result for the most recent execution.
 tags:
   - ai-notes
@@ -11,11 +11,11 @@ tags:
 
 # Latest Fetch Status
 
-Generated at: 2026-09-15T21:00:15Z
+Generated at: 2026-09-16T00:06:05Z
 
 Total sources: 485
-Successful: 361
-Failed: 124
+Successful: 362
+Failed: 123
 
 | Status | Source | Feed | Origin | Articles | Error |
 | --- | --- | --- | --- | ---: | --- |
@@ -67,7 +67,7 @@ Failed: 124
 | Failed | [#290] V2EX › 王小嗨的不老歌 | [https://sogola.eth.sucks/index.xml](https://sogola.eth.sucks/index.xml) | [Origin](https://www.v2ex.com/xna/s/290) | 0 | The read operation timed out |
 | Failed | [#294] V2EX › BlessingCR | [https://blessingcr.com/?feed=rss2](https://blessingcr.com/?feed=rss2) | [Origin](https://www.v2ex.com/xna/s/294) | 0 | [Errno -3] Temporary failure in name resolution |
 | Failed | [#2] V2EX › 枫言枫语 | [https://justinyan.eth.limo/planet.json](https://justinyan.eth.limo/planet.json) | [Origin](https://www.v2ex.com/xna/s/2) | 0 | feed parse error |
-| Failed | [#301] V2EX › 飞刀博客 | [https://www.feidaoboke.com/feed.php](https://www.feidaoboke.com/feed.php) | [Origin](https://www.v2ex.com/xna/s/301) | 0 | _ssl.c:1064: The handshake operation timed out |
+| Failed | [#301] V2EX › 飞刀博客 | [https://www.feidaoboke.com/feed.php](https://www.feidaoboke.com/feed.php) | [Origin](https://www.v2ex.com/xna/s/301) | 0 | [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1082) |
 | Failed | [#305] V2EX › 奶昔博客 | [https://blog.naixi.net/feed/](https://blog.naixi.net/feed/) | [Origin](https://www.v2ex.com/xna/s/305) | 0 | Client error '403 Forbidden' for url 'https://blog.naixi.net/feed/' For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403 |
 | Failed | [#306] V2EX › Mumulhl | [https://mumulhl.eu.org/index.xml](https://mumulhl.eu.org/index.xml) | [Origin](https://www.v2ex.com/xna/s/306) | 0 | Client error '403 Forbidden' for url 'https://mumulhl.eu.org/index.xml' For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403 |
 | Failed | [#309] V2EX › Auburn | [https://blog.juhaozero.com/atom.xml](https://blog.juhaozero.com/atom.xml) | [Origin](https://www.v2ex.com/xna/s/309) | 0 | Client error '403 Forbidden' for url 'https://blog.juhaozero.com/atom.xml' For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403 |
@@ -111,7 +111,6 @@ Failed: 124
 | Failed | [#450] V2EX › 醒石 | [https://leonscave.com/index.xml](https://leonscave.com/index.xml) | [Origin](https://www.v2ex.com/xna/s/450) | 0 | Client error '403 Forbidden' for url 'https://keiwake.com/index.xml' For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403 |
 | Failed | [#453] V2EX › 上岸的鱼 | [https://blog.7caifei.com/atom.xml](https://blog.7caifei.com/atom.xml) | [Origin](https://www.v2ex.com/xna/s/453) | 0 | Client error '403 Forbidden' for url 'https://blog.7caifei.com/atom.xml' For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403 |
 | Failed | [#457] V2EX › Efan404 | [https://efan404.com/index.xml](https://efan404.com/index.xml) | [Origin](https://www.v2ex.com/xna/s/457) | 0 | Client error '403 Forbidden' for url 'https://efan404.com/index.xml' For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403 |
-| Failed | [#459] V2EX › Twisted Meadows | [https://www.twisted-meadows.com/feed/](https://www.twisted-meadows.com/feed/) | [Origin](https://www.v2ex.com/xna/s/459) | 0 | The read operation timed out |
 | Failed | [#460] V2EX › Xiaojun Zhou | [https://www.xiaojun.im/feed](https://www.xiaojun.im/feed) | [Origin](https://www.v2ex.com/xna/s/460) | 0 | [Errno -2] Name or service not known |
 | Failed | [#464] V2EX › J 实验室 | [https://weijunext.com/rss.xml](https://weijunext.com/rss.xml) | [Origin](https://www.v2ex.com/xna/s/464) | 0 | Client error '404 Not Found' for url 'https://weijunext.com/rss.xml' For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404 |
 | Failed | [#468] V2EX › Ivanvolt | [https://ivanvolt.com/feed](https://ivanvolt.com/feed) | [Origin](https://www.v2ex.com/xna/s/468) | 0 | Client error '404 Not Found' for url 'https://ivanvolt.com/feed' For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404 |
@@ -397,6 +396,7 @@ Failed: 124
 | Success | [#455] V2EX › guchengf.me | [https://guchengf.me/rss.xml](https://guchengf.me/rss.xml) | [Origin](https://www.v2ex.com/xna/s/455) | 124 | - |
 | Success | [#456] V2EX › Frytea's Blog | [https://frytea.com/feed/](https://frytea.com/feed/) | [Origin](https://www.v2ex.com/xna/s/456) | 10 | - |
 | Success | [#458] V2EX › laike9m | [https://laike9m.com/blog/rss/](https://laike9m.com/blog/rss/) | [Origin](https://www.v2ex.com/xna/s/458) | 5 | - |
+| Success | [#459] V2EX › Twisted Meadows | [https://www.twisted-meadows.com/feed/](https://www.twisted-meadows.com/feed/) | [Origin](https://www.v2ex.com/xna/s/459) | 10 | - |
 | Success | [#45] V2EX › 精灵王 | [https://jingling.im/rss.xml](https://jingling.im/rss.xml) | [Origin](https://www.v2ex.com/xna/s/45) | 123 | - |
 | Success | [#461] V2EX › 侯锐的思考与分享 | [https://www.nosuchfield.com/atom.xml](https://www.nosuchfield.com/atom.xml) | [Origin](https://www.v2ex.com/xna/s/461) | 20 | - |
 | Success | [#462] V2EX › justzht | [https://www.justzht.com/rss/](https://www.justzht.com/rss/) | [Origin](https://www.v2ex.com/xna/s/462) | 15 | - |

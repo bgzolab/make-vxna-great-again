@@ -167,16 +167,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-09-09 | [RollerCoaster Tycoon 2 updated](https://macsourceports.com/game/rct2) | The build of OpenRCT2 for RollerCoaster Tycoon 2 has been updated to version v0.5.5 of the project |
 | 2026-09-09 | [我突然发现，很多领域好像已经很久没有真正](https://versun.me/blog/tweet-2097498081260716290) | 我突然发现，很多领域好像已经很久没有真正的创新了。 现在的小孩，听着我们当年的老歌，看着我们小时候的动画片，很少自己琢磨游戏玩了。以前没钱买玩具，捡根树枝能开发出十几种玩法，能玩上好几十天；现在的小孩只会买玩具。 编程领域也是。进入 AI 时代后，我印象里最后一个冒出来的新语言，还是那个号称要替代… |
 | 2026-09-09 | [死猫为大](https://mobius.blog/25692.html) | 之前常来小区喂猫的“爱猫阿姨”，因想毒死野狗却毒死了小区流浪猫——这件事最终还是在这群定期来小区喂猫的“爱猫阿 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
-| 2026-09-08 | [AI 写下的那把 Redis 锁](https://depp.wang/2026/ai-redis-lock/) | 配套代码： transaction-lock-demo 。文中的代码位置都可以直接跳转到 GitHub 查看。 一个具体的技术问题 最近看 AI 写的一段后台代码时，我遇到一个具体、也很容易被忽略的技术问题。 代码里有这样一行： HjEventDtos.CreateResult result = l… |
-| 2026-09-08 | [怀念 SinaAppEngine](https://www.ichenfu.com/2026/09/08/rip-sina-app-engine/) | 经历了十几年的运营，SinaAppEngine 终于要走完一个产品的一生，即将下线并永久终止服务了。SAE 是我很早就接触过的平台，也是我人生中的第一份工作。借此契机，回忆一下我在 SAE 期间的一些工作，谨以此文，悼念我心中永远的 SinaAppEngine。 |
-| 2026-09-08 | [入蜀记 day470 处境是一种外来的东西](https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_470/) | 「处境是一种外来的东西。」 |
-| 2026-09-08 | [入蜀记 day469 四开](https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_469/) | 「四开。」 |
-| 2026-09-08 | [入蜀记 day468 经销商版家博会](https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_468/) | 「经销商版家博会。」 |
-| 2026-09-08 | [本来最近为了 gpt 6 想重新开 gp](https://versun.me/blog/tweet-2097228719404589098) | ZenMux 🚀 OpenAI: GPT-6 Astra is now live on ZenMux! @OpenAI 's most capable model for teams running complex agent workflows across code, browsers, res… |
-| 2026-09-08 | [日本浮生录 ｜探秘奄美大岛，寻找南国秘境](https://song.al/amami) | 写在前面 盛夏的夜晚总是很长。 那天晚上和朋友聊起旅行，话题从九州一路往南，最后停在了手机地图上的一片海。朋友指着鹿儿岛以南那座狭长的岛，说了一句：“奄美大岛，好像还没去过。” 关于奄美大岛，我知道得并不算多。印象中，它夹在九州与冲绳之间，四周都是海，岛上似乎有大片亚热带森林，也有红树林和漫长的海岸… |
-| 2026-09-08 | [门外石榴](https://www.hecaitou.com/2026/09/the-pomegranate-outside.html) | 小区里有一树石榴，才开始挂果我就开始觊觎。夏天悄悄过去，一枚大果渐渐显露身形，我心中贪念随即生起，如野火蔓烧，日甚一日。 先是忍不住去想，这是什么品种，又是什么滋味？有籽无籽，皮厚皮薄，摘回去又要用什么方法完整解开？「摘回去」三个字凭空出现，我却毫无觉察，从此，眼前石榴在我心中早已成为囊中之物。一切… |
-| 2026-09-08 | [悲观主义者的依恋练习](https://mobius.blog/25689.html) | 每次在陌生城市坐车，看到车辆经过的高架桥下、或是立交桥中央的杂木林，我的脑子都会自动为我播放一些奇怪的画面—— […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
-| 2026-09-08 | [ES transport证书p12到期监控实现（CronJob推送指标）](https://199604.com/3689) | ES transport证书p12到期监控实现（CronJob推送指标） 记录时间：2026-09-07 环境 […] |
 
 ## Vibe Coding
 
