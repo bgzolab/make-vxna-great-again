@@ -27,6 +27,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-09-16 | [2026.9.16](https://www.justzht.com/2026-9-16/) | 现在是下午两点四十，我坐在电脑前等着 process server 给我回电话 - 至少他们给我回的邮件是这么说的，‘call back with you shortly’ - |
 | 2026-09-16 | [用 Tamper-monkey 集成 Kagi Translate (2) - 結合 Zen 瀏覧器的分屏功能](https://taxodium.ink/integrate-kagi-translate-with-tampermonkey-2.html) | 用 Tamper-monkey 集成 Kagi Translate (2) 結合 Zen 瀏覧器的分屏功能 之前分享了 用 Tamper-monkey 集成 Kagi Translate ，誰能想到還有續集 :P 上次分享後，我又基於我的使用習慣做了一些調整，例如將字典和翻譯用不同窗口呈現，不再複用… |
 | 2026-09-16 | [Zine#58 - 用合理的排版引导讀者閱讀、值得熬夜的事情都值得早起](https://taxodium.ink/58.html) | Zine#58 用合理的排版引导讀者閱讀、值得熬夜的事情都值得早起 目錄 News &#124; Article Cool Bit Tutorial &#124; Resource Code Related AI Related Tool &#124; Library Emacs 一些话 &#124; 摘抄 多媒体 這周又聴了陳嫻静的「如… |
 | 2026-09-16 | [数值分析](https://physnya.top/numerical-analysis/) | README 这里是 的「数值分析」笔记. 本课程在基础科学班的培养方案中属于数理基础课「十选四」，鉴于人工智能的编码能力已经很强，因此本课程比较偏向：对于经典的数学问题，寻求数值算法；对于已有的成果，设计新的算法. |
