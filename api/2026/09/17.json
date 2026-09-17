@@ -1,5 +1,12 @@
 [
   {
+    "title": "DeepSeek-V4.1-Flash: Pushing the Limits of KV Cache Compression",
+    "url": "https://mer.run/posts/deepseek-v41-flash-pushing-the-limits-of-kv-cache-compression/",
+    "date": "2026-09-17T11:55:45Z",
+    "description": "DeepSeek V4.1 Flash的技术报告。",
+    "source_root_domain": "mer.dev"
+  },
+  {
     "title": "Blog Theme Update Mermaid Support Is Here",
     "url": "https://www.bboy.app/2026/09/17/blog-theme-update-mermaid-support-is-here/",
     "date": "2026-09-17T11:14:20Z",

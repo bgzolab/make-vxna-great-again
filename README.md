@@ -27,6 +27,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-09-17 | [DeepSeek-V4.1-Flash: Pushing the Limits of KV Cache Compression](https://mer.run/posts/deepseek-v41-flash-pushing-the-limits-of-kv-cache-compression/) | DeepSeek V4.1 Flash的技术报告。 |
 | 2026-09-17 | [Blog Theme Update Mermaid Support Is Here](https://www.bboy.app/2026/09/17/blog-theme-update-mermaid-support-is-here/) | Introduction The blog theme now supports Mermaid. From now on, I can put flowcharts, sequence diagrams, and simple architecture diagrams directly into… |
 | 2026-09-17 | [博客主题更新：现在支持 Mermaid 了](https://www.bboy.app/2026/09/17/%E5%8D%9A%E5%AE%A2%E4%B8%BB%E9%A2%98%E6%9B%B4%E6%96%B0%E7%8E%B0%E5%9C%A8%E6%94%AF%E6%8C%81-mermaid-%E4%BA%86/) | 简介 博客主题现在支持 Mermaid 了。以后写流程图、时序图或者简单的架构图，直接在 Markdown 里写 Mermaid 代码就能渲染，不用先画图、导出、上传，再回来补链接。 这篇也顺便拿来测试一下新功能。 |
 | 2026-09-17 | [根本看不过来](https://www.hecaitou.com/2026/09/Impossible-to-Keep-Up.html) | 曾经有段时间，我的家里堆满了新书，新影碟，但是根本没有时间看。一方面我真诚地相信，我需要看这些书，里面有我需要的知识，我也需要看这些影碟，里面有我需要的娱乐。但是我没时间，进度很慢，于是我就感觉到非常焦虑，觉得自己一直在错失什么。 今天我看到一条帖子，教大家如何把微信接入 AI，这样 AI 就可以帮… |
