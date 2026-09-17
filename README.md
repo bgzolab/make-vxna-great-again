@@ -27,6 +27,10 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-09-17 | [学习周刊-总第281期-2026年第38周](https://wiki.eryajf.net/pages/f4b3b4/) | 如要阅读全文，点击标题跳转。 学习周刊-总第281期 &#124; netsgo &#124; polywise &#124; drawio-skill &#124; CLICD &#124; Swifka &#124; glitter-idea-repo &#124; MacSai |
+| 2026-09-17 | [Meta 智能体 Muse 开放邀请码，双方各得 10 亿词元](https://gugegt.com/meta-muse-invite-code.html) | 你现在打开 muse.ai ，多半会看到一句"你已加入等候名单"。Meta 的个人 AI 智能体 9 月 8 日发布，首批只开了美国等少数地区，中国大陆不在里面。 邀请码通道是 9 月 16 日开的。用别人的码注册，你和对方各得 10 亿个 Muse 词元。 我的码是 HGM2XI 。 |
+| 2026-09-17 | [在 DSH 手动启用 OpenCode Go DeepSeek v4.1 新模型](https://blog.frytea.com/archives/32459) | 最近在使用 DeepSeek Harness 时，对接 DeepSeek 官方模型，奈何消耗过高，一会儿就几块 […] |
+| 2026-09-17 | [四年前梦想的生活与现实的生活之书房篇（2026版）](https://www.ixiqin.com/2026/09/17/dream-life-and-real-life-in-the-study-2026-edition/) | 写 Blog 的好处就是，你总是会有一些历史的内容，时不时的浮上来，让你回想起自己曾经的想象。 而对于房子来说 […] |
 | 2026-09-17 | [DeepSeek-V4.1-Flash: Pushing the Limits of KV Cache Compression](https://mer.run/posts/deepseek-v41-flash-pushing-the-limits-of-kv-cache-compression/) | DeepSeek V4.1 Flash的技术报告。 |
 | 2026-09-17 | [Blog Theme Update Mermaid Support Is Here](https://www.bboy.app/2026/09/17/blog-theme-update-mermaid-support-is-here/) | Introduction The blog theme now supports Mermaid. From now on, I can put flowcharts, sequence diagrams, and simple architecture diagrams directly into… |
 | 2026-09-17 | [博客主题更新：现在支持 Mermaid 了](https://www.bboy.app/2026/09/17/%E5%8D%9A%E5%AE%A2%E4%B8%BB%E9%A2%98%E6%9B%B4%E6%96%B0%E7%8E%B0%E5%9C%A8%E6%94%AF%E6%8C%81-mermaid-%E4%BA%86/) | 简介 博客主题现在支持 Mermaid 了。以后写流程图、时序图或者简单的架构图，直接在 Markdown 里写 Mermaid 代码就能渲染，不用先画图、导出、上传，再回来补链接。 这篇也顺便拿来测试一下新功能。 |
