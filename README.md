@@ -27,6 +27,9 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-09-17 | [Blog Theme Update Mermaid Support Is Here](https://www.bboy.app/2026/09/17/blog-theme-update-mermaid-support-is-here/) | Introduction The blog theme now supports Mermaid. From now on, I can put flowcharts, sequence diagrams, and simple architecture diagrams directly into… |
+| 2026-09-17 | [博客主题更新：现在支持 Mermaid 了](https://www.bboy.app/2026/09/17/%E5%8D%9A%E5%AE%A2%E4%B8%BB%E9%A2%98%E6%9B%B4%E6%96%B0%E7%8E%B0%E5%9C%A8%E6%94%AF%E6%8C%81-mermaid-%E4%BA%86/) | 简介 博客主题现在支持 Mermaid 了。以后写流程图、时序图或者简单的架构图，直接在 Markdown 里写 Mermaid 代码就能渲染，不用先画图、导出、上传，再回来补链接。 这篇也顺便拿来测试一下新功能。 |
+| 2026-09-17 | [这个世界暂时还不能没有照相馆](https://mobius.blog/25729.html) | 前两天和老婆在讨论，要不要趁着结婚纪念日，带着两只狗去专业的摄影棚拍套全家福。这件事本身不重要，但它让我意识到 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-09-16 | [2026.9.16](https://www.justzht.com/2026-9-16/) | 现在是下午两点四十，我坐在电脑前等着 process server 给我回电话 - 至少他们给我回的邮件是这么说的，‘call back with you shortly’ - |
 | 2026-09-16 | [用 Tamper-monkey 集成 Kagi Translate (2) - 結合 Zen 瀏覧器的分屏功能](https://taxodium.ink/integrate-kagi-translate-with-tampermonkey-2.html) | 用 Tamper-monkey 集成 Kagi Translate (2) 結合 Zen 瀏覧器的分屏功能 之前分享了 用 Tamper-monkey 集成 Kagi Translate ，誰能想到還有續集 :P 上次分享後，我又基於我的使用習慣做了一些調整，例如將字典和翻譯用不同窗口呈現，不再複用… |
 | 2026-09-16 | [Zine#58 - 用合理的排版引导讀者閱讀、值得熬夜的事情都值得早起](https://taxodium.ink/58.html) | Zine#58 用合理的排版引导讀者閱讀、值得熬夜的事情都值得早起 目錄 News &#124; Article Cool Bit Tutorial &#124; Resource Code Related AI Related Tool &#124; Library Emacs 一些话 &#124; 摘抄 多媒体 這周又聴了陳嫻静的「如… |
@@ -166,23 +169,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-09-10 | [生产单点登录反复跳认证排查](https://199604.com/3698) | 生产单点登录反复跳认证排查 记录时间：2026-09-09 环境：生产单点登录门户（外层 nginx + K8 […] |
 | 2026-09-10 | [为需求创造的回忆](https://mobius.blog/25696.html) | TG 收到一条求助性质的留言，跟对方沟通后，决定匿名分享出来，因为它非常具有代表性。 留言的朋友称：自己跟前男 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-09-10 | [Memos #2026-09-09](https://www.taober.blog/memos/memo_20260909124454_qw7xkt) | 20:48 最近工作上学到的一些小技巧： 严肃场合不要露怯，允许临场的「不懂装懂」，过后补上就好； 大概率被动到我头上的事，干脆主动承接； 需要别人配合的果断抛出去，避免无意义的内耗； ... |
-| 2026-09-09 | [超辉夜姬的BD拉完了](https://www.ghostchu.com/5794/%e8%b6%85%e8%be%89%e5%a4%9c%e5%a7%ac%e7%9a%84bd%e6%8b%89%e5%ae%8c%e4%ba%86/) | 得知《超时空辉夜姬》BD 今日发售，已经投入了 787 + 495 元人民币沉没成本 + 苦网易云和官方音源糟 […] 超辉夜姬的BD拉完了 最先出现在 Ghost_chu's Blog 。 |
-| 2026-09-09 | [超辉夜姬的BD拉完了](https://www.ghostchu.com/%e8%b6%85%e8%be%89%e5%a4%9c%e5%a7%ac%e7%9a%84bd%e6%8b%89%e5%ae%8c%e4%ba%86/) | 得知《超时空辉夜姬》BD 今日发售，已经投入了 787 + 495 元人民币沉没成本 + 苦网易云和官方音源糟 […] 超辉夜姬的BD拉完了 最先出现在 Ghost_chu's Blog 。 |
-| 2026-09-09 | [上海看展](http://www.uncoverman.com/exhibition-hopping-in-shanghai.html) | 周末，带着小朋友，去了趟上海看展。秋高气爽，凉凉的凤吹着很舒服。 # 停车 这是第一次自驾去上海。 听说上海交规严，没打转向灯或者压线都会罚款，而且上海停车费贵，市区 10 元/小时都算少的，一天玩下来停车费 + 罚款，比路费都高。于是提前做了攻略，车子开到 P+R 停车场 ，换乘地铁出行，一天停车… |
-| 2026-09-09 | [Escaping Huawei/Honor PC Manager](https://www.tinyedi.com/escaping-huawei-honor-pc-manager/) | Background Honor PC Manager—essentially the Honor-flavored sibling of Huawei PC Manager—is far heavier than it needs to be. For my use case, the featu… |
-| 2026-09-09 | [放下助人情结，我又辞职了](https://blog.solazy.me/20260909/) | 今天我又辞职了 |
-| 2026-09-09 | [开源我的个人基因分析流程](https://anotherdayu.com/4250/) | 去年做完 WeGene 的全基因组测序之后，就一直想自己分析试试，于是有了这个项目。 整个项目是和 Claude 一起完成的，把分析流程整理成了 Skills 的形式，并开源到了 GitHub： https://github.com/DayuGuo/genome-atlas-skill WeGene… |
-| 2026-09-09 | [野人编年史](http://imlane.zhanglintc.co/ye-ren-bian-nian-shi) | 野人编年史 野人创始人 徐队 ，群昵称Shogun。姓徐，称徐队，真野人队长，野人 抖音官号 持有者。 张队 ，群昵称张小不。江湖人称竹节虫，简称虫队。 熊队 ，群昵称熊嘎婆，称熊队。 野人CLUB游泳事业部 群主。 亮队 ，群昵称亮什么，称亮队，野人 小红书官号 持有者。 野人声明 从 泳往直前… |
-| 2026-09-09 | [I Recreated My Own Version of TickTick with AI](https://www.bboy.app/2026/09/09/i-recreated-my-own-version-of-ticktick-with-ai/) | Introduction I had been using TickTick for quite a while, and the subscription cost me over 100 RMB a year. It wasn’t a lot of money, but I still want… |
-| 2026-09-09 | [我用 AI 复刻了一个自己的 TickTick](https://www.bboy.app/2026/09/09/%E6%88%91%E7%94%A8-ai-%E5%A4%8D%E5%88%BB%E4%BA%86%E4%B8%80%E4%B8%AA%E8%87%AA%E5%B7%B1%E7%9A%84-ticktick/) | 简介 TickTick 我用了挺久，每年一百多块钱的订阅费。钱不算多，但我还是想试试，能不能让 AI 按照我的习惯，重新做一个只属于我自己的版本。 最后真做出来了，我给它取名叫 Dodo。 |
-| 2026-09-09 | [Memos: 客户端藏不住接口参数和密钥](https://blog.yasking.org/a/1788943478) | 这两天使用 AI（GPT 5.6 Luna High 模型）做了两个测试： 某不支持导出历史记录的记账软件，我从 2022 年开始使用，已经有不少数据，想 … |
-| 2026-09-09 | [BPG 连接建立失败问题的答案和解析](https://www.kawabangga.com/posts/7413) | 本文是 BPG 连接建立失败问题 一文的答案和解析。 抓包文件中有两处可疑的地方。 第一处是 BGP OPEN […] Continue reading... |
-| 2026-09-09 | [欢迎来到薄肌俱乐部](https://www.hecaitou.com/2026/09/Welcome-to-Fit-Club.html) | 可能是算法推荐的缘故，最近「薄肌」这个词不断在我眼前出现，感觉一枚新的网络流行词在冉冉升起。 上网查了一下，「薄肌」是一种最新的身材审美标准。它不同于之前的「病娇」审美，也不同于之前的「肌霸」审美，而是走了一条中间道路：男性应该有肌肉，但不应该达到夸张臃肿的程度，应该保持一定的纤细身材，但要求肌肉轮… |
-| 2026-09-09 | [UZDoom updated](https://macsourceports.com/sourceport/uzdoom) | The build of UZDoom for the DOOM engine series of games has been updated to version 5.0.1 of the project\n\nhttps://macsourceports.com/sourceport/uzdo… |
-| 2026-09-09 | [帮助Marvis马维斯逃离腾讯魔爪](https://www.cheshirex.com/11102.html) | Marvis马维斯是腾讯的一个免费AI助手，它运行在腾讯云服务器上。用户下载安装登陆Marvis马维斯后会给你 […] |
-| 2026-09-09 | [RollerCoaster Tycoon 2 updated](https://macsourceports.com/game/rct2) | The build of OpenRCT2 for RollerCoaster Tycoon 2 has been updated to version v0.5.5 of the project |
-| 2026-09-09 | [我突然发现，很多领域好像已经很久没有真正](https://versun.me/blog/tweet-2097498081260716290) | 我突然发现，很多领域好像已经很久没有真正的创新了。 现在的小孩，听着我们当年的老歌，看着我们小时候的动画片，很少自己琢磨游戏玩了。以前没钱买玩具，捡根树枝能开发出十几种玩法，能玩上好几十天；现在的小孩只会买玩具。 编程领域也是。进入 AI 时代后，我印象里最后一个冒出来的新语言，还是那个号称要替代… |
-| 2026-09-09 | [死猫为大](https://mobius.blog/25692.html) | 之前常来小区喂猫的“爱猫阿姨”，因想毒死野狗却毒死了小区流浪猫——这件事最终还是在这群定期来小区喂猫的“爱猫阿 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 
 ## Vibe Coding
 

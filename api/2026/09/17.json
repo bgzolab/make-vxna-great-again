@@ -1,0 +1,261 @@
+[
+  {
+    "title": "Blog Theme Update Mermaid Support Is Here",
+    "url": "https://www.bboy.app/2026/09/17/blog-theme-update-mermaid-support-is-here/",
+    "date": "2026-09-17T11:14:20Z",
+    "description": "Introduction The blog theme now supports Mermaid. From now on, I can put flowcharts, sequence diagrams, and simple architecture diagrams directly into Markdown. No more drawing a diagram, exporting it, uploading it, and then coming back to add the link. This post also doubles as a quick test of the new feature.",
+    "source_root_domain": "bboy.app"
+  },
+  {
+    "title": "博客主题更新：现在支持 Mermaid 了",
+    "url": "https://www.bboy.app/2026/09/17/%E5%8D%9A%E5%AE%A2%E4%B8%BB%E9%A2%98%E6%9B%B4%E6%96%B0%E7%8E%B0%E5%9C%A8%E6%94%AF%E6%8C%81-mermaid-%E4%BA%86/",
+    "date": "2026-09-17T11:14:20Z",
+    "description": "简介 博客主题现在支持 Mermaid 了。以后写流程图、时序图或者简单的架构图，直接在 Markdown 里写 Mermaid 代码就能渲染，不用先画图、导出、上传，再回来补链接。 这篇也顺便拿来测试一下新功能。",
+    "source_root_domain": "bboy.app"
+  },
+  {
+    "title": "这个世界暂时还不能没有照相馆",
+    "url": "https://mobius.blog/25729.html",
+    "date": "2026-09-17T01:30:00Z",
+    "description": "前两天和老婆在讨论，要不要趁着结婚纪念日，带着两只狗去专业的摄影棚拍套全家福。这件事本身不重要，但它让我意识到 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。",
+    "source_root_domain": "onojyun.com"
+  },
+  {
+    "title": "2026.9.16",
+    "url": "https://www.justzht.com/2026-9-16/",
+    "date": "2026-09-16T22:04:12Z",
+    "description": "现在是下午两点四十，我坐在电脑前等着 process server 给我回电话 - 至少他们给我回的邮件是这么说的，‘call back with you shortly’ -",
+    "source_root_domain": "justzht.com"
+  },
+  {
+    "title": "用 Tamper-monkey 集成 Kagi Translate (2) - 結合 Zen 瀏覧器的分屏功能",
+    "url": "https://taxodium.ink/integrate-kagi-translate-with-tampermonkey-2.html",
+    "date": "2026-09-16T13:41:00Z",
+    "description": "用 Tamper-monkey 集成 Kagi Translate (2) 結合 Zen 瀏覧器的分屏功能 之前分享了 用 Tamper-monkey 集成 Kagi Translate ，誰能想到還有續集 :P 上次分享後，我又基於我的使用習慣做了一些調整，例如將字典和翻譯用不同窗口呈現，不再複用同一個窗口，這樣在翻譯的同時也能查字典；通過檢測原始頁面關閉，自動關閉臨時窗口，减少一些手動操作。 自動關閉窗口是用 visibilitychange event 實現的，也試過 beforeunload event 和 pagehide event ，但都不如 visibilitychange 穩定。 visibilitychange 的問題是，一旦离開一個頁面就會触發，對於字典和段落翻譯來說沒問題，因為它們都翻譯得比較快，就是一些很臨時的窗口。但網頁翻譯時間相對比較長，我也需要一些時間才能看完，過程中如果我不小心切換了頁面或應用，窗口也會被關閉，就不太方便。 後來我想，也許在新的 Tab 打開會更好，這樣就沒有額外窗口，我也能利用 Zen 瀏覧器 的分屏功能，將 Tab 拖動過來分屏看，",
+    "source_root_domain": "taxodium.ink"
+  },
+  {
+    "title": "Zine#58 - 用合理的排版引导讀者閱讀、值得熬夜的事情都值得早起",
+    "url": "https://taxodium.ink/58.html",
+    "date": "2026-09-16T09:45:00Z",
+    "description": "Zine#58 用合理的排版引导讀者閱讀、值得熬夜的事情都值得早起 目錄 News | Article Cool Bit Tutorial | Resource Code Related AI Related Tool | Library Emacs 一些话 | 摘抄 多媒体 這周又聴了陳嫻静的「如果每天都可以 happy happy 谁想要sad:)) - 一起去度假」 ，在評論區看到有人說「喜歡這張專輯的大概率也會喜歡 Men I Trust 的音樂」，於是就把 Men I Trust 的專輯都找來聴了聴，還沒聴完，確實也蠻喜歡的。他們的風格偏向 Dream pop ，整體聴著相對舒緩，主唱 Emmanuelle Proulx 的聲音也好聴。聴 Men I Trust，還會讓我想到另外兩支樂隊： The Fur. 和 The Cheers Cheers。如果你想找點歌聴，就去聴聴他們的音樂吧 :) News | Article Some Thoughts on Advice by Naty 一些 Naty 認為不錯的建議，其中有兩條我會試試： 與其將想做的事情列入人生清單，不如將它",
+    "source_root_domain": "taxodium.ink"
+  },
+  {
+    "title": "数值分析",
+    "url": "https://physnya.top/numerical-analysis/",
+    "date": "2026-09-16T08:58:36Z",
+    "description": "README 这里是 的「数值分析」笔记. 本课程在基础科学班的培养方案中属于数理基础课「十选四」，鉴于人工智能的编码能力已经很强，因此本课程比较偏向：对于经典的数学问题，寻求数值算法；对于已有的成果，设计新的算法.",
+    "source_root_domain": "physnya.top"
+  },
+  {
+    "title": "概论",
+    "url": "https://physnya.top/numerical-analysis/lesson-1-introduction/",
+    "date": "2026-09-16T08:58:36Z",
+    "description": "为什么要分析计算结果？ 计算机算出的仅仅只是数值解，而不是精确解. 因此不能盲目采用，需要用不同的方法来具体分析. 误差类型： 模型误差：例如假设地球是一个球，忽略了一些次要因素. 测量误差 截断误差：用有限代替无限，用简单代替复杂导致的误差. 舍入误差：计算机能表示的数都是有限位的. 前两者并不是本课程预计要讨论的内容，但是我们要讨论它们产生的影响. /Example/ 用三种迭代算法计算 3 − n 3^{-n} 3 − n ( n = 1 , 2 , ⋯ , 10 n=1,2,\\cdots,10 n = 1 , 2 , ⋯ , 10 )： a 0 = 0.99996 a0=0.99996 a 0 ​ = 0.99996 , a n = a n − 1 / 3 an=a{n-1}/3 a n ​ = a n − 1 ​ /3 ; b 0 = 1 b0=1 b 0 ​ = 1 , b 1 = 0.33332 b1=0.33332 b 1 ​ = 0.33332 , b n = 4 b n − 1 / 3 − b n − 2 / 3 bn=4b{n-1}/3-b{n-2}/3 b n ",
+    "source_root_domain": "physnya.top"
+  },
+  {
+    "title": "Nginx 反代裸路径 301 带出后端端口的问题",
+    "url": "https://199604.com/3712",
+    "date": "2026-09-16T07:19:51Z",
+    "description": "Nginx 反代裸路径 301 带出后端端口的问题 记录时间：2026-09-16 环境：前置 Nginx（/ […]",
+    "source_root_domain": "199604.com"
+  },
+  {
+    "title": "从灵感到施工",
+    "url": "https://www.hecaitou.com/2026/09/From-Spark-to-Breaking-Ground.html",
+    "date": "2026-09-16T03:54:56Z",
+    "description": "之前我谈过「如何找灵感」的问题，我给出的回答是： 「 你得先行动，行动的过程中就一定会和环境发生碰撞。碰撞过程中你得到新信息，新反馈，于是你受到外界的刺激，而这个刺激会让你产生灵感...... 这些刺激进入你的大脑和心灵，你自然而然会产生反应，有情绪上的，有思考上的，一开始是些碎片，你跟着碎片飘荡，它们慢慢慢慢会聚合在一起，慢慢慢慢形成某个你的个人想法。这时候你有了冲动，想把这个想法写出来，这就是灵感」。 然而，很快就有人问：这些碎片总是东一片西一片不能聚合怎么办？怎么做才能让它们聚合起来？ 那么接下来我想介绍一下聚合灵感碎片的三种主要方法，以及详细的步骤，只要你......对不起，这种事情我是不会做的，我也不可能给出这种承诺。因为我不会按照字面意思理解提问，也不会按照通常的方式去回答，给出某种教程。这世界上难道还缺少教程吗？ 按照我对问题的理解，这里就没有任何关于聚合的事。 我想问一句：只是捕捉到孤零零一个碎片，可以不可以直接写？答案是当然可以。起码可以写一句话，或者一个小段落。但绝大多数人不会那么做，因为他们的期待并非如此，他们想的是靠一个灵感得到一整篇文章。 问题是，一整篇文章也",
+    "source_root_domain": "hecaitou.com"
+  },
+  {
+    "title": "把另一个人拖下水，有助于改善困境吗？II",
+    "url": "https://mobius.blog/25724.html",
+    "date": "2026-09-16T01:30:00Z",
+    "description": "前序内容：《把另一个人拖下水，有助于改善困境吗？I》 再聊聊更宏观的“替罪羊机制”。 1954 年，戈登·奥尔 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。",
+    "source_root_domain": "onojyun.com"
+  },
+  {
+    "title": "入蜀记 day477 街头美食斗士、宜家、手机掉进地铁门缝",
+    "url": "https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_477/",
+    "date": "2026-09-15T16:01:27Z",
+    "description": "「街头美食斗士、宜家、手机掉进地铁门缝。」",
+    "source_root_domain": "arlmy.me"
+  },
+  {
+    "title": "读书笔记管理体系",
+    "url": "http://www.uncoverman.com/weread-notes-management.html",
+    "date": "2026-09-15T16:00:00Z",
+    "description": "平时主要使用微信读书，看书过程中会进行划线和评论。完成后，习惯性导出笔记整理，不定期重看。否则，过不了多久，看书过程中产生的灵感、看到的金句在脑海里都会丢失，有时候甚至为了找一本书里写过的一句话，费老鼻子劲，有点像找房间里的东西，你知道它在，但就是找不到，难受。 笔记不能只是静态归档，要做动态闪回 ，才能发挥它的最大价值。 我的方案是，通过 Weread 插件同步至 Obsidian 的文件夹，整理笔记格式，补充修改 metadata 标签、评分、评价等信息，对于要回看的笔记段落会加上 Quote 标签，并移动至在归档文件夹，避免 Weread 插件下次同步时，把整理完成的笔记覆盖了。 对于特别喜欢的语句，会抄录到手帐中。 Weread 插件是一个微信读书笔记的同步插件，由 @hank_zhao 开发。按插件说明填上 API，就可以同步了。同步有两种模式，一种是白名单模式，想要同步哪本书就同步哪本书，一种是黑名单模式",
+    "source_root_domain": "uncoverman.com"
+  },
+  {
+    "title": "深圳-拉萨自驾-在路上",
+    "url": "https://elmagnifico.tech/2026/09/16/shenzhen-lasa-ontheway/",
+    "date": "2026-09-15T16:00:00Z",
+    "description": "Foreword 如上篇所提，今年中秋和国庆中间卡了三天班，直接请假从 9 月 25 号连到 10 月 7 号，一共 13 天。去拉萨，托车到成都再开 318到拉萨，后续车托回深圳，我从拉萨直接飞回来。 准备 预算 拖车到成都1700，拉萨拖回来3000，飞成都1600，拉萨飞回3900，这部分固定开支已经10200了 住宿+吃饭，买一些零碎的东西，景区门票等，暂时不知道有多少，算多一些估计一天1000，预计1w块搞定所有吧 这两个合起来估计2w，算多一些2.5w？，完成十二天的自驾 机票 24号晚我就能到成都，然后直接晚上开车提前走一段，防止节假日堵车，走到其他人前面去。中间看情况车上或者中间某个地方休息一下就行了 药品 由于买不到缓释胶囊，先买了片。片剂防高反，常见剂量 125mg 一天两次。手、嘴发麻很常见，是药自己抑制碳酸酐酶带来的。碳酸饮料喝着还会发苦，麻得受不了就停药。 布洛芬随身带了一些 葡萄糖打算落地成都以后去买一个，省的过飞机安检，还挺麻烦的。 氧气罐也是落地成都以后提前买，建议买蓝罐，大的，可以一直放氧气，超值的 物品 衣物零碎，比如若饭、饮料，拍摄设备，笔记本，洗",
+    "source_root_domain": "elmagnifico.tech"
+  },
+  {
+    "title": "入蜀记 day476 框剪结构、逼单、商业模式",
+    "url": "https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_476/",
+    "date": "2026-09-15T15:59:27Z",
+    "description": "「框剪结构、逼单、商业模式。」",
+    "source_root_domain": "arlmy.me"
+  },
+  {
+    "title": "入蜀记 day475 监理",
+    "url": "https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_475/",
+    "date": "2026-09-15T15:57:27Z",
+    "description": "「监理。」",
+    "source_root_domain": "arlmy.me"
+  },
+  {
+    "title": "入蜀记 day474 蛮族人、迷住、生态位",
+    "url": "https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_474/",
+    "date": "2026-09-15T15:48:27Z",
+    "description": "「蛮族人、迷住、生态位。」",
+    "source_root_domain": "arlmy.me"
+  },
+  {
+    "title": "敬畏之心",
+    "url": "https://blog.solazy.me/20260915/",
+    "date": "2026-09-15T15:00:00Z",
+    "description": "今天和几个朋友吃饭，说到敬畏之心这个话题……",
+    "source_root_domain": "solazy.me"
+  },
+  {
+    "title": "Coffee Break Clojure, Vol.0",
+    "url": "https://www.geedea.pro/article/tutorial-clj-0/",
+    "date": "2026-09-15T14:58:43Z",
+    "description": "如果有人问我最喜欢的编程语言是什么，我可能会在 Clojure 和 Go 之间纠结一番，但无疑我更 享受 手写 Clojure 的体验。可就像大部分 Lisp 一样，Clojure 的讨论度并不高，中文内容更是少得可怜。所以我为什么不能贡献一些内容呢？ 我前段时间听过一档名为《Coffee Break French》的播客，内容是可以在午休时喝着咖啡听完的法语对话。学习一门编程语言怎么不可以这样轻松呢？我最近也有在帮忙翻译《 A Scheme Primer 》，这篇教程的语言相当通俗。受其启发，再加上我一直想要练习节制地写作，而不是滔滔不绝地写上好几千字，所以我决定开启新的博客系列：《Coffee Break Clojure》。 希望我不会事无巨细、毫无保留地把某个概念讲得十分彻底，最后写成令人望而生畏的长文。我也会更多关注「为什么」而非只是「是什么」，尽力让读者理解某个东西为什么要存在于这门语言里，为什么要这么写。此外，这篇教程是写给有编程基础的人读的，读者至少要熟悉一门编程语言才能继续。 Show Me The Code! 我在了解一门编程语言之前，总想要先有些视觉印象，所以会找些",
+    "source_root_domain": "geedea.pro"
+  },
+  {
+    "title": "UNSW Katana使用记录",
+    "url": "https://mocusez.site/zh-CN/posts/d355",
+    "date": "2026-09-15T12:47:23Z",
+    "description": "UNSW Katana HPC使用",
+    "source_root_domain": "mocusez.site"
+  },
+  {
+    "title": "来信 · 莫良",
+    "url": "https://www.gtdstudy.com/guestbook/87f68869-3498-4076-94c5-d8537125e557/",
+    "date": "2026-09-15T12:04:59Z",
+    "description": "",
+    "source_root_domain": "gtdstudy.com"
+  },
+  {
+    "title": "GifPlay：Mac原生Gif录制和编辑工具，装机必备【效率工具指南】",
+    "url": "https://penghh.fun/2026/09/15/2026-9-15-gifplay/",
+    "date": "2026-09-15T09:46:00Z",
+    "description": "<script src=\"",
+    "source_root_domain": "penghh.fun"
+  },
+  {
+    "title": "动起来，否则你就要费劲思考了",
+    "url": "https://www.gtdstudy.com/posts/2026-09-15-pascal/",
+    "date": "2026-09-15T09:22:39Z",
+    "description": "",
+    "source_root_domain": "gtdstudy.com"
+  },
+  {
+    "title": "Memos: AI 默默的从 ~/.zsh_history 翻到 token 更新了生产环境",
+    "url": "https://blog.yasking.org/a/1789461576",
+    "date": "2026-09-15T09:01:23Z",
+    "description": "我表述想更新 Tag Name，过了一会儿它已经把测试、正式环境都更新好了。 过于‘智能’，问题是我从未配置过生产环境的操作流程 …",
+    "source_root_domain": "yasking.org"
+  },
+  {
+    "title": "灵感不上门",
+    "url": "https://www.hecaitou.com/2026/09/inspiration-doesnt-make-house-calls.html",
+    "date": "2026-09-15T06:30:00Z",
+    "description": "灵感，灵感，灵感，老有人跑来问我哪里来的灵感。每天一篇文章，灵感哪里来？每天三张图，灵感哪里来？ 这个问法本身就有问题，感觉是人坐在家里，门铃响，开门一看，灵感穿着西装三件套，手提公文包自我介绍： 「您好，我是灵感，叫我小灵就行，我今天来找您，是为了帮助您写一篇新文章」。 不会有这样的事的。 也不会是你在家里东摸西找，在马桶水箱和墙壁之间的夹缝里发现灵感正躲在那里，抓住来扔在键盘上它就帮你打好一篇文字。也许你的确能找到私房钱或者双马尾小强，但不会有灵感。 事实上我说过很多次了，你得先行动，行动的过程中就一定会和环境发生碰撞。碰撞过程中你得到新信息，新反馈，于是你受到外界的刺激，而这个刺激会让你产生灵感。 在今天这个早上，你不知道写什么，那就打开电脑去看看新闻，这就是你的行动。于是，你看到 HYROX 这个词和「喷射战士」这条新闻，你没见过 HYROX 这个词，那么它就带来新鲜刺激。你也没见过喷射战士，那么喷射战士也就会带来强刺激。 这些刺激进入你的大脑和心灵，你自然而然会产生反应，有情绪上的，有思考上的，一开始是些碎片，你跟着碎片飘荡，它们慢慢慢慢会聚合在一起，慢慢慢慢形成某个你的个人",
+    "source_root_domain": "hecaitou.com"
+  },
+  {
+    "title": "骆驼、狮子、孩子、路飞、大笑",
+    "url": "https://kaix.in/2026/0915/",
+    "date": "2026-09-15T05:16:04Z",
+    "description": "前几天——或者十几天？俗务繁杂实在有些晕头转向了——偶然看到一段用尼采的精神三变来解读《海贼王》的 视频 ，感觉颇有趣味，不过就像如今的许多事一样，看过也就过去了。 但是这几日突然又感觉心里有些堵，简单说来，我意识到自己已经好久不觉得什么事情值得大笑出声了。如果《海贼王》里路飞那种开怀大笑正是精神三变中的「孩子」境界的体现，那我似乎是渐行渐远了。 我向妳们说出精神的三种变形：精神如何变骆驼，骆驼如何变狮子，最后狮子如何变小孩。 《查拉图斯特拉如是说》 其实从很久前我就感觉，人生于世必须要遵守一些规矩、准则、理念，并且「自贬以刺痛自己的高傲，显出愚钝以嘲弄自己的智慧」，要敬畏，要负重，也注定要孤独。这种精神状态，应该就类似尼采所说的骆驼。然后，我大概，也开始思考在种种「我应该」当中，或许有「我要」的空间和必要——若非如此世界岂不陷入一成不变？ 不过这时候出现了一种源于文化的岔路。尼采的骆驼，其实是锁链是受奴役，而中国文化里可能人和规矩的关系就如人和天地道义一样，是共生的。在尼采那里，人的精神需要从骆驼变为反抗的狮子，然后回归到孩子。而在孔子这边，他没有经历狮子的阶段也到达了「随心所欲而不",
+    "source_root_domain": "kaix.in"
+  },
+  {
+    "title": "遇见你",
+    "url": "https://hux.ink/posts/meet-u/",
+    "date": "2026-09-15T05:00:00Z",
+    "description": "因 B 站 UP 主安州牧的一期视频《重返历史现场》，看完后 Loop 了两个多小时的博物馆系列。 继续刷到 UP 主破产兄弟有关博物馆入坑入门的两期视频，里面有一段文案击中人心。 “它生命当中遇到的第一个人是匠人，匠人带着非凡的技艺和观念把它制作了出来，然后它遇到了物主人，主人用一生去爱护它，甚至爱到要带它入土去往来世，但是不料几百年后它还是遇到了盗贼，就这样它开始了一段颠沛流离的岁月。 它起初在潮湿的船舱底部飘摇，后来在灰暗的库房里蒙尘，有人在它的身上随意涂抹，它还险些被当做废品丢掉，更糟糕的是，那些年甚至还没来得及被清点它就差一点儿，毁于战火。 又过了很多年，有一天突然有人来打听它的下落，它原本以为不过是换一个地方藏着罢了，没想到几经辗转，那人竟带它回到了万里之外的祖国。 负责接收的博物馆那边，工作人员早就确定了最好的陈列方式，却还是连着几晚都辗转反侧，而负责讲解的志愿者更是绞尽脑汁，恨不能一口气讲透它所有的曲折，以上种种一时一事的差池都可能让这件文物像一颗流星一样消失在无边的黑暗，所以多幸运，它现在能静静的出现在这里。 透过玻璃展柜，它还看见了它这一整段旅程的终点，就是——遇见",
+    "source_root_domain": "hux.ink"
+  },
+  {
+    "title": "给城里人搞点事情",
+    "url": "https://www.hecaitou.com/2026/09/giving-city-folks-something-to-do.html",
+    "date": "2026-09-15T04:03:40Z",
+    "description": "很久以前，我就发现下班之后的八小时很难打发。一方面是因为纠集一班朋友越来越难，有人要加班，有人要恋爱，有人要带孩子，另一方面是因为可以参与的项目极为有限，搞来搞去也就是那几样，而且每一次的体验也不确定。哪怕是你最喜欢的餐厅，也未必能做到每次去都满意。 所以，如何安排都市人口的这八个小时一直就是个问题。既要满足一些轻量社交的需求，又要有趣有挑战有成就感，还要能够形成一种潮流，起码要让一批人趋之若鹜。之前，已经有过马拉松，有过玩飞盘，有过自行车骑行，以及突然没了声息的「City Walk」。 说实话，没有一样能干得过广场舞，大妈们一直站在八小时业余时间的生活方式金字塔顶端，戴着整齐的白手套，每天出勤。 最近我注意到有一种新的活动正在搞事情，看起来很有成功的希望。首先是门槛并非高不可攀，不需要什么专项技巧训练，更考验力量和耐力。然后是动作简单，基本上人人都可以参与，没有什么学习门槛，而且大家也不是比动作。再次是不太占地，大地方有大地方的搞法，小地方有小地方的搞法，而且活动场所可以用现成的，反正城市里空闲的地方大把都有。 最后是没有激烈对抗，但是有成绩比较，而且参加者在现场要承受一定的痛苦，具",
+    "source_root_domain": "hecaitou.com"
+  },
+  {
+    "title": "申请国家电网电费账单做KYC地址证明，4步搞定",
+    "url": "https://gugegt.com/state-grid-electricity-bill-kyc-address-proof.html",
+    "date": "2026-09-15T04:00:00Z",
+    "description": "你有没有遇到过这种情况：身份证或者户口本上的地址是A，但你实际住在B。填表的时候写的又是A，结果各种平台做KYC（身份验证）时要求提供地址证明，你手头没有任何带B地址的正式文件。 国家电网的APP能解决这个问题。它能生成一份PDF格式的电费账单，上面印着你的用电地址、户号、账单周期，盖着国网电力公司的章。这份文件被不少平台接受作为地址证明。",
+    "source_root_domain": "gugegt.com"
+  },
+  {
+    "title": "非京籍个体户缴纳社保(补充)：Web 端员工工资薪金个税预扣预缴",
+    "url": "https://blog.yasking.org/a/self-employed-append-two",
+    "date": "2026-09-15T03:45:00Z",
+    "description": "早在几年前，Web 端就支持了单位代扣代缴员工个人所得税，当时参考小红书上的教程，就一直沿用 Windows 客户端的方式缴纳，其 …",
+    "source_root_domain": "yasking.org"
+  },
+  {
+    "title": "Zuma updated",
+    "url": "https://macsourceports.com/game/zuma",
+    "date": "2026-09-15T03:07:57Z",
+    "description": "The build of Zuma Portable for Zuma has been updated to version 0.8 of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "这个工具好呀，可视化修改历史 git 提",
+    "url": "https://versun.me/blog/tweet-2099681672967172507",
+    "date": "2026-09-15T02:08:15Z",
+    "description": "这个工具好呀，可视化修改历史 git 提交 https://github.com/simonw/commit-rewriter",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "macOS 27用了2天，很满意，很顺滑",
+    "url": "https://versun.me/blog/tweet-2099680875181215930",
+    "date": "2026-09-15T02:05:05Z",
+    "description": "Versun macOS 27 正式版出来了，有从 15 升上来的吗 我有点憋不住了。。。 macOS 27用了2天，很满意，很顺滑，响应速度很快，比macOS 15好用",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "先做成一门生意，再谈增长",
+    "url": "https://imzl.com/business-growth-methods",
+    "date": "2026-09-15T02:00:00Z",
+    "description": "从互联网医疗、社交电商、建筑 SaaS、公链和 API Token 业务出发，复盘如何验证价值交换、完成冷启动、跑通商业闭环并复制增长。",
+    "source_root_domain": "imzl.com"
+  },
+  {
+    "title": "llms.txt 不是 SEO 项目",
+    "url": "https://rokcso.com/p/llms-txt-not-seo/",
+    "date": "2026-09-15T02:00:00Z",
+    "description": "今年越来越多网站在根目录放了一份 llms.txt ，但会读它的，仍然很少。它不是新的 SEO 排名信号，更像是给已经找到你的网站 Agent 准备的一张目录。 llms.txt 是一段 Markdown：告诉 Agent 这站是什么、哪些页面值得花时间，它不是 robots.txt ，拦不住谁，也指挥不了 Google。 放的人在变多，但全网比例并不高 Originality.ai 跟踪 300 万以上域名。2025 年 6 月 4,088 个站有 llms.txt ，2026 年 5 月是 36,120 个，截至 2026 年 9 月，仪表盘最新计数已到 136,610。 Originality.ai tracking study 这是增长，可还不是普及。即使按 300 万域名计算，也只有约 4.6%，距离普及还很远。 读的人几乎没跟上 Ahrefs 看了 137,210 个域名 2026 年 5 月的服务器日志。有有效 llms.txt 的大约 38,000 个站里，97% 当月一个请求都没有。 被请求过的那 3% 里，最大头是 SEO 审计工具，占 21.7%。Chrome L",
+    "source_root_domain": "rokcso.com"
+  },
+  {
+    "title": "把另一个人拖下水，有助于改善困境吗？I",
+    "url": "https://mobius.blog/25721.html",
+    "date": "2026-09-15T01:30:00Z",
+    "description": "前些日子，一个朋友问我今年要不要年年焕新 iPhone Duo，我实在是想不到我会使用折叠屏的场景，加上 18 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。",
+    "source_root_domain": "onojyun.com"
+  },
+  {
+    "title": "置身 Agent 时代：当软件开始不再需要软件工程师",
+    "url": "https://www.bmpi.dev/dev/agent-era-software-engineering/",
+    "date": "2026-09-15T00:00:00Z",
+    "description": "从 Free4Chat 和策引两个长期项目出发，记录当 Coding Agent 开始接管实现、Review、测试、故障分析与部分运维后，软件工程师的角色、经验价值和培养路径正在发生什么变化。",
+    "source_root_domain": "bmpi.dev"
+  }
+]
