@@ -27,7 +27,10 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-09-18 | [做作品集用什么软件好？推荐你试试Figma Slides【效率工具指南】](https://penghh.fun/2026/09/18/2026-9-18-portfolio/) | <script src=" |
+| 2026-09-18 | [从废品回收，到自我价值](https://mobius.blog/25745.html) | 前两天跟@孤斗 在聊写小说的事，他身上有很强烈的“感性能量”，这是小说创作者需要具备的创作能量之一，所以我给了 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-09-17 | [学习周刊-总第281期-2026年第38周](https://wiki.eryajf.net/pages/f4b3b4/) | 如要阅读全文，点击标题跳转。 学习周刊-总第281期 &#124; netsgo &#124; polywise &#124; drawio-skill &#124; CLICD &#124; Swifka &#124; glitter-idea-repo &#124; MacSai |
+| 2026-09-17 | [慢，是一种顶级的判断力](https://blog.zzbd.org/miao20260918/) | 很多人在职场里最大的误区，是把“快”当成能力，把“急”当成敬业。我们习惯性快速反应、快速表态、快速推进、快速定论，以为动作越快、效率越高，就越专业、越靠谱。可一路走来才慢慢明白：真正拉开人与人职场差距的，从来不是做事的速度，而是 判断的精度 。而精准的判断，永远只属于懂得慢下来的人。 |
 | 2026-09-17 | [Meta 智能体 Muse 开放邀请码，双方各得 10 亿词元](https://gugegt.com/meta-muse-invite-code.html) | 你现在打开 muse.ai ，多半会看到一句"你已加入等候名单"。Meta 的个人 AI 智能体 9 月 8 日发布，首批只开了美国等少数地区，中国大陆不在里面。 邀请码通道是 9 月 16 日开的。用别人的码注册，你和对方各得 10 亿个 Muse 词元。 我的码是 HGM2XI 。 |
 | 2026-09-17 | [在 DSH 手动启用 OpenCode Go DeepSeek v4.1 新模型](https://blog.frytea.com/archives/32459) | 最近在使用 DeepSeek Harness 时，对接 DeepSeek 官方模型，奈何消耗过高，一会儿就几块 […] |
 | 2026-09-17 | [四年前梦想的生活与现实的生活之书房篇（2026版）](https://www.ixiqin.com/2026/09/17/dream-life-and-real-life-in-the-study-2026-edition/) | 写 Blog 的好处就是，你总是会有一些历史的内容，时不时的浮上来，让你回想起自己曾经的想象。 而对于房子来说 […] |
@@ -36,7 +39,10 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-09-17 | [博客主题更新：现在支持 Mermaid 了](https://www.bboy.app/2026/09/17/%E5%8D%9A%E5%AE%A2%E4%B8%BB%E9%A2%98%E6%9B%B4%E6%96%B0%E7%8E%B0%E5%9C%A8%E6%94%AF%E6%8C%81-mermaid-%E4%BA%86/) | 简介 博客主题现在支持 Mermaid 了。以后写流程图、时序图或者简单的架构图，直接在 Markdown 里写 Mermaid 代码就能渲染，不用先画图、导出、上传，再回来补链接。 这篇也顺便拿来测试一下新功能。 |
 | 2026-09-17 | [根本看不过来](https://www.hecaitou.com/2026/09/Impossible-to-Keep-Up.html) | 曾经有段时间，我的家里堆满了新书，新影碟，但是根本没有时间看。一方面我真诚地相信，我需要看这些书，里面有我需要的知识，我也需要看这些影碟，里面有我需要的娱乐。但是我没时间，进度很慢，于是我就感觉到非常焦虑，觉得自己一直在错失什么。 今天我看到一条帖子，教大家如何把微信接入 AI，这样 AI 就可以帮… |
 | 2026-09-17 | [这个世界暂时还不能没有照相馆](https://mobius.blog/25729.html) | 前两天和老婆在讨论，要不要趁着结婚纪念日，带着两只狗去专业的摄影棚拍套全家福。这件事本身不重要，但它让我意识到 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
+| 2026-09-17 | [这就测出来啦？union alpha 是](https://versun.me/blog/tweet-2100392658690768951) | lifcc @OpenRouter @unionalphaai 是谁家的呢？好难猜啊 这就测出来啦？union alpha 是 OpenCode 家的？什么鬼 |
 | 2026-09-16 | [2026.9.16](https://www.justzht.com/2026-9-16/) | 现在是下午两点四十，我坐在电脑前等着 process server 给我回电话 - 至少他们给我回的邮件是这么说的，‘call back with you shortly’ - |
+| 2026-09-16 | [新旧约通读，以获得安息](https://blog.zzbd.org/miao20260917-2/) | 诗篇 46:1 ：神是我们的避难所，是我们的力量，是我们在患难中随时的帮助。 |
+| 2026-09-16 | [今日祷文](https://blog.zzbd.org/miao20260917/) | 「凡劳苦担重担的人，可以到我这里来，我就使你们得安息。」 ——《马太福音》11:28 当人压力很大的时候，最难的不是事情本身，而是那种“我好像撑不住了、却又必须撑住”的感觉。白天要正常运转，晚上躺下又停不下脑子，像被一根绷得太紧的弦卡住了，既断不了，又松不开。你现在愿意打这一段字出来，其实已经是在求… |
 | 2026-09-16 | [New Release: BRAZILIAN DRUG DEALER BEFORE 4](https://macsourceports.com/game/bddb4) | Are you tired of waiting five years for a new game, only to have it cost even more than last time and then the developers get laid off by a heartless… |
 | 2026-09-16 | [用 Tamper-monkey 集成 Kagi Translate (2) - 結合 Zen 瀏覧器的分屏功能](https://taxodium.ink/integrate-kagi-translate-with-tampermonkey-2.html) | 用 Tamper-monkey 集成 Kagi Translate (2) 結合 Zen 瀏覧器的分屏功能 之前分享了 用 Tamper-monkey 集成 Kagi Translate ，誰能想到還有續集 :P 上次分享後，我又基於我的使用習慣做了一些調整，例如將字典和翻譯用不同窗口呈現，不再複用… |
 | 2026-09-16 | [Zine#58 - 用合理的排版引导讀者閱讀、值得熬夜的事情都值得早起](https://taxodium.ink/58.html) | Zine#58 用合理的排版引导讀者閱讀、值得熬夜的事情都值得早起 目錄 News &#124; Article Cool Bit Tutorial &#124; Resource Code Related AI Related Tool &#124; Library Emacs 一些话 &#124; 摘抄 多媒体 這周又聴了陳嫻静的「如… |
@@ -45,6 +51,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-09-16 | [Nginx 反代裸路径 301 带出后端端口的问题](https://199604.com/3712) | Nginx 反代裸路径 301 带出后端端口的问题 记录时间：2026-09-16 环境：前置 Nginx（/ […] |
 | 2026-09-16 | [从灵感到施工](https://www.hecaitou.com/2026/09/From-Spark-to-Breaking-Ground.html) | 之前我谈过「如何找灵感」的问题，我给出的回答是： 「 你得先行动，行动的过程中就一定会和环境发生碰撞。碰撞过程中你得到新信息，新反馈，于是你受到外界的刺激，而这个刺激会让你产生灵感...... 这些刺激进入你的大脑和心灵，你自然而然会产生反应，有情绪上的，有思考上的，一开始是些碎片，你跟着碎片飘荡，… |
 | 2026-09-16 | [把另一个人拖下水，有助于改善困境吗？II](https://mobius.blog/25724.html) | 前序内容：《把另一个人拖下水，有助于改善困境吗？I》 再聊聊更宏观的“替罪羊机制”。 1954 年，戈登·奥尔 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
+| 2026-09-16 | [办公室读旧约](https://blog.zzbd.org/miao20260916/) | 诗篇 23 1 耶和华是我的牧者，我必不至缺乏。 2 他使我躺卧在青草地上，领我在可安歇的水边。 3 他使我的灵魂苏醒，为自己的名引导我走义路。 4 我虽然行过死荫的幽谷，也不怕遭害，因为你与我同在；你的杖，你的竿，都安慰我。 5 在我敌人面前，你为我摆设筵席；你用油膏了我的头，使我的福杯满溢。 6… |
 | 2026-09-15 | [入蜀记 day477 街头美食斗士、宜家、手机掉进地铁门缝](https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_477/) | 「街头美食斗士、宜家、手机掉进地铁门缝。」 |
 | 2026-09-15 | [读书笔记管理体系](http://www.uncoverman.com/weread-notes-management.html) | 平时主要使用微信读书，看书过程中会进行划线和评论。完成后，习惯性导出笔记整理，不定期重看。否则，过不了多久，看书过程中产生的灵感、看到的金句在脑海里都会丢失，有时候甚至为了找一本书里写过的一句话，费老鼻子劲，有点像找房间里的东西，你知道它在，但就是找不到，难受。 笔记不能只是静态归档，要做动态闪回… |
 | 2026-09-15 | [深圳-拉萨自驾-在路上](https://elmagnifico.tech/2026/09/16/shenzhen-lasa-ontheway/) | Foreword 如上篇所提，今年中秋和国庆中间卡了三天班，直接请假从 9 月 25 号连到 10 月 7 号，一共 13 天。去拉萨，托车到成都再开 318到拉萨，后续车托回深圳，我从拉萨直接飞回来。 准备 预算 拖车到成都1700，拉萨拖回来3000，飞成都1600，拉萨飞回3900，这部分固定… |
@@ -158,24 +165,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-09-11 | [2026 纸书单](https://z.arlmy.me/posts/YearlyBooks/BookList_2026/) | 「买的书和借阅的书」 |
 | 2026-09-11 | [科技爱好者周刊（第 412 期）：禁止 issue，只用 PR](http://www.ruanyifeng.com/blog/2026/09/weekly-issue-412.html) | 这里记录每周值得分享的科技内容，周五发布。 本杂志 开源 ，欢迎 投稿 。另有 《谁在招人》 服务，发布程序员招聘信息。合作请 邮件联系 （yifeng.ruan@gmail.com）。 封面 上海前滩太古里举办的"英雄联盟15周年"展览。（ via ） 禁止 issue，只用 PR 上周，PHP… |
 | 2026-09-11 | [腾讯WorkBuddy海外版来啦,注册畅玩gpt-6-Astra,deepseek-4.1-flash限时免费](https://programnotes.cn/ai-workbuddy/index.html) | 腾讯WorkBuddy,海外版来啦,邀请好友注册立得350积分。 |
-| 2026-09-10 | [1Panel服务器迁移记录](https://199604.com/3706) | 1Panel服务器迁移记录 记录时间：2026-08-20 环境：旧服务器（阿里云，1Panel + Open […] |
-| 2026-09-10 | [学习周刊-总第280期-2026年第37周](https://wiki.eryajf.net/pages/eb7d06/) | 如要阅读全文，点击标题跳转。 学习周刊-总第280期 &#124; tolaria &#124; hosts-manager-extension &#124; shortcast &#124; Fanny-MacOs-FanControl &#124; gantry &#124; StayAwake &#124; Adnify |
-| 2026-09-10 | [学习周刊-总第279期-2026年第36周](https://wiki.eryajf.net/pages/702d84/) | 如要阅读全文，点击标题跳转。 学习周刊-总第279期 &#124; gos &#124; CodexBar &#124; kaloscope &#124; skyadb &#124; dbx &#124; dory &#124; conar &#124; ore-code |
-| 2026-09-10 | [闲鱼淘来的绿联蓝光刻录机 CM780-35349](https://www.ghostchu.com/5821/%e9%97%b2%e9%b1%bc%e6%b7%98%e6%9d%a5%e7%9a%84%e7%bb%bf%e8%81%94%e8%93%9d%e5%85%89%e5%88%bb%e5%bd%95%e6%9c%ba-cm780-35349/) | 前情提要 – aiyouwei 蓝光光驱 为了播放《超时空辉夜姬 BD》，稍早前购入了一款 aiy […] 闲鱼淘来的绿联蓝光刻录机 CM780-35349 最先出现在 Ghost_chu's Blog 。 |
-| 2026-09-10 | [iCloud忽略同步指定文件夹](http://www.uncoverman.com/icloud-nosync.html) | 我会把常用的文件全部放到 iCloud，文件、照片都可以上云，用起来方便，同步实现备份功能。 但是，有些非用户产生的资料，只想留在电脑本地，不想频繁同步，浪费流量，没有必要，有时候还会产生大量的冲突副本空文件，现象就是文件名后面带 2 的那种。比如 Hexo 静态博客的 Markdown 文件我想同… |
-| 2026-09-10 | [Claude Tag 产品分析](https://www.ixiqin.com/2026/09/10/claude-tag-product-analysis/) | Claude Tag 这个产品市面上的仿品很多，但我看到的绝大多数的产品仿品仿其型而未有仿其神。这背后是本身绝 […] |
-| 2026-09-10 | [爹味人的自由](https://blog.solazy.me/20260910/) | 今天突然想到一个话题 |
-| 2026-09-10 | [2026.9.10](https://www.justzht.com/2026-9-10/) | Epoch Playdate 版本的一些开发截图 晚上十点多的时候突发奇想买了张十点半的 Akira 4K 重映票，刚看完回到家。可能是这周过的 |
-| 2026-09-10 | [为我的比亚迪车机开发了一款音乐暂停器](https://hellodk.cn/post/1230) | 由于比亚迪DiLink3.0/4.0方向盘上的音量滚轮中键功能是静音，而不是暂停，为此我开发了一个音乐暂停器。我很需要这个暂停功能，很讨厌静音了音乐仍然在播放这个问题。重要说明v1.3 增加了开... |
-| 2026-09-10 | [摘：《听客溪的朝圣》](https://z.arlmy.me/posts/Note/Note_AnnieDillard_PilgrimAtTinkerCreek/) | 「反观疯狂。」 |
-| 2026-09-10 | [摘：《怪女人和一座城》](https://z.arlmy.me/posts/Note/Note_VivianGornick_TheOddWomanAndTheCity/) | 「孤独。」 |
-| 2026-09-10 | [摘：《荒野集》](https://z.arlmy.me/posts/Note/Note_RockwellKent_Wilderness/) | 「伪经毁灭！」 |
-| 2026-09-10 | [心的教师](https://www.hecaitou.com/2026/09/The-Teacher-Within.html) | 今天是教师节，我想起自己曾在一本书里读过一位教师忆念自己老师的文字。他说，虽然老师已经逝世多年，但是他觉得自己的心和老师没有一刻分离。这些年来，在他的案头一直摆放着老师的相片。有时候自己起心动念，有了什么不好的念头，转头看到老师在镜框里正凝视着自己，心中就立即大为惭愧，恶念也随之消融。 这段回忆让我… |
-| 2026-09-10 | [2026 北京社保下限上调｜个体户每月最低缴费 2707.44 元](https://blog.yasking.org/a/beijing-shebao-2026) | 自 2026 年 7 月起，北京市职工基本养老、失业、工伤及职工基本医疗保险（含生育）的月缴费基数上限和下限分别为： 上限：36348 元 下 … |
-| 2026-09-10 | [Plants vs. Zombies updated](https://macsourceports.com/game/pvz) | The build of PvZ Portable for Plants vs. Zombies has been updated to version 0.2.3 of the project |
-| 2026-09-10 | [生产单点登录反复跳认证排查](https://199604.com/3698) | 生产单点登录反复跳认证排查 记录时间：2026-09-09 环境：生产单点登录门户（外层 nginx + K8 […] |
-| 2026-09-10 | [为需求创造的回忆](https://mobius.blog/25696.html) | TG 收到一条求助性质的留言，跟对方沟通后，决定匿名分享出来，因为它非常具有代表性。 留言的朋友称：自己跟前男 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
-| 2026-09-10 | [Memos #2026-09-09](https://www.taober.blog/memos/memo_20260909124454_qw7xkt) | 20:48 最近工作上学到的一些小技巧： 严肃场合不要露怯，允许临场的「不懂装懂」，过后补上就好； 大概率被动到我头上的事，干脆主动承接； 需要别人配合的果断抛出去，避免无意义的内耗； ... |
 
 ## Vibe Coding
 
