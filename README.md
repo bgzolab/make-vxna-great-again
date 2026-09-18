@@ -28,13 +28,21 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | Date | Title | Summary |
 | --- | --- | --- |
 | 2026-09-18 | [做作品集用什么软件好？推荐你试试Figma Slides【效率工具指南】](https://penghh.fun/2026/09/18/2026-9-18-portfolio/) | <script src=" |
+| 2026-09-18 | [Al Brooks：10 个最佳价格行为交易形态（全解析与中文图解）](https://blog.forecho.com/10-best-price-action-trading-patterns.html) | 引言 这 10 个最佳价格行为交易形态（10 Best Price Action Trading Patterns） 是 Al Brooks 最青睐的形态。成功的交易员每天都在运用这些形态从市场中获利。在实际应用中要保持灵活，因为每个形态都有许多变体。只要你对所有可能性保持开放的心态，就会在每个交易… |
+| 2026-09-18 | [当苍蝇尝试在蛋上钻缝：又谈站点垃圾广告](https://blog.mfwt.top/index.php/archives/1598/) | 又休息了一段时间之后，回来更一篇吧。虽然还没完全适应过来，尤其是精力不足的问题多少还是有点，但日子总得过下去，因此只能想办法继续调整了。这篇博文，算是翻出来点冷饭，掺点新鲜饭，炒一炒。之前已经有... |
+| 2026-09-18 | [线性代数复习](https://physnya.top/numerical-analysis/lesson-2-linear-algebra/) | 警告 没讲什么比较新的内容，所以半节课都在看文章... R n \R^n R n 上比较一般的范数定义是 p p p - 范数 ( 1 ⩽ p ∞ 1\leqslant p 1 ⩽ p ∞ )， |
+| 2026-09-18 | [pi add system prompt](https://blog.mkacg.com/2026/09/18/pi-add-system-prompt/) | 可以在 ~/.pi/agent/APPEND_SYSTEMD.md 里给 agent 追加自己的一些提示词，作用是为了让 agent 能根据我的要求约束行为。 在我这份提示词里，我基于 Dwsy/agent |
+| 2026-09-18 | [AI 最前沿的人，已经不聊模型了](https://www.evan.xin/5103/) | 一、服务裹着能力：FDE 与"模型能力—业务"的落差 二、国内大厂与海外的差别，以及低成本用户漏斗 三、速度不 […] |
+| 2026-09-18 | [Agent、Skills 和 MCP 的区别](https://199604.com/3716) | Agent、Skills 和 MCP 的区别 记录时间：2026-09-16 环境：无（概念梳理，不是部署记录 […] |
+| 2026-09-18 | [技术恶性循环](https://www.hecaitou.com/2026/09/fixing-tech-with-tech-a-vicious-cycle.html) | 我想，我们不能总是用技术手段解决技术带来的问题，那样会没完没了。 比如说，书太多看不完，让 AI 给一个简要总结。电影看不完，让 AI 给一个剧情介绍。AI 当然效率很高，高到产生新的问题：你会在短时间内得到一堆书籍简要总结，一堆电影剧情简介，那么，接下来你是不是要继续让 AI 做总结的总结，简介的… |
+| 2026-09-18 | [DeepSeek-V4.1-Flash: Pushing the Limits of KV Cache Compression](https://mer.run/posts/deepseek-v41-flash-pushing-the-limits-of-kv-cache-compression/) | DeepSeek V4.1 Flash的技术报告。 |
 | 2026-09-18 | [从废品回收，到自我价值](https://mobius.blog/25745.html) | 前两天跟@孤斗 在聊写小说的事，他身上有很强烈的“感性能量”，这是小说创作者需要具备的创作能量之一，所以我给了 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
+| 2026-09-18 | [科技爱好者周刊（第 413 期）：再见了，React Native](http://www.ruanyifeng.com/blog/2026/09/weekly-issue-413.html) | 这里记录每周值得分享的科技内容，周五发布。（ [通知] 下周五开始的中秋和十一假期，周刊休息。 ） 本杂志 开源 ，欢迎 投稿 。另有 《谁在招人》 服务，发布程序员招聘信息。合作请 邮件联系 （yifeng.ruan@gmail.com）。 封面图 华东师范大学闵行校区新启用的西校门，仿造了它的前… |
 | 2026-09-17 | [学习周刊-总第281期-2026年第38周](https://wiki.eryajf.net/pages/f4b3b4/) | 如要阅读全文，点击标题跳转。 学习周刊-总第281期 &#124; netsgo &#124; polywise &#124; drawio-skill &#124; CLICD &#124; Swifka &#124; glitter-idea-repo &#124; MacSai |
 | 2026-09-17 | [慢，是一种顶级的判断力](https://blog.zzbd.org/miao20260918/) | 很多人在职场里最大的误区，是把“快”当成能力，把“急”当成敬业。我们习惯性快速反应、快速表态、快速推进、快速定论，以为动作越快、效率越高，就越专业、越靠谱。可一路走来才慢慢明白：真正拉开人与人职场差距的，从来不是做事的速度，而是 判断的精度 。而精准的判断，永远只属于懂得慢下来的人。 |
 | 2026-09-17 | [Meta 智能体 Muse 开放邀请码，双方各得 10 亿词元](https://gugegt.com/meta-muse-invite-code.html) | 你现在打开 muse.ai ，多半会看到一句"你已加入等候名单"。Meta 的个人 AI 智能体 9 月 8 日发布，首批只开了美国等少数地区，中国大陆不在里面。 邀请码通道是 9 月 16 日开的。用别人的码注册，你和对方各得 10 亿个 Muse 词元。 我的码是 HGM2XI 。 |
 | 2026-09-17 | [在 DSH 手动启用 OpenCode Go DeepSeek v4.1 新模型](https://blog.frytea.com/archives/32459) | 最近在使用 DeepSeek Harness 时，对接 DeepSeek 官方模型，奈何消耗过高，一会儿就几块 […] |
 | 2026-09-17 | [四年前梦想的生活与现实的生活之书房篇（2026版）](https://www.ixiqin.com/2026/09/17/dream-life-and-real-life-in-the-study-2026-edition/) | 写 Blog 的好处就是，你总是会有一些历史的内容，时不时的浮上来，让你回想起自己曾经的想象。 而对于房子来说 […] |
-| 2026-09-17 | [DeepSeek-V4.1-Flash: Pushing the Limits of KV Cache Compression](https://mer.run/posts/deepseek-v41-flash-pushing-the-limits-of-kv-cache-compression/) | DeepSeek V4.1 Flash的技术报告。 |
 | 2026-09-17 | [Blog Theme Update Mermaid Support Is Here](https://www.bboy.app/2026/09/17/blog-theme-update-mermaid-support-is-here/) | Introduction The blog theme now supports Mermaid. From now on, I can put flowcharts, sequence diagrams, and simple architecture diagrams directly into… |
 | 2026-09-17 | [博客主题更新：现在支持 Mermaid 了](https://www.bboy.app/2026/09/17/%E5%8D%9A%E5%AE%A2%E4%B8%BB%E9%A2%98%E6%9B%B4%E6%96%B0%E7%8E%B0%E5%9C%A8%E6%94%AF%E6%8C%81-mermaid-%E4%BA%86/) | 简介 博客主题现在支持 Mermaid 了。以后写流程图、时序图或者简单的架构图，直接在 Markdown 里写 Mermaid 代码就能渲染，不用先画图、导出、上传，再回来补链接。 这篇也顺便拿来测试一下新功能。 |
 | 2026-09-17 | [根本看不过来](https://www.hecaitou.com/2026/09/Impossible-to-Keep-Up.html) | 曾经有段时间，我的家里堆满了新书，新影碟，但是根本没有时间看。一方面我真诚地相信，我需要看这些书，里面有我需要的知识，我也需要看这些影碟，里面有我需要的娱乐。但是我没时间，进度很慢，于是我就感觉到非常焦虑，觉得自己一直在错失什么。 今天我看到一条帖子，教大家如何把微信接入 AI，这样 AI 就可以帮… |

@@ -7,11 +7,74 @@
     "source_root_domain": "penghh.fun"
   },
   {
+    "title": "Al Brooks：10 个最佳价格行为交易形态（全解析与中文图解）",
+    "url": "https://blog.forecho.com/10-best-price-action-trading-patterns.html",
+    "date": "2026-09-18T08:00:00Z",
+    "description": "引言 这 10 个最佳价格行为交易形态（10 Best Price Action Trading Patterns） 是 Al Brooks 最青睐的形态。成功的交易员每天都在运用这些形态从市场中获利。在实际应用中要保持灵活，因为每个形态都有许多变体。只要你对所有可能性保持开放的心态，就会在每个交易日、任何市场以及各种时间周期上不断看到它们的身影。 那么，对于波段交易（Swing Trading）还是剥头皮（Scalping），哪种形态才是最好的？外汇市场适用哪种？对于日内交易者或大宗商品交易者又该选哪种？ 答案是： 这并不重要 。因为任何形态都有可能成为「最佳形态」，这完全取决于当前摆在你面前的图表走势。 不仅如此，图表上有时会同时出现多个形态。例如：价格可能在等长测算目标位（Measured Move）处对多头通道发生假突破，而这次突破最初可能源自一个三角形。有些交易员会称其为「最终旗形反转（Final Flag Reversal）」，另一些人可能会视其为「主要趋势反转（Major Trend Reversal, MTR）」，还有人则会把焦点放在「通道假突破」上。 核心关键在于： ",
+    "source_root_domain": "forecho.com"
+  },
+  {
+    "title": "当苍蝇尝试在蛋上钻缝：又谈站点垃圾广告",
+    "url": "https://blog.mfwt.top/index.php/archives/1598/",
+    "date": "2026-09-18T07:56:00Z",
+    "description": "又休息了一段时间之后，回来更一篇吧。虽然还没完全适应过来，尤其是精力不足的问题多少还是有点，但日子总得过下去，因此只能想办法继续调整了。这篇博文，算是翻出来点冷饭，掺点新鲜饭，炒一炒。之前已经有...",
+    "source_root_domain": "mfwt.top"
+  },
+  {
+    "title": "线性代数复习",
+    "url": "https://physnya.top/numerical-analysis/lesson-2-linear-algebra/",
+    "date": "2026-09-18T06:52:28Z",
+    "description": "警告 没讲什么比较新的内容，所以半节课都在看文章... R n \\R^n R n 上比较一般的范数定义是 p p p - 范数 ( 1 ⩽ p ∞ 1\\leqslant p 1 ⩽ p ∞ )，",
+    "source_root_domain": "physnya.top"
+  },
+  {
+    "title": "pi add system prompt",
+    "url": "https://blog.mkacg.com/2026/09/18/pi-add-system-prompt/",
+    "date": "2026-09-18T06:43:50Z",
+    "description": "可以在 ~/.pi/agent/APPEND_SYSTEMD.md 里给 agent 追加自己的一些提示词，作用是为了让 agent 能根据我的要求约束行为。 在我这份提示词里，我基于 Dwsy/agent",
+    "source_root_domain": "mkacg.com"
+  },
+  {
+    "title": "AI 最前沿的人，已经不聊模型了",
+    "url": "https://www.evan.xin/5103/",
+    "date": "2026-09-18T05:18:26Z",
+    "description": "一、服务裹着能力：FDE 与\"模型能力—业务\"的落差 二、国内大厂与海外的差别，以及低成本用户漏斗 三、速度不 […]",
+    "source_root_domain": "evan.xin"
+  },
+  {
+    "title": "Agent、Skills 和 MCP 的区别",
+    "url": "https://199604.com/3716",
+    "date": "2026-09-18T03:31:24Z",
+    "description": "Agent、Skills 和 MCP 的区别 记录时间：2026-09-16 环境：无（概念梳理，不是部署记录 […]",
+    "source_root_domain": "199604.com"
+  },
+  {
+    "title": "技术恶性循环",
+    "url": "https://www.hecaitou.com/2026/09/fixing-tech-with-tech-a-vicious-cycle.html",
+    "date": "2026-09-18T03:26:29Z",
+    "description": "我想，我们不能总是用技术手段解决技术带来的问题，那样会没完没了。 比如说，书太多看不完，让 AI 给一个简要总结。电影看不完，让 AI 给一个剧情介绍。AI 当然效率很高，高到产生新的问题：你会在短时间内得到一堆书籍简要总结，一堆电影剧情简介，那么，接下来你是不是要继续让 AI 做总结的总结，简介的简介？ 为什么书太多？因为印刷术和排版术带来的出版效率暴增。为什么影视剧太多？是因为带宽和流媒体技术带来的传输革命，以及现在 AI 提升了制作影视节目的效率。这些都是技术进步带来的丰饶，也因此带来了信息过载。 面对如此丰饶的一个世界，你如何做抉择，这是你内心的事情。技术手段可以帮助你，但是解不开你的心魔：我全部都要。事实上，技术如果用不好，还会助长这种心魔。不是这样么？ 很多人觉得读了 AI 给出的简要总结，就等于是读了一本书，于是每天都有看不完的简要总结，然后总结迅速堆积起来，变成新的问题。很多人之前觉得选择一部影视剧打发时间太难，耗时太长，现在技术手段提供了可以无限下滑更新的短视频流，结果就是人沉溺其中，一晃几个小时过去了，比看一部电影耗时更多。 技术问题，技术解决，我不认为这是一个好的",
+    "source_root_domain": "hecaitou.com"
+  },
+  {
+    "title": "DeepSeek-V4.1-Flash: Pushing the Limits of KV Cache Compression",
+    "url": "https://mer.run/posts/deepseek-v41-flash-pushing-the-limits-of-kv-cache-compression/",
+    "date": "2026-09-18T03:23:56Z",
+    "description": "DeepSeek V4.1 Flash的技术报告。",
+    "source_root_domain": "mer.dev"
+  },
+  {
     "title": "从废品回收，到自我价值",
     "url": "https://mobius.blog/25745.html",
     "date": "2026-09-18T01:50:16Z",
     "description": "前两天跟@孤斗 在聊写小说的事，他身上有很强烈的“感性能量”，这是小说创作者需要具备的创作能量之一，所以我给了 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。",
     "source_root_domain": "onojyun.com"
+  },
+  {
+    "title": "科技爱好者周刊（第 413 期）：再见了，React Native",
+    "url": "http://www.ruanyifeng.com/blog/2026/09/weekly-issue-413.html",
+    "date": "2026-09-18T00:03:02Z",
+    "description": "这里记录每周值得分享的科技内容，周五发布。（ [通知] 下周五开始的中秋和十一假期，周刊休息。 ） 本杂志 开源 ，欢迎 投稿 。另有 《谁在招人》 服务，发布程序员招聘信息。合作请 邮件联系 （yifeng.ruan@gmail.com）。 封面图 华东师范大学闵行校区新启用的西校门，仿造了它的前身之一光华大学的校门。（ via ） 再见了，React Native Shopify 宣布 ，放弃 React Native，改用 Swift 和 Kotlin 开发它的移动版。 也就是说，它决定采用原生语言，开发 iOS 和安卓客户端，不再采用 Web 技术开发一个中间版本，再编译成各平台的客户端。 这不禁让人想起，六年前的2020年，它也是写了 一篇文章 ，高调宣布放弃原生语言，全面转向 React Native，拥抱 Web 技术。 这在当时是一个大新闻，很多人认同 Shopify 选择 Web 技术的三个理由。 不用为每个平台重复开发相同的功能。 允许开发人员跨技术栈工作。 多出来的时间和精力，可以用来创造更多的价值。 说实话，这三个理由都是场面话，真正的理由只有一个：省钱。 当年",
+    "source_root_domain": "feedburner.com"
   },
   {
     "title": "学习周刊-总第281期-2026年第38周",
@@ -47,13 +110,6 @@
     "date": "2026-09-17T15:14:22Z",
     "description": "写 Blog 的好处就是，你总是会有一些历史的内容，时不时的浮上来，让你回想起自己曾经的想象。 而对于房子来说 […]",
     "source_root_domain": "ixiqin.com"
-  },
-  {
-    "title": "DeepSeek-V4.1-Flash: Pushing the Limits of KV Cache Compression",
-    "url": "https://mer.run/posts/deepseek-v41-flash-pushing-the-limits-of-kv-cache-compression/",
-    "date": "2026-09-17T11:55:45Z",
-    "description": "DeepSeek V4.1 Flash的技术报告。",
-    "source_root_domain": "mer.dev"
   },
   {
     "title": "Blog Theme Update Mermaid Support Is Here",
