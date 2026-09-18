@@ -1,5 +1,19 @@
 [
   {
+    "title": "Coffee Break Clojure, Vol.1",
+    "url": "https://www.geedea.pro/article/tutorial-clj-1/",
+    "date": "2026-09-18T17:45:49Z",
+    "description": "上一篇 我们了解了 Lisp 中「代码即数据」的本质，知道了不求值（Eval）的列表就是数据，被求值的列表就是代码，而代码可以像数据一样经过任意的变换之后再求值。我们还捋了捋列表、形式、对象和原子的概念，可以说，读者已经掌握 Lisp 语法的精髓了。这里除了括号和待求值的一堆括号，别无他物。 了解了语法，在深入 Clojure 的语义（semantics）之前，先来准备些趁手工具。 读取-求值-打印-循环 正式开始之前，你需要先安装 Java 和 Clojure （因为 Clojure 运行在 JVM 之上），之后就可以在终端输入 clojure ，按下回车之后便会看到新的命令提示符： Clojure 1.12.6 user=> 在 Lisp 的世界里，这一般被称作 REPL，全称是：Read-Eval-Print-Loop（读取-求值-打印-循环）。顾名思义，它读取用户输入，求值，打印这个值，然后循环。有趣的是，在 Common Lisp 等方言中，你可以用一行代码启动最原始的 REPL： ( loop ( print ( eval ( read )))) Clojure 不能这样写",
+    "source_root_domain": "geedea.pro"
+  },
+  {
+    "title": "Origin、Grok Bot体验与Gantry（Courier）",
+    "url": "https://elmagnifico.tech/2026/09/19/Cursor-Origin-GrokBot/",
+    "date": "2026-09-18T16:00:00Z",
+    "description": "Foreword Origin和Grok Bot体验，然后让我发现了有意思的东西，Gantry Origin 前段时间Cursor也开始弄自己的代码托管平台了，Origin，刚好上线那天就是Github崩溃的时候 登录 cursor.com/codebase 第一次同步需要新建一个用户路径，我的常用名竟然还没人用，说明没啥人哦 可以同步Github所有仓库，一口气64个，就是这个同步实在是有点久了，十多分钟才同步完。 再解释一下为什么要同步仓库，因为Cursor的云端Agent，只能用它对应的云端仓库，Cursor没有本地Agent的移动端。举个例子：PC的Cursor Agent在干活，我可能外出了，但是这个时候任务做完了，我要看一下结果或者继续下一个任务或者改进点，此时就得回PC去继续。那有没有可能我可以通过移动端直接指挥Agent干活呢？ 可以，就是云端Agent的业务。只是，他不能直接操控你的电脑，不像小龙虾那种集成到你的IM里能直接指挥，对应的生产类型的Agent能被远程指挥的还是比较少的，限制颇多。 同步完成以后，就可以直接在Cursor的云端进行仓库的修改或者内容更新了，",
+    "source_root_domain": "elmagnifico.tech"
+  },
+  {
     "title": "Doherty 多尔蒂阈值",
     "url": "https://blog.est.im/2026/stderr-29",
     "date": "2026-09-18T08:15:00Z",

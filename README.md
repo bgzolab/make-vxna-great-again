@@ -27,6 +27,8 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-09-18 | [Coffee Break Clojure, Vol.1](https://www.geedea.pro/article/tutorial-clj-1/) | 上一篇 我们了解了 Lisp 中「代码即数据」的本质，知道了不求值（Eval）的列表就是数据，被求值的列表就是代码，而代码可以像数据一样经过任意的变换之后再求值。我们还捋了捋列表、形式、对象和原子的概念，可以说，读者已经掌握 Lisp 语法的精髓了。这里除了括号和待求值的一堆括号，别无他物。 了解了… |
+| 2026-09-18 | [Origin、Grok Bot体验与Gantry（Courier）](https://elmagnifico.tech/2026/09/19/Cursor-Origin-GrokBot/) | Foreword Origin和Grok Bot体验，然后让我发现了有意思的东西，Gantry Origin 前段时间Cursor也开始弄自己的代码托管平台了，Origin，刚好上线那天就是Github崩溃的时候 登录 cursor.com/codebase 第一次同步需要新建一个用户路径，我的常用… |
 | 2026-09-18 | [Doherty 多尔蒂阈值](https://blog.est.im/2026/stderr-29) | 前几天鼠标坏了。随手换了个新的，双飞燕。没想到这垃圾鼠标居然在 macbook 下有间歇性卡顿 失联问题，表现是光标不动 怀疑是 系统问题，驱动问题，鼠标本身，商家卖假货问题。最后想明白了，这几十元破玩意就tmd不值得去折腾心态。直接扔。 回想了一下，这玩意其实对工作影响比意料中的大得多。平时操作触… |
 | 2026-09-18 | [做作品集用什么软件好？推荐你试试Figma Slides【效率工具指南】](https://penghh.fun/2026/09/18/2026-9-18-portfolio/) | <script src=" |
 | 2026-09-18 | [Al Brooks：10 个最佳价格行为交易形态（全解析与中文图解）](https://blog.forecho.com/10-best-price-action-trading-patterns.html) | 引言 这 10 个最佳价格行为交易形态（10 Best Price Action Trading Patterns） 是 Al Brooks 最青睐的形态。成功的交易员每天都在运用这些形态从市场中获利。在实际应用中要保持灵活，因为每个形态都有许多变体。只要你对所有可能性保持开放的心态，就会在每个交易… |
