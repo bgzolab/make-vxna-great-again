@@ -27,6 +27,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-09-18 | [Doherty 多尔蒂阈值](https://blog.est.im/2026/stderr-29) | 前几天鼠标坏了。随手换了个新的，双飞燕。没想到这垃圾鼠标居然在 macbook 下有间歇性卡顿 失联问题，表现是光标不动 怀疑是 系统问题，驱动问题，鼠标本身，商家卖假货问题。最后想明白了，这几十元破玩意就tmd不值得去折腾心态。直接扔。 回想了一下，这玩意其实对工作影响比意料中的大得多。平时操作触… |
 | 2026-09-18 | [做作品集用什么软件好？推荐你试试Figma Slides【效率工具指南】](https://penghh.fun/2026/09/18/2026-9-18-portfolio/) | <script src=" |
 | 2026-09-18 | [Al Brooks：10 个最佳价格行为交易形态（全解析与中文图解）](https://blog.forecho.com/10-best-price-action-trading-patterns.html) | 引言 这 10 个最佳价格行为交易形态（10 Best Price Action Trading Patterns） 是 Al Brooks 最青睐的形态。成功的交易员每天都在运用这些形态从市场中获利。在实际应用中要保持灵活，因为每个形态都有许多变体。只要你对所有可能性保持开放的心态，就会在每个交易… |
 | 2026-09-18 | [当苍蝇尝试在蛋上钻缝：又谈站点垃圾广告](https://blog.mfwt.top/index.php/archives/1598/) | 又休息了一段时间之后，回来更一篇吧。虽然还没完全适应过来，尤其是精力不足的问题多少还是有点，但日子总得过下去，因此只能想办法继续调整了。这篇博文，算是翻出来点冷饭，掺点新鲜饭，炒一炒。之前已经有... |
