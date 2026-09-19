@@ -27,6 +27,11 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-09-19 | [软件工程的亡了](https://blog.mzh.ren/zh/posts/2026/09/the-end-of-software-engineering/) | 朋友发给我一张图片，乍看之下是奥莱利的动物书的封面，还以为他是想给我分享一本好书. 结果一看名字是The End of Software Engineering, 软件工程的终点，然后配合底”编程/技术/人工智能“标签，然后中间那个动物呢，是一头趴在地上有些生无可恋的野猪（希望它还没有死）。 |
+| 2026-09-19 | [vcfclick：ClickHouse + DuckDB 协作范例](https://luweiqing.com/gossip/vcfclick-ClickHouse-DuckDB.html) | vcfclick：让 VCF 回到可查询、可解释、可带走的地方如果你做过基因组分析，大概见过这样的夜晚：磁盘里躺着 VCF，终端里流着管道，脚本一层层加，最后只有作者知道哪一步在筛选。你可能是那... |
+| 2026-09-19 | [网友网络老](https://www.hecaitou.com/2026/09/blog-post.html) | 昨晚，27 年前我刚上网时认识的老友突然联系我，说是授权一批照片给我，我大可以随便使用，全都是他的手笔（参见：《 来自 老友的照片 》）。 以后这种开头我看还是要少写，都在追求活人感，而我这种写法则是写出了「化石感」，好吓人。 当年我们在家乡的论坛里天天拍砖，玩得不亦乐乎。然后就是线下见面，都很年轻… |
+| 2026-09-19 | [来自老友的照片](https://www.hecaitou.com/2026/09/photos-of-an-old-friend.html) | 昨晚 ， 一位我在 1999 年刚上网时结识的老友突然联系我，说是要把一批他拍摄的昆明照片授权给我，随我高兴我去发布。 我问他为什么不在自己公众号里发？他说他社恐，看到评论内心会不安定。但是，他又不希望这些照片一直放在硬盘上，毕竟他花费了很多心思。 所以，现在我把这些照片发布在这里。原因除了摄影者是… |
+| 2026-09-19 | [2004，一切都像是安排好了](https://www.tortorse.com/archives/everything-seemed-arranged-2004/) | 黄昏里，一个年轻人站在已经关门的电脑培训中心门前 |
 | 2026-09-18 | [Coffee Break Clojure, Vol.1](https://www.geedea.pro/article/tutorial-clj-1/) | 上一篇 我们了解了 Lisp 中「代码即数据」的本质，知道了不求值（Eval）的列表就是数据，被求值的列表就是代码，而代码可以像数据一样经过任意的变换之后再求值。我们还捋了捋列表、形式、对象和原子的概念，可以说，读者已经掌握 Lisp 语法的精髓了。这里除了括号和待求值的一堆括号，别无他物。 了解了… |
 | 2026-09-18 | [Origin、Grok Bot体验与Gantry（Courier）](https://elmagnifico.tech/2026/09/19/Cursor-Origin-GrokBot/) | Foreword Origin和Grok Bot体验，然后让我发现了有意思的东西，Gantry Origin 前段时间Cursor也开始弄自己的代码托管平台了，Origin，刚好上线那天就是Github崩溃的时候 登录 cursor.com/codebase 第一次同步需要新建一个用户路径，我的常用… |
 | 2026-09-18 | [Doherty 多尔蒂阈值](https://blog.est.im/2026/stderr-29) | 前几天鼠标坏了。随手换了个新的，双飞燕。没想到这垃圾鼠标居然在 macbook 下有间歇性卡顿 失联问题，表现是光标不动 怀疑是 系统问题，驱动问题，鼠标本身，商家卖假货问题。最后想明白了，这几十元破玩意就tmd不值得去折腾心态。直接扔。 回想了一下，这玩意其实对工作影响比意料中的大得多。平时操作触… |
