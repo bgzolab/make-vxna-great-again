@@ -40,6 +40,8 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-09-18 | [技术恶性循环](https://www.hecaitou.com/2026/09/fixing-tech-with-tech-a-vicious-cycle.html) | 我想，我们不能总是用技术手段解决技术带来的问题，那样会没完没了。 比如说，书太多看不完，让 AI 给一个简要总结。电影看不完，让 AI 给一个剧情介绍。AI 当然效率很高，高到产生新的问题：你会在短时间内得到一堆书籍简要总结，一堆电影剧情简介，那么，接下来你是不是要继续让 AI 做总结的总结，简介的… |
 | 2026-09-18 | [DeepSeek-V4.1-Flash: Pushing the Limits of KV Cache Compression](https://mer.run/posts/deepseek-v41-flash-pushing-the-limits-of-kv-cache-compression/) | DeepSeek V4.1 Flash的技术报告。 |
 | 2026-09-18 | [从废品回收，到自我价值](https://mobius.blog/25745.html) | 前两天跟@孤斗 在聊写小说的事，他身上有很强烈的“感性能量”，这是小说创作者需要具备的创作能量之一，所以我给了 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
+| 2026-09-18 | [Bonsai 2 27B！下载中，看看效](https://versun.me/blog/tweet-2100749167320879121) | PrismML Today, we’re announcing Ternary Bonsai 2 27B. Based on Qwen3.8 27B, Bonsai 2 27B is 9x smaller than its full-precision counterpart while retai… |
+| 2026-09-18 | [Union Alpha 原来是 unbi](https://versun.me/blog/tweet-2100747941854224576) | Union Alpha https://x.com/i/article/2100721649901334529 Union Alpha 原来是 unbiased 家的 Pareto 模型 DeepSWE 得分和 GPT 6 打平，噢，和 DS 4.1 flash 也打平了 Pareto 价格：$2.… |
 | 2026-09-18 | [科技爱好者周刊（第 413 期）：再见了，React Native](http://www.ruanyifeng.com/blog/2026/09/weekly-issue-413.html) | 这里记录每周值得分享的科技内容，周五发布。（ [通知] 下周五开始的中秋和十一假期，周刊休息。 ） 本杂志 开源 ，欢迎 投稿 。另有 《谁在招人》 服务，发布程序员招聘信息。合作请 邮件联系 （yifeng.ruan@gmail.com）。 封面图 华东师范大学闵行校区新启用的西校门，仿造了它的前… |
 | 2026-09-17 | [学习周刊-总第281期-2026年第38周](https://wiki.eryajf.net/pages/f4b3b4/) | 如要阅读全文，点击标题跳转。 学习周刊-总第281期 &#124; netsgo &#124; polywise &#124; drawio-skill &#124; CLICD &#124; Swifka &#124; glitter-idea-repo &#124; MacSai |
 | 2026-09-17 | [慢，是一种顶级的判断力](https://blog.zzbd.org/miao20260918/) | 很多人在职场里最大的误区，是把“快”当成能力，把“急”当成敬业。我们习惯性快速反应、快速表态、快速推进、快速定论，以为动作越快、效率越高，就越专业、越靠谱。可一路走来才慢慢明白：真正拉开人与人职场差距的，从来不是做事的速度，而是 判断的精度 。而精准的判断，永远只属于懂得慢下来的人。 |
@@ -155,27 +157,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-09-12 | [Python 潮流周刊#167：用 1024 字节写个 Python 解释器](https://pythoncat.top/posts/2026-09-12-weekly/) | 分享了 12 篇文章，12 个开源项目 |
 | 2026-09-12 | [Memos #2026-09-11](https://www.taober.blog/memos/memo_20260910164416_0xegw2) | 00:44 泪目 |
 | 2026-09-12 | [倪海厦中医电子书资料全集【中医】【天纪、人纪】【资料全集】](https://www.gugegt.com/nihaixia-zhongyi-ziliao.html) | 倪海厦中医与易学宝藏资料库：从《天纪》到《人纪》的完整学习指南 在中医传承与现代学习的交汇点上，倪海厦老师的课程无疑是一座巍峨的高山。无论是想要深入研习中医经典的"人纪"系列，还是探索中国传统易学智慧的"天纪"系列，一套系统、完整且清晰的资料库都是学习者的刚需。 核心资源深度解析 1. 探索天人合一… |
-| 2026-09-11 | [A 6-Day 5-Night Early Autumn Beach Trip to Weihai](https://victor42.eth.limo/post-en/trip-to-weihai/) | September had just opened the fishing season. Skip the summer holiday crush, and it is a fine time for sand and seafood. Photo Album: View Photo Album… |
-| 2026-09-11 | [威海初秋看海玩沙6天5夜](https://victor42.eth.limo/post/trip-to-weihai/) | 9月刚开渔，避开暑假，正是玩沙吃海鲜的好时节。 照片相册： 查看本篇相册 旅行攻略： 获取攻略文档 威海，胶东半岛尖端上的海滨小城，有历史厚重的一面，也有现代休闲的一面。多留几天给它，会有很丰富的度假体验。 第1天：幸福门 傍晚飞机着陆大水泊机场，军民两用机场。降落前约半小时，机长就广播要求所有乘客… |
-| 2026-09-11 | [入蜀记 day473 索书号](https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_473/) | 「索书号。」 |
-| 2026-09-11 | [入蜀记 day472 五块石](https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_472/) | 「五块石。」 |
-| 2026-09-11 | [入蜀记 day471 白露、快降温、冰糖雪梨](https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_471/) | 「白露、快降温、冰糖雪梨。」 |
-| 2026-09-11 | [PeakDesign Everyday Backpack换新](https://elmagnifico.tech/2026/09/12/PeakDesign/) | Foreword 19年买的PeakDesign Everyday Backpack，去年就已经出现涂层脱落了，只是没想起来这个是终身保修的。最近刷到一个质保的视频，才想起来这个可以换。 Everyday Backpack 30L v1 v1是19年买的，PD的包是摄影定位，我看上的是分层、分割，设… |
-| 2026-09-11 | [emacs-为todo关键字设定不同字体](https://blog.prayhand13013.top/20260911T230544--emacs-为todo关键字设定不同字体__blog.html) |  |
-| 2026-09-11 | [提完离职之后](https://blog.solazy.me/20260911/) | 写在我提完离职之后的观察 |
-| 2026-09-11 | [Kimi K2.8 Preview刚出来](https://versun.me/blog/tweet-2098318060470075770) | Kimi K2.8 Preview刚出来 话说怎么版本号还回去了，，为啥不出 K3-flash 啊！！！ |
-| 2026-09-11 | [macOS 27 正式版出来了，有从 1](https://versun.me/blog/tweet-2098311082603590039) | macOS 27 正式版出来了，有从 15 升上来的吗 我有点憋不住了。。。 |
-| 2026-09-11 | [摘：《说灵魂》](https://z.arlmy.me/posts/Note/Note_ChengBaoYi_ShuoLingHun/) | 「一朵鸢尾花，万物合理。」 |
-| 2026-09-11 | [摘：《熟食动物》](https://z.arlmy.me/posts/Note/Note_RichardWrangham_CatchingFire/) | 「黑暗时代。」 |
-| 2026-09-11 | [2002，宿舍里的网线](https://www.tortorse.com/archives/dorm-room-ethernet-2002/) | 夏夜里，学生坐三蹦子去校外网吧 |
-| 2026-09-11 | [中年翻种子](https://www.hecaitou.com/2026/09/dormant-seeds-midlife.html) | 有读者问我：「叔，你到了这个年纪还会有焦虑和烦心事吗？」 首先，这个问题就很讨打，如果不是问我，如果不是问现在刚好德艺双馨的我，多半会遭到白眼：什么年纪？什么叫「到了这个年纪」？那你觉得我是有多老？ 大家应该都能理解这种心态，绝大多数人都厌恶衰老，热爱青春，因为我们都是生命。所以，面对衰老这种问题，… |
-| 2026-09-11 | [用美国 LLC 公司主体申请 Apple Developer](https://rokcso.com/p/apply-apple-developer-with-us-llc/) | 本文记录我使用美国 LLC 公司主体申请 Apple Developer Company / Organization 账号的过程，主要包括注册美区 Apple ID、查询 D-U-N-S Number，以及提交公司信息等待审核。 Apple 的页面和审核要求可能会调整，文中使用的地址、手机号和具体… |
-| 2026-09-11 | [从昨天开始用ds-v4.1-flash，](https://versun.me/blog/tweet-2098229959743664628) | 从昨天开始用ds-v4.1-flash，文字能力感觉退步些，但编程能力和 agent 能力确实提升很多 目前感受 Kimi K3 > Gemini 3.8 flash >= DS v4.1 flash Gemini 3.8 flash 的文字能力依旧顶级 |
-| 2026-09-11 | [只要结果，拒绝理由](https://mobius.blog/25700.html) | 据说9月7日，泰国军方带领媒体及东盟观察团进入柬泰边境奥斯玛的一处大型诈骗园区，在园区办公室的一处墙上，用中文 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
-| 2026-09-11 | [最近惦念 20260831](https://z.arlmy.me/posts/TILs/thoughts/20260831_Recently/) | 「要主动排出废物，做麦克斯韦妖。」 |
-| 2026-09-11 | [2026 纸书单](https://z.arlmy.me/posts/YearlyBooks/BookList_2026/) | 「买的书和借阅的书」 |
-| 2026-09-11 | [科技爱好者周刊（第 412 期）：禁止 issue，只用 PR](http://www.ruanyifeng.com/blog/2026/09/weekly-issue-412.html) | 这里记录每周值得分享的科技内容，周五发布。 本杂志 开源 ，欢迎 投稿 。另有 《谁在招人》 服务，发布程序员招聘信息。合作请 邮件联系 （yifeng.ruan@gmail.com）。 封面 上海前滩太古里举办的"英雄联盟15周年"展览。（ via ） 禁止 issue，只用 PR 上周，PHP… |
-| 2026-09-11 | [腾讯WorkBuddy海外版来啦,注册畅玩gpt-6-Astra,deepseek-4.1-flash限时免费](https://programnotes.cn/ai-workbuddy/index.html) | 腾讯WorkBuddy,海外版来啦,邀请好友注册立得350积分。 |
 
 ## Vibe Coding
 

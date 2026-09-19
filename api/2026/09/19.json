@@ -1,0 +1,184 @@
+[
+  {
+    "title": "Coffee Break Clojure, Vol.1",
+    "url": "https://www.geedea.pro/article/tutorial-clj-1/",
+    "date": "2026-09-18T17:45:49Z",
+    "description": "上一篇 我们了解了 Lisp 中「代码即数据」的本质，知道了不求值（Eval）的列表就是数据，被求值的列表就是代码，而代码可以像数据一样经过任意的变换之后再求值。我们还捋了捋列表、形式、对象和原子的概念，可以说，读者已经掌握 Lisp 语法的精髓了。这里除了括号和待求值的一堆括号，别无他物。 了解了语法，在深入 Clojure 的语义（semantics）之前，先来准备些趁手工具。 读取-求值-打印-循环 正式开始之前，你需要先安装 Java 和 Clojure （因为 Clojure 运行在 JVM 之上），之后就可以在终端输入 clojure ，按下回车之后便会看到新的命令提示符： Clojure 1.12.6 user=> 在 Lisp 的世界里，这一般被称作 REPL，全称是：Read-Eval-Print-Loop（读取-求值-打印-循环）。顾名思义，它读取用户输入，求值，打印这个值，然后循环。有趣的是，在 Common Lisp 等方言中，你可以用一行代码启动最原始的 REPL： ( loop ( print ( eval ( read )))) Clojure 不能这样写",
+    "source_root_domain": "geedea.pro"
+  },
+  {
+    "title": "Origin、Grok Bot体验与Gantry（Courier）",
+    "url": "https://elmagnifico.tech/2026/09/19/Cursor-Origin-GrokBot/",
+    "date": "2026-09-18T16:00:00Z",
+    "description": "Foreword Origin和Grok Bot体验，然后让我发现了有意思的东西，Gantry Origin 前段时间Cursor也开始弄自己的代码托管平台了，Origin，刚好上线那天就是Github崩溃的时候 登录 cursor.com/codebase 第一次同步需要新建一个用户路径，我的常用名竟然还没人用，说明没啥人哦 可以同步Github所有仓库，一口气64个，就是这个同步实在是有点久了，十多分钟才同步完。 再解释一下为什么要同步仓库，因为Cursor的云端Agent，只能用它对应的云端仓库，Cursor没有本地Agent的移动端。举个例子：PC的Cursor Agent在干活，我可能外出了，但是这个时候任务做完了，我要看一下结果或者继续下一个任务或者改进点，此时就得回PC去继续。那有没有可能我可以通过移动端直接指挥Agent干活呢？ 可以，就是云端Agent的业务。只是，他不能直接操控你的电脑，不像小龙虾那种集成到你的IM里能直接指挥，对应的生产类型的Agent能被远程指挥的还是比较少的，限制颇多。 同步完成以后，就可以直接在Cursor的云端进行仓库的修改或者内容更新了，",
+    "source_root_domain": "elmagnifico.tech"
+  },
+  {
+    "title": "Doherty 多尔蒂阈值",
+    "url": "https://blog.est.im/2026/stderr-29",
+    "date": "2026-09-18T08:15:00Z",
+    "description": "前几天鼠标坏了。随手换了个新的，双飞燕。没想到这垃圾鼠标居然在 macbook 下有间歇性卡顿 失联问题，表现是光标不动 怀疑是 系统问题，驱动问题，鼠标本身，商家卖假货问题。最后想明白了，这几十元破玩意就tmd不值得去折腾心态。直接扔。 回想了一下，这玩意其实对工作影响比意料中的大得多。平时操作触摸板 键盘都是下意识的，根本不会去多想； 光标在显示器上一旦当场卡住，你大脑瞬间被吸引过去，从软件到硬件到购买决策，到损失厌恶，全部过一遍，恶心死了 生活中我们习惯了太多「常见」的事，是工业和质量体系支撑着这一切的「正常」。我想到骑车可以走神，开车可以走神，走路也可以走神，有的时候经过一个路口，你都完全不知道道路上发生了什么，怎么过的红绿灯，有没有危险，浑然不知；自己反正在操心着别的事儿，身体就不由自主的「自动驾驶」 电脑上 打字 也是一样。一个输入法如果能连续不断正确打出你想要的东西，那种表达的流畅是让人很舒服的。因为新生代很多人都不会 盲打 了，我想很多人可能很难体会到这一点了吧 我想到，其实写代码也是一种同样的感受。无论是以前古法手搓，还是现在 AI 写代码，都有那么一些任务不想去碰，",
+    "source_root_domain": "feedburner.com"
+  },
+  {
+    "title": "做作品集用什么软件好？推荐你试试Figma Slides【效率工具指南】",
+    "url": "https://penghh.fun/2026/09/18/2026-9-18-portfolio/",
+    "date": "2026-09-18T08:10:00Z",
+    "description": "<script src=\"",
+    "source_root_domain": "penghh.fun"
+  },
+  {
+    "title": "Al Brooks：10 个最佳价格行为交易形态（全解析与中文图解）",
+    "url": "https://blog.forecho.com/10-best-price-action-trading-patterns.html",
+    "date": "2026-09-18T08:00:00Z",
+    "description": "引言 这 10 个最佳价格行为交易形态（10 Best Price Action Trading Patterns） 是 Al Brooks 最青睐的形态。成功的交易员每天都在运用这些形态从市场中获利。在实际应用中要保持灵活，因为每个形态都有许多变体。只要你对所有可能性保持开放的心态，就会在每个交易日、任何市场以及各种时间周期上不断看到它们的身影。 那么，对于波段交易（Swing Trading）还是剥头皮（Scalping），哪种形态才是最好的？外汇市场适用哪种？对于日内交易者或大宗商品交易者又该选哪种？ 答案是： 这并不重要 。因为任何形态都有可能成为「最佳形态」，这完全取决于当前摆在你面前的图表走势。 不仅如此，图表上有时会同时出现多个形态。例如：价格可能在等长测算目标位（Measured Move）处对多头通道发生假突破，而这次突破最初可能源自一个三角形。有些交易员会称其为「最终旗形反转（Final Flag Reversal）」，另一些人可能会视其为「主要趋势反转（Major Trend Reversal, MTR）」，还有人则会把焦点放在「通道假突破」上。 核心关键在于： ",
+    "source_root_domain": "forecho.com"
+  },
+  {
+    "title": "当苍蝇尝试在蛋上钻缝：又谈站点垃圾广告",
+    "url": "https://blog.mfwt.top/index.php/archives/1598/",
+    "date": "2026-09-18T07:56:00Z",
+    "description": "又休息了一段时间之后，回来更一篇吧。虽然还没完全适应过来，尤其是精力不足的问题多少还是有点，但日子总得过下去，因此只能想办法继续调整了。这篇博文，算是翻出来点冷饭，掺点新鲜饭，炒一炒。之前已经有...",
+    "source_root_domain": "mfwt.top"
+  },
+  {
+    "title": "线性代数复习",
+    "url": "https://physnya.top/numerical-analysis/lesson-2-linear-algebra/",
+    "date": "2026-09-18T06:52:28Z",
+    "description": "警告 没讲什么比较新的内容，所以半节课都在看文章... R n \\R^n R n 上比较一般的范数定义是 p p p - 范数 ( 1 ⩽ p ∞ 1\\leqslant p 1 ⩽ p ∞ )，",
+    "source_root_domain": "physnya.top"
+  },
+  {
+    "title": "pi add system prompt",
+    "url": "https://blog.mkacg.com/2026/09/18/pi-add-system-prompt/",
+    "date": "2026-09-18T06:43:50Z",
+    "description": "可以在 ~/.pi/agent/APPEND_SYSTEMD.md 里给 agent 追加自己的一些提示词，作用是为了让 agent 能根据我的要求约束行为。 在我这份提示词里，我基于 Dwsy/agent",
+    "source_root_domain": "mkacg.com"
+  },
+  {
+    "title": "AI 最前沿的人，已经不聊模型了",
+    "url": "https://www.evan.xin/5103/",
+    "date": "2026-09-18T05:18:26Z",
+    "description": "一、服务裹着能力：FDE 与\"模型能力—业务\"的落差 二、国内大厂与海外的差别，以及低成本用户漏斗 三、速度不 […]",
+    "source_root_domain": "evan.xin"
+  },
+  {
+    "title": "Agent、Skills 和 MCP 的区别",
+    "url": "https://199604.com/3716",
+    "date": "2026-09-18T03:31:24Z",
+    "description": "Agent、Skills 和 MCP 的区别 记录时间：2026-09-16 环境：无（概念梳理，不是部署记录 […]",
+    "source_root_domain": "199604.com"
+  },
+  {
+    "title": "技术恶性循环",
+    "url": "https://www.hecaitou.com/2026/09/fixing-tech-with-tech-a-vicious-cycle.html",
+    "date": "2026-09-18T03:26:29Z",
+    "description": "我想，我们不能总是用技术手段解决技术带来的问题，那样会没完没了。 比如说，书太多看不完，让 AI 给一个简要总结。电影看不完，让 AI 给一个剧情介绍。AI 当然效率很高，高到产生新的问题：你会在短时间内得到一堆书籍简要总结，一堆电影剧情简介，那么，接下来你是不是要继续让 AI 做总结的总结，简介的简介？ 为什么书太多？因为印刷术和排版术带来的出版效率暴增。为什么影视剧太多？是因为带宽和流媒体技术带来的传输革命，以及现在 AI 提升了制作影视节目的效率。这些都是技术进步带来的丰饶，也因此带来了信息过载。 面对如此丰饶的一个世界，你如何做抉择，这是你内心的事情。技术手段可以帮助你，但是解不开你的心魔：我全部都要。事实上，技术如果用不好，还会助长这种心魔。不是这样么？ 很多人觉得读了 AI 给出的简要总结，就等于是读了一本书，于是每天都有看不完的简要总结，然后总结迅速堆积起来，变成新的问题。很多人之前觉得选择一部影视剧打发时间太难，耗时太长，现在技术手段提供了可以无限下滑更新的短视频流，结果就是人沉溺其中，一晃几个小时过去了，比看一部电影耗时更多。 技术问题，技术解决，我不认为这是一个好的",
+    "source_root_domain": "hecaitou.com"
+  },
+  {
+    "title": "DeepSeek-V4.1-Flash: Pushing the Limits of KV Cache Compression",
+    "url": "https://mer.run/posts/deepseek-v41-flash-pushing-the-limits-of-kv-cache-compression/",
+    "date": "2026-09-18T03:23:56Z",
+    "description": "DeepSeek V4.1 Flash的技术报告。",
+    "source_root_domain": "mer.dev"
+  },
+  {
+    "title": "从废品回收，到自我价值",
+    "url": "https://mobius.blog/25745.html",
+    "date": "2026-09-18T01:50:16Z",
+    "description": "前两天跟@孤斗 在聊写小说的事，他身上有很强烈的“感性能量”，这是小说创作者需要具备的创作能量之一，所以我给了 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。",
+    "source_root_domain": "onojyun.com"
+  },
+  {
+    "title": "Bonsai 2 27B！下载中，看看效",
+    "url": "https://versun.me/blog/tweet-2100749167320879121",
+    "date": "2026-09-18T00:50:06Z",
+    "description": "PrismML Today, we’re announcing Ternary Bonsai 2 27B. Based on Qwen3.8 27B, Bonsai 2 27B is 9x smaller than its full-precision counterpart while retaining 98.2% of its aggregate benchmark performance. Two months after the first Bonsai 27B release, the bigg Bonsai 2 27B！下载中，看看效果怎么样",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "Union Alpha 原来是 unbi",
+    "url": "https://versun.me/blog/tweet-2100747941854224576",
+    "date": "2026-09-18T00:45:14Z",
+    "description": "Union Alpha https://x.com/i/article/2100721649901334529 Union Alpha 原来是 unbiased 家的 Pareto 模型 DeepSWE 得分和 GPT 6 打平，噢，和 DS 4.1 flash 也打平了 Pareto 价格：$2.50 input, $0.25 cached input, $7.50 output DS 价格：$0.15 input, $0.003 cached input, $ 0.6 output 用哪个各位心里应该有数了 好了，抬走，下一个 这一天天的，瞎胡闹嘛",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "科技爱好者周刊（第 413 期）：再见了，React Native",
+    "url": "http://www.ruanyifeng.com/blog/2026/09/weekly-issue-413.html",
+    "date": "2026-09-18T00:03:02Z",
+    "description": "这里记录每周值得分享的科技内容，周五发布。（ [通知] 下周五开始的中秋和十一假期，周刊休息。 ） 本杂志 开源 ，欢迎 投稿 。另有 《谁在招人》 服务，发布程序员招聘信息。合作请 邮件联系 （yifeng.ruan@gmail.com）。 封面图 华东师范大学闵行校区新启用的西校门，仿造了它的前身之一光华大学的校门。（ via ） 再见了，React Native Shopify 宣布 ，放弃 React Native，改用 Swift 和 Kotlin 开发它的移动版。 也就是说，它决定采用原生语言，开发 iOS 和安卓客户端，不再采用 Web 技术开发一个中间版本，再编译成各平台的客户端。 这不禁让人想起，六年前的2020年，它也是写了 一篇文章 ，高调宣布放弃原生语言，全面转向 React Native，拥抱 Web 技术。 这在当时是一个大新闻，很多人认同 Shopify 选择 Web 技术的三个理由。 不用为每个平台重复开发相同的功能。 允许开发人员跨技术栈工作。 多出来的时间和精力，可以用来创造更多的价值。 说实话，这三个理由都是场面话，真正的理由只有一个：省钱。 当年",
+    "source_root_domain": "feedburner.com"
+  },
+  {
+    "title": "学习周刊-总第281期-2026年第38周",
+    "url": "https://wiki.eryajf.net/pages/f4b3b4/",
+    "date": "2026-09-17T22:49:19Z",
+    "description": "如要阅读全文，点击标题跳转。 学习周刊-总第281期 | netsgo | polywise | drawio-skill | CLICD | Swifka | glitter-idea-repo | MacSai",
+    "source_root_domain": "eryajf.net"
+  },
+  {
+    "title": "慢，是一种顶级的判断力",
+    "url": "https://blog.zzbd.org/miao20260918/",
+    "date": "2026-09-17T18:51:11Z",
+    "description": "很多人在职场里最大的误区，是把“快”当成能力，把“急”当成敬业。我们习惯性快速反应、快速表态、快速推进、快速定论，以为动作越快、效率越高，就越专业、越靠谱。可一路走来才慢慢明白：真正拉开人与人职场差距的，从来不是做事的速度，而是 判断的精度 。而精准的判断，永远只属于懂得慢下来的人。",
+    "source_root_domain": "zzbd.org"
+  },
+  {
+    "title": "Meta 智能体 Muse 开放邀请码，双方各得 10 亿词元",
+    "url": "https://gugegt.com/meta-muse-invite-code.html",
+    "date": "2026-09-17T16:30:00Z",
+    "description": "你现在打开 muse.ai ，多半会看到一句\"你已加入等候名单\"。Meta 的个人 AI 智能体 9 月 8 日发布，首批只开了美国等少数地区，中国大陆不在里面。 邀请码通道是 9 月 16 日开的。用别人的码注册，你和对方各得 10 亿个 Muse 词元。 我的码是 HGM2XI 。",
+    "source_root_domain": "gugegt.com"
+  },
+  {
+    "title": "在 DSH 手动启用 OpenCode Go DeepSeek v4.1 新模型",
+    "url": "https://blog.frytea.com/archives/32459",
+    "date": "2026-09-17T15:22:49Z",
+    "description": "最近在使用 DeepSeek Harness 时，对接 DeepSeek 官方模型，奈何消耗过高，一会儿就几块 […]",
+    "source_root_domain": "frytea.com"
+  },
+  {
+    "title": "四年前梦想的生活与现实的生活之书房篇（2026版）",
+    "url": "https://www.ixiqin.com/2026/09/17/dream-life-and-real-life-in-the-study-2026-edition/",
+    "date": "2026-09-17T15:14:22Z",
+    "description": "写 Blog 的好处就是，你总是会有一些历史的内容，时不时的浮上来，让你回想起自己曾经的想象。 而对于房子来说 […]",
+    "source_root_domain": "ixiqin.com"
+  },
+  {
+    "title": "Blog Theme Update Mermaid Support Is Here",
+    "url": "https://www.bboy.app/2026/09/17/blog-theme-update-mermaid-support-is-here/",
+    "date": "2026-09-17T11:14:20Z",
+    "description": "Introduction The blog theme now supports Mermaid. From now on, I can put flowcharts, sequence diagrams, and simple architecture diagrams directly into Markdown. No more drawing a diagram, exporting it, uploading it, and then coming back to add the link. This post also doubles as a quick test of the new feature.",
+    "source_root_domain": "bboy.app"
+  },
+  {
+    "title": "博客主题更新：现在支持 Mermaid 了",
+    "url": "https://www.bboy.app/2026/09/17/%E5%8D%9A%E5%AE%A2%E4%B8%BB%E9%A2%98%E6%9B%B4%E6%96%B0%E7%8E%B0%E5%9C%A8%E6%94%AF%E6%8C%81-mermaid-%E4%BA%86/",
+    "date": "2026-09-17T11:14:20Z",
+    "description": "简介 博客主题现在支持 Mermaid 了。以后写流程图、时序图或者简单的架构图，直接在 Markdown 里写 Mermaid 代码就能渲染，不用先画图、导出、上传，再回来补链接。 这篇也顺便拿来测试一下新功能。",
+    "source_root_domain": "bboy.app"
+  },
+  {
+    "title": "根本看不过来",
+    "url": "https://www.hecaitou.com/2026/09/Impossible-to-Keep-Up.html",
+    "date": "2026-09-17T03:59:48Z",
+    "description": "曾经有段时间，我的家里堆满了新书，新影碟，但是根本没有时间看。一方面我真诚地相信，我需要看这些书，里面有我需要的知识，我也需要看这些影碟，里面有我需要的娱乐。但是我没时间，进度很慢，于是我就感觉到非常焦虑，觉得自己一直在错失什么。 今天我看到一条帖子，教大家如何把微信接入 AI，这样 AI 就可以帮着阅读各种群消息，帮助自己筛选出「重要的」、「有价值」的消息。我自己看了一下数据，发帖人说是自己有几百个群，置顶群就有一堆，我估计每天收到的消息能有大几千条。 回到过去，那时候我没有 AI，没办法让 AI 帮我读书，给出总结；也没办法---到今天都没办法---让 AI 帮我看影碟，让我直接感受情节。但是，我还是走出了那个阶段，不再觉得「看不过来，根本看不过来」。 走出来的原因是心态改变。我在一波波焦虑袭击之下心烦意乱，于是开始坐下来想：这究竟是怎么一回事？然后我发现了自己思维上的一个漏洞：我认为自己看不完，背后对应的是我觉得应该去看。而我接着分析，我觉得我应该去看，和我自己想看完全是两回事。 觉得自己应该去看，对应的是厌恶损失的心理---如果我不看，我就错过了很重要的知识，很重要的资讯，很重",
+    "source_root_domain": "hecaitou.com"
+  },
+  {
+    "title": "这个世界暂时还不能没有照相馆",
+    "url": "https://mobius.blog/25729.html",
+    "date": "2026-09-17T01:30:00Z",
+    "description": "前两天和老婆在讨论，要不要趁着结婚纪念日，带着两只狗去专业的摄影棚拍套全家福。这件事本身不重要，但它让我意识到 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。",
+    "source_root_domain": "onojyun.com"
+  },
+  {
+    "title": "这就测出来啦？union alpha 是",
+    "url": "https://versun.me/blog/tweet-2100392658690768951",
+    "date": "2026-09-17T01:13:27Z",
+    "description": "lifcc @OpenRouter @unionalphaai 是谁家的呢？好难猜啊 这就测出来啦？union alpha 是 OpenCode 家的？什么鬼",
+    "source_root_domain": "versun.me"
+  }
+]
