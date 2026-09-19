@@ -27,13 +27,18 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
-| 2026-09-19 | [软件工程的亡了](https://blog.mzh.ren/zh/posts/2026/09/the-end-of-software-engineering/) | 朋友发给我一张图片，乍看之下是奥莱利的动物书的封面，还以为他是想给我分享一本好书. 结果一看名字是The End of Software Engineering, 软件工程的终点，然后配合底”编程/技术/人工智能“标签，然后中间那个动物呢，是一头趴在地上有些生无可恋的野猪（希望它还没有死）。 |
+| 2026-09-19 | [软件工程亡了](https://blog.mzh.ren/zh/posts/2026/09/the-end-of-software-engineering/) | 朋友发给我一张图片，乍看之下是奥莱利的动物书的封面，还以为他是想给我分享一本好书. 结果一看名字是The End of Software Engineering, 软件工程的终点，然后配合底”编程/技术/人工智能“标签，然后中间那个动物呢，是一头趴在地上有些生无可恋的野猪（希望它还没有死）。 |
+| 2026-09-19 | [最近折腾的U卡和TenPayGo](https://blog.thetbw.xyz/archives/usdt-card-and-tenpaygo) | 最近比特币的价格也是上来了，之前亏的钱回来了很多，早在之前刷到了一些油管博主的视频，申请了 safepal 的 visa 卡，还是挺好用的，作为虚拟币出金的一个渠道。 不知道是不是国人一窝蜂的涌入，就跟之前的 giffgaff 一样，safepal 背后的卡组织 fiat24 宣布维护，期间暂停虚拟… |
+| 2026-09-19 | [万寿宫&景德镇](https://yovey.me/wanshougong-jingdezhen/) | 这大半月发生了不少事情。 1）延续对风水的兴趣，实则是周末短途摩旅的借口，跑了一趟西山万寿宫。 八月初一是许真 … Continue reading "万寿宫&景德镇" |
+| 2026-09-19 | ["明天穿什么衣服"微信小程序，适合出差、旅行和选衣搭配困难症](https://gugegt.com/wear-tomorrow-miniprogram.html) | 每天早上出门前，最让人卡壳的就是这一句：今天穿什么。 天气 App 老老实实报个 27℃。可 27℃ 到底穿短袖还是加件薄外套，它不接这话。去搜「25 度穿什么」，跳出来的不是卖衣服的就是「适当增减衣物」这种车轱辘话。 我干脆自己做了个小程序，叫「明天穿什么衣服」。定位你的城市，看今天或者明天的体感… |
 | 2026-09-19 | [vcfclick：ClickHouse + DuckDB 协作范例](https://luweiqing.com/gossip/vcfclick-ClickHouse-DuckDB.html) | vcfclick：让 VCF 回到可查询、可解释、可带走的地方如果你做过基因组分析，大概见过这样的夜晚：磁盘里躺着 VCF，终端里流着管道，脚本一层层加，最后只有作者知道哪一步在筛选。你可能是那... |
 | 2026-09-19 | [网友网络老](https://www.hecaitou.com/2026/09/blog-post.html) | 昨晚，27 年前我刚上网时认识的老友突然联系我，说是授权一批照片给我，我大可以随便使用，全都是他的手笔（参见：《 来自 老友的照片 》）。 以后这种开头我看还是要少写，都在追求活人感，而我这种写法则是写出了「化石感」，好吓人。 当年我们在家乡的论坛里天天拍砖，玩得不亦乐乎。然后就是线下见面，都很年轻… |
 | 2026-09-19 | [来自老友的照片](https://www.hecaitou.com/2026/09/photos-of-an-old-friend.html) | 昨晚 ， 一位我在 1999 年刚上网时结识的老友突然联系我，说是要把一批他拍摄的昆明照片授权给我，随我高兴我去发布。 我问他为什么不在自己公众号里发？他说他社恐，看到评论内心会不安定。但是，他又不希望这些照片一直放在硬盘上，毕竟他花费了很多心思。 所以，现在我把这些照片发布在这里。原因除了摄影者是… |
 | 2026-09-19 | [2004，一切都像是安排好了](https://www.tortorse.com/archives/everything-seemed-arranged-2004/) | 黄昏里，一个年轻人站在已经关门的电脑培训中心门前 |
+| 2026-09-19 | [Python 潮流周刊#168：AI 智能体少写一半代码、Numba 提速 750 倍、PyPI 故障查了两周](https://pythoncat.top/posts/2026-09-19-weekly/) | 分享了 12 篇文章，12 个开源项目 |
 | 2026-09-18 | [Coffee Break Clojure, Vol.1](https://www.geedea.pro/article/tutorial-clj-1/) | 上一篇 我们了解了 Lisp 中「代码即数据」的本质，知道了不求值（Eval）的列表就是数据，被求值的列表就是代码，而代码可以像数据一样经过任意的变换之后再求值。我们还捋了捋列表、形式、对象和原子的概念，可以说，读者已经掌握 Lisp 语法的精髓了。这里除了括号和待求值的一堆括号，别无他物。 了解了… |
 | 2026-09-18 | [Origin、Grok Bot体验与Gantry（Courier）](https://elmagnifico.tech/2026/09/19/Cursor-Origin-GrokBot/) | Foreword Origin和Grok Bot体验，然后让我发现了有意思的东西，Gantry Origin 前段时间Cursor也开始弄自己的代码托管平台了，Origin，刚好上线那天就是Github崩溃的时候 登录 cursor.com/codebase 第一次同步需要新建一个用户路径，我的常用… |
+| 2026-09-18 | [离职日流水账 0918](https://blog.solazy.me/20260918/) | 今天是我这份工作的 lastday |
 | 2026-09-18 | [Doherty 多尔蒂阈值](https://blog.est.im/2026/stderr-29) | 前几天鼠标坏了。随手换了个新的，双飞燕。没想到这垃圾鼠标居然在 macbook 下有间歇性卡顿 失联问题，表现是光标不动 怀疑是 系统问题，驱动问题，鼠标本身，商家卖假货问题。最后想明白了，这几十元破玩意就tmd不值得去折腾心态。直接扔。 回想了一下，这玩意其实对工作影响比意料中的大得多。平时操作触… |
 | 2026-09-18 | [做作品集用什么软件好？推荐你试试Figma Slides【效率工具指南】](https://penghh.fun/2026/09/18/2026-9-18-portfolio/) | <script src=" |
 | 2026-09-18 | [Al Brooks：10 个最佳价格行为交易形态（全解析与中文图解）](https://blog.forecho.com/10-best-price-action-trading-patterns.html) | 引言 这 10 个最佳价格行为交易形态（10 Best Price Action Trading Patterns） 是 Al Brooks 最青睐的形态。成功的交易员每天都在运用这些形态从市场中获利。在实际应用中要保持灵活，因为每个形态都有许多变体。只要你对所有可能性保持开放的心态，就会在每个交易… |
@@ -51,6 +56,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-09-17 | [学习周刊-总第281期-2026年第38周](https://wiki.eryajf.net/pages/f4b3b4/) | 如要阅读全文，点击标题跳转。 学习周刊-总第281期 &#124; netsgo &#124; polywise &#124; drawio-skill &#124; CLICD &#124; Swifka &#124; glitter-idea-repo &#124; MacSai |
 | 2026-09-17 | [慢，是一种顶级的判断力](https://blog.zzbd.org/miao20260918/) | 很多人在职场里最大的误区，是把“快”当成能力，把“急”当成敬业。我们习惯性快速反应、快速表态、快速推进、快速定论，以为动作越快、效率越高，就越专业、越靠谱。可一路走来才慢慢明白：真正拉开人与人职场差距的，从来不是做事的速度，而是 判断的精度 。而精准的判断，永远只属于懂得慢下来的人。 |
 | 2026-09-17 | [Meta 智能体 Muse 开放邀请码，双方各得 10 亿词元](https://gugegt.com/meta-muse-invite-code.html) | 你现在打开 muse.ai ，多半会看到一句"你已加入等候名单"。Meta 的个人 AI 智能体 9 月 8 日发布，首批只开了美国等少数地区，中国大陆不在里面。 邀请码通道是 9 月 16 日开的。用别人的码注册，你和对方各得 10 亿个 Muse 词元。 我的码是 HGM2XI 。 |
+| 2026-09-17 | [OSMO Action5Pro 解锁BL并开启adbd](https://blog.alliot.tech/post/osmo-action5pro-unlock-bootloader-adbd) | 不久前，某安上有大佬发现 Action 5 Pro 居然能通过 9008 打开 Bootloader，更意外的是它的 SoC 是骁龙 8 Gen 2（SM8550/QCS8550）, 一台运动相机塞了颗旗舰 SoC，一下子就变得好玩了。此后某安和 B 站陆续有人放出解锁、常驻工厂模式打开 adbd… |
 | 2026-09-17 | [在 DSH 手动启用 OpenCode Go DeepSeek v4.1 新模型](https://blog.frytea.com/archives/32459) | 最近在使用 DeepSeek Harness 时，对接 DeepSeek 官方模型，奈何消耗过高，一会儿就几块 […] |
 | 2026-09-17 | [四年前梦想的生活与现实的生活之书房篇（2026版）](https://www.ixiqin.com/2026/09/17/dream-life-and-real-life-in-the-study-2026-edition/) | 写 Blog 的好处就是，你总是会有一些历史的内容，时不时的浮上来，让你回想起自己曾经的想象。 而对于房子来说 […] |
 | 2026-09-17 | [Blog Theme Update Mermaid Support Is Here](https://www.bboy.app/2026/09/17/blog-theme-update-mermaid-support-is-here/) | Introduction The blog theme now supports Mermaid. From now on, I can put flowcharts, sequence diagrams, and simple architecture diagrams directly into… |
