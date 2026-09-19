@@ -1,5 +1,26 @@
 [
   {
+    "title": "FreeSpace 2 updated",
+    "url": "https://macsourceports.com/game/freespace2",
+    "date": "2026-09-19T18:29:30Z",
+    "description": "The build of FreeSpace 2 Source Code Project for FreeSpace 2 has been updated to version 26.0.1 of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "Wolfenstein: Enemy Territory updated",
+    "url": "https://macsourceports.com/game/wolfet",
+    "date": "2026-09-19T18:27:47Z",
+    "description": "The build of ET: Legacy for Wolfenstein: Enemy Territory has been updated to version 2.86.0 of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "Quetoo updated",
+    "url": "https://macsourceports.com/game/quetoo",
+    "date": "2026-09-19T18:26:03Z",
+    "description": "The build of Quetoo has been updated to version v1.0.105 of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
     "title": "软件工程亡了",
     "url": "https://blog.mzh.ren/zh/posts/2026/09/the-end-of-software-engineering/",
     "date": "2026-09-19T12:16:39Z",

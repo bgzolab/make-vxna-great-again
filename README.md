@@ -27,6 +27,9 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-09-19 | [FreeSpace 2 updated](https://macsourceports.com/game/freespace2) | The build of FreeSpace 2 Source Code Project for FreeSpace 2 has been updated to version 26.0.1 of the project |
+| 2026-09-19 | [Wolfenstein: Enemy Territory updated](https://macsourceports.com/game/wolfet) | The build of ET: Legacy for Wolfenstein: Enemy Territory has been updated to version 2.86.0 of the project |
+| 2026-09-19 | [Quetoo updated](https://macsourceports.com/game/quetoo) | The build of Quetoo has been updated to version v1.0.105 of the project |
 | 2026-09-19 | [软件工程亡了](https://blog.mzh.ren/zh/posts/2026/09/the-end-of-software-engineering/) | 朋友发给我一张图片，乍看之下是奥莱利的动物书的封面，还以为他是想给我分享一本好书. 结果一看名字是The End of Software Engineering, 软件工程的终点，然后配合底”编程/技术/人工智能“标签，然后中间那个动物呢，是一头趴在地上有些生无可恋的野猪（希望它还没有死）。 |
 | 2026-09-19 | [最近折腾的U卡和TenPayGo](https://blog.thetbw.xyz/archives/usdt-card-and-tenpaygo) | 最近比特币的价格也是上来了，之前亏的钱回来了很多，早在之前刷到了一些油管博主的视频，申请了 safepal 的 visa 卡，还是挺好用的，作为虚拟币出金的一个渠道。 不知道是不是国人一窝蜂的涌入，就跟之前的 giffgaff 一样，safepal 背后的卡组织 fiat24 宣布维护，期间暂停虚拟… |
 | 2026-09-19 | [万寿宫&景德镇](https://yovey.me/wanshougong-jingdezhen/) | 这大半月发生了不少事情。 1）延续对风水的兴趣，实则是周末短途摩旅的借口，跑了一趟西山万寿宫。 八月初一是许真 … Continue reading "万寿宫&景德镇" |
@@ -109,7 +112,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-09-14 | [黑洞与致密天体](https://physnya.top/compact-object/) | README 这里是 的「黑洞与致密天体」笔记. 本课程偏向比较简单的相关理论介绍. 但是鉴于选课的同学们基本上都对相关领域比较了解，因此也有很多理论推导的部分. |
 | 2026-09-14 | [Introduction](https://physnya.top/compact-object/lesson-1-introduction/) | 考核方式： 10 % 10\% 10% 课堂参与、 15 % 15\% 15% 个人课堂阅读报告 (20 min，每个人一次，读文献)、 30 % 30\% 30% 4 次作业、 15 % 15\% 15% 期末展示、 30 % 30\% 30% 期末考核. |
 | 2026-09-14 | [Star Wars: TIE Fighter updated](https://macsourceports.com/game/swtiefighter) | The build of OpenTIE for Star Wars: TIE Fighter has been updated to version v0.0.6 of the project |
-| 2026-09-14 | [Quetoo updated](https://macsourceports.com/game/quetoo) | The build of Quetoo has been updated to version v1.0.94 of the project |
 | 2026-09-14 | [腾讯云开源了个 AI 助手：Octop，装自己电脑上，全家一起用](https://gugegt.com/20260915-octop-tencent-ai-assistant.html) | 你电脑里大概装了不止一个 AI 应用。聊天记录、上传的文件、跟客户谈的方案，都在别人的服务器上。 腾讯云在 GitHub 上开源了一个叫 Octop 的项目。MIT 协议，Python 写的，版本 0.9.33。它想把这些搬回你自己的电脑。 |
 | 2026-09-14 | [深圳-拉萨自驾-计划版](https://elmagnifico.tech/2026/09/15/shenzhen-lasa-plan/) | Foreword 今年中秋和国庆中间卡了三天班，直接请假从 9 月 25 号连到 10 月 7 号，一共 13 天。想去拉萨，也想过这时间其实拿去大理附近逛更合适，去程还能顺路把桂林、阳朔过了。先计划几版出来比较一下：托车到成都再开 318，车直接托到拉萨，深圳经桂林开去大理再开回来，或者深圳一路开… |
 | 2026-09-14 | [我写的代码不超过50%](https://blog.thetbw.xyz/archives/my-code-less-than-50-precent) | 刚才在洗澡的时候，想到今天踩了 AI 埋下的大坑，又想起了之前的种种，发现，其实作为一个程序员，我一直没有写多少的代码。 这个问题还要结合前段时间的面试一起来说，最近的程序员面试，仿佛面试官都会不约而同的问同样几句话： “你对 AI 怎么看？” “你平时用 AI 多吗？” “你有多少代码是用 AI… |
