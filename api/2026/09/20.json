@@ -70,6 +70,13 @@
     "source_root_domain": "tianheg.co"
   },
   {
+    "title": "Vol.119 智能越便宜越需要外置标准：把判断留在模型之外的尺子地图",
+    "url": "https://liduos.com/weekly/the-weekly-gradient-119",
+    "date": "2026-09-20T08:00:00Z",
+    "description": "本期内容从可托付的智能出发，梳理把判断留在模型之外的尺子：实时语音与低成本架构、编译器与类型约束、Graph Engineering 与 Harness、安全默认拒绝，以及前沿模型治理、经验闭环与组织重构。",
+    "source_root_domain": "liduos.com"
+  },
+  {
     "title": "短暂尝试 NixOS，它不适合我",
     "url": "https://tianheg.co/posts/nixos-not-for-me-right-now/",
     "date": "2026-09-20T07:35:00Z",
