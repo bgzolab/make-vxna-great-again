@@ -27,6 +27,8 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-09-20 | [幸福者退让论其实是内耗的始作俑者？](https://mobius.blog/25748.html) | 果然，我对“周刊”已经没有了兴趣，既然是订阅性质的内容，那就聊一些比较实操的“方法论”。在开始之前，也先回顾一 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
+| 2026-09-19 | [用 jev 或者 llm 炒股的区别只有](https://versun.me/blog/tweet-2101448767757279473) | 用 jev 或者 llm 炒股的区别只有一个，亏钱的速度，jev更快😂 |
 | 2026-09-19 | [FreeSpace 2 updated](https://macsourceports.com/game/freespace2) | The build of FreeSpace 2 Source Code Project for FreeSpace 2 has been updated to version 26.0.1 of the project |
 | 2026-09-19 | [Wolfenstein: Enemy Territory updated](https://macsourceports.com/game/wolfet) | The build of ET: Legacy for Wolfenstein: Enemy Territory has been updated to version 2.86.0 of the project |
 | 2026-09-19 | [Quetoo updated](https://macsourceports.com/game/quetoo) | The build of Quetoo has been updated to version v1.0.105 of the project |
@@ -38,6 +40,8 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-09-19 | [网友网络老](https://www.hecaitou.com/2026/09/blog-post.html) | 昨晚，27 年前我刚上网时认识的老友突然联系我，说是授权一批照片给我，我大可以随便使用，全都是他的手笔（参见：《 来自 老友的照片 》）。 以后这种开头我看还是要少写，都在追求活人感，而我这种写法则是写出了「化石感」，好吓人。 当年我们在家乡的论坛里天天拍砖，玩得不亦乐乎。然后就是线下见面，都很年轻… |
 | 2026-09-19 | [来自老友的照片](https://www.hecaitou.com/2026/09/photos-of-an-old-friend.html) | 昨晚 ， 一位我在 1999 年刚上网时结识的老友突然联系我，说是要把一批他拍摄的昆明照片授权给我，随我高兴我去发布。 我问他为什么不在自己公众号里发？他说他社恐，看到评论内心会不安定。但是，他又不希望这些照片一直放在硬盘上，毕竟他花费了很多心思。 所以，现在我把这些照片发布在这里。原因除了摄影者是… |
 | 2026-09-19 | [2004，一切都像是安排好了](https://www.tortorse.com/archives/everything-seemed-arranged-2004/) | 黄昏里，一个年轻人站在已经关门的电脑培训中心门前 |
+| 2026-09-19 | [做测试集是真不容易呀，除了收集完善题目外](https://versun.me/blog/tweet-2101103663112687698) | Versun 正在做一份本地模型的实用能力排行榜，测试集是从各种公开 benchmark中挑选微调，覆盖任务拆解、代码开发、长链路执行、上下文、指令遵循、记忆抽取、逻辑与常识 7 个维度 目前针对本地模型的评测很少，不知道有人感兴趣不，关注人多的话，我尽快测完放出来 做测试集是真不容易呀，除了收集完… |
+| 2026-09-19 | [用了一周多的 gemini 3.8 fl](https://versun.me/blog/tweet-2101099541546361260) | 用了一周多的 gemini 3.8 flash，说说感受 智商在线，代码能力和 k3 差不多，速度快，说人话 但不适合做 review，唯命是从，不够独立，不够自信 |
 | 2026-09-19 | [Python 潮流周刊#168：AI 智能体少写一半代码、Numba 提速 750 倍、PyPI 故障查了两周](https://pythoncat.top/posts/2026-09-19-weekly/) | 分享了 12 篇文章，12 个开源项目 |
 | 2026-09-18 | [Coffee Break Clojure, Vol.1](https://www.geedea.pro/article/tutorial-clj-1/) | 上一篇 我们了解了 Lisp 中「代码即数据」的本质，知道了不求值（Eval）的列表就是数据，被求值的列表就是代码，而代码可以像数据一样经过任意的变换之后再求值。我们还捋了捋列表、形式、对象和原子的概念，可以说，读者已经掌握 Lisp 语法的精髓了。这里除了括号和待求值的一堆括号，别无他物。 了解了… |
 | 2026-09-18 | [Origin、Grok Bot体验与Gantry（Courier）](https://elmagnifico.tech/2026/09/19/Cursor-Origin-GrokBot/) | Foreword Origin和Grok Bot体验，然后让我发现了有意思的东西，Gantry Origin 前段时间Cursor也开始弄自己的代码托管平台了，Origin，刚好上线那天就是Github崩溃的时候 登录 cursor.com/codebase 第一次同步需要新建一个用户路径，我的常用… |
@@ -151,25 +155,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-09-13 | [智元灵犀X2机器人二开01:认识灵犀 X2 与二开全景，端侧、云端与灵心平台](https://programnotes.cn/agibot-develop-1/index.html) | 本文介绍灵犀X2二次开发的整体架构，包括端侧AIMDK和云端AgentSDK，并给出了需求判断依据和系统全景。 |
 | 2026-09-13 | [2026年第36、37周：匆匆沪上与常州小憩](https://blog.sakoamc.com/posts/263637/) | 题记：不紧不慢，感受时间的极小间隙。常州教我如何不想她，意思是想常州呢，还是让人乐不思蜀呢？ |
 | 2026-09-13 | [Memos #2026-09-12](https://www.taober.blog/memos/memo_20260912090221_tnbpv4) | 17:02 嘿嘿，再无借口！ |
-| 2026-09-13 | [别再四处求邀请码了，这个网站把65条优惠码的验证日期和成功率都摊开了](https://www.gugegt.com/mashanghuigou-promocodego.html) | 上周，朋友把我拉进一个"邀请码互换"的群。三百多号人，消息刷得飞快，有人求币安的返佣码，有人找海外银行的推荐链接，还有人问哪个 AI 工具的邀请还能白拿积分。 我翻了十分钟，发现一件事。好用的码，没人愿意白给。随手贴出来的那些，点进去十有八九提示已失效。 麻烦出在码的信息上。有没有过期、绑没绑地区、… |
-| 2026-09-12 | [有点无语](https://elmagnifico.tech/2026/09/13/DreamComeTrue/) | Dream 有点无语 想起来是突然的 既不是过年，也不是什么特殊日子。就是普通的一天，忽然想起小时候的一个梦想，再看看现在：我已经站在那里了 当时觉得挺远的 远到可以先放着，先做眼前的事，以后再说 以后有的是时间 那会甚至没有认真问过自己，到了会是什么感觉，只是觉得，到了就好 后来毕业了 一年一年过… |
-| 2026-09-12 | [无用命途：自制三天王](https://blog.mfwt.top/index.php/archives/1546/) | 《无用命途》，专门用来记录笔者的一些无用（甚至无厘头的）想法，且每个想法后会附带一点内容，用来介绍这个想法（及其衍生的）有关的东西。每周最多更新一次，但不保证周更，主要看想法的活跃度如何。 |
-| 2026-09-12 | [周末流水账 0912](https://blog.solazy.me/20260912/) | 今天是嘉兴休闲流水账 |
-| 2026-09-12 | [Andy 的 Plan B](https://smallyu.net/2026/09/12/Andy%E7%9A%84PlanB/) | 2025年 7月，我处于失业期间，在找工作，第一次看了《肖申克的救赎》，后来反复看了几遍，最终产生了当时的《<a |
-| 2026-09-12 | [跳出 AI 的中等收入陷阱](https://shiquda.link/ai-middle-income-trap/) | AI 把执行能力拉近之后，真正拉开差距的是过去积累的判断力、品味和用户连接。会用 Agent 不再稀缺，关键是判断闭环和有选择的积累。 |
-| 2026-09-12 | [Nex_N2.5 竟然还有 1.6T 的](https://versun.me/blog/tweet-2098700638058344605) | 马识途 开源模型家族又添新的一员✨ 最近，上海创智学院全新智能体模型 Nex‑N2.5 正式发布并开源！ 整套家族包含 Mini / Pro / Max 三个版本。 ✅Mini：轻量化多模态，兼顾性能与速度 ✅Pro ：397B参数，多模态底座，强化 Vision 视觉、Computer Use 电… |
-| 2026-09-12 | [突然发现 openrouter 上架了一](https://versun.me/blog/tweet-2098660483016593490) | 突然发现 openrouter 上架了一个新的免费模型 Nex-N2.5-Pro，397B参数，多模态，看介绍也是主打 computer use 的 按照惯例，做个鹈鹕看看，效果还不过得去，和其它大模型对比下(glm-5.3-flash/glm-5.3/deepseek-v4.1-flash)，如视… |
-| 2026-09-12 | [怀旧掌机初体验：ANBERNIC RG 34XX](https://blog.yuanji.dev/posts/anbernic-rg-34xx/) | 最近机缘巧合，我接触到了怀旧掌机，每天下了班都会花点时间来玩一些童年的老游戏。终于有了新的动力来更新博客，趁此 […] |
-| 2026-09-12 | [创造一个万人嫌](https://www.hecaitou.com/2026/09/engineering-a-public-villain.html) | 昨天我给朋友发过去一条新闻链接，附言说：还好，这个世界上并不存在一条忘恩负义的白眼狼。 是的，不存在一个高中时期就开始接受捐助的女大学生，一个在社交媒体上浓妆艳抹的女大学生，一个在使用 iPhone 17 MAX 的女大学生，一个当捐助人决定停止捐助反而开口索要的女大学生。一切都是虚构的，虚构的人这… |
-| 2026-09-12 | [摘：《作茧自缚》](https://z.arlmy.me/posts/Note/Note_JamesCScott_AgainstTheGrainADeepHistoryOfTheEarliestStates/) | 「人造的周期和暴力。」 |
-| 2026-09-12 | [终于有人核实 openrouter 的这](https://versun.me/blog/tweet-2098585344811892776) | 终于有人核实 openrouter 的这个问题了 之前我在查看模型提供商时，就发现有些提供商提供的是量化版本 那么这就导致你可能在处理一个问题时，可能会同时用到不同的量化降智版本，因为 openrouter 的自动 Fallback 功能 不过在7月分添加了新的 quantizations 参数，可… |
-| 2026-09-12 | [记陈昊然讲的一段话](https://z.arlmy.me/posts/Note/Note_ChenHaoRan_AStory/) | 「关于母语和生活。」 |
-| 2026-09-12 | [记刘昊然讲的一段话](https://z.arlmy.me/posts/Note/Note_LiuHaoRan_AStory/) | 「关于母语和生活。」 |
-| 2026-09-12 | [这个 GamsGo 价格好便宜啊，20刀](https://versun.me/blog/tweet-2098575932059705383) | MR. SHAHBAZ I used ChatGPT on GamsGo this week to turn a messy research pile into a usable outline. Task: cut a 3-hour topic brief down to ~20 minutes… |
-| 2026-09-12 | [倪海厦中医电子书资料全集【中医】【天纪、人纪】【资料全集】](https://gugegt.com/nihaixia-zhongyi-ziliao.html) | 倪海厦中医与易学宝藏资料库：从《天纪》到《人纪》的完整学习指南 在中医传承与现代学习的交汇点上，倪海厦老师的课程无疑是一座巍峨的高山。无论是想要深入研习中医经典的"人纪"系列，还是探索中国传统易学智慧的"天纪"系列，一套系统、完整且清晰的资料库都是学习者的刚需。 核心资源深度解析 1. 探索天人合一… |
-| 2026-09-12 | [Python 潮流周刊#167：用 1024 字节写个 Python 解释器](https://pythoncat.top/posts/2026-09-12-weekly/) | 分享了 12 篇文章，12 个开源项目 |
-| 2026-09-12 | [Memos #2026-09-11](https://www.taober.blog/memos/memo_20260910164416_0xegw2) | 00:44 泪目 |
-| 2026-09-12 | [倪海厦中医电子书资料全集【中医】【天纪、人纪】【资料全集】](https://www.gugegt.com/nihaixia-zhongyi-ziliao.html) | 倪海厦中医与易学宝藏资料库：从《天纪》到《人纪》的完整学习指南 在中医传承与现代学习的交汇点上，倪海厦老师的课程无疑是一座巍峨的高山。无论是想要深入研习中医经典的"人纪"系列，还是探索中国传统易学智慧的"天纪"系列，一套系统、完整且清晰的资料库都是学习者的刚需。 核心资源深度解析 1. 探索天人合一… |
 
 ## Vibe Coding
 
