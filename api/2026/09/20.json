@@ -1,10 +1,80 @@
 [
   {
+    "title": "苹果 iPhone 安全神话被打破：币圈应用FomoPeek沙盒逃逸读取了其他APP私钥",
+    "url": "https://blog.renfei.net/posts/1626402130325676145",
+    "date": "2026-09-20T14:20:11Z",
+    "description": "2026 年 9 月 19 日，慢雾联合 OKX 安全团队披露：iOS 应用 FomoPeek 1.1、1.2 版本内置一套 iOS 内核攻击框架，可突破沙盒读取并解密系统 Keychain，导致私钥、助记词、登录凭证泄露。受影响 iOS 版本为 12.0～18.7 与 26.0～26.1。",
+    "source_root_domain": "renfei.net"
+  },
+  {
+    "title": "空间的体积度量衡——行列式（Determinant）",
+    "url": "https://www.less-bug.com/posts/volume-measurement-of-space-determinant/",
+    "date": "2026-09-20T08:22:43Z",
+    "description": "在平面上，取两个向量： $$ \\mathbf{a} = \\begin{pmatrix} 3 \\\\ 0 \\end{pmatrix}, \\quad \\mathbf{b} = \\begin{pmatrix} 0 \\\\ 2 \\end{pmatrix} $$ 这两个向量从原点出发，张成一个矩形。这个矩形的面积是多少？ 底边长 $3$ ，高 $2$ ，面积 $= 3 \\times 2 = 6$ 。 现在把这两个向量排成矩阵的两列： $$ A = \\begin{pmatrix} 3 & 0 \\\\ 0 & 2 \\end{pmatrix} $$ 我们说这个矩阵的 行列式 就是 $6$ ，记作： $$ \\det(A) = 6 $$ 再看一个稍微倾斜的例子。取两个向量： $$ \\mathbf{a} = \\begin{pmatrix} 2 \\\\ 0 \\end{pmatrix}, \\quad \\mathbf{b} = \\begin{pmatrix} 1 \\\\ 3 \\end{pmatrix} $$ 它们张成一个平行四边形。你能在纸上画出这个平行四边形吗？这个平行四边形的面积是多少？",
+    "source_root_domain": "less-bug.com"
+  },
+  {
+    "title": "NixOS Is Not for Me Right Now",
+    "url": "https://tianheg.co/posts/nixos-not-for-me-right-now-en/",
+    "date": "2026-09-20T08:10:00Z",
+    "description": "Over the past few days I tried NixOS, and yesterday I realized it's not for me. What first drew me in was one thing about NixOS: complete control over a system, inside and out — as long as the config is there, you can reproduce an identical environment on a brand-new machine. That's genuinely great, because using Linux means having to learn a lot, and there's always something you're unfamiliar with — and when you've broken the system, how to roll back is often a real headache. NixOS's design sol",
+    "source_root_domain": "tianheg.co"
+  },
+  {
+    "title": "短暂尝试 NixOS，它不适合我",
+    "url": "https://tianheg.co/posts/nixos-not-for-me-right-now/",
+    "date": "2026-09-20T07:35:00Z",
+    "description": "一开始想尝试，是因为 NixOS 有一点很吸引我：能完全掌控系统的内内外外，只要配置在，就能在一台全新设备上还原出一模一样的环境。这真的很棒，因为使用 Linux 系统要掌握很多内容，总有不熟悉的地方，而把系统搞崩溃后如何回退，往往是个很头疼的问题。NixOS 的设计恰好完美地解决了这个问题。",
+    "source_root_domain": "tianheg.co"
+  },
+  {
+    "title": "SmailrX：我用Agent把Chrome插件做成了安卓App",
+    "url": "https://www.evan.xin/5106/",
+    "date": "2026-09-20T06:57:07Z",
+    "description": "SmailrX Smailr 邮件助手 Android 应用。由同是我用AI写的功能的相同的 Chrome 扩 […]",
+    "source_root_domain": "evan.xin"
+  },
+  {
+    "title": "让我头大的两个问题",
+    "url": "https://www.hecaitou.com/2026/09/two-questions-that-give-me-a-headache.html",
+    "date": "2026-09-20T04:36:52Z",
+    "description": "自从开始写作，我就掉头发。总结起来，应该有一半以上的头发是因为两个常见问题而掉落： ---当我介绍某种美食，留言区里一定会有人问：孕妇能不能吃？ ---当我介绍某部电影，留言区里一定会有人问：X 岁的孩子能看吗？ 我当然可以把这些问题简单理解为个人好奇，或者个人询问，并不必然意味着征询我的意见。但是，如果世界当真那么乐观的话，为什么大部分的药物说明书里，在禁忌一项里都有一句：孕妇禁用，或遵医嘱服用。药厂的不约而同背后是什么？不敢细想。 前阵子著名经典电影《肖申克的救赎》重映，我看到有家长带着 8 岁的孩子兴冲冲跑去看，想着要让孩子也体会一下自己当年感受到的美好。等到电影开始，家长突然如坐针毡，因为开头就是偷情和谋杀。意识到不对，再想到后面怎么和孩子解释主角安迪和监狱「姐妹花」之间发生了什么，家长在影院里几乎已经胃痉挛。还好，孩子睡了半场电影。 我不知道网线那头提问的究竟是什么人，这是我真正头大的原因。如果换了是我朋友问我类似的问题，我不会有任何心理压力，照直说就行了。因为这么多年来，我们吃饭、搭车之前从未签署过免责协议书，我很清楚他们能自己承担责任。而网上的陌生人不同，我不清楚他们的想",
+    "source_root_domain": "hecaitou.com"
+  },
+  {
+    "title": "呵护你",
+    "url": "https://hux.ink/posts/care-of-you/",
+    "date": "2026-09-20T04:33:08Z",
+    "description": "一直拖着没给群晖配上 UPS，借口之一是一年到头家里异常断电的次数可能也就一两回，抱着侥幸心理，觉得应该不会出什么问题，硬盘总不至于这么脆弱吧？借口之二则是 UPS 电源确实有点贵。就这样，买 UPS 的计划一拖再拖，直到上周二。 上周二，在公司发现 Synology Drive 同步文件时断时续，DSM 管理后台也一直登不上去，当时以为只是网络出了点问题，并没有太在意。下班回家后，想着登录后台看看究竟是什么情况，结果发现即便是在局域网内，也无法正常访问 DSM。无奈之下，只能先关机再开机，重新搜索设备后，总算顺利登录了 DSM。进入系统后，天塌了，右上角的通知显示，最近 24 小时内，群晖异常关机 17 次。打开日志中心一看，发现基本上每隔半小时，群晖就会经历一次异常断电、关机，然后又自动开机的过程。 家里并没有停过电，最近我也没对群晖的外接设备和系统做过任何变更，思来想去，怀疑是接在群晖电源前面的小米智能插座出了问题。于是拔掉智能插座，让群晖直接接入市电，观察了一个小时，期间一切正常，没有再出现异常关机的情况。至此，罪魁祸首基本锁定——小米智障插座。没想到，当初为了统计群晖耗电量而",
+    "source_root_domain": "hux.ink"
+  },
+  {
+    "title": "RSSHub 抓取 V2EX 报 403 Forbidden",
+    "url": "https://blog.hoopan.net/853.html",
+    "date": "2026-09-20T04:03:38Z",
+    "description": "RSSHub 抓取 V2EX 路由返回 503，日志显示上游 403 Forbidden。本文记录排查过程与根因（Cloudflare WAF 拦截 RSSHub 项目标识 UA），以及通过注入浏览器 UA 修复的方法。",
+    "source_root_domain": "hoopan.net"
+  },
+  {
+    "title": "如何理解直和分解与不变子空间？",
+    "url": "https://www.less-bug.com/posts/how-to-understand-direct-sum-decomposition-and-invariant-subspace/",
+    "date": "2026-09-20T03:46:14Z",
+    "description": "我不喜欢上来先上定义，然后再给性质、定理、例子的学习结构，和人认识世界的方式完全相悖，而且学起来一点也不爽！ 所以让我们从一个例子出发。 $\\mathbb{R}^3$ 中任意向量都可记作： $$ \\mathbf{v} = \\begin{pmatrix} x \\\\ y \\\\ z \\end{pmatrix} $$ 然后我们选取两个子空间平面。 $U$ 是 $xy$ 平面 $\\begin{pmatrix} x \\\\ y \\\\ 0 \\end{pmatrix}$ ， $W$ 是 $yz$ 平面 $\\begin{pmatrix} 0 \\\\ y \\\\ z \\end{pmatrix}$ 两个子空间相加可记作 $U + W$ ： $$ U + W = \\{ \\mathbf{u} + \\mathbf{w} \\mid \\mathbf{u} \\in U, \\; \\mathbf{w} \\in W \\} $$ $U + W$ 提供了任意的 $x,y,z$ 分量，所以能够填满整个 $\\mathbb{R}^3$ 。因此 $\\mathbf{v}$ 总能分解为 $U,W$ 的部分。",
+    "source_root_domain": "less-bug.com"
+  },
+  {
     "title": "幸福者退让论其实是内耗的始作俑者？",
     "url": "https://mobius.blog/25748.html",
     "date": "2026-09-20T01:30:00Z",
     "description": "果然，我对“周刊”已经没有了兴趣，既然是订阅性质的内容，那就聊一些比较实操的“方法论”。在开始之前，也先回顾一 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。",
     "source_root_domain": "onojyun.com"
+  },
+  {
+    "title": "iPhone Duo 的 Vertical Bar",
+    "url": "https://bluepika.life/blog/iphone-duo-vertical-bar",
+    "date": "2026-09-20T00:00:00Z",
+    "description": "我将上周称为同时关注任天堂和苹果的人最快乐的一周，任天堂开了新一场直面会，苹果也如预期一样发布了折叠屏手机 iPhone Duo。",
+    "source_root_domain": "bluepika.life"
   },
   {
     "title": "用 jev 或者 llm 炒股的区别只有",
@@ -65,7 +135,7 @@
   {
     "title": "vcfclick：ClickHouse + DuckDB 协作范例",
     "url": "https://luweiqing.com/gossip/vcfclick-ClickHouse-DuckDB.html",
-    "date": "2026-09-19T06:21:40Z",
+    "date": "2026-09-19T06:21:00Z",
     "description": "vcfclick：让 VCF 回到可查询、可解释、可带走的地方如果你做过基因组分析，大概见过这样的夜晚：磁盘里躺着 VCF，终端里流着管道，脚本一层层加，最后只有作者知道哪一步在筛选。你可能是那...",
     "source_root_domain": "luweiqing.com"
   },

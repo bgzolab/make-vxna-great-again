@@ -27,7 +27,17 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-09-20 | [苹果 iPhone 安全神话被打破：币圈应用FomoPeek沙盒逃逸读取了其他APP私钥](https://blog.renfei.net/posts/1626402130325676145) | 2026 年 9 月 19 日，慢雾联合 OKX 安全团队披露：iOS 应用 FomoPeek 1.1、1.2 版本内置一套 iOS 内核攻击框架，可突破沙盒读取并解密系统 Keychain，导致私钥、助记词、登录凭证泄露。受影响 iOS 版本为 12.0～18.7 与 26.0～26.1。 |
+| 2026-09-20 | [空间的体积度量衡——行列式（Determinant）](https://www.less-bug.com/posts/volume-measurement-of-space-determinant/) | 在平面上，取两个向量： $$ \mathbf{a} = \begin{pmatrix} 3 \\ 0 \end{pmatrix}, \quad \mathbf{b} = \begin{pmatrix} 0 \\ 2 \end{pmatrix} $$ 这两个向量从原点出发，张成一个矩形。这个矩形的面积… |
+| 2026-09-20 | [NixOS Is Not for Me Right Now](https://tianheg.co/posts/nixos-not-for-me-right-now-en/) | Over the past few days I tried NixOS, and yesterday I realized it's not for me. What first drew me in was one thing about NixOS: complete control over… |
+| 2026-09-20 | [短暂尝试 NixOS，它不适合我](https://tianheg.co/posts/nixos-not-for-me-right-now/) | 一开始想尝试，是因为 NixOS 有一点很吸引我：能完全掌控系统的内内外外，只要配置在，就能在一台全新设备上还原出一模一样的环境。这真的很棒，因为使用 Linux 系统要掌握很多内容，总有不熟悉的地方，而把系统搞崩溃后如何回退，往往是个很头疼的问题。NixOS 的设计恰好完美地解决了这个问题。 |
+| 2026-09-20 | [SmailrX：我用Agent把Chrome插件做成了安卓App](https://www.evan.xin/5106/) | SmailrX Smailr 邮件助手 Android 应用。由同是我用AI写的功能的相同的 Chrome 扩 […] |
+| 2026-09-20 | [让我头大的两个问题](https://www.hecaitou.com/2026/09/two-questions-that-give-me-a-headache.html) | 自从开始写作，我就掉头发。总结起来，应该有一半以上的头发是因为两个常见问题而掉落： ---当我介绍某种美食，留言区里一定会有人问：孕妇能不能吃？ ---当我介绍某部电影，留言区里一定会有人问：X 岁的孩子能看吗？ 我当然可以把这些问题简单理解为个人好奇，或者个人询问，并不必然意味着征询我的意见。但是… |
+| 2026-09-20 | [呵护你](https://hux.ink/posts/care-of-you/) | 一直拖着没给群晖配上 UPS，借口之一是一年到头家里异常断电的次数可能也就一两回，抱着侥幸心理，觉得应该不会出什么问题，硬盘总不至于这么脆弱吧？借口之二则是 UPS 电源确实有点贵。就这样，买 UPS 的计划一拖再拖，直到上周二。 上周二，在公司发现 Synology Drive 同步文件时断时续，… |
+| 2026-09-20 | [RSSHub 抓取 V2EX 报 403 Forbidden](https://blog.hoopan.net/853.html) | RSSHub 抓取 V2EX 路由返回 503，日志显示上游 403 Forbidden。本文记录排查过程与根因（Cloudflare WAF 拦截 RSSHub 项目标识 UA），以及通过注入浏览器 UA 修复的方法。 |
+| 2026-09-20 | [如何理解直和分解与不变子空间？](https://www.less-bug.com/posts/how-to-understand-direct-sum-decomposition-and-invariant-subspace/) | 我不喜欢上来先上定义，然后再给性质、定理、例子的学习结构，和人认识世界的方式完全相悖，而且学起来一点也不爽！ 所以让我们从一个例子出发。 $\mathbb{R}^3$ 中任意向量都可记作： $$ \mathbf{v} = \begin{pmatrix} x \\ y \\ z \end{pmatri… |
 | 2026-09-20 | [幸福者退让论其实是内耗的始作俑者？](https://mobius.blog/25748.html) | 果然，我对“周刊”已经没有了兴趣，既然是订阅性质的内容，那就聊一些比较实操的“方法论”。在开始之前，也先回顾一 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
+| 2026-09-20 | [iPhone Duo 的 Vertical Bar](https://bluepika.life/blog/iphone-duo-vertical-bar) | 我将上周称为同时关注任天堂和苹果的人最快乐的一周，任天堂开了新一场直面会，苹果也如预期一样发布了折叠屏手机 iPhone Duo。 |
 | 2026-09-19 | [用 jev 或者 llm 炒股的区别只有](https://versun.me/blog/tweet-2101448767757279473) | 用 jev 或者 llm 炒股的区别只有一个，亏钱的速度，jev更快😂 |
 | 2026-09-19 | [FreeSpace 2 updated](https://macsourceports.com/game/freespace2) | The build of FreeSpace 2 Source Code Project for FreeSpace 2 has been updated to version 26.0.1 of the project |
 | 2026-09-19 | [Wolfenstein: Enemy Territory updated](https://macsourceports.com/game/wolfet) | The build of ET: Legacy for Wolfenstein: Enemy Territory has been updated to version 2.86.0 of the project |
