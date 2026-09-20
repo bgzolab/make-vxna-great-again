@@ -28,6 +28,10 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | Date | Title | Summary |
 | --- | --- | --- |
 | 2026-09-20 | [苹果 iPhone 安全神话被打破：币圈应用FomoPeek沙盒逃逸读取了其他APP私钥](https://blog.renfei.net/posts/1626402130325676145) | 2026 年 9 月 19 日，慢雾联合 OKX 安全团队披露：iOS 应用 FomoPeek 1.1、1.2 版本内置一套 iOS 内核攻击框架，可突破沙盒读取并解密系统 Keychain，导致私钥、助记词、登录凭证泄露。受影响 iOS 版本为 12.0～18.7 与 26.0～26.1。 |
+| 2026-09-20 | [博客接入 Google AdSense：初体验并不好](https://blog.mfwt.top/index.php/archives/1617/) | 正如上一篇博文以及广告政策页面提到，本站在前两天的时候实验性地接入了Google AdSense（以下简称GGAD），打算先实验一个月，想看看这对于站点的开销是否有缓解作用。然而，如果光看这接入... |
+| 2026-09-20 | [Zine#59 - 和手機的關係、謠言、已讀不回](https://taxodium.ink/59.html) | Zine#59 和手機的關係、謠言、已讀不回 目錄 News &#124; Article Cool Bit Tutorial &#124; Resource Code Related AI Related Tool &#124; Library Emacs 一些话 &#124; 摘抄 多媒体 開頭的音樂分享會有人期待嗎？不管如何，如果你… |
+| 2026-09-20 | [A Long Run of Eight Kilometers](https://tianheg.co/posts/sport-run-8km-en/) | After a long gap, I went for a run again today. I ran it according to the half-marathon plan in Zepp, 8 kilometers, and it felt okay, I guess. Only to… |
+| 2026-09-20 | [【运动记】长跑八千米](https://tianheg.co/posts/sport-run-8km/) | 时隔很久，今天又跑了一次步。是按照 Zepp 的半马计划跑的，跑了 8 公里，感觉还好吧。只是跑到最后，右腹部有点不适。那是因为很久没有跑了。 |
 | 2026-09-20 | [空间的体积度量衡——行列式（Determinant）](https://www.less-bug.com/posts/volume-measurement-of-space-determinant/) | 在平面上，取两个向量： $$ \mathbf{a} = \begin{pmatrix} 3 \\ 0 \end{pmatrix}, \quad \mathbf{b} = \begin{pmatrix} 0 \\ 2 \end{pmatrix} $$ 这两个向量从原点出发，张成一个矩形。这个矩形的面积… |
 | 2026-09-20 | [NixOS Is Not for Me Right Now](https://tianheg.co/posts/nixos-not-for-me-right-now-en/) | Over the past few days I tried NixOS, and yesterday I realized it's not for me. What first drew me in was one thing about NixOS: complete control over… |
 | 2026-09-20 | [短暂尝试 NixOS，它不适合我](https://tianheg.co/posts/nixos-not-for-me-right-now/) | 一开始想尝试，是因为 NixOS 有一点很吸引我：能完全掌控系统的内内外外，只要配置在，就能在一台全新设备上还原出一模一样的环境。这真的很棒，因为使用 Linux 系统要掌握很多内容，总有不熟悉的地方，而把系统搞崩溃后如何回退，往往是个很头疼的问题。NixOS 的设计恰好完美地解决了这个问题。 |
@@ -42,6 +46,8 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-09-19 | [FreeSpace 2 updated](https://macsourceports.com/game/freespace2) | The build of FreeSpace 2 Source Code Project for FreeSpace 2 has been updated to version 26.0.1 of the project |
 | 2026-09-19 | [Wolfenstein: Enemy Territory updated](https://macsourceports.com/game/wolfet) | The build of ET: Legacy for Wolfenstein: Enemy Territory has been updated to version 2.86.0 of the project |
 | 2026-09-19 | [Quetoo updated](https://macsourceports.com/game/quetoo) | The build of Quetoo has been updated to version v1.0.105 of the project |
+| 2026-09-19 | [SFC 游戏：兔宝宝大冒险（Tiny Toon Adventures）](https://springwood.me/sfc-tiny-toon-adventures/) | （摘要）SFC 版不仅画面更加漂亮，而且玩法也更加多样化了。 |
+| 2026-09-19 | [周末流水账 0919](https://blog.solazy.me/20260919/) | 里后的第一天，也是个周末 |
 | 2026-09-19 | [软件工程亡了](https://blog.mzh.ren/zh/posts/2026/09/the-end-of-software-engineering/) | 朋友发给我一张图片，乍看之下是奥莱利的动物书的封面，还以为他是想给我分享一本好书. 结果一看名字是The End of Software Engineering, 软件工程的终点，然后配合底”编程/技术/人工智能“标签，然后中间那个动物呢，是一头趴在地上有些生无可恋的野猪（希望它还没有死）。 |
 | 2026-09-19 | [最近折腾的U卡和TenPayGo](https://blog.thetbw.xyz/archives/usdt-card-and-tenpaygo) | 最近比特币的价格也是上来了，之前亏的钱回来了很多，早在之前刷到了一些油管博主的视频，申请了 safepal 的 visa 卡，还是挺好用的，作为虚拟币出金的一个渠道。 不知道是不是国人一窝蜂的涌入，就跟之前的 giffgaff 一样，safepal 背后的卡组织 fiat24 宣布维护，期间暂停虚拟… |
 | 2026-09-19 | [万寿宫&景德镇](https://yovey.me/wanshougong-jingdezhen/) | 这大半月发生了不少事情。 1）延续对风水的兴趣，实则是周末短途摩旅的借口，跑了一趟西山万寿宫。 八月初一是许真 … Continue reading "万寿宫&景德镇" |
