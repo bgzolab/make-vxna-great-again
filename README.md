@@ -27,7 +27,10 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-09-20 | [No More Blind Dates; Dating Is Fine, Marriage Is Not](https://tianheg.co/posts/no-more-blind-dates-en/) | If she hadn't sent me a text today, I wouldn't have written this piece, because I want to forget that stretch of my life, even though it did teach me… |
+| 2026-09-20 | [我再也不想相亲了；恋爱还是要谈，结婚就算了](https://tianheg.co/posts/no-more-blind-dates/) | 如果不是她今天给我发短信，我也不会写这篇文章，因为我想忘掉那段经历，尽管它的确教会了我一些东西。她说要电话聊一下，我不觉得有什么好聊的，她打电话的时候我在睡觉。醒来看到她的未接来电，为了避免她再次打来，我把她的号码拉黑了。 |
 | 2026-09-20 | [苹果 iPhone 安全神话被打破：币圈应用FomoPeek沙盒逃逸读取了其他APP私钥](https://blog.renfei.net/posts/1626402130325676145) | 2026 年 9 月 19 日，慢雾联合 OKX 安全团队披露：iOS 应用 FomoPeek 1.1、1.2 版本内置一套 iOS 内核攻击框架，可突破沙盒读取并解密系统 Keychain，导致私钥、助记词、登录凭证泄露。受影响 iOS 版本为 12.0～18.7 与 26.0～26.1。 |
+| 2026-09-20 | [沙蔥炒牛肉](https://taxodium.ink/recipe-sha-cong-chao-niu-rou.html) | 沙蔥炒牛肉 沙蔥有一股獨特的香味，之前買過沙蔥涼拌牛肉，很好吃，但沙蔥炒牛肉好吃嗎？試試唄。 食材 牛腿肉 (或其他類似部位) 約 200g 沙蔥約 200g 沙薑 2 顆 (喂！怎麼還有沙薑啊？別問俺，俺也是看視頻裡有，就買了) 大蒜 1 顆 (是一顆，不是一瓣哦) 小米辣几根 (能吃辣就多來點，… |
 | 2026-09-20 | [博客接入 Google AdSense：初体验并不好](https://blog.mfwt.top/index.php/archives/1617/) | 正如上一篇博文以及广告政策页面提到，本站在前两天的时候实验性地接入了Google AdSense（以下简称GGAD），打算先实验一个月，想看看这对于站点的开销是否有缓解作用。然而，如果光看这接入... |
 | 2026-09-20 | [Zine#59 - 和手機的關係、謠言、已讀不回](https://taxodium.ink/59.html) | Zine#59 和手機的關係、謠言、已讀不回 目錄 News &#124; Article Cool Bit Tutorial &#124; Resource Code Related AI Related Tool &#124; Library Emacs 一些话 &#124; 摘抄 多媒体 開頭的音樂分享會有人期待嗎？不管如何，如果你… |
 | 2026-09-20 | [A Long Run of Eight Kilometers](https://tianheg.co/posts/sport-run-8km-en/) | After a long gap, I went for a run again today. I ran it according to the half-marathon plan in Zepp, 8 kilometers, and it felt okay, I guess. Only to… |
