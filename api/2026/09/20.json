@@ -1,5 +1,19 @@
 [
   {
+    "title": "大脑充血 Vol.99",
+    "url": "https://www.geedea.pro/weekly/99/",
+    "date": "2026-09-20T23:39:21Z",
+    "description": "最近一直在小步缓行，不急不忙地把事情做好。一方面是上班之后的确没有大块且高精力的时间来做自己想做的事情了，只能把事情拆得很碎，一点一点来做。这几天在读波拉尼奥的短篇集《地球上最后的夜晚》，每篇真的很短，大概十几二十页，可以每天上班前没有压力地读上一两篇。我很喜欢他的文风，平静却具有冲击力，不做作，就是普通人生活的感觉。 weepinbell weepinbell 是我半年前开始写的 Clojure 项目，它是个 Webmention 接收器。如果你不知道这是什么，可以阅读我写的《 Webmention 简明指南 》 最近我又把它捡了起来，发布了 v0.5.0 版本，并且仍然在更新。我还在 Issues 里写了很多虽然写着欢迎贡献，但更多是写给自己看的计划（因为项目拒绝合并 LLM 生成的代码，而我非常清楚既关心 IndieWeb 又会写 Clojure，还有 Codeberg 账号，并且愿意给我贡献代码的人，很有可能根本不存在吧！）。 这两周我大概做了这些事情： 把用来给 Webmention 生成 ID 的 MD5 换成了 SHA256，后者的抗碰撞性会更好。虽然到最后我都会截断成 ",
+    "source_root_domain": "geedea.pro"
+  },
+  {
+    "title": "Harbor容器僵尸进程数告警——docker-compose.override.yml加init参数修复",
+    "url": "https://199604.com/3718",
+    "date": "2026-09-20T23:07:39Z",
+    "description": "Harbor容器僵尸进程数告警——docker-compose.override.yml加init参数修复 记 […]",
+    "source_root_domain": "199604.com"
+  },
+  {
     "title": "No More Blind Dates; Dating Is Fine, Marriage Is Not",
     "url": "https://tianheg.co/posts/no-more-blind-dates-en/",
     "date": "2026-09-20T14:57:43Z",

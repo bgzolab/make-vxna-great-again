@@ -27,6 +27,8 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-09-20 | [大脑充血 Vol.99](https://www.geedea.pro/weekly/99/) | 最近一直在小步缓行，不急不忙地把事情做好。一方面是上班之后的确没有大块且高精力的时间来做自己想做的事情了，只能把事情拆得很碎，一点一点来做。这几天在读波拉尼奥的短篇集《地球上最后的夜晚》，每篇真的很短，大概十几二十页，可以每天上班前没有压力地读上一两篇。我很喜欢他的文风，平静却具有冲击力，不做作，就… |
+| 2026-09-20 | [Harbor容器僵尸进程数告警——docker-compose.override.yml加init参数修复](https://199604.com/3718) | Harbor容器僵尸进程数告警——docker-compose.override.yml加init参数修复 记 […] |
 | 2026-09-20 | [No More Blind Dates; Dating Is Fine, Marriage Is Not](https://tianheg.co/posts/no-more-blind-dates-en/) | If she hadn't sent me a text today, I wouldn't have written this piece, because I want to forget that stretch of my life, even though it did teach me… |
 | 2026-09-20 | [我再也不想相亲了；恋爱还是要谈，结婚就算了](https://tianheg.co/posts/no-more-blind-dates/) | 如果不是她今天给我发短信，我也不会写这篇文章，因为我想忘掉那段经历，尽管它的确教会了我一些东西。她说要电话聊一下，我不觉得有什么好聊的，她打电话的时候我在睡觉。醒来看到她的未接来电，为了避免她再次打来，我把她的号码拉黑了。 |
 | 2026-09-20 | [苹果 iPhone 安全神话被打破：币圈应用FomoPeek沙盒逃逸读取了其他APP私钥](https://blog.renfei.net/posts/1626402130325676145) | 2026 年 9 月 19 日，慢雾联合 OKX 安全团队披露：iOS 应用 FomoPeek 1.1、1.2 版本内置一套 iOS 内核攻击框架，可突破沙盒读取并解密系统 Keychain，导致私钥、助记词、登录凭证泄露。受影响 iOS 版本为 12.0～18.7 与 26.0～26.1。 |
