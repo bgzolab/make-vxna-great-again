@@ -1,5 +1,33 @@
 [
   {
+    "title": "R#120 沉迷",
+    "url": "https://blog.sakanano.moe/journals/random_120",
+    "date": "2026-09-21T15:30:00Z",
+    "description": "2026.9.15 ~ 2026.9.21",
+    "source_root_domain": "sakanano.moe"
+  },
+  {
+    "title": "恒星的结构和演化",
+    "url": "https://physnya.top/compact-object/lesson-2-star-structure-and-evolution/",
+    "date": "2026-09-21T14:17:17Z",
+    "description": "建立恒星的方程，我们通常考虑质量守恒、静力学平衡、能量守恒和反应几个角度. 质量守恒： d M d r = 4 π r 2 ρ ( r ) \\frac{\\mathrm{d}M}{\\mathrm{d}r}=4\\pi r^2\\rho(r) d r d M ​ = 4 π r 2 ρ ( r )",
+    "source_root_domain": "physnya.top"
+  },
+  {
+    "title": "我给博客做了一个时光机",
+    "url": "https://liudon.com/posts/hugo-ipfs-time-machine/",
+    "date": "2026-09-21T13:23:15Z",
+    "description": "前言 博客早在23年的时候就接入了 IPFS 服务，通过 GitHub Actions 实现了 Cloudflare Pages 和 IPFS 两套服务托管。 整个流程大概是下面这样的，具体实现可以参考 Hugo 接入 IPFS 服务 这篇内容。 Hugo Build │ ├── 正常部署 → Cloudflare Pages ← liudon.com │ └── IPFS → CID ← liudon.xyz 博客主要还是通过 liudon.com 来对外提供访问， liudon.xyz 更像是一块试验田，用来验证 Hugo 博客跑在 IPFS 服务上。",
+    "source_root_domain": "liudon.com"
+  },
+  {
+    "title": "读书有感",
+    "url": "https://blog.oospace.com/posts/2026-09-21/",
+    "date": "2026-09-21T11:00:00Z",
+    "description": "读书有感而记录",
+    "source_root_domain": "oospace.com"
+  },
+  {
     "title": "复古游戏圈入门指南",
     "url": "https://blog.yuanji.dev/posts/retro-game-intro/",
     "date": "2026-09-21T09:08:16Z",
@@ -33,6 +61,13 @@
     "date": "2026-09-21T03:28:27Z",
     "description": "「鲸鱼可以那么平静地呼吸。」",
     "source_root_domain": "arlmy.me"
+  },
+  {
+    "title": "emacs-为重复任务添加自定义工作日判定",
+    "url": "https://blog.prayhand13013.top/20260921T102942--emacs-为重复任务添加自定义工作日判定__blog.html",
+    "date": "2026-09-21T02:29:00Z",
+    "description": "",
+    "source_root_domain": "tomoemami.github.io"
   },
   {
     "title": "爹而不自知 I",
