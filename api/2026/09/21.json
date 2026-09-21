@@ -1,0 +1,317 @@
+[
+  {
+    "title": "爹而不自知 I",
+    "url": "https://mobius.blog/25758.html",
+    "date": "2026-09-21T02:26:10Z",
+    "description": "我是一个时不时需要“当爹”的人，因为大部分时间都在处理没办法得到及时回应的事情，例如写小说、剧本、制作短剧分镜 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。",
+    "source_root_domain": "onojyun.com"
+  },
+  {
+    "title": "大脑充血 Vol.99",
+    "url": "https://www.geedea.pro/weekly/99/",
+    "date": "2026-09-20T23:39:21Z",
+    "description": "最近一直在小步缓行，不急不忙地把事情做好。一方面是上班之后的确没有大块且高精力的时间来做自己想做的事情了，只能把事情拆得很碎，一点一点来做。这几天在读波拉尼奥的短篇集《地球上最后的夜晚》，每篇真的很短，大概十几二十页，可以每天上班前没有压力地读上一两篇。我很喜欢他的文风，平静却具有冲击力，不做作，就是普通人生活的感觉。 weepinbell weepinbell 是我半年前开始写的 Clojure 项目，它是个 Webmention 接收器。如果你不知道这是什么，可以阅读我写的《 Webmention 简明指南 》 最近我又把它捡了起来，发布了 v0.5.0 版本，并且仍然在更新。我还在 Issues 里写了很多虽然写着欢迎贡献，但更多是写给自己看的计划（因为项目拒绝合并 LLM 生成的代码，而我非常清楚既关心 IndieWeb 又会写 Clojure，还有 Codeberg 账号，并且愿意给我贡献代码的人，很有可能根本不存在吧！）。 这两周我大概做了这些事情： 把用来给 Webmention 生成 ID 的 MD5 换成了 SHA256，后者的抗碰撞性会更好。虽然到最后我都会截断成 ",
+    "source_root_domain": "geedea.pro"
+  },
+  {
+    "title": "Harbor容器僵尸进程数告警——docker-compose.override.yml加init参数修复",
+    "url": "https://199604.com/3718",
+    "date": "2026-09-20T23:07:39Z",
+    "description": "Harbor容器僵尸进程数告警——docker-compose.override.yml加init参数修复 记 […]",
+    "source_root_domain": "199604.com"
+  },
+  {
+    "title": "这几天爆火的 jev 和 laya 模型",
+    "url": "https://versun.me/blog/tweet-2101808620426149961",
+    "date": "2026-09-20T22:59:59Z",
+    "description": "Versun 虽然不懂金融，看的有点懵逼， 但我觉得未来各个行业都会有自己的专用模型， 而目前通用模型应该会拿来做统筹，说不定统筹都会有专用模型😎 https://twitter.com/sodawhite_dev/status/2096262979042046435 这几天爆火的 jev 和 laya 模型，似乎就是不错的方法来训练专用模型，然后让一个 llm 模型统筹，实现又快又好😎",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "有用 hermes agent 的，每次",
+    "url": "https://versun.me/blog/tweet-2101807584831570411",
+    "date": "2026-09-20T22:55:52Z",
+    "description": "有用 hermes agent 的，每次会话结束前，记得 /review 下，效果很不错，每次都有惊喜",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "No More Blind Dates; Dating Is Fine, Marriage Is Not",
+    "url": "https://tianheg.co/posts/no-more-blind-dates-en/",
+    "date": "2026-09-20T14:57:43Z",
+    "description": "If she hadn't sent me a text today, I wouldn't have written this piece, because I want to forget that stretch of my life, even though it did teach me something. She said she wanted to talk on the phone. I didn't think there was anything worth talking about. She called while I was asleep. When I woke up and saw she had called, I blocked her number so she wouldn't call again.",
+    "source_root_domain": "tianheg.co"
+  },
+  {
+    "title": "我再也不想相亲了；恋爱还是要谈，结婚就算了",
+    "url": "https://tianheg.co/posts/no-more-blind-dates/",
+    "date": "2026-09-20T14:43:24Z",
+    "description": "如果不是她今天给我发短信，我也不会写这篇文章，因为我想忘掉那段经历，尽管它的确教会了我一些东西。她说要电话聊一下，我不觉得有什么好聊的，她打电话的时候我在睡觉。醒来看到她的未接来电，为了避免她再次打来，我把她的号码拉黑了。",
+    "source_root_domain": "tianheg.co"
+  },
+  {
+    "title": "苹果 iPhone 安全神话被打破：币圈应用FomoPeek沙盒逃逸读取了其他APP私钥",
+    "url": "https://blog.renfei.net/posts/1626402130325676145",
+    "date": "2026-09-20T14:20:11Z",
+    "description": "2026 年 9 月 19 日，慢雾联合 OKX 安全团队披露：iOS 应用 FomoPeek 1.1、1.2 版本内置一套 iOS 内核攻击框架，可突破沙盒读取并解密系统 Keychain，导致私钥、助记词、登录凭证泄露。受影响 iOS 版本为 12.0～18.7 与 26.0～26.1。",
+    "source_root_domain": "renfei.net"
+  },
+  {
+    "title": "沙蔥炒牛肉",
+    "url": "https://taxodium.ink/recipe-sha-cong-chao-niu-rou.html",
+    "date": "2026-09-20T14:15:00Z",
+    "description": "沙蔥炒牛肉 沙蔥有一股獨特的香味，之前買過沙蔥涼拌牛肉，很好吃，但沙蔥炒牛肉好吃嗎？試試唄。 食材 牛腿肉 (或其他類似部位) 約 200g 沙蔥約 200g 沙薑 2 顆 (喂！怎麼還有沙薑啊？別問俺，俺也是看視頻裡有，就買了) 大蒜 1 顆 (是一顆，不是一瓣哦) 小米辣几根 (能吃辣就多來點，吃不了就可以省了) 備菜 牛肉切成薄片 (逆著紋理切) ，加入一點點黑胡椒 (去腥，不要太多就會有一股胡椒味也不好吃) 、適量生抽 (入個底味) 、少量小蘇打 (讓肉更嫩) 、少量油 (封住水份，也不容易粘鍋) ，攪拌均勻，腌製 10 分鐘。 沙蔥洗干净，對半切成段 沙薑、蒜、小米辣都切成碎粒 烹飪 起鍋熱油 (油多給點，不能太少，少了可能會粘鍋，你要是不知道這次多少合適，下次就知道了) ，下入沙薑、蒜、小米辣炒香，下入牛肉炒到變色，表面看不太出生肉的顏色就差不多 下入沙蔥簡單翻炒几下，加入適量生抽，少許雞精或味精 (提鮮) ，然後炒勻即可。 不要炒太久，久了沙蔥熟望頭，軟軟的就不好吃了。所以前面炒肉先盡量炒得差不多熟，這樣下入沙蔥時，就不用炒太久。 成品 图1 沙蔥炒牛肉成品圖 品嘗 整體",
+    "source_root_domain": "taxodium.ink"
+  },
+  {
+    "title": "博客接入 Google AdSense：初体验并不好",
+    "url": "https://blog.mfwt.top/index.php/archives/1617/",
+    "date": "2026-09-20T13:57:00Z",
+    "description": "正如上一篇博文以及广告政策页面提到，本站在前两天的时候实验性地接入了Google AdSense（以下简称GGAD），打算先实验一个月，想看看这对于站点的开销是否有缓解作用。然而，如果光看这接入...",
+    "source_root_domain": "mfwt.top"
+  },
+  {
+    "title": "Zine#59 - 和手機的關係、謠言、已讀不回",
+    "url": "https://taxodium.ink/59.html",
+    "date": "2026-09-20T13:20:00Z",
+    "description": "Zine#59 和手機的關係、謠言、已讀不回 目錄 News | Article Cool Bit Tutorial | Resource Code Related AI Related Tool | Library Emacs 一些话 | 摘抄 多媒体 開頭的音樂分享會有人期待嗎？不管如何，如果你想找點歌聴，推薦聴聴 上期 分享的 Men I Trust！除此之外，這周 Hopico 也更新了一期 ⸺ 原来莫文蔚最好的 9 首情歌，都藏在滚石唱片。好痛！特别痛！ ⸺ 我也把裡面提到的専輯也找來聴了，你也可以去聴聴看！ 图1 視頻截圖，裡面有一段文字，內容是： 情歌是想念变成了 / 一个在夜晚撑船的人 / 但它找不到接它的对岸 / 然后想念常常像一个赶路的人 它永远在追一个 / 追不上的背影 / 情歌也是 / 永远在唱夕 / 已经不在这首歌里的人 情歌很奇妙它没有见过我们爱过的人 / 却能让一些已经模糊的日子 / 重新有了细节 情歌什么时候变成想念的呢 / 是曾经吵闹的地方 / 突然变安静的那一天 News | Article Actual aunting: New baby edit",
+    "source_root_domain": "taxodium.ink"
+  },
+  {
+    "title": "A Long Run of Eight Kilometers",
+    "url": "https://tianheg.co/posts/sport-run-8km-en/",
+    "date": "2026-09-20T13:15:50Z",
+    "description": "After a long gap, I went for a run again today. I ran it according to the half-marathon plan in Zepp, 8 kilometers, and it felt okay, I guess. Only toward the end my right abdomen felt a bit uncomfortable. That is because I hadn't run in a long time.",
+    "source_root_domain": "tianheg.co"
+  },
+  {
+    "title": "【运动记】长跑八千米",
+    "url": "https://tianheg.co/posts/sport-run-8km/",
+    "date": "2026-09-20T13:10:44Z",
+    "description": "时隔很久，今天又跑了一次步。是按照 Zepp 的半马计划跑的，跑了 8 公里，感觉还好吧。只是跑到最后，右腹部有点不适。那是因为很久没有跑了。",
+    "source_root_domain": "tianheg.co"
+  },
+  {
+    "title": "滴答清单也加上了 AI 助手，还不错，我",
+    "url": "https://versun.me/blog/tweet-2101638960120561692",
+    "date": "2026-09-20T11:45:49Z",
+    "description": "滴答清单也加上了 AI 助手，还不错，我之前都是让 hermes 来管理清单任务的，这几天用用看怎么样",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "空间的体积度量衡——行列式（Determinant）",
+    "url": "https://www.less-bug.com/posts/volume-measurement-of-space-determinant/",
+    "date": "2026-09-20T08:22:43Z",
+    "description": "在平面上，取两个向量： $$ \\mathbf{a} = \\begin{pmatrix} 3 \\\\ 0 \\end{pmatrix}, \\quad \\mathbf{b} = \\begin{pmatrix} 0 \\\\ 2 \\end{pmatrix} $$ 这两个向量从原点出发，张成一个矩形。这个矩形的面积是多少？ 底边长 $3$ ，高 $2$ ，面积 $= 3 \\times 2 = 6$ 。 现在把这两个向量排成矩阵的两列： $$ A = \\begin{pmatrix} 3 & 0 \\\\ 0 & 2 \\end{pmatrix} $$ 我们说这个矩阵的 行列式 就是 $6$ ，记作： $$ \\det(A) = 6 $$ 再看一个稍微倾斜的例子。取两个向量： $$ \\mathbf{a} = \\begin{pmatrix} 2 \\\\ 0 \\end{pmatrix}, \\quad \\mathbf{b} = \\begin{pmatrix} 1 \\\\ 3 \\end{pmatrix} $$ 它们张成一个平行四边形。你能在纸上画出这个平行四边形吗？这个平行四边形的面积是多少？",
+    "source_root_domain": "less-bug.com"
+  },
+  {
+    "title": "NixOS Is Not for Me Right Now",
+    "url": "https://tianheg.co/posts/nixos-not-for-me-right-now-en/",
+    "date": "2026-09-20T08:10:00Z",
+    "description": "Over the past few days I tried NixOS, and yesterday I realized it's not for me. What first drew me in was one thing about NixOS: complete control over a system, inside and out — as long as the config is there, you can reproduce an identical environment on a brand-new machine. That's genuinely great, because using Linux means having to learn a lot, and there's always something you're unfamiliar with — and when you've broken the system, how to roll back is often a real headache. NixOS's design sol",
+    "source_root_domain": "tianheg.co"
+  },
+  {
+    "title": "Vol.119 智能越便宜越需要外置标准：把判断留在模型之外的尺子地图",
+    "url": "https://liduos.com/weekly/the-weekly-gradient-119",
+    "date": "2026-09-20T08:00:00Z",
+    "description": "本期内容从可托付的智能出发，梳理把判断留在模型之外的尺子：实时语音与低成本架构、编译器与类型约束、Graph Engineering 与 Harness、安全默认拒绝，以及前沿模型治理、经验闭环与组织重构。",
+    "source_root_domain": "liduos.com"
+  },
+  {
+    "title": "短暂尝试 NixOS，它不适合我",
+    "url": "https://tianheg.co/posts/nixos-not-for-me-right-now/",
+    "date": "2026-09-20T07:35:00Z",
+    "description": "一开始想尝试，是因为 NixOS 有一点很吸引我：能完全掌控系统的内内外外，只要配置在，就能在一台全新设备上还原出一模一样的环境。这真的很棒，因为使用 Linux 系统要掌握很多内容，总有不熟悉的地方，而把系统搞崩溃后如何回退，往往是个很头疼的问题。NixOS 的设计恰好完美地解决了这个问题。",
+    "source_root_domain": "tianheg.co"
+  },
+  {
+    "title": "SmailrX：我用Agent把Chrome插件做成了安卓App",
+    "url": "https://www.evan.xin/5106/",
+    "date": "2026-09-20T06:57:07Z",
+    "description": "SmailrX Smailr 邮件助手 Android 应用。由同是我用AI写的功能的相同的 Chrome 扩 […]",
+    "source_root_domain": "evan.xin"
+  },
+  {
+    "title": "让我头大的两个问题",
+    "url": "https://www.hecaitou.com/2026/09/two-questions-that-give-me-a-headache.html",
+    "date": "2026-09-20T04:36:52Z",
+    "description": "自从开始写作，我就掉头发。总结起来，应该有一半以上的头发是因为两个常见问题而掉落： ---当我介绍某种美食，留言区里一定会有人问：孕妇能不能吃？ ---当我介绍某部电影，留言区里一定会有人问：X 岁的孩子能看吗？ 我当然可以把这些问题简单理解为个人好奇，或者个人询问，并不必然意味着征询我的意见。但是，如果世界当真那么乐观的话，为什么大部分的药物说明书里，在禁忌一项里都有一句：孕妇禁用，或遵医嘱服用。药厂的不约而同背后是什么？不敢细想。 前阵子著名经典电影《肖申克的救赎》重映，我看到有家长带着 8 岁的孩子兴冲冲跑去看，想着要让孩子也体会一下自己当年感受到的美好。等到电影开始，家长突然如坐针毡，因为开头就是偷情和谋杀。意识到不对，再想到后面怎么和孩子解释主角安迪和监狱「姐妹花」之间发生了什么，家长在影院里几乎已经胃痉挛。还好，孩子睡了半场电影。 我不知道网线那头提问的究竟是什么人，这是我真正头大的原因。如果换了是我朋友问我类似的问题，我不会有任何心理压力，照直说就行了。因为这么多年来，我们吃饭、搭车之前从未签署过免责协议书，我很清楚他们能自己承担责任。而网上的陌生人不同，我不清楚他们的想",
+    "source_root_domain": "hecaitou.com"
+  },
+  {
+    "title": "呵护你",
+    "url": "https://hux.ink/posts/care-of-you/",
+    "date": "2026-09-20T04:33:08Z",
+    "description": "一直拖着没给群晖配上 UPS，借口之一是一年到头家里异常断电的次数可能也就一两回，抱着侥幸心理，觉得应该不会出什么问题，硬盘总不至于这么脆弱吧？借口之二则是 UPS 电源确实有点贵。就这样，买 UPS 的计划一拖再拖，直到上周二。 上周二，在公司发现 Synology Drive 同步文件时断时续，DSM 管理后台也一直登不上去，当时以为只是网络出了点问题，并没有太在意。下班回家后，想着登录后台看看究竟是什么情况，结果发现即便是在局域网内，也无法正常访问 DSM。无奈之下，只能先关机再开机，重新搜索设备后，总算顺利登录了 DSM。进入系统后，天塌了，右上角的通知显示，最近 24 小时内，群晖异常关机 17 次。打开日志中心一看，发现基本上每隔半小时，群晖就会经历一次异常断电、关机，然后又自动开机的过程。 家里并没有停过电，最近我也没对群晖的外接设备和系统做过任何变更，思来想去，怀疑是接在群晖电源前面的小米智能插座出了问题。于是拔掉智能插座，让群晖直接接入市电，观察了一个小时，期间一切正常，没有再出现异常关机的情况。至此，罪魁祸首基本锁定——小米智障插座。没想到，当初为了统计群晖耗电量而",
+    "source_root_domain": "hux.ink"
+  },
+  {
+    "title": "RSSHub 抓取 V2EX 报 403 Forbidden",
+    "url": "https://blog.hoopan.net/853.html",
+    "date": "2026-09-20T04:03:38Z",
+    "description": "RSSHub 抓取 V2EX 路由返回 503，日志显示上游 403 Forbidden。本文记录排查过程与根因（Cloudflare WAF 拦截 RSSHub 项目标识 UA），以及通过注入浏览器 UA 修复的方法。",
+    "source_root_domain": "hoopan.net"
+  },
+  {
+    "title": "如何理解直和分解与不变子空间？",
+    "url": "https://www.less-bug.com/posts/how-to-understand-direct-sum-decomposition-and-invariant-subspace/",
+    "date": "2026-09-20T03:46:14Z",
+    "description": "我不喜欢上来先上定义，然后再给性质、定理、例子的学习结构，和人认识世界的方式完全相悖，而且学起来一点也不爽！ 所以让我们从一个例子出发。 $\\mathbb{R}^3$ 中任意向量都可记作： $$ \\mathbf{v} = \\begin{pmatrix} x \\\\ y \\\\ z \\end{pmatrix} $$ 然后我们选取两个子空间平面。 $U$ 是 $xy$ 平面 $\\begin{pmatrix} x \\\\ y \\\\ 0 \\end{pmatrix}$ ， $W$ 是 $yz$ 平面 $\\begin{pmatrix} 0 \\\\ y \\\\ z \\end{pmatrix}$ 两个子空间相加可记作 $U + W$ ： $$ U + W = \\{ \\mathbf{u} + \\mathbf{w} \\mid \\mathbf{u} \\in U, \\; \\mathbf{w} \\in W \\} $$ $U + W$ 提供了任意的 $x,y,z$ 分量，所以能够填满整个 $\\mathbb{R}^3$ 。因此 $\\mathbf{v}$ 总能分解为 $U,W$ 的部分。",
+    "source_root_domain": "less-bug.com"
+  },
+  {
+    "title": "幸福者退让论其实是内耗的始作俑者？",
+    "url": "https://mobius.blog/25748.html",
+    "date": "2026-09-20T01:30:00Z",
+    "description": "果然，我对“周刊”已经没有了兴趣，既然是订阅性质的内容，那就聊一些比较实操的“方法论”。在开始之前，也先回顾一 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。",
+    "source_root_domain": "onojyun.com"
+  },
+  {
+    "title": "Vespa: Distributors and Buckets",
+    "url": "https://inhzus.io/posts/2026-09-20-vespa-distributor-and-buckets/",
+    "date": "2026-09-20T00:00:00Z",
+    "description": "In the Vespa comparison , I briefly mentioned that Vespa manages document distribution through buckets. This post expands on that part: how a document maps to a bucket, how the distributor chooses storage nodes, and what happens when the cluster changes. The source references use Vespa revision 39bf68f4 . The feeding example assumes an indexed content cluster with a flat distribution configuration. Grouped configurations add another level of placement decisions. Components A bucket is a group of",
+    "source_root_domain": "inhzus.io"
+  },
+  {
+    "title": "Vespa: HNSW Index Implementation",
+    "url": "https://inhzus.io/posts/2026-09-20-vespa-hnsw-index/",
+    "date": "2026-09-20T00:00:00Z",
+    "description": "The previous index implementation post covered attributes and inverted indexes, but left out tensors. This post continues with the data structures behind Vespa's HNSW index, then follows a small example through a search. The source references below point to Vespa revision 39bf68f4 . The example graph is illustrative; it is not the output of a particular insertion sequence. Overview Vespa separates the graph from the vectors. HnswGraph stores nodes and their connections, while TensorAttribute pro",
+    "source_root_domain": "inhzus.io"
+  },
+  {
+    "title": "Vespa: Thread Safety in the Storage Engine",
+    "url": "https://inhzus.io/posts/2026-09-20-vespa-storage-engine-thread-safety/",
+    "date": "2026-09-20T00:00:00Z",
+    "description": "The earlier posts covered index data structures and matching . One question remains: while a query is using those structures, how can another thread update them or reclaim their memory? This post looks at that question in proton, Vespa's searchnode. We start with generation tracking, then follow its use in attributes and the memory index. Disk indexes use a different mechanism, which comes last. Source links refer to revision 39bf68f4 . Overview For many mutable structures, Vespa sequences write",
+    "source_root_domain": "inhzus.io"
+  },
+  {
+    "title": "iPhone Duo 的 Vertical Bar",
+    "url": "https://bluepika.life/blog/iphone-duo-vertical-bar",
+    "date": "2026-09-20T00:00:00Z",
+    "description": "我将上周称为同时关注任天堂和苹果的人最快乐的一周，任天堂开了新一场直面会，苹果也如预期一样发布了折叠屏手机 iPhone Duo。",
+    "source_root_domain": "bluepika.life"
+  },
+  {
+    "title": "用 jev 或者 llm 炒股的区别只有",
+    "url": "https://versun.me/blog/tweet-2101448767757279473",
+    "date": "2026-09-19T23:10:03Z",
+    "description": "用 jev 或者 llm 炒股的区别只有一个，亏钱的速度，jev更快😂",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "FreeSpace 2 updated",
+    "url": "https://macsourceports.com/game/freespace2",
+    "date": "2026-09-19T18:29:30Z",
+    "description": "The build of FreeSpace 2 Source Code Project for FreeSpace 2 has been updated to version 26.0.1 of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "Wolfenstein: Enemy Territory updated",
+    "url": "https://macsourceports.com/game/wolfet",
+    "date": "2026-09-19T18:27:47Z",
+    "description": "The build of ET: Legacy for Wolfenstein: Enemy Territory has been updated to version 2.86.0 of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "Quetoo updated",
+    "url": "https://macsourceports.com/game/quetoo",
+    "date": "2026-09-19T18:26:03Z",
+    "description": "The build of Quetoo has been updated to version v1.0.105 of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "SFC 游戏：兔宝宝大冒险（Tiny Toon Adventures）",
+    "url": "https://springwood.me/sfc-tiny-toon-adventures/",
+    "date": "2026-09-19T15:00:00Z",
+    "description": "（摘要）SFC 版不仅画面更加漂亮，而且玩法也更加多样化了。",
+    "source_root_domain": "springwood.me"
+  },
+  {
+    "title": "周末流水账 0919",
+    "url": "https://blog.solazy.me/20260919/",
+    "date": "2026-09-19T15:00:00Z",
+    "description": "里后的第一天，也是个周末",
+    "source_root_domain": "solazy.me"
+  },
+  {
+    "title": "软件工程亡了",
+    "url": "https://blog.mzh.ren/zh/posts/2026/09/the-end-of-software-engineering/",
+    "date": "2026-09-19T12:16:39Z",
+    "description": "朋友发给我一张图片，乍看之下是奥莱利的动物书的封面，还以为他是想给我分享一本好书. 结果一看名字是The End of Software Engineering, 软件工程的终点，然后配合底”编程/技术/人工智能“标签，然后中间那个动物呢，是一头趴在地上有些生无可恋的野猪（希望它还没有死）。",
+    "source_root_domain": "mzh.ren"
+  },
+  {
+    "title": "最近折腾的U卡和TenPayGo",
+    "url": "https://blog.thetbw.xyz/archives/usdt-card-and-tenpaygo",
+    "date": "2026-09-19T10:21:54Z",
+    "description": "最近比特币的价格也是上来了，之前亏的钱回来了很多，早在之前刷到了一些油管博主的视频，申请了 safepal 的 visa 卡，还是挺好用的，作为虚拟币出金的一个渠道。 不知道是不是国人一窝蜂的涌入，就跟之前的 giffgaff 一样，safepal 背后的卡组织 fiat24 宣布维护，期间暂停虚拟币入金，这个卡也算是废了，最近发现微信也绑不了了，只能绑支付宝把里面剩余的钱花完。 在之前还办了 savo、bybit，不过 savo 收小额手续费 5 美元以下收 0.2 美元的额外手续费，当时办的时候还收了 5 美元的开卡费，不是很实惠，不过卡片本身感觉还行，之前在日本有几次我的招商银行 visa 卡刷不了，切换这张卡就可以正常支付，日本本身对加密货币还是很友好的。 最近又尝试找了一些卡做出出金渠道，毕竟 c2c 出金的交易不安全，现在很多卡都要地址证明了，虽然这玩意咸鱼可以买到，但是造假这种事，被拉黑就不好了，又回到了最初的 bybit 卡，之前一直办了没有用。 bybit 的办理还是挺简单的，有护照什么就可以了，也没遇到地址证明啥的，不过也看你的 ip 纯净度，他这个平台登陆就很恶心",
+    "source_root_domain": "thetbw.xyz"
+  },
+  {
+    "title": "万寿宫&景德镇",
+    "url": "https://yovey.me/wanshougong-jingdezhen/",
+    "date": "2026-09-19T10:13:36Z",
+    "description": "这大半月发生了不少事情。 1）延续对风水的兴趣，实则是周末短途摩旅的借口，跑了一趟西山万寿宫。 八月初一是许真 … Continue reading \"万寿宫&景德镇\"",
+    "source_root_domain": "yovey.me"
+  },
+  {
+    "title": "\"明天穿什么衣服\"微信小程序，适合出差、旅行和选衣搭配困难症",
+    "url": "https://gugegt.com/wear-tomorrow-miniprogram.html",
+    "date": "2026-09-19T08:30:00Z",
+    "description": "每天早上出门前，最让人卡壳的就是这一句：今天穿什么。 天气 App 老老实实报个 27℃。可 27℃ 到底穿短袖还是加件薄外套，它不接这话。去搜「25 度穿什么」，跳出来的不是卖衣服的就是「适当增减衣物」这种车轱辘话。 我干脆自己做了个小程序，叫「明天穿什么衣服」。定位你的城市，看今天或者明天的体感温度，直接甩一套能出门的搭配：上衣、下装、鞋、配件，四样给齐，还配一张图。",
+    "source_root_domain": "gugegt.com"
+  },
+  {
+    "title": "vcfclick：ClickHouse + DuckDB 协作范例",
+    "url": "https://luweiqing.com/gossip/vcfclick-ClickHouse-DuckDB.html",
+    "date": "2026-09-19T06:21:00Z",
+    "description": "vcfclick：让 VCF 回到可查询、可解释、可带走的地方如果你做过基因组分析，大概见过这样的夜晚：磁盘里躺着 VCF，终端里流着管道，脚本一层层加，最后只有作者知道哪一步在筛选。你可能是那...",
+    "source_root_domain": "luweiqing.com"
+  },
+  {
+    "title": "网友网络老",
+    "url": "https://www.hecaitou.com/2026/09/blog-post.html",
+    "date": "2026-09-19T04:18:30Z",
+    "description": "昨晚，27 年前我刚上网时认识的老友突然联系我，说是授权一批照片给我，我大可以随便使用，全都是他的手笔（参见：《 来自 老友的照片 》）。 以后这种开头我看还是要少写，都在追求活人感，而我这种写法则是写出了「化石感」，好吓人。 当年我们在家乡的论坛里天天拍砖，玩得不亦乐乎。然后就是线下见面，都很年轻，都很穷，喝那种廉价的荞酒或者橄榄酒，我一直吐到第二天一早赶飞机去香格里拉机场换班。 再然后就是各自过自己的人生，一转身消失在人海。等到二十多年后重逢，大家已然是中年人。彼此并不问过往，感觉是昨天才在宵夜摊上喝到凌晨四点道别，没有分开多久。我想，如果当年感情当真很好，中年重逢一定不问过往。过往一般都沉重，都无聊，烦恼也都类似，问只是为了寒暄。有些人在多年分别之后，只是重逢，重逢就好，此刻刚好，无需寒暄。 但我还是很高兴。 因为老友给了我一批照片。他没有说过往，但我在那些照片里看到他凌晨 5 点起床，背着各种设备埋伏在道边湖畔，等着太阳升起，好用镜头俘获他认为最美好的一刻。我也看他耐心等太阳落下，等归鸟返家，等光线变得柔和而晦暗，给一切都蒙上一层轻纱，然后他决定就是眼前这一刻，食指轻轻按下快门",
+    "source_root_domain": "hecaitou.com"
+  },
+  {
+    "title": "来自老友的照片",
+    "url": "https://www.hecaitou.com/2026/09/photos-of-an-old-friend.html",
+    "date": "2026-09-19T03:08:16Z",
+    "description": "昨晚 ， 一位我在 1999 年刚上网时结识的老友突然联系我，说是要把一批他拍摄的昆明照片授权给我，随我高兴我去发布。 我问他为什么不在自己公众号里发？他说他社恐，看到评论内心会不安定。但是，他又不希望这些照片一直放在硬盘上，毕竟他花费了很多心思。 所以，现在我把这些照片发布在这里。原因除了摄影者是我老友之外，说实话，我在昆明度过了小学、中学时光，也度过了进入社会的头十年，对昆明如此熟悉，但我没有见过我的城有那么美的一面。 这需要多么敏感的心和多么敏锐的一双眼睛啊，可惜时光改变了一切，当初和我在 BBS 上并肩拍砖的伙伴，如今却变成了安静的中年人，而且还是个社恐。 如论如何，我很感谢这些照片，也感谢这份心意。 多么美好的一个秋日周末！ --- ---",
+    "source_root_domain": "hecaitou.com"
+  },
+  {
+    "title": "2004，一切都像是安排好了",
+    "url": "https://www.tortorse.com/archives/everything-seemed-arranged-2004/",
+    "date": "2026-09-19T02:42:32Z",
+    "description": "黄昏里，一个年轻人站在已经关门的电脑培训中心门前",
+    "source_root_domain": "tortorse.com"
+  },
+  {
+    "title": "做测试集是真不容易呀，除了收集完善题目外",
+    "url": "https://versun.me/blog/tweet-2101103663112687698",
+    "date": "2026-09-19T00:18:44Z",
+    "description": "Versun 正在做一份本地模型的实用能力排行榜，测试集是从各种公开 benchmark中挑选微调，覆盖任务拆解、代码开发、长链路执行、上下文、指令遵循、记忆抽取、逻辑与常识 7 个维度 目前针对本地模型的评测很少，不知道有人感兴趣不，关注人多的话，我尽快测完放出来 做测试集是真不容易呀，除了收集完善题目外，还要做自动化测试和评分，细节太多了，已经推翻重构好几次了😂 还是不满意",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "用了一周多的 gemini 3.8 fl",
+    "url": "https://versun.me/blog/tweet-2101099541546361260",
+    "date": "2026-09-19T00:02:21Z",
+    "description": "用了一周多的 gemini 3.8 flash，说说感受 智商在线，代码能力和 k3 差不多，速度快，说人话 但不适合做 review，唯命是从，不够独立，不够自信",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "Python 潮流周刊#168：AI 智能体少写一半代码、Numba 提速 750 倍、PyPI 故障查了两周",
+    "url": "https://pythoncat.top/posts/2026-09-19-weekly/",
+    "date": "2026-09-19T00:00:00Z",
+    "description": "分享了 12 篇文章，12 个开源项目",
+    "source_root_domain": "pythoncat.top"
+  }
+]

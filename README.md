@@ -27,8 +27,11 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-09-21 | [爹而不自知 I](https://mobius.blog/25758.html) | 我是一个时不时需要“当爹”的人，因为大部分时间都在处理没办法得到及时回应的事情，例如写小说、剧本、制作短剧分镜 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-09-20 | [大脑充血 Vol.99](https://www.geedea.pro/weekly/99/) | 最近一直在小步缓行，不急不忙地把事情做好。一方面是上班之后的确没有大块且高精力的时间来做自己想做的事情了，只能把事情拆得很碎，一点一点来做。这几天在读波拉尼奥的短篇集《地球上最后的夜晚》，每篇真的很短，大概十几二十页，可以每天上班前没有压力地读上一两篇。我很喜欢他的文风，平静却具有冲击力，不做作，就… |
 | 2026-09-20 | [Harbor容器僵尸进程数告警——docker-compose.override.yml加init参数修复](https://199604.com/3718) | Harbor容器僵尸进程数告警——docker-compose.override.yml加init参数修复 记 […] |
+| 2026-09-20 | [这几天爆火的 jev 和 laya 模型](https://versun.me/blog/tweet-2101808620426149961) | Versun 虽然不懂金融，看的有点懵逼， 但我觉得未来各个行业都会有自己的专用模型， 而目前通用模型应该会拿来做统筹，说不定统筹都会有专用模型😎 https://twitter.com/sodawhite_dev/status/2096262979042046435 这几天爆火的 jev 和 la… |
+| 2026-09-20 | [有用 hermes agent 的，每次](https://versun.me/blog/tweet-2101807584831570411) | 有用 hermes agent 的，每次会话结束前，记得 /review 下，效果很不错，每次都有惊喜 |
 | 2026-09-20 | [No More Blind Dates; Dating Is Fine, Marriage Is Not](https://tianheg.co/posts/no-more-blind-dates-en/) | If she hadn't sent me a text today, I wouldn't have written this piece, because I want to forget that stretch of my life, even though it did teach me… |
 | 2026-09-20 | [我再也不想相亲了；恋爱还是要谈，结婚就算了](https://tianheg.co/posts/no-more-blind-dates/) | 如果不是她今天给我发短信，我也不会写这篇文章，因为我想忘掉那段经历，尽管它的确教会了我一些东西。她说要电话聊一下，我不觉得有什么好聊的，她打电话的时候我在睡觉。醒来看到她的未接来电，为了避免她再次打来，我把她的号码拉黑了。 |
 | 2026-09-20 | [苹果 iPhone 安全神话被打破：币圈应用FomoPeek沙盒逃逸读取了其他APP私钥](https://blog.renfei.net/posts/1626402130325676145) | 2026 年 9 月 19 日，慢雾联合 OKX 安全团队披露：iOS 应用 FomoPeek 1.1、1.2 版本内置一套 iOS 内核攻击框架，可突破沙盒读取并解密系统 Keychain，导致私钥、助记词、登录凭证泄露。受影响 iOS 版本为 12.0～18.7 与 26.0～26.1。 |
@@ -37,6 +40,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-09-20 | [Zine#59 - 和手機的關係、謠言、已讀不回](https://taxodium.ink/59.html) | Zine#59 和手機的關係、謠言、已讀不回 目錄 News &#124; Article Cool Bit Tutorial &#124; Resource Code Related AI Related Tool &#124; Library Emacs 一些话 &#124; 摘抄 多媒体 開頭的音樂分享會有人期待嗎？不管如何，如果你… |
 | 2026-09-20 | [A Long Run of Eight Kilometers](https://tianheg.co/posts/sport-run-8km-en/) | After a long gap, I went for a run again today. I ran it according to the half-marathon plan in Zepp, 8 kilometers, and it felt okay, I guess. Only to… |
 | 2026-09-20 | [【运动记】长跑八千米](https://tianheg.co/posts/sport-run-8km/) | 时隔很久，今天又跑了一次步。是按照 Zepp 的半马计划跑的，跑了 8 公里，感觉还好吧。只是跑到最后，右腹部有点不适。那是因为很久没有跑了。 |
+| 2026-09-20 | [滴答清单也加上了 AI 助手，还不错，我](https://versun.me/blog/tweet-2101638960120561692) | 滴答清单也加上了 AI 助手，还不错，我之前都是让 hermes 来管理清单任务的，这几天用用看怎么样 |
 | 2026-09-20 | [空间的体积度量衡——行列式（Determinant）](https://www.less-bug.com/posts/volume-measurement-of-space-determinant/) | 在平面上，取两个向量： $$ \mathbf{a} = \begin{pmatrix} 3 \\ 0 \end{pmatrix}, \quad \mathbf{b} = \begin{pmatrix} 0 \\ 2 \end{pmatrix} $$ 这两个向量从原点出发，张成一个矩形。这个矩形的面积… |
 | 2026-09-20 | [NixOS Is Not for Me Right Now](https://tianheg.co/posts/nixos-not-for-me-right-now-en/) | Over the past few days I tried NixOS, and yesterday I realized it's not for me. What first drew me in was one thing about NixOS: complete control over… |
 | 2026-09-20 | [Vol.119 智能越便宜越需要外置标准：把判断留在模型之外的尺子地图](https://liduos.com/weekly/the-weekly-gradient-119) | 本期内容从可托付的智能出发，梳理把判断留在模型之外的尺子：实时语音与低成本架构、编译器与类型约束、Graph Engineering 与 Harness、安全默认拒绝，以及前沿模型治理、经验闭环与组织重构。 |
@@ -47,6 +51,9 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-09-20 | [RSSHub 抓取 V2EX 报 403 Forbidden](https://blog.hoopan.net/853.html) | RSSHub 抓取 V2EX 路由返回 503，日志显示上游 403 Forbidden。本文记录排查过程与根因（Cloudflare WAF 拦截 RSSHub 项目标识 UA），以及通过注入浏览器 UA 修复的方法。 |
 | 2026-09-20 | [如何理解直和分解与不变子空间？](https://www.less-bug.com/posts/how-to-understand-direct-sum-decomposition-and-invariant-subspace/) | 我不喜欢上来先上定义，然后再给性质、定理、例子的学习结构，和人认识世界的方式完全相悖，而且学起来一点也不爽！ 所以让我们从一个例子出发。 $\mathbb{R}^3$ 中任意向量都可记作： $$ \mathbf{v} = \begin{pmatrix} x \\ y \\ z \end{pmatri… |
 | 2026-09-20 | [幸福者退让论其实是内耗的始作俑者？](https://mobius.blog/25748.html) | 果然，我对“周刊”已经没有了兴趣，既然是订阅性质的内容，那就聊一些比较实操的“方法论”。在开始之前，也先回顾一 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
+| 2026-09-20 | [Vespa: Distributors and Buckets](https://inhzus.io/posts/2026-09-20-vespa-distributor-and-buckets/) | In the Vespa comparison , I briefly mentioned that Vespa manages document distribution through buckets. This post expands on that part: how a document… |
+| 2026-09-20 | [Vespa: HNSW Index Implementation](https://inhzus.io/posts/2026-09-20-vespa-hnsw-index/) | The previous index implementation post covered attributes and inverted indexes, but left out tensors. This post continues with the data structures beh… |
+| 2026-09-20 | [Vespa: Thread Safety in the Storage Engine](https://inhzus.io/posts/2026-09-20-vespa-storage-engine-thread-safety/) | The earlier posts covered index data structures and matching . One question remains: while a query is using those structures, how can another thread u… |
 | 2026-09-20 | [iPhone Duo 的 Vertical Bar](https://bluepika.life/blog/iphone-duo-vertical-bar) | 我将上周称为同时关注任天堂和苹果的人最快乐的一周，任天堂开了新一场直面会，苹果也如预期一样发布了折叠屏手机 iPhone Duo。 |
 | 2026-09-19 | [用 jev 或者 llm 炒股的区别只有](https://versun.me/blog/tweet-2101448767757279473) | 用 jev 或者 llm 炒股的区别只有一个，亏钱的速度，jev更快😂 |
 | 2026-09-19 | [FreeSpace 2 updated](https://macsourceports.com/game/freespace2) | The build of FreeSpace 2 Source Code Project for FreeSpace 2 has been updated to version 26.0.1 of the project |
@@ -161,22 +168,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-09-14 | [hermes agent 这几天有一个大](https://versun.me/blog/tweet-2099288182324129817) | hermes agent 这几天有一个大 bug，如果你同时使用 tui/cli 和 desktop，则会出现 state.db 冲突写入问题，目前有好几个 issue 和 PR 了 目前的解决方法就是，会话一定要完全退出解锁数据库，比如 tui/cli 要通过 quit 命令退出，desktop… |
 | 2026-09-14 | [智元灵犀X2机器人二开02:端侧环境与第一个 AIMDK 程序](https://programnotes.cn/agibot-develop-2/index.html) | 本文介绍灵犀X2二次开发的整体架构，包括端侧AIMDK和云端AgentSDK，并给出了需求判断依据和系统全景。 |
 | 2026-09-14 | [辅导作业之《为什么学生不喜欢上学？》](https://gaoyu.me/blog/33-2026-09-14) | 工作记忆与长期记忆+练习与知识迁移 |
-| 2026-09-13 | [新约经文选读｜稳住心神](https://blog.zzbd.org/miao20260914/) | 说明：节选新约中安慰、止息焦虑、内心得平安的经文，搭配简短平缓的引导，适合工作间隙慢慢读，稳住心绪，安然做完今日余下的工作。 |
-| 2026-09-13 | [Apple Watch Setup](http://www.uncoverman.com/apple-watch-setup.html) | 现在有一只 Apple Watch SE 3 (GPS)，星光色，配的米兰尼斯表带，44 寸手腕大小刚好，主要用于健康追踪。目前戴了 9 个月，分享一下 Apple Watch 的 Setup 。 # 表盘 表盘我选用的是模块化表盘，表盘上有更多菜单入口可以设置，实用。 体能训练：外出跑步、骑行、徒… |
-| 2026-09-13 | [周末流水账 0913](https://blog.solazy.me/20260913/) | 在嘉兴躺尸的一天 |
-| 2026-09-13 | [2003，校门关上以后](https://www.tortorse.com/archives/after-the-school-gate-closed-2003/) | 傍晚的校园里，学生从校门旁走过，宿舍窗口亮着电脑的光 |
-| 2026-09-13 | [第一个人](https://www.geedea.pro/library/2026/le-premier-home/) | 加缪于 1960 年 1 月 4 日 13 点 54 分死于车祸，享年四十六岁，人们在他的皮包里发现了这篇手稿，经由他女儿卡特琳·加缪转录为打字稿之后以《第一个人》的名字出版。这篇小说没有完成，书中可见数处加缪的笔记和脚注，括号里还写着「这段要移到前面去」「描写一下房间？」之类的话，还有一些字看不清… |
-| 2026-09-13 | [如何优雅地更新 MACOS 系统上的软件](http://yi.gs/post/duo_updater) | 上一次更新正好是一年前，所以更新一下。 既然是为了更新而更新，就来写写如何更新吧 ；） TL;DR：直接看 「更优雅地更新软件」 小节。 关于 macOS 上的软件安装 与 iOS 正常情况下只能通过 App Store 安装 APP 不同，macOS 有类似 Windows 的自由度来安装和使用第… |
-| 2026-09-13 | [Toots 436 2026 Sep.6 - Sep.12](https://z.arlmy.me/posts/MastodonArchives/2026/MastodonTootsArchives_202609012/) | 「去县城！」 |
-| 2026-09-13 | [抢 iPhone 的早上](https://www.hecaitou.com/2026/09/iPhone-Launch-Morning.html) | 今天早上起来，打开手机，发现满屏幕都是抢 iPhone 18 的动态，我才意识到今天是新款 iPhone 发售日。 以前不是这样的，我也曾经是早起抢购的人之一。从 Apple Store 突然进入维护状态开始，就已经进入了期待状态。一旦下订成功，在网上晒订单这种事情我也干过，以至于后来看到有段子说「… |
-| 2026-09-13 | [现在的安全环境远比我们想象的要严峻很多](https://versun.me/blog/tweet-2098948486662398385) | 安仔 平时每月 500 多美金的 AWS 账单，9 月才过 7 天，直接被刷到 6,600 多美金。 凌晨收到邮件，账号被停用了。元凶是两台完全不认识的 c5.2xlarge，一周跑了 70TB 出站流量，典型的被人拿去当代理节点卖带宽。 顺着 CloudTrail 一查，实锤了： 我的 IAM 密… |
-| 2026-09-13 | [当社会时钟也存在手表定律](https://mobius.blog/25706.html) | 这周的邮件订阅文章，打算聊一个非 Newsletter 的话题： 人生有不同的选择，但如何确保自己选择的就是“ […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
-| 2026-09-13 | [特殊符号 emoji 符号大全：挑了十几个在线工具都不顺手，干脆自己撸一个](https://gugegt.com/20260913-symbol-emoji-tool.html) | 找特殊符号这件事，我原本以为十分钟能搞定。为了给一份表格加几条分隔线，我在搜索引擎里翻了十几页符号网站，最后关掉浏览器自己写了一个。21 个分类，2800 多个特殊符号和 emoji 符号，鼠标悬停放大、点一下复制，网址是 gugegt.com/tools/emoji 。 |
-| 2026-09-13 | [别再四处求邀请码了，这个网站把65条优惠码的验证日期和成功率都摊开了](https://gugegt.com/mashanghuigou-promocodego.html) | 上周，朋友把我拉进一个"邀请码互换"的群。三百多号人，消息刷得飞快，有人求币安的返佣码，有人找海外银行的推荐链接，还有人问哪个 AI 工具的邀请还能白拿积分。 我翻了十分钟，发现一件事。好用的码，没人愿意白给。随手贴出来的那些，点进去十有八九提示已失效。 麻烦出在码的信息上。有没有过期、绑没绑地区、… |
-| 2026-09-13 | [喜欢吃的几家餐厅都陆续关店了](https://www.ozexplorers.com/%E6%BE%B3%E6%B4%B2%E7%94%9F%E6%B4%BB/2026/09/13/my-favorite-restaurants-keep-closing-down.html) | 我已经分不清澳洲经济到底是好是坏了。 |
-| 2026-09-13 | [智元灵犀X2机器人二开01:认识灵犀 X2 与二开全景，端侧、云端与灵心平台](https://programnotes.cn/agibot-develop-1/index.html) | 本文介绍灵犀X2二次开发的整体架构，包括端侧AIMDK和云端AgentSDK，并给出了需求判断依据和系统全景。 |
-| 2026-09-13 | [2026年第36、37周：匆匆沪上与常州小憩](https://blog.sakoamc.com/posts/263637/) | 题记：不紧不慢，感受时间的极小间隙。常州教我如何不想她，意思是想常州呢，还是让人乐不思蜀呢？ |
-| 2026-09-13 | [Memos #2026-09-12](https://www.taober.blog/memos/memo_20260912090221_tnbpv4) | 17:02 嘿嘿，再无借口！ |
 
 ## Vibe Coding
 
