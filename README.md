@@ -27,15 +27,23 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-09-21 | [复古游戏圈入门指南](https://blog.yuanji.dev/posts/retro-game-intro/) | 写完上一篇复古掌机初体验：ANBERNIC RG 34XX，转眼又过去了一周多。上个月初还不了解「复古游戏」「 […] |
+| 2026-09-21 | [写在两份工作的 Gap 之时](https://blog.solazy.me/20260921/) | 今天想停下来聊聊我过去的这半年的所失所得 |
+| 2026-09-21 | [在网上膨胀](https://www.hecaitou.com/2026/09/Inflating-Online.html) | 上网令人自我膨胀，关于这一点我有充分的经验。当我刚开始上网冲浪，很快就获得了认可，在网上拥有了另一种多姿多彩的生活，似乎世界上最有趣的人都在那里，而且都在等着我上线。 与此同时，在现实生活中我只是个刚刚开始工作的生瓜蛋子，转正前月薪 600 块，转正之后 800，当时一台汉显传呼机都要 1200，一… |
+| 2026-09-21 | [最近惦念 20260906](https://z.arlmy.me/posts/TILs/thoughts/20260906_Recently/) | 「就像你说的。」 |
+| 2026-09-21 | [Toots 437 2026 Sep.13 - Sep.19](https://z.arlmy.me/posts/MastodonArchives/2026/MastodonTootsArchives_20260919/) | 「鲸鱼可以那么平静地呼吸。」 |
 | 2026-09-21 | [爹而不自知 I](https://mobius.blog/25758.html) | 我是一个时不时需要“当爹”的人，因为大部分时间都在处理没办法得到及时回应的事情，例如写小说、剧本、制作短剧分镜 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
+| 2026-09-21 | [Jev 的边界](https://www.bmpi.dev/dev/jev-boundary/) | 把 Jev 放进 Free4Chat 的 Room App 和 Live View 做了一轮实验后，我没有找到一个必须接入它的产品场景，却更清楚地看到了确定性代码、Decision Model 和 Generative Model 之间的边界。 |
 | 2026-09-20 | [大脑充血 Vol.99](https://www.geedea.pro/weekly/99/) | 最近一直在小步缓行，不急不忙地把事情做好。一方面是上班之后的确没有大块且高精力的时间来做自己想做的事情了，只能把事情拆得很碎，一点一点来做。这几天在读波拉尼奥的短篇集《地球上最后的夜晚》，每篇真的很短，大概十几二十页，可以每天上班前没有压力地读上一两篇。我很喜欢他的文风，平静却具有冲击力，不做作，就… |
 | 2026-09-20 | [Harbor容器僵尸进程数告警——docker-compose.override.yml加init参数修复](https://199604.com/3718) | Harbor容器僵尸进程数告警——docker-compose.override.yml加init参数修复 记 […] |
 | 2026-09-20 | [这几天爆火的 jev 和 laya 模型](https://versun.me/blog/tweet-2101808620426149961) | Versun 虽然不懂金融，看的有点懵逼， 但我觉得未来各个行业都会有自己的专用模型， 而目前通用模型应该会拿来做统筹，说不定统筹都会有专用模型😎 https://twitter.com/sodawhite_dev/status/2096262979042046435 这几天爆火的 jev 和 la… |
 | 2026-09-20 | [有用 hermes agent 的，每次](https://versun.me/blog/tweet-2101807584831570411) | 有用 hermes agent 的，每次会话结束前，记得 /review 下，效果很不错，每次都有惊喜 |
+| 2026-09-20 | [或许没人关心的细节](https://blog.solazy.me/20260920/) | 今天继续聊个日常所见而引发的思考 |
 | 2026-09-20 | [No More Blind Dates; Dating Is Fine, Marriage Is Not](https://tianheg.co/posts/no-more-blind-dates-en/) | If she hadn't sent me a text today, I wouldn't have written this piece, because I want to forget that stretch of my life, even though it did teach me… |
 | 2026-09-20 | [我再也不想相亲了；恋爱还是要谈，结婚就算了](https://tianheg.co/posts/no-more-blind-dates/) | 如果不是她今天给我发短信，我也不会写这篇文章，因为我想忘掉那段经历，尽管它的确教会了我一些东西。她说要电话聊一下，我不觉得有什么好聊的，她打电话的时候我在睡觉。醒来看到她的未接来电，为了避免她再次打来，我把她的号码拉黑了。 |
 | 2026-09-20 | [苹果 iPhone 安全神话被打破：币圈应用FomoPeek沙盒逃逸读取了其他APP私钥](https://blog.renfei.net/posts/1626402130325676145) | 2026 年 9 月 19 日，慢雾联合 OKX 安全团队披露：iOS 应用 FomoPeek 1.1、1.2 版本内置一套 iOS 内核攻击框架，可突破沙盒读取并解密系统 Keychain，导致私钥、助记词、登录凭证泄露。受影响 iOS 版本为 12.0～18.7 与 26.0～26.1。 |
 | 2026-09-20 | [沙蔥炒牛肉](https://taxodium.ink/recipe-sha-cong-chao-niu-rou.html) | 沙蔥炒牛肉 沙蔥有一股獨特的香味，之前買過沙蔥涼拌牛肉，很好吃，但沙蔥炒牛肉好吃嗎？試試唄。 食材 牛腿肉 (或其他類似部位) 約 200g 沙蔥約 200g 沙薑 2 顆 (喂！怎麼還有沙薑啊？別問俺，俺也是看視頻裡有，就買了) 大蒜 1 顆 (是一顆，不是一瓣哦) 小米辣几根 (能吃辣就多來點，… |
+| 2026-09-20 | [问AI的问题备份 20260920](https://z.arlmy.me/posts/ZArlmyMe/QuestionsWithGemini_20260920/) | 「时间戳。」 |
 | 2026-09-20 | [博客接入 Google AdSense：初体验并不好](https://blog.mfwt.top/index.php/archives/1617/) | 正如上一篇博文以及广告政策页面提到，本站在前两天的时候实验性地接入了Google AdSense（以下简称GGAD），打算先实验一个月，想看看这对于站点的开销是否有缓解作用。然而，如果光看这接入... |
 | 2026-09-20 | [Zine#59 - 和手機的關係、謠言、已讀不回](https://taxodium.ink/59.html) | Zine#59 和手機的關係、謠言、已讀不回 目錄 News &#124; Article Cool Bit Tutorial &#124; Resource Code Related AI Related Tool &#124; Library Emacs 一些话 &#124; 摘抄 多媒体 開頭的音樂分享會有人期待嗎？不管如何，如果你… |
 | 2026-09-20 | [A Long Run of Eight Kilometers](https://tianheg.co/posts/sport-run-8km-en/) | After a long gap, I went for a run again today. I ran it according to the half-marathon plan in Zepp, 8 kilometers, and it felt okay, I guess. Only to… |

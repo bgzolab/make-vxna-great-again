@@ -1,10 +1,52 @@
 [
   {
+    "title": "复古游戏圈入门指南",
+    "url": "https://blog.yuanji.dev/posts/retro-game-intro/",
+    "date": "2026-09-21T09:08:16Z",
+    "description": "写完上一篇复古掌机初体验：ANBERNIC RG 34XX，转眼又过去了一周多。上个月初还不了解「复古游戏」「 […]",
+    "source_root_domain": "gimo.me"
+  },
+  {
+    "title": "写在两份工作的 Gap 之时",
+    "url": "https://blog.solazy.me/20260921/",
+    "date": "2026-09-21T06:00:00Z",
+    "description": "今天想停下来聊聊我过去的这半年的所失所得",
+    "source_root_domain": "solazy.me"
+  },
+  {
+    "title": "在网上膨胀",
+    "url": "https://www.hecaitou.com/2026/09/Inflating-Online.html",
+    "date": "2026-09-21T04:26:40Z",
+    "description": "上网令人自我膨胀，关于这一点我有充分的经验。当我刚开始上网冲浪，很快就获得了认可，在网上拥有了另一种多姿多彩的生活，似乎世界上最有趣的人都在那里，而且都在等着我上线。 与此同时，在现实生活中我只是个刚刚开始工作的生瓜蛋子，转正前月薪 600 块，转正之后 800，当时一台汉显传呼机都要 1200，一台普通 Nokia 手机要 3000。在学校的时候渴望来到社会，真正来到社会之后，却发现这里的大部分生活和我完全无关，甚至都没什么人愿意理我。 换了是你，你怎么选？一种彩色的生活，一种黑白的生活，你怎么选？ 现实世界里用钱来衡量一个人，网上用关注度。即便是一个新手，上网几天之后都可以凭本能深刻认识到这一点。于是，现实世界里人们追求发家致富，在网络世界里人们追求名声，追求影响力，追求一呼百应。 一旦真的有了一点名声，一点影响力，人自然而然就会开始膨胀，觉得自己在网上获得了某种现实中不曾拥有的能力。重点在于，人会很坚定地相信：这是我的。进而认为：所以我可以。事实上，很多时候现实证实了这一点，在网上拥有名声，拥有影响力，的确可以让许多事情按照自己的心意发生，甚至可以影响到现实世界。类似的情况多了，",
+    "source_root_domain": "hecaitou.com"
+  },
+  {
+    "title": "最近惦念 20260906",
+    "url": "https://z.arlmy.me/posts/TILs/thoughts/20260906_Recently/",
+    "date": "2026-09-21T04:15:27Z",
+    "description": "「就像你说的。」",
+    "source_root_domain": "arlmy.me"
+  },
+  {
+    "title": "Toots 437 2026 Sep.13 - Sep.19",
+    "url": "https://z.arlmy.me/posts/MastodonArchives/2026/MastodonTootsArchives_20260919/",
+    "date": "2026-09-21T03:28:27Z",
+    "description": "「鲸鱼可以那么平静地呼吸。」",
+    "source_root_domain": "arlmy.me"
+  },
+  {
     "title": "爹而不自知 I",
     "url": "https://mobius.blog/25758.html",
     "date": "2026-09-21T02:26:10Z",
     "description": "我是一个时不时需要“当爹”的人，因为大部分时间都在处理没办法得到及时回应的事情，例如写小说、剧本、制作短剧分镜 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。",
     "source_root_domain": "onojyun.com"
+  },
+  {
+    "title": "Jev 的边界",
+    "url": "https://www.bmpi.dev/dev/jev-boundary/",
+    "date": "2026-09-21T00:00:00Z",
+    "description": "把 Jev 放进 Free4Chat 的 Room App 和 Live View 做了一轮实验后，我没有找到一个必须接入它的产品场景，却更清楚地看到了确定性代码、Decision Model 和 Generative Model 之间的边界。",
+    "source_root_domain": "bmpi.dev"
   },
   {
     "title": "大脑充血 Vol.99",
@@ -35,6 +77,13 @@
     "source_root_domain": "versun.me"
   },
   {
+    "title": "或许没人关心的细节",
+    "url": "https://blog.solazy.me/20260920/",
+    "date": "2026-09-20T15:00:00Z",
+    "description": "今天继续聊个日常所见而引发的思考",
+    "source_root_domain": "solazy.me"
+  },
+  {
     "title": "No More Blind Dates; Dating Is Fine, Marriage Is Not",
     "url": "https://tianheg.co/posts/no-more-blind-dates-en/",
     "date": "2026-09-20T14:57:43Z",
@@ -61,6 +110,13 @@
     "date": "2026-09-20T14:15:00Z",
     "description": "沙蔥炒牛肉 沙蔥有一股獨特的香味，之前買過沙蔥涼拌牛肉，很好吃，但沙蔥炒牛肉好吃嗎？試試唄。 食材 牛腿肉 (或其他類似部位) 約 200g 沙蔥約 200g 沙薑 2 顆 (喂！怎麼還有沙薑啊？別問俺，俺也是看視頻裡有，就買了) 大蒜 1 顆 (是一顆，不是一瓣哦) 小米辣几根 (能吃辣就多來點，吃不了就可以省了) 備菜 牛肉切成薄片 (逆著紋理切) ，加入一點點黑胡椒 (去腥，不要太多就會有一股胡椒味也不好吃) 、適量生抽 (入個底味) 、少量小蘇打 (讓肉更嫩) 、少量油 (封住水份，也不容易粘鍋) ，攪拌均勻，腌製 10 分鐘。 沙蔥洗干净，對半切成段 沙薑、蒜、小米辣都切成碎粒 烹飪 起鍋熱油 (油多給點，不能太少，少了可能會粘鍋，你要是不知道這次多少合適，下次就知道了) ，下入沙薑、蒜、小米辣炒香，下入牛肉炒到變色，表面看不太出生肉的顏色就差不多 下入沙蔥簡單翻炒几下，加入適量生抽，少許雞精或味精 (提鮮) ，然後炒勻即可。 不要炒太久，久了沙蔥熟望頭，軟軟的就不好吃了。所以前面炒肉先盡量炒得差不多熟，這樣下入沙蔥時，就不用炒太久。 成品 图1 沙蔥炒牛肉成品圖 品嘗 整體",
     "source_root_domain": "taxodium.ink"
+  },
+  {
+    "title": "问AI的问题备份 20260920",
+    "url": "https://z.arlmy.me/posts/ZArlmyMe/QuestionsWithGemini_20260920/",
+    "date": "2026-09-20T14:02:46Z",
+    "description": "「时间戳。」",
+    "source_root_domain": "arlmy.me"
   },
   {
     "title": "博客接入 Google AdSense：初体验并不好",
