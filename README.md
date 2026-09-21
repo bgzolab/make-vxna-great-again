@@ -27,6 +27,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-09-21 | [Twikoo 2.x 升级踩坑：Netlify CORS 报错与解决方案](https://liudon.com/posts/twikoo-2-netlify-cors/) | 前言 刚更新完上一篇 《我给博客做了一个时光机》 ，顺手打开文章看看效果，结果发现评论区挂了。 浏览器控制台报错： Access to XMLHttpRequest at 'https://comment.example.com/' from origin 'https://blog.example… |
 | 2026-09-21 | [R#120 沉迷](https://blog.sakanano.moe/journals/random_120) | 2026.9.15 ~ 2026.9.21 |
 | 2026-09-21 | [恒星的结构和演化](https://physnya.top/compact-object/lesson-2-star-structure-and-evolution/) | 建立恒星的方程，我们通常考虑质量守恒、静力学平衡、能量守恒和反应几个角度. 质量守恒： d M d r = 4 π r 2 ρ ( r ) \frac{\mathrm{d}M}{\mathrm{d}r}=4\pi r^2\rho(r) d r d M ​ = 4 π r 2 ρ ( r ) |
 | 2026-09-21 | [我给博客做了一个时光机](https://liudon.com/posts/hugo-ipfs-time-machine/) | 前言 博客早在23年的时候就接入了 IPFS 服务，通过 GitHub Actions 实现了 Cloudflare Pages 和 IPFS 两套服务托管。 整个流程大概是下面这样的，具体实现可以参考 Hugo 接入 IPFS 服务 这篇内容。 Hugo Build │ ├── 正常部署 → Cl… |
