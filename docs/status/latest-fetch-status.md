@@ -1,7 +1,7 @@
 ---
 title: Latest Fetch Status
-created: 2026-09-22T07:24:59Z
-modified: 2026-09-22T07:24:59Z
+created: 2026-09-22T13:14:36Z
+modified: 2026-09-22T13:14:36Z
 description: Latest source-level fetch result for the most recent execution.
 tags:
   - ai-notes
@@ -11,7 +11,7 @@ tags:
 
 # Latest Fetch Status
 
-Generated at: 2026-09-22T07:24:59Z
+Generated at: 2026-09-22T13:14:36Z
 
 Total sources: 485
 Successful: 359
@@ -67,7 +67,7 @@ Failed: 126
 | Failed | [#290] V2EX › 王小嗨的不老歌 | [https://sogola.eth.sucks/index.xml](https://sogola.eth.sucks/index.xml) | [Origin](https://www.v2ex.com/xna/s/290) | 0 | The read operation timed out |
 | Failed | [#294] V2EX › BlessingCR | [https://blessingcr.com/?feed=rss2](https://blessingcr.com/?feed=rss2) | [Origin](https://www.v2ex.com/xna/s/294) | 0 | [Errno -3] Temporary failure in name resolution |
 | Failed | [#2] V2EX › 枫言枫语 | [https://justinyan.eth.limo/planet.json](https://justinyan.eth.limo/planet.json) | [Origin](https://www.v2ex.com/xna/s/2) | 0 | feed parse error |
-| Failed | [#301] V2EX › 飞刀博客 | [https://www.feidaoboke.com/feed.php](https://www.feidaoboke.com/feed.php) | [Origin](https://www.v2ex.com/xna/s/301) | 0 | [Errno -5] No address associated with hostname |
+| Failed | [#301] V2EX › 飞刀博客 | [https://www.feidaoboke.com/feed.php](https://www.feidaoboke.com/feed.php) | [Origin](https://www.v2ex.com/xna/s/301) | 0 | _ssl.c:1064: The handshake operation timed out |
 | Failed | [#305] V2EX › 奶昔博客 | [https://blog.naixi.net/feed/](https://blog.naixi.net/feed/) | [Origin](https://www.v2ex.com/xna/s/305) | 0 | Client error '403 Forbidden' for url 'https://blog.naixi.net/feed/' For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403 |
 | Failed | [#306] V2EX › Mumulhl | [https://mumulhl.eu.org/index.xml](https://mumulhl.eu.org/index.xml) | [Origin](https://www.v2ex.com/xna/s/306) | 0 | Client error '403 Forbidden' for url 'https://mumulhl.eu.org/index.xml' For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403 |
 | Failed | [#309] V2EX › Auburn | [https://blog.juhaozero.com/atom.xml](https://blog.juhaozero.com/atom.xml) | [Origin](https://www.v2ex.com/xna/s/309) | 0 | Client error '403 Forbidden' for url 'https://blog.juhaozero.com/atom.xml' For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403 |
@@ -284,7 +284,7 @@ Failed: 126
 | Success | [#291] V2EX › 记忆角落 | [https://199604.com/feed](https://199604.com/feed) | [Origin](https://www.v2ex.com/xna/s/291) | 10 | - |
 | Success | [#293] V2EX › 大师兄 2016 | [https://dsx2016.com/feed/](https://dsx2016.com/feed/) | [Origin](https://www.v2ex.com/xna/s/293) | 10 | - |
 | Success | [#296] V2EX › 会 coding 的 HAM | [https://blog.bg7zag.com/feed](https://blog.bg7zag.com/feed) | [Origin](https://www.v2ex.com/xna/s/296) | 20 | - |
-| Success | [#297] V2EX › 𝑻𝒉𝒊𝒓𝒕𝒆𝒆𝒏 | [https://blog.oospace.com/rss.xml](https://blog.oospace.com/rss.xml) | [Origin](https://www.v2ex.com/xna/s/297) | 33 | - |
+| Success | [#297] V2EX › 𝑻𝒉𝒊𝒓𝒕𝒆𝒆𝒏 | [https://blog.oospace.com/rss.xml](https://blog.oospace.com/rss.xml) | [Origin](https://www.v2ex.com/xna/s/297) | 37 | - |
 | Success | [#298] V2EX › 人生记事本 | [https://freelifeblog.top/atom.xml](https://freelifeblog.top/atom.xml) | [Origin](https://www.v2ex.com/xna/s/298) | 9 | - |
 | Success | [#299] V2EX › 小熊猫站起来 | [https://kumacat.pages.dev/index.xml](https://kumacat.pages.dev/index.xml) | [Origin](https://www.v2ex.com/xna/s/299) | 18 | - |
 | Success | [#29] V2EX › Owen | [https://www.owenyoung.com/atom.xml](https://www.owenyoung.com/atom.xml) | [Origin](https://www.v2ex.com/xna/s/29) | 50 | - |
@@ -323,7 +323,7 @@ Failed: 126
 | Success | [#356] V2EX › 紅楓吟 | [https://honmaple.me/atom.xml](https://honmaple.me/atom.xml) | [Origin](https://www.v2ex.com/xna/s/356) | 10 | - |
 | Success | [#357] V2EX › 我的笔记 | [https://blog.196000.xyz/atom.xml](https://blog.196000.xyz/atom.xml) | [Origin](https://www.v2ex.com/xna/s/357) | 20 | - |
 | Success | [#358] V2EX › Devzhi's Blog | [https://www.devzhi.com/feeds](https://www.devzhi.com/feeds) | [Origin](https://www.v2ex.com/xna/s/358) | 28 | - |
-| Success | [#359] V2EX › Space Looming | [https://www.gtdstudy.com/index.xml](https://www.gtdstudy.com/index.xml) | [Origin](https://www.v2ex.com/xna/s/359) | 10 | - |
+| Success | [#359] V2EX › Space Looming | [https://www.gtdstudy.com/index.xml](https://www.gtdstudy.com/index.xml) | [Origin](https://www.v2ex.com/xna/s/359) | 7 | - |
 | Success | [#360] V2EX › 希仁之拥 | [https://blog.keepchen.com/feed](https://blog.keepchen.com/feed) | [Origin](https://www.v2ex.com/xna/s/360) | 85 | - |
 | Success | [#361] V2EX › Cufezhusy's Blog | [https://cufezhusy.github.io/rss.xml](https://cufezhusy.github.io/rss.xml) | [Origin](https://www.v2ex.com/xna/s/361) | 24 | - |
 | Success | [#362] V2EX › radishzz's blog | [https://radishzz.cc/atom.xml](https://radishzz.cc/atom.xml) | [Origin](https://www.v2ex.com/xna/s/362) | 4 | - |
@@ -346,7 +346,7 @@ Failed: 126
 | Success | [#386] V2EX › 司云有崖 | [https://eduardoqian.com/rss/feed.xml](https://eduardoqian.com/rss/feed.xml) | [Origin](https://www.v2ex.com/xna/s/386) | 20 | - |
 | Success | [#387] V2EX › 司云有崖 | [https://yuhang.ch/rss.xml](https://yuhang.ch/rss.xml) | [Origin](https://www.v2ex.com/xna/s/387) | 40 | - |
 | Success | [#388] V2EX › 编程笔记 | [https://programnotes.cn/atom.xml](https://programnotes.cn/atom.xml) | [Origin](https://www.v2ex.com/xna/s/388) | 20 | - |
-| Success | [#389] V2EX › 起居室老虎 | [https://mer.dev/rss.xml](https://mer.dev/rss.xml) | [Origin](https://www.v2ex.com/xna/s/389) | 83 | - |
+| Success | [#389] V2EX › 起居室老虎 | [https://mer.dev/rss.xml](https://mer.dev/rss.xml) | [Origin](https://www.v2ex.com/xna/s/389) | 84 | - |
 | Success | [#38] V2EX › BMPI | [https://www.bmpi.dev/index.xml](https://www.bmpi.dev/index.xml) | [Origin](https://www.v2ex.com/xna/s/38) | 143 | - |
 | Success | [#390] V2EX › 搬砖日记 | [https://banzhuanriji.com/feed/](https://banzhuanriji.com/feed/) | [Origin](https://www.v2ex.com/xna/s/390) | 20 | - |
 | Success | [#391] V2EX › 皮普的数字花园 | [https://pipuwong.com/rss.xml](https://pipuwong.com/rss.xml) | [Origin](https://www.v2ex.com/xna/s/391) | 20 | - |
