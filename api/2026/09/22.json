@@ -1,0 +1,303 @@
+[
+  {
+    "title": "Twikoo 2.x 升级踩坑：Netlify CORS 报错与解决方案",
+    "url": "https://liudon.com/posts/twikoo-2-netlify-cors/",
+    "date": "2026-09-21T16:48:00Z",
+    "description": "前言 刚更新完上一篇 《我给博客做了一个时光机》 ，顺手打开文章看看效果，结果发现评论区挂了。 浏览器控制台报错： Access to XMLHttpRequest at 'https://comment.example.com/' from origin 'https://blog.example.com' has been blocked by CORS policy: Response to preflight request doesn't pass access control check: No 'Access-Control-Allow-Origin' header is present on the requested resource. 评论服务一直使用 Twikoo + Netlify，之前也运行得好好的，最近并没有修改过 CORS 配置。",
+    "source_root_domain": "liudon.com"
+  },
+  {
+    "title": "R#120 沉迷",
+    "url": "https://blog.sakanano.moe/journals/random_120",
+    "date": "2026-09-21T15:30:00Z",
+    "description": "2026.9.15 ~ 2026.9.21",
+    "source_root_domain": "sakanano.moe"
+  },
+  {
+    "title": "恒星的结构和演化",
+    "url": "https://physnya.top/compact-object/lesson-2-star-structure-and-evolution/",
+    "date": "2026-09-21T14:17:17Z",
+    "description": "建立恒星的方程，我们通常考虑质量守恒、静力学平衡、能量守恒和反应几个角度. 质量守恒： d M d r = 4 π r 2 ρ ( r ) \\frac{\\mathrm{d}M}{\\mathrm{d}r}=4\\pi r^2\\rho(r) d r d M ​ = 4 π r 2 ρ ( r )",
+    "source_root_domain": "physnya.top"
+  },
+  {
+    "title": "我给博客做了一个时光机",
+    "url": "https://liudon.com/posts/hugo-ipfs-time-machine/",
+    "date": "2026-09-21T13:23:15Z",
+    "description": "前言 博客早在23年的时候就接入了 IPFS 服务，通过 GitHub Actions 实现了 Cloudflare Pages 和 IPFS 两套服务托管。 整个流程大概是下面这样的，具体实现可以参考 Hugo 接入 IPFS 服务 这篇内容。 Hugo Build │ ├── 正常部署 → Cloudflare Pages ← liudon.com │ └── IPFS → CID ← liudon.xyz 博客主要还是通过 liudon.com 来对外提供访问， liudon.xyz 更像是一块试验田，用来验证 Hugo 博客跑在 IPFS 服务上。",
+    "source_root_domain": "liudon.com"
+  },
+  {
+    "title": "读书有感",
+    "url": "https://blog.oospace.com/posts/2026-09-21/",
+    "date": "2026-09-21T11:00:00Z",
+    "description": "读书有感而记录",
+    "source_root_domain": "oospace.com"
+  },
+  {
+    "title": "复古游戏圈入门指南",
+    "url": "https://blog.yuanji.dev/posts/retro-game-intro/",
+    "date": "2026-09-21T09:08:16Z",
+    "description": "写完上一篇复古掌机初体验：ANBERNIC RG 34XX，转眼又过去了一周多。上个月初还不了解「复古游戏」「 […]",
+    "source_root_domain": "gimo.me"
+  },
+  {
+    "title": "pi agent这几天更新后，很奇怪啊，",
+    "url": "https://versun.me/blog/tweet-2101942460390031399",
+    "date": "2026-09-21T07:51:49Z",
+    "description": "pi agent这几天更新后，很奇怪啊，经常把自己思考死了，模型没变，你们有遇到过吗",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "写在两份工作的 Gap 之时",
+    "url": "https://blog.solazy.me/20260921/",
+    "date": "2026-09-21T06:00:00Z",
+    "description": "今天想停下来聊聊我过去的这半年的所失所得",
+    "source_root_domain": "solazy.me"
+  },
+  {
+    "title": "在网上膨胀",
+    "url": "https://www.hecaitou.com/2026/09/Inflating-Online.html",
+    "date": "2026-09-21T04:26:40Z",
+    "description": "上网令人自我膨胀，关于这一点我有充分的经验。当我刚开始上网冲浪，很快就获得了认可，在网上拥有了另一种多姿多彩的生活，似乎世界上最有趣的人都在那里，而且都在等着我上线。 与此同时，在现实生活中我只是个刚刚开始工作的生瓜蛋子，转正前月薪 600 块，转正之后 800，当时一台汉显传呼机都要 1200，一台普通 Nokia 手机要 3000。在学校的时候渴望来到社会，真正来到社会之后，却发现这里的大部分生活和我完全无关，甚至都没什么人愿意理我。 换了是你，你怎么选？一种彩色的生活，一种黑白的生活，你怎么选？ 现实世界里用钱来衡量一个人，网上用关注度。即便是一个新手，上网几天之后都可以凭本能深刻认识到这一点。于是，现实世界里人们追求发家致富，在网络世界里人们追求名声，追求影响力，追求一呼百应。 一旦真的有了一点名声，一点影响力，人自然而然就会开始膨胀，觉得自己在网上获得了某种现实中不曾拥有的能力。重点在于，人会很坚定地相信：这是我的。进而认为：所以我可以。事实上，很多时候现实证实了这一点，在网上拥有名声，拥有影响力，的确可以让许多事情按照自己的心意发生，甚至可以影响到现实世界。类似的情况多了，",
+    "source_root_domain": "hecaitou.com"
+  },
+  {
+    "title": "最近惦念 20260906",
+    "url": "https://z.arlmy.me/posts/TILs/thoughts/20260906_Recently/",
+    "date": "2026-09-21T04:15:27Z",
+    "description": "「就像你说的。」",
+    "source_root_domain": "arlmy.me"
+  },
+  {
+    "title": "Toots 437 2026 Sep.13 - Sep.19",
+    "url": "https://z.arlmy.me/posts/MastodonArchives/2026/MastodonTootsArchives_20260919/",
+    "date": "2026-09-21T03:28:27Z",
+    "description": "「鲸鱼可以那么平静地呼吸。」",
+    "source_root_domain": "arlmy.me"
+  },
+  {
+    "title": "emacs-为重复任务添加自定义工作日判定",
+    "url": "https://blog.prayhand13013.top/20260921T102942--emacs-为重复任务添加自定义工作日判定__blog.html",
+    "date": "2026-09-21T02:29:00Z",
+    "description": "",
+    "source_root_domain": "tomoemami.github.io"
+  },
+  {
+    "title": "爹而不自知 I",
+    "url": "https://mobius.blog/25758.html",
+    "date": "2026-09-21T02:26:10Z",
+    "description": "我是一个时不时需要“当爹”的人，因为大部分时间都在处理没办法得到及时回应的事情，例如写小说、剧本、制作短剧分镜 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。",
+    "source_root_domain": "onojyun.com"
+  },
+  {
+    "title": "Jev 的边界",
+    "url": "https://www.bmpi.dev/dev/jev-boundary/",
+    "date": "2026-09-21T00:00:00Z",
+    "description": "把 Jev 放进 Free4Chat 的 Room App 和 Live View 做了一轮实验后，我没有找到一个必须接入它的产品场景，却更清楚地看到了确定性代码、Decision Model 和 Generative Model 之间的边界。",
+    "source_root_domain": "bmpi.dev"
+  },
+  {
+    "title": "大脑充血 Vol.99",
+    "url": "https://www.geedea.pro/weekly/99/",
+    "date": "2026-09-20T23:39:21Z",
+    "description": "最近一直在小步缓行，不急不忙地把事情做好。一方面是上班之后的确没有大块且高精力的时间来做自己想做的事情了，只能把事情拆得很碎，一点一点来做。这几天在读波拉尼奥的短篇集《地球上最后的夜晚》，每篇真的很短，大概十几二十页，可以每天上班前没有压力地读上一两篇。我很喜欢他的文风，平静却具有冲击力，不做作，就是普通人生活的感觉。 weepinbell weepinbell 是我半年前开始写的 Clojure 项目，它是个 Webmention 接收器。如果你不知道这是什么，可以阅读我写的《 Webmention 简明指南 》 最近我又把它捡了起来，发布了 v0.5.0 版本，并且仍然在更新。我还在 Issues 里写了很多虽然写着欢迎贡献，但更多是写给自己看的计划（因为项目拒绝合并 LLM 生成的代码，而我非常清楚既关心 IndieWeb 又会写 Clojure，还有 Codeberg 账号，并且愿意给我贡献代码的人，很有可能根本不存在吧！）。 这两周我大概做了这些事情： 把用来给 Webmention 生成 ID 的 MD5 换成了 SHA256，后者的抗碰撞性会更好。虽然到最后我都会截断成 ",
+    "source_root_domain": "geedea.pro"
+  },
+  {
+    "title": "Harbor容器僵尸进程数告警——docker-compose.override.yml加init参数修复",
+    "url": "https://199604.com/3718",
+    "date": "2026-09-20T23:07:39Z",
+    "description": "Harbor容器僵尸进程数告警——docker-compose.override.yml加init参数修复 记 […]",
+    "source_root_domain": "199604.com"
+  },
+  {
+    "title": "这几天爆火的 jev 和 laya 模型",
+    "url": "https://versun.me/blog/tweet-2101808620426149961",
+    "date": "2026-09-20T22:59:59Z",
+    "description": "Versun 虽然不懂金融，看的有点懵逼， 但我觉得未来各个行业都会有自己的专用模型， 而目前通用模型应该会拿来做统筹，说不定统筹都会有专用模型😎 https://twitter.com/sodawhite_dev/status/2096262979042046435 这几天爆火的 jev 和 laya 模型，似乎就是不错的方法来训练专用模型，然后让一个 llm 模型统筹，实现又快又好😎",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "有用 hermes agent 的，每次",
+    "url": "https://versun.me/blog/tweet-2101807584831570411",
+    "date": "2026-09-20T22:55:52Z",
+    "description": "有用 hermes agent 的，每次会话结束前，记得 /review 下，效果很不错，每次都有惊喜",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "或许没人关心的细节",
+    "url": "https://blog.solazy.me/20260920/",
+    "date": "2026-09-20T15:00:00Z",
+    "description": "今天继续聊个日常所见而引发的思考",
+    "source_root_domain": "solazy.me"
+  },
+  {
+    "title": "No More Blind Dates; Dating Is Fine, Marriage Is Not",
+    "url": "https://tianheg.co/posts/no-more-blind-dates-en/",
+    "date": "2026-09-20T14:57:43Z",
+    "description": "If she hadn't sent me a text today, I wouldn't have written this piece, because I want to forget that stretch of my life, even though it did teach me something. She said she wanted to talk on the phone. I didn't think there was anything worth talking about. She called while I was asleep. When I woke up and saw she had called, I blocked her number so she wouldn't call again.",
+    "source_root_domain": "tianheg.co"
+  },
+  {
+    "title": "我再也不想相亲了；恋爱还是要谈，结婚就算了",
+    "url": "https://tianheg.co/posts/no-more-blind-dates/",
+    "date": "2026-09-20T14:43:24Z",
+    "description": "如果不是她今天给我发短信，我也不会写这篇文章，因为我想忘掉那段经历，尽管它的确教会了我一些东西。她说要电话聊一下，我不觉得有什么好聊的，她打电话的时候我在睡觉。醒来看到她的未接来电，为了避免她再次打来，我把她的号码拉黑了。",
+    "source_root_domain": "tianheg.co"
+  },
+  {
+    "title": "苹果 iPhone 安全神话被打破：币圈应用FomoPeek沙盒逃逸读取了其他APP私钥",
+    "url": "https://blog.renfei.net/posts/1626402130325676145",
+    "date": "2026-09-20T14:20:11Z",
+    "description": "2026 年 9 月 19 日，慢雾联合 OKX 安全团队披露：iOS 应用 FomoPeek 1.1、1.2 版本内置一套 iOS 内核攻击框架，可突破沙盒读取并解密系统 Keychain，导致私钥、助记词、登录凭证泄露。受影响 iOS 版本为 12.0～18.7 与 26.0～26.1。",
+    "source_root_domain": "renfei.net"
+  },
+  {
+    "title": "沙蔥炒牛肉",
+    "url": "https://taxodium.ink/recipe-sha-cong-chao-niu-rou.html",
+    "date": "2026-09-20T14:15:00Z",
+    "description": "沙蔥炒牛肉 沙蔥有一股獨特的香味，之前買過沙蔥涼拌牛肉，很好吃，但沙蔥炒牛肉好吃嗎？試試唄。 食材 牛腿肉 (或其他類似部位) 約 200g 沙蔥約 200g 沙薑 2 顆 (喂！怎麼還有沙薑啊？別問俺，俺也是看視頻裡有，就買了) 大蒜 1 顆 (是一顆，不是一瓣哦) 小米辣几根 (能吃辣就多來點，吃不了就可以省了) 備菜 牛肉切成薄片 (逆著紋理切) ，加入一點點黑胡椒 (去腥，不要太多就會有一股胡椒味也不好吃) 、適量生抽 (入個底味) 、少量小蘇打 (讓肉更嫩) 、少量油 (封住水份，也不容易粘鍋) ，攪拌均勻，腌製 10 分鐘。 沙蔥洗干净，對半切成段 沙薑、蒜、小米辣都切成碎粒 烹飪 起鍋熱油 (油多給點，不能太少，少了可能會粘鍋，你要是不知道這次多少合適，下次就知道了) ，下入沙薑、蒜、小米辣炒香，下入牛肉炒到變色，表面看不太出生肉的顏色就差不多 下入沙蔥簡單翻炒几下，加入適量生抽，少許雞精或味精 (提鮮) ，然後炒勻即可。 不要炒太久，久了沙蔥熟望頭，軟軟的就不好吃了。所以前面炒肉先盡量炒得差不多熟，這樣下入沙蔥時，就不用炒太久。 成品 图1 沙蔥炒牛肉成品圖 品嘗 整體",
+    "source_root_domain": "taxodium.ink"
+  },
+  {
+    "title": "问AI的问题备份 20260920",
+    "url": "https://z.arlmy.me/posts/ZArlmyMe/QuestionsWithGemini_20260920/",
+    "date": "2026-09-20T14:02:46Z",
+    "description": "「时间戳。」",
+    "source_root_domain": "arlmy.me"
+  },
+  {
+    "title": "博客接入 Google AdSense：初体验并不好",
+    "url": "https://blog.mfwt.top/index.php/archives/1617/",
+    "date": "2026-09-20T13:57:00Z",
+    "description": "正如上一篇博文以及广告政策页面提到，本站在前两天的时候实验性地接入了Google AdSense（以下简称GGAD），打算先实验一个月，想看看这对于站点的开销是否有缓解作用。然而，如果光看这接入...",
+    "source_root_domain": "mfwt.top"
+  },
+  {
+    "title": "Zine#59 - 和手機的關係、謠言、已讀不回",
+    "url": "https://taxodium.ink/59.html",
+    "date": "2026-09-20T13:20:00Z",
+    "description": "Zine#59 和手機的關係、謠言、已讀不回 目錄 News | Article Cool Bit Tutorial | Resource Code Related AI Related Tool | Library Emacs 一些话 | 摘抄 多媒体 開頭的音樂分享會有人期待嗎？不管如何，如果你想找點歌聴，推薦聴聴 上期 分享的 Men I Trust！除此之外，這周 Hopico 也更新了一期 ⸺ 原来莫文蔚最好的 9 首情歌，都藏在滚石唱片。好痛！特别痛！ ⸺ 我也把裡面提到的専輯也找來聴了，你也可以去聴聴看！ 图1 視頻截圖，裡面有一段文字，內容是： 情歌是想念变成了 / 一个在夜晚撑船的人 / 但它找不到接它的对岸 / 然后想念常常像一个赶路的人 它永远在追一个 / 追不上的背影 / 情歌也是 / 永远在唱夕 / 已经不在这首歌里的人 情歌很奇妙它没有见过我们爱过的人 / 却能让一些已经模糊的日子 / 重新有了细节 情歌什么时候变成想念的呢 / 是曾经吵闹的地方 / 突然变安静的那一天 News | Article Actual aunting: New baby edit",
+    "source_root_domain": "taxodium.ink"
+  },
+  {
+    "title": "A Long Run of Eight Kilometers",
+    "url": "https://tianheg.co/posts/sport-run-8km-en/",
+    "date": "2026-09-20T13:15:50Z",
+    "description": "After a long gap, I went for a run again today. I ran it according to the half-marathon plan in Zepp, 8 kilometers, and it felt okay, I guess. Only toward the end my right abdomen felt a bit uncomfortable. That is because I hadn't run in a long time.",
+    "source_root_domain": "tianheg.co"
+  },
+  {
+    "title": "【运动记】长跑八千米",
+    "url": "https://tianheg.co/posts/sport-run-8km/",
+    "date": "2026-09-20T13:10:44Z",
+    "description": "时隔很久，今天又跑了一次步。是按照 Zepp 的半马计划跑的，跑了 8 公里，感觉还好吧。只是跑到最后，右腹部有点不适。那是因为很久没有跑了。",
+    "source_root_domain": "tianheg.co"
+  },
+  {
+    "title": "滴答清单也加上了 AI 助手，还不错，我",
+    "url": "https://versun.me/blog/tweet-2101638960120561692",
+    "date": "2026-09-20T11:45:49Z",
+    "description": "滴答清单也加上了 AI 助手，还不错，我之前都是让 hermes 来管理清单任务的，这几天用用看怎么样",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "空间的体积度量衡——行列式（Determinant）",
+    "url": "https://www.less-bug.com/posts/volume-measurement-of-space-determinant/",
+    "date": "2026-09-20T08:22:43Z",
+    "description": "在平面上，取两个向量： $$ \\mathbf{a} = \\begin{pmatrix} 3 \\\\ 0 \\end{pmatrix}, \\quad \\mathbf{b} = \\begin{pmatrix} 0 \\\\ 2 \\end{pmatrix} $$ 这两个向量从原点出发，张成一个矩形。这个矩形的面积是多少？ 底边长 $3$ ，高 $2$ ，面积 $= 3 \\times 2 = 6$ 。 现在把这两个向量排成矩阵的两列： $$ A = \\begin{pmatrix} 3 & 0 \\\\ 0 & 2 \\end{pmatrix} $$ 我们说这个矩阵的 行列式 就是 $6$ ，记作： $$ \\det(A) = 6 $$ 再看一个稍微倾斜的例子。取两个向量： $$ \\mathbf{a} = \\begin{pmatrix} 2 \\\\ 0 \\end{pmatrix}, \\quad \\mathbf{b} = \\begin{pmatrix} 1 \\\\ 3 \\end{pmatrix} $$ 它们张成一个平行四边形。你能在纸上画出这个平行四边形吗？这个平行四边形的面积是多少？",
+    "source_root_domain": "less-bug.com"
+  },
+  {
+    "title": "NixOS Is Not for Me Right Now",
+    "url": "https://tianheg.co/posts/nixos-not-for-me-right-now-en/",
+    "date": "2026-09-20T08:10:00Z",
+    "description": "Over the past few days I tried NixOS, and yesterday I realized it's not for me. What first drew me in was one thing about NixOS: complete control over a system, inside and out — as long as the config is there, you can reproduce an identical environment on a brand-new machine. That's genuinely great, because using Linux means having to learn a lot, and there's always something you're unfamiliar with — and when you've broken the system, how to roll back is often a real headache. NixOS's design sol",
+    "source_root_domain": "tianheg.co"
+  },
+  {
+    "title": "Vol.119 智能越便宜越需要外置标准：把判断留在模型之外的尺子地图",
+    "url": "https://liduos.com/weekly/the-weekly-gradient-119",
+    "date": "2026-09-20T08:00:00Z",
+    "description": "本期内容从可托付的智能出发，梳理把判断留在模型之外的尺子：实时语音与低成本架构、编译器与类型约束、Graph Engineering 与 Harness、安全默认拒绝，以及前沿模型治理、经验闭环与组织重构。",
+    "source_root_domain": "liduos.com"
+  },
+  {
+    "title": "短暂尝试 NixOS，它不适合我",
+    "url": "https://tianheg.co/posts/nixos-not-for-me-right-now/",
+    "date": "2026-09-20T07:35:00Z",
+    "description": "一开始想尝试，是因为 NixOS 有一点很吸引我：能完全掌控系统的内内外外，只要配置在，就能在一台全新设备上还原出一模一样的环境。这真的很棒，因为使用 Linux 系统要掌握很多内容，总有不熟悉的地方，而把系统搞崩溃后如何回退，往往是个很头疼的问题。NixOS 的设计恰好完美地解决了这个问题。",
+    "source_root_domain": "tianheg.co"
+  },
+  {
+    "title": "SmailrX：我用Agent把Chrome插件做成了安卓App",
+    "url": "https://www.evan.xin/5106/",
+    "date": "2026-09-20T06:57:07Z",
+    "description": "SmailrX Smailr 邮件助手 Android 应用。由同是我用AI写的功能的相同的 Chrome 扩 […]",
+    "source_root_domain": "evan.xin"
+  },
+  {
+    "title": "让我头大的两个问题",
+    "url": "https://www.hecaitou.com/2026/09/two-questions-that-give-me-a-headache.html",
+    "date": "2026-09-20T04:36:52Z",
+    "description": "自从开始写作，我就掉头发。总结起来，应该有一半以上的头发是因为两个常见问题而掉落： ---当我介绍某种美食，留言区里一定会有人问：孕妇能不能吃？ ---当我介绍某部电影，留言区里一定会有人问：X 岁的孩子能看吗？ 我当然可以把这些问题简单理解为个人好奇，或者个人询问，并不必然意味着征询我的意见。但是，如果世界当真那么乐观的话，为什么大部分的药物说明书里，在禁忌一项里都有一句：孕妇禁用，或遵医嘱服用。药厂的不约而同背后是什么？不敢细想。 前阵子著名经典电影《肖申克的救赎》重映，我看到有家长带着 8 岁的孩子兴冲冲跑去看，想着要让孩子也体会一下自己当年感受到的美好。等到电影开始，家长突然如坐针毡，因为开头就是偷情和谋杀。意识到不对，再想到后面怎么和孩子解释主角安迪和监狱「姐妹花」之间发生了什么，家长在影院里几乎已经胃痉挛。还好，孩子睡了半场电影。 我不知道网线那头提问的究竟是什么人，这是我真正头大的原因。如果换了是我朋友问我类似的问题，我不会有任何心理压力，照直说就行了。因为这么多年来，我们吃饭、搭车之前从未签署过免责协议书，我很清楚他们能自己承担责任。而网上的陌生人不同，我不清楚他们的想",
+    "source_root_domain": "hecaitou.com"
+  },
+  {
+    "title": "呵护你",
+    "url": "https://hux.ink/posts/care-of-you/",
+    "date": "2026-09-20T04:33:08Z",
+    "description": "一直拖着没给群晖配上 UPS，借口之一是一年到头家里异常断电的次数可能也就一两回，抱着侥幸心理，觉得应该不会出什么问题，硬盘总不至于这么脆弱吧？借口之二则是 UPS 电源确实有点贵。就这样，买 UPS 的计划一拖再拖，直到上周二。 上周二，在公司发现 Synology Drive 同步文件时断时续，DSM 管理后台也一直登不上去，当时以为只是网络出了点问题，并没有太在意。下班回家后，想着登录后台看看究竟是什么情况，结果发现即便是在局域网内，也无法正常访问 DSM。无奈之下，只能先关机再开机，重新搜索设备后，总算顺利登录了 DSM。进入系统后，天塌了，右上角的通知显示，最近 24 小时内，群晖异常关机 17 次。打开日志中心一看，发现基本上每隔半小时，群晖就会经历一次异常断电、关机，然后又自动开机的过程。 家里并没有停过电，最近我也没对群晖的外接设备和系统做过任何变更，思来想去，怀疑是接在群晖电源前面的小米智能插座出了问题。于是拔掉智能插座，让群晖直接接入市电，观察了一个小时，期间一切正常，没有再出现异常关机的情况。至此，罪魁祸首基本锁定——小米智障插座。没想到，当初为了统计群晖耗电量而",
+    "source_root_domain": "hux.ink"
+  },
+  {
+    "title": "RSSHub 抓取 V2EX 报 403 Forbidden",
+    "url": "https://blog.hoopan.net/853.html",
+    "date": "2026-09-20T04:03:38Z",
+    "description": "RSSHub 抓取 V2EX 路由返回 503，日志显示上游 403 Forbidden。本文记录排查过程与根因（Cloudflare WAF 拦截 RSSHub 项目标识 UA），以及通过注入浏览器 UA 修复的方法。",
+    "source_root_domain": "hoopan.net"
+  },
+  {
+    "title": "如何理解直和分解与不变子空间？",
+    "url": "https://www.less-bug.com/posts/how-to-understand-direct-sum-decomposition-and-invariant-subspace/",
+    "date": "2026-09-20T03:46:14Z",
+    "description": "我不喜欢上来先上定义，然后再给性质、定理、例子的学习结构，和人认识世界的方式完全相悖，而且学起来一点也不爽！ 所以让我们从一个例子出发。 $\\mathbb{R}^3$ 中任意向量都可记作： $$ \\mathbf{v} = \\begin{pmatrix} x \\\\ y \\\\ z \\end{pmatrix} $$ 然后我们选取两个子空间平面。 $U$ 是 $xy$ 平面 $\\begin{pmatrix} x \\\\ y \\\\ 0 \\end{pmatrix}$ ， $W$ 是 $yz$ 平面 $\\begin{pmatrix} 0 \\\\ y \\\\ z \\end{pmatrix}$ 两个子空间相加可记作 $U + W$ ： $$ U + W = \\{ \\mathbf{u} + \\mathbf{w} \\mid \\mathbf{u} \\in U, \\; \\mathbf{w} \\in W \\} $$ $U + W$ 提供了任意的 $x,y,z$ 分量，所以能够填满整个 $\\mathbb{R}^3$ 。因此 $\\mathbf{v}$ 总能分解为 $U,W$ 的部分。",
+    "source_root_domain": "less-bug.com"
+  },
+  {
+    "title": "幸福者退让论其实是内耗的始作俑者？",
+    "url": "https://mobius.blog/25748.html",
+    "date": "2026-09-20T01:30:00Z",
+    "description": "果然，我对“周刊”已经没有了兴趣，既然是订阅性质的内容，那就聊一些比较实操的“方法论”。在开始之前，也先回顾一 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。",
+    "source_root_domain": "onojyun.com"
+  },
+  {
+    "title": "Vespa: Distributors and Buckets",
+    "url": "https://inhzus.io/posts/2026-09-20-vespa-distributor-and-buckets/",
+    "date": "2026-09-20T00:00:00Z",
+    "description": "In the Vespa comparison , I briefly mentioned that Vespa manages document distribution through buckets. This post expands on that part: how a document maps to a bucket, how the distributor chooses storage nodes, and what happens when the cluster changes. The source references use Vespa revision 39bf68f4 . The feeding example assumes an indexed content cluster with a flat distribution configuration. Grouped configurations add another level of placement decisions. Components A bucket is a group of",
+    "source_root_domain": "inhzus.io"
+  },
+  {
+    "title": "Vespa: HNSW Index Implementation",
+    "url": "https://inhzus.io/posts/2026-09-20-vespa-hnsw-index/",
+    "date": "2026-09-20T00:00:00Z",
+    "description": "The previous index implementation post covered attributes and inverted indexes, but left out tensors. This post continues with the data structures behind Vespa's HNSW index, then follows a small example through a search. The source references below point to Vespa revision 39bf68f4 . The example graph is illustrative; it is not the output of a particular insertion sequence. Overview Vespa separates the graph from the vectors. HnswGraph stores nodes and their connections, while TensorAttribute pro",
+    "source_root_domain": "inhzus.io"
+  },
+  {
+    "title": "Vespa: Thread Safety in the Storage Engine",
+    "url": "https://inhzus.io/posts/2026-09-20-vespa-storage-engine-thread-safety/",
+    "date": "2026-09-20T00:00:00Z",
+    "description": "The earlier posts covered index data structures and matching . One question remains: while a query is using those structures, how can another thread update them or reclaim their memory? This post looks at that question in proton, Vespa's searchnode. We start with generation tracking, then follow its use in attributes and the memory index. Disk indexes use a different mechanism, which comes last. Source links refer to revision 39bf68f4 . Overview For many mutable structures, Vespa sequences write",
+    "source_root_domain": "inhzus.io"
+  },
+  {
+    "title": "iPhone Duo 的 Vertical Bar",
+    "url": "https://bluepika.life/blog/iphone-duo-vertical-bar",
+    "date": "2026-09-20T00:00:00Z",
+    "description": "我将上周称为同时关注任天堂和苹果的人最快乐的一周，任天堂开了新一场直面会，苹果也如预期一样发布了折叠屏手机 iPhone Duo。",
+    "source_root_domain": "bluepika.life"
+  }
+]
