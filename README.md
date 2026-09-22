@@ -28,7 +28,11 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | Date | Title | Summary |
 | --- | --- | --- |
 | 2026-09-22 | [普洱采茶：杀青烫手，和我那杯叫不响的永川秀芽](https://macin.org/2026/09/22/pu-er-cai-cha/) | 阅读全文 → 上一篇在普洱的山里采了三筐菌子， 敢下锅的没几样 ；这一篇，还是普洱，蹲进茶垄里，炒了一锅自己都怕的 烈茶 。 |
+| 2026-09-22 | [Java 服务 CPU 打满排查笔记](https://199604.com/3720) | Java 服务 CPU 打满排查笔记 记录时间：2026-09-19 环境：Linux 服务器 / Java […] |
 | 2026-09-22 | [M03车机如何使用网易云音乐「神光模式」？保姆级教程分享【效率工具指南】](https://penghh.fun/2026/09/22/2026-9-22-m03music/) | <script src=" |
+| 2026-09-22 | [入蜀记 day484 桂香入肺](https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_484/) | 「桂香入肺。」 |
+| 2026-09-22 | [入蜀记 day483 真的能复现吗？](https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_483/) | 「真的能复现吗？」 |
+| 2026-09-22 | [入蜀记 day482 听友聚会](https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_482/) | 「听友聚会。」 |
 | 2026-09-22 | [景行行止，一座公共历史人物纪念档案，域名是huainian.org](https://gugegt.com/20260922-huainian-org.html) | 前几天，我的一个新项目上线了：景行行止，网址 huainian.org 。 名字取自《诗经》里的"高山仰止，景行行止"。高山让人仰望，大道让人追随。网站的副标题是，怀念每一个值得记住的人。顺便坦白一句，这个名字我到现在还觉得有点别扭，可能还会改，先这么叫着。 打开首页，顶部四个大字加一个搜索框，往下… |
 | 2026-09-22 | [深呼吸](https://www.gtdstudy.com/posts/2026-09-21-deep-breath/) | 朋友，上周我又做了不少事情，而且收获良多，忍不住跟你分享！ Awesome-Jev 星标超过 1000 个了！ 自上周 Jev 发布之后，我跟进了一个 Awesome-Jev 的 Github 仓库，很受欢迎。这大概是我历史上增速最快的 Github 仓库，仅仅一周就获得了破千的星标，每天都有十多个… |
 | 2026-09-22 | [动起来，否则你就要费劲思考了](https://www.gtdstudy.com/posts/2026-09-15-pascal/) | 一段时间没写信了，你还好吗？再次提起笔来，真是让人开心，每一次写信都是你我的一次重逢，为了这份不断的缘分，我也要提笔写下去。 X 的关注量突破 5000 最近，我在 X 上的粉丝突破了 5000 人，不算多，也不算少。但现在 X 上的内容更新，基本上是我指挥 Agent 来处理的，我每天除了对着一张… |
