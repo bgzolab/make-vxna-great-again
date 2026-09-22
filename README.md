@@ -27,6 +27,16 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-09-22 | [M03车机如何使用网易云音乐「神光模式」？保姆级教程分享【效率工具指南】](https://penghh.fun/2026/09/22/2026-9-22-m03music/) | <script src=" |
+| 2026-09-22 | [AI 写得越来越快，我却越来越看不完了](https://www.tortorse.com/archives/ai-writes-faster-than-i-can-read/) | 深夜里，一个人面对 AI 生成的大量文档和图片 |
+| 2026-09-22 | [不想好就开口的是什么人](https://kaix.in/2026/0922/) | 我对语音输入一事毫无研究，而且一直费解，真的会有人偏爱使用语音输入的方式来记录文章吗？文学史上倒是不乏先例，一些作家出于身体原因由助手转录口述来完成写作，但结果往往是行文变得冗长、繁复，句式枝蔓丛生。 作家尚且如此，而我们……恰好看到腾讯又出了一款集成了 AI 能力的语音输入法，口号竟然是「不必想好… |
+| 2026-09-22 | [今年抱怨的人要比去年更多一些](https://www.hecaitou.com/2026/09/More-Complaints-This-Year-Than-Last.html) | 在后台我每天都会收到很多留言，就我个人的感觉，今年抱怨的人要比去年更多一些，而去年抱怨的人又要比前年更多一些。 大多内容是抱怨伴侣，或者抱怨孩子，刚好都落在我的经验盲区。我知道，对方并不需要我出主意，只是想找个地方倾诉。但是看得多了，我开始担忧自己，担忧自己因此形成了关于婚恋和家庭教育的错误认知，觉… |
+| 2026-09-22 | [爹而不自知 II](https://mobius.blog/25763.html) | 继续昨天的话题。 当爹的核心并不是为了当别人爹，而是为了满足自己的心理需求，或是某种身份标签的存在性。具体来说 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
+| 2026-09-22 | [Memos: 看着一点也危险](https://blog.yasking.org/a/1790039812) | 早上骑车路过一个施工现场，远远就看到有个人站在渣土车上 ‘观察’，直直的站着，两脚就踩着车斗的两个边框上（比图中更 … |
+| 2026-09-22 | [入蜀记 day481 同一个老板](https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_481/) | 「同一个老板。」 |
+| 2026-09-22 | [入蜀记 day480 卧底厨神](https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_480/) | 「卧底厨神。」 |
+| 2026-09-22 | [入蜀记 day479 but read](https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_479/) | 「but read.」 |
+| 2026-09-22 | [入蜀记 day478 刷剧](https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_478/) | 「刷剧。」 |
 | 2026-09-21 | [Twikoo 2.x 升级踩坑：Netlify CORS 报错与解决方案](https://liudon.com/posts/twikoo-2-netlify-cors/) | 前言 刚更新完上一篇 《我给博客做了一个时光机》 ，顺手打开文章看看效果，结果发现评论区挂了。 浏览器控制台报错： Access to XMLHttpRequest at 'https://comment.example.com/' from origin 'https://blog.example… |
 | 2026-09-21 | [R#120 沉迷](https://blog.sakanano.moe/journals/random_120) | 2026.9.15 ~ 2026.9.21 |
 | 2026-09-21 | [恒星的结构和演化](https://physnya.top/compact-object/lesson-2-star-structure-and-evolution/) | 建立恒星的方程，我们通常考虑质量守恒、静力学平衡、能量守恒和反应几个角度. 质量守恒： d M d r = 4 π r 2 ρ ( r ) \frac{\mathrm{d}M}{\mathrm{d}r}=4\pi r^2\rho(r) d r d M ​ = 4 π r 2 ρ ( r ) |
