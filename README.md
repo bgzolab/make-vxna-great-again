@@ -27,6 +27,10 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-09-23 | [Zuma updated](https://macsourceports.com/game/zuma) | The build of Zuma Portable for Zuma has been updated to version 0.9 of the project |
+| 2026-09-23 | [我如何看待充值这件事儿](https://blog.solazy.me/20260923/) | 今天聊聊充值这件事 |
+| 2026-09-23 | [Register Token以及对变形金刚AI的四大批判](https://blog.est.im/2026/stdin-19) | 前几天 Yann LeCun 对 变形金刚(transformers) AI 进行了深刻的 批判 First, the reasoning abilities of current AI systems are based non-auto-regressive search (which is w… |
+| 2026-09-23 | [聪明 Agent 四套路 和 人肉学习](https://blog.est.im/2026/stdin-18) | nVIDIA 联合 NTU，MIT 联合研究了一项关于 Agent harness 自我提升的 研究 ，项目叫 SoL-Pi ， Scaling Auto-Research Loops for Efficient Agent Harnesses 让 Research Agent 自动发现 Harne… |
 | 2026-09-23 | [脑袋空空](https://blog.oospace.com/posts/2026-09-23/) | 与其每天被各种废料信息填满，不如放空大脑 |
 | 2026-09-23 | [野人编年史](http://imlane.zhanglintc.co/ye-ren-bian-nian-shi) | 野人编年史 野人创始人 徐队 ，群昵称Shogun。姓徐，称徐队，真野人队长，野人 抖音官号 持有者。 张队 ，群昵称张小不。江湖人称竹节虫，简称虫队。 熊队 ，群昵称熊嘎婆，称熊队。 野人CLUB游泳事业部 群主。 亮队 ，群昵称亮什么，称亮队，野人 小红书官号 持有者。 野人声明 从 泳往直前… |
 | 2026-09-23 | [解决宝塔安装 PG 失败的问题](https://blog.frytea.com/archives/32464) | 在宝塔面板安装 PostgreSQL 时遇到 `pgsql_install.sh: 83: Syntax er […] |
@@ -39,7 +43,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-09-22 | [OpenAI 这波完败啊，老家都被掀了](https://versun.me/blog/tweet-2102547956507595242) | OpenAI 这波完败啊，老家都被掀了 人家 Opus 5.5 这次目标是 GPT 6 Astra， 而 OpenAI 傻傻的还在挤牙膏，发布中小杯的 sol 和 luna 这不得赶紧掏个 GPT 7 出来，否则没得玩 |
 | 2026-09-22 | [「折腾」水水的不想月报](https://www.wdssmq.com/post/20140225001.html) | 周期性的熬夜和心流 上星期也是达成了 git 满勤（9.13 ~ 9.19）。。 ；之前一次是 1.4 ~ 1.10。。 这篇文章主要也是想水一下这段时期的成果。。 AI 额度就不够了…… 这里是一条广告：[ShortSth:硅基流动][/ShortSth] 今天 9.23，这一周期的集中代码时间差… |
 | 2026-09-22 | [Chris Sawyer's Locomotion updated](https://macsourceports.com/game/locomotion) | The build of OpenLoco for Chris Sawyer's Locomotion has been updated to version 26.09 of the project |
-| 2026-09-22 | [PIVOT Vol.21](https://anotherdayu.com/pivot-vol21/) | tamaNOTchi 网页版电子宠物，能贴到自己的博客上当挂件。支持静态博客等多种网站格式！ Anthropeum 大都会博物馆版的 GeoGuessr：给你一件文物，猜年代和产地，每天一题，能像 Wordle 那样分享成绩。适合地理和历史爱好者。 Pokemon tree of life 宝可梦三… |
+| 2026-09-22 | [PIVOT Vol.21](https://anotherdayu.com/pivot-vol21/) | 不定期更新的 Newsletter。 Mak5er/AirCard 可以在不越狱的情况下修改 Apple Wallet 卡面和锁屏界面，最近还增加了 iOS 版： Mak5er/AirCard-iOS 。 tamaNOTchi 网页版电子宠物，能贴到自己的博客上当挂件。支持静态博客等多种网站格式！… |
 | 2026-09-22 | [普洱采茶：杀青烫手，和我那杯叫不响的永川秀芽](https://macin.org/2026/09/22/pu-er-cai-cha/) | 阅读全文 → 上一篇在普洱的山里采了三筐菌子， 敢下锅的没几样 ；这一篇，还是普洱，蹲进茶垄里，炒了一锅自己都怕的 烈茶 。 |
 | 2026-09-22 | [Java 服务 CPU 打满排查笔记](https://199604.com/3720) | Java 服务 CPU 打满排查笔记 记录时间：2026-09-19 环境：Linux 服务器 / Java […] |
 | 2026-09-22 | [M03车机如何使用网易云音乐「神光模式」？保姆级教程分享【效率工具指南】](https://penghh.fun/2026/09/22/2026-9-22-m03music/) | <script src=" |

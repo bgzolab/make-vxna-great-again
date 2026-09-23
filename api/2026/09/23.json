@@ -1,5 +1,33 @@
 [
   {
+    "title": "Zuma updated",
+    "url": "https://macsourceports.com/game/zuma",
+    "date": "2026-09-23T15:38:56Z",
+    "description": "The build of Zuma Portable for Zuma has been updated to version 0.9 of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "我如何看待充值这件事儿",
+    "url": "https://blog.solazy.me/20260923/",
+    "date": "2026-09-23T13:30:00Z",
+    "description": "今天聊聊充值这件事",
+    "source_root_domain": "solazy.me"
+  },
+  {
+    "title": "Register Token以及对变形金刚AI的四大批判",
+    "url": "https://blog.est.im/2026/stdin-19",
+    "date": "2026-09-23T12:21:00Z",
+    "description": "前几天 Yann LeCun 对 变形金刚(transformers) AI 进行了深刻的 批判 First, the reasoning abilities of current AI systems are based non-auto-regressive search (which is what I have always advocated for). But AFAICT, they do it in token space, which is limited and inefficient. I have claimed that human-like reasoning must be a search in continuous representation space. It looks like the industry is moving towards that. Second, the self-improvement methods, as currently practiced, only work for domains where the qual",
+    "source_root_domain": "feedburner.com"
+  },
+  {
+    "title": "聪明 Agent 四套路 和 人肉学习",
+    "url": "https://blog.est.im/2026/stdin-18",
+    "date": "2026-09-23T12:21:00Z",
+    "description": "nVIDIA 联合 NTU，MIT 联合研究了一项关于 Agent harness 自我提升的 研究 ，项目叫 SoL-Pi ， Scaling Auto-Research Loops for Efficient Agent Harnesses 让 Research Agent 自动发现 Harness 里的 Token 浪费，再通过大规模实验筛掉无效改法。把结论再放进大量环境中反复测试。整个探索一共 152 个候选方向，分成 context、progress、tools、delegation、prompt/policy、improvement/evaluation 六类，然后把这些想法扔进大量相互隔离的 research lineage 里，让 agent 自己观察 trajectory、提出机制、实现、review、跑实验、继续修改。最终用了 535 个可执行搜索环境，其中 495 个来自 GitHub issue-PR pair，40 个是 verifier-driven synthetic tasks；论文说总共跑了 3000+ 次实验和 60000+ 次 agent-envi",
+    "source_root_domain": "feedburner.com"
+  },
+  {
     "title": "脑袋空空",
     "url": "https://blog.oospace.com/posts/2026-09-23/",
     "date": "2026-09-23T10:00:00Z",
@@ -87,7 +115,7 @@
     "title": "PIVOT Vol.21",
     "url": "https://anotherdayu.com/pivot-vol21/",
     "date": "2026-09-22T21:54:00Z",
-    "description": "tamaNOTchi 网页版电子宠物，能贴到自己的博客上当挂件。支持静态博客等多种网站格式！ Anthropeum 大都会博物馆版的 GeoGuessr：给你一件文物，猜年代和产地，每天一题，能像 Wordle 那样分享成绩。适合地理和历史爱好者。 Pokemon tree of life 宝可梦三十周年，《海峡时报》做的一张互动网页树形网络图，很好的展示宝可梦的历史脉络，和与现实世界的联系！ NeoDB 大改版了呀，好看！ Extensive childhood experience with Pokémon suggests eccentricity drives organization of visual cortex 斯坦福的一篇 Nature Human Behaviour，扫描了一批从小狂玩宝可梦的成年人，发现他们的视觉皮层里真的长出了一块\"宝可梦专区\"。童年花掉的时间是会在脑子里留痕的。 Mechanical Pencil 用插画拆解日常物品的内部构造：圆珠笔、打火机、Pez 糖果盒。 Poop Map 把你每一次如厕标记到地图上，还能和朋友比排名。很私人，也很有趣。 ",
+    "description": "不定期更新的 Newsletter。 Mak5er/AirCard 可以在不越狱的情况下修改 Apple Wallet 卡面和锁屏界面，最近还增加了 iOS 版： Mak5er/AirCard-iOS 。 tamaNOTchi 网页版电子宠物，能贴到自己的博客上当挂件。支持静态博客等多种网站格式！ Anthropeum 大都会博物馆版的 GeoGuessr：给你一件文物，猜年代和产地，每天一题，能像 Wordle 那样分享成绩。适合地理和历史爱好者。 Pokemon tree of life 宝可梦三十周年，《海峡时报》做的一张互动网页树形网络图，很好的展示宝可梦的历史脉络，和与现实世界的联系！ NeoDB 大改版了呀，好看！ Extensive childhood experience with Pokémon suggests eccentricity drives organization of visual cortex 斯坦福的一篇 Nature Human Behaviour，扫描了一批从小狂玩宝可梦的成年人，发现他们的视觉皮层里真的长出了一块\"宝可梦专区\"。童年花掉的时间",
     "source_root_domain": "anotherdayu.com"
   },
   {
