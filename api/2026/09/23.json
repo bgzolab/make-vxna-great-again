@@ -1,5 +1,54 @@
 [
   {
+    "title": "2026.9.22",
+    "url": "https://www.justzht.com/2026-9-22/",
+    "date": "2026-09-23T04:14:29Z",
+    "description": "最近都干了啥？ 周六和阳哥吃了四川菜。虽然都一直在湾区，但估计有三四年没见着面，然后见我他说我胖了，我",
+    "source_root_domain": "justzht.com"
+  },
+  {
+    "title": "古早石榴味",
+    "url": "https://www.hecaitou.com/2026/09/old-taste-pomegranates.html",
+    "date": "2026-09-23T04:08:08Z",
+    "description": "在我很小的时候，认为最好吃的石榴来自东川外婆家。昆明的石榴不好吃，不如东川石榴大，也不如东川石榴甜。今天的东川虽然只是昆明的一个区，相距 150 公里，但在当年坐车过去要一整天，夏季的时候还有泥石流中断公路的危险。因此，当舅舅他们请托公车司机带一份石榴来我家时，算得上是一次小型节日，连带着石榴也似乎更美味一些。 等我年长一些，发现同学们对于石榴有另外一种评价，他们声称云南最好的石榴是蒙自石榴，皮薄、个大、酸甜可口，别处没有任何一种石榴能与之相比。我没有办法辩驳，因为这是大家的共识，我一个人捍卫不了东川石榴。但是蒙自在哪里呢？我在地图上查过，觉得天远地远，已经快到边境。从那里运一车石榴来昆明，怕不是人人都能吃得上。 后来我还是吃上了蒙自石榴，那时候我已经在航空公司上班，高速公路网正在全省铺开，我们自己下班后驱车 100 公里以上去吃顿地方特色也变得很寻常。蒙自石榴也变得很常见，的确如同传说中一样好，不过这里需要强调一点，在那个时代里，人们关于水果的好只有一个朴素的标准：甜。 蒙自石榴确乎要比云南其他地方的石榴甜一些，尤其是昆明附近的本地货。再加上更加丰满，更加硕大，更加多汁，更加薄皮，全",
+    "source_root_domain": "hecaitou.com"
+  },
+  {
+    "title": "Memos: 风云不语，只是一个劲儿的赠送重置卡",
+    "url": "https://blog.yasking.org/a/1790127856",
+    "date": "2026-09-23T02:17:23Z",
+    "description": "2026 年 9 月 22 日 Anthropic 发布 Claude Opus 5.5，同时赠送了一张重置卡（引入用户自主点击重置卡）。 同一天，OpenAI 发布 GPT-6 Sol 和 GPT-6 Luna 模型，也赠送 …",
+    "source_root_domain": "yasking.org"
+  },
+  {
+    "title": "给 Twikoo 接入 Jev，用 AI 判断博客评论是不是广告",
+    "url": "https://liudon.com/posts/twikoo-jev-spam-detection/",
+    "date": "2026-09-23T01:57:24Z",
+    "description": "前言 最近 Jev 火了，时间线上全是讨论这个新模型的内容。 Jev 是 TypeSafe AI 发布的首个 System One 模型，主要面向软件中的快速、结构化决策。 和 ChatGPT、Claude 这类偏文本生成的大模型不太一样，它更偏向于“做判断”：输入一组状态和问题，直接返回结构化的判断结果以及概率。",
+    "source_root_domain": "liudon.com"
+  },
+  {
+    "title": "爹而不自知 III",
+    "url": "https://mobius.blog/25768.html",
+    "date": "2026-09-23T01:30:00Z",
+    "description": "这个系列发布后，我又收到常来博客互动的朋友的私信，他的观点正好引出了今天要继续讨论的内容： 如果一个人表现出居 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。",
+    "source_root_domain": "onojyun.com"
+  },
+  {
+    "title": "OpenAI 这波完败啊，老家都被掀了",
+    "url": "https://versun.me/blog/tweet-2102547956507595242",
+    "date": "2026-09-22T23:57:50Z",
+    "description": "OpenAI 这波完败啊，老家都被掀了 人家 Opus 5.5 这次目标是 GPT 6 Astra， 而 OpenAI 傻傻的还在挤牙膏，发布中小杯的 sol 和 luna 这不得赶紧掏个 GPT 7 出来，否则没得玩",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "「折腾」水水的不想月报",
+    "url": "https://www.wdssmq.com/post/20140225001.html",
+    "date": "2026-09-22T23:56:51Z",
+    "description": "周期性的熬夜和心流 上星期也是达成了 git 满勤（9.13 ~ 9.19）。。 ；之前一次是 1.4 ~ 1.10。。 这篇文章主要也是想水一下这段时期的成果。。 AI 额度就不够了…… 这里是一条广告：[ShortSth:硅基流动][/ShortSth] 今天 9.23，这一周期的集中代码时间差不多就是上月 23 号开始的。。 ；就已经开始「不想」写了，跳过一部分； ；总之一个经验就是合并分支后别用 VSCode 带的「推送/同步」功能，直接命令行，前者在「非快进式合并」下会触发 rebase，导致已经解决的冲突要现来一遍； Z-BlogPHP 主仓库 1.8 在 dev/zbp18 分支； 1.7 和 1.8 都有发测试打包： Releases · zblogcn/zblogphp ； 共有改进是加了 zbinstall/cli.php 可以命令行完成安装。。；就「不想」写单独的使用文档 1.8 的初期设想是，在看起来和用起来没啥区别的前提下完成后台的模板化作为第一版，然而塞的东西有点多拖了进度。。 zblogcn/zblogphp: Z-BlogPHP 博客程序 https:/",
+    "source_root_domain": "wdssmq.com"
+  },
+  {
     "title": "Chris Sawyer's Locomotion updated",
     "url": "https://macsourceports.com/game/locomotion",
     "date": "2026-09-22T23:31:59Z",
@@ -56,6 +105,13 @@
     "source_root_domain": "arlmy.me"
   },
   {
+    "title": "为啥你们的成品质量都好好啊，这是烧了多少",
+    "url": "https://versun.me/blog/tweet-2102349099161026675",
+    "date": "2026-09-22T10:47:39Z",
+    "description": "Ding https://x.com/i/article/2102306610626662400 为啥你们的成品质量都好好啊，这是烧了多少积分，费了多少时间做的，太牛了",
+    "source_root_domain": "versun.me"
+  },
+  {
     "title": "景行行止，一座公共历史人物纪念档案，域名是huainian.org",
     "url": "https://gugegt.com/20260922-huainian-org.html",
     "date": "2026-09-22T10:30:00Z",
@@ -82,6 +138,13 @@
     "date": "2026-09-22T08:54:29Z",
     "description": "好像是 MICRO2026，ANN-SNN 混合稀疏加速器，Fig.1 的观察和统一 INT8 存储的设计还不错，但这里的 SNN core 更像一个 unary 编码的累加单元？",
     "source_root_domain": "mer.dev"
+  },
+  {
+    "title": "我也玩了下 @Pexoai_offica",
+    "url": "https://versun.me/blog/tweet-2102307878107586652",
+    "date": "2026-09-22T08:03:51Z",
+    "description": "我也玩了下 @Pexoai_offical 我是想做一个绘本动画，我儿子很喜欢《小蛇散步》这个绘本，天天讲个不停，所以想搞个动画给他， 整体效果挺好的，会自动分角色分镜，然后才出视频，就是积分消耗太快了，最后没搞完🥲",
+    "source_root_domain": "versun.me"
   },
   {
     "title": "AI 写得越来越快，我却越来越看不完了",
@@ -166,6 +229,13 @@
     "date": "2026-09-22T01:03:27Z",
     "description": "「but read.」",
     "source_root_domain": "arlmy.me"
+  },
+  {
+    "title": "刚看了下这个jev wechat项目，模",
+    "url": "https://versun.me/blog/tweet-2102201927178371280",
+    "date": "2026-09-22T01:02:51Z",
+    "description": "李韭二 卧槽！ Jev WeChat 微信群聊！已开源！👇 再也不用担心不懂人情事故！ 微信客服！微信群助手！ 再也不用codex哄女朋友了！ https://x.com/Melinda58883532/status/2102008893350277215/video/2?s=46 刚看了下这个jev wechat项目，模型是用 jev + deepseek 通过 Android 无障碍服务读取App 的节点树，兜底是用截图 + 本地 OCR 上下文只有最近 10 条消息 微信能监测到，有封号危险",
+    "source_root_domain": "versun.me"
   },
   {
     "title": "入蜀记 day478 刷剧",

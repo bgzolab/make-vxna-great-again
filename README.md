@@ -27,6 +27,13 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-09-23 | [2026.9.22](https://www.justzht.com/2026-9-22/) | 最近都干了啥？ 周六和阳哥吃了四川菜。虽然都一直在湾区，但估计有三四年没见着面，然后见我他说我胖了，我 |
+| 2026-09-23 | [古早石榴味](https://www.hecaitou.com/2026/09/old-taste-pomegranates.html) | 在我很小的时候，认为最好吃的石榴来自东川外婆家。昆明的石榴不好吃，不如东川石榴大，也不如东川石榴甜。今天的东川虽然只是昆明的一个区，相距 150 公里，但在当年坐车过去要一整天，夏季的时候还有泥石流中断公路的危险。因此，当舅舅他们请托公车司机带一份石榴来我家时，算得上是一次小型节日，连带着石榴也似乎… |
+| 2026-09-23 | [Memos: 风云不语，只是一个劲儿的赠送重置卡](https://blog.yasking.org/a/1790127856) | 2026 年 9 月 22 日 Anthropic 发布 Claude Opus 5.5，同时赠送了一张重置卡（引入用户自主点击重置卡）。 同一天，OpenAI 发布 GPT-6 Sol 和 GPT-6 Luna 模型，也赠送 … |
+| 2026-09-23 | [给 Twikoo 接入 Jev，用 AI 判断博客评论是不是广告](https://liudon.com/posts/twikoo-jev-spam-detection/) | 前言 最近 Jev 火了，时间线上全是讨论这个新模型的内容。 Jev 是 TypeSafe AI 发布的首个 System One 模型，主要面向软件中的快速、结构化决策。 和 ChatGPT、Claude 这类偏文本生成的大模型不太一样，它更偏向于“做判断”：输入一组状态和问题，直接返回结构化的判… |
+| 2026-09-23 | [爹而不自知 III](https://mobius.blog/25768.html) | 这个系列发布后，我又收到常来博客互动的朋友的私信，他的观点正好引出了今天要继续讨论的内容： 如果一个人表现出居 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
+| 2026-09-22 | [OpenAI 这波完败啊，老家都被掀了](https://versun.me/blog/tweet-2102547956507595242) | OpenAI 这波完败啊，老家都被掀了 人家 Opus 5.5 这次目标是 GPT 6 Astra， 而 OpenAI 傻傻的还在挤牙膏，发布中小杯的 sol 和 luna 这不得赶紧掏个 GPT 7 出来，否则没得玩 |
+| 2026-09-22 | [「折腾」水水的不想月报](https://www.wdssmq.com/post/20140225001.html) | 周期性的熬夜和心流 上星期也是达成了 git 满勤（9.13 ~ 9.19）。。 ；之前一次是 1.4 ~ 1.10。。 这篇文章主要也是想水一下这段时期的成果。。 AI 额度就不够了…… 这里是一条广告：[ShortSth:硅基流动][/ShortSth] 今天 9.23，这一周期的集中代码时间差… |
 | 2026-09-22 | [Chris Sawyer's Locomotion updated](https://macsourceports.com/game/locomotion) | The build of OpenLoco for Chris Sawyer's Locomotion has been updated to version 26.09 of the project |
 | 2026-09-22 | [PIVOT Vol.21](https://anotherdayu.com/pivot-vol21/) | tamaNOTchi 网页版电子宠物，能贴到自己的博客上当挂件。支持静态博客等多种网站格式！ Anthropeum 大都会博物馆版的 GeoGuessr：给你一件文物，猜年代和产地，每天一题，能像 Wordle 那样分享成绩。适合地理和历史爱好者。 Pokemon tree of life 宝可梦三… |
 | 2026-09-22 | [普洱采茶：杀青烫手，和我那杯叫不响的永川秀芽](https://macin.org/2026/09/22/pu-er-cai-cha/) | 阅读全文 → 上一篇在普洱的山里采了三筐菌子， 敢下锅的没几样 ；这一篇，还是普洱，蹲进茶垄里，炒了一锅自己都怕的 烈茶 。 |
@@ -35,10 +42,12 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-09-22 | [入蜀记 day484 桂香入肺](https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_484/) | 「桂香入肺。」 |
 | 2026-09-22 | [入蜀记 day483 真的能复现吗？](https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_483/) | 「真的能复现吗？」 |
 | 2026-09-22 | [入蜀记 day482 听友聚会](https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_482/) | 「听友聚会。」 |
+| 2026-09-22 | [为啥你们的成品质量都好好啊，这是烧了多少](https://versun.me/blog/tweet-2102349099161026675) | Ding https://x.com/i/article/2102306610626662400 为啥你们的成品质量都好好啊，这是烧了多少积分，费了多少时间做的，太牛了 |
 | 2026-09-22 | [景行行止，一座公共历史人物纪念档案，域名是huainian.org](https://gugegt.com/20260922-huainian-org.html) | 前几天，我的一个新项目上线了：景行行止，网址 huainian.org 。 名字取自《诗经》里的"高山仰止，景行行止"。高山让人仰望，大道让人追随。网站的副标题是，怀念每一个值得记住的人。顺便坦白一句，这个名字我到现在还觉得有点别扭，可能还会改，先这么叫着。 打开首页，顶部四个大字加一个搜索框，往下… |
 | 2026-09-22 | [深呼吸](https://www.gtdstudy.com/posts/2026-09-21-deep-breath/) | 朋友，上周我又做了不少事情，而且收获良多，忍不住跟你分享！ Awesome-Jev 星标超过 1000 个了！ 自上周 Jev 发布之后，我跟进了一个 Awesome-Jev 的 Github 仓库，很受欢迎。这大概是我历史上增速最快的 Github 仓库，仅仅一周就获得了破千的星标，每天都有十多个… |
 | 2026-09-22 | [动起来，否则你就要费劲思考了](https://www.gtdstudy.com/posts/2026-09-15-pascal/) | 一段时间没写信了，你还好吗？再次提起笔来，真是让人开心，每一次写信都是你我的一次重逢，为了这份不断的缘分，我也要提笔写下去。 X 的关注量突破 5000 最近，我在 X 上的粉丝突破了 5000 人，不算多，也不算少。但现在 X 上的内容更新，基本上是我指挥 Agent 来处理的，我每天除了对着一张… |
 | 2026-09-22 | [NeuroFlex: Lossless Element-Level ANN-SNN Co-Execution for Efficient Sparse Inference](https://mer.run/posts/neuroflexlossless-element-level-ann-snn-co-execution-for-efficient-sparse-inference/) | 好像是 MICRO2026，ANN-SNN 混合稀疏加速器，Fig.1 的观察和统一 INT8 存储的设计还不错，但这里的 SNN core 更像一个 unary 编码的累加单元？ |
+| 2026-09-22 | [我也玩了下 @Pexoai_offica](https://versun.me/blog/tweet-2102307878107586652) | 我也玩了下 @Pexoai_offical 我是想做一个绘本动画，我儿子很喜欢《小蛇散步》这个绘本，天天讲个不停，所以想搞个动画给他， 整体效果挺好的，会自动分角色分镜，然后才出视频，就是积分消耗太快了，最后没搞完🥲 |
 | 2026-09-22 | [AI 写得越来越快，我却越来越看不完了](https://www.tortorse.com/archives/ai-writes-faster-than-i-can-read/) | 深夜里，一个人面对 AI 生成的大量文档和图片 |
 | 2026-09-22 | [不想好就开口的是什么人](https://kaix.in/2026/0922/) | 我对语音输入一事毫无研究，而且一直费解，真的会有人偏爱使用语音输入的方式来记录文章吗？文学史上倒是不乏先例，一些作家出于身体原因由助手转录口述来完成写作，但结果往往是行文变得冗长、繁复，句式枝蔓丛生。 作家尚且如此，而我们……恰好看到腾讯又出了一款集成了 AI 能力的语音输入法，口号竟然是「不必想好… |
 | 2026-09-22 | [今年抱怨的人要比去年更多一些](https://www.hecaitou.com/2026/09/More-Complaints-This-Year-Than-Last.html) | 在后台我每天都会收到很多留言，就我个人的感觉，今年抱怨的人要比去年更多一些，而去年抱怨的人又要比前年更多一些。 大多内容是抱怨伴侣，或者抱怨孩子，刚好都落在我的经验盲区。我知道，对方并不需要我出主意，只是想找个地方倾诉。但是看得多了，我开始担忧自己，担忧自己因此形成了关于婚恋和家庭教育的错误认知，觉… |
@@ -51,6 +60,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-09-22 | [入蜀记 day481 同一个老板](https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_481/) | 「同一个老板。」 |
 | 2026-09-22 | [入蜀记 day480 卧底厨神](https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_480/) | 「卧底厨神。」 |
 | 2026-09-22 | [入蜀记 day479 but read](https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_479/) | 「but read.」 |
+| 2026-09-22 | [刚看了下这个jev wechat项目，模](https://versun.me/blog/tweet-2102201927178371280) | 李韭二 卧槽！ Jev WeChat 微信群聊！已开源！👇 再也不用担心不懂人情事故！ 微信客服！微信群助手！ 再也不用codex哄女朋友了！ https://x.com/Melinda58883532/status/2102008893350277215/video/2?s=46 刚看了下这个je… |
 | 2026-09-22 | [入蜀记 day478 刷剧](https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_478/) | 「刷剧。」 |
 | 2026-09-21 | [Twikoo 2.x 升级踩坑：Netlify CORS 报错与解决方案](https://liudon.com/posts/twikoo-2-netlify-cors/) | 前言 刚更新完上一篇 《我给博客做了一个时光机》 ，顺手打开文章看看效果，结果发现评论区挂了。 浏览器控制台报错： Access to XMLHttpRequest at 'https://comment.example.com/' from origin 'https://blog.example… |
 | 2026-09-21 | [R#120 沉迷](https://blog.sakanano.moe/journals/random_120) | 2026.9.15 ~ 2026.9.21 |
