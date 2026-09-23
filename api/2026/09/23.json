@@ -1,5 +1,12 @@
 [
   {
+    "title": "老鹰主机十年用户第一次买老鹰VPS，7个机房速度实测",
+    "url": "https://gugegt.com/20260924-vps-datacenter-network-test.html",
+    "date": "2026-09-23T16:00:00Z",
+    "description": "老鹰主机用了十年，这次第一次买它家的 VPS，卡在最后一栏：机房。 配置选完，系统选完，下面一长串城市名。洛杉矶、达拉斯、纽约、伦敦、香港、新加坡、多伦多。地图摊开一看，答案明摆着，香港最近，新加坡也不远。 下单前我把七个机房的测试 IP 挨个跑了一轮，每个四次。结果跟地图的顺序完全不搭。 数据摆在这儿 机房 测试 IP 实测延迟 成功率 网络特点 洛杉矶 198.252.98.33 196ms 4/4 唯一有 China Unicom 直连，另有 PCCW、HiNet 达拉斯 198.252.99.103 202ms 4/4 Cogent、Zayo、Telia，美欧向，无亚洲运营商 香港 172.96.185.182 203ms 1/4 PCCW、HKIX、NTT，75% 丢包，实际不可用 伦敦 103.119.217.9 222ms 4/4 15 家运营商，欧洲向最强，距离也最远 纽约 172.96.186.146 261ms 3/4 Zayo、Level3、HE.NET、NTT、PCCW 新加坡 172.96.191.102 359ms 4/4 NTT、PCCW、SG-IX，亚洲",
+    "source_root_domain": "gugegt.com"
+  },
+  {
     "title": "Zuma updated",
     "url": "https://macsourceports.com/game/zuma",
     "date": "2026-09-23T15:38:56Z",
