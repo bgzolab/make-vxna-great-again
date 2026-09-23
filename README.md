@@ -27,6 +27,10 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-09-23 | [脑袋空空](https://blog.oospace.com/posts/2026-09-23/) | 与其每天被各种废料信息填满，不如放空大脑 |
+| 2026-09-23 | [野人编年史](http://imlane.zhanglintc.co/ye-ren-bian-nian-shi) | 野人编年史 野人创始人 徐队 ，群昵称Shogun。姓徐，称徐队，真野人队长，野人 抖音官号 持有者。 张队 ，群昵称张小不。江湖人称竹节虫，简称虫队。 熊队 ，群昵称熊嘎婆，称熊队。 野人CLUB游泳事业部 群主。 亮队 ，群昵称亮什么，称亮队，野人 小红书官号 持有者。 野人声明 从 泳往直前… |
+| 2026-09-23 | [解决宝塔安装 PG 失败的问题](https://blog.frytea.com/archives/32464) | 在宝塔面板安装 PostgreSQL 时遇到 `pgsql_install.sh: 83: Syntax er […] |
+| 2026-09-23 | [Muse AI 注册教程：借助 Google Gemini Spark 完成注册](https://liudon.com/posts/muse-ai-registration-with-gemini-spark/) | Muse 是 Meta 于 2026 年 9 月 8 日推出的全球首款面向普通消费者的个人 AI 智能体（AI Agent）应用。 现在仅面向美国和加拿大地区的 18 岁以上用户开放。 在 V2ex 上看到可以通过 Gemini Spark 进行注册，绕过 IP 检测，本文记录整个操作过程。 |
 | 2026-09-23 | [2026.9.22](https://www.justzht.com/2026-9-22/) | 最近都干了啥？ 周六和阳哥吃了四川菜。虽然都一直在湾区，但估计有三四年没见着面，然后见我他说我胖了，我 |
 | 2026-09-23 | [古早石榴味](https://www.hecaitou.com/2026/09/old-taste-pomegranates.html) | 在我很小的时候，认为最好吃的石榴来自东川外婆家。昆明的石榴不好吃，不如东川石榴大，也不如东川石榴甜。今天的东川虽然只是昆明的一个区，相距 150 公里，但在当年坐车过去要一整天，夏季的时候还有泥石流中断公路的危险。因此，当舅舅他们请托公车司机带一份石榴来我家时，算得上是一次小型节日，连带着石榴也似乎… |
 | 2026-09-23 | [Memos: 风云不语，只是一个劲儿的赠送重置卡](https://blog.yasking.org/a/1790127856) | 2026 年 9 月 22 日 Anthropic 发布 Claude Opus 5.5，同时赠送了一张重置卡（引入用户自主点击重置卡）。 同一天，OpenAI 发布 GPT-6 Sol 和 GPT-6 Luna 模型，也赠送 … |
@@ -49,12 +53,12 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-09-22 | [NeuroFlex: Lossless Element-Level ANN-SNN Co-Execution for Efficient Sparse Inference](https://mer.run/posts/neuroflexlossless-element-level-ann-snn-co-execution-for-efficient-sparse-inference/) | 好像是 MICRO2026，ANN-SNN 混合稀疏加速器，Fig.1 的观察和统一 INT8 存储的设计还不错，但这里的 SNN core 更像一个 unary 编码的累加单元？ |
 | 2026-09-22 | [我也玩了下 @Pexoai_offica](https://versun.me/blog/tweet-2102307878107586652) | 我也玩了下 @Pexoai_offical 我是想做一个绘本动画，我儿子很喜欢《小蛇散步》这个绘本，天天讲个不停，所以想搞个动画给他， 整体效果挺好的，会自动分角色分镜，然后才出视频，就是积分消耗太快了，最后没搞完🥲 |
 | 2026-09-22 | [AI 写得越来越快，我却越来越看不完了](https://www.tortorse.com/archives/ai-writes-faster-than-i-can-read/) | 深夜里，一个人面对 AI 生成的大量文档和图片 |
-| 2026-09-22 | [不想好就开口的是什么人](https://kaix.in/2026/0922/) | 我对语音输入一事毫无研究，而且一直费解，真的会有人偏爱使用语音输入的方式来记录文章吗？文学史上倒是不乏先例，一些作家出于身体原因由助手转录口述来完成写作，但结果往往是行文变得冗长、繁复，句式枝蔓丛生。 作家尚且如此，而我们……恰好看到腾讯又出了一款集成了 AI 能力的语音输入法，口号竟然是「不必想好… |
-| 2026-09-22 | [今年抱怨的人要比去年更多一些](https://www.hecaitou.com/2026/09/More-Complaints-This-Year-Than-Last.html) | 在后台我每天都会收到很多留言，就我个人的感觉，今年抱怨的人要比去年更多一些，而去年抱怨的人又要比前年更多一些。 大多内容是抱怨伴侣，或者抱怨孩子，刚好都落在我的经验盲区。我知道，对方并不需要我出主意，只是想找个地方倾诉。但是看得多了，我开始担忧自己，担忧自己因此形成了关于婚恋和家庭教育的错误认知，觉… |
-| 2026-09-22 | [AI泡沫破灭后可能造成的一些影响](https://blog.oospace.com/posts/2026-09-22/) | 准确的说是AGI泡沫破灭后可能造成的影响，准备面对海啸吧 |
-| 2026-09-22 | [注意力机制与限制](https://blog.oospace.com/posts/2026-09-22-a/) | 人类的注意力有限，A(G)I的注意力领先吗 |
-| 2026-09-22 | [搭便车理论](https://blog.oospace.com/posts/2026-09-22-b/) | 世界科技的发展，国家经济的发展，个人的发展是息息相关的，中国搭美国便车，个人能否搭上时代的列车 |
 | 2026-09-22 | [为什么我不再写技术文章](https://blog.oospace.com/posts/2026-09-22-c/) | 不是因为AI，很多年前也一直在写，后来发现大多都是copy别人的，而不是原创的有价值的 |
+| 2026-09-22 | [不想好就开口的是什么人](https://kaix.in/2026/0922/) | 我对语音输入一事毫无研究，而且一直费解，真的会有人偏爱使用语音输入的方式来记录文章吗？文学史上倒是不乏先例，一些作家出于身体原因由助手转录口述来完成写作，但结果往往是行文变得冗长、繁复，句式枝蔓丛生。 作家尚且如此，而我们……恰好看到腾讯又出了一款集成了 AI 能力的语音输入法，口号竟然是「不必想好… |
+| 2026-09-22 | [搭便车理论](https://blog.oospace.com/posts/2026-09-22-b/) | 世界科技的发展，国家经济的发展，个人的发展是息息相关的，中国搭美国便车，个人能否搭上时代的列车 |
+| 2026-09-22 | [今年抱怨的人要比去年更多一些](https://www.hecaitou.com/2026/09/More-Complaints-This-Year-Than-Last.html) | 在后台我每天都会收到很多留言，就我个人的感觉，今年抱怨的人要比去年更多一些，而去年抱怨的人又要比前年更多一些。 大多内容是抱怨伴侣，或者抱怨孩子，刚好都落在我的经验盲区。我知道，对方并不需要我出主意，只是想找个地方倾诉。但是看得多了，我开始担忧自己，担忧自己因此形成了关于婚恋和家庭教育的错误认知，觉… |
+| 2026-09-22 | [注意力机制与限制](https://blog.oospace.com/posts/2026-09-22-a/) | 人类的注意力有限，A(G)I的注意力领先吗 |
+| 2026-09-22 | [AI泡沫破灭后可能造成的一些影响](https://blog.oospace.com/posts/2026-09-22/) | 准确的说是AGI泡沫破灭后可能造成的影响，准备面对海啸吧 |
 | 2026-09-22 | [爹而不自知 II](https://mobius.blog/25763.html) | 继续昨天的话题。 当爹的核心并不是为了当别人爹，而是为了满足自己的心理需求，或是某种身份标签的存在性。具体来说 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-09-22 | [Memos: 看着一点也危险](https://blog.yasking.org/a/1790039812) | 早上骑车路过一个施工现场，远远就看到有个人站在渣土车上 ‘观察’，直直的站着，两脚就踩着车斗的两个边框上（比图中更 … |
 | 2026-09-22 | [入蜀记 day481 同一个老板](https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_481/) | 「同一个老板。」 |

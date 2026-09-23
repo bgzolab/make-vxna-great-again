@@ -1,5 +1,33 @@
 [
   {
+    "title": "脑袋空空",
+    "url": "https://blog.oospace.com/posts/2026-09-23/",
+    "date": "2026-09-23T10:00:00Z",
+    "description": "与其每天被各种废料信息填满，不如放空大脑",
+    "source_root_domain": "oospace.com"
+  },
+  {
+    "title": "野人编年史",
+    "url": "http://imlane.zhanglintc.co/ye-ren-bian-nian-shi",
+    "date": "2026-09-23T06:57:32Z",
+    "description": "野人编年史 野人创始人 徐队 ，群昵称Shogun。姓徐，称徐队，真野人队长，野人 抖音官号 持有者。 张队 ，群昵称张小不。江湖人称竹节虫，简称虫队。 熊队 ，群昵称熊嘎婆，称熊队。 野人CLUB游泳事业部 群主。 亮队 ，群昵称亮什么，称亮队，野人 小红书官号 持有者。 野人声明 从 泳往直前 过来加入的朋友： 野人 在加入 泳往直前 之前就已成立，我们不是另起炉灶，我们也不搞分裂主义，我们永远欢迎 泳往直前 成员加入 野人 。 从小红书、抖音，或者其他途径加入的朋友： 欢迎加入 野人 ，也永远欢迎 野人 的成员随时加入 泳往直前 。 加入 野人 需要认可 野人 ，对组织有认可感、归属感。 野人 创始人均为业余爱好者，但是无论是新手还是高手，都希望大家互相尊重、互相帮助，一起快乐玩水。若参加户外活动请务必正确佩戴跟屁虫，不盲目下水。务必注意自我防护，安全责任自负。 2024年 6月 徐队带张队第一次下凤溪沱。 亮队不时参与凤溪沱游江活动。 10月 熊队正式加入，并介绍徐队、张队加入 大竹林冬泳队 。 徐队、张队、熊队日常于 大竹林冬泳基地 进行户外游泳，队伍初具雏形，并开始尝试冬泳",
+    "source_root_domain": "zhanglintc.co"
+  },
+  {
+    "title": "解决宝塔安装 PG 失败的问题",
+    "url": "https://blog.frytea.com/archives/32464",
+    "date": "2026-09-23T06:36:56Z",
+    "description": "在宝塔面板安装 PostgreSQL 时遇到 `pgsql_install.sh: 83: Syntax er […]",
+    "source_root_domain": "frytea.com"
+  },
+  {
+    "title": "Muse AI 注册教程：借助 Google Gemini Spark 完成注册",
+    "url": "https://liudon.com/posts/muse-ai-registration-with-gemini-spark/",
+    "date": "2026-09-23T04:30:00Z",
+    "description": "Muse 是 Meta 于 2026 年 9 月 8 日推出的全球首款面向普通消费者的个人 AI 智能体（AI Agent）应用。 现在仅面向美国和加拿大地区的 18 岁以上用户开放。 在 V2ex 上看到可以通过 Gemini Spark 进行注册，绕过 IP 检测，本文记录整个操作过程。",
+    "source_root_domain": "liudon.com"
+  },
+  {
     "title": "2026.9.22",
     "url": "https://www.justzht.com/2026-9-22/",
     "date": "2026-09-23T04:14:29Z",
@@ -154,11 +182,25 @@
     "source_root_domain": "tortorse.com"
   },
   {
+    "title": "为什么我不再写技术文章",
+    "url": "https://blog.oospace.com/posts/2026-09-22-c/",
+    "date": "2026-09-22T06:00:00Z",
+    "description": "不是因为AI，很多年前也一直在写，后来发现大多都是copy别人的，而不是原创的有价值的",
+    "source_root_domain": "oospace.com"
+  },
+  {
     "title": "不想好就开口的是什么人",
     "url": "https://kaix.in/2026/0922/",
     "date": "2026-09-22T05:55:04Z",
     "description": "我对语音输入一事毫无研究，而且一直费解，真的会有人偏爱使用语音输入的方式来记录文章吗？文学史上倒是不乏先例，一些作家出于身体原因由助手转录口述来完成写作，但结果往往是行文变得冗长、繁复，句式枝蔓丛生。 作家尚且如此，而我们……恰好看到腾讯又出了一款集成了 AI 能力的语音输入法，口号竟然是「不必想好，开口就好」。和李如一前几天提到的 手写优于打字 的文章放在一起看，就更值得好好琢磨了。 人生于世，向外和物理世界交互，向内琢磨心智。纸张的不同触感被永远光滑的屏幕取代，已然是让渡了具身反馈；而兜售「不必想好」就开口，实在是要把思考也拱手了。不与物理世界联结，也不慢下来审思——这是只看短视频的缸中之脑啊。 fin. 激赏 ！ 来信 。",
     "source_root_domain": "kaix.in"
+  },
+  {
+    "title": "搭便车理论",
+    "url": "https://blog.oospace.com/posts/2026-09-22-b/",
+    "date": "2026-09-22T05:00:00Z",
+    "description": "世界科技的发展，国家经济的发展，个人的发展是息息相关的，中国搭美国便车，个人能否搭上时代的列车",
+    "source_root_domain": "oospace.com"
   },
   {
     "title": "今年抱怨的人要比去年更多一些",
@@ -168,31 +210,17 @@
     "source_root_domain": "hecaitou.com"
   },
   {
-    "title": "AI泡沫破灭后可能造成的一些影响",
-    "url": "https://blog.oospace.com/posts/2026-09-22/",
-    "date": "2026-09-22T03:00:00Z",
-    "description": "准确的说是AGI泡沫破灭后可能造成的影响，准备面对海啸吧",
-    "source_root_domain": "oospace.com"
-  },
-  {
     "title": "注意力机制与限制",
     "url": "https://blog.oospace.com/posts/2026-09-22-a/",
-    "date": "2026-09-22T03:00:00Z",
+    "date": "2026-09-22T04:00:00Z",
     "description": "人类的注意力有限，A(G)I的注意力领先吗",
     "source_root_domain": "oospace.com"
   },
   {
-    "title": "搭便车理论",
-    "url": "https://blog.oospace.com/posts/2026-09-22-b/",
+    "title": "AI泡沫破灭后可能造成的一些影响",
+    "url": "https://blog.oospace.com/posts/2026-09-22/",
     "date": "2026-09-22T03:00:00Z",
-    "description": "世界科技的发展，国家经济的发展，个人的发展是息息相关的，中国搭美国便车，个人能否搭上时代的列车",
-    "source_root_domain": "oospace.com"
-  },
-  {
-    "title": "为什么我不再写技术文章",
-    "url": "https://blog.oospace.com/posts/2026-09-22-c/",
-    "date": "2026-09-22T03:00:00Z",
-    "description": "不是因为AI，很多年前也一直在写，后来发现大多都是copy别人的，而不是原创的有价值的",
+    "description": "准确的说是AGI泡沫破灭后可能造成的影响，准备面对海啸吧",
     "source_root_domain": "oospace.com"
   },
   {
