@@ -1,0 +1,317 @@
+[
+  {
+    "title": "VictoriaLogs 集群 Helm 部署笔记（测试环境）",
+    "url": "https://199604.com/3722",
+    "date": "2026-09-23T23:07:54Z",
+    "description": "VictoriaLogs 集群 Helm 部署笔记（测试环境） 记录时间：2026-09-22 环境：测试集群 […]",
+    "source_root_domain": "199604.com"
+  },
+  {
+    "title": "老鹰主机十年用户第一次买老鹰VPS，7个机房速度实测",
+    "url": "https://gugegt.com/20260924-vps-datacenter-network-test.html",
+    "date": "2026-09-23T16:00:00Z",
+    "description": "老鹰主机用了十年，这次第一次买它家的 VPS，卡在最后一栏：机房。 配置选完，系统选完，下面一长串城市名。洛杉矶、达拉斯、纽约、伦敦、香港、新加坡、多伦多。地图摊开一看，答案明摆着，香港最近，新加坡也不远。 下单前我把七个机房的测试 IP 挨个跑了一轮，每个四次。结果跟地图的顺序完全不搭。 数据摆在这儿 机房 测试 IP 实测延迟 成功率 网络特点 洛杉矶 198.252.98.33 196ms 4/4 唯一有 China Unicom 直连，另有 PCCW、HiNet 达拉斯 198.252.99.103 202ms 4/4 Cogent、Zayo、Telia，美欧向，无亚洲运营商 香港 172.96.185.182 203ms 1/4 PCCW、HKIX、NTT，75% 丢包，实际不可用 伦敦 103.119.217.9 222ms 4/4 15 家运营商，欧洲向最强，距离也最远 纽约 172.96.186.146 261ms 3/4 Zayo、Level3、HE.NET、NTT、PCCW 新加坡 172.96.191.102 359ms 4/4 NTT、PCCW、SG-IX，亚洲",
+    "source_root_domain": "gugegt.com"
+  },
+  {
+    "title": "Zuma updated",
+    "url": "https://macsourceports.com/game/zuma",
+    "date": "2026-09-23T15:38:56Z",
+    "description": "The build of Zuma Portable for Zuma has been updated to version 0.9 of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "我如何看待充值这件事儿",
+    "url": "https://blog.solazy.me/20260923/",
+    "date": "2026-09-23T13:30:00Z",
+    "description": "今天聊聊充值这件事",
+    "source_root_domain": "solazy.me"
+  },
+  {
+    "title": "Register Token以及对变形金刚AI的四大批判",
+    "url": "https://blog.est.im/2026/stdin-19",
+    "date": "2026-09-23T12:21:00Z",
+    "description": "前几天 Yann LeCun 对 变形金刚(transformers) AI 进行了深刻的 批判 First, the reasoning abilities of current AI systems are based non-auto-regressive search (which is what I have always advocated for). But AFAICT, they do it in token space, which is limited and inefficient. I have claimed that human-like reasoning must be a search in continuous representation space. It looks like the industry is moving towards that. Second, the self-improvement methods, as currently practiced, only work for domains where the qual",
+    "source_root_domain": "feedburner.com"
+  },
+  {
+    "title": "聪明 Agent 四套路 和 人肉学习",
+    "url": "https://blog.est.im/2026/stdin-18",
+    "date": "2026-09-23T12:21:00Z",
+    "description": "nVIDIA 联合 NTU，MIT 联合研究了一项关于 Agent harness 自我提升的 研究 ，项目叫 SoL-Pi ， Scaling Auto-Research Loops for Efficient Agent Harnesses 让 Research Agent 自动发现 Harness 里的 Token 浪费，再通过大规模实验筛掉无效改法。把结论再放进大量环境中反复测试。整个探索一共 152 个候选方向，分成 context、progress、tools、delegation、prompt/policy、improvement/evaluation 六类，然后把这些想法扔进大量相互隔离的 research lineage 里，让 agent 自己观察 trajectory、提出机制、实现、review、跑实验、继续修改。最终用了 535 个可执行搜索环境，其中 495 个来自 GitHub issue-PR pair，40 个是 verifier-driven synthetic tasks；论文说总共跑了 3000+ 次实验和 60000+ 次 agent-envi",
+    "source_root_domain": "feedburner.com"
+  },
+  {
+    "title": "脑袋空空",
+    "url": "https://blog.oospace.com/posts/2026-09-23/",
+    "date": "2026-09-23T10:00:00Z",
+    "description": "与其每天被各种废料信息填满，不如放空大脑",
+    "source_root_domain": "oospace.com"
+  },
+  {
+    "title": "野人编年史",
+    "url": "http://imlane.zhanglintc.co/ye-ren-bian-nian-shi",
+    "date": "2026-09-23T06:57:32Z",
+    "description": "野人编年史 野人创始人 徐队 ，群昵称Shogun。姓徐，称徐队，真野人队长，野人 抖音官号 持有者。 张队 ，群昵称张小不。江湖人称竹节虫，简称虫队。 熊队 ，群昵称熊嘎婆，称熊队。 野人CLUB游泳事业部 群主。 亮队 ，群昵称亮什么，称亮队，野人 小红书官号 持有者。 野人声明 从 泳往直前 过来加入的朋友： 野人 在加入 泳往直前 之前就已成立，我们不是另起炉灶，我们也不搞分裂主义，我们永远欢迎 泳往直前 成员加入 野人 。 从小红书、抖音，或者其他途径加入的朋友： 欢迎加入 野人 ，也永远欢迎 野人 的成员随时加入 泳往直前 。 加入 野人 需要认可 野人 ，对组织有认可感、归属感。 野人 创始人均为业余爱好者，但是无论是新手还是高手，都希望大家互相尊重、互相帮助，一起快乐玩水。若参加户外活动请务必正确佩戴跟屁虫，不盲目下水。务必注意自我防护，安全责任自负。 2024年 6月 徐队带张队第一次下凤溪沱。 亮队不时参与凤溪沱游江活动。 10月 熊队正式加入，并介绍徐队、张队加入 大竹林冬泳队 。 徐队、张队、熊队日常于 大竹林冬泳基地 进行户外游泳，队伍初具雏形，并开始尝试冬泳",
+    "source_root_domain": "zhanglintc.co"
+  },
+  {
+    "title": "解决宝塔安装 PG 失败的问题",
+    "url": "https://blog.frytea.com/archives/32464",
+    "date": "2026-09-23T06:36:56Z",
+    "description": "在宝塔面板安装 PostgreSQL 时遇到 `pgsql_install.sh: 83: Syntax er […]",
+    "source_root_domain": "frytea.com"
+  },
+  {
+    "title": "Muse AI 注册教程：借助 Google Gemini Spark 完成注册",
+    "url": "https://liudon.com/posts/muse-ai-registration-with-gemini-spark/",
+    "date": "2026-09-23T04:30:00Z",
+    "description": "Muse 是 Meta 于 2026 年 9 月 8 日推出的全球首款面向普通消费者的个人 AI 智能体（AI Agent）应用。 现在仅面向美国和加拿大地区的 18 岁以上用户开放。 在 V2ex 上看到可以通过 Gemini Spark 进行注册，绕过 IP 检测，本文记录整个操作过程。",
+    "source_root_domain": "liudon.com"
+  },
+  {
+    "title": "2026.9.22",
+    "url": "https://www.justzht.com/2026-9-22/",
+    "date": "2026-09-23T04:14:29Z",
+    "description": "最近都干了啥？ 周六和阳哥吃了四川菜。虽然都一直在湾区，但估计有三四年没见着面，然后见我他说我胖了，我",
+    "source_root_domain": "justzht.com"
+  },
+  {
+    "title": "古早石榴味",
+    "url": "https://www.hecaitou.com/2026/09/old-taste-pomegranates.html",
+    "date": "2026-09-23T04:08:08Z",
+    "description": "在我很小的时候，认为最好吃的石榴来自东川外婆家。昆明的石榴不好吃，不如东川石榴大，也不如东川石榴甜。今天的东川虽然只是昆明的一个区，相距 150 公里，但在当年坐车过去要一整天，夏季的时候还有泥石流中断公路的危险。因此，当舅舅他们请托公车司机带一份石榴来我家时，算得上是一次小型节日，连带着石榴也似乎更美味一些。 等我年长一些，发现同学们对于石榴有另外一种评价，他们声称云南最好的石榴是蒙自石榴，皮薄、个大、酸甜可口，别处没有任何一种石榴能与之相比。我没有办法辩驳，因为这是大家的共识，我一个人捍卫不了东川石榴。但是蒙自在哪里呢？我在地图上查过，觉得天远地远，已经快到边境。从那里运一车石榴来昆明，怕不是人人都能吃得上。 后来我还是吃上了蒙自石榴，那时候我已经在航空公司上班，高速公路网正在全省铺开，我们自己下班后驱车 100 公里以上去吃顿地方特色也变得很寻常。蒙自石榴也变得很常见，的确如同传说中一样好，不过这里需要强调一点，在那个时代里，人们关于水果的好只有一个朴素的标准：甜。 蒙自石榴确乎要比云南其他地方的石榴甜一些，尤其是昆明附近的本地货。再加上更加丰满，更加硕大，更加多汁，更加薄皮，全",
+    "source_root_domain": "hecaitou.com"
+  },
+  {
+    "title": "Memos: 风云不语，只是一个劲儿的赠送重置卡",
+    "url": "https://blog.yasking.org/a/1790127856",
+    "date": "2026-09-23T02:17:23Z",
+    "description": "2026 年 9 月 22 日 Anthropic 发布 Claude Opus 5.5，同时赠送了一张重置卡（引入用户自主点击重置卡）。 同一天，OpenAI 发布 GPT-6 Sol 和 GPT-6 Luna 模型，也赠送 …",
+    "source_root_domain": "yasking.org"
+  },
+  {
+    "title": "给 Twikoo 接入 Jev，用 AI 判断博客评论是不是广告",
+    "url": "https://liudon.com/posts/twikoo-jev-spam-detection/",
+    "date": "2026-09-23T01:57:24Z",
+    "description": "前言 最近 Jev 火了，时间线上全是讨论这个新模型的内容。 Jev 是 TypeSafe AI 发布的首个 System One 模型，主要面向软件中的快速、结构化决策。 和 ChatGPT、Claude 这类偏文本生成的大模型不太一样，它更偏向于“做判断”：输入一组状态和问题，直接返回结构化的判断结果以及概率。",
+    "source_root_domain": "liudon.com"
+  },
+  {
+    "title": "爹而不自知 III",
+    "url": "https://mobius.blog/25768.html",
+    "date": "2026-09-23T01:30:00Z",
+    "description": "这个系列发布后，我又收到常来博客互动的朋友的私信，他的观点正好引出了今天要继续讨论的内容： 如果一个人表现出居 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。",
+    "source_root_domain": "onojyun.com"
+  },
+  {
+    "title": "OpenAI 这波完败啊，老家都被掀了",
+    "url": "https://versun.me/blog/tweet-2102547956507595242",
+    "date": "2026-09-22T23:57:50Z",
+    "description": "OpenAI 这波完败啊，老家都被掀了 人家 Opus 5.5 这次目标是 GPT 6 Astra， 而 OpenAI 傻傻的还在挤牙膏，发布中小杯的 sol 和 luna 这不得赶紧掏个 GPT 7 出来，否则没得玩",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "「折腾」水水的不想月报",
+    "url": "https://www.wdssmq.com/post/20140225001.html",
+    "date": "2026-09-22T23:56:51Z",
+    "description": "周期性的熬夜和心流 上星期也是达成了 git 满勤（9.13 ~ 9.19）。。 ；之前一次是 1.4 ~ 1.10。。 这篇文章主要也是想水一下这段时期的成果。。 AI 额度就不够了…… 这里是一条广告：[ShortSth:硅基流动][/ShortSth] 今天 9.23，这一周期的集中代码时间差不多就是上月 23 号开始的。。 ；就已经开始「不想」写了，跳过一部分； ；总之一个经验就是合并分支后别用 VSCode 带的「推送/同步」功能，直接命令行，前者在「非快进式合并」下会触发 rebase，导致已经解决的冲突要现来一遍； Z-BlogPHP 主仓库 1.8 在 dev/zbp18 分支； 1.7 和 1.8 都有发测试打包： Releases · zblogcn/zblogphp ； 共有改进是加了 zbinstall/cli.php 可以命令行完成安装。。；就「不想」写单独的使用文档 1.8 的初期设想是，在看起来和用起来没啥区别的前提下完成后台的模板化作为第一版，然而塞的东西有点多拖了进度。。 zblogcn/zblogphp: Z-BlogPHP 博客程序 https:/",
+    "source_root_domain": "wdssmq.com"
+  },
+  {
+    "title": "Chris Sawyer's Locomotion updated",
+    "url": "https://macsourceports.com/game/locomotion",
+    "date": "2026-09-22T23:31:59Z",
+    "description": "The build of OpenLoco for Chris Sawyer's Locomotion has been updated to version 26.09 of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "PIVOT Vol.21",
+    "url": "https://anotherdayu.com/pivot-vol21/",
+    "date": "2026-09-22T21:54:00Z",
+    "description": "不定期更新的 Newsletter。 Mak5er/AirCard 可以在不越狱的情况下修改 Apple Wallet 卡面和锁屏界面，最近还增加了 iOS 版： Mak5er/AirCard-iOS 。 tamaNOTchi 网页版电子宠物，能贴到自己的博客上当挂件。支持静态博客等多种网站格式！ Anthropeum 大都会博物馆版的 GeoGuessr：给你一件文物，猜年代和产地，每天一题，能像 Wordle 那样分享成绩。适合地理和历史爱好者。 Pokemon tree of life 宝可梦三十周年，《海峡时报》做的一张互动网页树形网络图，很好的展示宝可梦的历史脉络，和与现实世界的联系！ NeoDB 大改版了呀，好看！ Extensive childhood experience with Pokémon suggests eccentricity drives organization of visual cortex 斯坦福的一篇 Nature Human Behaviour，扫描了一批从小狂玩宝可梦的成年人，发现他们的视觉皮层里真的长出了一块\"宝可梦专区\"。童年花掉的时间",
+    "source_root_domain": "anotherdayu.com"
+  },
+  {
+    "title": "普洱采茶：杀青烫手，和我那杯叫不响的永川秀芽",
+    "url": "https://macin.org/2026/09/22/pu-er-cai-cha/",
+    "date": "2026-09-22T18:27:23Z",
+    "description": "阅读全文 → 上一篇在普洱的山里采了三筐菌子， 敢下锅的没几样 ；这一篇，还是普洱，蹲进茶垄里，炒了一锅自己都怕的 烈茶 。",
+    "source_root_domain": "macin.org"
+  },
+  {
+    "title": "Java 服务 CPU 打满排查笔记",
+    "url": "https://199604.com/3720",
+    "date": "2026-09-22T15:26:14Z",
+    "description": "Java 服务 CPU 打满排查笔记 记录时间：2026-09-19 环境：Linux 服务器 / Java […]",
+    "source_root_domain": "199604.com"
+  },
+  {
+    "title": "M03车机如何使用网易云音乐「神光模式」？保姆级教程分享【效率工具指南】",
+    "url": "https://penghh.fun/2026/09/22/2026-9-22-m03music/",
+    "date": "2026-09-22T13:56:00Z",
+    "description": "<script src=\"",
+    "source_root_domain": "penghh.fun"
+  },
+  {
+    "title": "入蜀记 day484 桂香入肺",
+    "url": "https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_484/",
+    "date": "2026-09-22T13:55:27Z",
+    "description": "「桂香入肺。」",
+    "source_root_domain": "arlmy.me"
+  },
+  {
+    "title": "入蜀记 day483 真的能复现吗？",
+    "url": "https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_483/",
+    "date": "2026-09-22T13:54:27Z",
+    "description": "「真的能复现吗？」",
+    "source_root_domain": "arlmy.me"
+  },
+  {
+    "title": "入蜀记 day482 听友聚会",
+    "url": "https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_482/",
+    "date": "2026-09-22T13:51:27Z",
+    "description": "「听友聚会。」",
+    "source_root_domain": "arlmy.me"
+  },
+  {
+    "title": "为啥你们的成品质量都好好啊，这是烧了多少",
+    "url": "https://versun.me/blog/tweet-2102349099161026675",
+    "date": "2026-09-22T10:47:39Z",
+    "description": "Ding https://x.com/i/article/2102306610626662400 为啥你们的成品质量都好好啊，这是烧了多少积分，费了多少时间做的，太牛了",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "景行行止，一座公共历史人物纪念档案，域名是huainian.org",
+    "url": "https://gugegt.com/20260922-huainian-org.html",
+    "date": "2026-09-22T10:30:00Z",
+    "description": "前几天，我的一个新项目上线了：景行行止，网址 huainian.org 。 名字取自《诗经》里的\"高山仰止，景行行止\"。高山让人仰望，大道让人追随。网站的副标题是，怀念每一个值得记住的人。顺便坦白一句，这个名字我到现在还觉得有点别扭，可能还会改，先这么叫着。 打开首页，顶部四个大字加一个搜索框，往下是人物入口，“从一个名字开始”。这是一个公共历史人物纪念馆，里面现在有一百多位历史人物。每个人都有一座自己的\"纪念馆\"：生平年表、作品、名言、轶事传说，还有墓址和后世遗产。",
+    "source_root_domain": "gugegt.com"
+  },
+  {
+    "title": "深呼吸",
+    "url": "https://www.gtdstudy.com/posts/2026-09-21-deep-breath/",
+    "date": "2026-09-22T09:29:23Z",
+    "description": "朋友，上周我又做了不少事情，而且收获良多，忍不住跟你分享！ Awesome-Jev 星标超过 1000 个了！ 自上周 Jev 发布之后，我跟进了一个 Awesome-Jev 的 Github 仓库，很受欢迎。这大概是我历史上增速最快的 Github 仓库，仅仅一周就获得了破千的星标，每天都有十多个主动提交，可以说非常热闹了。 当然，我搞这个仓库，主要还是方便自己研究。得益于之前 Awesome-Autoresearch 的经验和模板，起这个仓库很快，我并不需要重复讨论应当如何搜集，和整理的问题。 从 Awesome-Jev 收录项目的方向变化，可以看到 …",
+    "source_root_domain": "gtdstudy.com"
+  },
+  {
+    "title": "动起来，否则你就要费劲思考了",
+    "url": "https://www.gtdstudy.com/posts/2026-09-15-pascal/",
+    "date": "2026-09-22T08:55:37Z",
+    "description": "一段时间没写信了，你还好吗？再次提起笔来，真是让人开心，每一次写信都是你我的一次重逢，为了这份不断的缘分，我也要提笔写下去。 X 的关注量突破 5000 最近，我在 X 上的粉丝突破了 5000 人，不算多，也不算少。但现在 X 上的内容更新，基本上是我指挥 Agent 来处理的，我每天除了对着一张选题表选择今天写作的内容，或者想到什么改善点之外，其它的活儿都是 Agent 一手包圆。尽管涨粉的速度在最近 1 个月变得非常迟缓，但我大概摸到了令粉丝量增长的路径——你火啥就发啥。 打字速度最高纪录达到 75wpm 之前我提到自己在通过 Keybr.com …",
+    "source_root_domain": "gtdstudy.com"
+  },
+  {
+    "title": "NeuroFlex: Lossless Element-Level ANN-SNN Co-Execution for Efficient Sparse Inference",
+    "url": "https://mer.run/posts/neuroflexlossless-element-level-ann-snn-co-execution-for-efficient-sparse-inference/",
+    "date": "2026-09-22T08:54:29Z",
+    "description": "好像是 MICRO2026，ANN-SNN 混合稀疏加速器，Fig.1 的观察和统一 INT8 存储的设计还不错，但这里的 SNN core 更像一个 unary 编码的累加单元？",
+    "source_root_domain": "mer.dev"
+  },
+  {
+    "title": "我也玩了下 @Pexoai_offica",
+    "url": "https://versun.me/blog/tweet-2102307878107586652",
+    "date": "2026-09-22T08:03:51Z",
+    "description": "我也玩了下 @Pexoai_offical 我是想做一个绘本动画，我儿子很喜欢《小蛇散步》这个绘本，天天讲个不停，所以想搞个动画给他， 整体效果挺好的，会自动分角色分镜，然后才出视频，就是积分消耗太快了，最后没搞完🥲",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "AI 写得越来越快，我却越来越看不完了",
+    "url": "https://www.tortorse.com/archives/ai-writes-faster-than-i-can-read/",
+    "date": "2026-09-22T06:21:15Z",
+    "description": "深夜里，一个人面对 AI 生成的大量文档和图片",
+    "source_root_domain": "tortorse.com"
+  },
+  {
+    "title": "为什么我不再写技术文章",
+    "url": "https://blog.oospace.com/posts/2026-09-22-c/",
+    "date": "2026-09-22T06:00:00Z",
+    "description": "不是因为AI，很多年前也一直在写，后来发现大多都是copy别人的，而不是原创的有价值的",
+    "source_root_domain": "oospace.com"
+  },
+  {
+    "title": "不想好就开口的是什么人",
+    "url": "https://kaix.in/2026/0922/",
+    "date": "2026-09-22T05:55:04Z",
+    "description": "我对语音输入一事毫无研究，而且一直费解，真的会有人偏爱使用语音输入的方式来记录文章吗？文学史上倒是不乏先例，一些作家出于身体原因由助手转录口述来完成写作，但结果往往是行文变得冗长、繁复，句式枝蔓丛生。 作家尚且如此，而我们……恰好看到腾讯又出了一款集成了 AI 能力的语音输入法，口号竟然是「不必想好，开口就好」。和李如一前几天提到的 手写优于打字 的文章放在一起看，就更值得好好琢磨了。 人生于世，向外和物理世界交互，向内琢磨心智。纸张的不同触感被永远光滑的屏幕取代，已然是让渡了具身反馈；而兜售「不必想好」就开口，实在是要把思考也拱手了。不与物理世界联结，也不慢下来审思——这是只看短视频的缸中之脑啊。 fin. 激赏 ！ 来信 。",
+    "source_root_domain": "kaix.in"
+  },
+  {
+    "title": "搭便车理论",
+    "url": "https://blog.oospace.com/posts/2026-09-22-b/",
+    "date": "2026-09-22T05:00:00Z",
+    "description": "世界科技的发展，国家经济的发展，个人的发展是息息相关的，中国搭美国便车，个人能否搭上时代的列车",
+    "source_root_domain": "oospace.com"
+  },
+  {
+    "title": "今年抱怨的人要比去年更多一些",
+    "url": "https://www.hecaitou.com/2026/09/More-Complaints-This-Year-Than-Last.html",
+    "date": "2026-09-22T04:57:19Z",
+    "description": "在后台我每天都会收到很多留言，就我个人的感觉，今年抱怨的人要比去年更多一些，而去年抱怨的人又要比前年更多一些。 大多内容是抱怨伴侣，或者抱怨孩子，刚好都落在我的经验盲区。我知道，对方并不需要我出主意，只是想找个地方倾诉。但是看得多了，我开始担忧自己，担忧自己因此形成了关于婚恋和家庭教育的错误认知，觉得好像婚恋都很不乐观，孩子的培养也让人绝望，总之是没有什么大团圆的结局。 这样一来，很可能造成家族里我这一支的彻底 灭绝。和姓且白族，这本来就很稀少，世界的多样性全靠我这样的人。 不过，我在生活里也有自己的观察，虽然是间接经验，但是和留言区里的内容完全是两回事。比如说小孩子，我个人感觉是每次吃饭的时候就见风长一大截，十多顿饭之后就去上大学了，然后就不会再在餐桌上见到。 在这十多顿饭之间，他们的父母经常会谈到自己的忧虑，每次都不同。有时候是担忧学习，有时候是担忧身体，有时候是担忧学校教育，有时候是担忧未来就业，给我的感觉是方方面面都要忧虑一遍，或许不止一遍。 然后小孩子一下就长大了，那些忧虑的事情有些自动消失了，有些则是转变为新的忧虑，但是都没所谓，因为孩子飞走了，进入大学，进入社会，开始了自",
+    "source_root_domain": "hecaitou.com"
+  },
+  {
+    "title": "注意力机制与限制",
+    "url": "https://blog.oospace.com/posts/2026-09-22-a/",
+    "date": "2026-09-22T04:00:00Z",
+    "description": "人类的注意力有限，A(G)I的注意力领先吗",
+    "source_root_domain": "oospace.com"
+  },
+  {
+    "title": "AI泡沫破灭后可能造成的一些影响",
+    "url": "https://blog.oospace.com/posts/2026-09-22/",
+    "date": "2026-09-22T03:00:00Z",
+    "description": "准确的说是AGI泡沫破灭后可能造成的影响，准备面对海啸吧",
+    "source_root_domain": "oospace.com"
+  },
+  {
+    "title": "爹而不自知 II",
+    "url": "https://mobius.blog/25763.html",
+    "date": "2026-09-22T01:55:46Z",
+    "description": "继续昨天的话题。 当爹的核心并不是为了当别人爹，而是为了满足自己的心理需求，或是某种身份标签的存在性。具体来说 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。",
+    "source_root_domain": "onojyun.com"
+  },
+  {
+    "title": "Memos: 看着一点也危险",
+    "url": "https://blog.yasking.org/a/1790039812",
+    "date": "2026-09-22T01:19:23Z",
+    "description": "早上骑车路过一个施工现场，远远就看到有个人站在渣土车上 ‘观察’，直直的站着，两脚就踩着车斗的两个边框上（比图中更 …",
+    "source_root_domain": "yasking.org"
+  },
+  {
+    "title": "入蜀记 day481 同一个老板",
+    "url": "https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_481/",
+    "date": "2026-09-22T01:08:27Z",
+    "description": "「同一个老板。」",
+    "source_root_domain": "arlmy.me"
+  },
+  {
+    "title": "入蜀记 day480 卧底厨神",
+    "url": "https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_480/",
+    "date": "2026-09-22T01:05:27Z",
+    "description": "「卧底厨神。」",
+    "source_root_domain": "arlmy.me"
+  },
+  {
+    "title": "入蜀记 day479 but read",
+    "url": "https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_479/",
+    "date": "2026-09-22T01:03:27Z",
+    "description": "「but read.」",
+    "source_root_domain": "arlmy.me"
+  },
+  {
+    "title": "刚看了下这个jev wechat项目，模",
+    "url": "https://versun.me/blog/tweet-2102201927178371280",
+    "date": "2026-09-22T01:02:51Z",
+    "description": "李韭二 卧槽！ Jev WeChat 微信群聊！已开源！👇 再也不用担心不懂人情事故！ 微信客服！微信群助手！ 再也不用codex哄女朋友了！ https://x.com/Melinda58883532/status/2102008893350277215/video/2?s=46 刚看了下这个jev wechat项目，模型是用 jev + deepseek 通过 Android 无障碍服务读取App 的节点树，兜底是用截图 + 本地 OCR 上下文只有最近 10 条消息 微信能监测到，有封号危险",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "入蜀记 day478 刷剧",
+    "url": "https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_478/",
+    "date": "2026-09-22T01:00:27Z",
+    "description": "「刷剧。」",
+    "source_root_domain": "arlmy.me"
+  }
+]

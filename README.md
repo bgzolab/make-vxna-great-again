@@ -27,6 +27,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-09-23 | [VictoriaLogs 集群 Helm 部署笔记（测试环境）](https://199604.com/3722) | VictoriaLogs 集群 Helm 部署笔记（测试环境） 记录时间：2026-09-22 环境：测试集群 […] |
 | 2026-09-23 | [老鹰主机十年用户第一次买老鹰VPS，7个机房速度实测](https://gugegt.com/20260924-vps-datacenter-network-test.html) | 老鹰主机用了十年，这次第一次买它家的 VPS，卡在最后一栏：机房。 配置选完，系统选完，下面一长串城市名。洛杉矶、达拉斯、纽约、伦敦、香港、新加坡、多伦多。地图摊开一看，答案明摆着，香港最近，新加坡也不远。 下单前我把七个机房的测试 IP 挨个跑了一轮，每个四次。结果跟地图的顺序完全不搭。 数据摆在… |
 | 2026-09-23 | [Zuma updated](https://macsourceports.com/game/zuma) | The build of Zuma Portable for Zuma has been updated to version 0.9 of the project |
 | 2026-09-23 | [我如何看待充值这件事儿](https://blog.solazy.me/20260923/) | 今天聊聊充值这件事 |
@@ -159,18 +160,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-09-17 | [根本看不过来](https://www.hecaitou.com/2026/09/Impossible-to-Keep-Up.html) | 曾经有段时间，我的家里堆满了新书，新影碟，但是根本没有时间看。一方面我真诚地相信，我需要看这些书，里面有我需要的知识，我也需要看这些影碟，里面有我需要的娱乐。但是我没时间，进度很慢，于是我就感觉到非常焦虑，觉得自己一直在错失什么。 今天我看到一条帖子，教大家如何把微信接入 AI，这样 AI 就可以帮… |
 | 2026-09-17 | [这个世界暂时还不能没有照相馆](https://mobius.blog/25729.html) | 前两天和老婆在讨论，要不要趁着结婚纪念日，带着两只狗去专业的摄影棚拍套全家福。这件事本身不重要，但它让我意识到 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-09-17 | [这就测出来啦？union alpha 是](https://versun.me/blog/tweet-2100392658690768951) | lifcc @OpenRouter @unionalphaai 是谁家的呢？好难猜啊 这就测出来啦？union alpha 是 OpenCode 家的？什么鬼 |
-| 2026-09-16 | [2026.9.16](https://www.justzht.com/2026-9-16/) | 现在是下午两点四十，我坐在电脑前等着 process server 给我回电话 - 至少他们给我回的邮件是这么说的，‘call back with you shortly’ - |
-| 2026-09-16 | [新旧约通读，以获得安息](https://blog.zzbd.org/miao20260917-2/) | 诗篇 46:1 ：神是我们的避难所，是我们的力量，是我们在患难中随时的帮助。 |
-| 2026-09-16 | [今日祷文](https://blog.zzbd.org/miao20260917/) | 「凡劳苦担重担的人，可以到我这里来，我就使你们得安息。」 ——《马太福音》11:28 当人压力很大的时候，最难的不是事情本身，而是那种“我好像撑不住了、却又必须撑住”的感觉。白天要正常运转，晚上躺下又停不下脑子，像被一根绷得太紧的弦卡住了，既断不了，又松不开。你现在愿意打这一段字出来，其实已经是在求… |
-| 2026-09-16 | [New Release: BRAZILIAN DRUG DEALER BEFORE 4](https://macsourceports.com/game/bddb4) | Are you tired of waiting five years for a new game, only to have it cost even more than last time and then the developers get laid off by a heartless… |
-| 2026-09-16 | [用 Tamper-monkey 集成 Kagi Translate (2) - 結合 Zen 瀏覧器的分屏功能](https://taxodium.ink/integrate-kagi-translate-with-tampermonkey-2.html) | 用 Tamper-monkey 集成 Kagi Translate (2) 結合 Zen 瀏覧器的分屏功能 之前分享了 用 Tamper-monkey 集成 Kagi Translate ，誰能想到還有續集 :P 上次分享後，我又基於我的使用習慣做了一些調整，例如將字典和翻譯用不同窗口呈現，不再複用… |
-| 2026-09-16 | [Zine#58 - 用合理的排版引导讀者閱讀、值得熬夜的事情都值得早起](https://taxodium.ink/58.html) | Zine#58 用合理的排版引导讀者閱讀、值得熬夜的事情都值得早起 目錄 News &#124; Article Cool Bit Tutorial &#124; Resource Code Related AI Related Tool &#124; Library Emacs 一些话 &#124; 摘抄 多媒体 這周又聴了陳嫻静的「如… |
-| 2026-09-16 | [数值分析](https://physnya.top/numerical-analysis/) | README 这里是 的「数值分析」笔记. 本课程在基础科学班的培养方案中属于数理基础课「十选四」，鉴于人工智能的编码能力已经很强，因此本课程比较偏向：对于经典的数学问题，寻求数值算法；对于已有的成果，设计新的算法. |
-| 2026-09-16 | [概论](https://physnya.top/numerical-analysis/lesson-1-introduction/) | 为什么要分析计算结果？ 计算机算出的仅仅只是数值解，而不是精确解. 因此不能盲目采用，需要用不同的方法来具体分析. 误差类型： 模型误差：例如假设地球是一个球，忽略了一些次要因素. 测量误差 截断误差：用有限代替无限，用简单代替复杂导致的误差. 舍入误差：计算机能表示的数都是有限位的. 前两者并不是… |
-| 2026-09-16 | [Nginx 反代裸路径 301 带出后端端口的问题](https://199604.com/3712) | Nginx 反代裸路径 301 带出后端端口的问题 记录时间：2026-09-16 环境：前置 Nginx（/ […] |
-| 2026-09-16 | [从灵感到施工](https://www.hecaitou.com/2026/09/From-Spark-to-Breaking-Ground.html) | 之前我谈过「如何找灵感」的问题，我给出的回答是： 「 你得先行动，行动的过程中就一定会和环境发生碰撞。碰撞过程中你得到新信息，新反馈，于是你受到外界的刺激，而这个刺激会让你产生灵感...... 这些刺激进入你的大脑和心灵，你自然而然会产生反应，有情绪上的，有思考上的，一开始是些碎片，你跟着碎片飘荡，… |
-| 2026-09-16 | [把另一个人拖下水，有助于改善困境吗？II](https://mobius.blog/25724.html) | 前序内容：《把另一个人拖下水，有助于改善困境吗？I》 再聊聊更宏观的“替罪羊机制”。 1954 年，戈登·奥尔 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
-| 2026-09-16 | [办公室读旧约](https://blog.zzbd.org/miao20260916/) | 诗篇 23 1 耶和华是我的牧者，我必不至缺乏。 2 他使我躺卧在青草地上，领我在可安歇的水边。 3 他使我的灵魂苏醒，为自己的名引导我走义路。 4 我虽然行过死荫的幽谷，也不怕遭害，因为你与我同在；你的杖，你的竿，都安慰我。 5 在我敌人面前，你为我摆设筵席；你用油膏了我的头，使我的福杯满溢。 6… |
 
 ## Vibe Coding
 
