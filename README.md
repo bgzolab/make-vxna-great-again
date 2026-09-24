@@ -27,13 +27,19 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-09-24 | [天展钓Tenkara和在Folkestone挖化石](https://anotherdayu.com/tenkara-folkestone/) | 天展钓 Tenkara 在英国试了试天展钓。 它原本是日本山地溪流里的一种钓法。没有线轮，也不需要复杂的饵和线组。 主体就是一根竿，一根线，一只毛钩。 Less is more，钓鱼这件事变得更依赖人本身。要观察鱼在哪里，看水从石头哪一边流过，哪里形成回水，哪里有树荫，哪里水深突然变化。固定长度的线… |
+| 2026-09-24 | [如何优雅地更新 MACOS 系统上的软件](http://yi.gs/post/duo_updater) | 上一次更新正好是一年前，所以更新一下。 既然是为了更新而更新，就来写写如何更新吧 ；） TL;DR：直接看 「更优雅地更新软件」 小节。 关于 macOS 上的软件安装 与 iOS 正常情况下只能通过 App Store 安装 APP 不同，macOS 有类似 Windows 的自由度来安装和使用第… |
+| 2026-09-24 | [高鲁棒性 API 设计之 Idempotency Key：并发请求与执行一致性](https://blog.yasking.org/a/idempotency-key-concurrency-control) | 高鲁棒性 API 设计系列 1 Idempotency Key 幂等键 2 并发请求与执行一致性 上一篇介绍幂等键留下一些问题，幂等键有了，如果两个请 … |
+| 2026-09-24 | [青甘行 序曲](https://hux.ink/posts/qinggan-trip-01/) | 「中秋」说每年带娃出去旅行一趟，今年继续执行。 今年选择的目的地是青海—甘肃大环线自驾游。她原本的计划是国庆期间去海南环岛游，问我要不要去当司机。我说与其去海南，不如再请三天假，与中秋节连休，组个超长假去新疆或走一趟青甘环线。 一拍即合，选定了青甘行。一个多月前，我提前报备请假获批，「中秋」同学便正… |
 | 2026-09-24 | [专业的网络延迟波动检测工具 irtt](https://blog.frytea.com/archives/32470) | irtt 专门测长期延迟稳定性和抖动，按固定间隔发包（如每 10ms 一个），统计 RTT、单向延迟、IPDV […] |
+| 2026-09-24 | [鹈鹕骑自行车的html页面生成测试202609（GPT-6 Astra，Gemini 3.8 flash，DeepSeek 4.1 flash）](https://blog.rustfisher.com/ai/pelican-bike-demo202609-gpt6astra-gemini3-8flash-deepseek4-1flash/) | 鹈鹕骑车测试，用同样的提示词，让不同的AI生成一只鹈鹕骑自行车的HTML页面。GPT-6 Astra，Gemini 3.8 flash，DeepSeek 4.1 flash |
 | 2026-09-24 | [一次内存引起的网络丢包问题排查](https://www.kawabangga.com/posts/7422) | 记录一下最近排查的一个问题：某台机器一上线就有丢包，同 Rack 同规格的其他机器都没有问题，由于负载都是一样 […] Continue reading... |
 | 2026-09-24 | [用AI【做出来】更容易时，怎么做才能赚钱呢？](https://wenfeixiang.com/2026/09/how-to-get-the-value-in-the-ai-era/) | 最近有个搞笑的梗图：随着 AI 能力的增强，开发者越来越多、用户却越来越少，当用户都不够用了、你还指望这些 A […] |
 | 2026-09-24 | [保持不好意思之心](https://www.hecaitou.com/2026/09/holding-onto-that-little-unease.html) | 以前写博客那会儿，文章里但凡加了广告，读者雪崩一般的抱怨就会汹涌而至：你变了！你堕落了！你不纯粹了！好像其中的某一个，就是约翰·列侬人生里听到的最后一句话，接下来就是轰鸣声了。可见大家当初关系之紧张。 现在则是完全反了过来，文章里但凡介绍什么吃的用的，写成一篇纯散文，读者雷鸣一般的怒吼就会扑面而来：… |
 | 2026-09-24 | [噩耗，本站的微软 OneDrive E3 MSDN 存储被停止了，大量下载链接急需更新](https://www.cheshirex.com/11179.html) | 今早打开OneDrive 上传资源发现账号已经被停止了，文件还未被删除。 感觉天塌了，上面资源太多了，要一个一 […] |
 | 2026-09-24 | [Plants vs. Zombies updated](https://macsourceports.com/game/pvz) | The build of PvZ Portable for Plants vs. Zombies has been updated to version 0.2.4 of the project |
 | 2026-09-24 | [LXC 热载入设备文件](https://blog.frytea.com/archives/32467) | 下面以向运行中的 LXC 容器注入 `/dev/vhost-net` 为例讲解。 有两种思路:临时注入 […] |
+| 2026-09-24 | [回国终于安顿下来了，先热个身](https://koukyo.site/posts/startup-warmup-three-carrier-pivots/) | 安顿下来后想热热身，做了个找 YouTuber 邮箱的小工具。同一个后端换了三种壳，从 33 次点击 0 次使用，到有人把 100 次免费额度全部用完。 |
 | 2026-09-24 | [书店消费区](https://mobius.blog/25771.html) | 在书店逛了逛，最后不得不在书店的消费区买了杯茶，落座在几乎没人的昏暗角落。不是因为逛书店逛累了，而是因为书店里 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-09-23 | [VictoriaLogs 集群 Helm 部署笔记（测试环境）](https://199604.com/3722) | VictoriaLogs 集群 Helm 部署笔记（测试环境） 记录时间：2026-09-22 环境：测试集群 […] |
 | 2026-09-23 | [老鹰主机十年用户第一次买老鹰VPS，7个机房速度实测](https://gugegt.com/20260924-vps-datacenter-network-test.html) | 老鹰主机用了十年，这次第一次买它家的 VPS，卡在最后一栏：机房。 配置选完，系统选完，下面一长串城市名。洛杉矶、达拉斯、纽约、伦敦、香港、新加坡、多伦多。地图摊开一看，答案明摆着，香港最近，新加坡也不远。 下单前我把七个机房的测试 IP 挨个跑了一轮，每个四次。结果跟地图的顺序完全不搭。 数据摆在… |
@@ -67,6 +73,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-09-22 | [景行行止，一座公共历史人物纪念档案，域名是huainian.org](https://gugegt.com/20260922-huainian-org.html) | 前几天，我的一个新项目上线了：景行行止，网址 huainian.org 。 名字取自《诗经》里的"高山仰止，景行行止"。高山让人仰望，大道让人追随。网站的副标题是，怀念每一个值得记住的人。顺便坦白一句，这个名字我到现在还觉得有点别扭，可能还会改，先这么叫着。 打开首页，顶部四个大字加一个搜索框，往下… |
 | 2026-09-22 | [深呼吸](https://www.gtdstudy.com/posts/2026-09-21-deep-breath/) | 朋友，上周我又做了不少事情，而且收获良多，忍不住跟你分享！ Awesome-Jev 星标超过 1000 个了！ 自上周 Jev 发布之后，我跟进了一个 Awesome-Jev 的 Github 仓库，很受欢迎。这大概是我历史上增速最快的 Github 仓库，仅仅一周就获得了破千的星标，每天都有十多个… |
 | 2026-09-22 | [动起来，否则你就要费劲思考了](https://www.gtdstudy.com/posts/2026-09-15-pascal/) | 一段时间没写信了，你还好吗？再次提起笔来，真是让人开心，每一次写信都是你我的一次重逢，为了这份不断的缘分，我也要提笔写下去。 X 的关注量突破 5000 最近，我在 X 上的粉丝突破了 5000 人，不算多，也不算少。但现在 X 上的内容更新，基本上是我指挥 Agent 来处理的，我每天除了对着一张… |
+| 2026-09-22 | [NeuroFlex: Lossless Element-Level ANN-SNN Co-Execution for Efficient Sparse Inference](https://mer.dev/posts/neuroflexlossless-element-level-ann-snn-co-execution-for-efficient-sparse-inference/) | 好像是 MICRO2026，ANN-SNN 混合稀疏加速器，Fig.1 的观察和统一 INT8 存储的设计还不错，但这里的 SNN core 更像一个 unary 编码的累加单元？ |
 | 2026-09-22 | [NeuroFlex: Lossless Element-Level ANN-SNN Co-Execution for Efficient Sparse Inference](https://mer.run/posts/neuroflexlossless-element-level-ann-snn-co-execution-for-efficient-sparse-inference/) | 好像是 MICRO2026，ANN-SNN 混合稀疏加速器，Fig.1 的观察和统一 INT8 存储的设计还不错，但这里的 SNN core 更像一个 unary 编码的累加单元？ |
 | 2026-09-22 | [我也玩了下 @Pexoai_offica](https://versun.me/blog/tweet-2102307878107586652) | 我也玩了下 @Pexoai_offical 我是想做一个绘本动画，我儿子很喜欢《小蛇散步》这个绘本，天天讲个不停，所以想搞个动画给他， 整体效果挺好的，会自动分角色分镜，然后才出视频，就是积分消耗太快了，最后没搞完🥲 |
 | 2026-09-22 | [AI 写得越来越快，我却越来越看不完了](https://www.tortorse.com/archives/ai-writes-faster-than-i-can-read/) | 深夜里，一个人面对 AI 生成的大量文档和图片 |

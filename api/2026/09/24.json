@@ -1,10 +1,45 @@
 [
   {
+    "title": "天展钓Tenkara和在Folkestone挖化石",
+    "url": "https://anotherdayu.com/tenkara-folkestone/",
+    "date": "2026-09-24T13:02:00Z",
+    "description": "天展钓 Tenkara 在英国试了试天展钓。 它原本是日本山地溪流里的一种钓法。没有线轮，也不需要复杂的饵和线组。 主体就是一根竿，一根线，一只毛钩。 Less is more，钓鱼这件事变得更依赖人本身。要观察鱼在哪里，看水从石头哪一边流过，哪里形成回水，哪里有树荫，哪里水深突然变化。固定长度的线也意味着，你不能站在岸边把毛钩一直抛向远处，很多时候必须自己走过去。 它甚至不需要真正的饵料。毛钩本身只是羽毛、丝线等材料扎成的人工拟饵。入水后，借助水流和竿尖的轻微动作，可以让毛钩像一只正在漂流、游动，或者落水后挣扎的昆虫，从而吸引鱼类的注意力咬钩。 这种和鱼和环境互动的感觉，很惬意。 以前徒步时，溪流只是沿途风景。开始钓鱼后，才会注意到石后的缓流、窄口后的深潭、树根下的阴影，以及水下石块改变的水流。 Tenkara 和徒步天然地连在了一起，我很喜欢这一点。 Folkestone 挖化石 Folkestone 的黏土海崖非常容易侵蚀。雨水使崖壁崩落，冬季风暴和潮水又不断冲刷海滩，慢慢的将化石剥离出来。所以只要找到合适的区域，很容易捡到化石。 相比于一天只钓上两条鱼，化石的正反馈则多得多。沙",
+    "source_root_domain": "anotherdayu.com"
+  },
+  {
+    "title": "如何优雅地更新 MACOS 系统上的软件",
+    "url": "http://yi.gs/post/duo_updater",
+    "date": "2026-09-24T11:29:40Z",
+    "description": "上一次更新正好是一年前，所以更新一下。 既然是为了更新而更新，就来写写如何更新吧 ；） TL;DR：直接看 「更优雅地更新软件」 小节。 关于 macOS 上的软件安装 与 iOS 正常情况下只能通过 App Store 安装 APP 不同，macOS 有类似 Windows 的自由度来安装和使用第三方软件。 在「设置」-「隐私与安全性」-「安全性」-「允许以下来源的应用程序」中开启「App Store 与已知开发者」后，无论是通过 Homebrew 还是软件官网下载，只要第三方软件满足以下两点即可直接使用： 有效代码签名（Developer ID 证书签名） 开发者加入 99 刀/年的 Apple Developer Program 来获取 Developer ID 证书。 苹果公证（Notarization） 开发者把签好名的 App 上传到 Apple Notary Service，苹果自动扫描通过后打上公证凭证。 关于在 macOS 上更新软件 安装后，对于新版强迫症患者最大的问题是 macOS 上的更新途径非常分散且不够优雅： 使用 App Store 更新 App Stor",
+    "source_root_domain": "yi.gs"
+  },
+  {
+    "title": "高鲁棒性 API 设计之 Idempotency Key：并发请求与执行一致性",
+    "url": "https://blog.yasking.org/a/idempotency-key-concurrency-control",
+    "date": "2026-09-24T11:15:00Z",
+    "description": "高鲁棒性 API 设计系列 1 Idempotency Key 幂等键 2 并发请求与执行一致性 上一篇介绍幂等键留下一些问题，幂等键有了，如果两个请 …",
+    "source_root_domain": "yasking.org"
+  },
+  {
+    "title": "青甘行 序曲",
+    "url": "https://hux.ink/posts/qinggan-trip-01/",
+    "date": "2026-09-24T07:14:56Z",
+    "description": "「中秋」说每年带娃出去旅行一趟，今年继续执行。 今年选择的目的地是青海—甘肃大环线自驾游。她原本的计划是国庆期间去海南环岛游，问我要不要去当司机。我说与其去海南，不如再请三天假，与中秋节连休，组个超长假去新疆或走一趟青甘环线。 一拍即合，选定了青甘行。一个多月前，我提前报备请假获批，「中秋」同学便正式开始研究路线、规划行程和预订住宿，前前后后折腾了一个多月，终于把这趟旅行安排得七七八八。 深圳直飞太贵了，为了省点钱，去程选择了高铁到南昌中转的方案。今晚就要启程去南昌，明天中午还可以在南昌过个中秋节，「中秋」同学也可以在家简单过个生日，明天下午再搭乘航班从南昌飞往西宁。 考虑到这次旅行，我们夫妻二人和小孩同程在路上，要经历高铁、飞机以及十多天的自驾行程。昨晚我做了一个决定，将家庭的财产账户情况在纸条上简单写下，交给了我妈。 说实话，做这件事的时候，心里多少有些异样，包括将纸条给我妈的那一刻她的反应。明明是满怀期待地准备出门旅行，却提前考虑起了万一的事情，总觉得有些不吉利。虽然没有多少财产，但我觉得这是有必要的。常怀敬畏、未雨绸缪。风险本来就客观存在，并不会因为主观上想或者不想而改变。 满",
+    "source_root_domain": "hux.ink"
+  },
+  {
     "title": "专业的网络延迟波动检测工具 irtt",
     "url": "https://blog.frytea.com/archives/32470",
     "date": "2026-09-24T06:42:54Z",
     "description": "irtt 专门测长期延迟稳定性和抖动，按固定间隔发包（如每 10ms 一个），统计 RTT、单向延迟、IPDV […]",
     "source_root_domain": "frytea.com"
+  },
+  {
+    "title": "鹈鹕骑自行车的html页面生成测试202609（GPT-6 Astra，Gemini 3.8 flash，DeepSeek 4.1 flash）",
+    "url": "https://blog.rustfisher.com/ai/pelican-bike-demo202609-gpt6astra-gemini3-8flash-deepseek4-1flash/",
+    "date": "2026-09-24T06:12:59Z",
+    "description": "鹈鹕骑车测试，用同样的提示词，让不同的AI生成一只鹈鹕骑自行车的HTML页面。GPT-6 Astra，Gemini 3.8 flash，DeepSeek 4.1 flash",
+    "source_root_domain": "rustfisher.com"
   },
   {
     "title": "一次内存引起的网络丢包问题排查",
@@ -47,6 +82,13 @@
     "date": "2026-09-24T02:34:14Z",
     "description": "下面以向运行中的 LXC 容器注入 `/dev/vhost-net` 为例讲解。 有两种思路:临时注入 […]",
     "source_root_domain": "frytea.com"
+  },
+  {
+    "title": "回国终于安顿下来了，先热个身",
+    "url": "https://koukyo.site/posts/startup-warmup-three-carrier-pivots/",
+    "date": "2026-09-24T02:00:00Z",
+    "description": "安顿下来后想热热身，做了个找 YouTuber 邮箱的小工具。同一个后端换了三种壳，从 33 次点击 0 次使用，到有人把 100 次免费额度全部用完。",
+    "source_root_domain": "koukyo.site"
   },
   {
     "title": "书店消费区",
@@ -278,6 +320,13 @@
     "date": "2026-09-22T08:55:37Z",
     "description": "一段时间没写信了，你还好吗？再次提起笔来，真是让人开心，每一次写信都是你我的一次重逢，为了这份不断的缘分，我也要提笔写下去。 X 的关注量突破 5000 最近，我在 X 上的粉丝突破了 5000 人，不算多，也不算少。但现在 X 上的内容更新，基本上是我指挥 Agent 来处理的，我每天除了对着一张选题表选择今天写作的内容，或者想到什么改善点之外，其它的活儿都是 Agent 一手包圆。尽管涨粉的速度在最近 1 个月变得非常迟缓，但我大概摸到了令粉丝量增长的路径——你火啥就发啥。 打字速度最高纪录达到 75wpm 之前我提到自己在通过 Keybr.com …",
     "source_root_domain": "gtdstudy.com"
+  },
+  {
+    "title": "NeuroFlex: Lossless Element-Level ANN-SNN Co-Execution for Efficient Sparse Inference",
+    "url": "https://mer.dev/posts/neuroflexlossless-element-level-ann-snn-co-execution-for-efficient-sparse-inference/",
+    "date": "2026-09-22T08:54:29Z",
+    "description": "好像是 MICRO2026，ANN-SNN 混合稀疏加速器，Fig.1 的观察和统一 INT8 存储的设计还不错，但这里的 SNN core 更像一个 unary 编码的累加单元？",
+    "source_root_domain": "mer.dev"
   },
   {
     "title": "NeuroFlex: Lossless Element-Level ANN-SNN Co-Execution for Efficient Sparse Inference",
