@@ -27,6 +27,10 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-09-24 | [上学路](https://honmaple.me/posts/2026/09/my-way-to-school/) | 我没有上过幼儿园，我是四岁时上了一年的学前班，接着就开始上一年级。我的妈妈经常说本来老师是不准备接收我的，因为当时我还太小，初入学前班时甚至还不到四岁，可是我哭得太厉害，死活要去上学，最后没办法他们只能和当时的校长也就是我们学前班的老师求情，最终老师还是接收了我。 我是在村委会所在地上的一二年级，离… |
+| 2026-09-24 | [博客三周年，依旧是一些记录](https://blog.mfwt.top/index.php/archives/1633/) | 9/24，明天就中秋了，也是博客正式开始运行的三周年日子，特此纪念。同时，基本上也是决定停止Google AdSense投放的日子。 |
+| 2026-09-24 | [博客时光机 2.0：从随机穿越到看见时间](https://liudon.com/posts/hugo-ipfs-time-machine-v2/) | 前言 9月21日，博客时光机 V1 版本上线。 当时满心欢喜，自己觉得还挺好玩。 但上线后，现实给我泼了一盆冷水。 虽然也在 V2EX 上发帖做了推广，上线到现在，一共才有68次浏览。 |
+| 2026-09-24 | [读《中国历代政治得失》](https://depp.wang/2026/china-dvnastic-political-systems/) | 我最开始是在一位同事那里了解到这本书的。 最开始也看了一点，感觉写得比较干，讲的都是制度、官职和税收，就没继续读下去。后来因为看了《万历十五年》，我又想到了这本书。那时我正想了解明代的历史，于是先看了明朝和清朝，之后又把前面的汉朝、唐朝、宋朝都看完了。 这本书还是有很多观点，是我以前从没有想到过的。… |
 | 2026-09-24 | [天展钓Tenkara和在Folkestone挖化石](https://anotherdayu.com/tenkara-folkestone/) | 天展钓 Tenkara 在英国试了试天展钓。 它原本是日本山地溪流里的一种钓法。没有线轮，也不需要复杂的饵和线组。 主体就是一根竿，一根线，一只毛钩。 Less is more，钓鱼这件事变得更依赖人本身。要观察鱼在哪里，看水从石头哪一边流过，哪里形成回水，哪里有树荫，哪里水深突然变化。固定长度的线… |
 | 2026-09-24 | [如何优雅地更新 MACOS 系统上的软件](http://yi.gs/post/duo_updater) | 上一次更新正好是一年前，所以更新一下。 既然是为了更新而更新，就来写写如何更新吧 ；） TL;DR：直接看 「更优雅地更新软件」 小节。 关于 macOS 上的软件安装 与 iOS 正常情况下只能通过 App Store 安装 APP 不同，macOS 有类似 Windows 的自由度来安装和使用第… |
 | 2026-09-24 | [高鲁棒性 API 设计之 Idempotency Key：并发请求与执行一致性](https://blog.yasking.org/a/idempotency-key-concurrency-control) | 高鲁棒性 API 设计系列 1 Idempotency Key 幂等键 2 并发请求与执行一致性 上一篇介绍幂等键留下一些问题，幂等键有了，如果两个请 … |
