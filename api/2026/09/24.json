@@ -1,5 +1,61 @@
 [
   {
+    "title": "专业的网络延迟波动检测工具 irtt",
+    "url": "https://blog.frytea.com/archives/32470",
+    "date": "2026-09-24T06:42:54Z",
+    "description": "irtt 专门测长期延迟稳定性和抖动，按固定间隔发包（如每 10ms 一个），统计 RTT、单向延迟、IPDV […]",
+    "source_root_domain": "frytea.com"
+  },
+  {
+    "title": "一次内存引起的网络丢包问题排查",
+    "url": "https://www.kawabangga.com/posts/7422",
+    "date": "2026-09-24T06:09:24Z",
+    "description": "记录一下最近排查的一个问题：某台机器一上线就有丢包，同 Rack 同规格的其他机器都没有问题，由于负载都是一样 […] Continue reading...",
+    "source_root_domain": "kawabangga.com"
+  },
+  {
+    "title": "用AI【做出来】更容易时，怎么做才能赚钱呢？",
+    "url": "https://wenfeixiang.com/2026/09/how-to-get-the-value-in-the-ai-era/",
+    "date": "2026-09-24T04:03:10Z",
+    "description": "最近有个搞笑的梗图：随着 AI 能力的增强，开发者越来越多、用户却越来越少，当用户都不够用了、你还指望这些 A […]",
+    "source_root_domain": "wenfeixiang.com"
+  },
+  {
+    "title": "保持不好意思之心",
+    "url": "https://www.hecaitou.com/2026/09/holding-onto-that-little-unease.html",
+    "date": "2026-09-24T04:01:04Z",
+    "description": "以前写博客那会儿，文章里但凡加了广告，读者雪崩一般的抱怨就会汹涌而至：你变了！你堕落了！你不纯粹了！好像其中的某一个，就是约翰·列侬人生里听到的最后一句话，接下来就是轰鸣声了。可见大家当初关系之紧张。 现在则是完全反了过来，文章里但凡介绍什么吃的用的，写成一篇纯散文，读者雷鸣一般的怒吼就会扑面而来：链接呢？没链接你说那么热闹干嘛？消费主义真厉害，在十多年间彻底改变了读者，让他们接受了软文接购买链接这种固定形式，认定文章如果打动了自己，下面没有个链接就不大对。 虽然世事已然如此，但我还是坚持认为，自己应该保持一点不好意思之心。 按照我的想法，我写文章，读者来看文字，他们的期待就是读点什么。这里的「什么」，一般不包括营销和广告文字。当然，通过网络经年累月的训练，读者已经习惯了这样的事，反应逐渐变得不是那么强烈，但不等于我可以心安理得地那么去干。 人和人之间的信任在网络世界里是脆弱的，要花很长的时间点滴建立。在这个过程里，我见过许多人反复取关，我也见过很多人持续骂了我许多年。这十多年下来，每天还愿意来看一下我更新的读者百不存一。这不是一种文学修辞，而是严格的统计学结果。 正因为百不存一，剩下",
+    "source_root_domain": "hecaitou.com"
+  },
+  {
+    "title": "噩耗，本站的微软 OneDrive E3 MSDN 存储被停止了，大量下载链接急需更新",
+    "url": "https://www.cheshirex.com/11179.html",
+    "date": "2026-09-24T03:37:56Z",
+    "description": "今早打开OneDrive 上传资源发现账号已经被停止了，文件还未被删除。 感觉天塌了，上面资源太多了，要一个一 […]",
+    "source_root_domain": "cheshirex.com"
+  },
+  {
+    "title": "Plants vs. Zombies updated",
+    "url": "https://macsourceports.com/game/pvz",
+    "date": "2026-09-24T03:28:27Z",
+    "description": "The build of PvZ Portable for Plants vs. Zombies has been updated to version 0.2.4 of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "LXC 热载入设备文件",
+    "url": "https://blog.frytea.com/archives/32467",
+    "date": "2026-09-24T02:34:14Z",
+    "description": "下面以向运行中的 LXC 容器注入 `/dev/vhost-net` 为例讲解。 有两种思路:临时注入 […]",
+    "source_root_domain": "frytea.com"
+  },
+  {
+    "title": "书店消费区",
+    "url": "https://mobius.blog/25771.html",
+    "date": "2026-09-24T01:30:00Z",
+    "description": "在书店逛了逛，最后不得不在书店的消费区买了杯茶，落座在几乎没人的昏暗角落。不是因为逛书店逛累了，而是因为书店里 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。",
+    "source_root_domain": "onojyun.com"
+  },
+  {
     "title": "VictoriaLogs 集群 Helm 部署笔记（测试环境）",
     "url": "https://199604.com/3722",
     "date": "2026-09-23T23:07:54Z",
@@ -84,6 +140,20 @@
     "source_root_domain": "hecaitou.com"
   },
   {
+    "title": "还真能赚到钱，感谢 Tutti",
+    "url": "https://versun.me/blog/tweet-2102597377601462724",
+    "date": "2026-09-23T03:14:13Z",
+    "description": "YC (Yucheng) 经常有人问 Tutti 是什么意思，正好用 Pexo 做了条片，顺便讲一下。 tutti 是乐谱上的记号，意大利语「全体」。前面小提琴首席 solo 一段，谱上标 tutti，整个乐队重新进来一起奏。 @tuttihq 干的就是这个：一个创作者发是 solo，很多创作者一起去共同编织一段叙事，就是 tutti。 #MadeWithPexo 还真能赚到钱，感谢 Tutti",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "分享下出海Playbook，都是干货",
+    "url": "https://versun.me/blog/tweet-2102591014636765429",
+    "date": "2026-09-23T02:48:56Z",
+    "description": "出海去孵化器 经历了不知道多少次的反复挣扎，我们决定把过去三年积累的 48 场内部主题分享、10 节推特增长课和 13 节出海实战课，累计 68 小时 14 分钟， 做成一份完全免费的 Playbook 分享给想做出海产品的大家！ 累计消耗 16.19 亿 Token，历时 31 天， 梳理出 15 个主题任务簇、270 个知识点、118 个案例和 226 项重复或冲突记录，制作 48 份逐章来源映射，核查 218 个外部网址， 最终重编为 9 个模块、48 篇、约 30.4 万字的 Playbook。 分享下出海Playbook，都是干货",
+    "source_root_domain": "versun.me"
+  },
+  {
     "title": "Memos: 风云不语，只是一个劲儿的赠送重置卡",
     "url": "https://blog.yasking.org/a/1790127856",
     "date": "2026-09-23T02:17:23Z",
@@ -103,6 +173,13 @@
     "date": "2026-09-23T01:30:00Z",
     "description": "这个系列发布后，我又收到常来博客互动的朋友的私信，他的观点正好引出了今天要继续讨论的内容： 如果一个人表现出居 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。",
     "source_root_domain": "onojyun.com"
+  },
+  {
+    "title": "汇总下目前 opus 5.5 的3D评测",
+    "url": "https://versun.me/blog/tweet-2102550362435760339",
+    "date": "2026-09-23T00:07:24Z",
+    "description": "Stefan 3D AI First Opus 5.5 vs GPT-6 Astra test is 3D. One prompt, Blender only, all procedural. Render the 10-second shot, and record your own build timelapse. Opus 5.5: 35 min, 199.6k output tokens, about $13.3 in API terms. GPT-6 Astra: 28 min, 56.6k output 汇总下目前 opus 5.5 的3D评测，效果是真不错",
+    "source_root_domain": "versun.me"
   },
   {
     "title": "OpenAI 这波完败啊，老家都被掀了",

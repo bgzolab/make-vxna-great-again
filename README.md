@@ -27,6 +27,14 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-09-24 | [专业的网络延迟波动检测工具 irtt](https://blog.frytea.com/archives/32470) | irtt 专门测长期延迟稳定性和抖动，按固定间隔发包（如每 10ms 一个），统计 RTT、单向延迟、IPDV […] |
+| 2026-09-24 | [一次内存引起的网络丢包问题排查](https://www.kawabangga.com/posts/7422) | 记录一下最近排查的一个问题：某台机器一上线就有丢包，同 Rack 同规格的其他机器都没有问题，由于负载都是一样 […] Continue reading... |
+| 2026-09-24 | [用AI【做出来】更容易时，怎么做才能赚钱呢？](https://wenfeixiang.com/2026/09/how-to-get-the-value-in-the-ai-era/) | 最近有个搞笑的梗图：随着 AI 能力的增强，开发者越来越多、用户却越来越少，当用户都不够用了、你还指望这些 A […] |
+| 2026-09-24 | [保持不好意思之心](https://www.hecaitou.com/2026/09/holding-onto-that-little-unease.html) | 以前写博客那会儿，文章里但凡加了广告，读者雪崩一般的抱怨就会汹涌而至：你变了！你堕落了！你不纯粹了！好像其中的某一个，就是约翰·列侬人生里听到的最后一句话，接下来就是轰鸣声了。可见大家当初关系之紧张。 现在则是完全反了过来，文章里但凡介绍什么吃的用的，写成一篇纯散文，读者雷鸣一般的怒吼就会扑面而来：… |
+| 2026-09-24 | [噩耗，本站的微软 OneDrive E3 MSDN 存储被停止了，大量下载链接急需更新](https://www.cheshirex.com/11179.html) | 今早打开OneDrive 上传资源发现账号已经被停止了，文件还未被删除。 感觉天塌了，上面资源太多了，要一个一 […] |
+| 2026-09-24 | [Plants vs. Zombies updated](https://macsourceports.com/game/pvz) | The build of PvZ Portable for Plants vs. Zombies has been updated to version 0.2.4 of the project |
+| 2026-09-24 | [LXC 热载入设备文件](https://blog.frytea.com/archives/32467) | 下面以向运行中的 LXC 容器注入 `/dev/vhost-net` 为例讲解。 有两种思路:临时注入 […] |
+| 2026-09-24 | [书店消费区](https://mobius.blog/25771.html) | 在书店逛了逛，最后不得不在书店的消费区买了杯茶，落座在几乎没人的昏暗角落。不是因为逛书店逛累了，而是因为书店里 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-09-23 | [VictoriaLogs 集群 Helm 部署笔记（测试环境）](https://199604.com/3722) | VictoriaLogs 集群 Helm 部署笔记（测试环境） 记录时间：2026-09-22 环境：测试集群 […] |
 | 2026-09-23 | [老鹰主机十年用户第一次买老鹰VPS，7个机房速度实测](https://gugegt.com/20260924-vps-datacenter-network-test.html) | 老鹰主机用了十年，这次第一次买它家的 VPS，卡在最后一栏：机房。 配置选完，系统选完，下面一长串城市名。洛杉矶、达拉斯、纽约、伦敦、香港、新加坡、多伦多。地图摊开一看，答案明摆着，香港最近，新加坡也不远。 下单前我把七个机房的测试 IP 挨个跑了一轮，每个四次。结果跟地图的顺序完全不搭。 数据摆在… |
 | 2026-09-23 | [Zuma updated](https://macsourceports.com/game/zuma) | The build of Zuma Portable for Zuma has been updated to version 0.9 of the project |
@@ -39,9 +47,12 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-09-23 | [Muse AI 注册教程：借助 Google Gemini Spark 完成注册](https://liudon.com/posts/muse-ai-registration-with-gemini-spark/) | Muse 是 Meta 于 2026 年 9 月 8 日推出的全球首款面向普通消费者的个人 AI 智能体（AI Agent）应用。 现在仅面向美国和加拿大地区的 18 岁以上用户开放。 在 V2ex 上看到可以通过 Gemini Spark 进行注册，绕过 IP 检测，本文记录整个操作过程。 |
 | 2026-09-23 | [2026.9.22](https://www.justzht.com/2026-9-22/) | 最近都干了啥？ 周六和阳哥吃了四川菜。虽然都一直在湾区，但估计有三四年没见着面，然后见我他说我胖了，我 |
 | 2026-09-23 | [古早石榴味](https://www.hecaitou.com/2026/09/old-taste-pomegranates.html) | 在我很小的时候，认为最好吃的石榴来自东川外婆家。昆明的石榴不好吃，不如东川石榴大，也不如东川石榴甜。今天的东川虽然只是昆明的一个区，相距 150 公里，但在当年坐车过去要一整天，夏季的时候还有泥石流中断公路的危险。因此，当舅舅他们请托公车司机带一份石榴来我家时，算得上是一次小型节日，连带着石榴也似乎… |
+| 2026-09-23 | [还真能赚到钱，感谢 Tutti](https://versun.me/blog/tweet-2102597377601462724) | YC (Yucheng) 经常有人问 Tutti 是什么意思，正好用 Pexo 做了条片，顺便讲一下。 tutti 是乐谱上的记号，意大利语「全体」。前面小提琴首席 solo 一段，谱上标 tutti，整个乐队重新进来一起奏。 @tuttihq 干的就是这个：一个创作者发是 solo，很多创作者一起… |
+| 2026-09-23 | [分享下出海Playbook，都是干货](https://versun.me/blog/tweet-2102591014636765429) | 出海去孵化器 经历了不知道多少次的反复挣扎，我们决定把过去三年积累的 48 场内部主题分享、10 节推特增长课和 13 节出海实战课，累计 68 小时 14 分钟， 做成一份完全免费的 Playbook 分享给想做出海产品的大家！ 累计消耗 16.19 亿 Token，历时 31 天， 梳理出 15… |
 | 2026-09-23 | [Memos: 风云不语，只是一个劲儿的赠送重置卡](https://blog.yasking.org/a/1790127856) | 2026 年 9 月 22 日 Anthropic 发布 Claude Opus 5.5，同时赠送了一张重置卡（引入用户自主点击重置卡）。 同一天，OpenAI 发布 GPT-6 Sol 和 GPT-6 Luna 模型，也赠送 … |
 | 2026-09-23 | [给 Twikoo 接入 Jev，用 AI 判断博客评论是不是广告](https://liudon.com/posts/twikoo-jev-spam-detection/) | 前言 最近 Jev 火了，时间线上全是讨论这个新模型的内容。 Jev 是 TypeSafe AI 发布的首个 System One 模型，主要面向软件中的快速、结构化决策。 和 ChatGPT、Claude 这类偏文本生成的大模型不太一样，它更偏向于“做判断”：输入一组状态和问题，直接返回结构化的判… |
 | 2026-09-23 | [爹而不自知 III](https://mobius.blog/25768.html) | 这个系列发布后，我又收到常来博客互动的朋友的私信，他的观点正好引出了今天要继续讨论的内容： 如果一个人表现出居 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
+| 2026-09-23 | [汇总下目前 opus 5.5 的3D评测](https://versun.me/blog/tweet-2102550362435760339) | Stefan 3D AI First Opus 5.5 vs GPT-6 Astra test is 3D. One prompt, Blender only, all procedural. Render the 10-second shot, and record your own build… |
 | 2026-09-22 | [OpenAI 这波完败啊，老家都被掀了](https://versun.me/blog/tweet-2102547956507595242) | OpenAI 这波完败啊，老家都被掀了 人家 Opus 5.5 这次目标是 GPT 6 Astra， 而 OpenAI 傻傻的还在挤牙膏，发布中小杯的 sol 和 luna 这不得赶紧掏个 GPT 7 出来，否则没得玩 |
 | 2026-09-22 | [「折腾」水水的不想月报](https://www.wdssmq.com/post/20140225001.html) | 周期性的熬夜和心流 上星期也是达成了 git 满勤（9.13 ~ 9.19）。。 ；之前一次是 1.4 ~ 1.10。。 这篇文章主要也是想水一下这段时期的成果。。 AI 额度就不够了…… 这里是一条广告：[ShortSth:硅基流动][/ShortSth] 今天 9.23，这一周期的集中代码时间差… |
 | 2026-09-22 | [Chris Sawyer's Locomotion updated](https://macsourceports.com/game/locomotion) | The build of OpenLoco for Chris Sawyer's Locomotion has been updated to version 26.09 of the project |
