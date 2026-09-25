@@ -27,6 +27,10 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-09-25 | [Pensieve: 2609](https://xiaket.github.io/2026/pensieve-2609.html) | 所读所观所玩 |
+| 2026-09-25 | [怯犬](https://www.geedea.pro/fiction/doggy/) | 一 今晚没有月亮，窗户外面其他人家的灯火也灭了，屋子里很黑，杉松迷迷糊糊地醒了。耳塞不能阻断嗅觉，好几个晚上，他都被香水、汗液和石楠花的味道弄醒，醒来时，他还紧紧地抱着一只玩偶，脸埋在沙发的靠背上。他感到背后有风，一阵远远的响动，随后皮革的气味取代了那些扰人心智的东西。他翻了个身，刚好碰到男友的手臂… |
+| 2026-09-25 | [《火焰纹章 封印之剑》游戏感想](https://blog.yuanji.dev/posts/fire-emblem-fuuin-no-tsurugi-review/) | 接连写了两篇博客分别介绍了最近购买的复古游戏掌机（见：复古掌机初体验：ANBERNIC RG 34XX）和围绕 […] |
+| 2026-09-25 | [终日网上翻垃圾](https://www.hecaitou.com/2026/09/dumpster-diving-on-the-modern-web.html) | 今天是中秋节，我想聊一点轻松的话题。 这几天我在选电脑显示器，目前我正使用的一台华硕显示器和苹果系统八字越来越冲，会频繁自动黑屏，然后又自动点亮。你想象一下，一个人站在空荡荡的房间里面对一套电脑，然后它毫无征兆地熄灭，等一会儿又自顾自地亮起来。你就说这时候是不是想上网买几道符回来给它贴满？ 再后来即… |
 | 2026-09-25 | [开水](https://mobius.blog/25780.html) | 这个标题来自于坐在我旁边的陌生人，正起身去咖啡厅吧台要求工作人员，往自己的茶杯里接了一杯开水。 她想让工作人员 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-09-24 | [一个值得关注的事： Cloudflare](https://versun.me/blog/tweet-2103266492137840882) | 一个值得关注的事： Cloudflare 的 Python Workers 正式 GA， 原生支持 FastAPI 与 Django，可玩性大大提升了 https://blog.cloudflare.com/python-workers-ga/ |
 | 2026-09-24 | [上学路](https://honmaple.me/posts/2026/09/my-way-to-school/) | 我没有上过幼儿园，我是四岁时上了一年的学前班，接着就开始上一年级。我的妈妈经常说本来老师是不准备接收我的，因为当时我还太小，初入学前班时甚至还不到四岁，可是我哭得太厉害，死活要去上学，最后没办法他们只能和当时的校长也就是我们学前班的老师求情，最终老师还是接收了我。 我是在村委会所在地上的一二年级，离… |
