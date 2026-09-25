@@ -1,0 +1,296 @@
+[
+  {
+    "title": "开水",
+    "url": "https://mobius.blog/25780.html",
+    "date": "2026-09-25T01:30:00Z",
+    "description": "这个标题来自于坐在我旁边的陌生人，正起身去咖啡厅吧台要求工作人员，往自己的茶杯里接了一杯开水。 她想让工作人员 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。",
+    "source_root_domain": "onojyun.com"
+  },
+  {
+    "title": "一个值得关注的事： Cloudflare",
+    "url": "https://versun.me/blog/tweet-2103266492137840882",
+    "date": "2026-09-24T23:33:03Z",
+    "description": "一个值得关注的事： Cloudflare 的 Python Workers 正式 GA， 原生支持 FastAPI 与 Django，可玩性大大提升了 https://blog.cloudflare.com/python-workers-ga/",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "上学路",
+    "url": "https://honmaple.me/posts/2026/09/my-way-to-school/",
+    "date": "2026-09-24T23:18:23Z",
+    "description": "我没有上过幼儿园，我是四岁时上了一年的学前班，接着就开始上一年级。我的妈妈经常说本来老师是不准备接收我的，因为当时我还太小，初入学前班时甚至还不到四岁，可是我哭得太厉害，死活要去上学，最后没办法他们只能和当时的校长也就是我们学前班的老师求情，最终老师还是接收了我。 我是在村委会所在地上的一二年级，离家大概一公里左右，每天中午都能回家吃饭。 那时候学校老师很少，只有三四人，所以经常会把高年级学生和低年级学生混在一起上课，我上一年级时会和四年级的人一起，二年级时会和五年级的人一起。老师也只区分语文老师和数学老师，其它的所有课都是由两位老师代授，现在想来那时候的老师还挺全能的。当时最喜欢的就是上体育课，因为体育课基本不会在学校里上课，而是去村子之间的公路上，甚至是学校旁的田野边。印象最深的是一次春游，一群小不点翻山越岭去一个大坝上吃东西，哈哈 三年级时学校改革，我的第一个小学撤销了，所有学生都要去五公里之外的乡镇上学，每天只能往返一次学校。 我还记得早自习是早上7点20，五公里大概要走一个小时左右。早上的山路很黑，黑到甚至看不清路...",
+    "source_root_domain": "honmaple.me"
+  },
+  {
+    "title": "CLM-8B，比jev还要块还要准的模型",
+    "url": "https://versun.me/blog/tweet-2103242309995569321",
+    "date": "2026-09-24T21:56:57Z",
+    "description": "Jacky Kwok Introducing Contrastive Language Model (CLM): an ultra-fast System One Model trained with a contrastive learning objective that connects states and actions. CLM-8B is pre-trained on internet-scale data and delivers up to 9× faster inference than Jev CLM-8B，比jev还要块还要准的模型，可以本地部署个玩一玩",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "博客三周年，依旧是一些记录",
+    "url": "https://blog.mfwt.top/index.php/archives/1633/",
+    "date": "2026-09-24T15:58:36Z",
+    "description": "9/24，明天就中秋了，也是博客正式开始运行的三周年日子，特此纪念。同时，基本上也是决定停止Google AdSense投放的日子。",
+    "source_root_domain": "mfwt.top"
+  },
+  {
+    "title": "博客时光机 2.0：在一台 Macintosh 里看见时间",
+    "url": "https://liudon.com/posts/hugo-ipfs-time-machine-v2/",
+    "date": "2026-09-24T15:10:42Z",
+    "description": "前言 9月21日，博客时光机 V1 版本上线。 当时满心欢喜，自己觉得还挺好玩。 但上线后，现实给我泼了一盆冷水。 虽然也在 V2EX 上发帖做了推广，上线到现在，一共才有68次浏览。",
+    "source_root_domain": "liudon.com"
+  },
+  {
+    "title": "读《中国历代政治得失》",
+    "url": "https://depp.wang/2026/china-dvnastic-political-systems/",
+    "date": "2026-09-24T13:50:28Z",
+    "description": "我最开始是在一位同事那里了解到这本书的。 最开始也看了一点，感觉写得比较干，讲的都是制度、官职和税收，就没继续读下去。后来因为看了《万历十五年》，我又想到了这本书。那时我正想了解明代的历史，于是先看了明朝和清朝，之后又把前面的汉朝、唐朝、宋朝都看完了。 这本书还是有很多观点，是我以前从没有想到过的。 可能很多人都和我一样，觉得中华民国建立之前，中国古代的制度大体上都是封建的、落后的、不可取的。可是钱穆这本书并不是简单地否定过去。他会把每个朝代的制度放回当时的历史条件里，看它为什么这样设计，后来又为什么产生问题。 我读完才发现，古代制度里也有不少值得细看的安排。它们后来出了问题，不等于一开始就没有道理。 在正式讲各个朝代之前，我还想先说一下钱穆对「封建」的解释。真正的封建世袭，是天子的儿子还是天子，诸侯的儿子还是诸侯，卿大夫的儿子还是卿大夫，政治身份和官位都在家族内部传下去。 秦汉以后，做官已经不再照着这套世袭办法来。钱穆往下讲汉、唐、宋、明、清，也不是把它们当成一个笼统的「封建时代」，而是逐个看政府由谁来管、权力怎样分配。我最先看的明朝，正好让我看到这种差别。",
+    "source_root_domain": "depp.wang"
+  },
+  {
+    "title": "天展钓Tenkara和在Folkestone挖化石",
+    "url": "https://anotherdayu.com/tenkara-folkestone/",
+    "date": "2026-09-24T13:02:00Z",
+    "description": "天展钓 Tenkara 在英国试了试天展钓。 它原本是日本山地溪流里的一种钓法。没有线轮，也不需要复杂的饵和线组。 主体就是一根竿，一根线，一只毛钩。 Less is more，钓鱼这件事变得更依赖人本身。要观察鱼在哪里，看水从石头哪一边流过，哪里形成回水，哪里有树荫，哪里水深突然变化。固定长度的线也意味着，你不能站在岸边把毛钩一直抛向远处，很多时候必须自己走过去。 它甚至不需要真正的饵料。毛钩本身只是羽毛、丝线等材料扎成的人工拟饵。入水后，借助水流和竿尖的轻微动作，可以让毛钩像一只正在漂流、游动，或者落水后挣扎的昆虫，从而吸引鱼类的注意力咬钩。 这种和鱼和环境互动的感觉，很惬意。 以前徒步时，溪流只是沿途风景。开始钓鱼后，才会注意到石后的缓流、窄口后的深潭、树根下的阴影，以及水下石块改变的水流。 Tenkara 和徒步天然地连在了一起，我很喜欢这一点。 Folkestone 挖化石 Folkestone 的黏土海崖非常容易侵蚀。雨水使崖壁崩落，冬季风暴和潮水又不断冲刷海滩，慢慢的将化石剥离出来。所以只要找到合适的区域，很容易捡到化石。 相比于一天只钓上两条鱼，化石的正反馈则多得多。沙",
+    "source_root_domain": "anotherdayu.com"
+  },
+  {
+    "title": "如何优雅地更新 MACOS 系统上的软件",
+    "url": "http://yi.gs/post/duo_updater",
+    "date": "2026-09-24T11:29:40Z",
+    "description": "上一次更新正好是一年前，所以更新一下。 既然是为了更新而更新，就来写写如何更新吧 ；） TL;DR：直接看 「更优雅地更新软件」 小节。 关于 macOS 上的软件安装 与 iOS 正常情况下只能通过 App Store 安装 APP 不同，macOS 有类似 Windows 的自由度来安装和使用第三方软件。 在「设置」-「隐私与安全性」-「安全性」-「允许以下来源的应用程序」中开启「App Store 与已知开发者」后，无论是通过 Homebrew 还是软件官网下载，只要第三方软件满足以下两点即可直接使用： 有效代码签名（Developer ID 证书签名） 开发者加入 99 刀/年的 Apple Developer Program 来获取 Developer ID 证书。 苹果公证（Notarization） 开发者把签好名的 App 上传到 Apple Notary Service，苹果自动扫描通过后打上公证凭证。 关于在 macOS 上更新软件 安装后，对于新版强迫症患者最大的问题是 macOS 上的更新途径非常分散且不够优雅： 使用 App Store 更新 App Stor",
+    "source_root_domain": "yi.gs"
+  },
+  {
+    "title": "高鲁棒性 API 设计之 Idempotency Key：并发请求与执行一致性",
+    "url": "https://blog.yasking.org/a/idempotency-key-concurrency-control",
+    "date": "2026-09-24T11:15:00Z",
+    "description": "高鲁棒性 API 设计系列 1 Idempotency Key 幂等键 2 并发请求与执行一致性 上一篇介绍幂等键留下一些问题，幂等键有了，如果两个请 …",
+    "source_root_domain": "yasking.org"
+  },
+  {
+    "title": "青甘行 序曲",
+    "url": "https://hux.ink/posts/qinggan-trip-01/",
+    "date": "2026-09-24T07:14:56Z",
+    "description": "「中秋」说每年带娃出去旅行一趟，今年继续执行。 今年选择的目的地是青海—甘肃大环线自驾游。她原本的计划是国庆期间去海南环岛游，问我要不要去当司机。我说与其去海南，不如再请三天假，与中秋节连休，组个超长假去新疆或走一趟青甘环线。 一拍即合，选定了青甘行。一个多月前，我提前报备请假获批，「中秋」同学便正式开始研究路线、规划行程和预订住宿，前前后后折腾了一个多月，终于把这趟旅行安排得七七八八。 深圳直飞太贵了，为了省点钱，去程选择了高铁到南昌中转的方案。今晚就要启程去南昌，明天中午还可以在南昌过个中秋节，「中秋」同学也可以在家简单过个生日，明天下午再搭乘航班从南昌飞往西宁。 考虑到这次旅行，我们夫妻二人和小孩同程在路上，要经历高铁、飞机以及十多天的自驾行程。昨晚我做了一个决定，将家庭的财产账户情况在纸条上简单写下，交给了我妈。 说实话，做这件事的时候，心里多少有些异样，包括将纸条给我妈的那一刻她的反应。明明是满怀期待地准备出门旅行，却提前考虑起了万一的事情，总觉得有些不吉利。虽然没有多少财产，但我觉得这是有必要的。常怀敬畏、未雨绸缪。风险本来就客观存在，并不会因为主观上想或者不想而改变。 满",
+    "source_root_domain": "hux.ink"
+  },
+  {
+    "title": "专业的网络延迟波动检测工具 irtt",
+    "url": "https://blog.frytea.com/archives/32470",
+    "date": "2026-09-24T06:42:54Z",
+    "description": "irtt 专门测长期延迟稳定性和抖动，按固定间隔发包（如每 10ms 一个），统计 RTT、单向延迟、IPDV […]",
+    "source_root_domain": "frytea.com"
+  },
+  {
+    "title": "鹈鹕骑自行车的html页面生成测试202609（GPT-6 Astra，Gemini 3.8 flash，DeepSeek 4.1 flash）",
+    "url": "https://blog.rustfisher.com/ai/pelican-bike-demo202609-gpt6astra-gemini3-8flash-deepseek4-1flash/",
+    "date": "2026-09-24T06:12:59Z",
+    "description": "鹈鹕骑车测试，用同样的提示词，让不同的AI生成一只鹈鹕骑自行车的HTML页面。GPT-6 Astra，Gemini 3.8 flash，DeepSeek 4.1 flash",
+    "source_root_domain": "rustfisher.com"
+  },
+  {
+    "title": "一次内存引起的网络丢包问题排查",
+    "url": "https://www.kawabangga.com/posts/7422",
+    "date": "2026-09-24T06:09:24Z",
+    "description": "记录一下最近排查的一个问题：某台机器一上线就有丢包，同 Rack 同规格的其他机器都没有问题，由于负载都是一样 […] Continue reading...",
+    "source_root_domain": "kawabangga.com"
+  },
+  {
+    "title": "说个题外话，还有人在用 RSS 订阅资讯",
+    "url": "https://versun.me/blog/tweet-2102996864631189645",
+    "date": "2026-09-24T05:41:38Z",
+    "description": "说个题外话，还有人在用 RSS 订阅资讯吗？ 我在考虑要不要把 RSSBox 项目归档了。。。 https://rssbox.app https://github.com/versun/rssbox",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "用AI【做出来】更容易时，怎么做才能赚钱呢？",
+    "url": "https://wenfeixiang.com/2026/09/how-to-get-the-value-in-the-ai-era/",
+    "date": "2026-09-24T04:03:10Z",
+    "description": "最近有个搞笑的梗图：随着 AI 能力的增强，开发者越来越多、用户却越来越少，当用户都不够用了、你还指望这些 A […]",
+    "source_root_domain": "wenfeixiang.com"
+  },
+  {
+    "title": "保持不好意思之心",
+    "url": "https://www.hecaitou.com/2026/09/holding-onto-that-little-unease.html",
+    "date": "2026-09-24T04:01:04Z",
+    "description": "以前写博客那会儿，文章里但凡加了广告，读者雪崩一般的抱怨就会汹涌而至：你变了！你堕落了！你不纯粹了！好像其中的某一个，就是约翰·列侬人生里听到的最后一句话，接下来就是轰鸣声了。可见大家当初关系之紧张。 现在则是完全反了过来，文章里但凡介绍什么吃的用的，写成一篇纯散文，读者雷鸣一般的怒吼就会扑面而来：链接呢？没链接你说那么热闹干嘛？消费主义真厉害，在十多年间彻底改变了读者，让他们接受了软文接购买链接这种固定形式，认定文章如果打动了自己，下面没有个链接就不大对。 虽然世事已然如此，但我还是坚持认为，自己应该保持一点不好意思之心。 按照我的想法，我写文章，读者来看文字，他们的期待就是读点什么。这里的「什么」，一般不包括营销和广告文字。当然，通过网络经年累月的训练，读者已经习惯了这样的事，反应逐渐变得不是那么强烈，但不等于我可以心安理得地那么去干。 人和人之间的信任在网络世界里是脆弱的，要花很长的时间点滴建立。在这个过程里，我见过许多人反复取关，我也见过很多人持续骂了我许多年。这十多年下来，每天还愿意来看一下我更新的读者百不存一。这不是一种文学修辞，而是严格的统计学结果。 正因为百不存一，剩下",
+    "source_root_domain": "hecaitou.com"
+  },
+  {
+    "title": "记录下 claude pro 额度 5小",
+    "url": "https://versun.me/blog/tweet-2102971446951870844",
+    "date": "2026-09-24T04:00:38Z",
+    "description": "Versun 哎，我可真贱，为了 opus 5.5，还是上了 达里奥 的贼床 看看这次能持久几天🥲 记录下 claude pro 额度 5小时用了10%，周用了5%，花费 25M token 预计一周500M，一个月2000M token，也就是20亿token，还可以",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "噩耗，本站的微软 OneDrive E3 MSDN 存储被停止了，大量下载链接急需更新",
+    "url": "https://www.cheshirex.com/11179.html",
+    "date": "2026-09-24T03:37:56Z",
+    "description": "今早打开OneDrive 上传资源发现账号已经被停止了，文件还未被删除。 感觉天塌了，上面资源太多了，要一个一 […]",
+    "source_root_domain": "cheshirex.com"
+  },
+  {
+    "title": "Plants vs. Zombies updated",
+    "url": "https://macsourceports.com/game/pvz",
+    "date": "2026-09-24T03:28:27Z",
+    "description": "The build of PvZ Portable for Plants vs. Zombies has been updated to version 0.2.4 of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "LXC 热载入设备文件",
+    "url": "https://blog.frytea.com/archives/32467",
+    "date": "2026-09-24T02:34:14Z",
+    "description": "下面以向运行中的 LXC 容器注入 `/dev/vhost-net` 为例讲解。 有两种思路:临时注入 […]",
+    "source_root_domain": "frytea.com"
+  },
+  {
+    "title": "哎，我可真贱，为了 opus 5.5，还",
+    "url": "https://versun.me/blog/tweet-2102945482633056415",
+    "date": "2026-09-24T02:17:28Z",
+    "description": "哎，我可真贱，为了 opus 5.5，还是上了 达里奥 的贼床 看看这次能持久几天🥲",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "回国终于安顿下来了，先热个身",
+    "url": "https://koukyo.site/posts/startup-warmup-three-carrier-pivots/",
+    "date": "2026-09-24T02:00:00Z",
+    "description": "安顿下来后想热热身，做了个找 YouTuber 邮箱的小工具。同一个后端换了三种壳，从 33 次点击 0 次使用，到有人把 100 次免费额度全部用完。",
+    "source_root_domain": "koukyo.site"
+  },
+  {
+    "title": "书店消费区",
+    "url": "https://mobius.blog/25771.html",
+    "date": "2026-09-24T01:30:00Z",
+    "description": "在书店逛了逛，最后不得不在书店的消费区买了杯茶，落座在几乎没人的昏暗角落。不是因为逛书店逛累了，而是因为书店里 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。",
+    "source_root_domain": "onojyun.com"
+  },
+  {
+    "title": "VictoriaLogs 集群 Helm 部署笔记（测试环境）",
+    "url": "https://199604.com/3722",
+    "date": "2026-09-23T23:07:54Z",
+    "description": "VictoriaLogs 集群 Helm 部署笔记（测试环境） 记录时间：2026-09-22 环境：测试集群 […]",
+    "source_root_domain": "199604.com"
+  },
+  {
+    "title": "老鹰主机十年用户第一次买老鹰VPS，7个机房速度实测",
+    "url": "https://gugegt.com/20260924-vps-datacenter-network-test.html",
+    "date": "2026-09-23T16:00:00Z",
+    "description": "老鹰主机用了十年，这次第一次买它家的 VPS，卡在最后一栏：机房。 配置选完，系统选完，下面一长串城市名。洛杉矶、达拉斯、纽约、伦敦、香港、新加坡、多伦多。地图摊开一看，答案明摆着，香港最近，新加坡也不远。 下单前我把七个机房的测试 IP 挨个跑了一轮，每个四次。结果跟地图的顺序完全不搭。 数据摆在这儿 机房 测试 IP 实测延迟 成功率 网络特点 洛杉矶 198.252.98.33 196ms 4/4 唯一有 China Unicom 直连，另有 PCCW、HiNet 达拉斯 198.252.99.103 202ms 4/4 Cogent、Zayo、Telia，美欧向，无亚洲运营商 香港 172.96.185.182 203ms 1/4 PCCW、HKIX、NTT，75% 丢包，实际不可用 伦敦 103.119.217.9 222ms 4/4 15 家运营商，欧洲向最强，距离也最远 纽约 172.96.186.146 261ms 3/4 Zayo、Level3、HE.NET、NTT、PCCW 新加坡 172.96.191.102 359ms 4/4 NTT、PCCW、SG-IX，亚洲",
+    "source_root_domain": "gugegt.com"
+  },
+  {
+    "title": "Zuma updated",
+    "url": "https://macsourceports.com/game/zuma",
+    "date": "2026-09-23T15:38:56Z",
+    "description": "The build of Zuma Portable for Zuma has been updated to version 0.9 of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "我如何看待充值这件事儿",
+    "url": "https://blog.solazy.me/20260923/",
+    "date": "2026-09-23T13:30:00Z",
+    "description": "今天聊聊充值这件事",
+    "source_root_domain": "solazy.me"
+  },
+  {
+    "title": "Register Token以及对变形金刚AI的四大批判",
+    "url": "https://blog.est.im/2026/stdin-19",
+    "date": "2026-09-23T12:21:00Z",
+    "description": "前几天 Yann LeCun 对 变形金刚(transformers) AI 进行了深刻的 批判 First, the reasoning abilities of current AI systems are based non-auto-regressive search (which is what I have always advocated for). But AFAICT, they do it in token space, which is limited and inefficient. I have claimed that human-like reasoning must be a search in continuous representation space. It looks like the industry is moving towards that. Second, the self-improvement methods, as currently practiced, only work for domains where the qual",
+    "source_root_domain": "feedburner.com"
+  },
+  {
+    "title": "聪明 Agent 四套路 和 人肉学习",
+    "url": "https://blog.est.im/2026/stdin-18",
+    "date": "2026-09-23T12:21:00Z",
+    "description": "nVIDIA 联合 NTU，MIT 联合研究了一项关于 Agent harness 自我提升的 研究 ，项目叫 SoL-Pi ， Scaling Auto-Research Loops for Efficient Agent Harnesses 让 Research Agent 自动发现 Harness 里的 Token 浪费，再通过大规模实验筛掉无效改法。把结论再放进大量环境中反复测试。整个探索一共 152 个候选方向，分成 context、progress、tools、delegation、prompt/policy、improvement/evaluation 六类，然后把这些想法扔进大量相互隔离的 research lineage 里，让 agent 自己观察 trajectory、提出机制、实现、review、跑实验、继续修改。最终用了 535 个可执行搜索环境，其中 495 个来自 GitHub issue-PR pair，40 个是 verifier-driven synthetic tasks；论文说总共跑了 3000+ 次实验和 60000+ 次 agent-envi",
+    "source_root_domain": "feedburner.com"
+  },
+  {
+    "title": "脑袋空空",
+    "url": "https://blog.oospace.com/posts/2026-09-23/",
+    "date": "2026-09-23T10:00:00Z",
+    "description": "与其每天被各种废料信息填满，不如放空大脑",
+    "source_root_domain": "oospace.com"
+  },
+  {
+    "title": "野人编年史",
+    "url": "http://imlane.zhanglintc.co/ye-ren-bian-nian-shi",
+    "date": "2026-09-23T06:57:32Z",
+    "description": "野人编年史 野人创始人 徐队 ，群昵称Shogun。姓徐，称徐队，真野人队长，野人 抖音官号 持有者。 张队 ，群昵称张小不。江湖人称竹节虫，简称虫队。 熊队 ，群昵称熊嘎婆，称熊队。 野人CLUB游泳事业部 群主。 亮队 ，群昵称亮什么，称亮队，野人 小红书官号 持有者。 野人声明 从 泳往直前 过来加入的朋友： 野人 在加入 泳往直前 之前就已成立，我们不是另起炉灶，我们也不搞分裂主义，我们永远欢迎 泳往直前 成员加入 野人 。 从小红书、抖音，或者其他途径加入的朋友： 欢迎加入 野人 ，也永远欢迎 野人 的成员随时加入 泳往直前 。 加入 野人 需要认可 野人 ，对组织有认可感、归属感。 野人 创始人均为业余爱好者，但是无论是新手还是高手，都希望大家互相尊重、互相帮助，一起快乐玩水。若参加户外活动请务必正确佩戴跟屁虫，不盲目下水。务必注意自我防护，安全责任自负。 2024年 6月 徐队带张队第一次下凤溪沱。 亮队不时参与凤溪沱游江活动。 10月 熊队正式加入，并介绍徐队、张队加入 大竹林冬泳队 。 徐队、张队、熊队日常于 大竹林冬泳基地 进行户外游泳，队伍初具雏形，并开始尝试冬泳",
+    "source_root_domain": "zhanglintc.co"
+  },
+  {
+    "title": "解决宝塔安装 PG 失败的问题",
+    "url": "https://blog.frytea.com/archives/32464",
+    "date": "2026-09-23T06:36:56Z",
+    "description": "在宝塔面板安装 PostgreSQL 时遇到 `pgsql_install.sh: 83: Syntax er […]",
+    "source_root_domain": "frytea.com"
+  },
+  {
+    "title": "Muse AI 注册教程：借助 Google Gemini Spark 完成注册",
+    "url": "https://liudon.com/posts/muse-ai-registration-with-gemini-spark/",
+    "date": "2026-09-23T04:30:00Z",
+    "description": "Muse 是 Meta 于 2026 年 9 月 8 日推出的全球首款面向普通消费者的个人 AI 智能体（AI Agent）应用。 现在仅面向美国和加拿大地区的 18 岁以上用户开放。 在 V2ex 上看到可以通过 Gemini Spark 进行注册，绕过 IP 检测，本文记录整个操作过程。",
+    "source_root_domain": "liudon.com"
+  },
+  {
+    "title": "2026.9.22",
+    "url": "https://www.justzht.com/2026-9-22/",
+    "date": "2026-09-23T04:14:29Z",
+    "description": "最近都干了啥？ 周六和阳哥吃了四川菜。虽然都一直在湾区，但估计有三四年没见着面，然后见我他说我胖了，我",
+    "source_root_domain": "justzht.com"
+  },
+  {
+    "title": "古早石榴味",
+    "url": "https://www.hecaitou.com/2026/09/old-taste-pomegranates.html",
+    "date": "2026-09-23T04:08:08Z",
+    "description": "在我很小的时候，认为最好吃的石榴来自东川外婆家。昆明的石榴不好吃，不如东川石榴大，也不如东川石榴甜。今天的东川虽然只是昆明的一个区，相距 150 公里，但在当年坐车过去要一整天，夏季的时候还有泥石流中断公路的危险。因此，当舅舅他们请托公车司机带一份石榴来我家时，算得上是一次小型节日，连带着石榴也似乎更美味一些。 等我年长一些，发现同学们对于石榴有另外一种评价，他们声称云南最好的石榴是蒙自石榴，皮薄、个大、酸甜可口，别处没有任何一种石榴能与之相比。我没有办法辩驳，因为这是大家的共识，我一个人捍卫不了东川石榴。但是蒙自在哪里呢？我在地图上查过，觉得天远地远，已经快到边境。从那里运一车石榴来昆明，怕不是人人都能吃得上。 后来我还是吃上了蒙自石榴，那时候我已经在航空公司上班，高速公路网正在全省铺开，我们自己下班后驱车 100 公里以上去吃顿地方特色也变得很寻常。蒙自石榴也变得很常见，的确如同传说中一样好，不过这里需要强调一点，在那个时代里，人们关于水果的好只有一个朴素的标准：甜。 蒙自石榴确乎要比云南其他地方的石榴甜一些，尤其是昆明附近的本地货。再加上更加丰满，更加硕大，更加多汁，更加薄皮，全",
+    "source_root_domain": "hecaitou.com"
+  },
+  {
+    "title": "还真能赚到钱，感谢 Tutti",
+    "url": "https://versun.me/blog/tweet-2102597377601462724",
+    "date": "2026-09-23T03:14:13Z",
+    "description": "YC (Yucheng) 经常有人问 Tutti 是什么意思，正好用 Pexo 做了条片，顺便讲一下。 tutti 是乐谱上的记号，意大利语「全体」。前面小提琴首席 solo 一段，谱上标 tutti，整个乐队重新进来一起奏。 @tuttihq 干的就是这个：一个创作者发是 solo，很多创作者一起去共同编织一段叙事，就是 tutti。 #MadeWithPexo 还真能赚到钱，感谢 Tutti",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "分享下出海Playbook，都是干货",
+    "url": "https://versun.me/blog/tweet-2102591014636765429",
+    "date": "2026-09-23T02:48:56Z",
+    "description": "出海去孵化器 经历了不知道多少次的反复挣扎，我们决定把过去三年积累的 48 场内部主题分享、10 节推特增长课和 13 节出海实战课，累计 68 小时 14 分钟， 做成一份完全免费的 Playbook 分享给想做出海产品的大家！ 累计消耗 16.19 亿 Token，历时 31 天， 梳理出 15 个主题任务簇、270 个知识点、118 个案例和 226 项重复或冲突记录，制作 48 份逐章来源映射，核查 218 个外部网址， 最终重编为 9 个模块、48 篇、约 30.4 万字的 Playbook。 分享下出海Playbook，都是干货",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "Memos: 风云不语，只是一个劲儿的赠送重置卡",
+    "url": "https://blog.yasking.org/a/1790127856",
+    "date": "2026-09-23T02:17:23Z",
+    "description": "2026 年 9 月 22 日 Anthropic 发布 Claude Opus 5.5，同时赠送了一张重置卡（引入用户自主点击重置卡）。 同一天，OpenAI 发布 GPT-6 Sol 和 GPT-6 Luna 模型，也赠送 …",
+    "source_root_domain": "yasking.org"
+  },
+  {
+    "title": "给 Twikoo 接入 Jev，用 AI 判断博客评论是不是广告",
+    "url": "https://liudon.com/posts/twikoo-jev-spam-detection/",
+    "date": "2026-09-23T01:57:24Z",
+    "description": "前言 最近 Jev 火了，时间线上全是讨论这个新模型的内容。 Jev 是 TypeSafe AI 发布的首个 System One 模型，主要面向软件中的快速、结构化决策。 和 ChatGPT、Claude 这类偏文本生成的大模型不太一样，它更偏向于“做判断”：输入一组状态和问题，直接返回结构化的判断结果以及概率。",
+    "source_root_domain": "liudon.com"
+  },
+  {
+    "title": "爹而不自知 III",
+    "url": "https://mobius.blog/25768.html",
+    "date": "2026-09-23T01:30:00Z",
+    "description": "这个系列发布后，我又收到常来博客互动的朋友的私信，他的观点正好引出了今天要继续讨论的内容： 如果一个人表现出居 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。",
+    "source_root_domain": "onojyun.com"
+  },
+  {
+    "title": "汇总下目前 opus 5.5 的3D评测",
+    "url": "https://versun.me/blog/tweet-2102550362435760339",
+    "date": "2026-09-23T00:07:24Z",
+    "description": "Stefan 3D AI First Opus 5.5 vs GPT-6 Astra test is 3D. One prompt, Blender only, all procedural. Render the 10-second shot, and record your own build timelapse. Opus 5.5: 35 min, 199.6k output tokens, about $13.3 in API terms. GPT-6 Astra: 28 min, 56.6k output 汇总下目前 opus 5.5 的3D评测，效果是真不错",
+    "source_root_domain": "versun.me"
+  }
+]

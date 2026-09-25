@@ -27,9 +27,12 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-09-25 | [开水](https://mobius.blog/25780.html) | 这个标题来自于坐在我旁边的陌生人，正起身去咖啡厅吧台要求工作人员，往自己的茶杯里接了一杯开水。 她想让工作人员 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
+| 2026-09-24 | [一个值得关注的事： Cloudflare](https://versun.me/blog/tweet-2103266492137840882) | 一个值得关注的事： Cloudflare 的 Python Workers 正式 GA， 原生支持 FastAPI 与 Django，可玩性大大提升了 https://blog.cloudflare.com/python-workers-ga/ |
 | 2026-09-24 | [上学路](https://honmaple.me/posts/2026/09/my-way-to-school/) | 我没有上过幼儿园，我是四岁时上了一年的学前班，接着就开始上一年级。我的妈妈经常说本来老师是不准备接收我的，因为当时我还太小，初入学前班时甚至还不到四岁，可是我哭得太厉害，死活要去上学，最后没办法他们只能和当时的校长也就是我们学前班的老师求情，最终老师还是接收了我。 我是在村委会所在地上的一二年级，离… |
+| 2026-09-24 | [CLM-8B，比jev还要块还要准的模型](https://versun.me/blog/tweet-2103242309995569321) | Jacky Kwok Introducing Contrastive Language Model (CLM): an ultra-fast System One Model trained with a contrastive learning objective that connects st… |
 | 2026-09-24 | [博客三周年，依旧是一些记录](https://blog.mfwt.top/index.php/archives/1633/) | 9/24，明天就中秋了，也是博客正式开始运行的三周年日子，特此纪念。同时，基本上也是决定停止Google AdSense投放的日子。 |
-| 2026-09-24 | [博客时光机 2.0：从随机穿越到看见时间](https://liudon.com/posts/hugo-ipfs-time-machine-v2/) | 前言 9月21日，博客时光机 V1 版本上线。 当时满心欢喜，自己觉得还挺好玩。 但上线后，现实给我泼了一盆冷水。 虽然也在 V2EX 上发帖做了推广，上线到现在，一共才有68次浏览。 |
+| 2026-09-24 | [博客时光机 2.0：在一台 Macintosh 里看见时间](https://liudon.com/posts/hugo-ipfs-time-machine-v2/) | 前言 9月21日，博客时光机 V1 版本上线。 当时满心欢喜，自己觉得还挺好玩。 但上线后，现实给我泼了一盆冷水。 虽然也在 V2EX 上发帖做了推广，上线到现在，一共才有68次浏览。 |
 | 2026-09-24 | [读《中国历代政治得失》](https://depp.wang/2026/china-dvnastic-political-systems/) | 我最开始是在一位同事那里了解到这本书的。 最开始也看了一点，感觉写得比较干，讲的都是制度、官职和税收，就没继续读下去。后来因为看了《万历十五年》，我又想到了这本书。那时我正想了解明代的历史，于是先看了明朝和清朝，之后又把前面的汉朝、唐朝、宋朝都看完了。 这本书还是有很多观点，是我以前从没有想到过的。… |
 | 2026-09-24 | [天展钓Tenkara和在Folkestone挖化石](https://anotherdayu.com/tenkara-folkestone/) | 天展钓 Tenkara 在英国试了试天展钓。 它原本是日本山地溪流里的一种钓法。没有线轮，也不需要复杂的饵和线组。 主体就是一根竿，一根线，一只毛钩。 Less is more，钓鱼这件事变得更依赖人本身。要观察鱼在哪里，看水从石头哪一边流过，哪里形成回水，哪里有树荫，哪里水深突然变化。固定长度的线… |
 | 2026-09-24 | [如何优雅地更新 MACOS 系统上的软件](http://yi.gs/post/duo_updater) | 上一次更新正好是一年前，所以更新一下。 既然是为了更新而更新，就来写写如何更新吧 ；） TL;DR：直接看 「更优雅地更新软件」 小节。 关于 macOS 上的软件安装 与 iOS 正常情况下只能通过 App Store 安装 APP 不同，macOS 有类似 Windows 的自由度来安装和使用第… |
@@ -38,11 +41,14 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-09-24 | [专业的网络延迟波动检测工具 irtt](https://blog.frytea.com/archives/32470) | irtt 专门测长期延迟稳定性和抖动，按固定间隔发包（如每 10ms 一个），统计 RTT、单向延迟、IPDV […] |
 | 2026-09-24 | [鹈鹕骑自行车的html页面生成测试202609（GPT-6 Astra，Gemini 3.8 flash，DeepSeek 4.1 flash）](https://blog.rustfisher.com/ai/pelican-bike-demo202609-gpt6astra-gemini3-8flash-deepseek4-1flash/) | 鹈鹕骑车测试，用同样的提示词，让不同的AI生成一只鹈鹕骑自行车的HTML页面。GPT-6 Astra，Gemini 3.8 flash，DeepSeek 4.1 flash |
 | 2026-09-24 | [一次内存引起的网络丢包问题排查](https://www.kawabangga.com/posts/7422) | 记录一下最近排查的一个问题：某台机器一上线就有丢包，同 Rack 同规格的其他机器都没有问题，由于负载都是一样 […] Continue reading... |
+| 2026-09-24 | [说个题外话，还有人在用 RSS 订阅资讯](https://versun.me/blog/tweet-2102996864631189645) | 说个题外话，还有人在用 RSS 订阅资讯吗？ 我在考虑要不要把 RSSBox 项目归档了。。。 https://rssbox.app https://github.com/versun/rssbox |
 | 2026-09-24 | [用AI【做出来】更容易时，怎么做才能赚钱呢？](https://wenfeixiang.com/2026/09/how-to-get-the-value-in-the-ai-era/) | 最近有个搞笑的梗图：随着 AI 能力的增强，开发者越来越多、用户却越来越少，当用户都不够用了、你还指望这些 A […] |
 | 2026-09-24 | [保持不好意思之心](https://www.hecaitou.com/2026/09/holding-onto-that-little-unease.html) | 以前写博客那会儿，文章里但凡加了广告，读者雪崩一般的抱怨就会汹涌而至：你变了！你堕落了！你不纯粹了！好像其中的某一个，就是约翰·列侬人生里听到的最后一句话，接下来就是轰鸣声了。可见大家当初关系之紧张。 现在则是完全反了过来，文章里但凡介绍什么吃的用的，写成一篇纯散文，读者雷鸣一般的怒吼就会扑面而来：… |
+| 2026-09-24 | [记录下 claude pro 额度 5小](https://versun.me/blog/tweet-2102971446951870844) | Versun 哎，我可真贱，为了 opus 5.5，还是上了 达里奥 的贼床 看看这次能持久几天🥲 记录下 claude pro 额度 5小时用了10%，周用了5%，花费 25M token 预计一周500M，一个月2000M token，也就是20亿token，还可以 |
 | 2026-09-24 | [噩耗，本站的微软 OneDrive E3 MSDN 存储被停止了，大量下载链接急需更新](https://www.cheshirex.com/11179.html) | 今早打开OneDrive 上传资源发现账号已经被停止了，文件还未被删除。 感觉天塌了，上面资源太多了，要一个一 […] |
 | 2026-09-24 | [Plants vs. Zombies updated](https://macsourceports.com/game/pvz) | The build of PvZ Portable for Plants vs. Zombies has been updated to version 0.2.4 of the project |
 | 2026-09-24 | [LXC 热载入设备文件](https://blog.frytea.com/archives/32467) | 下面以向运行中的 LXC 容器注入 `/dev/vhost-net` 为例讲解。 有两种思路:临时注入 […] |
+| 2026-09-24 | [哎，我可真贱，为了 opus 5.5，还](https://versun.me/blog/tweet-2102945482633056415) | 哎，我可真贱，为了 opus 5.5，还是上了 达里奥 的贼床 看看这次能持久几天🥲 |
 | 2026-09-24 | [回国终于安顿下来了，先热个身](https://koukyo.site/posts/startup-warmup-three-carrier-pivots/) | 安顿下来后想热热身，做了个找 YouTuber 邮箱的小工具。同一个后端换了三种壳，从 33 次点击 0 次使用，到有人把 100 次免费额度全部用完。 |
 | 2026-09-24 | [书店消费区](https://mobius.blog/25771.html) | 在书店逛了逛，最后不得不在书店的消费区买了杯茶，落座在几乎没人的昏暗角落。不是因为逛书店逛累了，而是因为书店里 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-09-23 | [VictoriaLogs 集群 Helm 部署笔记（测试环境）](https://199604.com/3722) | VictoriaLogs 集群 Helm 部署笔记（测试环境） 记录时间：2026-09-22 环境：测试集群 […] |
@@ -171,17 +177,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-09-18 | [Bonsai 2 27B！下载中，看看效](https://versun.me/blog/tweet-2100749167320879121) | PrismML Today, we’re announcing Ternary Bonsai 2 27B. Based on Qwen3.8 27B, Bonsai 2 27B is 9x smaller than its full-precision counterpart while retai… |
 | 2026-09-18 | [Union Alpha 原来是 unbi](https://versun.me/blog/tweet-2100747941854224576) | Union Alpha https://x.com/i/article/2100721649901334529 Union Alpha 原来是 unbiased 家的 Pareto 模型 DeepSWE 得分和 GPT 6 打平，噢，和 DS 4.1 flash 也打平了 Pareto 价格：$2.… |
 | 2026-09-18 | [科技爱好者周刊（第 413 期）：再见了，React Native](http://www.ruanyifeng.com/blog/2026/09/weekly-issue-413.html) | 这里记录每周值得分享的科技内容，周五发布。（ [通知] 下周五开始的中秋和十一假期，周刊休息。 ） 本杂志 开源 ，欢迎 投稿 。另有 《谁在招人》 服务，发布程序员招聘信息。合作请 邮件联系 （yifeng.ruan@gmail.com）。 封面图 华东师范大学闵行校区新启用的西校门，仿造了它的前… |
-| 2026-09-17 | [学习周刊-总第281期-2026年第38周](https://wiki.eryajf.net/pages/f4b3b4/) | 如要阅读全文，点击标题跳转。 学习周刊-总第281期 &#124; netsgo &#124; polywise &#124; drawio-skill &#124; CLICD &#124; Swifka &#124; glitter-idea-repo &#124; MacSai |
-| 2026-09-17 | [慢，是一种顶级的判断力](https://blog.zzbd.org/miao20260918/) | 很多人在职场里最大的误区，是把“快”当成能力，把“急”当成敬业。我们习惯性快速反应、快速表态、快速推进、快速定论，以为动作越快、效率越高，就越专业、越靠谱。可一路走来才慢慢明白：真正拉开人与人职场差距的，从来不是做事的速度，而是 判断的精度 。而精准的判断，永远只属于懂得慢下来的人。 |
-| 2026-09-17 | [Meta 智能体 Muse 开放邀请码，双方各得 10 亿词元](https://gugegt.com/meta-muse-invite-code.html) | 你现在打开 muse.ai ，多半会看到一句"你已加入等候名单"。Meta 的个人 AI 智能体 9 月 8 日发布，首批只开了美国等少数地区，中国大陆不在里面。 邀请码通道是 9 月 16 日开的。用别人的码注册，你和对方各得 10 亿个 Muse 词元。 我的码是 HGM2XI 。 |
-| 2026-09-17 | [OSMO Action5Pro 解锁BL并开启adbd](https://blog.alliot.tech/post/osmo-action5pro-unlock-bootloader-adbd) | 不久前，某安上有大佬发现 Action 5 Pro 居然能通过 9008 打开 Bootloader，更意外的是它的 SoC 是骁龙 8 Gen 2（SM8550/QCS8550）, 一台运动相机塞了颗旗舰 SoC，一下子就变得好玩了。此后某安和 B 站陆续有人放出解锁、常驻工厂模式打开 adbd… |
-| 2026-09-17 | [在 DSH 手动启用 OpenCode Go DeepSeek v4.1 新模型](https://blog.frytea.com/archives/32459) | 最近在使用 DeepSeek Harness 时，对接 DeepSeek 官方模型，奈何消耗过高，一会儿就几块 […] |
-| 2026-09-17 | [四年前梦想的生活与现实的生活之书房篇（2026版）](https://www.ixiqin.com/2026/09/17/dream-life-and-real-life-in-the-study-2026-edition/) | 写 Blog 的好处就是，你总是会有一些历史的内容，时不时的浮上来，让你回想起自己曾经的想象。 而对于房子来说 […] |
-| 2026-09-17 | [Blog Theme Update Mermaid Support Is Here](https://www.bboy.app/2026/09/17/blog-theme-update-mermaid-support-is-here/) | Introduction The blog theme now supports Mermaid. From now on, I can put flowcharts, sequence diagrams, and simple architecture diagrams directly into… |
-| 2026-09-17 | [博客主题更新：现在支持 Mermaid 了](https://www.bboy.app/2026/09/17/%E5%8D%9A%E5%AE%A2%E4%B8%BB%E9%A2%98%E6%9B%B4%E6%96%B0%E7%8E%B0%E5%9C%A8%E6%94%AF%E6%8C%81-mermaid-%E4%BA%86/) | 简介 博客主题现在支持 Mermaid 了。以后写流程图、时序图或者简单的架构图，直接在 Markdown 里写 Mermaid 代码就能渲染，不用先画图、导出、上传，再回来补链接。 这篇也顺便拿来测试一下新功能。 |
-| 2026-09-17 | [根本看不过来](https://www.hecaitou.com/2026/09/Impossible-to-Keep-Up.html) | 曾经有段时间，我的家里堆满了新书，新影碟，但是根本没有时间看。一方面我真诚地相信，我需要看这些书，里面有我需要的知识，我也需要看这些影碟，里面有我需要的娱乐。但是我没时间，进度很慢，于是我就感觉到非常焦虑，觉得自己一直在错失什么。 今天我看到一条帖子，教大家如何把微信接入 AI，这样 AI 就可以帮… |
-| 2026-09-17 | [这个世界暂时还不能没有照相馆](https://mobius.blog/25729.html) | 前两天和老婆在讨论，要不要趁着结婚纪念日，带着两只狗去专业的摄影棚拍套全家福。这件事本身不重要，但它让我意识到 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
-| 2026-09-17 | [这就测出来啦？union alpha 是](https://versun.me/blog/tweet-2100392658690768951) | lifcc @OpenRouter @unionalphaai 是谁家的呢？好难猜啊 这就测出来啦？union alpha 是 OpenCode 家的？什么鬼 |
 
 ## Vibe Coding
 
