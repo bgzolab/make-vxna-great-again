@@ -27,6 +27,9 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-09-26 | [弥月佳期-中秋修水行记](https://yovey.me/%e5%bc%a5%e6%9c%88%e4%bd%b3%e6%9c%9f-%e4%b8%ad%e7%a7%8b%e4%bf%ae%e6%b0%b4%e8%a1%8c%e8%ae%b0/) | 清早出发，出城前先在Manner打好咖啡，一路西行。 行至三分之一，过路口的时候低速避让，路肩不平，点不到地， … Continue reading "弥月佳期-中秋修水行记" |
+| 2026-09-26 | [开发了一个云剪贴板服务 Cloud Clipboard](https://hellodk.cn/post/1231) | 跨设备复制粘贴，文本 / 图片 / 文件，一个链接搞定。在电脑 A 上创建一条剪贴板，得到一个形如 https://paste.940304.xyz/a7 的短链接；在手机或另一台电脑上打开这个... |
+| 2026-09-26 | [第一次拜月娘](https://www.hecaitou.com/2026/09/worshipping-moon-goddess-first-time.html) | 我经历过五十多个中秋，今年第一次在中秋夜拜月娘。 如果严格按照潮汕的拜月娘风俗，我最多只能帮着搬一下供桌和拜垫，上香这种事情根本轮不到我，因为在潮汕传统上拜月娘是女性的专属。月亮属阴，象征女性，自己人拜自己人很合理。 但我人在北京，一起赏月的一群人都不是本地人，而是一代移民。说起来，我们各自都是各家… |
 | 2026-09-26 | [Coffee Break Clojure, Vol.2](https://www.geedea.pro/article/clj2/) | 上一篇 我们配置好了 REPL，可以随时开始编写 Clojure 代码并执行。 第零篇 提到，被求值（Eval）的列表叫作形式（form），形式的第一个元素是操作符，剩余的是参数。根据操作符的不同，形式被分为函数形式、Lambda 形式、宏形式和特殊形式。今天的文章就来介绍这几种形式。 函数形式 不… |
 | 2026-09-26 | [2004，没有暑假的夏天](https://www.tortorse.com/archives/2004-summer-without-vacation/) | 招聘会上，人们在展位间看招聘信息 |
 | 2026-09-25 | [中秋快乐](https://blog.solazy.me/20260925/) | 中秋节过得越来越平静了 |
