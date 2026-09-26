@@ -27,11 +27,15 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-09-26 | [出海赚美金:博客域名忘记续费了](https://dsx2016.com/going-global-to-earn-dollars-forgot-to-renew-the-blog-domain/) | 域名过期 前些天感冒，一个星期没好，所有业务都没有时间处理 就在这个敏感时间点，我的博客域名过期了，域名已经被... 出海赚美金:博客域名忘记续费了 最先出现在 大师兄2016 。 |
+| 2026-09-26 | [Coffee Break Clojure, Vol.3](https://www.geedea.pro/article/clj3/) | 上一篇 我们讨论了不同类型的形式，了解了函数、Lambda、宏和特殊形式的皮毛，也学会了用一些基本的运算符、 let 和 if 等等。今天的文章要讨论集合数据类型。不过在此之前，我们还是先看看普通的数据类型有哪些。 今天的文章有点长，所以读的时候，呃…… 准备一杯大号的咖啡？ 你已经知道和你可能不知… |
 | 2026-09-26 | [弥月佳期-中秋修水行记](https://yovey.me/%e5%bc%a5%e6%9c%88%e4%bd%b3%e6%9c%9f-%e4%b8%ad%e7%a7%8b%e4%bf%ae%e6%b0%b4%e8%a1%8c%e8%ae%b0/) | 清早出发，出城前先在Manner打好咖啡，一路西行。 行至三分之一，过路口的时候低速避让，路肩不平，点不到地， … Continue reading "弥月佳期-中秋修水行记" |
 | 2026-09-26 | [开发了一个云剪贴板服务 Cloud Clipboard](https://hellodk.cn/post/1231) | 跨设备复制粘贴，文本 / 图片 / 文件，一个链接搞定。在电脑 A 上创建一条剪贴板，得到一个形如 https://paste.940304.xyz/a7 的短链接；在手机或另一台电脑上打开这个... |
 | 2026-09-26 | [第一次拜月娘](https://www.hecaitou.com/2026/09/worshipping-moon-goddess-first-time.html) | 我经历过五十多个中秋，今年第一次在中秋夜拜月娘。 如果严格按照潮汕的拜月娘风俗，我最多只能帮着搬一下供桌和拜垫，上香这种事情根本轮不到我，因为在潮汕传统上拜月娘是女性的专属。月亮属阴，象征女性，自己人拜自己人很合理。 但我人在北京，一起赏月的一群人都不是本地人，而是一代移民。说起来，我们各自都是各家… |
 | 2026-09-26 | [Coffee Break Clojure, Vol.2](https://www.geedea.pro/article/clj2/) | 上一篇 我们配置好了 REPL，可以随时开始编写 Clojure 代码并执行。 第零篇 提到，被求值（Eval）的列表叫作形式（form），形式的第一个元素是操作符，剩余的是参数。根据操作符的不同，形式被分为函数形式、Lambda 形式、宏形式和特殊形式。今天的文章就来介绍这几种形式。 函数形式 不… |
 | 2026-09-26 | [2004，没有暑假的夏天](https://www.tortorse.com/archives/2004-summer-without-vacation/) | 招聘会上，人们在展位间看招聘信息 |
+| 2026-09-26 | [Python 潮流周刊#169：AI 用 11 天证完费马大定理、Python 拟加 export 关键字、一个 Key 调 3000 个工具](https://pythoncat.top/posts/2026-09-26-weekly/) | 分享了 12 篇文章，12 个开源项目 |
+| 2026-09-25 | [13.8 万星的 free-for-dev：57 类免费额度，替掉我一半的付费订阅](https://gugegt.com/free-for-dev-free-tier-guide.html) | 上周整理订阅列表，发现有 9 个服务在按月扣钱。一个数据库，一个对象存储，一个监控，一个错误追踪，两个只在周末跑一次定时任务的小机器，还有几个我自己都想不起什么时候开通的。 加起来一个月 60 多美元，折人民币四百多。 这些活儿有一个共同点：全都不需要付费。我把账单截图丢进 free-for-dev… |
 | 2026-09-25 | [中秋快乐](https://blog.solazy.me/20260925/) | 中秋节过得越来越平静了 |
 | 2026-09-25 | [这种效果搭配秒控板，不要太爽啊！我想要这](https://versun.me/blog/tweet-2103436216138121265) | Zsolt Kacso I wanted infinite canvas for my desktop. So I built it with Omarchy and Opus. I'm calling it Phantomat. Grab here: https://github.com/kaol… |
 | 2026-09-25 | [Pensieve: 2609](https://xiaket.github.io/2026/pensieve-2609.html) | 所读所观所玩 |

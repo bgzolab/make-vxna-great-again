@@ -1,5 +1,19 @@
 [
   {
+    "title": "出海赚美金:博客域名忘记续费了",
+    "url": "https://dsx2016.com/going-global-to-earn-dollars-forgot-to-renew-the-blog-domain/",
+    "date": "2026-09-26T12:31:00Z",
+    "description": "域名过期 前些天感冒，一个星期没好，所有业务都没有时间处理 就在这个敏感时间点，我的博客域名过期了，域名已经被... 出海赚美金:博客域名忘记续费了 最先出现在 大师兄2016 。",
+    "source_root_domain": "dsx2016.com"
+  },
+  {
+    "title": "Coffee Break Clojure, Vol.3",
+    "url": "https://www.geedea.pro/article/clj3/",
+    "date": "2026-09-26T10:20:05Z",
+    "description": "上一篇 我们讨论了不同类型的形式，了解了函数、Lambda、宏和特殊形式的皮毛，也学会了用一些基本的运算符、 let 和 if 等等。今天的文章要讨论集合数据类型。不过在此之前，我们还是先看看普通的数据类型有哪些。 今天的文章有点长，所以读的时候，呃…… 准备一杯大号的咖啡？ 你已经知道和你可能不知道的 和大部分编程语言一样，Clojure 支持数字、浮点数、字符串和布尔值。 由于 Clojure 是运行在 JVM 上的，所以这些数据类型都对应一个 Java 类。数字是 Long 不是 Int ，前者能表示的最大数是 2 的 63 次方减 1，也就是有 64 位，第一位是符号位，后者是 32 位。 和 Java 一样，Clojure 没有无符号数（unsigned int）。 Clojure 还能在这些类型上调用 Java 的方法，比如 String.getBytes() 。 ( seq ( .getBytes \"Hello\" )) ;; => (72 101 108 108 111) ( type ( first ( seq ( .getBytes \"Hello\" )))) ;; =",
+    "source_root_domain": "geedea.pro"
+  },
+  {
     "title": "弥月佳期-中秋修水行记",
     "url": "https://yovey.me/%e5%bc%a5%e6%9c%88%e4%bd%b3%e6%9c%9f-%e4%b8%ad%e7%a7%8b%e4%bf%ae%e6%b0%b4%e8%a1%8c%e8%ae%b0/",
     "date": "2026-09-26T07:01:04Z",
@@ -33,6 +47,20 @@
     "date": "2026-09-26T00:41:18Z",
     "description": "招聘会上，人们在展位间看招聘信息",
     "source_root_domain": "tortorse.com"
+  },
+  {
+    "title": "Python 潮流周刊#169：AI 用 11 天证完费马大定理、Python 拟加 export 关键字、一个 Key 调 3000 个工具",
+    "url": "https://pythoncat.top/posts/2026-09-26-weekly/",
+    "date": "2026-09-26T00:00:00Z",
+    "description": "分享了 12 篇文章，12 个开源项目",
+    "source_root_domain": "pythoncat.top"
+  },
+  {
+    "title": "13.8 万星的 free-for-dev：57 类免费额度，替掉我一半的付费订阅",
+    "url": "https://gugegt.com/free-for-dev-free-tier-guide.html",
+    "date": "2026-09-25T16:00:00Z",
+    "description": "上周整理订阅列表，发现有 9 个服务在按月扣钱。一个数据库，一个对象存储，一个监控，一个错误追踪，两个只在周末跑一次定时任务的小机器，还有几个我自己都想不起什么时候开通的。 加起来一个月 60 多美元，折人民币四百多。 这些活儿有一个共同点：全都不需要付费。我把账单截图丢进 free-for-dev ，一个 13.8 万星的 GitHub 仓库，翻了一晚上。",
+    "source_root_domain": "gugegt.com"
   },
   {
     "title": "中秋快乐",
