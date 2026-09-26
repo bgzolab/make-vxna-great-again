@@ -1,0 +1,261 @@
+[
+  {
+    "title": "Coffee Break Clojure, Vol.2",
+    "url": "https://www.geedea.pro/article/clj2/",
+    "date": "2026-09-26T02:06:41Z",
+    "description": "上一篇 我们配置好了 REPL，可以随时开始编写 Clojure 代码并执行。 第零篇 提到，被求值（Eval）的列表叫作形式（form），形式的第一个元素是操作符，剩余的是参数。根据操作符的不同，形式被分为函数形式、Lambda 形式、宏形式和特殊形式。今天的文章就来介绍这几种形式。 函数形式 不难理解，函数形式就是操作符为函数的形式，比如这个 println 形式： ( println \"Hello World\" ) 我们知道 \"Hello World\" 是字符串，那 println 是什么类型？在其他语言里我们可能很少考虑函数名本身的类型，但别忘了 Lisp 的「代码即数据」本质。要把待求值的形式当作数据而非形式处理，只需要把它 quote 起来。 这里要引入 Clojure 的 type 函数，它返回输入值的类型。我们不妨把刚才的形式 quote 起来，然后获取他的第一个元素 println ，看看它是什么类型。 ( type ( first ' ( println \"Hello World\" ))) ;; => clojure.lang.Symbol 类型是 Symbol （",
+    "source_root_domain": "geedea.pro"
+  },
+  {
+    "title": "2004，没有暑假的夏天",
+    "url": "https://www.tortorse.com/archives/2004-summer-without-vacation/",
+    "date": "2026-09-26T00:41:18Z",
+    "description": "招聘会上，人们在展位间看招聘信息",
+    "source_root_domain": "tortorse.com"
+  },
+  {
+    "title": "中秋快乐",
+    "url": "https://blog.solazy.me/20260925/",
+    "date": "2026-09-25T15:00:00Z",
+    "description": "中秋节过得越来越平静了",
+    "source_root_domain": "solazy.me"
+  },
+  {
+    "title": "这种效果搭配秒控板，不要太爽啊！我想要这",
+    "url": "https://versun.me/blog/tweet-2103436216138121265",
+    "date": "2026-09-25T10:47:28Z",
+    "description": "Zsolt Kacso I wanted infinite canvas for my desktop. So I built it with Omarchy and Opus. I'm calling it Phantomat. Grab here: https://github.com/kaolti/phantomat Thanks for all the feedback, gl and hf. 这种效果搭配秒控板，不要太爽啊！我想要这个，谁去 vibe 个 mac 版本的出来呀，我的 token 还有用，就不浪费了😂",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "Pensieve: 2609",
+    "url": "https://xiaket.github.io/2026/pensieve-2609.html",
+    "date": "2026-09-25T09:13:00Z",
+    "description": "所读所观所玩",
+    "source_root_domain": "xiaket.org"
+  },
+  {
+    "title": "怯犬",
+    "url": "https://www.geedea.pro/fiction/doggy/",
+    "date": "2026-09-25T07:56:01Z",
+    "description": "一 今晚没有月亮，窗户外面其他人家的灯火也灭了，屋子里很黑，杉松迷迷糊糊地醒了。耳塞不能阻断嗅觉，好几个晚上，他都被香水、汗液和石楠花的味道弄醒，醒来时，他还紧紧地抱着一只玩偶，脸埋在沙发的靠背上。他感到背后有风，一阵远远的响动，随后皮革的气味取代了那些扰人心智的东西。他翻了个身，刚好碰到男友的手臂。 几秒的沉默过后，铭锐开口了：“你要进屋睡吗？”“她走了？”“嗯。”杉松裹着毯子，从沙发上爬起来，怀里还揣着玩偶。他刚才就已经失去了睡意，但还是半眯着眼睛，装成半梦不醒的样子往卧室走去。两个人都很有默契地没开灯，杉松已经适应了黑暗，他转头看见月光洒在家具上，映出冷白色的轮廓。他回过头，那轮廓也出现在了铭锐身上。他一直觉得感受是有形状的，他现在的感受就像是一个卡在胸腔的、半固体半液体的球，薄壁和内脏接触的表面渗出酸液，他竟不觉得疼痛，只是难受。他紧紧地跟在这个男人身后，生怕自己被他弄丢了。卧室门前，铭锐停下来想让杉松先进屋，手掌放在他背上时，杉松觉得他的手像火一样烫。 杉松在床前站定好一会儿，铭锐也只是在一旁看着他，两个人都没有上床。“没事……”，铭锐突然发出声音，“我收拾好了。”杉松又站了",
+    "source_root_domain": "geedea.pro"
+  },
+  {
+    "title": "《火焰纹章 封印之剑》游戏感想",
+    "url": "https://blog.yuanji.dev/posts/fire-emblem-fuuin-no-tsurugi-review/",
+    "date": "2026-09-25T05:39:00Z",
+    "description": "接连写了两篇博客分别介绍了最近购买的复古游戏掌机（见：复古掌机初体验：ANBERNIC RG 34XX）和围绕 […]",
+    "source_root_domain": "gimo.me"
+  },
+  {
+    "title": "终日网上翻垃圾",
+    "url": "https://www.hecaitou.com/2026/09/dumpster-diving-on-the-modern-web.html",
+    "date": "2026-09-25T05:14:57Z",
+    "description": "今天是中秋节，我想聊一点轻松的话题。 这几天我在选电脑显示器，目前我正使用的一台华硕显示器和苹果系统八字越来越冲，会频繁自动黑屏，然后又自动点亮。你想象一下，一个人站在空荡荡的房间里面对一套电脑，然后它毫无征兆地熄灭，等一会儿又自顾自地亮起来。你就说这时候是不是想上网买几道符回来给它贴满？ 再后来即便重新亮起来，屏幕显示会扭曲成一团，感觉是电脑主机和显示器在激烈厮打---不用费心教我如何调试了，这个问题我已经花了两年时间找过所有可能的解决方案，换过无数次连接方式和各种线材。海内外和我一样遭遇的用户都在等固件升级，或者把它换去用 Windows 系统，它们才是真正的天仙配，和苹果系统在一起那是包办婚姻。 不重要了，重要的是我选什么替代显示器？为此，我开始在网上搜索，用 AI 协助分析。但我万万没想到，搜出来的资料大部分都是垃圾，而且是那种纯垃圾---文章很短，话都说不全，根本不知道作者想要表达什么，看下来感觉是在重复几个关键的显示器品牌和型号，目的是为了在搜索结果里占据一席之地。 网络社交平台上是不是好一点呢？的确好一点，起码一篇选品攻略能把人话说全，一二三四都能写明白。但依然还是垃圾，",
+    "source_root_domain": "hecaitou.com"
+  },
+  {
+    "title": "简单让 AI 对比了下 4款 Agent",
+    "url": "https://versun.me/blog/tweet-2103297487486513598",
+    "date": "2026-09-25T01:36:13Z",
+    "description": "简单让 AI 对比了下 4款 Agent 网关工具， 分别是：magpie · cc-switch · CLIProxyAPI · AstrLink 供参考：https://agent-gateway-compare.versun.me",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "开水",
+    "url": "https://mobius.blog/25780.html",
+    "date": "2026-09-25T01:30:00Z",
+    "description": "这个标题来自于坐在我旁边的陌生人，正起身去咖啡厅吧台要求工作人员，往自己的茶杯里接了一杯开水。 她想让工作人员 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。",
+    "source_root_domain": "onojyun.com"
+  },
+  {
+    "title": "这是吹起 ai 网关的风吗，这2天已经看",
+    "url": "https://versun.me/blog/tweet-2103279669412065313",
+    "date": "2026-09-25T00:25:24Z",
+    "description": "yetone One more thing https://usemagpie.ai/ 这是吹起 ai 网关的风吗，这2天已经看到3个大佬在做同样的东西了",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "opus 5.5 上下文在 256k 左",
+    "url": "https://versun.me/blog/tweet-2103279251948707998",
+    "date": "2026-09-25T00:23:45Z",
+    "description": "opus 5.5 上下文在 256k 左右就会出现失忆，我已经遇到2次了，pi agent (max 1M)",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "Raft 开源了！ 但以一种很有意思的方",
+    "url": "https://versun.me/blog/tweet-2103274356134830482",
+    "date": "2026-09-25T00:04:18Z",
+    "description": "stdrc https://x.com/i/article/2103157543891853312 Raft 开源了！ 但以一种很有意思的方式开源，建议看看",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "一个值得关注的事： Cloudflare",
+    "url": "https://versun.me/blog/tweet-2103266492137840882",
+    "date": "2026-09-24T23:33:03Z",
+    "description": "一个值得关注的事： Cloudflare 的 Python Workers 正式 GA， 原生支持 FastAPI 与 Django，可玩性大大提升了 https://blog.cloudflare.com/python-workers-ga/",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "上学路",
+    "url": "https://honmaple.me/posts/2026/09/my-way-to-school/",
+    "date": "2026-09-24T23:18:23Z",
+    "description": "我没有上过幼儿园，我是四岁时上了一年的学前班，接着就开始上一年级。我的妈妈经常说本来老师是不准备接收我的，因为当时我还太小，初入学前班时甚至还不到四岁，可是我哭得太厉害，死活要去上学，最后没办法他们只能和当时的校长也就是我们学前班的老师求情，最终老师还是接收了我。 我是在村委会所在地上的一二年级，离家大概一公里左右，每天中午都能回家吃饭。 那时候学校老师很少，只有三四人，所以经常会把高年级学生和低年级学生混在一起上课，我上一年级时会和四年级的人一起，二年级时会和五年级的人一起。老师也只区分语文老师和数学老师，其它的所有课都是由两位老师代授，现在想来那时候的老师还挺全能的。当时最喜欢的就是上体育课，因为体育课基本不会在学校里上课，而是去村子之间的公路上，甚至是学校旁的田野边。印象最深的是一次春游，一群小不点翻山越岭去一个大坝上吃东西，哈哈 三年级时学校改革，我的第一个小学撤销了，所有学生都要去五公里之外的乡镇上学，每天只能往返一次学校。 我还记得早自习是早上7点20，五公里大概要走一个小时左右。早上的山路很黑，黑到甚至看不清路...",
+    "source_root_domain": "honmaple.me"
+  },
+  {
+    "title": "CLM-8B，比jev还要块还要准的模型",
+    "url": "https://versun.me/blog/tweet-2103242309995569321",
+    "date": "2026-09-24T21:56:57Z",
+    "description": "Jacky Kwok Introducing Contrastive Language Model (CLM): an ultra-fast System One Model trained with a contrastive learning objective that connects states and actions. CLM-8B is pre-trained on internet-scale data and delivers up to 9× faster inference than Jev CLM-8B，比jev还要块还要准的模型，可以本地部署个玩一玩",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "博客三周年，依旧是一些记录",
+    "url": "https://blog.mfwt.top/index.php/archives/1633/",
+    "date": "2026-09-24T15:58:36Z",
+    "description": "9/24，明天就中秋了，也是博客正式开始运行的三周年日子，特此纪念。同时，基本上也是决定停止Google AdSense投放的日子。",
+    "source_root_domain": "mfwt.top"
+  },
+  {
+    "title": "博客时光机 2.0：在一台 Macintosh 里看见时间",
+    "url": "https://liudon.com/posts/hugo-ipfs-time-machine-v2/",
+    "date": "2026-09-24T15:10:42Z",
+    "description": "前言 9月21日，博客时光机 V1 版本上线。 当时满心欢喜，自己觉得还挺好玩。 但上线后，现实给我泼了一盆冷水。 虽然也在 V2EX 上发帖做了推广，上线到现在，一共才有68次浏览。",
+    "source_root_domain": "liudon.com"
+  },
+  {
+    "title": "他说的不一定对",
+    "url": "https://blog.solazy.me/202609/",
+    "date": "2026-09-24T15:00:00Z",
+    "description": "今天浅谈个生活中的小事儿引发的思考",
+    "source_root_domain": "solazy.me"
+  },
+  {
+    "title": "读《中国历代政治得失》",
+    "url": "https://depp.wang/2026/china-dvnastic-political-systems/",
+    "date": "2026-09-24T13:50:28Z",
+    "description": "我最开始是在一位同事那里了解到这本书的。 最开始也看了一点，感觉写得比较干，讲的都是制度、官职和税收，就没继续读下去。后来因为看了《万历十五年》，我又想到了这本书。那时我正想了解明代的历史，于是先看了明朝和清朝，之后又把前面的汉朝、唐朝、宋朝都看完了。 这本书还是有很多观点，是我以前从没有想到过的。 可能很多人都和我一样，觉得中华民国建立之前，中国古代的制度大体上都是封建的、落后的、不可取的。可是钱穆这本书并不是简单地否定过去。他会把每个朝代的制度放回当时的历史条件里，看它为什么这样设计，后来又为什么产生问题。 我读完才发现，古代制度里也有不少值得细看的安排。它们后来出了问题，不等于一开始就没有道理。 在正式讲各个朝代之前，我还想先说一下钱穆对「封建」的解释。真正的封建世袭，是天子的儿子还是天子，诸侯的儿子还是诸侯，卿大夫的儿子还是卿大夫，政治身份和官位都在家族内部传下去。 秦汉以后，做官已经不再照着这套世袭办法来。钱穆往下讲汉、唐、宋、明、清，也不是把它们当成一个笼统的「封建时代」，而是逐个看政府由谁来管、权力怎样分配。我最先看的明朝，正好让我看到这种差别。",
+    "source_root_domain": "depp.wang"
+  },
+  {
+    "title": "天展钓Tenkara和在Folkestone挖化石",
+    "url": "https://anotherdayu.com/tenkara-folkestone/",
+    "date": "2026-09-24T13:02:00Z",
+    "description": "天展钓 Tenkara 在英国试了试天展钓。 它原本是日本山地溪流里的一种钓法。没有线轮，也不需要复杂的饵和线组。 主体就是一根竿，一根线，一只毛钩。 Less is more，钓鱼这件事变得更依赖人本身。要观察鱼在哪里，看水从石头哪一边流过，哪里形成回水，哪里有树荫，哪里水深突然变化。固定长度的线也意味着，你不能站在岸边把毛钩一直抛向远处，很多时候必须自己走过去。 它甚至不需要真正的饵料。毛钩本身只是羽毛、丝线等材料扎成的人工拟饵。入水后，借助水流和竿尖的轻微动作，可以让毛钩像一只正在漂流、游动，或者落水后挣扎的昆虫，从而吸引鱼类的注意力咬钩。 这种和鱼和环境互动的感觉，很惬意。 以前徒步时，溪流只是沿途风景。开始钓鱼后，才会注意到石后的缓流、窄口后的深潭、树根下的阴影，以及水下石块改变的水流。 Tenkara 和徒步天然地连在了一起，我很喜欢这一点。 Folkestone 挖化石 Folkestone 的黏土海崖非常容易侵蚀。雨水使崖壁崩落，冬季风暴和潮水又不断冲刷海滩，慢慢的将化石剥离出来。所以只要找到合适的区域，很容易捡到化石。 相比于一天只钓上两条鱼，化石的正反馈则多得多。沙",
+    "source_root_domain": "anotherdayu.com"
+  },
+  {
+    "title": "如何优雅地更新 MACOS 系统上的软件",
+    "url": "http://yi.gs/post/duo_updater",
+    "date": "2026-09-24T11:29:40Z",
+    "description": "上一次更新正好是一年前，所以更新一下。 既然是为了更新而更新，就来写写如何更新吧 ；） TL;DR：直接看 「更优雅地更新软件」 小节。 关于 macOS 上的软件安装 与 iOS 正常情况下只能通过 App Store 安装 APP 不同，macOS 有类似 Windows 的自由度来安装和使用第三方软件。 在「设置」-「隐私与安全性」-「安全性」-「允许以下来源的应用程序」中开启「App Store 与已知开发者」后，无论是通过 Homebrew 还是软件官网下载，只要第三方软件满足以下两点即可直接使用： 有效代码签名（Developer ID 证书签名） 开发者加入 99 刀/年的 Apple Developer Program 来获取 Developer ID 证书。 苹果公证（Notarization） 开发者把签好名的 App 上传到 Apple Notary Service，苹果自动扫描通过后打上公证凭证。 关于在 macOS 上更新软件 安装后，对于新版强迫症患者最大的问题是 macOS 上的更新途径非常分散且不够优雅： 使用 App Store 更新 App Stor",
+    "source_root_domain": "yi.gs"
+  },
+  {
+    "title": "高鲁棒性 API 设计之 Idempotency Key：并发请求与执行一致性",
+    "url": "https://blog.yasking.org/a/idempotency-key-concurrency-control",
+    "date": "2026-09-24T11:15:00Z",
+    "description": "高鲁棒性 API 设计系列 1 Idempotency Key 幂等键 2 并发请求与执行一致性 上一篇介绍幂等键留下一些问题，幂等键有了，如果两个请 …",
+    "source_root_domain": "yasking.org"
+  },
+  {
+    "title": "青甘行 序曲",
+    "url": "https://hux.ink/posts/qinggan-trip-01/",
+    "date": "2026-09-24T07:14:56Z",
+    "description": "「中秋」说每年带娃出去旅行一趟，今年继续执行。 今年选择的目的地是青海—甘肃大环线自驾游。她原本的计划是国庆期间去海南环岛游，问我要不要去当司机。我说与其去海南，不如再请三天假，与中秋节连休，组个超长假去新疆或走一趟青甘环线。 一拍即合，选定了青甘行。一个多月前，我提前报备请假获批，「中秋」同学便正式开始研究路线、规划行程和预订住宿，前前后后折腾了一个多月，终于把这趟旅行安排得七七八八。 深圳直飞太贵了，为了省点钱，去程选择了高铁到南昌中转的方案。今晚就要启程去南昌，明天中午还可以在南昌过个中秋节，「中秋」同学也可以在家简单过个生日，明天下午再搭乘航班从南昌飞往西宁。 考虑到这次旅行，我们夫妻二人和小孩同程在路上，要经历高铁、飞机以及十多天的自驾行程。昨晚我做了一个决定，将家庭的财产账户情况在纸条上简单写下，交给了我妈。 说实话，做这件事的时候，心里多少有些异样，包括将纸条给我妈的那一刻她的反应。明明是满怀期待地准备出门旅行，却提前考虑起了万一的事情，总觉得有些不吉利。虽然没有多少财产，但我觉得这是有必要的。常怀敬畏、未雨绸缪。风险本来就客观存在，并不会因为主观上想或者不想而改变。 满",
+    "source_root_domain": "hux.ink"
+  },
+  {
+    "title": "专业的网络延迟波动检测工具 irtt",
+    "url": "https://blog.frytea.com/archives/32470",
+    "date": "2026-09-24T06:42:54Z",
+    "description": "irtt 专门测长期延迟稳定性和抖动，按固定间隔发包（如每 10ms 一个），统计 RTT、单向延迟、IPDV […]",
+    "source_root_domain": "frytea.com"
+  },
+  {
+    "title": "鹈鹕骑自行车的html页面生成测试202609（GPT-6 Astra，Gemini 3.8 flash，DeepSeek 4.1 flash）",
+    "url": "https://blog.rustfisher.com/ai/pelican-bike-demo202609-gpt6astra-gemini3-8flash-deepseek4-1flash/",
+    "date": "2026-09-24T06:12:59Z",
+    "description": "鹈鹕骑车测试，用同样的提示词，让不同的AI生成一只鹈鹕骑自行车的HTML页面。GPT-6 Astra，Gemini 3.8 flash，DeepSeek 4.1 flash",
+    "source_root_domain": "rustfisher.com"
+  },
+  {
+    "title": "一次内存引起的网络丢包问题排查",
+    "url": "https://www.kawabangga.com/posts/7422",
+    "date": "2026-09-24T06:09:24Z",
+    "description": "记录一下最近排查的一个问题：某台机器一上线就有丢包，同 Rack 同规格的其他机器都没有问题，由于负载都是一样 […] Continue reading...",
+    "source_root_domain": "kawabangga.com"
+  },
+  {
+    "title": "说个题外话，还有人在用 RSS 订阅资讯",
+    "url": "https://versun.me/blog/tweet-2102996864631189645",
+    "date": "2026-09-24T05:41:38Z",
+    "description": "说个题外话，还有人在用 RSS 订阅资讯吗？ 我在考虑要不要把 RSSBox 项目归档了。。。 https://rssbox.app https://github.com/versun/rssbox",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "用AI【做出来】更容易时，怎么做才能赚钱呢？",
+    "url": "https://wenfeixiang.com/2026/09/how-to-get-the-value-in-the-ai-era/",
+    "date": "2026-09-24T04:03:10Z",
+    "description": "最近有个搞笑的梗图：随着 AI 能力的增强，开发者越来越多、用户却越来越少，当用户都不够用了、你还指望这些 A […]",
+    "source_root_domain": "wenfeixiang.com"
+  },
+  {
+    "title": "保持不好意思之心",
+    "url": "https://www.hecaitou.com/2026/09/holding-onto-that-little-unease.html",
+    "date": "2026-09-24T04:01:04Z",
+    "description": "以前写博客那会儿，文章里但凡加了广告，读者雪崩一般的抱怨就会汹涌而至：你变了！你堕落了！你不纯粹了！好像其中的某一个，就是约翰·列侬人生里听到的最后一句话，接下来就是轰鸣声了。可见大家当初关系之紧张。 现在则是完全反了过来，文章里但凡介绍什么吃的用的，写成一篇纯散文，读者雷鸣一般的怒吼就会扑面而来：链接呢？没链接你说那么热闹干嘛？消费主义真厉害，在十多年间彻底改变了读者，让他们接受了软文接购买链接这种固定形式，认定文章如果打动了自己，下面没有个链接就不大对。 虽然世事已然如此，但我还是坚持认为，自己应该保持一点不好意思之心。 按照我的想法，我写文章，读者来看文字，他们的期待就是读点什么。这里的「什么」，一般不包括营销和广告文字。当然，通过网络经年累月的训练，读者已经习惯了这样的事，反应逐渐变得不是那么强烈，但不等于我可以心安理得地那么去干。 人和人之间的信任在网络世界里是脆弱的，要花很长的时间点滴建立。在这个过程里，我见过许多人反复取关，我也见过很多人持续骂了我许多年。这十多年下来，每天还愿意来看一下我更新的读者百不存一。这不是一种文学修辞，而是严格的统计学结果。 正因为百不存一，剩下",
+    "source_root_domain": "hecaitou.com"
+  },
+  {
+    "title": "记录下 claude pro 额度 5小",
+    "url": "https://versun.me/blog/tweet-2102971446951870844",
+    "date": "2026-09-24T04:00:38Z",
+    "description": "Versun 哎，我可真贱，为了 opus 5.5，还是上了 达里奥 的贼床 看看这次能持久几天🥲 记录下 claude pro 额度 5小时用了10%，周用了5%，花费 25M token 预计一周500M，一个月2000M token，也就是20亿token，还可以",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "噩耗，本站的微软 OneDrive E3 MSDN 存储被停止了，大量下载链接急需更新",
+    "url": "https://www.cheshirex.com/11179.html",
+    "date": "2026-09-24T03:37:56Z",
+    "description": "今早打开OneDrive 上传资源发现账号已经被停止了，文件还未被删除。 感觉天塌了，上面资源太多了，要一个一 […]",
+    "source_root_domain": "cheshirex.com"
+  },
+  {
+    "title": "Plants vs. Zombies updated",
+    "url": "https://macsourceports.com/game/pvz",
+    "date": "2026-09-24T03:28:27Z",
+    "description": "The build of PvZ Portable for Plants vs. Zombies has been updated to version 0.2.4 of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "LXC 热载入设备文件",
+    "url": "https://blog.frytea.com/archives/32467",
+    "date": "2026-09-24T02:34:14Z",
+    "description": "下面以向运行中的 LXC 容器注入 `/dev/vhost-net` 为例讲解。 有两种思路:临时注入 […]",
+    "source_root_domain": "frytea.com"
+  },
+  {
+    "title": "哎，我可真贱，为了 opus 5.5，还",
+    "url": "https://versun.me/blog/tweet-2102945482633056415",
+    "date": "2026-09-24T02:17:28Z",
+    "description": "哎，我可真贱，为了 opus 5.5，还是上了 达里奥 的贼床 看看这次能持久几天🥲",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "回国终于安顿下来了，先热个身",
+    "url": "https://koukyo.site/posts/startup-warmup-three-carrier-pivots/",
+    "date": "2026-09-24T02:00:00Z",
+    "description": "安顿下来后想热热身，做了个找 YouTuber 邮箱的小工具。同一个后端换了三种壳，从 33 次点击 0 次使用，到有人把 100 次免费额度全部用完。",
+    "source_root_domain": "koukyo.site"
+  },
+  {
+    "title": "书店消费区",
+    "url": "https://mobius.blog/25771.html",
+    "date": "2026-09-24T01:30:00Z",
+    "description": "在书店逛了逛，最后不得不在书店的消费区买了杯茶，落座在几乎没人的昏暗角落。不是因为逛书店逛累了，而是因为书店里 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。",
+    "source_root_domain": "onojyun.com"
+  }
+]

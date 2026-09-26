@@ -27,12 +27,19 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-09-26 | [Coffee Break Clojure, Vol.2](https://www.geedea.pro/article/clj2/) | 上一篇 我们配置好了 REPL，可以随时开始编写 Clojure 代码并执行。 第零篇 提到，被求值（Eval）的列表叫作形式（form），形式的第一个元素是操作符，剩余的是参数。根据操作符的不同，形式被分为函数形式、Lambda 形式、宏形式和特殊形式。今天的文章就来介绍这几种形式。 函数形式 不… |
+| 2026-09-26 | [2004，没有暑假的夏天](https://www.tortorse.com/archives/2004-summer-without-vacation/) | 招聘会上，人们在展位间看招聘信息 |
 | 2026-09-25 | [中秋快乐](https://blog.solazy.me/20260925/) | 中秋节过得越来越平静了 |
+| 2026-09-25 | [这种效果搭配秒控板，不要太爽啊！我想要这](https://versun.me/blog/tweet-2103436216138121265) | Zsolt Kacso I wanted infinite canvas for my desktop. So I built it with Omarchy and Opus. I'm calling it Phantomat. Grab here: https://github.com/kaol… |
 | 2026-09-25 | [Pensieve: 2609](https://xiaket.github.io/2026/pensieve-2609.html) | 所读所观所玩 |
 | 2026-09-25 | [怯犬](https://www.geedea.pro/fiction/doggy/) | 一 今晚没有月亮，窗户外面其他人家的灯火也灭了，屋子里很黑，杉松迷迷糊糊地醒了。耳塞不能阻断嗅觉，好几个晚上，他都被香水、汗液和石楠花的味道弄醒，醒来时，他还紧紧地抱着一只玩偶，脸埋在沙发的靠背上。他感到背后有风，一阵远远的响动，随后皮革的气味取代了那些扰人心智的东西。他翻了个身，刚好碰到男友的手臂… |
 | 2026-09-25 | [《火焰纹章 封印之剑》游戏感想](https://blog.yuanji.dev/posts/fire-emblem-fuuin-no-tsurugi-review/) | 接连写了两篇博客分别介绍了最近购买的复古游戏掌机（见：复古掌机初体验：ANBERNIC RG 34XX）和围绕 […] |
 | 2026-09-25 | [终日网上翻垃圾](https://www.hecaitou.com/2026/09/dumpster-diving-on-the-modern-web.html) | 今天是中秋节，我想聊一点轻松的话题。 这几天我在选电脑显示器，目前我正使用的一台华硕显示器和苹果系统八字越来越冲，会频繁自动黑屏，然后又自动点亮。你想象一下，一个人站在空荡荡的房间里面对一套电脑，然后它毫无征兆地熄灭，等一会儿又自顾自地亮起来。你就说这时候是不是想上网买几道符回来给它贴满？ 再后来即… |
+| 2026-09-25 | [简单让 AI 对比了下 4款 Agent](https://versun.me/blog/tweet-2103297487486513598) | 简单让 AI 对比了下 4款 Agent 网关工具， 分别是：magpie · cc-switch · CLIProxyAPI · AstrLink 供参考：https://agent-gateway-compare.versun.me |
 | 2026-09-25 | [开水](https://mobius.blog/25780.html) | 这个标题来自于坐在我旁边的陌生人，正起身去咖啡厅吧台要求工作人员，往自己的茶杯里接了一杯开水。 她想让工作人员 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
+| 2026-09-25 | [这是吹起 ai 网关的风吗，这2天已经看](https://versun.me/blog/tweet-2103279669412065313) | yetone One more thing https://usemagpie.ai/ 这是吹起 ai 网关的风吗，这2天已经看到3个大佬在做同样的东西了 |
+| 2026-09-25 | [opus 5.5 上下文在 256k 左](https://versun.me/blog/tweet-2103279251948707998) | opus 5.5 上下文在 256k 左右就会出现失忆，我已经遇到2次了，pi agent (max 1M) |
+| 2026-09-25 | [Raft 开源了！ 但以一种很有意思的方](https://versun.me/blog/tweet-2103274356134830482) | stdrc https://x.com/i/article/2103157543891853312 Raft 开源了！ 但以一种很有意思的方式开源，建议看看 |
 | 2026-09-24 | [一个值得关注的事： Cloudflare](https://versun.me/blog/tweet-2103266492137840882) | 一个值得关注的事： Cloudflare 的 Python Workers 正式 GA， 原生支持 FastAPI 与 Django，可玩性大大提升了 https://blog.cloudflare.com/python-workers-ga/ |
 | 2026-09-24 | [上学路](https://honmaple.me/posts/2026/09/my-way-to-school/) | 我没有上过幼儿园，我是四岁时上了一年的学前班，接着就开始上一年级。我的妈妈经常说本来老师是不准备接收我的，因为当时我还太小，初入学前班时甚至还不到四岁，可是我哭得太厉害，死活要去上学，最后没办法他们只能和当时的校长也就是我们学前班的老师求情，最终老师还是接收了我。 我是在村委会所在地上的一二年级，离… |
 | 2026-09-24 | [CLM-8B，比jev还要块还要准的模型](https://versun.me/blog/tweet-2103242309995569321) | Jacky Kwok Introducing Contrastive Language Model (CLM): an ultra-fast System One Model trained with a contrastive learning objective that connects st… |
@@ -166,23 +173,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-09-19 | [做测试集是真不容易呀，除了收集完善题目外](https://versun.me/blog/tweet-2101103663112687698) | Versun 正在做一份本地模型的实用能力排行榜，测试集是从各种公开 benchmark中挑选微调，覆盖任务拆解、代码开发、长链路执行、上下文、指令遵循、记忆抽取、逻辑与常识 7 个维度 目前针对本地模型的评测很少，不知道有人感兴趣不，关注人多的话，我尽快测完放出来 做测试集是真不容易呀，除了收集完… |
 | 2026-09-19 | [用了一周多的 gemini 3.8 fl](https://versun.me/blog/tweet-2101099541546361260) | 用了一周多的 gemini 3.8 flash，说说感受 智商在线，代码能力和 k3 差不多，速度快，说人话 但不适合做 review，唯命是从，不够独立，不够自信 |
 | 2026-09-19 | [Python 潮流周刊#168：AI 智能体少写一半代码、Numba 提速 750 倍、PyPI 故障查了两周](https://pythoncat.top/posts/2026-09-19-weekly/) | 分享了 12 篇文章，12 个开源项目 |
-| 2026-09-18 | [Coffee Break Clojure, Vol.1](https://www.geedea.pro/article/tutorial-clj-1/) | 上一篇 我们了解了 Lisp 中「代码即数据」的本质，知道了不求值（Eval）的列表就是数据，被求值的列表就是代码，而代码可以像数据一样经过任意的变换之后再求值。我们还捋了捋列表、形式、对象和原子的概念，可以说，读者已经掌握 Lisp 语法的精髓了。这里除了括号和待求值的一堆括号，别无他物。 了解了… |
-| 2026-09-18 | [Origin、Grok Bot体验与Gantry（Courier）](https://elmagnifico.tech/2026/09/19/Cursor-Origin-GrokBot/) | Foreword Origin和Grok Bot体验，然后让我发现了有意思的东西，Gantry Origin 前段时间Cursor也开始弄自己的代码托管平台了，Origin，刚好上线那天就是Github崩溃的时候 登录 cursor.com/codebase 第一次同步需要新建一个用户路径，我的常用… |
-| 2026-09-18 | [离职日流水账 0918](https://blog.solazy.me/20260918/) | 今天是我这份工作的 lastday |
-| 2026-09-18 | [Doherty 多尔蒂阈值](https://blog.est.im/2026/stderr-29) | 前几天鼠标坏了。随手换了个新的，双飞燕。没想到这垃圾鼠标居然在 macbook 下有间歇性卡顿 失联问题，表现是光标不动 怀疑是 系统问题，驱动问题，鼠标本身，商家卖假货问题。最后想明白了，这几十元破玩意就tmd不值得去折腾心态。直接扔。 回想了一下，这玩意其实对工作影响比意料中的大得多。平时操作触… |
-| 2026-09-18 | [做作品集用什么软件好？推荐你试试Figma Slides【效率工具指南】](https://penghh.fun/2026/09/18/2026-9-18-portfolio/) | <script src=" |
-| 2026-09-18 | [Al Brooks：10 个最佳价格行为交易形态（全解析与中文图解）](https://blog.forecho.com/10-best-price-action-trading-patterns.html) | 引言 这 10 个最佳价格行为交易形态（10 Best Price Action Trading Patterns） 是 Al Brooks 最青睐的形态。成功的交易员每天都在运用这些形态从市场中获利。在实际应用中要保持灵活，因为每个形态都有许多变体。只要你对所有可能性保持开放的心态，就会在每个交易… |
-| 2026-09-18 | [当苍蝇尝试在蛋上钻缝：又谈站点垃圾广告](https://blog.mfwt.top/index.php/archives/1598/) | 又休息了一段时间之后，回来更一篇吧。虽然还没完全适应过来，尤其是精力不足的问题多少还是有点，但日子总得过下去，因此只能想办法继续调整了。这篇博文，算是翻出来点冷饭，掺点新鲜饭，炒一炒。之前已经有... |
-| 2026-09-18 | [线性代数复习](https://physnya.top/numerical-analysis/lesson-2-linear-algebra/) | 警告 没讲什么比较新的内容，所以半节课都在看文章... R n \R^n R n 上比较一般的范数定义是 p p p - 范数 ( 1 ⩽ p ∞ 1\leqslant p 1 ⩽ p ∞ )， |
-| 2026-09-18 | [pi add system prompt](https://blog.mkacg.com/2026/09/18/pi-add-system-prompt/) | 可以在 ~/.pi/agent/APPEND_SYSTEMD.md 里给 agent 追加自己的一些提示词，作用是为了让 agent 能根据我的要求约束行为。 在我这份提示词里，我基于 Dwsy/agent |
-| 2026-09-18 | [AI 最前沿的人，已经不聊模型了](https://www.evan.xin/5103/) | 一、服务裹着能力：FDE 与"模型能力—业务"的落差 二、国内大厂与海外的差别，以及低成本用户漏斗 三、速度不 […] |
-| 2026-09-18 | [Agent、Skills 和 MCP 的区别](https://199604.com/3716) | Agent、Skills 和 MCP 的区别 记录时间：2026-09-16 环境：无（概念梳理，不是部署记录 […] |
-| 2026-09-18 | [技术恶性循环](https://www.hecaitou.com/2026/09/fixing-tech-with-tech-a-vicious-cycle.html) | 我想，我们不能总是用技术手段解决技术带来的问题，那样会没完没了。 比如说，书太多看不完，让 AI 给一个简要总结。电影看不完，让 AI 给一个剧情介绍。AI 当然效率很高，高到产生新的问题：你会在短时间内得到一堆书籍简要总结，一堆电影剧情简介，那么，接下来你是不是要继续让 AI 做总结的总结，简介的… |
-| 2026-09-18 | [DeepSeek-V4.1-Flash: Pushing the Limits of KV Cache Compression](https://mer.run/posts/deepseek-v41-flash-pushing-the-limits-of-kv-cache-compression/) | DeepSeek V4.1 Flash的技术报告。 |
-| 2026-09-18 | [从废品回收，到自我价值](https://mobius.blog/25745.html) | 前两天跟@孤斗 在聊写小说的事，他身上有很强烈的“感性能量”，这是小说创作者需要具备的创作能量之一，所以我给了 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
-| 2026-09-18 | [Bonsai 2 27B！下载中，看看效](https://versun.me/blog/tweet-2100749167320879121) | PrismML Today, we’re announcing Ternary Bonsai 2 27B. Based on Qwen3.8 27B, Bonsai 2 27B is 9x smaller than its full-precision counterpart while retai… |
-| 2026-09-18 | [Union Alpha 原来是 unbi](https://versun.me/blog/tweet-2100747941854224576) | Union Alpha https://x.com/i/article/2100721649901334529 Union Alpha 原来是 unbiased 家的 Pareto 模型 DeepSWE 得分和 GPT 6 打平，噢，和 DS 4.1 flash 也打平了 Pareto 价格：$2.… |
-| 2026-09-18 | [科技爱好者周刊（第 413 期）：再见了，React Native](http://www.ruanyifeng.com/blog/2026/09/weekly-issue-413.html) | 这里记录每周值得分享的科技内容，周五发布。（ [通知] 下周五开始的中秋和十一假期，周刊休息。 ） 本杂志 开源 ，欢迎 投稿 。另有 《谁在招人》 服务，发布程序员招聘信息。合作请 邮件联系 （yifeng.ruan@gmail.com）。 封面图 华东师范大学闵行校区新启用的西校门，仿造了它的前… |
 
 ## Vibe Coding
 
