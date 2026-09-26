@@ -27,6 +27,8 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-09-26 | [是琐碎的小事让我活着](https://www.geedea.pro/article/little-things/) | 这几天试了试不同的搜索引擎，其实也没有厌倦 Kagi，只是他们似乎在往邮件、新闻这些业务上拓展了，让我有点担心某天会发病，所以在物色替代品。搜索关键词很自负地搜了自己博客的名字，结果发现两三个镜像站聚合了我的 RSS，然后用语言模型生成了非常诡异的总结，还改了我的标题，机翻了我的英文文章。罢了，不去… |
+| 2026-09-26 | [Node.js、浏览器和 Cloudflare Workers 的wasm引入问题](https://blog.est.im/2026/stdout-36) | 最近在鼓捣 WebAssembly，这玩意没啥神秘的，可以看出一坨二进制的 .js 库文件 它本身的export和调用方式是统一的，但如今天我才知道，在不同 JavaScript 运行环境加载 .wasm 方式并不完全一样。 例如 Cloudflare Workers 可以直接： import wa… |
 | 2026-09-26 | [出海赚美金:博客域名忘记续费了](https://dsx2016.com/going-global-to-earn-dollars-forgot-to-renew-the-blog-domain/) | 域名过期 前些天感冒，一个星期没好，所有业务都没有时间处理 就在这个敏感时间点，我的博客域名过期了，域名已经被... 出海赚美金:博客域名忘记续费了 最先出现在 大师兄2016 。 |
 | 2026-09-26 | [Coffee Break Clojure, Vol.3](https://www.geedea.pro/article/clj3/) | 上一篇 我们讨论了不同类型的形式，了解了函数、Lambda、宏和特殊形式的皮毛，也学会了用一些基本的运算符、 let 和 if 等等。今天的文章要讨论集合数据类型。不过在此之前，我们还是先看看普通的数据类型有哪些。 今天的文章有点长，所以读的时候，呃…… 准备一杯大号的咖啡？ 你已经知道和你可能不知… |
 | 2026-09-26 | [弥月佳期-中秋修水行记](https://yovey.me/%e5%bc%a5%e6%9c%88%e4%bd%b3%e6%9c%9f-%e4%b8%ad%e7%a7%8b%e4%bf%ae%e6%b0%b4%e8%a1%8c%e8%ae%b0/) | 清早出发，出城前先在Manner打好咖啡，一路西行。 行至三分之一，过路口的时候低速避让，路肩不平，点不到地， … Continue reading "弥月佳期-中秋修水行记" |
