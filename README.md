@@ -27,9 +27,18 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-09-27 | [微信公众号文章多平台分发](https://dsx2016.com/multi-platform-distribution-of-wechat-official-account-articles/) | 公众号文章 以前把独立博客作为主要平台，微信公众号酌情作为副平台 因为独立博客可以写自己想写的，不限制字数，不... 微信公众号文章多平台分发 最先出现在 大师兄2016 。 |
+| 2026-09-27 | [Toots 438 2026 Sep.20 - Sep.26](https://z.arlmy.me/posts/MastodonArchives/2026/MastodonTootsArchives_20260926/) | 「基础设置与寄生。」 |
+| 2026-09-27 | [入蜀记 day488 非中非欧美](https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_488/) | 「非中非欧美。」 |
+| 2026-09-27 | [入蜀记 day487 多、小、控、熵、逆](https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_487/) | 「多、小、控、熵、逆。」 |
+| 2026-09-27 | [入蜀记 day486 潮湿](https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_486/) | 「潮湿。」 |
+| 2026-09-27 | [入蜀记 day485 海鲜pasta](https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_485/) | 「海鲜pasta」 |
+| 2026-09-27 | [博客时光机 2.0 后端篇：构建可视索引](https://liudon.com/posts/hugo-ipfs-time-machine-v2-visual-index/) | 前言 上一篇介绍了 博客时光机 2.0 的更新，这篇来聊聊它背后的实现。 2.0 想做的事情其实很直观： 让博客从过去开始，一版一版走到今天。 原本以为，把历史页面截下来，按时间播放就行了。 |
+| 2026-09-27 | [如何寻找与选购免执照的 409MHz 公众对讲机](https://blog.mfwt.top/index.php/archives/1640/) | 之前笔者写了很多关于合法使用对讲机的博文，比如谨慎购买网红对讲机（原因：所用的频段不是普通对讲机频段），等等。在聊到合规性的话题时候，基本上都会提到，那种对讲机为什么是不合法的，合法的替代品有哪... |
+| 2026-09-27 | [从wireguard代理换回frp内网穿透](https://dsx2016.com/switching-back-from-a-wireguard-proxy-to-frp-for-nat-traversal/) | 总是断线 使用wireguard，在linux上大概一周左右回掉线一次，看起来是正常，实际上网络是假连接，业务... 从wireguard代理换回frp内网穿透 最先出现在 大师兄2016 。 |
 | 2026-09-27 | [2026.9.27](https://www.justzht.com/2026-9-27/) | 周六的时候给 E39 买的车机到了，因此下午就在装。拆开中控，把 Business CD 机拔出来，发现上任车主自己接线搞了一个蓝 |
 | 2026-09-27 | [前挡玻璃上的划痕](https://blog.solazy.me/20260927/) | 刚下高速，路上发生一件事儿 |
-| 2026-09-27 | [Emacs 代碼块导出复用](https://taxodium.ink/reusing-emacs-code-block-when-export.html) | Emacs 代碼块导出复用 在寫博客時，有時我需要顯示代碼，同時把代碼导出成 HTML，放在頁面裡用。例如在 一些關於連結的建議::進階樣式 裡，我要介紹外部連結的樣式，同時要將樣式應用在頁面上，原來我會這麼做： 一份用於顯示代碼 ( #+beginsrc css )： #+beginsrc css… |
+| 2026-09-27 | [Emacs 代碼块导出复用](https://taxodium.ink/reusing-emacs-code-block-when-export.html) | Emacs 代碼块导出复用 在寫博客時，有時我需要顯示代碼，同時把代碼导出成 HTML，放在頁面裡用。例如在 一些關於連結的建議::進階樣式 裡，我要介紹外部連結的樣式，同時要將樣式應用在頁面上，原來我會這麼做： 一個代碼块 ( #+beginsrc css ) 用於顯示代碼： #+beginsrc… |
 | 2026-09-27 | [使用 Emacs Everywhere，把任意輸入框用 Emacs 接管](https://taxodium.ink/use-emacs-everywhere-to-take-over-any-input-field-with-emacs.html) | 使用 Emacs Everywhere，把任意輸入框用 Emacs 接管 tecosaur/emacs-everywhere 是一個 Emacs 的擴展，它可以在任意輸入框輸入時，打開一個 Emacs Frame，把輸入框的內容複製到 Emacs 裡編輯， 編輯完成後，再把內容粘貼回原來的輸入框。… |
 | 2026-09-27 | [地球上最后的夜晚](https://www.geedea.pro/library/2026/last-evenings-on-earth/) | 第一次听闻波拉尼奥是某个下午在西西弗书店闲逛，买了一本很厚的《在地狱阅览室里》，散文集，一百多块钱，是我买过最贵的书。那个时候我不认识他，没读下去，后来把书在多抓鱼上卖掉了。我有段时间想要多读些拉美文学，对波拉尼奥本人以及和他同时代或对他产生过影响的作者都建立一些了解，再去读那本书。然后我读了点 马… |
 | 2026-09-27 | [微信公众号文章AI自动转为微信图文](https://dsx2016.com/automatically-convert-wechat-official-account-articles-into-wechat-rich-media-posts-using-ai/) | 微信图文 微信图文，也叫微信贴图，俗称“小绿书” 目前微信官方大力推荐微信图文，为了方便创作者 只要发布公众号... 微信公众号文章AI自动转为微信图文 最先出现在 大师兄2016 。 |
@@ -42,6 +51,9 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-09-26 | [How to transfer file to Device Hub](https://blog.xu42.com/posts/how-to-transfer-file-to-decice-hub/) | xcrun simctl list &#124; grep Booted xcrun simctl getappcontainer com.apple.DocumentsApp groups rsync ~/Downloads/file.pdf " /File Provider Storage/file.pd… |
 | 2026-09-26 | [是琐碎的小事让我活着](https://www.geedea.pro/article/little-things/) | 这几天试了试不同的搜索引擎，其实也没有厌倦 Kagi，只是他们似乎在往邮件、新闻这些业务上拓展了，让我有点担心某天会发病，所以在物色替代品。搜索关键词很自负地搜了自己博客的名字，结果发现两三个镜像站聚合了我的 RSS，然后用语言模型生成了非常诡异的总结，还改了我的标题，机翻了我的英文文章。罢了，不去… |
 | 2026-09-26 | [Muse 邀请码攻略：48 小时内兑换拿 10 亿词元（附自助找码方法）](https://gugegt.com/muse-invite-code-guide.html) | 上次发了篇 Muse 邀请码的说明 ，后台问得最多的两句话：码到底填哪儿？失效了还有没有新的？ 第二句没法一次答完。邀请码先到先得，一个码的额度用完就报错，我上个月贴的码现在还有效，别人贴的可能几小时就废了。 所以这篇补两件事：兑换的三个步骤，以及怎么自己去 X 上实时找码。 |
+| 2026-09-26 | [Hugo 博客搭建、部署与优化实践](https://liudon.com/guides/hugo-blog/) | 本博客使用 Hugo 生成静态页面，并部署在 Cloudflare Pages。 长期维护过程中，我先后处理了主题改造、图片加载、访问性能、评论系统和搜索收录等问题。 这份指南汇集了相关实践，记录每次调整背后的原因、尝试过的方案，以及最终采用的实现。 |
+| 2026-09-26 | [博客时光机](https://liudon.com/guides/blog-time-machine/) | 从将站点部署到 IPFS、保存历史快照，到时光机 1.0 的随机穿越，再到 2.0 的 Macintosh 可视时间线，这份指南完整记录了项目的演进过程，以及每个阶段解决的问题。 |
+| 2026-09-26 | [AI 口播视频生成实践](https://liudon.com/guides/ai-video/) | 为了生成自然的 AI 口播视频，我先后部署并测试了多种音色克隆和人物对口型方案。 这份指南记录了不同方案的实际效果与取舍，以及如何将这些能力组合起来，最终实现口播短视频二创工具 VideoRemaker。 |
 | 2026-09-26 | [没有一劳永逸的习惯](https://blog.solazy.me/20260926/) | 今天突然想聊聊坚持、习惯和反人性 |
 | 2026-09-26 | [Node.js、浏览器和 Cloudflare Workers 的wasm引入问题](https://blog.est.im/2026/stdout-36) | 最近在鼓捣 WebAssembly，这玩意没啥神秘的，可以看出一坨二进制的 .js 库文件 它本身的export和调用方式是统一的，但如今天我才知道，在不同 JavaScript 运行环境加载 .wasm 方式并不完全一样。 例如 Cloudflare Workers 可以直接： import wa… |
 | 2026-09-26 | [出海赚美金:博客域名忘记续费了](https://dsx2016.com/going-global-to-earn-dollars-forgot-to-renew-the-blog-domain/) | 域名过期 前些天感冒，一个星期没好，所有业务都没有时间处理 就在这个敏感时间点，我的博客域名过期了，域名已经被... 出海赚美金:博客域名忘记续费了 最先出现在 大师兄2016 。 |
