@@ -1,5 +1,19 @@
 [
   {
+    "title": "用 iPhone 遥控器控制你的 Android TV 和 Mac —— atv-core 项目分享",
+    "url": "https://corvo.myseu.cn/2026/09/27/2026-09-27-%E7%94%A8iPhone%E9%81%A5%E6%8E%A7%E5%99%A8%E6%8E%A7%E5%88%B6%E4%BD%A0%E7%9A%84Android-TV%E5%92%8CMac/",
+    "date": "2026-09-27T21:00:00Z",
+    "description": "我开发了一个叫 atv-core 的项目，可以让你直接用 iPhone 控制中心的 Apple TV 遥控器来操控 Android TV 和 Mac。不需要买 Apple TV，不需要额外 App，iPhone 自带的遥控器就行。本文分享一下这个项目的使用方法和背后的一些技术原理。",
+    "source_root_domain": "myseu.cn"
+  },
+  {
+    "title": "",
+    "url": "https://elmagnifico.tech/2026/09/28/2026-09-15-shenzhen-lasa-ontheway/",
+    "date": "2026-09-27T17:04:04Z",
+    "description": "Foreword 如上篇所提，今年中秋和国庆中间卡了三天班，直接请假从 9 月 25 号连到 10 月 7 号，一共 13 天。去拉萨，托车到成都再开 318到拉萨，后续车托回深圳，我从拉萨直接飞回来。 准备 预算 拖车到成都1700，拉萨拖回来3000，飞成都1600，拉萨飞回3900，这部分固定开支已经10200了 住宿+吃饭，买一些零碎的东西，景区门票等，暂时不知道有多少，算多一些估计一天1000，预计1w块搞定所有吧 这两个合起来估计2w，算多一些2.5w？，完成十三天的自驾 拖车 15号就已经把车给到托车公司了，但是一直到19号凌晨车才上到拖车，才准备出发 这司机一口气开了20+小时，直接从广州干到重庆，距离成都也没多远了，估计20号早上就到了。 这拖车都是这样，迟迟不出发，一出发没多会就要到了 20号早上6点就到成都了，真的快，我甚至拖车钱都没付呢。 机票 24号晚我就能到成都，然后直接晚上开车提前走一段，防止节假日堵车，走到其他人前面去。中间看情况车上或者中间某个地方休息一下就行了 药品 由于买不到缓释胶囊，先买了片剂。片剂防高反，常见剂量 125mg 一天两次。手、嘴发",
+    "source_root_domain": "elmagnifico.tech"
+  },
+  {
     "title": "微信公众号文章多平台分发",
     "url": "https://dsx2016.com/multi-platform-distribution-of-wechat-official-account-articles/",
     "date": "2026-09-27T14:21:37Z",
@@ -87,7 +101,7 @@
     "title": "使用 Emacs Everywhere，把任意輸入框用 Emacs 接管",
     "url": "https://taxodium.ink/use-emacs-everywhere-to-take-over-any-input-field-with-emacs.html",
     "date": "2026-09-27T07:55:00Z",
-    "description": "使用 Emacs Everywhere，把任意輸入框用 Emacs 接管 tecosaur/emacs-everywhere 是一個 Emacs 的擴展，它可以在任意輸入框輸入時，打開一個 Emacs Frame，把輸入框的內容複製到 Emacs 裡編輯， 編輯完成後，再把內容粘貼回原來的輸入框。 這樣相當於把任意輸入框「變成」Emacs，获得更好的，熟悉的編輯體驗。在一些需要輸入大量文本的場景，我就會用 Emacs Everywhere，例如在 Thunderbird 寫郵件、寫 issue、寫評論、在 LLM 對話頁寫較長的 prompt 等。 一段录󠄃屏，在 Kagi Assistant 頁面的輸入框裡有一些文字， 全選後，打開 Raycast，找到 Emacs Everywhere 的脚本命令并执行， 脚本打開了一個 Emacs 的 Frame，裡面是輸入框中的文字， 在 Emacs 裡輸入了一些新的文字，保存退出 Emacs，新增的文字更新到了輸入框中。 在 macOS 上使用的話，首先要在 Emacs 裡安裝 emacs-everywhere。我現在是 macOS 27， ",
+    "description": "使用 Emacs Everywhere，把任意輸入框用 Emacs 接管 tecosaur/emacs-everywhere 是一個 Emacs 的擴展，它可以在任意輸入框輸入時，打開一個 Emacs Frame，把輸入框的內容複製到 Emacs 裡編輯， 編輯完成後，再把內容粘貼回原來的輸入框。 這樣相當於把任意輸入框「變成」Emacs，获得更好的、熟悉的輸入體驗。在一些需要輸入大量文本的場景，我就會用 Emacs Everywhere，例如在 Thunderbird 寫郵件、寫 issue、寫評論、在 LLM 對話頁寫較長的 prompt 等。 一段录󠄃屏，在 Kagi Assistant 頁面的輸入框裡有一些文字， 全選後，打開 Raycast，找到 Emacs Everywhere 的脚本命令并执行， 脚本打開了一個 Emacs 的 Frame，裡面是輸入框中的文字， 在 Emacs 裡輸入了一些新的文字，保存退出 Emacs，新增的文字更新到了輸入框中。 在 macOS 上使用的話，首先要在 Emacs 裡安裝 emacs-everywhere。我現在是 macOS 27， ",
     "source_root_domain": "taxodium.ink"
   },
   {

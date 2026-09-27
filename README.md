@@ -27,6 +27,8 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-09-27 | [用 iPhone 遥控器控制你的 Android TV 和 Mac —— atv-core 项目分享](https://corvo.myseu.cn/2026/09/27/2026-09-27-%E7%94%A8iPhone%E9%81%A5%E6%8E%A7%E5%99%A8%E6%8E%A7%E5%88%B6%E4%BD%A0%E7%9A%84Android-TV%E5%92%8CMac/) | 我开发了一个叫 atv-core 的项目，可以让你直接用 iPhone 控制中心的 Apple TV 遥控器来操控 Android TV 和 Mac。不需要买 Apple TV，不需要额外 App，iPhone 自带的遥控器就行。本文分享一下这个项目的使用方法和背后的一些技术原理。 |
+| 2026-09-27 | [](https://elmagnifico.tech/2026/09/28/2026-09-15-shenzhen-lasa-ontheway/) | Foreword 如上篇所提，今年中秋和国庆中间卡了三天班，直接请假从 9 月 25 号连到 10 月 7 号，一共 13 天。去拉萨，托车到成都再开 318到拉萨，后续车托回深圳，我从拉萨直接飞回来。 准备 预算 拖车到成都1700，拉萨拖回来3000，飞成都1600，拉萨飞回3900，这部分固定… |
 | 2026-09-27 | [微信公众号文章多平台分发](https://dsx2016.com/multi-platform-distribution-of-wechat-official-account-articles/) | 公众号文章 以前把独立博客作为主要平台，微信公众号酌情作为副平台 因为独立博客可以写自己想写的，不限制字数，不... 微信公众号文章多平台分发 最先出现在 大师兄2016 。 |
 | 2026-09-27 | [Toots 438 2026 Sep.20 - Sep.26](https://z.arlmy.me/posts/MastodonArchives/2026/MastodonTootsArchives_20260926/) | 「基础设置与寄生。」 |
 | 2026-09-27 | [入蜀记 day488 非中非欧美](https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_488/) | 「非中非欧美。」 |
