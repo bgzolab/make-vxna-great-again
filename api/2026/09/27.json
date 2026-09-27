@@ -1,5 +1,68 @@
 [
   {
+    "title": "2026.9.27",
+    "url": "https://www.justzht.com/2026-9-27/",
+    "date": "2026-09-27T09:22:04Z",
+    "description": "周六的时候给 E39 买的车机到了，因此下午就在装。拆开中控，把 Business CD 机拔出来，发现上任车主自己接线搞了一个蓝",
+    "source_root_domain": "justzht.com"
+  },
+  {
+    "title": "前挡玻璃上的划痕",
+    "url": "https://blog.solazy.me/20260927/",
+    "date": "2026-09-27T09:00:00Z",
+    "description": "刚下高速，路上发生一件事儿",
+    "source_root_domain": "solazy.me"
+  },
+  {
+    "title": "Emacs 代碼块导出复用",
+    "url": "https://taxodium.ink/reusing-emacs-code-block-when-export.html",
+    "date": "2026-09-27T08:45:00Z",
+    "description": "Emacs 代碼块导出复用 在寫博客時，有時我需要顯示代碼，同時把代碼导出成 HTML，放在頁面裡用。例如在 一些關於連結的建議::進階樣式 裡，我要介紹外部連結的樣式，同時要將樣式應用在頁面上，原來我會這麼做： 一份用於顯示代碼 ( #+beginsrc css )： #+beginsrc css a[href^='http']:not([href^='http://taxodium.ink']):not([href^='https://taxodium.ink']) { &::after { / 省略 / } } #+endsrc 然後複製相同的內容，把它导出 ( #+beginexport html )： #+beginexport html @scope { a[href^='http']:not([href^='http://taxodium.ink']):not([href^='https://taxodium.ink']) { &::after { / 省略 / } } } #+endexport 但修改時就要改兩個地方，煩得很。那有沒有辦法可以复用代碼呢？當然是有的。 ",
+    "source_root_domain": "taxodium.ink"
+  },
+  {
+    "title": "使用 Emacs Everywhere，把任意輸入框用 Emacs 接管",
+    "url": "https://taxodium.ink/use-emacs-everywhere-to-take-over-any-input-field-with-emacs.html",
+    "date": "2026-09-27T07:55:00Z",
+    "description": "使用 Emacs Everywhere，把任意輸入框用 Emacs 接管 tecosaur/emacs-everywhere 是一個 Emacs 的擴展，它可以在任意輸入框輸入時，打開一個 Emacs Frame，把輸入框的內容複製到 Emacs 裡編輯， 編輯完成後，再把內容粘貼回原來的輸入框。 這樣相當於把任意輸入框「變成」Emacs，利用 Emacs 來更好的編輯，在一些需要輸入大量文本的場景我就會用 Emacs Everywhere，例如在 Thunderbird 寫郵件、寫 issue、寫評論、在 LLM 對話頁寫較長的 prompt 等。 一段录󠄃屏，在 Kagi Assistant 頁面的輸入框裡有一些文字， 全選後，打開 Raycast，找到 Emacs Everywhere 的脚本命令并执行， 脚本打開了一個 Emacs 的 Frame，裡面是輸入框中的文字， 在 Emacs 裡輸入了一些新的文字，保存退出 Emacs，新增的文字更新到了輸入框中。 在 macOS 上使用的話，首先要在 Emacs 裡安裝 emacs-everywhere。我現在是 macOS 27，",
+    "source_root_domain": "taxodium.ink"
+  },
+  {
+    "title": "地球上最后的夜晚",
+    "url": "https://www.geedea.pro/library/2026/last-evenings-on-earth/",
+    "date": "2026-09-27T07:08:35Z",
+    "description": "第一次听闻波拉尼奥是某个下午在西西弗书店闲逛，买了一本很厚的《在地狱阅览室里》，散文集，一百多块钱，是我买过最贵的书。那个时候我不认识他，没读下去，后来把书在多抓鱼上卖掉了。我有段时间想要多读些拉美文学，对波拉尼奥本人以及和他同时代或对他产生过影响的作者都建立一些了解，再去读那本书。然后我读了点 马尔克斯 ，还有略撒的《 城市与狗 》，就把拉美文学抛之脑后了。 读完加缪的 最后一本小说 之后，我决定从法国文学里退一步，然后就想到了波拉尼奥，便买了这本《地球上最后的夜晚》，因为《2666》太长了。 然后我发现法国文学还在追我，波拉尼奥几次提到 司汤达 ，在《毛毛虫》这篇里还提到加缪的《 堕落 》。法国文学在世界的影响力确实不小，印象里，捷克作家昆德拉也在《 不能承受的生命之轻 》里提过司汤达，不过他其实也算法国作家。 和昆德拉 1 很像的是，波拉尼奥也也背井离乡。至于他为什么离开智利，我对这些历史背景并不了解。所以，在这本《地球上最后的夜晚》和昆德拉的《不能承受的生命之轻》里，都能见到有关身处异乡的描述。 波拉尼奥的短篇短促有力。借他在《牙科医生》一篇中对故事中一位小说家的描述，读完他的",
+    "source_root_domain": "geedea.pro"
+  },
+  {
+    "title": "微信公众号文章AI自动转为微信图文",
+    "url": "https://dsx2016.com/automatically-convert-wechat-official-account-articles-into-wechat-rich-media-posts-using-ai/",
+    "date": "2026-09-27T06:52:33Z",
+    "description": "微信图文 微信图文，也叫微信贴图，俗称“小绿书” 目前微信官方大力推荐微信图文，为了方便创作者 只要发布公众号... 微信公众号文章AI自动转为微信图文 最先出现在 大师兄2016 。",
+    "source_root_domain": "dsx2016.com"
+  },
+  {
+    "title": "我的文化偏好",
+    "url": "https://www.hecaitou.com/2026/09/my-cultural-preferences.html",
+    "date": "2026-09-27T05:29:22Z",
+    "description": "因为我在中秋提到了拜月娘，很多读者就很疑惑：你什么时候对潮汕文化如此有兴趣了？ 我就想反问：我什么时候对地方文化没兴趣过？ 当然，面对提问的时候直接用反问的方式回应显得很不友善。那我还可以换一种回答：拜月娘又不是潮汕地区所独有，起码同源文化的福建地区也有，直接判定我对潮汕文化有兴趣很不严谨。 不过这样回答看起来更加不友善，直接硬掰对方的问题接近于抬杠的程度。 那我还可以再换一种回答：我感兴趣的不是某个特定地区的文化，而是发现跨地区的文化关联。 比如说潮汕地区在中秋节烧塔，而山西等北方地区在元宵节同样有烧塔的风俗，这就很难不让我联想起潮汕人的先祖从北方南迁的说法，不然很难解释一南一北几千公里的距离，语言都不通，为什么却都对烧塔那么沉迷。 这样的回答依然不友善，它听起来不像是正面回答了问题，而是绕了一个大圈子，让人忘记了自己一开始在问什么，而是跑去搜索烧塔的现场图片，这样就又增加了老登的一条罪行：说话云遮雾绕，喜欢糊弄人。 但我说的句句都是实话，只是我沉浸在这种个人兴趣里的时间太长，已经不大想得起来一切是怎么开始的。 或许是童年时订阅多年的四川杂志《龙门阵》？那时候四川和重庆还没有分家，这",
+    "source_root_domain": "hecaitou.com"
+  },
+  {
+    "title": "微信公众号和独立博客",
+    "url": "https://dsx2016.com/wechat-official-accounts-and-independent-blogs/",
+    "date": "2026-09-27T05:05:34Z",
+    "description": "数据分析 同样的文章，从发布到现在 微信公众号浏览量为35，独立博客浏览量为24 两者差距不算大 但是有一个细... 微信公众号和独立博客 最先出现在 大师兄2016 。",
+    "source_root_domain": "dsx2016.com"
+  },
+  {
+    "title": "水蒸蛋",
+    "url": "https://taxodium.ink/recipe-shui-zheng-dan.html",
+    "date": "2026-09-27T04:17:00Z",
+    "description": "水蒸蛋 水蒸蛋有啥難的？打几個雞蛋，加點水，放鍋裡一蒸不就完了嗎？ 我也是這麼想的，但想要蒸出表面光滑、整體水嫩的水蒸蛋，還是有一些細節要注意的。 食材 雞蛋若干個，具體几個，取决於你想吃几個，以及容器大小。 烹飪 打 4 個雞蛋到容器裡，按 1:1.5 的蛋水比例加水 (你可以用半個蛋殻來量，量 3 次就是 1.5 倍左右的水了，蛋殻容量可能有偏差，水量可以適當加减) 加入少許盐 (稍微增加點味道) ，把蛋液攪匀，撇去表面的浮沫 用保鮮膜盖住容器，用牙簽在上面戳几個小洞 (保鮮膜可以避免鍋盖上的水滴落在蛋液上，开孔是為了適當透氣，這一步是蛋液光滑的關鍵) 水開後蒸 12 ~ 15 分鐘 (鍋裡水要够哦，別空燒) 加入少許醬油、少許香油 (也就是芝麻油。不要多，香過頭也不好吃，稍微有點香味就好) ，用勺子在表面抹勻即可 (有蔥花也可以撒一點用來裝飾) 。 這是基础版，你也可以加點蝦、香菇、肉沫等一起蒸，會更好吃一點。 成品 图1 水蒸蛋成品圖 看著像不像個月亮？中秋快樂啦 :) 感谢你的阅读！ 欢迎 邮件 跟我分享你的想法 :) 你也可以 訂閱 我的博客，保持更新 :P 祝好，素未某面",
+    "source_root_domain": "taxodium.ink"
+  },
+  {
     "title": "一些關於連結的建議",
     "url": "https://taxodium.ink/some-advice-about-links.html",
     "date": "2026-09-27T03:25:00Z",
@@ -14,6 +77,13 @@
     "source_root_domain": "onojyun.com"
   },
   {
+    "title": "《路易斯安那系列》文本整理",
+    "url": "https://weblog.contained.love/posts/louisiana-series-text/",
+    "date": "2026-09-27T00:00:00Z",
+    "description": "至今竟然还没有人整理出歌佬《路易斯安那系列》的文本，我实在等不及了，就自己来吧。 包括两篇作者杂谈的文字版作为附录在书后。 书籍效果如图： 大致流程为: 截取视频帧 RapidOCR 本地模型识别 Faster-whisper 本地识别校准 排版校对 迭代了很多版之后，仍然有许多细节问题，先发出来再慢慢优化吧， 将来也许增加更多插图等。 如果你发现本文档有什么问题，欢迎提 issue / PR 一起完善。 仓库地址 直接下载 版权和荣耀归于原作者，我只是个整理者。 附上网友整理的《路易斯安那系列》的歌单： https://music.163.com/#/playlist?id=8261392641&creatorId=1333506278",
+    "source_root_domain": "contained.love"
+  },
+  {
     "title": "How to transfer file to Device Hub",
     "url": "https://blog.xu42.com/posts/how-to-transfer-file-to-decice-hub/",
     "date": "2026-09-26T23:00:00Z",
@@ -26,6 +96,20 @@
     "date": "2026-09-26T17:18:41Z",
     "description": "这几天试了试不同的搜索引擎，其实也没有厌倦 Kagi，只是他们似乎在往邮件、新闻这些业务上拓展了，让我有点担心某天会发病，所以在物色替代品。搜索关键词很自负地搜了自己博客的名字，结果发现两三个镜像站聚合了我的 RSS，然后用语言模型生成了非常诡异的总结，还改了我的标题，机翻了我的英文文章。罢了，不去想那些烦心事。 我还找到了 松易涅的写作分享站 上一篇关于我博客的文章，题为《 左右脑：读极客死亡计划的博客有感 》。他的博客挺好的，我禁用了 JavaScript 还能正常用搜索功能 1 ，不过有一点待改进，就是文章页竟然没放发布日期。看内容应该是去年八九月，因为他是读了我「与某位男生的情感纠葛」才有感而发的。 最近收到一封读者来信，也提起那几篇文章。之前莫比乌斯也在他博客 谈起此事 。我不禁好奇究竟有多少人见证了我那几个月发疯想死的心路历程。 我倒是不觉得羞耻，但有些诧异。我那段时间真的非常痛苦，时常以泪洗面，还有轻生想法，我现在根本不敢打开那几篇文章阅读。奇妙的是，这样的文字竟然让人感到我的心思细腻。最近看《斯图尔特未能拯救宇宙》，是《生活大爆炸》的衍生剧，主创在片头放了很多文字，最后",
     "source_root_domain": "geedea.pro"
+  },
+  {
+    "title": "Muse 邀请码攻略：48 小时内兑换拿 10 亿词元（附自助找码方法）",
+    "url": "https://gugegt.com/muse-invite-code-guide.html",
+    "date": "2026-09-26T16:00:00Z",
+    "description": "上次发了篇 Muse 邀请码的说明 ，后台问得最多的两句话：码到底填哪儿？失效了还有没有新的？ 第二句没法一次答完。邀请码先到先得，一个码的额度用完就报错，我上个月贴的码现在还有效，别人贴的可能几小时就废了。 所以这篇补两件事：兑换的三个步骤，以及怎么自己去 X 上实时找码。",
+    "source_root_domain": "gugegt.com"
+  },
+  {
+    "title": "没有一劳永逸的习惯",
+    "url": "https://blog.solazy.me/20260926/",
+    "date": "2026-09-26T15:00:00Z",
+    "description": "今天突然想聊聊坚持、习惯和反人性",
+    "source_root_domain": "solazy.me"
   },
   {
     "title": "Node.js、浏览器和 Cloudflare Workers 的wasm引入问题",

@@ -27,10 +27,22 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-09-27 | [2026.9.27](https://www.justzht.com/2026-9-27/) | 周六的时候给 E39 买的车机到了，因此下午就在装。拆开中控，把 Business CD 机拔出来，发现上任车主自己接线搞了一个蓝 |
+| 2026-09-27 | [前挡玻璃上的划痕](https://blog.solazy.me/20260927/) | 刚下高速，路上发生一件事儿 |
+| 2026-09-27 | [Emacs 代碼块导出复用](https://taxodium.ink/reusing-emacs-code-block-when-export.html) | Emacs 代碼块导出复用 在寫博客時，有時我需要顯示代碼，同時把代碼导出成 HTML，放在頁面裡用。例如在 一些關於連結的建議::進階樣式 裡，我要介紹外部連結的樣式，同時要將樣式應用在頁面上，原來我會這麼做： 一份用於顯示代碼 ( #+beginsrc css )： #+beginsrc css… |
+| 2026-09-27 | [使用 Emacs Everywhere，把任意輸入框用 Emacs 接管](https://taxodium.ink/use-emacs-everywhere-to-take-over-any-input-field-with-emacs.html) | 使用 Emacs Everywhere，把任意輸入框用 Emacs 接管 tecosaur/emacs-everywhere 是一個 Emacs 的擴展，它可以在任意輸入框輸入時，打開一個 Emacs Frame，把輸入框的內容複製到 Emacs 裡編輯， 編輯完成後，再把內容粘貼回原來的輸入框。… |
+| 2026-09-27 | [地球上最后的夜晚](https://www.geedea.pro/library/2026/last-evenings-on-earth/) | 第一次听闻波拉尼奥是某个下午在西西弗书店闲逛，买了一本很厚的《在地狱阅览室里》，散文集，一百多块钱，是我买过最贵的书。那个时候我不认识他，没读下去，后来把书在多抓鱼上卖掉了。我有段时间想要多读些拉美文学，对波拉尼奥本人以及和他同时代或对他产生过影响的作者都建立一些了解，再去读那本书。然后我读了点 马… |
+| 2026-09-27 | [微信公众号文章AI自动转为微信图文](https://dsx2016.com/automatically-convert-wechat-official-account-articles-into-wechat-rich-media-posts-using-ai/) | 微信图文 微信图文，也叫微信贴图，俗称“小绿书” 目前微信官方大力推荐微信图文，为了方便创作者 只要发布公众号... 微信公众号文章AI自动转为微信图文 最先出现在 大师兄2016 。 |
+| 2026-09-27 | [我的文化偏好](https://www.hecaitou.com/2026/09/my-cultural-preferences.html) | 因为我在中秋提到了拜月娘，很多读者就很疑惑：你什么时候对潮汕文化如此有兴趣了？ 我就想反问：我什么时候对地方文化没兴趣过？ 当然，面对提问的时候直接用反问的方式回应显得很不友善。那我还可以换一种回答：拜月娘又不是潮汕地区所独有，起码同源文化的福建地区也有，直接判定我对潮汕文化有兴趣很不严谨。 不过这… |
+| 2026-09-27 | [微信公众号和独立博客](https://dsx2016.com/wechat-official-accounts-and-independent-blogs/) | 数据分析 同样的文章，从发布到现在 微信公众号浏览量为35，独立博客浏览量为24 两者差距不算大 但是有一个细... 微信公众号和独立博客 最先出现在 大师兄2016 。 |
+| 2026-09-27 | [水蒸蛋](https://taxodium.ink/recipe-shui-zheng-dan.html) | 水蒸蛋 水蒸蛋有啥難的？打几個雞蛋，加點水，放鍋裡一蒸不就完了嗎？ 我也是這麼想的，但想要蒸出表面光滑、整體水嫩的水蒸蛋，還是有一些細節要注意的。 食材 雞蛋若干個，具體几個，取决於你想吃几個，以及容器大小。 烹飪 打 4 個雞蛋到容器裡，按 1:1.5 的蛋水比例加水 (你可以用半個蛋殻來量，量… |
 | 2026-09-27 | [一些關於連結的建議](https://taxodium.ink/some-advice-about-links.html) | 一些關於連結的建議 內容相關 在分享連結前，可以停下來先想想要不要分享。你的每一次分享都會給連結帶來一定的點擊量，你希望這個連結被傳播嗎？它值得被傳播嗎？有時不分享也許是更好的選擇。 讓連結的文字有意義 ，即使脫離上下文，連結中的文字也應該能說明該連結會前往何處。 錯誤示範：我的博客是 這個 。 正… |
 | 2026-09-27 | [写作能解决什么？](https://mobius.blog/25783.html) | 本期Newsletter回顾了写作的功能及适用人群。写作可以帮助情绪反刍、恢复主体性，但并非每个人适合。探讨了自我与作品的关系，强调写作应为自我对话，而非市场认可。 —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
+| 2026-09-27 | [《路易斯安那系列》文本整理](https://weblog.contained.love/posts/louisiana-series-text/) | 至今竟然还没有人整理出歌佬《路易斯安那系列》的文本，我实在等不及了，就自己来吧。 包括两篇作者杂谈的文字版作为附录在书后。 书籍效果如图： 大致流程为: 截取视频帧 RapidOCR 本地模型识别 Faster-whisper 本地识别校准 排版校对 迭代了很多版之后，仍然有许多细节问题，先发出来再… |
 | 2026-09-26 | [How to transfer file to Device Hub](https://blog.xu42.com/posts/how-to-transfer-file-to-decice-hub/) | xcrun simctl list &#124; grep Booted xcrun simctl getappcontainer com.apple.DocumentsApp groups rsync ~/Downloads/file.pdf " /File Provider Storage/file.pd… |
 | 2026-09-26 | [是琐碎的小事让我活着](https://www.geedea.pro/article/little-things/) | 这几天试了试不同的搜索引擎，其实也没有厌倦 Kagi，只是他们似乎在往邮件、新闻这些业务上拓展了，让我有点担心某天会发病，所以在物色替代品。搜索关键词很自负地搜了自己博客的名字，结果发现两三个镜像站聚合了我的 RSS，然后用语言模型生成了非常诡异的总结，还改了我的标题，机翻了我的英文文章。罢了，不去… |
+| 2026-09-26 | [Muse 邀请码攻略：48 小时内兑换拿 10 亿词元（附自助找码方法）](https://gugegt.com/muse-invite-code-guide.html) | 上次发了篇 Muse 邀请码的说明 ，后台问得最多的两句话：码到底填哪儿？失效了还有没有新的？ 第二句没法一次答完。邀请码先到先得，一个码的额度用完就报错，我上个月贴的码现在还有效，别人贴的可能几小时就废了。 所以这篇补两件事：兑换的三个步骤，以及怎么自己去 X 上实时找码。 |
+| 2026-09-26 | [没有一劳永逸的习惯](https://blog.solazy.me/20260926/) | 今天突然想聊聊坚持、习惯和反人性 |
 | 2026-09-26 | [Node.js、浏览器和 Cloudflare Workers 的wasm引入问题](https://blog.est.im/2026/stdout-36) | 最近在鼓捣 WebAssembly，这玩意没啥神秘的，可以看出一坨二进制的 .js 库文件 它本身的export和调用方式是统一的，但如今天我才知道，在不同 JavaScript 运行环境加载 .wasm 方式并不完全一样。 例如 Cloudflare Workers 可以直接： import wa… |
 | 2026-09-26 | [出海赚美金:博客域名忘记续费了](https://dsx2016.com/going-global-to-earn-dollars-forgot-to-renew-the-blog-domain/) | 域名过期 前些天感冒，一个星期没好，所有业务都没有时间处理 就在这个敏感时间点，我的博客域名过期了，域名已经被... 出海赚美金:博客域名忘记续费了 最先出现在 大师兄2016 。 |
 | 2026-09-26 | [Coffee Break Clojure, Vol.3](https://www.geedea.pro/article/clj3/) | 上一篇 我们讨论了不同类型的形式，了解了函数、Lambda、宏和特殊形式的皮毛，也学会了用一些基本的运算符、 let 和 if 等等。今天的文章要讨论集合数据类型。不过在此之前，我们还是先看看普通的数据类型有哪些。 今天的文章有点长，所以读的时候，呃…… 准备一杯大号的咖啡？ 你已经知道和你可能不知… |
