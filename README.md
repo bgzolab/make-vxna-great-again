@@ -27,6 +27,9 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-09-27 | [一些關於連結的建議](https://taxodium.ink/some-advice-about-links.html) | 一些關於連結的建議 內容相關 在分享連結前，可以停下來先想想要不要分享。你的每一次分享都會給連結帶來一定的點擊量，你希望這個連結被傳播嗎？它值得被傳播嗎？有時不分享也許是更好的選擇。 讓連結的文字有意義 ，即使脫離上下文，連結中的文字也應該能說明該連結會前往何處。 錯誤示範：我的博客是 這個 。 正… |
+| 2026-09-27 | [写作能解决什么？](https://mobius.blog/25783.html) | 本期Newsletter回顾了写作的功能及适用人群。写作可以帮助情绪反刍、恢复主体性，但并非每个人适合。探讨了自我与作品的关系，强调写作应为自我对话，而非市场认可。 —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
+| 2026-09-26 | [How to transfer file to Device Hub](https://blog.xu42.com/posts/how-to-transfer-file-to-decice-hub/) | xcrun simctl list &#124; grep Booted xcrun simctl getappcontainer com.apple.DocumentsApp groups rsync ~/Downloads/file.pdf " /File Provider Storage/file.pd… |
 | 2026-09-26 | [是琐碎的小事让我活着](https://www.geedea.pro/article/little-things/) | 这几天试了试不同的搜索引擎，其实也没有厌倦 Kagi，只是他们似乎在往邮件、新闻这些业务上拓展了，让我有点担心某天会发病，所以在物色替代品。搜索关键词很自负地搜了自己博客的名字，结果发现两三个镜像站聚合了我的 RSS，然后用语言模型生成了非常诡异的总结，还改了我的标题，机翻了我的英文文章。罢了，不去… |
 | 2026-09-26 | [Node.js、浏览器和 Cloudflare Workers 的wasm引入问题](https://blog.est.im/2026/stdout-36) | 最近在鼓捣 WebAssembly，这玩意没啥神秘的，可以看出一坨二进制的 .js 库文件 它本身的export和调用方式是统一的，但如今天我才知道，在不同 JavaScript 运行环境加载 .wasm 方式并不完全一样。 例如 Cloudflare Workers 可以直接： import wa… |
 | 2026-09-26 | [出海赚美金:博客域名忘记续费了](https://dsx2016.com/going-global-to-earn-dollars-forgot-to-renew-the-blog-domain/) | 域名过期 前些天感冒，一个星期没好，所有业务都没有时间处理 就在这个敏感时间点，我的博客域名过期了，域名已经被... 出海赚美金:博客域名忘记续费了 最先出现在 大师兄2016 。 |
@@ -34,7 +37,9 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-09-26 | [弥月佳期-中秋修水行记](https://yovey.me/%e5%bc%a5%e6%9c%88%e4%bd%b3%e6%9c%9f-%e4%b8%ad%e7%a7%8b%e4%bf%ae%e6%b0%b4%e8%a1%8c%e8%ae%b0/) | 清早出发，出城前先在Manner打好咖啡，一路西行。 行至三分之一，过路口的时候低速避让，路肩不平，点不到地， … Continue reading "弥月佳期-中秋修水行记" |
 | 2026-09-26 | [开发了一个云剪贴板服务 Cloud Clipboard](https://hellodk.cn/post/1231) | 跨设备复制粘贴，文本 / 图片 / 文件，一个链接搞定。在电脑 A 上创建一条剪贴板，得到一个形如 https://paste.940304.xyz/a7 的短链接；在手机或另一台电脑上打开这个... |
 | 2026-09-26 | [第一次拜月娘](https://www.hecaitou.com/2026/09/worshipping-moon-goddess-first-time.html) | 我经历过五十多个中秋，今年第一次在中秋夜拜月娘。 如果严格按照潮汕的拜月娘风俗，我最多只能帮着搬一下供桌和拜垫，上香这种事情根本轮不到我，因为在潮汕传统上拜月娘是女性的专属。月亮属阴，象征女性，自己人拜自己人很合理。 但我人在北京，一起赏月的一群人都不是本地人，而是一代移民。说起来，我们各自都是各家… |
+| 2026-09-26 | [如果你和我一样，玩《塞尔达传说 旷野之息](https://versun.me/blog/tweet-2103705056709406889) | 如果你和我一样，玩《塞尔达传说 旷野之息》一直玩不下去，也无法理解为什么它会被称为神作，那么你可以试一试这么玩，我这几天已经玩的停不下来了。。。 1. 进入设置，把 HUD 界面改成「高级模式 (Pro)」 这步最关键。 改完后，屏幕上的小地图、温度表、声音雷达全都会消失，只留血量。 你不再是一个“… |
 | 2026-09-26 | [Coffee Break Clojure, Vol.2](https://www.geedea.pro/article/clj2/) | 上一篇 我们配置好了 REPL，可以随时开始编写 Clojure 代码并执行。 第零篇 提到，被求值（Eval）的列表叫作形式（form），形式的第一个元素是操作符，剩余的是参数。根据操作符的不同，形式被分为函数形式、Lambda 形式、宏形式和特殊形式。今天的文章就来介绍这几种形式。 函数形式 不… |
+| 2026-09-26 | [根据我这2天使用opus 5.5的感受，](https://versun.me/blog/tweet-2103656854773711297) | 根据我这2天使用opus 5.5的感受，给大家一个思考层级的选择参考： Opus 5.5 low = GPT 5.6 Sol / Gemini 3.8 flash Opus 5.5 Medium = GPT 5.6 Astra / Kimi K3 / SWE 2 Opus 5.5 High = Fa… |
 | 2026-09-26 | [2004，没有暑假的夏天](https://www.tortorse.com/archives/2004-summer-without-vacation/) | 招聘会上，人们在展位间看招聘信息 |
 | 2026-09-26 | [Python 潮流周刊#169：AI 用 11 天证完费马大定理、Python 拟加 export 关键字、一个 Key 调 3000 个工具](https://pythoncat.top/posts/2026-09-26-weekly/) | 分享了 12 篇文章，12 个开源项目 |
 | 2026-09-25 | [13.8 万星的 free-for-dev：57 类免费额度，替掉我一半的付费订阅](https://gugegt.com/free-for-dev-free-tier-guide.html) | 上周整理订阅列表，发现有 9 个服务在按月扣钱。一个数据库，一个对象存储，一个监控，一个错误追踪，两个只在周末跑一次定时任务的小机器，还有几个我自己都想不起什么时候开通的。 加起来一个月 60 多美元，折人民币四百多。 这些活儿有一个共同点：全都不需要付费。我把账单截图丢进 free-for-dev… |
@@ -165,23 +170,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-09-20 | [Vespa: HNSW Index Implementation](https://inhzus.io/posts/2026-09-20-vespa-hnsw-index/) | The previous index implementation post covered attributes and inverted indexes, but left out tensors. This post continues with the data structures beh… |
 | 2026-09-20 | [Vespa: Thread Safety in the Storage Engine](https://inhzus.io/posts/2026-09-20-vespa-storage-engine-thread-safety/) | The earlier posts covered index data structures and matching . One question remains: while a query is using those structures, how can another thread u… |
 | 2026-09-20 | [iPhone Duo 的 Vertical Bar](https://bluepika.life/blog/iphone-duo-vertical-bar) | 我将上周称为同时关注任天堂和苹果的人最快乐的一周，任天堂开了新一场直面会，苹果也如预期一样发布了折叠屏手机 iPhone Duo。 |
-| 2026-09-19 | [用 jev 或者 llm 炒股的区别只有](https://versun.me/blog/tweet-2101448767757279473) | 用 jev 或者 llm 炒股的区别只有一个，亏钱的速度，jev更快😂 |
-| 2026-09-19 | [FreeSpace 2 updated](https://macsourceports.com/game/freespace2) | The build of FreeSpace 2 Source Code Project for FreeSpace 2 has been updated to version 26.0.1 of the project |
-| 2026-09-19 | [Wolfenstein: Enemy Territory updated](https://macsourceports.com/game/wolfet) | The build of ET: Legacy for Wolfenstein: Enemy Territory has been updated to version 2.86.0 of the project |
-| 2026-09-19 | [Quetoo updated](https://macsourceports.com/game/quetoo) | The build of Quetoo has been updated to version v1.0.105 of the project |
-| 2026-09-19 | [SFC 游戏：兔宝宝大冒险（Tiny Toon Adventures）](https://springwood.me/sfc-tiny-toon-adventures/) | （摘要）SFC 版不仅画面更加漂亮，而且玩法也更加多样化了。 |
-| 2026-09-19 | [周末流水账 0919](https://blog.solazy.me/20260919/) | 里后的第一天，也是个周末 |
-| 2026-09-19 | [软件工程亡了](https://blog.mzh.ren/zh/posts/2026/09/the-end-of-software-engineering/) | 朋友发给我一张图片，乍看之下是奥莱利的动物书的封面，还以为他是想给我分享一本好书. 结果一看名字是The End of Software Engineering, 软件工程的终点，然后配合底”编程/技术/人工智能“标签，然后中间那个动物呢，是一头趴在地上有些生无可恋的野猪（希望它还没有死）。 |
-| 2026-09-19 | [最近折腾的U卡和TenPayGo](https://blog.thetbw.xyz/archives/usdt-card-and-tenpaygo) | 最近比特币的价格也是上来了，之前亏的钱回来了很多，早在之前刷到了一些油管博主的视频，申请了 safepal 的 visa 卡，还是挺好用的，作为虚拟币出金的一个渠道。 不知道是不是国人一窝蜂的涌入，就跟之前的 giffgaff 一样，safepal 背后的卡组织 fiat24 宣布维护，期间暂停虚拟… |
-| 2026-09-19 | [万寿宫&景德镇](https://yovey.me/wanshougong-jingdezhen/) | 这大半月发生了不少事情。 1）延续对风水的兴趣，实则是周末短途摩旅的借口，跑了一趟西山万寿宫。 八月初一是许真 … Continue reading "万寿宫&景德镇" |
-| 2026-09-19 | ["明天穿什么衣服"微信小程序，适合出差、旅行和选衣搭配困难症](https://gugegt.com/wear-tomorrow-miniprogram.html) | 每天早上出门前，最让人卡壳的就是这一句：今天穿什么。 天气 App 老老实实报个 27℃。可 27℃ 到底穿短袖还是加件薄外套，它不接这话。去搜「25 度穿什么」，跳出来的不是卖衣服的就是「适当增减衣物」这种车轱辘话。 我干脆自己做了个小程序，叫「明天穿什么衣服」。定位你的城市，看今天或者明天的体感… |
-| 2026-09-19 | [vcfclick：ClickHouse + DuckDB 协作范例](https://luweiqing.com/gossip/vcfclick-ClickHouse-DuckDB.html) | vcfclick：让 VCF 回到可查询、可解释、可带走的地方如果你做过基因组分析，大概见过这样的夜晚：磁盘里躺着 VCF，终端里流着管道，脚本一层层加，最后只有作者知道哪一步在筛选。你可能是那... |
-| 2026-09-19 | [网友网络老](https://www.hecaitou.com/2026/09/blog-post.html) | 昨晚，27 年前我刚上网时认识的老友突然联系我，说是授权一批照片给我，我大可以随便使用，全都是他的手笔（参见：《 来自 老友的照片 》）。 以后这种开头我看还是要少写，都在追求活人感，而我这种写法则是写出了「化石感」，好吓人。 当年我们在家乡的论坛里天天拍砖，玩得不亦乐乎。然后就是线下见面，都很年轻… |
-| 2026-09-19 | [来自老友的照片](https://www.hecaitou.com/2026/09/photos-of-an-old-friend.html) | 昨晚 ， 一位我在 1999 年刚上网时结识的老友突然联系我，说是要把一批他拍摄的昆明照片授权给我，随我高兴我去发布。 我问他为什么不在自己公众号里发？他说他社恐，看到评论内心会不安定。但是，他又不希望这些照片一直放在硬盘上，毕竟他花费了很多心思。 所以，现在我把这些照片发布在这里。原因除了摄影者是… |
-| 2026-09-19 | [2004，一切都像是安排好了](https://www.tortorse.com/archives/everything-seemed-arranged-2004/) | 黄昏里，一个年轻人站在已经关门的电脑培训中心门前 |
-| 2026-09-19 | [做测试集是真不容易呀，除了收集完善题目外](https://versun.me/blog/tweet-2101103663112687698) | Versun 正在做一份本地模型的实用能力排行榜，测试集是从各种公开 benchmark中挑选微调，覆盖任务拆解、代码开发、长链路执行、上下文、指令遵循、记忆抽取、逻辑与常识 7 个维度 目前针对本地模型的评测很少，不知道有人感兴趣不，关注人多的话，我尽快测完放出来 做测试集是真不容易呀，除了收集完… |
-| 2026-09-19 | [用了一周多的 gemini 3.8 fl](https://versun.me/blog/tweet-2101099541546361260) | 用了一周多的 gemini 3.8 flash，说说感受 智商在线，代码能力和 k3 差不多，速度快，说人话 但不适合做 review，唯命是从，不够独立，不够自信 |
-| 2026-09-19 | [Python 潮流周刊#168：AI 智能体少写一半代码、Numba 提速 750 倍、PyPI 故障查了两周](https://pythoncat.top/posts/2026-09-19-weekly/) | 分享了 12 篇文章，12 个开源项目 |
 
 ## Vibe Coding
 

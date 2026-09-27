@@ -1,0 +1,191 @@
+[
+  {
+    "title": "一些關於連結的建議",
+    "url": "https://taxodium.ink/some-advice-about-links.html",
+    "date": "2026-09-27T03:25:00Z",
+    "description": "一些關於連結的建議 內容相關 在分享連結前，可以停下來先想想要不要分享。你的每一次分享都會給連結帶來一定的點擊量，你希望這個連結被傳播嗎？它值得被傳播嗎？有時不分享也許是更好的選擇。 讓連結的文字有意義 ，即使脫離上下文，連結中的文字也應該能說明該連結會前往何處。 錯誤示範：我的博客是 這個 。 正確示範：我的博客是 Taxodium 。 只寫連結，不寫文字，如何？ 最近我還看到一種分享連結的風格，見 Pluralistic ，這種風格是直接把連結寫出來，如： https://pluralistic.net/ 而不是 Pluralistic 。 這種風格的好处是能直接看到 URL，知道域名、URL 參數，某種程度上讓連結更透明。讀者看到域名，如果是一些不喜歡的網站就可以避免打開。連結往往會單獨一行呈現，複製起來也方便。 這種風格也是 純文本郵件 中連結的寫法 (純文本沒法用 HTML，也只能這麼寫) ： HTML 電子郵件允許你建立連結，將網址隱藏在對使用者友善的文字背後。然而，這是網路釣魚攻擊中極為常見的手法： 惡意寄件者會製作具有誤導性的連結，將你帶到與預期不同的網站。 這些網站通",
+    "source_root_domain": "taxodium.ink"
+  },
+  {
+    "title": "写作能解决什么？",
+    "url": "https://mobius.blog/25783.html",
+    "date": "2026-09-27T03:09:28Z",
+    "description": "本期Newsletter回顾了写作的功能及适用人群。写作可以帮助情绪反刍、恢复主体性，但并非每个人适合。探讨了自我与作品的关系，强调写作应为自我对话，而非市场认可。 —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。",
+    "source_root_domain": "onojyun.com"
+  },
+  {
+    "title": "How to transfer file to Device Hub",
+    "url": "https://blog.xu42.com/posts/how-to-transfer-file-to-decice-hub/",
+    "date": "2026-09-26T23:00:00Z",
+    "description": "xcrun simctl list | grep Booted xcrun simctl getappcontainer com.apple.DocumentsApp groups rsync ~/Downloads/file.pdf \" /File Provider Storage/file.pdf\"",
+    "source_root_domain": "xu42.com"
+  },
+  {
+    "title": "是琐碎的小事让我活着",
+    "url": "https://www.geedea.pro/article/little-things/",
+    "date": "2026-09-26T17:18:41Z",
+    "description": "这几天试了试不同的搜索引擎，其实也没有厌倦 Kagi，只是他们似乎在往邮件、新闻这些业务上拓展了，让我有点担心某天会发病，所以在物色替代品。搜索关键词很自负地搜了自己博客的名字，结果发现两三个镜像站聚合了我的 RSS，然后用语言模型生成了非常诡异的总结，还改了我的标题，机翻了我的英文文章。罢了，不去想那些烦心事。 我还找到了 松易涅的写作分享站 上一篇关于我博客的文章，题为《 左右脑：读极客死亡计划的博客有感 》。他的博客挺好的，我禁用了 JavaScript 还能正常用搜索功能 1 ，不过有一点待改进，就是文章页竟然没放发布日期。看内容应该是去年八九月，因为他是读了我「与某位男生的情感纠葛」才有感而发的。 最近收到一封读者来信，也提起那几篇文章。之前莫比乌斯也在他博客 谈起此事 。我不禁好奇究竟有多少人见证了我那几个月发疯想死的心路历程。 我倒是不觉得羞耻，但有些诧异。我那段时间真的非常痛苦，时常以泪洗面，还有轻生想法，我现在根本不敢打开那几篇文章阅读。奇妙的是，这样的文字竟然让人感到我的心思细腻。最近看《斯图尔特未能拯救宇宙》，是《生活大爆炸》的衍生剧，主创在片头放了很多文字，最后",
+    "source_root_domain": "geedea.pro"
+  },
+  {
+    "title": "Node.js、浏览器和 Cloudflare Workers 的wasm引入问题",
+    "url": "https://blog.est.im/2026/stdout-36",
+    "date": "2026-09-26T14:51:00Z",
+    "description": "最近在鼓捣 WebAssembly，这玩意没啥神秘的，可以看出一坨二进制的 .js 库文件 它本身的export和调用方式是统一的，但如今天我才知道，在不同 JavaScript 运行环境加载 .wasm 方式并不完全一样。 例如 Cloudflare Workers 可以直接： import wasm from \"./simple.wasm\"; const { instance } = await WebAssembly.instantiate(wasm, imports); Cloudflare 会把 .wasm 模块作为 WebAssembly.Module 提供给代码。 浏览器通常则是通过 fetch() 获取 Wasm，再使用 WebAssembly.instantiateStreaming() ： const { instance } = await WebAssembly.instantiateStreaming( fetch(\"./simple.wasm\"), imports, ); Node.js 则通过文件系统读取 .wasm 二进制，然后初始化。 .instant",
+    "source_root_domain": "feedburner.com"
+  },
+  {
+    "title": "出海赚美金:博客域名忘记续费了",
+    "url": "https://dsx2016.com/going-global-to-earn-dollars-forgot-to-renew-the-blog-domain/",
+    "date": "2026-09-26T12:31:00Z",
+    "description": "域名过期 前些天感冒，一个星期没好，所有业务都没有时间处理 就在这个敏感时间点，我的博客域名过期了，域名已经被... 出海赚美金:博客域名忘记续费了 最先出现在 大师兄2016 。",
+    "source_root_domain": "dsx2016.com"
+  },
+  {
+    "title": "Coffee Break Clojure, Vol.3",
+    "url": "https://www.geedea.pro/article/clj3/",
+    "date": "2026-09-26T10:20:05Z",
+    "description": "上一篇 我们讨论了不同类型的形式，了解了函数、Lambda、宏和特殊形式的皮毛，也学会了用一些基本的运算符、 let 和 if 等等。今天的文章要讨论集合数据类型。不过在此之前，我们还是先看看普通的数据类型有哪些。 今天的文章有点长，所以读的时候，呃…… 准备一杯大号的咖啡？ 你已经知道和你可能不知道的 和大部分编程语言一样，Clojure 支持数字、浮点数、字符串和布尔值。 由于 Clojure 是运行在 JVM 上的，所以这些数据类型都对应一个 Java 类。数字是 Long 不是 Int ，前者能表示的最大数是 2 的 63 次方减 1，也就是有 64 位，第一位是符号位，后者是 32 位。 和 Java 一样，Clojure 没有无符号数（unsigned int）。 Clojure 还能在这些类型上调用 Java 的方法，比如 String.getBytes() 。 ( seq ( .getBytes \"Hello\" )) ;; => (72 101 108 108 111) ( type ( first ( seq ( .getBytes \"Hello\" )))) ;; =",
+    "source_root_domain": "geedea.pro"
+  },
+  {
+    "title": "弥月佳期-中秋修水行记",
+    "url": "https://yovey.me/%e5%bc%a5%e6%9c%88%e4%bd%b3%e6%9c%9f-%e4%b8%ad%e7%a7%8b%e4%bf%ae%e6%b0%b4%e8%a1%8c%e8%ae%b0/",
+    "date": "2026-09-26T07:01:04Z",
+    "description": "清早出发，出城前先在Manner打好咖啡，一路西行。 行至三分之一，过路口的时候低速避让，路肩不平，点不到地， … Continue reading \"弥月佳期-中秋修水行记\"",
+    "source_root_domain": "yovey.me"
+  },
+  {
+    "title": "开发了一个云剪贴板服务 Cloud Clipboard",
+    "url": "https://hellodk.cn/post/1231",
+    "date": "2026-09-26T05:14:00Z",
+    "description": "跨设备复制粘贴，文本 / 图片 / 文件，一个链接搞定。在电脑 A 上创建一条剪贴板，得到一个形如 https://paste.940304.xyz/a7 的短链接；在手机或另一台电脑上打开这个...",
+    "source_root_domain": "hellodk.cn"
+  },
+  {
+    "title": "第一次拜月娘",
+    "url": "https://www.hecaitou.com/2026/09/worshipping-moon-goddess-first-time.html",
+    "date": "2026-09-26T04:48:46Z",
+    "description": "我经历过五十多个中秋，今年第一次在中秋夜拜月娘。 如果严格按照潮汕的拜月娘风俗，我最多只能帮着搬一下供桌和拜垫，上香这种事情根本轮不到我，因为在潮汕传统上拜月娘是女性的专属。月亮属阴，象征女性，自己人拜自己人很合理。 但我人在北京，一起赏月的一群人都不是本地人，而是一代移民。说起来，我们各自都是各家的家主，所以怎么过节，使用什么仪式，都是我们自己说了算，我这种蹭拜的行为也能理解。 之前很多年我都在文章里呼吁大家恢复春节的传统风俗，鼓励读者朋友去贴窗花、插梅花、 填字消寒、新年开笔，也不知道有没有效果。不过在社会上，倒是强行把「端午快乐」改成了「端午安康」。 今年我总算是想明白前因后果---与其撰文呼吁，不如闭嘴自己去做。做比说重要，我先做，大家随意。这样可能比文章更有信服力。 不是说非拜月娘不可，如果中秋还有别的传统风俗我也愿意尝试一下。不过我个人的确很喜欢拜月娘的好意头，也很喜欢仪式里的种种。比如说家里有学生，那就在供桌上摆放课本，祈求月娘赐福。我为此还专门研究了一下，结论是这个做法相当科学： 因为月亮在中国传统文化中和玉兔有关，兔子又是十二生肖，按照十二生肖对应的守护关系，兔子归文",
+    "source_root_domain": "hecaitou.com"
+  },
+  {
+    "title": "如果你和我一样，玩《塞尔达传说 旷野之息",
+    "url": "https://versun.me/blog/tweet-2103705056709406889",
+    "date": "2026-09-26T04:35:45Z",
+    "description": "如果你和我一样，玩《塞尔达传说 旷野之息》一直玩不下去，也无法理解为什么它会被称为神作，那么你可以试一试这么玩，我这几天已经玩的停不下来了。。。 1. 进入设置，把 HUD 界面改成「高级模式 (Pro)」 这步最关键。 改完后，屏幕上的小地图、温度表、声音雷达全都会消失，只留血量。 你不再是一个“盯着右下角小地图跑圆点”的打卡机器，你必须用眼睛看路、看远方的树林和山峰。 2. 彻底无视任务列表 出新手村（初始台地）之后，不要管黄色的任务感叹号，忘掉救公主，也别急着去打什么神兽。 《旷野之息》的精髓从来不是主线故事，而是独一无二的“空气感”与宁静： • 它有极度克制的钢琴断奏配乐，风吹过草浪的声音，雷雨天打在岩石上的雨点声。 • 它没有任何催你必须去干的事，救公主只是个借口，全世界都在等着你漫游，这次你的目标是拯救自己 • 整个世界符合最朴素的自然直觉：下雨天岩石打滑爬不上山、打雷时不能带金属武器、把肉扔在雪地上会变成冻肉、用火把点燃草地会产生上升气流带你滑翔。 3. 做一个纯粹的漫游者 • 看到哪座山好看，就走过去爬上去； • 爬到山顶掏出望远镜看日落，或者顺着风滑翔下来； • 遇到",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "Coffee Break Clojure, Vol.2",
+    "url": "https://www.geedea.pro/article/clj2/",
+    "date": "2026-09-26T02:06:41Z",
+    "description": "上一篇 我们配置好了 REPL，可以随时开始编写 Clojure 代码并执行。 第零篇 提到，被求值（Eval）的列表叫作形式（form），形式的第一个元素是操作符，剩余的是参数。根据操作符的不同，形式被分为函数形式、Lambda 形式、宏形式和特殊形式。今天的文章就来介绍这几种形式。 函数形式 不难理解，函数形式就是操作符为函数的形式，比如这个 println 形式： ( println \"Hello World\" ) 我们知道 \"Hello World\" 是字符串，那 println 是什么类型？在其他语言里我们可能很少考虑函数名本身的类型，但别忘了 Lisp 的「代码即数据」本质。要把待求值的形式当作数据而非形式处理，只需要把它 quote 起来。 这里要引入 Clojure 的 type 函数，它返回输入值的类型。我们不妨把刚才的形式 quote 起来，然后获取他的第一个元素 println ，看看它是什么类型。 ( type ( first ' ( println \"Hello World\" ))) ;; => clojure.lang.Symbol 类型是 Symbol （",
+    "source_root_domain": "geedea.pro"
+  },
+  {
+    "title": "根据我这2天使用opus 5.5的感受，",
+    "url": "https://versun.me/blog/tweet-2103656854773711297",
+    "date": "2026-09-26T01:24:12Z",
+    "description": "根据我这2天使用opus 5.5的感受，给大家一个思考层级的选择参考： Opus 5.5 low = GPT 5.6 Sol / Gemini 3.8 flash Opus 5.5 Medium = GPT 5.6 Astra / Kimi K3 / SWE 2 Opus 5.5 High = Fable 5.1 Opus 5.5 xHigh = Opus 5.5 Opus 5.5 Ultra = AGI",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "2004，没有暑假的夏天",
+    "url": "https://www.tortorse.com/archives/2004-summer-without-vacation/",
+    "date": "2026-09-26T00:41:18Z",
+    "description": "招聘会上，人们在展位间看招聘信息",
+    "source_root_domain": "tortorse.com"
+  },
+  {
+    "title": "Python 潮流周刊#169：AI 用 11 天证完费马大定理、Python 拟加 export 关键字、一个 Key 调 3000 个工具",
+    "url": "https://pythoncat.top/posts/2026-09-26-weekly/",
+    "date": "2026-09-26T00:00:00Z",
+    "description": "分享了 12 篇文章，12 个开源项目",
+    "source_root_domain": "pythoncat.top"
+  },
+  {
+    "title": "13.8 万星的 free-for-dev：57 类免费额度，替掉我一半的付费订阅",
+    "url": "https://gugegt.com/free-for-dev-free-tier-guide.html",
+    "date": "2026-09-25T16:00:00Z",
+    "description": "上周整理订阅列表，发现有 9 个服务在按月扣钱。一个数据库，一个对象存储，一个监控，一个错误追踪，两个只在周末跑一次定时任务的小机器，还有几个我自己都想不起什么时候开通的。 加起来一个月 60 多美元，折人民币四百多。 这些活儿有一个共同点：全都不需要付费。我把账单截图丢进 free-for-dev ，一个 13.8 万星的 GitHub 仓库，翻了一晚上。",
+    "source_root_domain": "gugegt.com"
+  },
+  {
+    "title": "中秋快乐",
+    "url": "https://blog.solazy.me/20260925/",
+    "date": "2026-09-25T15:00:00Z",
+    "description": "中秋节过得越来越平静了",
+    "source_root_domain": "solazy.me"
+  },
+  {
+    "title": "这种效果搭配秒控板，不要太爽啊！我想要这",
+    "url": "https://versun.me/blog/tweet-2103436216138121265",
+    "date": "2026-09-25T10:47:28Z",
+    "description": "Zsolt Kacso I wanted infinite canvas for my desktop. So I built it with Omarchy and Opus. I'm calling it Phantomat. Grab here: https://github.com/kaolti/phantomat Thanks for all the feedback, gl and hf. 这种效果搭配秒控板，不要太爽啊！我想要这个，谁去 vibe 个 mac 版本的出来呀，我的 token 还有用，就不浪费了😂",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "Pensieve: 2609",
+    "url": "https://xiaket.github.io/2026/pensieve-2609.html",
+    "date": "2026-09-25T09:13:00Z",
+    "description": "所读所观所玩",
+    "source_root_domain": "xiaket.org"
+  },
+  {
+    "title": "怯犬",
+    "url": "https://www.geedea.pro/fiction/doggy/",
+    "date": "2026-09-25T07:56:01Z",
+    "description": "一 今晚没有月亮，窗户外面其他人家的灯火也灭了，屋子里很黑，杉松迷迷糊糊地醒了。耳塞不能阻断嗅觉，好几个晚上，他都被香水、汗液和石楠花的味道弄醒，醒来时，他还紧紧地抱着一只玩偶，脸埋在沙发的靠背上。他感到背后有风，一阵远远的响动，随后皮革的气味取代了那些扰人心智的东西。他翻了个身，刚好碰到男友的手臂。 几秒的沉默过后，铭锐开口了：“你要进屋睡吗？”“她走了？”“嗯。”杉松裹着毯子，从沙发上爬起来，怀里还揣着玩偶。他刚才就已经失去了睡意，但还是半眯着眼睛，装成半梦不醒的样子往卧室走去。两个人都很有默契地没开灯，杉松已经适应了黑暗，他转头看见月光洒在家具上，映出冷白色的轮廓。他回过头，那轮廓也出现在了铭锐身上。他一直觉得感受是有形状的，他现在的感受就像是一个卡在胸腔的、半固体半液体的球，薄壁和内脏接触的表面渗出酸液，他竟不觉得疼痛，只是难受。他紧紧地跟在这个男人身后，生怕自己被他弄丢了。卧室门前，铭锐停下来想让杉松先进屋，手掌放在他背上时，杉松觉得他的手像火一样烫。 杉松在床前站定好一会儿，铭锐也只是在一旁看着他，两个人都没有上床。“没事……”，铭锐突然发出声音，“我收拾好了。”杉松又站了",
+    "source_root_domain": "geedea.pro"
+  },
+  {
+    "title": "《火焰纹章 封印之剑》游戏感想",
+    "url": "https://blog.yuanji.dev/posts/fire-emblem-fuuin-no-tsurugi-review/",
+    "date": "2026-09-25T05:39:00Z",
+    "description": "接连写了两篇博客分别介绍了最近购买的复古游戏掌机（见：复古掌机初体验：ANBERNIC RG 34XX）和围绕 […]",
+    "source_root_domain": "gimo.me"
+  },
+  {
+    "title": "终日网上翻垃圾",
+    "url": "https://www.hecaitou.com/2026/09/dumpster-diving-on-the-modern-web.html",
+    "date": "2026-09-25T05:14:57Z",
+    "description": "今天是中秋节，我想聊一点轻松的话题。 这几天我在选电脑显示器，目前我正使用的一台华硕显示器和苹果系统八字越来越冲，会频繁自动黑屏，然后又自动点亮。你想象一下，一个人站在空荡荡的房间里面对一套电脑，然后它毫无征兆地熄灭，等一会儿又自顾自地亮起来。你就说这时候是不是想上网买几道符回来给它贴满？ 再后来即便重新亮起来，屏幕显示会扭曲成一团，感觉是电脑主机和显示器在激烈厮打---不用费心教我如何调试了，这个问题我已经花了两年时间找过所有可能的解决方案，换过无数次连接方式和各种线材。海内外和我一样遭遇的用户都在等固件升级，或者把它换去用 Windows 系统，它们才是真正的天仙配，和苹果系统在一起那是包办婚姻。 不重要了，重要的是我选什么替代显示器？为此，我开始在网上搜索，用 AI 协助分析。但我万万没想到，搜出来的资料大部分都是垃圾，而且是那种纯垃圾---文章很短，话都说不全，根本不知道作者想要表达什么，看下来感觉是在重复几个关键的显示器品牌和型号，目的是为了在搜索结果里占据一席之地。 网络社交平台上是不是好一点呢？的确好一点，起码一篇选品攻略能把人话说全，一二三四都能写明白。但依然还是垃圾，",
+    "source_root_domain": "hecaitou.com"
+  },
+  {
+    "title": "简单让 AI 对比了下 4款 Agent",
+    "url": "https://versun.me/blog/tweet-2103297487486513598",
+    "date": "2026-09-25T01:36:13Z",
+    "description": "简单让 AI 对比了下 4款 Agent 网关工具， 分别是：magpie · cc-switch · CLIProxyAPI · AstrLink 供参考：https://agent-gateway-compare.versun.me",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "开水",
+    "url": "https://mobius.blog/25780.html",
+    "date": "2026-09-25T01:30:00Z",
+    "description": "这个标题来自于坐在我旁边的陌生人，正起身去咖啡厅吧台要求工作人员，往自己的茶杯里接了一杯开水。 她想让工作人员 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。",
+    "source_root_domain": "onojyun.com"
+  },
+  {
+    "title": "这是吹起 ai 网关的风吗，这2天已经看",
+    "url": "https://versun.me/blog/tweet-2103279669412065313",
+    "date": "2026-09-25T00:25:24Z",
+    "description": "yetone One more thing https://usemagpie.ai/ 这是吹起 ai 网关的风吗，这2天已经看到3个大佬在做同样的东西了",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "opus 5.5 上下文在 256k 左",
+    "url": "https://versun.me/blog/tweet-2103279251948707998",
+    "date": "2026-09-25T00:23:45Z",
+    "description": "opus 5.5 上下文在 256k 左右就会出现失忆，我已经遇到2次了，pi agent (max 1M)",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "Raft 开源了！ 但以一种很有意思的方",
+    "url": "https://versun.me/blog/tweet-2103274356134830482",
+    "date": "2026-09-25T00:04:18Z",
+    "description": "stdrc https://x.com/i/article/2103157543891853312 Raft 开源了！ 但以一种很有意思的方式开源，建议看看",
+    "source_root_domain": "versun.me"
+  }
+]
