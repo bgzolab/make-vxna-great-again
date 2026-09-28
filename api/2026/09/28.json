@@ -1,5 +1,40 @@
 [
   {
+    "title": "符合中国大陆用户的小狼毫输入法配置：装完先做三件事，附两份配置",
+    "url": "https://gugegt.com/rime-weasel-config.html",
+    "date": "2026-09-28T16:20:00Z",
+    "description": "Windows 上折腾 Rime 的完整记录，附两份可以直接复制走的配置文件，还有几个我踩过的坑。 我电脑上装搜狗装了六七年。早几年它确实好用，词库更新快，新词一冒出来马上就能打出来。后来安装目录越来越大，右键菜单里混进了跟打字没关系的东西，设置面板里一排开关等着你去关。关推送，关资讯，关助手，关完一圈发现后台还挂着好几个进程。 搜狗的词库和云联想到今天依然是最强的。我为打字付的账是一个常驻后台的程序、一份说不上存在哪儿的用户词库，还有隔一段时间冒出来的新功能提醒。",
+    "source_root_domain": "gugegt.com"
+  },
+  {
+    "title": "R#121 高松初见",
+    "url": "https://blog.sakanano.moe/journals/random_121",
+    "date": "2026-09-28T14:00:00Z",
+    "description": "2026.9.22 ~ 2026.9.28",
+    "source_root_domain": "sakanano.moe"
+  },
+  {
+    "title": "谁还记得 Yahoo Meme 和 Google+：两个对标 Twitter 的产品，都没活过八年",
+    "url": "https://gugegt.com/yahoo-meme-google-plus.html",
+    "date": "2026-09-28T11:30:00Z",
+    "description": "翻出三张截图。 第一张是 Yahoo Meme 的首页。浅蓝色天，草地上站着两只狗，一只叼着骨头冒出 wow! ，另一只喊 yum! 。右下角有个红色的消防栓。紫色的按钮写着 start now。 第二张是它的个人主页。Mac 上的火狐，地址栏 meme.yahoo.com/imknight/dashboard 。右上角一行小字：0 followers。 第三张是 Google+ 的信息流。左边一个蓝色方块写着「13 new」，右边一列 Trending 话题，一条国家队照片的帖子底下挂着 +355。",
+    "source_root_domain": "gugegt.com"
+  },
+  {
+    "title": "关于3D打印",
+    "url": "https://blog.oospace.com/posts/2026-09-28/",
+    "date": "2026-09-28T11:14:00Z",
+    "description": "前段时间有个新闻介绍到3D打印的模型可以用AI生成，我才想起我已经很久没有关注过这个行业了",
+    "source_root_domain": "oospace.com"
+  },
+  {
+    "title": "微信公众号的管理后台数据分析",
+    "url": "https://dsx2016.com/data-analysis-for-wechat-official-account-management-backend/",
+    "date": "2026-09-28T10:50:31Z",
+    "description": "单篇文章数据 单篇文章的数据要等到第二天上午才可以查看 具体几点不清楚，只知道在电脑管理界面，点击单篇文章数据... 微信公众号的管理后台数据分析 最先出现在 大师兄2016 。",
+    "source_root_domain": "dsx2016.com"
+  },
+  {
     "title": "野人编年史",
     "url": "http://imlane.zhanglintc.co/ye-ren-bian-nian-shi",
     "date": "2026-09-28T06:41:10Z",
@@ -56,6 +91,13 @@
     "source_root_domain": "lomus.cc"
   },
   {
+    "title": "2026年第37、38周：流水账小记",
+    "url": "https://blog.sakoamc.com/posts/263839/",
+    "date": "2026-09-28T00:00:00Z",
+    "description": "题记：人一旦忙起来，时间的流速都变得不一样了。",
+    "source_root_domain": "sakoamc.com"
+  },
+  {
     "title": "VictoriaLogs vector 采集报 TLS 证书验证失败的排查记录",
     "url": "https://199604.com/3724",
     "date": "2026-09-27T23:07:28Z",
@@ -75,6 +117,13 @@
     "date": "2026-09-27T17:04:04Z",
     "description": "Foreword 如上篇所提，今年中秋和国庆中间卡了三天班，直接请假从 9 月 25 号连到 10 月 7 号，一共 13 天。去拉萨，托车到成都再开 318到拉萨，后续车托回深圳，我从拉萨直接飞回来。 准备 预算 拖车到成都1700，拉萨拖回来3000，飞成都1600，拉萨飞回3900，这部分固定开支已经10200了 住宿+吃饭，买一些零碎的东西，景区门票等，暂时不知道有多少，算多一些估计一天1000，预计1w块搞定所有吧 这两个合起来估计2w，算多一些2.5w？，完成十三天的自驾 拖车 15号就已经把车给到托车公司了，但是一直到19号凌晨车才上到拖车，才准备出发 这司机一口气开了20+小时，直接从广州干到重庆，距离成都也没多远了，估计20号早上就到了。 这拖车都是这样，迟迟不出发，一出发没多会就要到了 20号早上6点就到成都了，真的快，我甚至拖车钱都没付呢。 机票 24号晚我就能到成都，然后直接晚上开车提前走一段，防止节假日堵车，走到其他人前面去。中间看情况车上或者中间某个地方休息一下就行了 药品 由于买不到缓释胶囊，先买了片剂。片剂防高反，常见剂量 125mg 一天两次。手、嘴发",
     "source_root_domain": "elmagnifico.tech"
+  },
+  {
+    "title": "Meaning of life",
+    "url": "https://blog.bensontech.dev/posts/boring/",
+    "date": "2026-09-27T16:00:00Z",
+    "description": "Boring I took a casual life for a long time during the past 2 month. I don’t set some goals for myself except the regular work time. I can do whatever I can do. This kind of life lasts for a long time, but I found it’s more easy to feel bored in this status. It’s fun to try different things, different hobbies, but it’s also easy to stop it if I don’t set a goal or enjoy that deeply. I’m big fan of pingpong, I will participate the game every Friday evening. But for others, like piano or tennis, I",
+    "source_root_domain": "informal.top"
   },
   {
     "title": "微信公众号文章多平台分发",
@@ -133,11 +182,25 @@
     "source_root_domain": "mfwt.top"
   },
   {
+    "title": "Wind and Limits",
+    "url": "https://tianheg.co/posts/sport-wind-limit-en/",
+    "date": "2026-09-27T12:30:00Z",
+    "description": "I worked overtime today, and went for a run in the evening. According to Zepp's plan, today's run was 11km. The last time I ran more than 10km was back in August. Out the door, walk a stretch, stretch both arms out, twist the waist, loosen the ankles — getting ready for a long run. Music mixed with the voices of passersby around my ears; a lot of people come to the park for a walk, and I don't like crowds. I started running. While running, my head was very clear, and I was surprised at how clear",
+    "source_root_domain": "tianheg.co"
+  },
+  {
     "title": "从wireguard代理换回frp内网穿透",
     "url": "https://dsx2016.com/switching-back-from-a-wireguard-proxy-to-frp-for-nat-traversal/",
     "date": "2026-09-27T12:20:32Z",
     "description": "总是断线 使用wireguard，在linux上大概一周左右回掉线一次，看起来是正常，实际上网络是假连接，业务... 从wireguard代理换回frp内网穿透 最先出现在 大师兄2016 。",
     "source_root_domain": "dsx2016.com"
+  },
+  {
+    "title": "【运动记】风与极限",
+    "url": "https://tianheg.co/posts/sport-wind-limit/",
+    "date": "2026-09-27T12:13:34Z",
+    "description": "今天加班，晚上去跑步了，按照Zepp的计划，今天要跑11km。上次跑超过10km，还是八月的事情。",
+    "source_root_domain": "tianheg.co"
   },
   {
     "title": "2026.9.27",
@@ -180,6 +243,13 @@
     "date": "2026-09-27T06:52:33Z",
     "description": "微信图文 微信图文，也叫微信贴图，俗称“小绿书” 目前微信官方大力推荐微信图文，为了方便创作者 只要发布公众号... 微信公众号文章AI自动转为微信图文 最先出现在 大师兄2016 。",
     "source_root_domain": "dsx2016.com"
+  },
+  {
+    "title": "Muse 邀请码攻略：48 小时内兑换拿 10 亿词元（附自助找码方法）",
+    "url": "https://gugegt.com/muse-invite-code-guide.html",
+    "date": "2026-09-27T05:32:00Z",
+    "description": "上次发了篇 Muse 邀请码的说明 ，后台问得最多的两句话：码到底填哪儿？失效了还有没有新的？ 第二句没法一次答完。邀请码先到先得，一个码的额度用完就报错，我上个月贴的码现在还有效，别人贴的可能几小时就废了。 所以这篇补两件事：兑换的三个步骤，以及怎么自己去 X 上实时找码。",
+    "source_root_domain": "gugegt.com"
   },
   {
     "title": "我的文化偏好",
@@ -245,13 +315,6 @@
     "source_root_domain": "geedea.pro"
   },
   {
-    "title": "Muse 邀请码攻略：48 小时内兑换拿 10 亿词元（附自助找码方法）",
-    "url": "https://gugegt.com/muse-invite-code-guide.html",
-    "date": "2026-09-26T16:00:00Z",
-    "description": "上次发了篇 Muse 邀请码的说明 ，后台问得最多的两句话：码到底填哪儿？失效了还有没有新的？ 第二句没法一次答完。邀请码先到先得，一个码的额度用完就报错，我上个月贴的码现在还有效，别人贴的可能几小时就废了。 所以这篇补两件事：兑换的三个步骤，以及怎么自己去 X 上实时找码。",
-    "source_root_domain": "gugegt.com"
-  },
-  {
     "title": "Hugo 博客搭建、部署与优化实践",
     "url": "https://liudon.com/guides/hugo-blog/",
     "date": "2026-09-26T16:00:00Z",
@@ -292,6 +355,13 @@
     "date": "2026-09-26T12:31:00Z",
     "description": "域名过期 前些天感冒，一个星期没好，所有业务都没有时间处理 就在这个敏感时间点，我的博客域名过期了，域名已经被... 出海赚美金:博客域名忘记续费了 最先出现在 大师兄2016 。",
     "source_root_domain": "dsx2016.com"
+  },
+  {
+    "title": "13.8 万星的 free-for-dev：57 类免费额度，替掉我一半的付费订阅",
+    "url": "https://gugegt.com/free-for-dev-free-tier-guide.html",
+    "date": "2026-09-26T10:56:00Z",
+    "description": "上周整理订阅列表，发现有 9 个服务在按月扣钱。一个数据库，一个对象存储，一个监控，一个错误追踪，两个只在周末跑一次定时任务的小机器，还有几个我自己都想不起什么时候开通的。 加起来一个月 60 多美元，折人民币四百多。 这些活儿有一个共同点：全都不需要付费。我把账单截图丢进 free-for-dev ，一个 13.8 万星的 GitHub 仓库，翻了一晚上。",
+    "source_root_domain": "gugegt.com"
   },
   {
     "title": "Coffee Break Clojure, Vol.3",

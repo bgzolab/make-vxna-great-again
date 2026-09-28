@@ -27,6 +27,11 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-09-28 | [符合中国大陆用户的小狼毫输入法配置：装完先做三件事，附两份配置](https://gugegt.com/rime-weasel-config.html) | Windows 上折腾 Rime 的完整记录，附两份可以直接复制走的配置文件，还有几个我踩过的坑。 我电脑上装搜狗装了六七年。早几年它确实好用，词库更新快，新词一冒出来马上就能打出来。后来安装目录越来越大，右键菜单里混进了跟打字没关系的东西，设置面板里一排开关等着你去关。关推送，关资讯，关助手，关完… |
+| 2026-09-28 | [R#121 高松初见](https://blog.sakanano.moe/journals/random_121) | 2026.9.22 ~ 2026.9.28 |
+| 2026-09-28 | [谁还记得 Yahoo Meme 和 Google+：两个对标 Twitter 的产品，都没活过八年](https://gugegt.com/yahoo-meme-google-plus.html) | 翻出三张截图。 第一张是 Yahoo Meme 的首页。浅蓝色天，草地上站着两只狗，一只叼着骨头冒出 wow! ，另一只喊 yum! 。右下角有个红色的消防栓。紫色的按钮写着 start now。 第二张是它的个人主页。Mac 上的火狐，地址栏 meme.yahoo.com/imknight/das… |
+| 2026-09-28 | [关于3D打印](https://blog.oospace.com/posts/2026-09-28/) | 前段时间有个新闻介绍到3D打印的模型可以用AI生成，我才想起我已经很久没有关注过这个行业了 |
+| 2026-09-28 | [微信公众号的管理后台数据分析](https://dsx2016.com/data-analysis-for-wechat-official-account-management-backend/) | 单篇文章数据 单篇文章的数据要等到第二天上午才可以查看 具体几点不清楚，只知道在电脑管理界面，点击单篇文章数据... 微信公众号的管理后台数据分析 最先出现在 大师兄2016 。 |
 | 2026-09-28 | [野人编年史](http://imlane.zhanglintc.co/ye-ren-bian-nian-shi) | 野人编年史 野人创始人 徐队 ，群昵称Shogun。姓徐，称徐队，真野人队长，野人 抖音官号 持有者。 张队 ，群昵称张小不。江湖人称竹节虫，简称虫队。 熊队 ，群昵称熊嘎婆，称熊队。 野人CLUB游泳事业部 群主。 亮队 ，群昵称亮什么，称亮队，野人 小红书官号 持有者。 野人声明 从 泳往直前… |
 | 2026-09-28 | [旧屋厨房漏水](https://guchengf.me/blog/2026-09-28-stream/) | 突然接到老房子的物业的电话，告知我房屋的厨房出现了漏水情况，楼下邻居发现天花板渗水。 由于对邻居影响很大，我立刻请假赶往老房子，到场之后发现物业的人已经在门口了。进屋之后在厨房排查了一番，发现是水龙头的冷热水管发生了破损，有漏水，我便去找了维修人员。 维修人员检查说是使用的可抽拉的水龙头的延长管线长… |
 | 2026-09-28 | [从一到百千万](https://www.hecaitou.com/2026/09/From-One-to-Millions.html) | 从一到百的事情，我做过许多次。从一到千的事情，我也做过不少。从一到万的事情，我也有过一手体验。 本来我是根本做不到的，因为我就是那种所谓「没长性」的人。小时候看黑瞎子掰苞米一类的寓言故事，能把我看到内心焦虑，觉得我就是一样的脾气性格，这辈子怕是完了，手头永远只有一根苞米，身后却落了一路。 好在我没有… |
@@ -35,9 +40,11 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-09-28 | [讀《13·67》](https://taxodium.ink/%E8%AE%80%E3%80%8A13%C2%B767%E3%80%8B.html) | 讀《13·67》 《13·67》 是 陳浩基 寫的一本推理小說，書名《13·67》含義是從 2013 年到 1967 年之間的故事，以香港和當時的一些歷史事件為背景。整本小說由 6 個相對獨立的案件組成，通過反複出現的人物將故事串聯起來，每個獨立案件都挺精采的。作為一本推理小說，我覺得這几個故事已經… |
 | 2026-09-28 | [大脑充血 Vol.100](https://www.geedea.pro/weekly/100/) | 第一百期！我明明把正刊改成每月更新了，却还是每周更新小报，就是为了撑到这一天。这样我就可以酷酷地告诉别人，我有件事情坚持了一百周，也就是将近两年的时间。 这期是小游戏特辑。节前无心工作的话，就摸鱼玩玩吧。我们国庆十月正刊再见。 色彩计数器 🎮 Color Counter 从 Taxodium Zin… |
 | 2026-09-28 | [「普通朋友」的边界](https://lomus.cc/archives/834) | 今天想来聊一个这段时间经常发生在我身上的事。 起因是我的一个前同事，前两年还在公司的时候，我们关系还可以，但也 […] 「普通朋友」的边界 最先出现在 Lumos's Blog 。 |
+| 2026-09-28 | [2026年第37、38周：流水账小记](https://blog.sakoamc.com/posts/263839/) | 题记：人一旦忙起来，时间的流速都变得不一样了。 |
 | 2026-09-27 | [VictoriaLogs vector 采集报 TLS 证书验证失败的排查记录](https://199604.com/3724) | VictoriaLogs vector 采集报 TLS 证书验证失败的排查记录 记录时间：2026-09-23 […] |
 | 2026-09-27 | [用 iPhone 遥控器控制你的 Android TV 和 Mac —— atv-core 项目分享](https://corvo.myseu.cn/2026/09/27/2026-09-27-%E7%94%A8iPhone%E9%81%A5%E6%8E%A7%E5%99%A8%E6%8E%A7%E5%88%B6%E4%BD%A0%E7%9A%84Android-TV%E5%92%8CMac/) | 我开发了一个叫 atv-core 的项目，可以让你直接用 iPhone 控制中心的 Apple TV 遥控器来操控 Android TV 和 Mac。不需要买 Apple TV，不需要额外 App，iPhone 自带的遥控器就行。本文分享一下这个项目的使用方法和背后的一些技术原理。 |
 | 2026-09-27 | [](https://elmagnifico.tech/2026/09/28/2026-09-15-shenzhen-lasa-ontheway/) | Foreword 如上篇所提，今年中秋和国庆中间卡了三天班，直接请假从 9 月 25 号连到 10 月 7 号，一共 13 天。去拉萨，托车到成都再开 318到拉萨，后续车托回深圳，我从拉萨直接飞回来。 准备 预算 拖车到成都1700，拉萨拖回来3000，飞成都1600，拉萨飞回3900，这部分固定… |
+| 2026-09-27 | [Meaning of life](https://blog.bensontech.dev/posts/boring/) | Boring I took a casual life for a long time during the past 2 month. I don’t set some goals for myself except the regular work time. I can do whatever… |
 | 2026-09-27 | [微信公众号文章多平台分发](https://dsx2016.com/multi-platform-distribution-of-wechat-official-account-articles/) | 公众号文章 以前把独立博客作为主要平台，微信公众号酌情作为副平台 因为独立博客可以写自己想写的，不限制字数，不... 微信公众号文章多平台分发 最先出现在 大师兄2016 。 |
 | 2026-09-27 | [Toots 438 2026 Sep.20 - Sep.26](https://z.arlmy.me/posts/MastodonArchives/2026/MastodonTootsArchives_20260926/) | 「基础设置与寄生。」 |
 | 2026-09-27 | [入蜀记 day488 非中非欧美](https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_488/) | 「非中非欧美。」 |
@@ -46,13 +53,16 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-09-27 | [入蜀记 day485 海鲜pasta](https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_485/) | 「海鲜pasta」 |
 | 2026-09-27 | [博客时光机 2.0 后端篇：构建可视索引](https://liudon.com/posts/hugo-ipfs-time-machine-v2-visual-index/) | 前言 上一篇介绍了 博客时光机 2.0 的更新，这篇来聊聊它背后的实现。 2.0 想做的事情其实很直观： 让博客从过去开始，一版一版走到今天。 原本以为，把历史页面截下来，按时间播放就行了。 |
 | 2026-09-27 | [如何寻找与选购免执照的 409MHz 公众对讲机](https://blog.mfwt.top/index.php/archives/1640/) | 之前笔者写了很多关于合法使用对讲机的博文，比如谨慎购买网红对讲机（原因：所用的频段不是普通对讲机频段），等等。在聊到合规性的话题时候，基本上都会提到，那种对讲机为什么是不合法的，合法的替代品有哪... |
+| 2026-09-27 | [Wind and Limits](https://tianheg.co/posts/sport-wind-limit-en/) | I worked overtime today, and went for a run in the evening. According to Zepp's plan, today's run was 11km. The last time I ran more than 10km was bac… |
 | 2026-09-27 | [从wireguard代理换回frp内网穿透](https://dsx2016.com/switching-back-from-a-wireguard-proxy-to-frp-for-nat-traversal/) | 总是断线 使用wireguard，在linux上大概一周左右回掉线一次，看起来是正常，实际上网络是假连接，业务... 从wireguard代理换回frp内网穿透 最先出现在 大师兄2016 。 |
+| 2026-09-27 | [【运动记】风与极限](https://tianheg.co/posts/sport-wind-limit/) | 今天加班，晚上去跑步了，按照Zepp的计划，今天要跑11km。上次跑超过10km，还是八月的事情。 |
 | 2026-09-27 | [2026.9.27](https://www.justzht.com/2026-9-27/) | 周六的时候给 E39 买的车机到了，因此下午就在装。拆开中控，把 Business CD 机拔出来，发现上任车主自己接线搞了一个蓝 |
 | 2026-09-27 | [前挡玻璃上的划痕](https://blog.solazy.me/20260927/) | 刚下高速，路上发生一件事儿 |
 | 2026-09-27 | [Emacs 代碼块导出复用](https://taxodium.ink/reusing-emacs-code-block-when-export.html) | Emacs 代碼块导出复用 在寫博客時，有時我需要顯示代碼，同時把代碼导出成 HTML，放在頁面裡用。例如在 一些關於連結的建議::進階樣式 裡，我要介紹外部連結的樣式，同時要將樣式應用在頁面上，原來我會這麼做： 一個代碼块 ( #+beginsrc css ) 用於顯示代碼： #+beginsrc… |
 | 2026-09-27 | [使用 Emacs Everywhere，把任意輸入框用 Emacs 接管](https://taxodium.ink/use-emacs-everywhere-to-take-over-any-input-field-with-emacs.html) | 使用 Emacs Everywhere，把任意輸入框用 Emacs 接管 tecosaur/emacs-everywhere 是一個 Emacs 的擴展，它可以在任意輸入框輸入時，打開一個 Emacs Frame，把輸入框的內容複製到 Emacs 裡編輯， 編輯完成後，再把內容粘貼回原來的輸入框。… |
 | 2026-09-27 | [地球上最后的夜晚](https://www.geedea.pro/library/2026/last-evenings-on-earth/) | 第一次听闻波拉尼奥是某个下午在西西弗书店闲逛，买了一本很厚的《在地狱阅览室里》，散文集，一百多块钱，是我买过最贵的书。那个时候我不认识他，没读下去，后来把书在多抓鱼上卖掉了。我有段时间想要多读些拉美文学，对波拉尼奥本人以及和他同时代或对他产生过影响的作者都建立一些了解，再去读那本书。然后我读了点 马… |
 | 2026-09-27 | [微信公众号文章AI自动转为微信图文](https://dsx2016.com/automatically-convert-wechat-official-account-articles-into-wechat-rich-media-posts-using-ai/) | 微信图文 微信图文，也叫微信贴图，俗称“小绿书” 目前微信官方大力推荐微信图文，为了方便创作者 只要发布公众号... 微信公众号文章AI自动转为微信图文 最先出现在 大师兄2016 。 |
+| 2026-09-27 | [Muse 邀请码攻略：48 小时内兑换拿 10 亿词元（附自助找码方法）](https://gugegt.com/muse-invite-code-guide.html) | 上次发了篇 Muse 邀请码的说明 ，后台问得最多的两句话：码到底填哪儿？失效了还有没有新的？ 第二句没法一次答完。邀请码先到先得，一个码的额度用完就报错，我上个月贴的码现在还有效，别人贴的可能几小时就废了。 所以这篇补两件事：兑换的三个步骤，以及怎么自己去 X 上实时找码。 |
 | 2026-09-27 | [我的文化偏好](https://www.hecaitou.com/2026/09/my-cultural-preferences.html) | 因为我在中秋提到了拜月娘，很多读者就很疑惑：你什么时候对潮汕文化如此有兴趣了？ 我就想反问：我什么时候对地方文化没兴趣过？ 当然，面对提问的时候直接用反问的方式回应显得很不友善。那我还可以换一种回答：拜月娘又不是潮汕地区所独有，起码同源文化的福建地区也有，直接判定我对潮汕文化有兴趣很不严谨。 不过这… |
 | 2026-09-27 | [微信公众号和独立博客](https://dsx2016.com/wechat-official-accounts-and-independent-blogs/) | 数据分析 同样的文章，从发布到现在 微信公众号浏览量为35，独立博客浏览量为24 两者差距不算大 但是有一个细... 微信公众号和独立博客 最先出现在 大师兄2016 。 |
 | 2026-09-27 | [水蒸蛋](https://taxodium.ink/recipe-shui-zheng-dan.html) | 水蒸蛋 水蒸蛋有啥難的？打几個雞蛋，加點水，放鍋裡一蒸不就完了嗎？ 我也是這麼想的，但想要蒸出表面光滑、整體水嫩的水蒸蛋，還是有一些細節要注意的。 食材 雞蛋若干個，具體几個，取决於你想吃几個，以及容器大小。 烹飪 打 4 個雞蛋到容器裡，按 1:1.5 的蛋水比例加水 (你可以用半個蛋殻來量，量… |
@@ -62,13 +72,13 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-09-27 | [《路易斯安那系列》文本整理](https://weblog.contained.love/posts/louisiana-series-text/) | 至今竟然还没有人整理出歌佬《路易斯安那系列》的文本，我实在等不及了，就自己来吧。 包括两篇作者杂谈的文字版作为附录在书后。 书籍效果如图： 大致流程为: 截取视频帧 RapidOCR 本地模型识别 Faster-whisper 本地识别校准 排版校对 迭代了很多版之后，仍然有许多细节问题，先发出来再… |
 | 2026-09-26 | [How to transfer file to Device Hub](https://blog.xu42.com/posts/how-to-transfer-file-to-decice-hub/) | xcrun simctl list &#124; grep Booted xcrun simctl getappcontainer com.apple.DocumentsApp groups rsync ~/Downloads/file.pdf " /File Provider Storage/file.pd… |
 | 2026-09-26 | [是琐碎的小事让我活着](https://www.geedea.pro/article/little-things/) | 这几天试了试不同的搜索引擎，其实也没有厌倦 Kagi，只是他们似乎在往邮件、新闻这些业务上拓展了，让我有点担心某天会发病，所以在物色替代品。搜索关键词很自负地搜了自己博客的名字，结果发现两三个镜像站聚合了我的 RSS，然后用语言模型生成了非常诡异的总结，还改了我的标题，机翻了我的英文文章。罢了，不去… |
-| 2026-09-26 | [Muse 邀请码攻略：48 小时内兑换拿 10 亿词元（附自助找码方法）](https://gugegt.com/muse-invite-code-guide.html) | 上次发了篇 Muse 邀请码的说明 ，后台问得最多的两句话：码到底填哪儿？失效了还有没有新的？ 第二句没法一次答完。邀请码先到先得，一个码的额度用完就报错，我上个月贴的码现在还有效，别人贴的可能几小时就废了。 所以这篇补两件事：兑换的三个步骤，以及怎么自己去 X 上实时找码。 |
 | 2026-09-26 | [Hugo 博客搭建、部署与优化实践](https://liudon.com/guides/hugo-blog/) | 本博客使用 Hugo 生成静态页面，并部署在 Cloudflare Pages。 长期维护过程中，我先后处理了主题改造、图片加载、访问性能、评论系统和搜索收录等问题。 这份指南汇集了相关实践，记录每次调整背后的原因、尝试过的方案，以及最终采用的实现。 |
 | 2026-09-26 | [博客时光机](https://liudon.com/guides/blog-time-machine/) | 从将站点部署到 IPFS、保存历史快照，到时光机 1.0 的随机穿越，再到 2.0 的 Macintosh 可视时间线，这份指南完整记录了项目的演进过程，以及每个阶段解决的问题。 |
 | 2026-09-26 | [AI 口播视频生成实践](https://liudon.com/guides/ai-video/) | 为了生成自然的 AI 口播视频，我先后部署并测试了多种音色克隆和人物对口型方案。 这份指南记录了不同方案的实际效果与取舍，以及如何将这些能力组合起来，最终实现口播短视频二创工具 VideoRemaker。 |
 | 2026-09-26 | [没有一劳永逸的习惯](https://blog.solazy.me/20260926/) | 今天突然想聊聊坚持、习惯和反人性 |
 | 2026-09-26 | [Node.js、浏览器和 Cloudflare Workers 的wasm引入问题](https://blog.est.im/2026/stdout-36) | 最近在鼓捣 WebAssembly，这玩意没啥神秘的，可以看出一坨二进制的 .js 库文件 它本身的export和调用方式是统一的，但如今天我才知道，在不同 JavaScript 运行环境加载 .wasm 方式并不完全一样。 例如 Cloudflare Workers 可以直接： import wa… |
 | 2026-09-26 | [出海赚美金:博客域名忘记续费了](https://dsx2016.com/going-global-to-earn-dollars-forgot-to-renew-the-blog-domain/) | 域名过期 前些天感冒，一个星期没好，所有业务都没有时间处理 就在这个敏感时间点，我的博客域名过期了，域名已经被... 出海赚美金:博客域名忘记续费了 最先出现在 大师兄2016 。 |
+| 2026-09-26 | [13.8 万星的 free-for-dev：57 类免费额度，替掉我一半的付费订阅](https://gugegt.com/free-for-dev-free-tier-guide.html) | 上周整理订阅列表，发现有 9 个服务在按月扣钱。一个数据库，一个对象存储，一个监控，一个错误追踪，两个只在周末跑一次定时任务的小机器，还有几个我自己都想不起什么时候开通的。 加起来一个月 60 多美元，折人民币四百多。 这些活儿有一个共同点：全都不需要付费。我把账单截图丢进 free-for-dev… |
 | 2026-09-26 | [Coffee Break Clojure, Vol.3](https://www.geedea.pro/article/clj3/) | 上一篇 我们讨论了不同类型的形式，了解了函数、Lambda、宏和特殊形式的皮毛，也学会了用一些基本的运算符、 let 和 if 等等。今天的文章要讨论集合数据类型。不过在此之前，我们还是先看看普通的数据类型有哪些。 今天的文章有点长，所以读的时候，呃…… 准备一杯大号的咖啡？ 你已经知道和你可能不知… |
 | 2026-09-26 | [弥月佳期-中秋修水行记](https://yovey.me/%e5%bc%a5%e6%9c%88%e4%bd%b3%e6%9c%9f-%e4%b8%ad%e7%a7%8b%e4%bf%ae%e6%b0%b4%e8%a1%8c%e8%ae%b0/) | 清早出发，出城前先在Manner打好咖啡，一路西行。 行至三分之一，过路口的时候低速避让，路肩不平，点不到地， … Continue reading "弥月佳期-中秋修水行记" |
 | 2026-09-26 | [开发了一个云剪贴板服务 Cloud Clipboard](https://hellodk.cn/post/1231) | 跨设备复制粘贴，文本 / 图片 / 文件，一个链接搞定。在电脑 A 上创建一条剪贴板，得到一个形如 https://paste.940304.xyz/a7 的短链接；在手机或另一台电脑上打开这个... |
@@ -78,7 +88,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-09-26 | [根据我这2天使用opus 5.5的感受，](https://versun.me/blog/tweet-2103656854773711297) | 根据我这2天使用opus 5.5的感受，给大家一个思考层级的选择参考： Opus 5.5 low = GPT 5.6 Sol / Gemini 3.8 flash Opus 5.5 Medium = GPT 5.6 Astra / Kimi K3 / SWE 2 Opus 5.5 High = Fa… |
 | 2026-09-26 | [2004，没有暑假的夏天](https://www.tortorse.com/archives/2004-summer-without-vacation/) | 招聘会上，人们在展位间看招聘信息 |
 | 2026-09-26 | [Python 潮流周刊#169：AI 用 11 天证完费马大定理、Python 拟加 export 关键字、一个 Key 调 3000 个工具](https://pythoncat.top/posts/2026-09-26-weekly/) | 分享了 12 篇文章，12 个开源项目 |
-| 2026-09-25 | [13.8 万星的 free-for-dev：57 类免费额度，替掉我一半的付费订阅](https://gugegt.com/free-for-dev-free-tier-guide.html) | 上周整理订阅列表，发现有 9 个服务在按月扣钱。一个数据库，一个对象存储，一个监控，一个错误追踪，两个只在周末跑一次定时任务的小机器，还有几个我自己都想不起什么时候开通的。 加起来一个月 60 多美元，折人民币四百多。 这些活儿有一个共同点：全都不需要付费。我把账单截图丢进 free-for-dev… |
 | 2026-09-25 | [中秋快乐](https://blog.solazy.me/20260925/) | 中秋节过得越来越平静了 |
 | 2026-09-25 | [这种效果搭配秒控板，不要太爽啊！我想要这](https://versun.me/blog/tweet-2103436216138121265) | Zsolt Kacso I wanted infinite canvas for my desktop. So I built it with Omarchy and Opus. I'm calling it Phantomat. Grab here: https://github.com/kaol… |
 | 2026-09-25 | [Pensieve: 2609](https://xiaket.github.io/2026/pensieve-2609.html) | 所读所观所玩 |
