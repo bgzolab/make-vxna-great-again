@@ -27,6 +27,10 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-09-28 | [野人编年史](http://imlane.zhanglintc.co/ye-ren-bian-nian-shi) | 野人编年史 野人创始人 徐队 ，群昵称Shogun。姓徐，称徐队，真野人队长，野人 抖音官号 持有者。 张队 ，群昵称张小不。江湖人称竹节虫，简称虫队。 熊队 ，群昵称熊嘎婆，称熊队。 野人CLUB游泳事业部 群主。 亮队 ，群昵称亮什么，称亮队，野人 小红书官号 持有者。 野人声明 从 泳往直前… |
+| 2026-09-28 | [旧屋厨房漏水](https://guchengf.me/blog/2026-09-28-stream/) | 突然接到老房子的物业的电话，告知我房屋的厨房出现了漏水情况，楼下邻居发现天花板渗水。 由于对邻居影响很大，我立刻请假赶往老房子，到场之后发现物业的人已经在门口了。进屋之后在厨房排查了一番，发现是水龙头的冷热水管发生了破损，有漏水，我便去找了维修人员。 维修人员检查说是使用的可抽拉的水龙头的延长管线长… |
+| 2026-09-28 | [从一到百千万](https://www.hecaitou.com/2026/09/From-One-to-Millions.html) | 从一到百的事情，我做过许多次。从一到千的事情，我也做过不少。从一到万的事情，我也有过一手体验。 本来我是根本做不到的，因为我就是那种所谓「没长性」的人。小时候看黑瞎子掰苞米一类的寓言故事，能把我看到内心焦虑，觉得我就是一样的脾气性格，这辈子怕是完了，手头永远只有一根苞米，身后却落了一路。 好在我没有… |
+| 2026-09-28 | [Aliens versus Predator updated](https://macsourceports.com/game/avp) | The build of NakedAVP for Aliens versus Predator has been updated to version 1.3.0 of the project |
 | 2026-09-28 | [你会痛苦吗 II](https://mobius.blog/25791.html) | 这个系列居然继续下去了，因为我真的收到了对方的回信。在回信里，这位朋友提到了一个非常有趣的话题： 看了你的文章 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-09-28 | [讀《13·67》](https://taxodium.ink/%E8%AE%80%E3%80%8A13%C2%B767%E3%80%8B.html) | 讀《13·67》 《13·67》 是 陳浩基 寫的一本推理小說，書名《13·67》含義是從 2013 年到 1967 年之間的故事，以香港和當時的一些歷史事件為背景。整本小說由 6 個相對獨立的案件組成，通過反複出現的人物將故事串聯起來，每個獨立案件都挺精采的。作為一本推理小說，我覺得這几個故事已經… |
 | 2026-09-28 | [大脑充血 Vol.100](https://www.geedea.pro/weekly/100/) | 第一百期！我明明把正刊改成每月更新了，却还是每周更新小报，就是为了撑到这一天。这样我就可以酷酷地告诉别人，我有件事情坚持了一百周，也就是将近两年的时间。 这期是小游戏特辑。节前无心工作的话，就摸鱼玩玩吧。我们国庆十月正刊再见。 色彩计数器 🎮 Color Counter 从 Taxodium Zin… |
@@ -117,7 +121,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-09-23 | [Register Token以及对变形金刚AI的四大批判](https://blog.est.im/2026/stdin-19) | 前几天 Yann LeCun 对 变形金刚(transformers) AI 进行了深刻的 批判 First, the reasoning abilities of current AI systems are based non-auto-regressive search (which is w… |
 | 2026-09-23 | [聪明 Agent 四套路 和 人肉学习](https://blog.est.im/2026/stdin-18) | nVIDIA 联合 NTU，MIT 联合研究了一项关于 Agent harness 自我提升的 研究 ，项目叫 SoL-Pi ， Scaling Auto-Research Loops for Efficient Agent Harnesses 让 Research Agent 自动发现 Harne… |
 | 2026-09-23 | [脑袋空空](https://blog.oospace.com/posts/2026-09-23/) | 与其每天被各种废料信息填满，不如放空大脑 |
-| 2026-09-23 | [野人编年史](http://imlane.zhanglintc.co/ye-ren-bian-nian-shi) | 野人编年史 野人创始人 徐队 ，群昵称Shogun。姓徐，称徐队，真野人队长，野人 抖音官号 持有者。 张队 ，群昵称张小不。江湖人称竹节虫，简称虫队。 熊队 ，群昵称熊嘎婆，称熊队。 野人CLUB游泳事业部 群主。 亮队 ，群昵称亮什么，称亮队，野人 小红书官号 持有者。 野人声明 从 泳往直前… |
 | 2026-09-23 | [解决宝塔安装 PG 失败的问题](https://blog.frytea.com/archives/32464) | 在宝塔面板安装 PostgreSQL 时遇到 `pgsql_install.sh: 83: Syntax er […] |
 | 2026-09-23 | [Muse AI 注册教程：借助 Google Gemini Spark 完成注册](https://liudon.com/posts/muse-ai-registration-with-gemini-spark/) | Muse 是 Meta 于 2026 年 9 月 8 日推出的全球首款面向普通消费者的个人 AI 智能体（AI Agent）应用。 现在仅面向美国和加拿大地区的 18 岁以上用户开放。 在 V2ex 上看到可以通过 Gemini Spark 进行注册，绕过 IP 检测，本文记录整个操作过程。 |
 | 2026-09-23 | [2026.9.22](https://www.justzht.com/2026-9-22/) | 最近都干了啥？ 周六和阳哥吃了四川菜。虽然都一直在湾区，但估计有三四年没见着面，然后见我他说我胖了，我 |
