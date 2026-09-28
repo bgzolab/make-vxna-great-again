@@ -27,6 +27,11 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-09-28 | [你会痛苦吗 II](https://mobius.blog/25791.html) | 这个系列居然继续下去了，因为我真的收到了对方的回信。在回信里，这位朋友提到了一个非常有趣的话题： 看了你的文章 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
+| 2026-09-28 | [讀《13·67》](https://taxodium.ink/%E8%AE%80%E3%80%8A13%C2%B767%E3%80%8B.html) | 讀《13·67》 《13·67》 是 陳浩基 寫的一本推理小說，書名《13·67》含義是從 2013 年到 1967 年之間的故事，以香港和當時的一些歷史事件為背景。整本小說由 6 個相對獨立的案件組成，通過反複出現的人物將故事串聯起來，每個獨立案件都挺精采的。作為一本推理小說，我覺得這几個故事已經… |
+| 2026-09-28 | [大脑充血 Vol.100](https://www.geedea.pro/weekly/100/) | 第一百期！我明明把正刊改成每月更新了，却还是每周更新小报，就是为了撑到这一天。这样我就可以酷酷地告诉别人，我有件事情坚持了一百周，也就是将近两年的时间。 这期是小游戏特辑。节前无心工作的话，就摸鱼玩玩吧。我们国庆十月正刊再见。 色彩计数器 🎮 Color Counter 从 Taxodium Zin… |
+| 2026-09-28 | [「普通朋友」的边界](https://lomus.cc/archives/834) | 今天想来聊一个这段时间经常发生在我身上的事。 起因是我的一个前同事，前两年还在公司的时候，我们关系还可以，但也 […] 「普通朋友」的边界 最先出现在 Lumos's Blog 。 |
+| 2026-09-27 | [VictoriaLogs vector 采集报 TLS 证书验证失败的排查记录](https://199604.com/3724) | VictoriaLogs vector 采集报 TLS 证书验证失败的排查记录 记录时间：2026-09-23 […] |
 | 2026-09-27 | [用 iPhone 遥控器控制你的 Android TV 和 Mac —— atv-core 项目分享](https://corvo.myseu.cn/2026/09/27/2026-09-27-%E7%94%A8iPhone%E9%81%A5%E6%8E%A7%E5%99%A8%E6%8E%A7%E5%88%B6%E4%BD%A0%E7%9A%84Android-TV%E5%92%8CMac/) | 我开发了一个叫 atv-core 的项目，可以让你直接用 iPhone 控制中心的 Apple TV 遥控器来操控 Android TV 和 Mac。不需要买 Apple TV，不需要额外 App，iPhone 自带的遥控器就行。本文分享一下这个项目的使用方法和背后的一些技术原理。 |
 | 2026-09-27 | [](https://elmagnifico.tech/2026/09/28/2026-09-15-shenzhen-lasa-ontheway/) | Foreword 如上篇所提，今年中秋和国庆中间卡了三天班，直接请假从 9 月 25 号连到 10 月 7 号，一共 13 天。去拉萨，托车到成都再开 318到拉萨，后续车托回深圳，我从拉萨直接飞回来。 准备 预算 拖车到成都1700，拉萨拖回来3000，飞成都1600，拉萨飞回3900，这部分固定… |
 | 2026-09-27 | [微信公众号文章多平台分发](https://dsx2016.com/multi-platform-distribution-of-wechat-official-account-articles/) | 公众号文章 以前把独立博客作为主要平台，微信公众号酌情作为副平台 因为独立博客可以写自己想写的，不限制字数，不... 微信公众号文章多平台分发 最先出现在 大师兄2016 。 |
@@ -49,6 +54,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-09-27 | [水蒸蛋](https://taxodium.ink/recipe-shui-zheng-dan.html) | 水蒸蛋 水蒸蛋有啥難的？打几個雞蛋，加點水，放鍋裡一蒸不就完了嗎？ 我也是這麼想的，但想要蒸出表面光滑、整體水嫩的水蒸蛋，還是有一些細節要注意的。 食材 雞蛋若干個，具體几個，取决於你想吃几個，以及容器大小。 烹飪 打 4 個雞蛋到容器裡，按 1:1.5 的蛋水比例加水 (你可以用半個蛋殻來量，量… |
 | 2026-09-27 | [一些關於連結的建議](https://taxodium.ink/some-advice-about-links.html) | 一些關於連結的建議 內容相關 在分享連結前，可以停下來先想想要不要分享。你的每一次分享都會給連結帶來一定的點擊量，你希望這個連結被傳播嗎？它值得被傳播嗎？有時不分享也許是更好的選擇。 讓連結的文字有意義 ，即使脫離上下文，連結中的文字也應該能說明該連結會前往何處。 錯誤示範：我的博客是 這個 。 正… |
 | 2026-09-27 | [写作能解决什么？](https://mobius.blog/25783.html) | 本期Newsletter回顾了写作的功能及适用人群。写作可以帮助情绪反刍、恢复主体性，但并非每个人适合。探讨了自我与作品的关系，强调写作应为自我对话，而非市场认可。 —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
+| 2026-09-27 | [兄弟们，发现个好东西呀，可以免费使用 6](https://versun.me/blog/tweet-2104034538842411502) | Railway Get a free VM from your terminal or from @muse. Zero sign-up. One command. ssh https://railway.new 兄弟们，发现个好东西呀，可以免费使用 60 分钟的 linux 虚拟机 方法很简单:… |
 | 2026-09-27 | [《路易斯安那系列》文本整理](https://weblog.contained.love/posts/louisiana-series-text/) | 至今竟然还没有人整理出歌佬《路易斯安那系列》的文本，我实在等不及了，就自己来吧。 包括两篇作者杂谈的文字版作为附录在书后。 书籍效果如图： 大致流程为: 截取视频帧 RapidOCR 本地模型识别 Faster-whisper 本地识别校准 排版校对 迭代了很多版之后，仍然有许多细节问题，先发出来再… |
 | 2026-09-26 | [How to transfer file to Device Hub](https://blog.xu42.com/posts/how-to-transfer-file-to-decice-hub/) | xcrun simctl list &#124; grep Booted xcrun simctl getappcontainer com.apple.DocumentsApp groups rsync ~/Downloads/file.pdf " /File Provider Storage/file.pd… |
 | 2026-09-26 | [是琐碎的小事让我活着](https://www.geedea.pro/article/little-things/) | 这几天试了试不同的搜索引擎，其实也没有厌倦 Kagi，只是他们似乎在往邮件、新闻这些业务上拓展了，让我有点担心某天会发病，所以在物色替代品。搜索关键词很自负地搜了自己博客的名字，结果发现两三个镜像站聚合了我的 RSS，然后用语言模型生成了非常诡异的总结，还改了我的标题，机翻了我的英文文章。罢了，不去… |
@@ -167,35 +173,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-09-21 | [emacs-为重复任务添加自定义工作日判定](https://blog.prayhand13013.top/20260921T102942--emacs-为重复任务添加自定义工作日判定__blog.html) |  |
 | 2026-09-21 | [爹而不自知 I](https://mobius.blog/25758.html) | 我是一个时不时需要“当爹”的人，因为大部分时间都在处理没办法得到及时回应的事情，例如写小说、剧本、制作短剧分镜 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-09-21 | [Jev 的边界](https://www.bmpi.dev/dev/jev-boundary/) | 把 Jev 放进 Free4Chat 的 Room App 和 Live View 做了一轮实验后，我没有找到一个必须接入它的产品场景，却更清楚地看到了确定性代码、Decision Model 和 Generative Model 之间的边界。 |
-| 2026-09-20 | [大脑充血 Vol.99](https://www.geedea.pro/weekly/99/) | 最近一直在小步缓行，不急不忙地把事情做好。一方面是上班之后的确没有大块且高精力的时间来做自己想做的事情了，只能把事情拆得很碎，一点一点来做。这几天在读波拉尼奥的短篇集《地球上最后的夜晚》，每篇真的很短，大概十几二十页，可以每天上班前没有压力地读上一两篇。我很喜欢他的文风，平静却具有冲击力，不做作，就… |
-| 2026-09-20 | [Harbor容器僵尸进程数告警——docker-compose.override.yml加init参数修复](https://199604.com/3718) | Harbor容器僵尸进程数告警——docker-compose.override.yml加init参数修复 记 […] |
-| 2026-09-20 | [这几天爆火的 jev 和 laya 模型](https://versun.me/blog/tweet-2101808620426149961) | Versun 虽然不懂金融，看的有点懵逼， 但我觉得未来各个行业都会有自己的专用模型， 而目前通用模型应该会拿来做统筹，说不定统筹都会有专用模型😎 https://twitter.com/sodawhite_dev/status/2096262979042046435 这几天爆火的 jev 和 la… |
-| 2026-09-20 | [有用 hermes agent 的，每次](https://versun.me/blog/tweet-2101807584831570411) | 有用 hermes agent 的，每次会话结束前，记得 /review 下，效果很不错，每次都有惊喜 |
-| 2026-09-20 | [或许没人关心的细节](https://blog.solazy.me/20260920/) | 今天继续聊个日常所见而引发的思考 |
-| 2026-09-20 | [No More Blind Dates; Dating Is Fine, Marriage Is Not](https://tianheg.co/posts/no-more-blind-dates-en/) | If she hadn't sent me a text today, I wouldn't have written this piece, because I want to forget that stretch of my life, even though it did teach me… |
-| 2026-09-20 | [我再也不想相亲了；恋爱还是要谈，结婚就算了](https://tianheg.co/posts/no-more-blind-dates/) | 如果不是她今天给我发短信，我也不会写这篇文章，因为我想忘掉那段经历，尽管它的确教会了我一些东西。她说要电话聊一下，我不觉得有什么好聊的，她打电话的时候我在睡觉。醒来看到她的未接来电，为了避免她再次打来，我把她的号码拉黑了。 |
-| 2026-09-20 | [苹果 iPhone 安全神话被打破：币圈应用FomoPeek沙盒逃逸读取了其他APP私钥](https://blog.renfei.net/posts/1626402130325676145) | 2026 年 9 月 19 日，慢雾联合 OKX 安全团队披露：iOS 应用 FomoPeek 1.1、1.2 版本内置一套 iOS 内核攻击框架，可突破沙盒读取并解密系统 Keychain，导致私钥、助记词、登录凭证泄露。受影响 iOS 版本为 12.0～18.7 与 26.0～26.1。 |
-| 2026-09-20 | [沙蔥炒牛肉](https://taxodium.ink/recipe-sha-cong-chao-niu-rou.html) | 沙蔥炒牛肉 沙蔥有一股獨特的香味，之前買過沙蔥涼拌牛肉，很好吃，但沙蔥炒牛肉好吃嗎？試試唄。 食材 牛腿肉 (或其他類似部位) 約 200g 沙蔥約 200g 沙薑 2 顆 (喂！怎麼還有沙薑啊？別問俺，俺也是看視頻裡有，就買了) 大蒜 1 顆 (是一顆，不是一瓣哦) 小米辣几根 (能吃辣就多來點，… |
-| 2026-09-20 | [问AI的问题备份 20260920](https://z.arlmy.me/posts/ZArlmyMe/QuestionsWithGemini_20260920/) | 「时间戳。」 |
-| 2026-09-20 | [博客接入 Google AdSense：初体验并不好](https://blog.mfwt.top/index.php/archives/1617/) | 正如上一篇博文以及广告政策页面提到，本站在前两天的时候实验性地接入了Google AdSense（以下简称GGAD），打算先实验一个月，想看看这对于站点的开销是否有缓解作用。然而，如果光看这接入... |
-| 2026-09-20 | [Zine#59 - 和手機的關係、謠言、已讀不回](https://taxodium.ink/59.html) | Zine#59 和手機的關係、謠言、已讀不回 目錄 News &#124; Article Cool Bit Tutorial &#124; Resource Code Related AI Related Tool &#124; Library Emacs 一些话 &#124; 摘抄 多媒体 開頭的音樂分享會有人期待嗎？不管如何，如果你… |
-| 2026-09-20 | [A Long Run of Eight Kilometers](https://tianheg.co/posts/sport-run-8km-en/) | After a long gap, I went for a run again today. I ran it according to the half-marathon plan in Zepp, 8 kilometers, and it felt okay, I guess. Only to… |
-| 2026-09-20 | [【运动记】长跑八千米](https://tianheg.co/posts/sport-run-8km/) | 时隔很久，今天又跑了一次步。是按照 Zepp 的半马计划跑的，跑了 8 公里，感觉还好吧。只是跑到最后，右腹部有点不适。那是因为很久没有跑了。 |
-| 2026-09-20 | [滴答清单也加上了 AI 助手，还不错，我](https://versun.me/blog/tweet-2101638960120561692) | 滴答清单也加上了 AI 助手，还不错，我之前都是让 hermes 来管理清单任务的，这几天用用看怎么样 |
-| 2026-09-20 | [空间的体积度量衡——行列式（Determinant）](https://www.less-bug.com/posts/volume-measurement-of-space-determinant/) | 在平面上，取两个向量： $$ \mathbf{a} = \begin{pmatrix} 3 \\ 0 \end{pmatrix}, \quad \mathbf{b} = \begin{pmatrix} 0 \\ 2 \end{pmatrix} $$ 这两个向量从原点出发，张成一个矩形。这个矩形的面积… |
-| 2026-09-20 | [NixOS Is Not for Me Right Now](https://tianheg.co/posts/nixos-not-for-me-right-now-en/) | Over the past few days I tried NixOS, and yesterday I realized it's not for me. What first drew me in was one thing about NixOS: complete control over… |
-| 2026-09-20 | [Vol.119 智能越便宜越需要外置标准：把判断留在模型之外的尺子地图](https://liduos.com/weekly/the-weekly-gradient-119) | 本期内容从可托付的智能出发，梳理把判断留在模型之外的尺子：实时语音与低成本架构、编译器与类型约束、Graph Engineering 与 Harness、安全默认拒绝，以及前沿模型治理、经验闭环与组织重构。 |
-| 2026-09-20 | [短暂尝试 NixOS，它不适合我](https://tianheg.co/posts/nixos-not-for-me-right-now/) | 一开始想尝试，是因为 NixOS 有一点很吸引我：能完全掌控系统的内内外外，只要配置在，就能在一台全新设备上还原出一模一样的环境。这真的很棒，因为使用 Linux 系统要掌握很多内容，总有不熟悉的地方，而把系统搞崩溃后如何回退，往往是个很头疼的问题。NixOS 的设计恰好完美地解决了这个问题。 |
-| 2026-09-20 | [SmailrX：我用Agent把Chrome插件做成了安卓App](https://www.evan.xin/5106/) | SmailrX Smailr 邮件助手 Android 应用。由同是我用AI写的功能的相同的 Chrome 扩 […] |
-| 2026-09-20 | [让我头大的两个问题](https://www.hecaitou.com/2026/09/two-questions-that-give-me-a-headache.html) | 自从开始写作，我就掉头发。总结起来，应该有一半以上的头发是因为两个常见问题而掉落： ---当我介绍某种美食，留言区里一定会有人问：孕妇能不能吃？ ---当我介绍某部电影，留言区里一定会有人问：X 岁的孩子能看吗？ 我当然可以把这些问题简单理解为个人好奇，或者个人询问，并不必然意味着征询我的意见。但是… |
-| 2026-09-20 | [呵护你](https://hux.ink/posts/care-of-you/) | 一直拖着没给群晖配上 UPS，借口之一是一年到头家里异常断电的次数可能也就一两回，抱着侥幸心理，觉得应该不会出什么问题，硬盘总不至于这么脆弱吧？借口之二则是 UPS 电源确实有点贵。就这样，买 UPS 的计划一拖再拖，直到上周二。 上周二，在公司发现 Synology Drive 同步文件时断时续，… |
-| 2026-09-20 | [RSSHub 抓取 V2EX 报 403 Forbidden](https://blog.hoopan.net/853.html) | RSSHub 抓取 V2EX 路由返回 503，日志显示上游 403 Forbidden。本文记录排查过程与根因（Cloudflare WAF 拦截 RSSHub 项目标识 UA），以及通过注入浏览器 UA 修复的方法。 |
-| 2026-09-20 | [如何理解直和分解与不变子空间？](https://www.less-bug.com/posts/how-to-understand-direct-sum-decomposition-and-invariant-subspace/) | 我不喜欢上来先上定义，然后再给性质、定理、例子的学习结构，和人认识世界的方式完全相悖，而且学起来一点也不爽！ 所以让我们从一个例子出发。 $\mathbb{R}^3$ 中任意向量都可记作： $$ \mathbf{v} = \begin{pmatrix} x \\ y \\ z \end{pmatri… |
-| 2026-09-20 | [幸福者退让论其实是内耗的始作俑者？](https://mobius.blog/25748.html) | 果然，我对“周刊”已经没有了兴趣，既然是订阅性质的内容，那就聊一些比较实操的“方法论”。在开始之前，也先回顾一 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
-| 2026-09-20 | [Vespa: Distributors and Buckets](https://inhzus.io/posts/2026-09-20-vespa-distributor-and-buckets/) | In the Vespa comparison , I briefly mentioned that Vespa manages document distribution through buckets. This post expands on that part: how a document… |
-| 2026-09-20 | [Vespa: HNSW Index Implementation](https://inhzus.io/posts/2026-09-20-vespa-hnsw-index/) | The previous index implementation post covered attributes and inverted indexes, but left out tensors. This post continues with the data structures beh… |
-| 2026-09-20 | [Vespa: Thread Safety in the Storage Engine](https://inhzus.io/posts/2026-09-20-vespa-storage-engine-thread-safety/) | The earlier posts covered index data structures and matching . One question remains: while a query is using those structures, how can another thread u… |
-| 2026-09-20 | [iPhone Duo 的 Vertical Bar](https://bluepika.life/blog/iphone-duo-vertical-bar) | 我将上周称为同时关注任天堂和苹果的人最快乐的一周，任天堂开了新一场直面会，苹果也如预期一样发布了折叠屏手机 iPhone Duo。 |
 
 ## Vibe Coding
 
