@@ -27,8 +27,12 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-09-29 | [A Toy Port for My Daughter](https://victor42.eth.limo/post-en/daughter-toy-port/) | A small experiment in tidying education and task management. Last night my daughter broke a large toy beetle, and its wings and head came off. I meant… |
+| 2026-09-29 | [女儿的玩具港口](https://victor42.eth.limo/post/daughter-toy-port/) | 一次关于收纳教育与任务管理的小实验。 昨晚，女儿把一个玩具大甲虫摔坏了，翅膀和头掉下来。 我本打算修，忽然想到可以让她看看我解决问题的思路。我拿起甲虫身体和翅膀，我说，这边翅膀掉下来了，但是我没注意之前是怎么样的，我不知道怎么装回去了。怎么办呢，诶！它两个翅膀是一样的，我来看看另外一个翅膀是怎么固定… |
 | 2026-09-29 | [AI教会了女儿洗澡](https://victor42.eth.limo/post/daughter-learns-to-bath/) | 都在问AI在工作中有什么应用，很少人问生活中有什么应用。 女儿最近学会了洗澡。但只能说是不怕水了，还搞不清顺序，也会漏洗一些地方。同时也非常磨蹭，洗着洗着就玩起来。 骂也骂了，想想觉得骂也没什么用，干脆把洗澡变成游戏吧。 拿 AI 生成了这么个图，打印两张带回家。一张纯粹给女儿当涂色卡玩。另一张让她… |
 | 2026-09-29 | [How AI Taught My Daughter to Take a Bath](https://victor42.eth.limo/post-en/daughter-learns-to-bath/) | Everyone asks what AI can do at work, but few ask what it can do in daily life. My daughter recently learned to take a bath. But it is more that she i… |
+| 2026-09-29 | [关于意识 - 假如 AI 觉醒了](https://i.hsfzxjy.site/on-consciousness-with-chatgpt-1/) | 本文收录于 系列《假如 AI 觉醒了》 。 意识与主观体验 我：</stron |
+| 2026-09-29 | [假如 AI 觉醒了](https://i.hsfzxjy.site/what-if-ai-awakes/) | 《假如 AI 觉醒了》是一个新系列，以访谈纪要的形式，记录本人与 ChatGPT 所做的大量思想实验，以及对未知事物的讨论。 文章内容改写自本人与 ChatGPT 的聊天记录。原记录为全英文，翻译后由本人削去部分重复及无关内容，调整表达、语气及顺序，增添阅 |
 | 2026-09-29 | [让人运气变好的秘诀](https://blog.solazy.me/20260929/) | 今天看直播突然看到一个有趣的事儿，来和大家分享一下 |
 | 2026-09-29 | [如何在Antigravity中设置定时任务](https://brain-zhang.github.io/blog/2026/09/29/ru-he-zai-antigravityzhong-she-zhi-ding-shi-ren-wu/) | Antigravity中有设置定时任务的选项；但是界面设置，只能每次都开启一个新的session，如果指定每次定时任务都在一个session中完成，需要直接修改配置文件: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 vim ~/.gemini/config/side… |
 | 2026-09-29 | [Coffee Break Clojure, Vol.4](https://www.geedea.pro/article/clj4/) | 今天的文章衔接 上一期 有关集合（collection）和序列（sequence）的知识，来讨论一种特殊的集合，叫惰性序列（lazy seq）。我们还会接触到函数式编程（functional programing）。 其实在另一门名为 Haskell 的语言里，也能见到惰性，而 Haskell 是纯… |
