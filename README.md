@@ -171,20 +171,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-09-22 | [入蜀记 day479 but read](https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_479/) | 「but read.」 |
 | 2026-09-22 | [刚看了下这个jev wechat项目，模](https://versun.me/blog/tweet-2102201927178371280) | 李韭二 卧槽！ Jev WeChat 微信群聊！已开源！👇 再也不用担心不懂人情事故！ 微信客服！微信群助手！ 再也不用codex哄女朋友了！ https://x.com/Melinda58883532/status/2102008893350277215/video/2?s=46 刚看了下这个je… |
 | 2026-09-22 | [入蜀记 day478 刷剧](https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_478/) | 「刷剧。」 |
-| 2026-09-21 | [Twikoo 2.x 升级踩坑：Netlify CORS 报错与解决方案](https://liudon.com/posts/twikoo-2-netlify-cors/) | 前言 刚更新完上一篇 《我给博客做了一个时光机》 ，顺手打开文章看看效果，结果发现评论区挂了。 浏览器控制台报错： Access to XMLHttpRequest at 'https://comment.example.com/' from origin 'https://blog.example… |
-| 2026-09-21 | [R#120 沉迷](https://blog.sakanano.moe/journals/random_120) | 2026.9.15 ~ 2026.9.21 |
-| 2026-09-21 | [恒星的结构和演化](https://physnya.top/compact-object/lesson-2-star-structure-and-evolution/) | 建立恒星的方程，我们通常考虑质量守恒、静力学平衡、能量守恒和反应几个角度. 质量守恒： d M d r = 4 π r 2 ρ ( r ) \frac{\mathrm{d}M}{\mathrm{d}r}=4\pi r^2\rho(r) d r d M ​ = 4 π r 2 ρ ( r ) |
-| 2026-09-21 | [我给博客做了一个时光机](https://liudon.com/posts/hugo-ipfs-time-machine/) | 前言 博客早在23年的时候就接入了 IPFS 服务，通过 GitHub Actions 实现了 Cloudflare Pages 和 IPFS 两套服务托管。 整个流程大概是下面这样的，具体实现可以参考 Hugo 接入 IPFS 服务 这篇内容。 Hugo Build │ ├── 正常部署 → Cl… |
-| 2026-09-21 | [读书有感](https://blog.oospace.com/posts/2026-09-21/) | 读书有感而记录 |
-| 2026-09-21 | [复古游戏圈入门指南](https://blog.yuanji.dev/posts/retro-game-intro/) | 写完上一篇复古掌机初体验：ANBERNIC RG 34XX，转眼又过去了一周多。上个月初还不了解「复古游戏」「 […] |
-| 2026-09-21 | [pi agent这几天更新后，很奇怪啊，](https://versun.me/blog/tweet-2101942460390031399) | pi agent这几天更新后，很奇怪啊，经常把自己思考死了，模型没变，你们有遇到过吗 |
-| 2026-09-21 | [写在两份工作的 Gap 之时](https://blog.solazy.me/20260921/) | 今天想停下来聊聊我过去的这半年的所失所得 |
-| 2026-09-21 | [在网上膨胀](https://www.hecaitou.com/2026/09/Inflating-Online.html) | 上网令人自我膨胀，关于这一点我有充分的经验。当我刚开始上网冲浪，很快就获得了认可，在网上拥有了另一种多姿多彩的生活，似乎世界上最有趣的人都在那里，而且都在等着我上线。 与此同时，在现实生活中我只是个刚刚开始工作的生瓜蛋子，转正前月薪 600 块，转正之后 800，当时一台汉显传呼机都要 1200，一… |
-| 2026-09-21 | [最近惦念 20260906](https://z.arlmy.me/posts/TILs/thoughts/20260906_Recently/) | 「就像你说的。」 |
-| 2026-09-21 | [Toots 437 2026 Sep.13 - Sep.19](https://z.arlmy.me/posts/MastodonArchives/2026/MastodonTootsArchives_20260919/) | 「鲸鱼可以那么平静地呼吸。」 |
-| 2026-09-21 | [emacs-为重复任务添加自定义工作日判定](https://blog.prayhand13013.top/20260921T102942--emacs-为重复任务添加自定义工作日判定__blog.html) |  |
-| 2026-09-21 | [爹而不自知 I](https://mobius.blog/25758.html) | 我是一个时不时需要“当爹”的人，因为大部分时间都在处理没办法得到及时回应的事情，例如写小说、剧本、制作短剧分镜 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
-| 2026-09-21 | [Jev 的边界](https://www.bmpi.dev/dev/jev-boundary/) | 把 Jev 放进 Free4Chat 的 Room App 和 Live View 做了一轮实验后，我没有找到一个必须接入它的产品场景，却更清楚地看到了确定性代码、Decision Model 和 Generative Model 之间的边界。 |
 
 ## Vibe Coding
 
