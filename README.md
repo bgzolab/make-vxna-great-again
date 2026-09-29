@@ -27,6 +27,13 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-09-29 | [AI教会了女儿洗澡](https://victor42.eth.limo/post/daughter-learns-to-bath/) | 都在问AI在工作中有什么应用，很少人问生活中有什么应用。 女儿最近学会了洗澡。但只能说是不怕水了，还搞不清顺序，也会漏洗一些地方。同时也非常磨蹭，洗着洗着就玩起来。 骂也骂了，想想觉得骂也没什么用，干脆把洗澡变成游戏吧。 拿 AI 生成了这么个图，打印两张带回家。一张纯粹给女儿当涂色卡玩。另一张让她… |
+| 2026-09-29 | [How AI Taught My Daughter to Take a Bath](https://victor42.eth.limo/post-en/daughter-learns-to-bath/) | Everyone asks what AI can do at work, but few ask what it can do in daily life. My daughter recently learned to take a bath. But it is more that she i… |
+| 2026-09-29 | [让人运气变好的秘诀](https://blog.solazy.me/20260929/) | 今天看直播突然看到一个有趣的事儿，来和大家分享一下 |
+| 2026-09-29 | [如何在Antigravity中设置定时任务](https://brain-zhang.github.io/blog/2026/09/29/ru-he-zai-antigravityzhong-she-zhi-ding-shi-ren-wu/) | Antigravity中有设置定时任务的选项；但是界面设置，只能每次都开启一个新的session，如果指定每次定时任务都在一个session中完成，需要直接修改配置文件: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 vim ~/.gemini/config/side… |
+| 2026-09-29 | [Coffee Break Clojure, Vol.4](https://www.geedea.pro/article/clj4/) | 今天的文章衔接 上一期 有关集合（collection）和序列（sequence）的知识，来讨论一种特殊的集合，叫惰性序列（lazy seq）。我们还会接触到函数式编程（functional programing）。 其实在另一门名为 Haskell 的语言里，也能见到惰性，而 Haskell 是纯… |
+| 2026-09-29 | [AI漫谈录-6 相对论与量子力学观测者效应的统一](https://brain-zhang.github.io/blog/2026/09/29/aiman-tan-lu-6-xiang-dui-lun-yu-liang-zi-li-xue-guan-ce-zhe-xiao-ying-de-tong-%5B%3F%5D/) | 我现在每天跟AI的对话已经远远超过跟人的交流了；有时候会产生有一些很有意思的对话内容，记录一下: 这一期记录的是跟豆包聊的是如何把广义相对论和量子力学中的矛盾点相结合； 虽然我仅仅是物理学的科普爱好者，但是这一期极大的激发了我的想象；我提出了一种理论：以信息为载体的第四维度受观测者影响，会产生信息的… |
+| 2026-09-29 | [微信公众号贴图流量和微信小程序虚拟支付](https://dsx2016.com/wechat-official-account-sticker-traffic-and-wechat-mini-program-virtual-payments/) | 微信贴图流量 昨天的微信贴图有48阅读，对应的文章只有15阅读 这是唯一一次微信贴图超过20阅读，但是同时公众... 微信公众号贴图流量和微信小程序虚拟支付 最先出现在 大师兄2016 。 |
 | 2026-09-29 | [喜大普奔！锤子便签也有开源版了【效率工具指南】](https://penghh.fun/2026/09/29/2026-9-29-smartisan_note/) | <script src=" |
 | 2026-09-29 | [让座](https://mobius.blog/25804.html) | 我正在咖啡厅码字，又坐在了那个我常坐的长条桌边。 这时候来了一家人，六个成年人带着一个小孩，在看到长条桌边只坐 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-09-29 | [站在电车里, 我在手机上改代码](https://xiaket.github.io/2026/run-deepseek-harness-remotely.html) | 对于我而言, 这是另外一个Aha时刻. 18个月前, 当我第一次开始用Claude Code的时候有这样的感觉. 而今天早上当我在电车上, 在手机上让deepseek harness(后面简称为dsh)帮我去改一段代码, 然后切app去读书, 一会儿后回到浏览器, 发现活已经干完了. 这个感觉就是很… |
@@ -35,8 +42,10 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-09-29 | [No One Lives Forever 2: A Spy in H.A.R.M.'s Way updated](https://macsourceports.com/game/nolf2) | The build of NOLF2 for Mac for No One Lives Forever 2: A Spy in H.A.R.M.'s Way has been updated to version 0.4.3 of the project |
 | 2026-09-29 | [Quetoo updated](https://macsourceports.com/game/quetoo) | The build of Quetoo has been updated to version v1.0.116 of the project |
 | 2026-09-29 | [UZDoom updated](https://macsourceports.com/sourceport/uzdoom) | The build of UZDoom for the DOOM engine series of games has been updated to version 5.0.3 of the project\n\nhttps://macsourceports.com/sourceport/uzdo… |
-| 2026-09-29 | [Twikoo 评论为什么这么慢：藏在 POST_SUBMIT 里的 5 秒等待窗口](https://liudon.com/posts/twikoo-comment-delay-post-submit/) | 前言 博客的评论系统使用的是 Twikoo，通过部署在 Netlify 上对外服务。 Netlify 的服务都在海外，所以博客的评论确实会慢一些。 最近刚给 Twikoo 接入了 Jev 做垃圾评论判断 ，又升级到了 2.x 版本。 |
+| 2026-09-29 | [Twikoo 评论为什么这么慢：藏在 POST_SUBMIT 里的 5 秒等待窗口](https://liudon.com/posts/twikoo-comment-delay-post-submit/) | 2026/09/29 更新 文中排查的问题已经修复并合入 Twikoo。 我升级后重新测试，评论请求耗时从原来的 5-6s 降到了 1s 以内 。 有同样问题的，可以将服务端升级到 2.0.12 或更高版本 。如果使用 Netlify 老部署，还需要按官方更新文档完成一次 Modern Functi… |
 | 2026-09-29 | [水枪、锥形桶与小组长](https://mobius.blog/25795.html) | 前几天，目睹了一场争吵。 早上小区会有不同区域负责垃圾倾倒的清洁工，会在等待垃圾转运车收走垃圾后，在小区某处的 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
+| 2026-09-29 | [AI 为主题配置流程提效实践经验分享](https://lrd.im/blog/2026-09-29) | 利用 Agent 的编码能力，设计师可以基于自身工作流开发出各种各样的工具。这篇文章以内部的「主题编辑器」为例，介绍我是如何 Vibe Coding 一个工具来为主题配置的流程提效。 |
+| 2026-09-28 | [此路连彼路，渐远将无返：中秋返乡，我读懂了《未选择的路》](https://blog.mzh.ren/zh/posts/2026/09/the-road-not-taken/) | 中秋节假期，我因为没有私家车，所以买了火车票返乡。中间辗转换乘，又碰上火车延误，整个旅途是比较辛苦的，所以回到家的时候已经比较晚了。但我一直安慰自己说，如果坐汽车的话，一定会堵在高速上，且会堵得昏天黑地，可能傍晚都到不了家。 |
 | 2026-09-28 | [符合中国大陆用户的小狼毫输入法配置：装完先做三件事，附两份配置](https://gugegt.com/rime-weasel-config.html) | Windows 上折腾 Rime 的完整记录，附两份可以直接复制走的配置文件，还有几个我踩过的坑。 我电脑上装搜狗装了六七年。早几年它确实好用，词库更新快，新词一冒出来马上就能打出来。后来安装目录越来越大，右键菜单里混进了跟打字没关系的东西，设置面板里一排开关等着你去关。关推送，关资讯，关助手，关完… |
 | 2026-09-28 | [R#121 高松初见](https://blog.sakanano.moe/journals/random_121) | 2026.9.22 ~ 2026.9.28 |
 | 2026-09-28 | [谁还记得 Yahoo Meme 和 Google+：两个对标 Twitter 的产品，都没活过八年](https://gugegt.com/yahoo-meme-google-plus.html) | 翻出三张截图。 第一张是 Yahoo Meme 的首页。浅蓝色天，草地上站着两只狗，一只叼着骨头冒出 wow! ，另一只喊 yum! 。右下角有个红色的消防栓。紫色的按钮写着 start now。 第二张是它的个人主页。Mac 上的火狐，地址栏 meme.yahoo.com/imknight/das… |

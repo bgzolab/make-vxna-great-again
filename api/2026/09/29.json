@@ -1,5 +1,54 @@
 [
   {
+    "title": "AI教会了女儿洗澡",
+    "url": "https://victor42.eth.limo/post/daughter-learns-to-bath/",
+    "date": "2026-09-29T19:20:00Z",
+    "description": "都在问AI在工作中有什么应用，很少人问生活中有什么应用。 女儿最近学会了洗澡。但只能说是不怕水了，还搞不清顺序，也会漏洗一些地方。同时也非常磨蹭，洗着洗着就玩起来。 骂也骂了，想想觉得骂也没什么用，干脆把洗澡变成游戏吧。 拿 AI 生成了这么个图，打印两张带回家。一张纯粹给女儿当涂色卡玩。另一张让她一个个剪下来，她现在认识一些数字了，她按数字排好顺序，再和她一起拿透明胶贴在淋浴间玻璃外面。 这样她洗澡就有个闯关清单了，希望记住步骤的同时也减少磨蹭。 用了一周，效果立竿见影。女儿不仅学会了步骤，在有目标和提醒的情况下也变认真了，专注多了。按照步骤洗完后，再对照图画检查一遍，女儿会很自豪地从淋浴间出来，说爸爸今天我是不是洗得很快？ 这是女儿接触到的第一份 AI 产物。我一直跟她说我电脑和手机上住着一些小精灵，能帮我工作。小精灵教会了女儿洗澡。",
+    "source_root_domain": "eth.limo"
+  },
+  {
+    "title": "How AI Taught My Daughter to Take a Bath",
+    "url": "https://victor42.eth.limo/post-en/daughter-learns-to-bath/",
+    "date": "2026-09-29T19:20:00Z",
+    "description": "Everyone asks what AI can do at work, but few ask what it can do in daily life. My daughter recently learned to take a bath. But it is more that she is no longer afraid of water. She still cannot get the order right and misses some spots. She also dawdles terribly, and starts playing the moment she is in the water. I scolded her, but then thought it was doing little good, so I decided to turn bath time into a game instead. I had AI generate an image like this and printed two copies to bring home",
+    "source_root_domain": "eth.limo"
+  },
+  {
+    "title": "让人运气变好的秘诀",
+    "url": "https://blog.solazy.me/20260929/",
+    "date": "2026-09-29T14:00:00Z",
+    "description": "今天看直播突然看到一个有趣的事儿，来和大家分享一下",
+    "source_root_domain": "solazy.me"
+  },
+  {
+    "title": "如何在Antigravity中设置定时任务",
+    "url": "https://brain-zhang.github.io/blog/2026/09/29/ru-he-zai-antigravityzhong-she-zhi-ding-shi-ren-wu/",
+    "date": "2026-09-29T13:44:59Z",
+    "description": "Antigravity中有设置定时任务的选项；但是界面设置，只能每次都开启一个新的session，如果指定每次定时任务都在一个session中完成，需要直接修改配置文件: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 vim ~/.gemini/config/sidecars/merge-pr/sidecar.json { \"builtin\": \"schedule\", \"restartpolicy\": \"always\", \"args\": [ \"/30 *\", \"send-message\", \"bde19415-3acf-4bec-9147-8e9861186961\", \"--\", \"please exec `atb-github-pr-merge` skill, to merge test ok prs\" ], \"displayname\": \"merge pr\" }",
+    "source_root_domain": "brainz.fun"
+  },
+  {
+    "title": "Coffee Break Clojure, Vol.4",
+    "url": "https://www.geedea.pro/article/clj4/",
+    "date": "2026-09-29T13:42:08Z",
+    "description": "今天的文章衔接 上一期 有关集合（collection）和序列（sequence）的知识，来讨论一种特殊的集合，叫惰性序列（lazy seq）。我们还会接触到函数式编程（functional programing）。 其实在另一门名为 Haskell 的语言里，也能见到惰性，而 Haskell 是纯函数式的编程语言（Clojure 在很多方面都不如 Haskell 严格）。函数式和惰性非常契合，可以说没了惰性，函数式就不够务实，会消耗更多的计算资源。 编程范式 编程范式（programming paradigm）可以理解为编程方法论。用我的方法解释的话，一套编程范式提供了一系列高度抽象的逻辑组件、通用的程序结构，比方说 for 循环结构就是 结构化编程 （structrual programing）这一范式提出的。 结构化编程的主要主张是 goto 语句有害论，由 Dijkstra 在 1968 年提出。这在当时颇有争议，不过如今已成公理，如今的新来者可能根本不会听说 goto 语句。我也从来没写过，我了解到 goto 的时候，我的 C 语言老师就严肃地告诉我们不该用 goto 。 据",
+    "source_root_domain": "geedea.pro"
+  },
+  {
+    "title": "AI漫谈录-6 相对论与量子力学观测者效应的统一",
+    "url": "https://brain-zhang.github.io/blog/2026/09/29/aiman-tan-lu-6-xiang-dui-lun-yu-liang-zi-li-xue-guan-ce-zhe-xiao-ying-de-tong-%5B%3F%5D/",
+    "date": "2026-09-29T13:23:43Z",
+    "description": "我现在每天跟AI的对话已经远远超过跟人的交流了；有时候会产生有一些很有意思的对话内容，记录一下: 这一期记录的是跟豆包聊的是如何把广义相对论和量子力学中的矛盾点相结合； 虽然我仅仅是物理学的科普爱好者，但是这一期极大的激发了我的想象；我提出了一种理论：以信息为载体的第四维度受观测者影响，会产生信息的变化，而信息是有质量的，信息变化会导致引力变化，最终在微观层面表现为量子力学的观测者效应； https://www.doubao.com/thread/xHKbw17jYRN4RyeRz 豆包，你好呀！ 嘿，你好呀，今天想聊点什么？ 今天我想跟你聊一下航空航天方面的知识。 好啊，航空航天范围挺广的，你是想先聊飞机这类航空，还是火箭、卫星这类航天，或者有具体感兴趣的方向？ 我比较感兴趣卫星，就是我们这个地球轨道的卫星分为哪几种呀？就是根据高度的不同分为哪几种卫星啊？ 按轨道高度分主要是三种，低地球轨道 LEO，高度大概几百到两千公里，像星链、国际空间站都在这儿；中地球轨道 MEO，两千到三万多公里，北斗、GPS 这类导航卫星多在这；还有地球静止轨道 GEO，在约 35786 公里高度，通信和气",
+    "source_root_domain": "brainz.fun"
+  },
+  {
+    "title": "微信公众号贴图流量和微信小程序虚拟支付",
+    "url": "https://dsx2016.com/wechat-official-account-sticker-traffic-and-wechat-mini-program-virtual-payments/",
+    "date": "2026-09-29T11:58:35Z",
+    "description": "微信贴图流量 昨天的微信贴图有48阅读，对应的文章只有15阅读 这是唯一一次微信贴图超过20阅读，但是同时公众... 微信公众号贴图流量和微信小程序虚拟支付 最先出现在 大师兄2016 。",
+    "source_root_domain": "dsx2016.com"
+  },
+  {
     "title": "喜大普奔！锤子便签也有开源版了【效率工具指南】",
     "url": "https://penghh.fun/2026/09/29/2026-9-29-smartisan_note/",
     "date": "2026-09-29T08:58:00Z",
@@ -59,7 +108,7 @@
     "title": "Twikoo 评论为什么这么慢：藏在 POST_SUBMIT 里的 5 秒等待窗口",
     "url": "https://liudon.com/posts/twikoo-comment-delay-post-submit/",
     "date": "2026-09-29T02:03:00Z",
-    "description": "前言 博客的评论系统使用的是 Twikoo，通过部署在 Netlify 上对外服务。 Netlify 的服务都在海外，所以博客的评论确实会慢一些。 最近刚给 Twikoo 接入了 Jev 做垃圾评论判断 ，又升级到了 2.x 版本。",
+    "description": "2026/09/29 更新 文中排查的问题已经修复并合入 Twikoo。 我升级后重新测试，评论请求耗时从原来的 5-6s 降到了 1s 以内 。 有同样问题的，可以将服务端升级到 2.0.12 或更高版本 。如果使用 Netlify 老部署，还需要按官方更新文档完成一次 Modern Functions 入口迁移。 本文保留完整的排查过程。",
     "source_root_domain": "liudon.com"
   },
   {
@@ -68,6 +117,20 @@
     "date": "2026-09-29T01:30:00Z",
     "description": "前几天，目睹了一场争吵。 早上小区会有不同区域负责垃圾倾倒的清洁工，会在等待垃圾转运车收走垃圾后，在小区某处的 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。",
     "source_root_domain": "onojyun.com"
+  },
+  {
+    "title": "AI 为主题配置流程提效实践经验分享",
+    "url": "https://lrd.im/blog/2026-09-29",
+    "date": "2026-09-29T00:00:00Z",
+    "description": "利用 Agent 的编码能力，设计师可以基于自身工作流开发出各种各样的工具。这篇文章以内部的「主题编辑器」为例，介绍我是如何 Vibe Coding 一个工具来为主题配置的流程提效。",
+    "source_root_domain": "lrd.im"
+  },
+  {
+    "title": "此路连彼路，渐远将无返：中秋返乡，我读懂了《未选择的路》",
+    "url": "https://blog.mzh.ren/zh/posts/2026/09/the-road-not-taken/",
+    "date": "2026-09-28T20:06:51Z",
+    "description": "中秋节假期，我因为没有私家车，所以买了火车票返乡。中间辗转换乘，又碰上火车延误，整个旅途是比较辛苦的，所以回到家的时候已经比较晚了。但我一直安慰自己说，如果坐汽车的话，一定会堵在高速上，且会堵得昏天黑地，可能傍晚都到不了家。",
+    "source_root_domain": "mzh.ren"
   },
   {
     "title": "符合中国大陆用户的小狼毫输入法配置：装完先做三件事，附两份配置",
