@@ -27,13 +27,26 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-09-29 | [喜大普奔！锤子便签也有开源版了【效率工具指南】](https://penghh.fun/2026/09/29/2026-9-29-smartisan_note/) | <script src=" |
+| 2026-09-29 | [让座](https://mobius.blog/25804.html) | 我正在咖啡厅码字，又坐在了那个我常坐的长条桌边。 这时候来了一家人，六个成年人带着一个小孩，在看到长条桌边只坐 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
+| 2026-09-29 | [站在电车里, 我在手机上改代码](https://xiaket.github.io/2026/run-deepseek-harness-remotely.html) | 对于我而言, 这是另外一个Aha时刻. 18个月前, 当我第一次开始用Claude Code的时候有这样的感觉. 而今天早上当我在电车上, 在手机上让deepseek harness(后面简称为dsh)帮我去改一段代码, 然后切app去读书, 一会儿后回到浏览器, 发现活已经干完了. 这个感觉就是很… |
+| 2026-09-29 | [](https://elmagnifico.tech/2026/09/29/2026-09-15-shenzhen-lasa-ontheway/) | Foreword 如上篇所提，今年中秋和国庆中间卡了三天班，直接请假从 9 月 25 号连到 10 月 7 号，一共 13 天。去拉萨，托车到成都再开 318到拉萨，后续车托回深圳，我从拉萨直接飞回来。 准备 预算 拖车到成都1700，拉萨拖回来3000，飞成都1600，拉萨飞回3900，这部分固定… |
+| 2026-09-29 | [同甘共苦电动牙刷](https://www.hecaitou.com/2026/09/through-thick-thin-modern-electric-toothbrush.html) | 很多年前我就介绍过电动牙刷，应该有不少读者是受了我的影响，从此接受这种生活里的便利小玩意儿。 但正如一句中国古代谚语说的那样：老革命遇见新问题。 前天我换了一支新款电动牙刷，直接把我给弄懵了。之前我用的是某大牌电动牙刷，用了很多年。这种事情你知道的，直男用了什么东西觉得好，就会搜索历史订单，随手按下… |
+| 2026-09-29 | [No One Lives Forever 2: A Spy in H.A.R.M.'s Way updated](https://macsourceports.com/game/nolf2) | The build of NOLF2 for Mac for No One Lives Forever 2: A Spy in H.A.R.M.'s Way has been updated to version 0.4.3 of the project |
+| 2026-09-29 | [Quetoo updated](https://macsourceports.com/game/quetoo) | The build of Quetoo has been updated to version v1.0.116 of the project |
+| 2026-09-29 | [UZDoom updated](https://macsourceports.com/sourceport/uzdoom) | The build of UZDoom for the DOOM engine series of games has been updated to version 5.0.3 of the project\n\nhttps://macsourceports.com/sourceport/uzdo… |
+| 2026-09-29 | [Twikoo 评论为什么这么慢：藏在 POST_SUBMIT 里的 5 秒等待窗口](https://liudon.com/posts/twikoo-comment-delay-post-submit/) | 前言 博客的评论系统使用的是 Twikoo，通过部署在 Netlify 上对外服务。 Netlify 的服务都在海外，所以博客的评论确实会慢一些。 最近刚给 Twikoo 接入了 Jev 做垃圾评论判断 ，又升级到了 2.x 版本。 |
+| 2026-09-29 | [水枪、锥形桶与小组长](https://mobius.blog/25795.html) | 前几天，目睹了一场争吵。 早上小区会有不同区域负责垃圾倾倒的清洁工，会在等待垃圾转运车收走垃圾后，在小区某处的 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-09-28 | [符合中国大陆用户的小狼毫输入法配置：装完先做三件事，附两份配置](https://gugegt.com/rime-weasel-config.html) | Windows 上折腾 Rime 的完整记录，附两份可以直接复制走的配置文件，还有几个我踩过的坑。 我电脑上装搜狗装了六七年。早几年它确实好用，词库更新快，新词一冒出来马上就能打出来。后来安装目录越来越大，右键菜单里混进了跟打字没关系的东西，设置面板里一排开关等着你去关。关推送，关资讯，关助手，关完… |
 | 2026-09-28 | [R#121 高松初见](https://blog.sakanano.moe/journals/random_121) | 2026.9.22 ~ 2026.9.28 |
 | 2026-09-28 | [谁还记得 Yahoo Meme 和 Google+：两个对标 Twitter 的产品，都没活过八年](https://gugegt.com/yahoo-meme-google-plus.html) | 翻出三张截图。 第一张是 Yahoo Meme 的首页。浅蓝色天，草地上站着两只狗，一只叼着骨头冒出 wow! ，另一只喊 yum! 。右下角有个红色的消防栓。紫色的按钮写着 start now。 第二张是它的个人主页。Mac 上的火狐，地址栏 meme.yahoo.com/imknight/das… |
 | 2026-09-28 | [关于3D打印](https://blog.oospace.com/posts/2026-09-28/) | 前段时间有个新闻介绍到3D打印的模型可以用AI生成，我才想起我已经很久没有关注过这个行业了 |
 | 2026-09-28 | [微信公众号的管理后台数据分析](https://dsx2016.com/data-analysis-for-wechat-official-account-management-backend/) | 单篇文章数据 单篇文章的数据要等到第二天上午才可以查看 具体几点不清楚，只知道在电脑管理界面，点击单篇文章数据... 微信公众号的管理后台数据分析 最先出现在 大师兄2016 。 |
+| 2026-09-28 | [Kimi 老套餐到期了，还有7天将会失去](https://versun.me/blog/tweet-2104510388255723796) | Kimi 老套餐到期了，还有7天将会失去老套餐的订阅资格，在犹豫要不要续费保号呢😂 我目前用claude pro和devin pro 各位有啥建议 |
+| 2026-09-28 | [【提醒各位独立开发者和创业朋友】： 有人](https://versun.me/blog/tweet-2104463925953601990) | 【提醒各位独立开发者和创业朋友】： 有人正在 Telegram 上假冒 YC 合伙人 TylerBosmeny（@bosmeny）进行定向钓鱼欺诈。 亲身经历，还好我的有 hermes 最后帮我识别出来了 攻击链路极其典型： 1. 从 X 上抓取开发者留下的 TG 私信； 2. 会和你进行长时间的技… |
 | 2026-09-28 | [野人编年史](http://imlane.zhanglintc.co/ye-ren-bian-nian-shi) | 野人编年史 野人创始人 徐队 ，群昵称Shogun。姓徐，称徐队，真野人队长，野人 抖音官号 持有者。 张队 ，群昵称张小不。江湖人称竹节虫，简称虫队。 熊队 ，群昵称熊嘎婆，称熊队。 野人CLUB游泳事业部 群主。 亮队 ，群昵称亮什么，称亮队，野人 小红书官号 持有者。 野人声明 从 泳往直前… |
 | 2026-09-28 | [旧屋厨房漏水](https://guchengf.me/blog/2026-09-28-stream/) | 突然接到老房子的物业的电话，告知我房屋的厨房出现了漏水情况，楼下邻居发现天花板渗水。 由于对邻居影响很大，我立刻请假赶往老房子，到场之后发现物业的人已经在门口了。进屋之后在厨房排查了一番，发现是水龙头的冷热水管发生了破损，有漏水，我便去找了维修人员。 维修人员检查说是使用的可抽拉的水龙头的延长管线长… |
+| 2026-09-28 | [记录下 devin pro 的额度，一样](https://versun.me/blog/tweet-2104453331372708227) | Versun 记录下 claude pro 额度 5小时用了10%，周用了5%，花费 25M token 预计一周500M，一个月2000M token，也就是20亿token，还可以 https://twitter.com/VersunPan/status/2102945482633056415… |
 | 2026-09-28 | [从一到百千万](https://www.hecaitou.com/2026/09/From-One-to-Millions.html) | 从一到百的事情，我做过许多次。从一到千的事情，我也做过不少。从一到万的事情，我也有过一手体验。 本来我是根本做不到的，因为我就是那种所谓「没长性」的人。小时候看黑瞎子掰苞米一类的寓言故事，能把我看到内心焦虑，觉得我就是一样的脾气性格，这辈子怕是完了，手头永远只有一根苞米，身后却落了一路。 好在我没有… |
 | 2026-09-28 | [Aliens versus Predator updated](https://macsourceports.com/game/avp) | The build of NakedAVP for Aliens versus Predator has been updated to version 1.3.0 of the project |
 | 2026-09-28 | [你会痛苦吗 II](https://mobius.blog/25791.html) | 这个系列居然继续下去了，因为我真的收到了对方的回信。在回信里，这位朋友提到了一个非常有趣的话题： 看了你的文章 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
