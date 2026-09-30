@@ -27,6 +27,9 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-09-30 | [记录一下 OpenWRT 上网卡、页面白屏、图片加载不出来、连接超时的问题](https://www.ghostchu.com/6000/%e8%ae%b0%e5%bd%95%e4%b8%80%e4%b8%8b-openwrt-%e4%b8%8a%e7%bd%91%e5%8d%a1%e3%80%81%e9%a1%b5%e9%9d%a2%e7%99%bd%e5%b1%8f%e3%80%81%e5%9b%be%e7%89%87%e5%8a%a0%e8%bd%bd%e4%b8%8d%e5%87%ba%e6%9d%a5%e3%80%81/) | 最近因为 iKuai 的安全漏洞问题，一直在推进路由往 OpenWRT 切换，但自从切换到 OpenWRT 到 […] 记录一下 OpenWRT 上网卡、页面白屏、图片加载不出来、连接超时的问题 最先出现在 Ghost_chu's Blog 。 |
+| 2026-09-30 | [中秋修水 后记](https://yovey.me/mid-autumn-touring-afterword/) | 这篇算是后记，视频还在加工处理中。一大堆素材拍下来，不知道怎么淘选加工。 省内国道跑多了，山水田园的景色司空见 … Continue reading "中秋修水 后记" |
+| 2026-09-30 | [改变一切的是时间的缝隙](https://kaix.in/2026/0930/) | 时间是连续的吗？不管是从物理学角度还是主观层面来讲，或许皆否。Carlo Rovelli 在《时间的秩序》里科普了时间的量子化、离散性，它根本不能被无限分割。主观上也是如此，记忆从不是平滑的卷轴，睁开眼的「上一刻」常常已隔数年，其间光阴，雾气朦胧。 回头想想，当下和去年此时此刻的自己，到底差别在哪呢… |
 | 2026-09-30 | [我只想着那些小孩子](https://www.hecaitou.com/2026/09/what-about-children.html) | 昨天我在网上看到的所有内容之中，下面这条针对新闻的评论很是打动我，因为它看起来暗黑、地狱、苦涩，但是底色却带着温情，整体上又有点好笑。 新闻内容是一对 70 高龄的华裔老夫妻在加州的一处停车场，轮流开枪射杀了据称是虐待自家女儿的女婿。那条评论是这么说的： 「 亚裔父母是这样的：他们拒绝说 『我爱你… |
 | 2026-09-30 | [Ken's Labyrinth updated](https://macsourceports.com/game/kenslabyrinth) | The build of LAB3D/SDL for Ken's Labyrinth has been updated to version 4.3.0-1 of the project |
 | 2026-09-30 | [[科幻小说]请勿对宇宙开闪光灯](https://brain-zhang.github.io/blog/2026/09/30/ke-huan-xiao-shuo-qing-wu-dui-yu-zhou-kai-shan-guang-deng/) | 这是与AI吹水的副产品；来源于一个想法：例如设定某种外星文明制造出能探测 $10^{-60}$ 量级引力微扰的“深时钟”，他们不再用电磁波监听宇宙，而是通过监测太空中微小的引力涟漪，直接侦测出哪个星系里诞生了具备“观测能力”的智慧物种，然后执行”清理”动作，这不就是我们微观态的波函数坍缩诱因嘛； =… |
