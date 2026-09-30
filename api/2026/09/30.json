@@ -1,5 +1,19 @@
 [
   {
+    "title": "解决 Codex 无法访问 rg.exe 的问题",
+    "url": "https://www.liesauer.net/blog/post/1046.html",
+    "date": "2026-09-30T17:52:22Z",
+    "description": "这个问题实际上牵扯到多个工具，不确定根源是否在于 Codex 的机制问题，但本文不做过多追溯。事实上，Codex 官方仓库堆积着好多个关于工具调用失败的 issue，但貌似和这个问题不太一样，就...",
+    "source_root_domain": "liesauer.net"
+  },
+  {
+    "title": "道歉要趁早",
+    "url": "https://blog.solazy.me/20260930/",
+    "date": "2026-09-30T15:00:00Z",
+    "description": "从今天听到的一期播客中的一句话说起……",
+    "source_root_domain": "solazy.me"
+  },
+  {
     "title": "记录一下 OpenWRT 上网卡、页面白屏、图片加载不出来、连接超时的问题",
     "url": "https://www.ghostchu.com/6000/%e8%ae%b0%e5%bd%95%e4%b8%80%e4%b8%8b-openwrt-%e4%b8%8a%e7%bd%91%e5%8d%a1%e3%80%81%e9%a1%b5%e9%9d%a2%e7%99%bd%e5%b1%8f%e3%80%81%e5%9b%be%e7%89%87%e5%8a%a0%e8%bd%bd%e4%b8%8d%e5%87%ba%e6%9d%a5%e3%80%81/",
     "date": "2026-09-30T11:51:12Z",

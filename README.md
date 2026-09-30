@@ -27,6 +27,8 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-09-30 | [解决 Codex 无法访问 rg.exe 的问题](https://www.liesauer.net/blog/post/1046.html) | 这个问题实际上牵扯到多个工具，不确定根源是否在于 Codex 的机制问题，但本文不做过多追溯。事实上，Codex 官方仓库堆积着好多个关于工具调用失败的 issue，但貌似和这个问题不太一样，就... |
+| 2026-09-30 | [道歉要趁早](https://blog.solazy.me/20260930/) | 从今天听到的一期播客中的一句话说起…… |
 | 2026-09-30 | [记录一下 OpenWRT 上网卡、页面白屏、图片加载不出来、连接超时的问题](https://www.ghostchu.com/6000/%e8%ae%b0%e5%bd%95%e4%b8%80%e4%b8%8b-openwrt-%e4%b8%8a%e7%bd%91%e5%8d%a1%e3%80%81%e9%a1%b5%e9%9d%a2%e7%99%bd%e5%b1%8f%e3%80%81%e5%9b%be%e7%89%87%e5%8a%a0%e8%bd%bd%e4%b8%8d%e5%87%ba%e6%9d%a5%e3%80%81/) | 最近因为 iKuai 的安全漏洞问题，一直在推进路由往 OpenWRT 切换，但自从切换到 OpenWRT 到 […] 记录一下 OpenWRT 上网卡、页面白屏、图片加载不出来、连接超时的问题 最先出现在 Ghost_chu's Blog 。 |
 | 2026-09-30 | [中秋修水 后记](https://yovey.me/mid-autumn-touring-afterword/) | 这篇算是后记，视频还在加工处理中。一大堆素材拍下来，不知道怎么淘选加工。 省内国道跑多了，山水田园的景色司空见 … Continue reading "中秋修水 后记" |
 | 2026-09-30 | [改变一切的是时间的缝隙](https://kaix.in/2026/0930/) | 时间是连续的吗？不管是从物理学角度还是主观层面来讲，或许皆否。Carlo Rovelli 在《时间的秩序》里科普了时间的量子化、离散性，它根本不能被无限分割。主观上也是如此，记忆从不是平滑的卷轴，睁开眼的「上一刻」常常已隔数年，其间光阴，雾气朦胧。 回头想想，当下和去年此时此刻的自己，到底差别在哪呢… |
