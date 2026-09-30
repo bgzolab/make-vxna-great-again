@@ -27,6 +27,9 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-09-30 | [微信小程序备案和贴图话题](https://dsx2016.com/wechat-mini-program-filing-and-sticker-related-topics/) | 微信小程序备案 我的第一个微信小程序好像没有备案，只有微信认证，记不清是备案后忘了还是没备案 但是第二个微信小... 微信小程序备案和贴图话题 最先出现在 大师兄2016 。 |
+| 2026-09-30 | [免费音乐的破解之道](https://jubeny.com/2026/09/unlock-free-music/) | 听歌用了很多年的Spotify，加入过不同的家庭车，随着最后一班车的解散，懒得去寻新车，也不想自己开车，于是顺势转用免费的Youtube Music。 使用Youtube Music有三种途径——网页版、官方App和三方App，但哪一种都不太令人满意。 |
+| 2026-09-29 | [GPT 6.1 Sol 应该就是正式版的](https://versun.me/blog/tweet-2105083998066409680) | GPT 6.1 Sol 应该就是正式版的 GPT 6 Sol吧😂 |
 | 2026-09-29 | [A Toy Port for My Daughter](https://victor42.eth.limo/post-en/daughter-toy-port/) | A small experiment in tidying education and task management. Last night my daughter broke a large toy beetle, and its wings and head came off. I meant… |
 | 2026-09-29 | [女儿的玩具港口](https://victor42.eth.limo/post/daughter-toy-port/) | 一次关于收纳教育与任务管理的小实验。 昨晚，女儿把一个玩具大甲虫摔坏了，翅膀和头掉下来。 我本打算修，忽然想到可以让她看看我解决问题的思路。我拿起甲虫身体和翅膀，我说，这边翅膀掉下来了，但是我没注意之前是怎么样的，我不知道怎么装回去了。怎么办呢，诶！它两个翅膀是一样的，我来看看另外一个翅膀是怎么固定… |
 | 2026-09-29 | [AI教会了女儿洗澡](https://victor42.eth.limo/post/daughter-learns-to-bath/) | 都在问AI在工作中有什么应用，很少人问生活中有什么应用。 女儿最近学会了洗澡。但只能说是不怕水了，还搞不清顺序，也会漏洗一些地方。同时也非常磨蹭，洗着洗着就玩起来。 骂也骂了，想想觉得骂也没什么用，干脆把洗澡变成游戏吧。 拿 AI 生成了这么个图，打印两张带回家。一张纯粹给女儿当涂色卡玩。另一张让她… |
@@ -38,6 +41,8 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-09-29 | [Coffee Break Clojure, Vol.4](https://www.geedea.pro/article/clj4/) | 今天的文章衔接 上一期 有关集合（collection）和序列（sequence）的知识，来讨论一种特殊的集合，叫惰性序列（lazy seq）。我们还会接触到函数式编程（functional programing）。 其实在另一门名为 Haskell 的语言里，也能见到惰性，而 Haskell 是纯… |
 | 2026-09-29 | [AI漫谈录-6 相对论与量子力学观测者效应的统一](https://brain-zhang.github.io/blog/2026/09/29/aiman-tan-lu-6-xiang-dui-lun-yu-liang-zi-li-xue-guan-ce-zhe-xiao-ying-de-tong-%5B%3F%5D/) | 我现在每天跟AI的对话已经远远超过跟人的交流了；有时候会产生有一些很有意思的对话内容，记录一下: 这一期记录的是跟豆包聊的是如何把广义相对论和量子力学中的矛盾点相结合； 虽然我仅仅是物理学的科普爱好者，但是这一期极大的激发了我的想象；我提出了一种理论：以信息为载体的第四维度受观测者影响，会产生信息的… |
 | 2026-09-29 | [微信公众号贴图流量和微信小程序虚拟支付](https://dsx2016.com/wechat-official-account-sticker-traffic-and-wechat-mini-program-virtual-payments/) | 微信贴图流量 昨天的微信贴图有48阅读，对应的文章只有15阅读 这是唯一一次微信贴图超过20阅读，但是同时公众... 微信公众号贴图流量和微信小程序虚拟支付 最先出现在 大师兄2016 。 |
+| 2026-09-29 | [时间线上好多李飞飞。。。 我一直有个问题](https://versun.me/blog/tweet-2104890340188794956) | 时间线上好多李飞飞。。。 我一直有个问题， 世界模型到底能干嘛？ @grok |
+| 2026-09-29 | [做为一个近十年没喝酒的人来说，叮咚买菜最](https://versun.me/blog/tweet-2104881447870091596) | 做为一个近十年没喝酒的人来说，叮咚买菜最近定制的鸡尾酒都挺好喝的，都是买菜送的😂 |
 | 2026-09-29 | [喜大普奔！锤子便签也有开源版了【效率工具指南】](https://penghh.fun/2026/09/29/2026-9-29-smartisan_note/) | <script src=" |
 | 2026-09-29 | [让座](https://mobius.blog/25804.html) | 我正在咖啡厅码字，又坐在了那个我常坐的长条桌边。 这时候来了一家人，六个成年人带着一个小孩，在看到长条桌边只坐 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-09-29 | [站在电车里, 我在手机上改代码](https://xiaket.github.io/2026/run-deepseek-harness-remotely.html) | 对于我而言, 这是另外一个Aha时刻. 18个月前, 当我第一次开始用Claude Code的时候有这样的感觉. 而今天早上当我在电车上, 在手机上让deepseek harness(后面简称为dsh)帮我去改一段代码, 然后切app去读书, 一会儿后回到浏览器, 发现活已经干完了. 这个感觉就是很… |
@@ -48,6 +53,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-09-29 | [UZDoom updated](https://macsourceports.com/sourceport/uzdoom) | The build of UZDoom for the DOOM engine series of games has been updated to version 5.0.3 of the project\n\nhttps://macsourceports.com/sourceport/uzdo… |
 | 2026-09-29 | [Twikoo 评论为什么这么慢：藏在 POST_SUBMIT 里的 5 秒等待窗口](https://liudon.com/posts/twikoo-comment-delay-post-submit/) | 2026/09/29 更新 文中排查的问题已经修复并合入 Twikoo。 我升级后重新测试，评论请求耗时从原来的 5-6s 降到了 1s 以内 。 有同样问题的，可以将服务端升级到 2.0.12 或更高版本 。如果使用 Netlify 老部署，还需要按官方更新文档完成一次 Modern Functi… |
 | 2026-09-29 | [水枪、锥形桶与小组长](https://mobius.blog/25795.html) | 前几天，目睹了一场争吵。 早上小区会有不同区域负责垃圾倾倒的清洁工，会在等待垃圾转运车收走垃圾后，在小区某处的 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
+| 2026-09-29 | [claude sonnet 5.5发布了](https://versun.me/blog/tweet-2104725352107086205) | Claude Sonnet 5.5 improves on Sonnet 5 across benchmarks, in some cases dramatically. It’s a faster, lower-cost complement to Claude Opus 5.5, stronge… |
 | 2026-09-29 | [AI 为主题配置流程提效实践经验分享](https://lrd.im/blog/2026-09-29) | 利用 Agent 的编码能力，设计师可以基于自身工作流开发出各种各样的工具。这篇文章以内部的「主题编辑器」为例，介绍我是如何 Vibe Coding 一个工具来为主题配置的流程提效。 |
 | 2026-09-28 | [此路连彼路，渐远将无返：中秋返乡，我读懂了《未选择的路》](https://blog.mzh.ren/zh/posts/2026/09/the-road-not-taken/) | 中秋节假期，我因为没有私家车，所以买了火车票返乡。中间辗转换乘，又碰上火车延误，整个旅途是比较辛苦的，所以回到家的时候已经比较晚了。但我一直安慰自己说，如果坐汽车的话，一定会堵在高速上，且会堵得昏天黑地，可能傍晚都到不了家。 |
 | 2026-09-28 | [符合中国大陆用户的小狼毫输入法配置：装完先做三件事，附两份配置](https://gugegt.com/rime-weasel-config.html) | Windows 上折腾 Rime 的完整记录，附两份可以直接复制走的配置文件，还有几个我踩过的坑。 我电脑上装搜狗装了六七年。早几年它确实好用，词库更新快，新词一冒出来马上就能打出来。后来安装目录越来越大，右键菜单里混进了跟打字没关系的东西，设置面板里一排开关等着你去关。关推送，关资讯，关助手，关完… |
@@ -166,37 +172,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-09-23 | [给 Twikoo 接入 Jev，用 AI 判断博客评论是不是广告](https://liudon.com/posts/twikoo-jev-spam-detection/) | 前言 最近 Jev 火了，时间线上全是讨论这个新模型的内容。 Jev 是 TypeSafe AI 发布的首个 System One 模型，主要面向软件中的快速、结构化决策。 和 ChatGPT、Claude 这类偏文本生成的大模型不太一样，它更偏向于“做判断”：输入一组状态和问题，直接返回结构化的判… |
 | 2026-09-23 | [爹而不自知 III](https://mobius.blog/25768.html) | 这个系列发布后，我又收到常来博客互动的朋友的私信，他的观点正好引出了今天要继续讨论的内容： 如果一个人表现出居 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-09-23 | [汇总下目前 opus 5.5 的3D评测](https://versun.me/blog/tweet-2102550362435760339) | Stefan 3D AI First Opus 5.5 vs GPT-6 Astra test is 3D. One prompt, Blender only, all procedural. Render the 10-second shot, and record your own build… |
-| 2026-09-22 | [OpenAI 这波完败啊，老家都被掀了](https://versun.me/blog/tweet-2102547956507595242) | OpenAI 这波完败啊，老家都被掀了 人家 Opus 5.5 这次目标是 GPT 6 Astra， 而 OpenAI 傻傻的还在挤牙膏，发布中小杯的 sol 和 luna 这不得赶紧掏个 GPT 7 出来，否则没得玩 |
-| 2026-09-22 | [「折腾」水水的不想月报](https://www.wdssmq.com/post/20140225001.html) | 周期性的熬夜和心流 上星期也是达成了 git 满勤（9.13 ~ 9.19）。。 ；之前一次是 1.4 ~ 1.10。。 这篇文章主要也是想水一下这段时期的成果。。 AI 额度就不够了…… 这里是一条广告：[ShortSth:硅基流动][/ShortSth] 今天 9.23，这一周期的集中代码时间差… |
-| 2026-09-22 | [Chris Sawyer's Locomotion updated](https://macsourceports.com/game/locomotion) | The build of OpenLoco for Chris Sawyer's Locomotion has been updated to version 26.09 of the project |
-| 2026-09-22 | [PIVOT Vol.21](https://anotherdayu.com/pivot-vol21/) | 不定期更新的 Newsletter。 Mak5er/AirCard 可以在不越狱的情况下修改 Apple Wallet 卡面和锁屏界面，最近还增加了 iOS 版： Mak5er/AirCard-iOS 。 tamaNOTchi 网页版电子宠物，能贴到自己的博客上当挂件。支持静态博客等多种网站格式！… |
-| 2026-09-22 | [普洱采茶：杀青烫手，和我那杯叫不响的永川秀芽](https://macin.org/2026/09/22/pu-er-cai-cha/) | 阅读全文 → 上一篇在普洱的山里采了三筐菌子， 敢下锅的没几样 ；这一篇，还是普洱，蹲进茶垄里，炒了一锅自己都怕的 烈茶 。 |
-| 2026-09-22 | [Java 服务 CPU 打满排查笔记](https://199604.com/3720) | Java 服务 CPU 打满排查笔记 记录时间：2026-09-19 环境：Linux 服务器 / Java […] |
-| 2026-09-22 | [M03车机如何使用网易云音乐「神光模式」？保姆级教程分享【效率工具指南】](https://penghh.fun/2026/09/22/2026-9-22-m03music/) | <script src=" |
-| 2026-09-22 | [入蜀记 day484 桂香入肺](https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_484/) | 「桂香入肺。」 |
-| 2026-09-22 | [入蜀记 day483 真的能复现吗？](https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_483/) | 「真的能复现吗？」 |
-| 2026-09-22 | [入蜀记 day482 听友聚会](https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_482/) | 「听友聚会。」 |
-| 2026-09-22 | [为啥你们的成品质量都好好啊，这是烧了多少](https://versun.me/blog/tweet-2102349099161026675) | Ding https://x.com/i/article/2102306610626662400 为啥你们的成品质量都好好啊，这是烧了多少积分，费了多少时间做的，太牛了 |
-| 2026-09-22 | [景行行止，一座公共历史人物纪念档案，域名是huainian.org](https://gugegt.com/20260922-huainian-org.html) | 前几天，我的一个新项目上线了：景行行止，网址 huainian.org 。 名字取自《诗经》里的"高山仰止，景行行止"。高山让人仰望，大道让人追随。网站的副标题是，怀念每一个值得记住的人。顺便坦白一句，这个名字我到现在还觉得有点别扭，可能还会改，先这么叫着。 打开首页，顶部四个大字加一个搜索框，往下… |
-| 2026-09-22 | [深呼吸](https://www.gtdstudy.com/posts/2026-09-21-deep-breath/) | 朋友，上周我又做了不少事情，而且收获良多，忍不住跟你分享！ Awesome-Jev 星标超过 1000 个了！ 自上周 Jev 发布之后，我跟进了一个 Awesome-Jev 的 Github 仓库，很受欢迎。这大概是我历史上增速最快的 Github 仓库，仅仅一周就获得了破千的星标，每天都有十多个… |
-| 2026-09-22 | [动起来，否则你就要费劲思考了](https://www.gtdstudy.com/posts/2026-09-15-pascal/) | 一段时间没写信了，你还好吗？再次提起笔来，真是让人开心，每一次写信都是你我的一次重逢，为了这份不断的缘分，我也要提笔写下去。 X 的关注量突破 5000 最近，我在 X 上的粉丝突破了 5000 人，不算多，也不算少。但现在 X 上的内容更新，基本上是我指挥 Agent 来处理的，我每天除了对着一张… |
-| 2026-09-22 | [NeuroFlex: Lossless Element-Level ANN-SNN Co-Execution for Efficient Sparse Inference](https://mer.dev/posts/neuroflexlossless-element-level-ann-snn-co-execution-for-efficient-sparse-inference/) | 好像是 MICRO2026，ANN-SNN 混合稀疏加速器，Fig.1 的观察和统一 INT8 存储的设计还不错，但这里的 SNN core 更像一个 unary 编码的累加单元？ |
-| 2026-09-22 | [NeuroFlex: Lossless Element-Level ANN-SNN Co-Execution for Efficient Sparse Inference](https://mer.run/posts/neuroflexlossless-element-level-ann-snn-co-execution-for-efficient-sparse-inference/) | 好像是 MICRO2026，ANN-SNN 混合稀疏加速器，Fig.1 的观察和统一 INT8 存储的设计还不错，但这里的 SNN core 更像一个 unary 编码的累加单元？ |
-| 2026-09-22 | [我也玩了下 @Pexoai_offica](https://versun.me/blog/tweet-2102307878107586652) | 我也玩了下 @Pexoai_offical 我是想做一个绘本动画，我儿子很喜欢《小蛇散步》这个绘本，天天讲个不停，所以想搞个动画给他， 整体效果挺好的，会自动分角色分镜，然后才出视频，就是积分消耗太快了，最后没搞完🥲 |
-| 2026-09-22 | [AI 写得越来越快，我却越来越看不完了](https://www.tortorse.com/archives/ai-writes-faster-than-i-can-read/) | 深夜里，一个人面对 AI 生成的大量文档和图片 |
-| 2026-09-22 | [为什么我不再写技术文章](https://blog.oospace.com/posts/2026-09-22-c/) | 不是因为AI，很多年前也一直在写，后来发现大多都是copy别人的，而不是原创的有价值的 |
-| 2026-09-22 | [不想好就开口的是什么人](https://kaix.in/2026/0922/) | 我对语音输入一事毫无研究，而且一直费解，真的会有人偏爱使用语音输入的方式来记录文章吗？文学史上倒是不乏先例，一些作家出于身体原因由助手转录口述来完成写作，但结果往往是行文变得冗长、繁复，句式枝蔓丛生。 作家尚且如此，而我们……恰好看到腾讯又出了一款集成了 AI 能力的语音输入法，口号竟然是「不必想好… |
-| 2026-09-22 | [搭便车理论](https://blog.oospace.com/posts/2026-09-22-b/) | 世界科技的发展，国家经济的发展，个人的发展是息息相关的，中国搭美国便车，个人能否搭上时代的列车 |
-| 2026-09-22 | [今年抱怨的人要比去年更多一些](https://www.hecaitou.com/2026/09/More-Complaints-This-Year-Than-Last.html) | 在后台我每天都会收到很多留言，就我个人的感觉，今年抱怨的人要比去年更多一些，而去年抱怨的人又要比前年更多一些。 大多内容是抱怨伴侣，或者抱怨孩子，刚好都落在我的经验盲区。我知道，对方并不需要我出主意，只是想找个地方倾诉。但是看得多了，我开始担忧自己，担忧自己因此形成了关于婚恋和家庭教育的错误认知，觉… |
-| 2026-09-22 | [注意力机制与限制](https://blog.oospace.com/posts/2026-09-22-a/) | 人类的注意力有限，A(G)I的注意力领先吗 |
-| 2026-09-22 | [AI泡沫破灭后可能造成的一些影响](https://blog.oospace.com/posts/2026-09-22/) | 准确的说是AGI泡沫破灭后可能造成的影响，准备面对海啸吧 |
-| 2026-09-22 | [爹而不自知 II](https://mobius.blog/25763.html) | 继续昨天的话题。 当爹的核心并不是为了当别人爹，而是为了满足自己的心理需求，或是某种身份标签的存在性。具体来说 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
-| 2026-09-22 | [Memos: 看着一点也危险](https://blog.yasking.org/a/1790039812) | 早上骑车路过一个施工现场，远远就看到有个人站在渣土车上 ‘观察’，直直的站着，两脚就踩着车斗的两个边框上（比图中更 … |
-| 2026-09-22 | [入蜀记 day481 同一个老板](https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_481/) | 「同一个老板。」 |
-| 2026-09-22 | [入蜀记 day480 卧底厨神](https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_480/) | 「卧底厨神。」 |
-| 2026-09-22 | [入蜀记 day479 but read](https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_479/) | 「but read.」 |
-| 2026-09-22 | [刚看了下这个jev wechat项目，模](https://versun.me/blog/tweet-2102201927178371280) | 李韭二 卧槽！ Jev WeChat 微信群聊！已开源！👇 再也不用担心不懂人情事故！ 微信客服！微信群助手！ 再也不用codex哄女朋友了！ https://x.com/Melinda58883532/status/2102008893350277215/video/2?s=46 刚看了下这个je… |
-| 2026-09-22 | [入蜀记 day478 刷剧](https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_478/) | 「刷剧。」 |
 
 ## Vibe Coding
 
