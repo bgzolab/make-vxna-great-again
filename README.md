@@ -27,6 +27,10 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-09-30 | [我只想着那些小孩子](https://www.hecaitou.com/2026/09/what-about-children.html) | 昨天我在网上看到的所有内容之中，下面这条针对新闻的评论很是打动我，因为它看起来暗黑、地狱、苦涩，但是底色却带着温情，整体上又有点好笑。 新闻内容是一对 70 高龄的华裔老夫妻在加州的一处停车场，轮流开枪射杀了据称是虐待自家女儿的女婿。那条评论是这么说的： 「 亚裔父母是这样的：他们拒绝说 『我爱你… |
+| 2026-09-30 | [Ken's Labyrinth updated](https://macsourceports.com/game/kenslabyrinth) | The build of LAB3D/SDL for Ken's Labyrinth has been updated to version 4.3.0-1 of the project |
+| 2026-09-30 | [[科幻小说]请勿对宇宙开闪光灯](https://brain-zhang.github.io/blog/2026/09/30/ke-huan-xiao-shuo-qing-wu-dui-yu-zhou-kai-shan-guang-deng/) | 这是与AI吹水的副产品；来源于一个想法：例如设定某种外星文明制造出能探测 $10^{-60}$ 量级引力微扰的“深时钟”，他们不再用电磁波监听宇宙，而是通过监测太空中微小的引力涟漪，直接侦测出哪个星系里诞生了具备“观测能力”的智慧物种，然后执行”清理”动作，这不就是我们微观态的波函数坍缩诱因嘛； =… |
+| 2026-09-30 | [第五年 I](https://mobius.blog/25798.html) | 既然快要放假了，无心工作，所以接下来的几天就来搞搞综艺节目里，最喜欢用来应对“开天窗”的内容——怀旧。 也不完 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-09-30 | [微信小程序备案和贴图话题](https://dsx2016.com/wechat-mini-program-filing-and-sticker-related-topics/) | 微信小程序备案 我的第一个微信小程序好像没有备案，只有微信认证，记不清是备案后忘了还是没备案 但是第二个微信小... 微信小程序备案和贴图话题 最先出现在 大师兄2016 。 |
 | 2026-09-30 | [免费音乐的破解之道](https://jubeny.com/2026/09/unlock-free-music/) | 听歌用了很多年的Spotify，加入过不同的家庭车，随着最后一班车的解散，懒得去寻新车，也不想自己开车，于是顺势转用免费的Youtube Music。 使用Youtube Music有三种途径——网页版、官方App和三方App，但哪一种都不太令人满意。 |
 | 2026-09-29 | [GPT 6.1 Sol 应该就是正式版的](https://versun.me/blog/tweet-2105083998066409680) | GPT 6.1 Sol 应该就是正式版的 GPT 6 Sol吧😂 |
