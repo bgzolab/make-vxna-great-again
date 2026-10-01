@@ -27,6 +27,22 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-10-01 | [微信公众号一个号对应一个账号](https://dsx2016.com/each-wechat-official-account-corresponds-to-a-single-account/) | 唯一实名账户 有一段时间个人微信可以创建5个左右公众号 现在想继续创建，发现只有创建唯一一个 并且这个微信公众... 微信公众号一个号对应一个账号 最先出现在 大师兄2016 。 |
+| 2026-10-01 | [我好像陷入了no webview的原教旨主义](https://yuhang.ch/posts/thoughts/no-webview-originalism/) | 最近做了俩软件， pandanote 和 pandareader ，note是自己看到 evernote 做的，reader是看到 papr 做的，原因是他俩是webview，我想用，而我“不太喜欢”webview。 写这篇文章是在做reader的时候内心一直处在一种拧巴的状态，虽然自己做也挺方便的… |
+| 2026-10-01 | [微信小程序审核不通过](https://dsx2016.com/wechat-mini-program-rejected-during-review/) | 审核不通过 今天是国庆 理论上微信小程序审核会放缓，因为一大堆企业小程序肯定排队加急审核 个人小程序如果不是加... 微信小程序审核不通过 最先出现在 大师兄2016 。 |
+| 2026-10-01 | [lesson-3](https://physnya.top/compact-object/compact-object/zf1cp98z/) | 白矮星 第一颗人类认证的白矮星是天狼星的伴星：它有 25000 25000 25000 K，相对地，天狼星本身只有 9900 9900 9900 K. 因此我们能够推测这个伴星一定具有非常小的发光面积. |
+| 2026-10-01 | [为什么经济下行与 Web3 无关](https://smallyu.net/2026/10/01/%E4%B8%BA%E4%BB%80%E4%B9%88%E7%BB%8F%E6%B5%8E%E4%B8%8B%E8%A1%8C%E4%B8%8EWeb3%E6%97%A0%E5%85%B3/) | 我们要区分开三件事：1. 经济周期的牛熊交替；2. 全球性的经济衰退；3. |
+| 2026-10-01 | [The Intent Behind the Gesture: A Deep Dive into RedNote's "Double-Swipe" Exit](https://blog.ensonyan.com/it/3493.html) | Recently, while using RedNote (小红书) on my iPhone 11 (iO […] |
+| 2026-10-01 | [New Release: Total Annihilation](https://macsourceports.com/game/totalannihilation) | Total Annihilation is an RTS game with a cult following. Whereas other games in the genre focused on resource scarcity or micromanagement of units, it… |
+| 2026-10-01 | [New Release: Oni](https://macsourceports.com/game/oni) | The last game Bungie made before being absorbed by Microsoft and consumed with Halo, Oni is that game I barely remember but folks on my Discord desper… |
+| 2026-10-01 | [国庆七天，肯定有一大批人的行程是：床、饭桌、厕所。](https://gugegt.com/guoqing-bed-table-toilet.html) | 七天假期，行程只有三站。床、饭桌、厕所，循环往复。 放假前一周，我在手机备忘录里列了七天的安排：去海边、爬一次崂山、见两个朋友、把买了半年没翻的那本书看完。 十月一号早上十点半，我醒了。外面太阳挺好，被窝里温度刚好，窗户缝漏进来的风是凉的。翻个身，那份清单就当没写过。 |
+| 2026-10-01 | [Quetoo updated](https://macsourceports.com/game/quetoo) | The build of Quetoo has been updated to version v1.0.118 of the project |
+| 2026-10-01 | [Ken's Labyrinth updated](https://macsourceports.com/game/kenslabyrinth) | The build of LAB3D/SDL for Ken's Labyrinth has been updated to version 4.4.0 of the project |
+| 2026-10-01 | [Marathon Infinity updated](https://macsourceports.com/game/marathoninfinity) | The build of Aleph One for Marathon Infinity for Marathon Infinity has been updated to version release-20260930 of the project |
+| 2026-10-01 | [Marathon 2: Durandal updated](https://macsourceports.com/game/marathon2) | The build of Aleph One for Marathon 2: Durandal for Marathon 2: Durandal has been updated to version release-20260930 of the project |
+| 2026-10-01 | [Marathon updated](https://macsourceports.com/game/marathon) | The build of Aleph One for Marathon for Marathon has been updated to version release-20260930 of the project |
+| 2026-10-01 | [习惯与趋势](https://blog.oospace.com/posts/2026-10-01/) | 一个人的习惯，只能影响自己和身边的人，如果很多人都有这个习惯会怎样 |
+| 2026-10-01 | [第五年 II](https://mobius.blog/25813.html) | 继续昨天的“那把关于写作的刀”。 1200 &#124; 百日谈 当写到1200的时候，距离500日写作还剩下最后的10 […] |
 | 2026-10-01 | [微信小程序备案驳回](https://dsx2016.com/wechat-mini-program-filing-rejected/) | 深圳备案 在深圳备案微信小程序 需要居住证，如果居住证过期，备案就失效 目前居住证，据不完全了解，只在深圳需要... 微信小程序备案驳回 最先出现在 大师兄2016 。 |
 | 2026-09-30 | [Gemini 4 Argon 这跑分，全](https://versun.me/blog/tweet-2105429720603185650) | Google AI Announcing Gemini 4 Argon, our new frontier model. Argon is built to sustain deep reasoning across complex, long-horizon workflows and deliv… |
 | 2026-09-30 | [解决 Codex 无法访问 rg.exe 的问题](https://www.liesauer.net/blog/post/1046.html) | 这个问题实际上牵扯到多个工具，不确定根源是否在于 Codex 的机制问题，但本文不做过多追溯。事实上，Codex 官方仓库堆积着好多个关于工具调用失败的 issue，但貌似和这个问题不太一样，就... |
@@ -38,9 +54,8 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-09-30 | [泼个冷水哈 @wey_gu 读完文章，对](https://versun.me/blog/tweet-2105169441403404534) | Nowledge Mem https://x.com/i/article/2105132677699682304 泼个冷水哈 @wey_gu 读完文章，对“决策与生成解耦”的架构思考很认同，但对 Mem 客户端直接加一个「快速判断」配置项，我觉得值得商榷，建议挪进「实验室」或高级模式。 几点直接感受… |
 | 2026-09-30 | [我只想着那些小孩子](https://www.hecaitou.com/2026/09/what-about-children.html) | 昨天我在网上看到的所有内容之中，下面这条针对新闻的评论很是打动我，因为它看起来暗黑、地狱、苦涩，但是底色却带着温情，整体上又有点好笑。 新闻内容是一对 70 高龄的华裔老夫妻在加州的一处停车场，轮流开枪射杀了据称是虐待自家女儿的女婿。那条评论是这么说的： 「 亚裔父母是这样的：他们拒绝说 『我爱你… |
 | 2026-09-30 | [哈哈， A\ 义父啊，智谱要活了 Ant](https://versun.me/blog/tweet-2105153173711458383) | 周尔复 @yihong0618 哈哈， A\ 义父啊，智谱要活了 Anthropic 发文警告：智谱开源的 GLM-5.3 已能自主写端到端网络 exploit，水平接近自家限量版 Mythos，且护栏用简单手段就能拆掉。 https://www.anthropic.com/research/glm… |
-| 2026-09-30 | [Ken's Labyrinth updated](https://macsourceports.com/game/kenslabyrinth) | The build of LAB3D/SDL for Ken's Labyrinth has been updated to version 4.3.0-1 of the project |
 | 2026-09-30 | [[科幻小说]请勿对宇宙开闪光灯](https://brain-zhang.github.io/blog/2026/09/30/ke-huan-xiao-shuo-qing-wu-dui-yu-zhou-kai-shan-guang-deng/) | 这是与AI吹水的副产品；来源于一个想法：例如设定某种外星文明制造出能探测 $10^{-60}$ 量级引力微扰的“深时钟”，他们不再用电磁波监听宇宙，而是通过监测太空中微小的引力涟漪，直接侦测出哪个星系里诞生了具备“观测能力”的智慧物种，然后执行”清理”动作，这不就是我们微观态的波函数坍缩诱因嘛； =… |
-| 2026-09-30 | [第五年 I](https://mobius.blog/25798.html) | 既然快要放假了，无心工作，所以接下来的几天就来搞搞综艺节目里，最喜欢用来应对“开天窗”的内容——怀旧。 也不完 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
+| 2026-09-30 | [第五年 I](https://mobius.blog/25798.html) | 既然快要放假了，无心工作，所以接下来的几天就来搞搞综艺节目里，最喜欢用来应对“开天窗”的内容——怀旧。 也不完 […] |
 | 2026-09-30 | [微信小程序备案和贴图话题](https://dsx2016.com/wechat-mini-program-filing-and-sticker-related-topics/) | 微信小程序备案 我的第一个微信小程序好像没有备案，只有微信认证，记不清是备案后忘了还是没备案 但是第二个微信小... 微信小程序备案和贴图话题 最先出现在 大师兄2016 。 |
 | 2026-09-30 | [免费音乐的破解之道](https://jubeny.com/2026/09/unlock-free-music/) | 听歌用了很多年的Spotify，加入过不同的家庭车，随着最后一班车的解散，懒得去寻新车，也不想自己开车，于是顺势转用免费的Youtube Music。 使用Youtube Music有三种途径——网页版、官方App和三方App，但哪一种都不太令人满意。 |
 | 2026-09-30 | [无聊的 OpenAI DevDay 技术](https://versun.me/blog/tweet-2105088356887793985) | 无聊的 OpenAI DevDay 技术上几乎毫无新东西，全是在“弥补、缝合、抄竞品和挖护城河” 1. 缝合 • dots：本质就是抄 Meta Muse 的萌系拟人化外壳，加了一个类似 Claude Tag 的 Slack 独立工作身份，再塞进 Codex 里跑工具 • ChatGPT Space… |
@@ -59,15 +74,14 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-09-29 | [时间线上好多李飞飞。。。 我一直有个问题](https://versun.me/blog/tweet-2104890340188794956) | 时间线上好多李飞飞。。。 我一直有个问题， 世界模型到底能干嘛？ @grok |
 | 2026-09-29 | [做为一个近十年没喝酒的人来说，叮咚买菜最](https://versun.me/blog/tweet-2104881447870091596) | 做为一个近十年没喝酒的人来说，叮咚买菜最近定制的鸡尾酒都挺好喝的，都是买菜送的😂 |
 | 2026-09-29 | [喜大普奔！锤子便签也有开源版了【效率工具指南】](https://penghh.fun/2026/09/29/2026-9-29-smartisan_note/) | <script src=" |
-| 2026-09-29 | [让座](https://mobius.blog/25804.html) | 我正在咖啡厅码字，又坐在了那个我常坐的长条桌边。 这时候来了一家人，六个成年人带着一个小孩，在看到长条桌边只坐 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
+| 2026-09-29 | [让座](https://mobius.blog/25804.html) | 我正在咖啡厅码字，又坐在了那个我常坐的长条桌边。 这时候来了一家人，六个成年人带着一个小孩，在看到长条桌边只坐 […] |
 | 2026-09-29 | [站在电车里, 我在手机上改代码](https://xiaket.github.io/2026/run-deepseek-harness-remotely.html) | 对于我而言, 这是另外一个Aha时刻. 18个月前, 当我第一次开始用Claude Code的时候有这样的感觉. 而今天早上当我在电车上, 在手机上让deepseek harness(后面简称为dsh)帮我去改一段代码, 然后切app去读书, 一会儿后回到浏览器, 发现活已经干完了. 这个感觉就是很… |
 | 2026-09-29 | [](https://elmagnifico.tech/2026/09/29/2026-09-15-shenzhen-lasa-ontheway/) | Foreword 如上篇所提，今年中秋和国庆中间卡了三天班，直接请假从 9 月 25 号连到 10 月 7 号，一共 13 天。去拉萨，托车到成都再开 318到拉萨，后续车托回深圳，我从拉萨直接飞回来。 准备 预算 拖车到成都1700，拉萨拖回来3000，飞成都1600，拉萨飞回3900，这部分固定… |
 | 2026-09-29 | [同甘共苦电动牙刷](https://www.hecaitou.com/2026/09/through-thick-thin-modern-electric-toothbrush.html) | 很多年前我就介绍过电动牙刷，应该有不少读者是受了我的影响，从此接受这种生活里的便利小玩意儿。 但正如一句中国古代谚语说的那样：老革命遇见新问题。 前天我换了一支新款电动牙刷，直接把我给弄懵了。之前我用的是某大牌电动牙刷，用了很多年。这种事情你知道的，直男用了什么东西觉得好，就会搜索历史订单，随手按下… |
 | 2026-09-29 | [No One Lives Forever 2: A Spy in H.A.R.M.'s Way updated](https://macsourceports.com/game/nolf2) | The build of NOLF2 for Mac for No One Lives Forever 2: A Spy in H.A.R.M.'s Way has been updated to version 0.4.3 of the project |
-| 2026-09-29 | [Quetoo updated](https://macsourceports.com/game/quetoo) | The build of Quetoo has been updated to version v1.0.116 of the project |
 | 2026-09-29 | [UZDoom updated](https://macsourceports.com/sourceport/uzdoom) | The build of UZDoom for the DOOM engine series of games has been updated to version 5.0.3 of the project\n\nhttps://macsourceports.com/sourceport/uzdo… |
 | 2026-09-29 | [Twikoo 评论为什么这么慢：藏在 POST_SUBMIT 里的 5 秒等待窗口](https://liudon.com/posts/twikoo-comment-delay-post-submit/) | 2026/09/29 更新 文中排查的问题已经修复并合入 Twikoo。 我升级后重新测试，评论请求耗时从原来的 5-6s 降到了 1s 以内 。 有同样问题的，可以将服务端升级到 2.0.12 或更高版本 。如果使用 Netlify 老部署，还需要按官方更新文档完成一次 Modern Functi… |
-| 2026-09-29 | [水枪、锥形桶与小组长](https://mobius.blog/25795.html) | 前几天，目睹了一场争吵。 早上小区会有不同区域负责垃圾倾倒的清洁工，会在等待垃圾转运车收走垃圾后，在小区某处的 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
+| 2026-09-29 | [水枪、锥形桶与小组长](https://mobius.blog/25795.html) | 前几天，目睹了一场争吵。 早上小区会有不同区域负责垃圾倾倒的清洁工，会在等待垃圾转运车收走垃圾后，在小区某处的 […] |
 | 2026-09-29 | [claude sonnet 5.5发布了](https://versun.me/blog/tweet-2104725352107086205) | Claude Sonnet 5.5 improves on Sonnet 5 across benchmarks, in some cases dramatically. It’s a faster, lower-cost complement to Claude Opus 5.5, stronge… |
 | 2026-09-29 | [AI 为主题配置流程提效实践经验分享](https://lrd.im/blog/2026-09-29) | 利用 Agent 的编码能力，设计师可以基于自身工作流开发出各种各样的工具。这篇文章以内部的「主题编辑器」为例，介绍我是如何 Vibe Coding 一个工具来为主题配置的流程提效。 |
 | 2026-09-28 | [此路连彼路，渐远将无返：中秋返乡，我读懂了《未选择的路》](https://blog.mzh.ren/zh/posts/2026/09/the-road-not-taken/) | 中秋节假期，我因为没有私家车，所以买了火车票返乡。中间辗转换乘，又碰上火车延误，整个旅途是比较辛苦的，所以回到家的时候已经比较晚了。但我一直安慰自己说，如果坐汽车的话，一定会堵在高速上，且会堵得昏天黑地，可能傍晚都到不了家。 |
