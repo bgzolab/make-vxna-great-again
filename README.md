@@ -27,17 +27,23 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-10-01 | [微信小程序备案驳回](https://dsx2016.com/wechat-mini-program-filing-rejected/) | 深圳备案 在深圳备案微信小程序 需要居住证，如果居住证过期，备案就失效 目前居住证，据不完全了解，只在深圳需要... 微信小程序备案驳回 最先出现在 大师兄2016 。 |
+| 2026-09-30 | [Gemini 4 Argon 这跑分，全](https://versun.me/blog/tweet-2105429720603185650) | Google AI Announcing Gemini 4 Argon, our new frontier model. Argon is built to sustain deep reasoning across complex, long-horizon workflows and deliv… |
 | 2026-09-30 | [解决 Codex 无法访问 rg.exe 的问题](https://www.liesauer.net/blog/post/1046.html) | 这个问题实际上牵扯到多个工具，不确定根源是否在于 Codex 的机制问题，但本文不做过多追溯。事实上，Codex 官方仓库堆积着好多个关于工具调用失败的 issue，但貌似和这个问题不太一样，就... |
 | 2026-09-30 | [道歉要趁早](https://blog.solazy.me/20260930/) | 从今天听到的一期播客中的一句话说起…… |
 | 2026-09-30 | [记录一下 OpenWRT 上网卡、页面白屏、图片加载不出来、连接超时的问题](https://www.ghostchu.com/6000/%e8%ae%b0%e5%bd%95%e4%b8%80%e4%b8%8b-openwrt-%e4%b8%8a%e7%bd%91%e5%8d%a1%e3%80%81%e9%a1%b5%e9%9d%a2%e7%99%bd%e5%b1%8f%e3%80%81%e5%9b%be%e7%89%87%e5%8a%a0%e8%bd%bd%e4%b8%8d%e5%87%ba%e6%9d%a5%e3%80%81/) | 最近因为 iKuai 的安全漏洞问题，一直在推进路由往 OpenWRT 切换，但自从切换到 OpenWRT 到 […] 记录一下 OpenWRT 上网卡、页面白屏、图片加载不出来、连接超时的问题 最先出现在 Ghost_chu's Blog 。 |
+| 2026-09-30 | [我捅了马蜂窝了。。。 前天基于礼貌回关了](https://versun.me/blog/tweet-2105239050689110247) | 我捅了马蜂窝了。。。 前天基于礼貌回关了几个币圈的人，然后最近一直都有币圈的人关注我😂根本停不下来。。。 |
 | 2026-09-30 | [中秋修水 后记](https://yovey.me/mid-autumn-touring-afterword/) | 这篇算是后记，视频还在加工处理中。一大堆素材拍下来，不知道怎么淘选加工。 省内国道跑多了，山水田园的景色司空见 … Continue reading "中秋修水 后记" |
 | 2026-09-30 | [改变一切的是时间的缝隙](https://kaix.in/2026/0930/) | 时间是连续的吗？不管是从物理学角度还是主观层面来讲，或许皆否。Carlo Rovelli 在《时间的秩序》里科普了时间的量子化、离散性，它根本不能被无限分割。主观上也是如此，记忆从不是平滑的卷轴，睁开眼的「上一刻」常常已隔数年，其间光阴，雾气朦胧。 回头想想，当下和去年此时此刻的自己，到底差别在哪呢… |
+| 2026-09-30 | [泼个冷水哈 @wey_gu 读完文章，对](https://versun.me/blog/tweet-2105169441403404534) | Nowledge Mem https://x.com/i/article/2105132677699682304 泼个冷水哈 @wey_gu 读完文章，对“决策与生成解耦”的架构思考很认同，但对 Mem 客户端直接加一个「快速判断」配置项，我觉得值得商榷，建议挪进「实验室」或高级模式。 几点直接感受… |
 | 2026-09-30 | [我只想着那些小孩子](https://www.hecaitou.com/2026/09/what-about-children.html) | 昨天我在网上看到的所有内容之中，下面这条针对新闻的评论很是打动我，因为它看起来暗黑、地狱、苦涩，但是底色却带着温情，整体上又有点好笑。 新闻内容是一对 70 高龄的华裔老夫妻在加州的一处停车场，轮流开枪射杀了据称是虐待自家女儿的女婿。那条评论是这么说的： 「 亚裔父母是这样的：他们拒绝说 『我爱你… |
+| 2026-09-30 | [哈哈， A\ 义父啊，智谱要活了 Ant](https://versun.me/blog/tweet-2105153173711458383) | 周尔复 @yihong0618 哈哈， A\ 义父啊，智谱要活了 Anthropic 发文警告：智谱开源的 GLM-5.3 已能自主写端到端网络 exploit，水平接近自家限量版 Mythos，且护栏用简单手段就能拆掉。 https://www.anthropic.com/research/glm… |
 | 2026-09-30 | [Ken's Labyrinth updated](https://macsourceports.com/game/kenslabyrinth) | The build of LAB3D/SDL for Ken's Labyrinth has been updated to version 4.3.0-1 of the project |
 | 2026-09-30 | [[科幻小说]请勿对宇宙开闪光灯](https://brain-zhang.github.io/blog/2026/09/30/ke-huan-xiao-shuo-qing-wu-dui-yu-zhou-kai-shan-guang-deng/) | 这是与AI吹水的副产品；来源于一个想法：例如设定某种外星文明制造出能探测 $10^{-60}$ 量级引力微扰的“深时钟”，他们不再用电磁波监听宇宙，而是通过监测太空中微小的引力涟漪，直接侦测出哪个星系里诞生了具备“观测能力”的智慧物种，然后执行”清理”动作，这不就是我们微观态的波函数坍缩诱因嘛； =… |
 | 2026-09-30 | [第五年 I](https://mobius.blog/25798.html) | 既然快要放假了，无心工作，所以接下来的几天就来搞搞综艺节目里，最喜欢用来应对“开天窗”的内容——怀旧。 也不完 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-09-30 | [微信小程序备案和贴图话题](https://dsx2016.com/wechat-mini-program-filing-and-sticker-related-topics/) | 微信小程序备案 我的第一个微信小程序好像没有备案，只有微信认证，记不清是备案后忘了还是没备案 但是第二个微信小... 微信小程序备案和贴图话题 最先出现在 大师兄2016 。 |
 | 2026-09-30 | [免费音乐的破解之道](https://jubeny.com/2026/09/unlock-free-music/) | 听歌用了很多年的Spotify，加入过不同的家庭车，随着最后一班车的解散，懒得去寻新车，也不想自己开车，于是顺势转用免费的Youtube Music。 使用Youtube Music有三种途径——网页版、官方App和三方App，但哪一种都不太令人满意。 |
+| 2026-09-30 | [无聊的 OpenAI DevDay 技术](https://versun.me/blog/tweet-2105088356887793985) | 无聊的 OpenAI DevDay 技术上几乎毫无新东西，全是在“弥补、缝合、抄竞品和挖护城河” 1. 缝合 • dots：本质就是抄 Meta Muse 的萌系拟人化外壳，加了一个类似 Claude Tag 的 Slack 独立工作身份，再塞进 Codex 里跑工具 • ChatGPT Space… |
 | 2026-09-29 | [GPT 6.1 Sol 应该就是正式版的](https://versun.me/blog/tweet-2105083998066409680) | GPT 6.1 Sol 应该就是正式版的 GPT 6 Sol吧😂 |
 | 2026-09-29 | [A Toy Port for My Daughter](https://victor42.eth.limo/post-en/daughter-toy-port/) | A small experiment in tidying education and task management. Last night my daughter broke a large toy beetle, and its wings and head came off. I meant… |
 | 2026-09-29 | [女儿的玩具港口](https://victor42.eth.limo/post/daughter-toy-port/) | 一次关于收纳教育与任务管理的小实验。 昨晚，女儿把一个玩具大甲虫摔坏了，翅膀和头掉下来。 我本打算修，忽然想到可以让她看看我解决问题的思路。我拿起甲虫身体和翅膀，我说，这边翅膀掉下来了，但是我没注意之前是怎么样的，我不知道怎么装回去了。怎么办呢，诶！它两个翅膀是一样的，我来看看另外一个翅膀是怎么固定… |
@@ -164,23 +170,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-09-24 | [哎，我可真贱，为了 opus 5.5，还](https://versun.me/blog/tweet-2102945482633056415) | 哎，我可真贱，为了 opus 5.5，还是上了 达里奥 的贼床 看看这次能持久几天🥲 |
 | 2026-09-24 | [回国终于安顿下来了，先热个身](https://koukyo.site/posts/startup-warmup-three-carrier-pivots/) | 安顿下来后想热热身，做了个找 YouTuber 邮箱的小工具。同一个后端换了三种壳，从 33 次点击 0 次使用，到有人把 100 次免费额度全部用完。 |
 | 2026-09-24 | [书店消费区](https://mobius.blog/25771.html) | 在书店逛了逛，最后不得不在书店的消费区买了杯茶，落座在几乎没人的昏暗角落。不是因为逛书店逛累了，而是因为书店里 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
-| 2026-09-23 | [VictoriaLogs 集群 Helm 部署笔记（测试环境）](https://199604.com/3722) | VictoriaLogs 集群 Helm 部署笔记（测试环境） 记录时间：2026-09-22 环境：测试集群 […] |
-| 2026-09-23 | [老鹰主机十年用户第一次买老鹰VPS，7个机房速度实测](https://gugegt.com/20260924-vps-datacenter-network-test.html) | 老鹰主机用了十年，这次第一次买它家的 VPS，卡在最后一栏：机房。 配置选完，系统选完，下面一长串城市名。洛杉矶、达拉斯、纽约、伦敦、香港、新加坡、多伦多。地图摊开一看，答案明摆着，香港最近，新加坡也不远。 下单前我把七个机房的测试 IP 挨个跑了一轮，每个四次。结果跟地图的顺序完全不搭。 数据摆在… |
-| 2026-09-23 | [Zuma updated](https://macsourceports.com/game/zuma) | The build of Zuma Portable for Zuma has been updated to version 0.9 of the project |
-| 2026-09-23 | [我如何看待充值这件事儿](https://blog.solazy.me/20260923/) | 今天聊聊充值这件事 |
-| 2026-09-23 | [Register Token以及对变形金刚AI的四大批判](https://blog.est.im/2026/stdin-19) | 前几天 Yann LeCun 对 变形金刚(transformers) AI 进行了深刻的 批判 First, the reasoning abilities of current AI systems are based non-auto-regressive search (which is w… |
-| 2026-09-23 | [聪明 Agent 四套路 和 人肉学习](https://blog.est.im/2026/stdin-18) | nVIDIA 联合 NTU，MIT 联合研究了一项关于 Agent harness 自我提升的 研究 ，项目叫 SoL-Pi ， Scaling Auto-Research Loops for Efficient Agent Harnesses 让 Research Agent 自动发现 Harne… |
-| 2026-09-23 | [脑袋空空](https://blog.oospace.com/posts/2026-09-23/) | 与其每天被各种废料信息填满，不如放空大脑 |
-| 2026-09-23 | [解决宝塔安装 PG 失败的问题](https://blog.frytea.com/archives/32464) | 在宝塔面板安装 PostgreSQL 时遇到 `pgsql_install.sh: 83: Syntax er […] |
-| 2026-09-23 | [Muse AI 注册教程：借助 Google Gemini Spark 完成注册](https://liudon.com/posts/muse-ai-registration-with-gemini-spark/) | Muse 是 Meta 于 2026 年 9 月 8 日推出的全球首款面向普通消费者的个人 AI 智能体（AI Agent）应用。 现在仅面向美国和加拿大地区的 18 岁以上用户开放。 在 V2ex 上看到可以通过 Gemini Spark 进行注册，绕过 IP 检测，本文记录整个操作过程。 |
-| 2026-09-23 | [2026.9.22](https://www.justzht.com/2026-9-22/) | 最近都干了啥？ 周六和阳哥吃了四川菜。虽然都一直在湾区，但估计有三四年没见着面，然后见我他说我胖了，我 |
-| 2026-09-23 | [古早石榴味](https://www.hecaitou.com/2026/09/old-taste-pomegranates.html) | 在我很小的时候，认为最好吃的石榴来自东川外婆家。昆明的石榴不好吃，不如东川石榴大，也不如东川石榴甜。今天的东川虽然只是昆明的一个区，相距 150 公里，但在当年坐车过去要一整天，夏季的时候还有泥石流中断公路的危险。因此，当舅舅他们请托公车司机带一份石榴来我家时，算得上是一次小型节日，连带着石榴也似乎… |
-| 2026-09-23 | [还真能赚到钱，感谢 Tutti](https://versun.me/blog/tweet-2102597377601462724) | YC (Yucheng) 经常有人问 Tutti 是什么意思，正好用 Pexo 做了条片，顺便讲一下。 tutti 是乐谱上的记号，意大利语「全体」。前面小提琴首席 solo 一段，谱上标 tutti，整个乐队重新进来一起奏。 @tuttihq 干的就是这个：一个创作者发是 solo，很多创作者一起… |
-| 2026-09-23 | [分享下出海Playbook，都是干货](https://versun.me/blog/tweet-2102591014636765429) | 出海去孵化器 经历了不知道多少次的反复挣扎，我们决定把过去三年积累的 48 场内部主题分享、10 节推特增长课和 13 节出海实战课，累计 68 小时 14 分钟， 做成一份完全免费的 Playbook 分享给想做出海产品的大家！ 累计消耗 16.19 亿 Token，历时 31 天， 梳理出 15… |
-| 2026-09-23 | [Memos: 风云不语，只是一个劲儿的赠送重置卡](https://blog.yasking.org/a/1790127856) | 2026 年 9 月 22 日 Anthropic 发布 Claude Opus 5.5，同时赠送了一张重置卡（引入用户自主点击重置卡）。 同一天，OpenAI 发布 GPT-6 Sol 和 GPT-6 Luna 模型，也赠送 … |
-| 2026-09-23 | [给 Twikoo 接入 Jev，用 AI 判断博客评论是不是广告](https://liudon.com/posts/twikoo-jev-spam-detection/) | 前言 最近 Jev 火了，时间线上全是讨论这个新模型的内容。 Jev 是 TypeSafe AI 发布的首个 System One 模型，主要面向软件中的快速、结构化决策。 和 ChatGPT、Claude 这类偏文本生成的大模型不太一样，它更偏向于“做判断”：输入一组状态和问题，直接返回结构化的判… |
-| 2026-09-23 | [爹而不自知 III](https://mobius.blog/25768.html) | 这个系列发布后，我又收到常来博客互动的朋友的私信，他的观点正好引出了今天要继续讨论的内容： 如果一个人表现出居 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
-| 2026-09-23 | [汇总下目前 opus 5.5 的3D评测](https://versun.me/blog/tweet-2102550362435760339) | Stefan 3D AI First Opus 5.5 vs GPT-6 Astra test is 3D. One prompt, Blender only, all procedural. Render the 10-second shot, and record your own build… |
 
 ## Vibe Coding
 
