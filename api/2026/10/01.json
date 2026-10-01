@@ -1,5 +1,54 @@
 [
   {
+    "title": "「地球村」：数字游民账号清单，开放、共建",
+    "url": "https://gugegt.com/diqiucun-nomad-account-list.html",
+    "date": "2026-10-01T14:25:00Z",
+    "description": "地球村：数字游民账号清单 名字叫「地球村」，意思很简单：不管人在哪，靠这一套东西就能把日子过下去。",
+    "source_root_domain": "gugegt.com"
+  },
+  {
+    "title": "微信公众号贴图｜微信贴图号",
+    "url": "https://dsx2016.com/wechat-official-account-stickers-wechat-sticker-account/",
+    "date": "2026-10-01T12:46:15Z",
+    "description": "贴图号 微信公众号和微信贴图号是两个不同的产品 微信公众号可以发布贴图 但是微信贴图号只能发布贴图 微信贴图号... 微信公众号贴图｜微信贴图号 最先出现在 大师兄2016 。",
+    "source_root_domain": "dsx2016.com"
+  },
+  {
+    "title": "preconnect 走 http3",
+    "url": "https://blog.est.im/2026/stdout-38",
+    "date": "2026-10-01T12:33:00Z",
+    "description": "想让 强制走 HTTP/3，能做到吗？ preconnect 是什么 浏览器看到这个标签，会立刻去做这几件事： 解析 example.com 域名 建立一个连接 完成 TLS 握手（如必要） 保持连接并等着，不发送任何请求正文 等真正要请求资源时，这个连接已经热好了。这就是 提前连接 preconnect HTTP/3 跑在 UDP 上（QUIC 协议），HTTP/1.1 和 HTTP/2 跑在 TCP 上。 HTML 层面没有任何办法声明\"这个 preconnect 要走 h3\"。 这个连接最终用什么协议，HTTP/1.1、HTTP/2、HTTP/3，浏览器有一系列决定流程 触发 h3 preconnect 的三个条件 网络层有两条实现路径（Chromium 正在迁移，两条并存） 条件 ①：浏览器缓存了这个站点的 Alt-Svc 服务端某次响应头带上： Alt-Svc: h3=\":443\"; ma=86400 浏览器把它记下来（存进 profile 磁盘缓存），之后所有对该站点的 preconnect 都会走 QUIC。 传统路径： httpstreamfactoryjobcontr",
+    "source_root_domain": "feedburner.com"
+  },
+  {
+    "title": "微信小程序审核通过｜支持虚拟支付",
+    "url": "https://dsx2016.com/wechat-mini-program-review-approved-to-support-virtual-payments/",
+    "date": "2026-10-01T12:00:13Z",
+    "description": "微信小程序审核通过 还是忍不住吐糟，感觉又是提交后几分钟就开始测试，然后测试完压6小时左右才发送审核结果 中午... 微信小程序审核通过｜支持虚拟支付 最先出现在 大师兄2016 。",
+    "source_root_domain": "dsx2016.com"
+  },
+  {
+    "title": "生活碎碎念：在夹缝里成长的人",
+    "url": "https://blog.mfwt.top/index.php/archives/1518/",
+    "date": "2026-10-01T11:39:03Z",
+    "description": "本文要讲的其实是一个很微妙的话题：笔者是生活在夹缝中的，但我不确定这是否是一种常态，或者换句话说，这是否是大多数人的真实经历。总之，这篇文章一来是探讨此话题，二来也是做个记录，把自己的过往经历记...",
+    "source_root_domain": "mfwt.top"
+  },
+  {
+    "title": "2026.10.1",
+    "url": "https://www.justzht.com/2026-10-1/",
+    "date": "2026-10-01T09:11:24Z",
+    "description": "升职了，没啥实感，可能等新的工资或者股票发下来了才有什么想法。老板说之后就按照新职级的 baseline 来评估绩效了",
+    "source_root_domain": "justzht.com"
+  },
+  {
+    "title": "如何在Docker中让容器流量走指定代理",
+    "url": "https://brain-zhang.github.io/blog/2026/10/01/ru-he-zai-dockerzhong-rang-rong-qi-liu-liang-zou-zhi-ding-dai-li/",
+    "date": "2026-10-01T08:27:34Z",
+    "description": "我在一台机器上运行了多个docker容器，希望为每一个容器的流量指定一个代理服务器； 不仅仅是http等等流量，而是所有流量，同时还要排除局域网流量； 解决方法： 为需要走代理的容器分配一个专属的 Docker Bridge 网络（例如固定子网 172.28.0.0/16）。 在宿主机上运行一个透明代理客户端，监听本地重定向端口（例如 127.0.0.1:7892），或者局域网架设专门的代理服务或者网关 使用宿主机的 iptables 规则，将所有来自该子网、目标为外部公网的 TCP 流量 REDIRECT 到代理服务器 这样的好处有很多: 不需要容器做任何更改 可以为不同的容器指定不同的代理 HOST的流量不受任何影响 1. 用脚本建立Docker Bridge网络: docker-gateway-net.sh up 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 ",
+    "source_root_domain": "brainz.fun"
+  },
+  {
     "title": "微信公众号一个号对应一个账号",
     "url": "https://dsx2016.com/each-wechat-official-account-corresponds-to-a-single-account/",
     "date": "2026-10-01T07:12:01Z",
@@ -40,6 +89,13 @@
     "date": "2026-10-01T04:25:44Z",
     "description": "Recently, while using RedNote (小红书) on my iPhone 11 (iO […]",
     "source_root_domain": "ensonyan.com"
+  },
+  {
+    "title": "2005，网页那一头",
+    "url": "https://www.tortorse.com/archives/2005-the-other-end-of-the-web/",
+    "date": "2026-10-01T04:13:02Z",
+    "description": "2005年超级女声南京唱区海选现场",
+    "source_root_domain": "tortorse.com"
   },
   {
     "title": "New Release: Total Annihilation",
@@ -117,6 +173,13 @@
     "date": "2026-10-01T01:00:15Z",
     "description": "深圳备案 在深圳备案微信小程序 需要居住证，如果居住证过期，备案就失效 目前居住证，据不完全了解，只在深圳需要... 微信小程序备案驳回 最先出现在 大师兄2016 。",
     "source_root_domain": "dsx2016.com"
+  },
+  {
+    "title": "国庆快乐：抽奖、优惠、调价，关于周刊的三件事",
+    "url": "https://pythoncat.top/posts/2026-10-01-national-day/",
+    "date": "2026-10-01T00:00:00Z",
+    "description": "每期都有\"百里挑一\"抽奖，10 月下旬 88 元限时优惠，活动后年费调整为 108 元",
+    "source_root_domain": "pythoncat.top"
   },
   {
     "title": "Gemini 4 Argon 这跑分，全",

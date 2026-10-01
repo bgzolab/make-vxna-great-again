@@ -27,12 +27,20 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-10-01 | [「地球村」：数字游民账号清单，开放、共建](https://gugegt.com/diqiucun-nomad-account-list.html) | 地球村：数字游民账号清单 名字叫「地球村」，意思很简单：不管人在哪，靠这一套东西就能把日子过下去。 |
+| 2026-10-01 | [微信公众号贴图｜微信贴图号](https://dsx2016.com/wechat-official-account-stickers-wechat-sticker-account/) | 贴图号 微信公众号和微信贴图号是两个不同的产品 微信公众号可以发布贴图 但是微信贴图号只能发布贴图 微信贴图号... 微信公众号贴图｜微信贴图号 最先出现在 大师兄2016 。 |
+| 2026-10-01 | [preconnect 走 http3](https://blog.est.im/2026/stdout-38) | 想让 强制走 HTTP/3，能做到吗？ preconnect 是什么 浏览器看到这个标签，会立刻去做这几件事： 解析 example.com 域名 建立一个连接 完成 TLS 握手（如必要） 保持连接并等着，不发送任何请求正文 等真正要请求资源时，这个连接已经热好了。这就是 提前连接 preconn… |
+| 2026-10-01 | [微信小程序审核通过｜支持虚拟支付](https://dsx2016.com/wechat-mini-program-review-approved-to-support-virtual-payments/) | 微信小程序审核通过 还是忍不住吐糟，感觉又是提交后几分钟就开始测试，然后测试完压6小时左右才发送审核结果 中午... 微信小程序审核通过｜支持虚拟支付 最先出现在 大师兄2016 。 |
+| 2026-10-01 | [生活碎碎念：在夹缝里成长的人](https://blog.mfwt.top/index.php/archives/1518/) | 本文要讲的其实是一个很微妙的话题：笔者是生活在夹缝中的，但我不确定这是否是一种常态，或者换句话说，这是否是大多数人的真实经历。总之，这篇文章一来是探讨此话题，二来也是做个记录，把自己的过往经历记... |
+| 2026-10-01 | [2026.10.1](https://www.justzht.com/2026-10-1/) | 升职了，没啥实感，可能等新的工资或者股票发下来了才有什么想法。老板说之后就按照新职级的 baseline 来评估绩效了 |
+| 2026-10-01 | [如何在Docker中让容器流量走指定代理](https://brain-zhang.github.io/blog/2026/10/01/ru-he-zai-dockerzhong-rang-rong-qi-liu-liang-zou-zhi-ding-dai-li/) | 我在一台机器上运行了多个docker容器，希望为每一个容器的流量指定一个代理服务器； 不仅仅是http等等流量，而是所有流量，同时还要排除局域网流量； 解决方法： 为需要走代理的容器分配一个专属的 Docker Bridge 网络（例如固定子网 172.28.0.0/16）。 在宿主机上运行一个透明… |
 | 2026-10-01 | [微信公众号一个号对应一个账号](https://dsx2016.com/each-wechat-official-account-corresponds-to-a-single-account/) | 唯一实名账户 有一段时间个人微信可以创建5个左右公众号 现在想继续创建，发现只有创建唯一一个 并且这个微信公众... 微信公众号一个号对应一个账号 最先出现在 大师兄2016 。 |
 | 2026-10-01 | [我好像陷入了no webview的原教旨主义](https://yuhang.ch/posts/thoughts/no-webview-originalism/) | 最近做了俩软件， pandanote 和 pandareader ，note是自己看到 evernote 做的，reader是看到 papr 做的，原因是他俩是webview，我想用，而我“不太喜欢”webview。 写这篇文章是在做reader的时候内心一直处在一种拧巴的状态，虽然自己做也挺方便的… |
 | 2026-10-01 | [微信小程序审核不通过](https://dsx2016.com/wechat-mini-program-rejected-during-review/) | 审核不通过 今天是国庆 理论上微信小程序审核会放缓，因为一大堆企业小程序肯定排队加急审核 个人小程序如果不是加... 微信小程序审核不通过 最先出现在 大师兄2016 。 |
 | 2026-10-01 | [lesson-3](https://physnya.top/compact-object/compact-object/zf1cp98z/) | 白矮星 第一颗人类认证的白矮星是天狼星的伴星：它有 25000 25000 25000 K，相对地，天狼星本身只有 9900 9900 9900 K. 因此我们能够推测这个伴星一定具有非常小的发光面积. |
 | 2026-10-01 | [为什么经济下行与 Web3 无关](https://smallyu.net/2026/10/01/%E4%B8%BA%E4%BB%80%E4%B9%88%E7%BB%8F%E6%B5%8E%E4%B8%8B%E8%A1%8C%E4%B8%8EWeb3%E6%97%A0%E5%85%B3/) | 我们要区分开三件事：1. 经济周期的牛熊交替；2. 全球性的经济衰退；3. |
 | 2026-10-01 | [The Intent Behind the Gesture: A Deep Dive into RedNote's "Double-Swipe" Exit](https://blog.ensonyan.com/it/3493.html) | Recently, while using RedNote (小红书) on my iPhone 11 (iO […] |
+| 2026-10-01 | [2005，网页那一头](https://www.tortorse.com/archives/2005-the-other-end-of-the-web/) | 2005年超级女声南京唱区海选现场 |
 | 2026-10-01 | [New Release: Total Annihilation](https://macsourceports.com/game/totalannihilation) | Total Annihilation is an RTS game with a cult following. Whereas other games in the genre focused on resource scarcity or micromanagement of units, it… |
 | 2026-10-01 | [New Release: Oni](https://macsourceports.com/game/oni) | The last game Bungie made before being absorbed by Microsoft and consumed with Halo, Oni is that game I barely remember but folks on my Discord desper… |
 | 2026-10-01 | [国庆七天，肯定有一大批人的行程是：床、饭桌、厕所。](https://gugegt.com/guoqing-bed-table-toilet.html) | 七天假期，行程只有三站。床、饭桌、厕所，循环往复。 放假前一周，我在手机备忘录里列了七天的安排：去海边、爬一次崂山、见两个朋友、把买了半年没翻的那本书看完。 十月一号早上十点半，我醒了。外面太阳挺好，被窝里温度刚好，窗户缝漏进来的风是凉的。翻个身，那份清单就当没写过。 |
@@ -44,6 +52,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-10-01 | [习惯与趋势](https://blog.oospace.com/posts/2026-10-01/) | 一个人的习惯，只能影响自己和身边的人，如果很多人都有这个习惯会怎样 |
 | 2026-10-01 | [第五年 II](https://mobius.blog/25813.html) | 继续昨天的“那把关于写作的刀”。 1200 &#124; 百日谈 当写到1200的时候，距离500日写作还剩下最后的10 […] |
 | 2026-10-01 | [微信小程序备案驳回](https://dsx2016.com/wechat-mini-program-filing-rejected/) | 深圳备案 在深圳备案微信小程序 需要居住证，如果居住证过期，备案就失效 目前居住证，据不完全了解，只在深圳需要... 微信小程序备案驳回 最先出现在 大师兄2016 。 |
+| 2026-10-01 | [国庆快乐：抽奖、优惠、调价，关于周刊的三件事](https://pythoncat.top/posts/2026-10-01-national-day/) | 每期都有"百里挑一"抽奖，10 月下旬 88 元限时优惠，活动后年费调整为 108 元 |
 | 2026-09-30 | [Gemini 4 Argon 这跑分，全](https://versun.me/blog/tweet-2105429720603185650) | Google AI Announcing Gemini 4 Argon, our new frontier model. Argon is built to sustain deep reasoning across complex, long-horizon workflows and deliv… |
 | 2026-09-30 | [解决 Codex 无法访问 rg.exe 的问题](https://www.liesauer.net/blog/post/1046.html) | 这个问题实际上牵扯到多个工具，不确定根源是否在于 Codex 的机制问题，但本文不做过多追溯。事实上，Codex 官方仓库堆积着好多个关于工具调用失败的 issue，但貌似和这个问题不太一样，就... |
 | 2026-09-30 | [道歉要趁早](https://blog.solazy.me/20260930/) | 从今天听到的一期播客中的一句话说起…… |
