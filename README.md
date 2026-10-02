@@ -27,6 +27,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-10-02 | [明天穿什么衣服？按体感温度分 5 档，照着穿就行](https://gugegt.com/tigan-wendu-chuanyi.html) | 明天 18℃，穿长袖还是加件外套？天气 App 只报数字，不接这句。 真正决定穿多少的是体感温度。同样是 18℃，晴天和阴雨天能差出一件外套。 |
 | 2026-10-02 | [西北三日游](https://atpx.com/blog/northwest-china-tour/) | 一次简单的兰州、西宁三日游。 |
 | 2026-10-02 | [让 AI 开飞机如何](https://www.hecaitou.com/2026/10/what-if-we-let-ai-fly-the-plane.html) | 仔细看过 迪拜航空 FZ1073 航班的相关新闻，我突然冒出一个想法：也许 AI 自动驾驶应该跳过汽车，直接接管飞机。 在整个新闻事件里，最不稳定的因素是人---副驾驶用利器反复捅机长，试图控制飞机撞地；恢复稳定的最重要因素也是人---机长拼尽全力打开驾驶舱大门，水管工乘客锁喉副驾驶，将飞机改出俯冲… |
 | 2026-10-02 | [入蜀记 day494 歌会、Low-E、安全场域](https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_494/) | 「歌会、Low-E、安全场域。」 |
@@ -70,6 +71,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-10-01 | [国庆快乐：抽奖、优惠、调价，关于周刊的三件事](https://pythoncat.top/posts/2026-10-01-national-day/) | 每期都有"百里挑一"抽奖，10 月下旬 88 元限时优惠，活动后年费调整为 108 元 |
 | 2026-09-30 | [Gemini 4 Argon 这跑分，全](https://versun.me/blog/tweet-2105429720603185650) | Google AI Announcing Gemini 4 Argon, our new frontier model. Argon is built to sustain deep reasoning across complex, long-horizon workflows and deliv… |
 | 2026-09-30 | [解决 Codex 无法访问 rg.exe 的问题](https://www.liesauer.net/blog/post/1046.html) | 这个问题实际上牵扯到多个工具，不确定根源是否在于 Codex 的机制问题，但本文不做过多追溯。事实上，Codex 官方仓库堆积着好多个关于工具调用失败的 issue，但貌似和这个问题不太一样，就... |
+| 2026-09-30 | [博客SEO优化](https://elmagnifico.tech/2026/10/01/SEO/) | Foreword 博客挂了这么多年，sitemap都没正经交给过Google。subtitle一直当关键词用，description基本没有。这次把Analytics和Search Console翻了一遍，能补的先补上，统计也增加了Cloudflare。 Search Console发现的问题 近三… |
 | 2026-09-30 | [Z姓氏](https://z.arlmy.me/posts/ZArlmyMe/Z_20260930/) | 「选姓。」 |
 | 2026-09-30 | [道歉要趁早](https://blog.solazy.me/20260930/) | 从今天听到的一期播客中的一句话说起…… |
 | 2026-09-30 | [Wake Me Up When September Ends](https://re.karlbaey.top/articles/wake-me-up-when-september-ends/) | 🤔 本文为电波系，一定与多数人的看法相左。 放个可爱的“🤔”在这，因为我还不知道自己想写点什么，这恐怕是我日渐单薄的注意 … |

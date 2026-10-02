@@ -1,5 +1,12 @@
 [
   {
+    "title": "明天穿什么衣服？按体感温度分 5 档，照着穿就行",
+    "url": "https://gugegt.com/tigan-wendu-chuanyi.html",
+    "date": "2026-10-02T18:05:00Z",
+    "description": "明天 18℃，穿长袖还是加件外套？天气 App 只报数字，不接这句。 真正决定穿多少的是体感温度。同样是 18℃，晴天和阴雨天能差出一件外套。",
+    "source_root_domain": "gugegt.com"
+  },
+  {
     "title": "西北三日游",
     "url": "https://atpx.com/blog/northwest-china-tour/",
     "date": "2026-10-02T08:36:40Z",
@@ -292,6 +299,13 @@
     "date": "2026-09-30T17:52:22Z",
     "description": "这个问题实际上牵扯到多个工具，不确定根源是否在于 Codex 的机制问题，但本文不做过多追溯。事实上，Codex 官方仓库堆积着好多个关于工具调用失败的 issue，但貌似和这个问题不太一样，就...",
     "source_root_domain": "liesauer.net"
+  },
+  {
+    "title": "博客SEO优化",
+    "url": "https://elmagnifico.tech/2026/10/01/SEO/",
+    "date": "2026-09-30T16:00:00Z",
+    "description": "Foreword 博客挂了这么多年，sitemap都没正经交给过Google。subtitle一直当关键词用，description基本没有。这次把Analytics和Search Console翻了一遍，能补的先补上，统计也增加了Cloudflare。 Search Console发现的问题 近三个月大概1720次点击，8.17万展示，CTR只有2.1%，平均排名15.6。谷歌收录了572篇，还有127篇没收录。 Search Console里交上去的sitemap居然是feed.xml，里面就11条最新文章。全站文章都靠Google自己爬。 流量这边，直达远多于搜索，搜索里Bing比Google还多一点。外链最多的是V2EX。 有几个词展示很多、基本没人点：Netch、CGTeamwork、CDN加速、凹包凸包、小米BE6500刷机。部分标题和搜索词对不上，不过我不打算改标题，增加一些description就行了 整改 sitemap和robots 加了 sitemap.xml ，Jekyll构建的时候自动生成。首页、普通页面、已经到日期的文章都会进去，404、offline不进，",
+    "source_root_domain": "elmagnifico.tech"
   },
   {
     "title": "Z姓氏",
