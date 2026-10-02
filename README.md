@@ -27,6 +27,16 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-10-02 | [西北三日游](https://atpx.com/blog/northwest-china-tour/) | 一次简单的兰州、西宁三日游。 |
+| 2026-10-02 | [让 AI 开飞机如何](https://www.hecaitou.com/2026/10/what-if-we-let-ai-fly-the-plane.html) | 仔细看过 迪拜航空 FZ1073 航班的相关新闻，我突然冒出一个想法：也许 AI 自动驾驶应该跳过汽车，直接接管飞机。 在整个新闻事件里，最不稳定的因素是人---副驾驶用利器反复捅机长，试图控制飞机撞地；恢复稳定的最重要因素也是人---机长拼尽全力打开驾驶舱大门，水管工乘客锁喉副驾驶，将飞机改出俯冲… |
+| 2026-10-02 | [入蜀记 day494 歌会、Low-E、安全场域](https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_494/) | 「歌会、Low-E、安全场域。」 |
+| 2026-10-02 | [入蜀记 day493 湖北广济佛手山药、ZS、热爱成都](https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_493/) | 「湖北广济佛手山药、ZS、热爱成都。」 |
+| 2026-10-02 | [入蜀记 day492 热体寒体、肉馕、扁担钩](https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_492/) | 「热体寒体、肉馕、扁担钩。」 |
+| 2026-10-02 | [入蜀记 day491 呼吸自由、地板超市、唯有适应](https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_491/) | 「呼吸自由、地板超市、唯有适应。」 |
+| 2026-10-02 | [入蜀记 day490 tip toe](https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_490/) | 「tip toe。」 |
+| 2026-10-02 | [入蜀记 day489 鸟与台风](https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_489/) | 「鸟与台风。」 |
+| 2026-10-02 | [微信公众号账号风险](https://dsx2016.com/wechat-official-account-risks/) | 公众号风险提示 公众号助手，账号检测，风险 提示有引导兼职，网赚等风险 才夸它不用折腾服务器，就来一招风险提示... 微信公众号账号风险 最先出现在 大师兄2016 。 |
+| 2026-10-02 | [ROG Ally 改装 jsaux 65Wh 电池套件](https://guchengf.me/blog/2026-10-02-rain/) | 最近重新开始高频地使用 ROG Ally，然后发现它的续航和散热是比较大的问题，即使只以12-15w的功率来运行，续航也明显有点弱。 经过一番搜索（结合AI推荐），找到了 jsaux 的电池升级套件 ，主要考虑了以下几个因素： 稳定性。 稳定性毫无疑问是最重要的，65Wh的方案似乎是社区验证最多的，… |
 | 2026-10-02 | [New Release: Insaniquarium](https://macsourceports.com/game/insaniquarium) | Insaniquarium is a game where you feed fish. And fight aliens. And feed fish to other fish. And avoid electrocution. By now you either think this game… |
 | 2026-10-02 | [第五年 III](https://mobius.blog/25820.html) | 现在在写的内容，其实是明天要定时发布的，明明都说了是在放假期间“开天窗”，但由于提前写完的东西早就没有库存了， […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-10-01 | [我的乡愁 II](https://www.geedea.pro/article/home-sick-ii/) | 请读者给我几段文本的时间平复心情，我方才忍受着飘散在房间里的烟味儿，下楼给我三个月前带回家的龟背竹换了水。想到刚回家看到它们的模样，我实在没办法平静下来。 因为没办法带上我养的龟背竹，所以放在家里，回家之后…… 它的叶子黄了，边缘已经要枯了，不知道家里人是用什么水养的它，水是褐黄色的，水已经要溢出水… |
@@ -60,6 +70,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-10-01 | [国庆快乐：抽奖、优惠、调价，关于周刊的三件事](https://pythoncat.top/posts/2026-10-01-national-day/) | 每期都有"百里挑一"抽奖，10 月下旬 88 元限时优惠，活动后年费调整为 108 元 |
 | 2026-09-30 | [Gemini 4 Argon 这跑分，全](https://versun.me/blog/tweet-2105429720603185650) | Google AI Announcing Gemini 4 Argon, our new frontier model. Argon is built to sustain deep reasoning across complex, long-horizon workflows and deliv… |
 | 2026-09-30 | [解决 Codex 无法访问 rg.exe 的问题](https://www.liesauer.net/blog/post/1046.html) | 这个问题实际上牵扯到多个工具，不确定根源是否在于 Codex 的机制问题，但本文不做过多追溯。事实上，Codex 官方仓库堆积着好多个关于工具调用失败的 issue，但貌似和这个问题不太一样，就... |
+| 2026-09-30 | [Z姓氏](https://z.arlmy.me/posts/ZArlmyMe/Z_20260930/) | 「选姓。」 |
 | 2026-09-30 | [道歉要趁早](https://blog.solazy.me/20260930/) | 从今天听到的一期播客中的一句话说起…… |
 | 2026-09-30 | [记录一下 OpenWRT 上网卡、页面白屏、图片加载不出来、连接超时的问题](https://www.ghostchu.com/6000/%e8%ae%b0%e5%bd%95%e4%b8%80%e4%b8%8b-openwrt-%e4%b8%8a%e7%bd%91%e5%8d%a1%e3%80%81%e9%a1%b5%e9%9d%a2%e7%99%bd%e5%b1%8f%e3%80%81%e5%9b%be%e7%89%87%e5%8a%a0%e8%bd%bd%e4%b8%8d%e5%87%ba%e6%9d%a5%e3%80%81/) | 最近因为 iKuai 的安全漏洞问题，一直在推进路由往 OpenWRT 切换，但自从切换到 OpenWRT 到 […] 记录一下 OpenWRT 上网卡、页面白屏、图片加载不出来、连接超时的问题 最先出现在 Ghost_chu's Blog 。 |
 | 2026-09-30 | [我捅了马蜂窝了。。。 前天基于礼貌回关了](https://versun.me/blog/tweet-2105239050689110247) | 我捅了马蜂窝了。。。 前天基于礼貌回关了几个币圈的人，然后最近一直都有币圈的人关注我😂根本停不下来。。。 |

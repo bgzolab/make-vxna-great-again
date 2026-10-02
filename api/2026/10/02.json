@@ -1,5 +1,75 @@
 [
   {
+    "title": "西北三日游",
+    "url": "https://atpx.com/blog/northwest-china-tour/",
+    "date": "2026-10-02T08:36:40Z",
+    "description": "一次简单的兰州、西宁三日游。",
+    "source_root_domain": "atpx.com"
+  },
+  {
+    "title": "让 AI 开飞机如何",
+    "url": "https://www.hecaitou.com/2026/10/what-if-we-let-ai-fly-the-plane.html",
+    "date": "2026-10-02T04:59:24Z",
+    "description": "仔细看过 迪拜航空 FZ1073 航班的相关新闻，我突然冒出一个想法：也许 AI 自动驾驶应该跳过汽车，直接接管飞机。 在整个新闻事件里，最不稳定的因素是人---副驾驶用利器反复捅机长，试图控制飞机撞地；恢复稳定的最重要因素也是人---机长拼尽全力打开驾驶舱大门，水管工乘客锁喉副驾驶，将飞机改出俯冲，备班飞行员进入驾驶舱操作飞机平安落地。 我是说，如果整件事里去掉人的因素呢？ 很多年前，我还在民航的时候就知道一件事：某些机场其实是可以让飞机全自动降落的，正常情况下无需飞行员手动操控。精密进近系统的精度很高，稳定性比人类手动操作强多了。在大雾等低能见度天气里，飞行员在这种机场可以把飞机的接地、拉平、滑跑交给 自动驾驶完成。 然而，这没有成为航空公司的日常。从成本、训练以及运行的角度考虑，大多数时候还是由飞行员控制。不过我就一直想：如果全程都是靠电脑来自动驾驶呢？如果尽量把人为干预降低到最低呢？整个行业会发生什么变化？ 在 迪拜航空 FZ1073 航班的空中惊魂过后，老问题又回到了我眼前：为什么不让 AI 自动驾驶飞机呢？飞行员只是作为辅助，必要时可以接管飞机控制权。或者 AI 作为辅助，",
+    "source_root_domain": "hecaitou.com"
+  },
+  {
+    "title": "入蜀记 day494 歌会、Low-E、安全场域",
+    "url": "https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_494/",
+    "date": "2026-10-02T04:29:27Z",
+    "description": "「歌会、Low-E、安全场域。」",
+    "source_root_domain": "arlmy.me"
+  },
+  {
+    "title": "入蜀记 day493 湖北广济佛手山药、ZS、热爱成都",
+    "url": "https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_493/",
+    "date": "2026-10-02T04:28:27Z",
+    "description": "「湖北广济佛手山药、ZS、热爱成都。」",
+    "source_root_domain": "arlmy.me"
+  },
+  {
+    "title": "入蜀记 day492 热体寒体、肉馕、扁担钩",
+    "url": "https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_492/",
+    "date": "2026-10-02T04:27:27Z",
+    "description": "「热体寒体、肉馕、扁担钩。」",
+    "source_root_domain": "arlmy.me"
+  },
+  {
+    "title": "入蜀记 day491 呼吸自由、地板超市、唯有适应",
+    "url": "https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_491/",
+    "date": "2026-10-02T04:26:27Z",
+    "description": "「呼吸自由、地板超市、唯有适应。」",
+    "source_root_domain": "arlmy.me"
+  },
+  {
+    "title": "入蜀记 day490 tip toe",
+    "url": "https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_490/",
+    "date": "2026-10-02T04:25:27Z",
+    "description": "「tip toe。」",
+    "source_root_domain": "arlmy.me"
+  },
+  {
+    "title": "入蜀记 day489 鸟与台风",
+    "url": "https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_489/",
+    "date": "2026-10-02T04:24:27Z",
+    "description": "「鸟与台风。」",
+    "source_root_domain": "arlmy.me"
+  },
+  {
+    "title": "微信公众号账号风险",
+    "url": "https://dsx2016.com/wechat-official-account-risks/",
+    "date": "2026-10-02T04:24:12Z",
+    "description": "公众号风险提示 公众号助手，账号检测，风险 提示有引导兼职，网赚等风险 才夸它不用折腾服务器，就来一招风险提示... 微信公众号账号风险 最先出现在 大师兄2016 。",
+    "source_root_domain": "dsx2016.com"
+  },
+  {
+    "title": "ROG Ally 改装 jsaux 65Wh 电池套件",
+    "url": "https://guchengf.me/blog/2026-10-02-rain/",
+    "date": "2026-10-02T03:38:05Z",
+    "description": "最近重新开始高频地使用 ROG Ally，然后发现它的续航和散热是比较大的问题，即使只以12-15w的功率来运行，续航也明显有点弱。 经过一番搜索（结合AI推荐），找到了 jsaux 的电池升级套件 ，主要考虑了以下几个因素： 稳定性。 稳定性毫无疑问是最重要的，65Wh的方案似乎是社区验证最多的，整体评价比较好。 对原部件破坏最少。这个方案只需要修剪电池仓的两个凸起。 成本可控。大容量电池的成本上升很明显。 改装过程实际很简单，jsaux提供了详细的 教程 ，按教程操作即可。其中有几个比较容易搞错的地方： 背板底部的中心螺丝是固定螺丝，只需松开。 套件提供了新的螺丝并且有示意图标记对应位置，但你仍然应该记录每颗螺丝对应的位置。 电池电缆连接器非常脆弱，务必注意操作力度。 修剪电池仓突出的支撑时要细心一些，确保平整。 感光胶条记得要贴到传感器上。 装上新背板之后记得先试下 m1 m2 按键是否正常。 整体上没有什么难度。续航和散热表现的优化也符合预期。但是让我产生思考的是另一件事。这个套件我花费了400元，现在windows掌机更新换代很快并且性能单价越来越低的情况下，对这样一个比较老",
+    "source_root_domain": "guchengf.me"
+  },
+  {
     "title": "New Release: Insaniquarium",
     "url": "https://macsourceports.com/game/insaniquarium",
     "date": "2026-10-02T03:37:33Z",
@@ -222,6 +292,13 @@
     "date": "2026-09-30T17:52:22Z",
     "description": "这个问题实际上牵扯到多个工具，不确定根源是否在于 Codex 的机制问题，但本文不做过多追溯。事实上，Codex 官方仓库堆积着好多个关于工具调用失败的 issue，但貌似和这个问题不太一样，就...",
     "source_root_domain": "liesauer.net"
+  },
+  {
+    "title": "Z姓氏",
+    "url": "https://z.arlmy.me/posts/ZArlmyMe/Z_20260930/",
+    "date": "2026-09-30T15:24:03Z",
+    "description": "「选姓。」",
+    "source_root_domain": "arlmy.me"
   },
   {
     "title": "道歉要趁早",
