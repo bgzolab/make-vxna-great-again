@@ -27,6 +27,8 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-10-02 | [New Release: Insaniquarium](https://macsourceports.com/game/insaniquarium) | Insaniquarium is a game where you feed fish. And fight aliens. And feed fish to other fish. And avoid electrocution. By now you either think this game… |
+| 2026-10-02 | [第五年 III](https://mobius.blog/25820.html) | 现在在写的内容，其实是明天要定时发布的，明明都说了是在放假期间“开天窗”，但由于提前写完的东西早就没有库存了， […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-10-01 | [我的乡愁 II](https://www.geedea.pro/article/home-sick-ii/) | 请读者给我几段文本的时间平复心情，我方才忍受着飘散在房间里的烟味儿，下楼给我三个月前带回家的龟背竹换了水。想到刚回家看到它们的模样，我实在没办法平静下来。 因为没办法带上我养的龟背竹，所以放在家里，回家之后…… 它的叶子黄了，边缘已经要枯了，不知道家里人是用什么水养的它，水是褐黄色的，水已经要溢出水… |
 | 2026-10-01 | [「地球村」：数字游民账号清单，开放、共建](https://gugegt.com/diqiucun-nomad-account-list.html) | 地球村：数字游民账号清单 名字叫「地球村」，意思很简单：不管人在哪，靠这一套东西就能把日子过下去。 |
 | 2026-10-01 | [微信公众号贴图｜微信贴图号](https://dsx2016.com/wechat-official-account-stickers-wechat-sticker-account/) | 贴图号 微信公众号和微信贴图号是两个不同的产品 微信公众号可以发布贴图 但是微信贴图号只能发布贴图 微信贴图号... 微信公众号贴图｜微信贴图号 最先出现在 大师兄2016 。 |
@@ -52,6 +54,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-10-01 | [Marathon 2: Durandal updated](https://macsourceports.com/game/marathon2) | The build of Aleph One for Marathon 2: Durandal for Marathon 2: Durandal has been updated to version release-20260930 of the project |
 | 2026-10-01 | [Marathon updated](https://macsourceports.com/game/marathon) | The build of Aleph One for Marathon for Marathon has been updated to version release-20260930 of the project |
 | 2026-10-01 | [习惯与趋势](https://blog.oospace.com/posts/2026-10-01/) | 一个人的习惯，只能影响自己和身边的人，如果很多人都有这个习惯会怎样 |
+| 2026-10-01 | [9月在 @tuttihq 提现了866元](https://versun.me/blog/tweet-2105484713720959213) | YC (Yucheng) 九月 @tuttihq 的数据，截到 9 月 30 日： ▸ 累计注册达人 14,269 个，九月新增 3,528。四月的时候总共才 159 ▸ 真正发了帖的 1,431 位，一共 61,601 条，分在 46 场活动里 ▸ 九月达人奖励 $81,480，1,545 个人拿… |
 | 2026-10-01 | [第五年 II](https://mobius.blog/25813.html) | 继续昨天的“那把关于写作的刀”。 1200 &#124; 百日谈 当写到1200的时候，距离500日写作还剩下最后的10 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-10-01 | [微信小程序备案驳回](https://dsx2016.com/wechat-mini-program-filing-rejected/) | 深圳备案 在深圳备案微信小程序 需要居住证，如果居住证过期，备案就失效 目前居住证，据不完全了解，只在深圳需要... 微信小程序备案驳回 最先出现在 大师兄2016 。 |
 | 2026-10-01 | [国庆快乐：抽奖、优惠、调价，关于周刊的三件事](https://pythoncat.top/posts/2026-10-01-national-day/) | 每期都有"百里挑一"抽奖，10 月下旬 88 元限时优惠，活动后年费调整为 108 元 |
@@ -171,30 +174,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-09-25 | [这是吹起 ai 网关的风吗，这2天已经看](https://versun.me/blog/tweet-2103279669412065313) | yetone One more thing https://usemagpie.ai/ 这是吹起 ai 网关的风吗，这2天已经看到3个大佬在做同样的东西了 |
 | 2026-09-25 | [opus 5.5 上下文在 256k 左](https://versun.me/blog/tweet-2103279251948707998) | opus 5.5 上下文在 256k 左右就会出现失忆，我已经遇到2次了，pi agent (max 1M) |
 | 2026-09-25 | [Raft 开源了！ 但以一种很有意思的方](https://versun.me/blog/tweet-2103274356134830482) | stdrc https://x.com/i/article/2103157543891853312 Raft 开源了！ 但以一种很有意思的方式开源，建议看看 |
-| 2026-09-24 | [一个值得关注的事： Cloudflare](https://versun.me/blog/tweet-2103266492137840882) | 一个值得关注的事： Cloudflare 的 Python Workers 正式 GA， 原生支持 FastAPI 与 Django，可玩性大大提升了 https://blog.cloudflare.com/python-workers-ga/ |
-| 2026-09-24 | [上学路](https://honmaple.me/posts/2026/09/my-way-to-school/) | 我没有上过幼儿园，我是四岁时上了一年的学前班，接着就开始上一年级。我的妈妈经常说本来老师是不准备接收我的，因为当时我还太小，初入学前班时甚至还不到四岁，可是我哭得太厉害，死活要去上学，最后没办法他们只能和当时的校长也就是我们学前班的老师求情，最终老师还是接收了我。 我是在村委会所在地上的一二年级，离… |
-| 2026-09-24 | [CLM-8B，比jev还要块还要准的模型](https://versun.me/blog/tweet-2103242309995569321) | Jacky Kwok Introducing Contrastive Language Model (CLM): an ultra-fast System One Model trained with a contrastive learning objective that connects st… |
-| 2026-09-24 | [博客三周年，依旧是一些记录](https://blog.mfwt.top/index.php/archives/1633/) | 9/24，明天就中秋了，也是博客正式开始运行的三周年日子，特此纪念。同时，基本上也是决定停止Google AdSense投放的日子。 |
-| 2026-09-24 | [博客时光机 2.0：在一台 Macintosh 里看见时间](https://liudon.com/posts/hugo-ipfs-time-machine-v2/) | 前言 9月21日，博客时光机 V1 版本上线。 当时满心欢喜，自己觉得还挺好玩。 但上线后，现实给我泼了一盆冷水。 虽然也在 V2EX 上发帖做了推广，上线到现在，一共才有68次浏览。 |
-| 2026-09-24 | [他说的不一定对](https://blog.solazy.me/202609/) | 今天浅谈个生活中的小事儿引发的思考 |
-| 2026-09-24 | [读《中国历代政治得失》](https://depp.wang/2026/china-dvnastic-political-systems/) | 我最开始是在一位同事那里了解到这本书的。 最开始也看了一点，感觉写得比较干，讲的都是制度、官职和税收，就没继续读下去。后来因为看了《万历十五年》，我又想到了这本书。那时我正想了解明代的历史，于是先看了明朝和清朝，之后又把前面的汉朝、唐朝、宋朝都看完了。 这本书还是有很多观点，是我以前从没有想到过的。… |
-| 2026-09-24 | [天展钓Tenkara和在Folkestone挖化石](https://anotherdayu.com/tenkara-folkestone/) | 天展钓 Tenkara 在英国试了试天展钓。 它原本是日本山地溪流里的一种钓法。没有线轮，也不需要复杂的饵和线组。 主体就是一根竿，一根线，一只毛钩。 Less is more，钓鱼这件事变得更依赖人本身。要观察鱼在哪里，看水从石头哪一边流过，哪里形成回水，哪里有树荫，哪里水深突然变化。固定长度的线… |
-| 2026-09-24 | [如何优雅地更新 MACOS 系统上的软件](http://yi.gs/post/duo_updater) | 上一次更新正好是一年前，所以更新一下。 既然是为了更新而更新，就来写写如何更新吧 ；） TL;DR：直接看 「更优雅地更新软件」 小节。 关于 macOS 上的软件安装 与 iOS 正常情况下只能通过 App Store 安装 APP 不同，macOS 有类似 Windows 的自由度来安装和使用第… |
-| 2026-09-24 | [高鲁棒性 API 设计之 Idempotency Key：并发请求与执行一致性](https://blog.yasking.org/a/idempotency-key-concurrency-control) | 高鲁棒性 API 设计系列 1 Idempotency Key 幂等键 2 并发请求与执行一致性 上一篇介绍幂等键留下一些问题，幂等键有了，如果两个请 … |
-| 2026-09-24 | [青甘行 序曲](https://hux.ink/posts/qinggan-trip-01/) | 「中秋」说每年带娃出去旅行一趟，今年继续执行。 今年选择的目的地是青海—甘肃大环线自驾游。她原本的计划是国庆期间去海南环岛游，问我要不要去当司机。我说与其去海南，不如再请三天假，与中秋节连休，组个超长假去新疆或走一趟青甘环线。 一拍即合，选定了青甘行。一个多月前，我提前报备请假获批，「中秋」同学便正… |
-| 2026-09-24 | [专业的网络延迟波动检测工具 irtt](https://blog.frytea.com/archives/32470) | irtt 专门测长期延迟稳定性和抖动，按固定间隔发包（如每 10ms 一个），统计 RTT、单向延迟、IPDV […] |
-| 2026-09-24 | [鹈鹕骑自行车的html页面生成测试202609（GPT-6 Astra，Gemini 3.8 flash，DeepSeek 4.1 flash）](https://blog.rustfisher.com/ai/pelican-bike-demo202609-gpt6astra-gemini3-8flash-deepseek4-1flash/) | 鹈鹕骑车测试，用同样的提示词，让不同的AI生成一只鹈鹕骑自行车的HTML页面。GPT-6 Astra，Gemini 3.8 flash，DeepSeek 4.1 flash |
-| 2026-09-24 | [一次内存引起的网络丢包问题排查](https://www.kawabangga.com/posts/7422) | 记录一下最近排查的一个问题：某台机器一上线就有丢包，同 Rack 同规格的其他机器都没有问题，由于负载都是一样 […] Continue reading... |
-| 2026-09-24 | [说个题外话，还有人在用 RSS 订阅资讯](https://versun.me/blog/tweet-2102996864631189645) | 说个题外话，还有人在用 RSS 订阅资讯吗？ 我在考虑要不要把 RSSBox 项目归档了。。。 https://rssbox.app https://github.com/versun/rssbox |
-| 2026-09-24 | [用AI【做出来】更容易时，怎么做才能赚钱呢？](https://wenfeixiang.com/2026/09/how-to-get-the-value-in-the-ai-era/) | 最近有个搞笑的梗图：随着 AI 能力的增强，开发者越来越多、用户却越来越少，当用户都不够用了、你还指望这些 A […] |
-| 2026-09-24 | [保持不好意思之心](https://www.hecaitou.com/2026/09/holding-onto-that-little-unease.html) | 以前写博客那会儿，文章里但凡加了广告，读者雪崩一般的抱怨就会汹涌而至：你变了！你堕落了！你不纯粹了！好像其中的某一个，就是约翰·列侬人生里听到的最后一句话，接下来就是轰鸣声了。可见大家当初关系之紧张。 现在则是完全反了过来，文章里但凡介绍什么吃的用的，写成一篇纯散文，读者雷鸣一般的怒吼就会扑面而来：… |
-| 2026-09-24 | [记录下 claude pro 额度 5小](https://versun.me/blog/tweet-2102971446951870844) | Versun 哎，我可真贱，为了 opus 5.5，还是上了 达里奥 的贼床 看看这次能持久几天🥲 记录下 claude pro 额度 5小时用了10%，周用了5%，花费 25M token 预计一周500M，一个月2000M token，也就是20亿token，还可以 |
-| 2026-09-24 | [噩耗，本站的微软 OneDrive E3 MSDN 存储被停止了，大量下载链接急需更新](https://www.cheshirex.com/11179.html) | 今早打开OneDrive 上传资源发现账号已经被停止了，文件还未被删除。 感觉天塌了，上面资源太多了，要一个一 […] |
-| 2026-09-24 | [Plants vs. Zombies updated](https://macsourceports.com/game/pvz) | The build of PvZ Portable for Plants vs. Zombies has been updated to version 0.2.4 of the project |
-| 2026-09-24 | [LXC 热载入设备文件](https://blog.frytea.com/archives/32467) | 下面以向运行中的 LXC 容器注入 `/dev/vhost-net` 为例讲解。 有两种思路:临时注入 […] |
-| 2026-09-24 | [哎，我可真贱，为了 opus 5.5，还](https://versun.me/blog/tweet-2102945482633056415) | 哎，我可真贱，为了 opus 5.5，还是上了 达里奥 的贼床 看看这次能持久几天🥲 |
-| 2026-09-24 | [回国终于安顿下来了，先热个身](https://koukyo.site/posts/startup-warmup-three-carrier-pivots/) | 安顿下来后想热热身，做了个找 YouTuber 邮箱的小工具。同一个后端换了三种壳，从 33 次点击 0 次使用，到有人把 100 次免费额度全部用完。 |
-| 2026-09-24 | [书店消费区](https://mobius.blog/25771.html) | 在书店逛了逛，最后不得不在书店的消费区买了杯茶，落座在几乎没人的昏暗角落。不是因为逛书店逛累了，而是因为书店里 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 
 ## Vibe Coding
 
