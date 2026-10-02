@@ -1,7 +1,7 @@
 ---
 title: Latest Fetch Status
-created: 2026-10-02T10:31:27Z
-modified: 2026-10-02T10:31:27Z
+created: 2026-10-02T17:35:16Z
+modified: 2026-10-02T17:35:16Z
 description: Latest source-level fetch result for the most recent execution.
 tags:
   - ai-notes
@@ -11,7 +11,7 @@ tags:
 
 # Latest Fetch Status
 
-Generated at: 2026-10-02T10:31:27Z
+Generated at: 2026-10-02T17:35:16Z
 
 Total sources: 485
 Successful: 358
@@ -467,7 +467,7 @@ Failed: 127
 | Success | [#542] V2EX › 逸成博客 | [https://blog.ensonyan.com/feed](https://blog.ensonyan.com/feed) | [Origin](https://www.v2ex.com/xna/s/542) | 10 | - |
 | Success | [#543] V2EX › Share Thoughts | [https://www.liwenkang.space/feed.xml](https://www.liwenkang.space/feed.xml) | [Origin](https://www.v2ex.com/xna/s/543) | 41 | - |
 | Success | [#545] V2EX › Diff | [https://diff.im/blog/index.xml](https://diff.im/blog/index.xml) | [Origin](https://www.v2ex.com/xna/s/545) | 312 | - |
-| Success | [#547] V2EX › Haku | [https://re.karlbaey.top/rss.xml](https://re.karlbaey.top/rss.xml) | [Origin](https://www.v2ex.com/xna/s/547) | 38 | - |
+| Success | [#547] V2EX › Haku | [https://re.karlbaey.top/rss.xml](https://re.karlbaey.top/rss.xml) | [Origin](https://www.v2ex.com/xna/s/547) | 39 | - |
 | Success | [#548] V2EX › koukyo | [https://koukyo.site/rss.xml](https://koukyo.site/rss.xml) | [Origin](https://www.v2ex.com/xna/s/548) | 9 | - |
 | Success | [#549] V2EX › Networkcat's Blog | [https://nc.gy/index.xml](https://nc.gy/index.xml) | [Origin](https://www.v2ex.com/xna/s/549) | 5 | - |
 | Success | [#54] V2EX › Ljohn's Blog | [https://www.ljohn.cn/atom.xml](https://www.ljohn.cn/atom.xml) | [Origin](https://www.v2ex.com/xna/s/54) | 20 | - |
@@ -488,7 +488,7 @@ Failed: 127
 | Success | [#76] V2EX › 喵叔没话说 | [https://blog.betacat.io/index.xml](https://blog.betacat.io/index.xml) | [Origin](https://www.v2ex.com/xna/s/76) | 20 | - |
 | Success | [#77] V2EX › bgm004 | [https://crosschannel.cc/atom.xml](https://crosschannel.cc/atom.xml) | [Origin](https://www.v2ex.com/xna/s/77) | 1 | - |
 | Success | [#78] V2EX › Amyangfei's Blog | [https://amyangfei.me/atom.xml](https://amyangfei.me/atom.xml) | [Origin](https://www.v2ex.com/xna/s/78) | 20 | - |
-| Success | [#80] V2EX › smallyu 的博客 | [https://smallyu.net/atom.xml](https://smallyu.net/atom.xml) | [Origin](https://www.v2ex.com/xna/s/80) | 110 | - |
+| Success | [#80] V2EX › smallyu 的博客 | [https://smallyu.net/atom.xml](https://smallyu.net/atom.xml) | [Origin](https://www.v2ex.com/xna/s/80) | 109 | - |
 | Success | [#82] V2EX › Shelken's Blog | [https://blog.ooooo.space/feed.xml](https://blog.ooooo.space/feed.xml) | [Origin](https://www.v2ex.com/xna/s/82) | 11 | - |
 | Success | [#85] V2EX › 青石坞 | [https://www.qs5.org/feed/](https://www.qs5.org/feed/) | [Origin](https://www.v2ex.com/xna/s/85) | 10 | - |
 | Success | [#87] V2EX › Du, Chengbin's Blog | [https://dcb9.github.io/index.xml](https://dcb9.github.io/index.xml) | [Origin](https://www.v2ex.com/xna/s/87) | 32 | - |

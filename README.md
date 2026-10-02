@@ -72,6 +72,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-09-30 | [解决 Codex 无法访问 rg.exe 的问题](https://www.liesauer.net/blog/post/1046.html) | 这个问题实际上牵扯到多个工具，不确定根源是否在于 Codex 的机制问题，但本文不做过多追溯。事实上，Codex 官方仓库堆积着好多个关于工具调用失败的 issue，但貌似和这个问题不太一样，就... |
 | 2026-09-30 | [Z姓氏](https://z.arlmy.me/posts/ZArlmyMe/Z_20260930/) | 「选姓。」 |
 | 2026-09-30 | [道歉要趁早](https://blog.solazy.me/20260930/) | 从今天听到的一期播客中的一句话说起…… |
+| 2026-09-30 | [Wake Me Up When September Ends](https://re.karlbaey.top/articles/wake-me-up-when-september-ends/) | 🤔 本文为电波系，一定与多数人的看法相左。 放个可爱的“🤔”在这，因为我还不知道自己想写点什么，这恐怕是我日渐单薄的注意 … |
 | 2026-09-30 | [记录一下 OpenWRT 上网卡、页面白屏、图片加载不出来、连接超时的问题](https://www.ghostchu.com/6000/%e8%ae%b0%e5%bd%95%e4%b8%80%e4%b8%8b-openwrt-%e4%b8%8a%e7%bd%91%e5%8d%a1%e3%80%81%e9%a1%b5%e9%9d%a2%e7%99%bd%e5%b1%8f%e3%80%81%e5%9b%be%e7%89%87%e5%8a%a0%e8%bd%bd%e4%b8%8d%e5%87%ba%e6%9d%a5%e3%80%81/) | 最近因为 iKuai 的安全漏洞问题，一直在推进路由往 OpenWRT 切换，但自从切换到 OpenWRT 到 […] 记录一下 OpenWRT 上网卡、页面白屏、图片加载不出来、连接超时的问题 最先出现在 Ghost_chu's Blog 。 |
 | 2026-09-30 | [我捅了马蜂窝了。。。 前天基于礼貌回关了](https://versun.me/blog/tweet-2105239050689110247) | 我捅了马蜂窝了。。。 前天基于礼貌回关了几个币圈的人，然后最近一直都有币圈的人关注我😂根本停不下来。。。 |
 | 2026-09-30 | [中秋修水 后记](https://yovey.me/mid-autumn-touring-afterword/) | 这篇算是后记，视频还在加工处理中。一大堆素材拍下来，不知道怎么淘选加工。 省内国道跑多了，山水田园的景色司空见 … Continue reading "中秋修水 后记" |
