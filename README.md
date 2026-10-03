@@ -27,11 +27,20 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-10-03 | [油管用什么设备和视频类型](https://dsx2016.com/what-equipment-and-video-types-are-used-for-youtube/) | 口播和vlog 无论任何视频平台，最基础的就是两种形式 一种是口播，一种是vlog 都可以出镜，锻炼镜头感，不... 油管用什么设备和视频类型 最先出现在 大师兄2016 。 |
+| 2026-10-03 | [道德和欲望](https://blog.oospace.com/posts/2026-10-03-c/) | 没有什么是一成不变的，唯一不变的是变化 |
+| 2026-10-03 | [拧巴的世界观](https://blog.oospace.com/posts/2026-10-03-b/) | 这个世界为什么是谁的拳头大听谁的 |
+| 2026-10-03 | [Coffee Break Clojure, Vol.5](https://www.geedea.pro/article/clj5/) | 在 第一篇 我们安装了 Leiningen，当时只是用它启动了 REPL 和 nREPL 服务器，现在我们要用它来干点重活儿了。顺带一提，Leiningen 的名字取自短篇故事《 莱宁根大战蚂蚁 》，故事情节…… 就是一个叫莱宁根的男人大战蚂蚁。 创建项目 在终端输入 lein new -h 命令查… |
+| 2026-10-03 | [上班与自律](https://blog.oospace.com/posts/2026-10-03-a/) | 有钱有闲容易自律，只要不上班，就能想办法一直不上班，上了班就很难跳出来 |
+| 2026-10-03 | [学习 Etcd 笔记：启动与基础命令](https://blog.yasking.org/a/learn-etcd) | 有了 AI，现在学习成本很低，有很多开源项目都很值得学习，先从 Etcd 始。 搭建 Etcd 测试环境 本机电脑有 Docker 环境就好办了，创建 ~/Portable … |
+| 2026-10-03 | [中秋与国庆](https://www.gtdstudy.com/posts/2026-10-3-open-your-eye/) | 朋友，这封信来晚了，本来应该中秋就写的，没想到国庆也已经过了 3 天了，才终于提笔写起来。祝你中秋，国庆快乐！ 想念爷爷奶奶 每到中秋，都非常想念爷爷奶奶。我永远记得，在老家住的 3 个月，是我一生中最快乐的日子。 爷爷写得一手好字，奶奶能烧一手好菜；爷爷说话慢条斯理，奶奶说话噼里啪啦；爷爷常坐在大… |
+| 2026-10-03 | [油管要不要露脸？](https://dsx2016.com/should-i-show-my-face-on-youtube/) | 先说结论 90%要露脸 其他美食，手工，部分amsr不需要露脸 现象分析 彩票店老板很少买大额彩票或者刮刮乐 ... 油管要不要露脸？ 最先出现在 大师兄2016 。 |
 | 2026-10-03 | [AI Infra：Supabase 收购 Turso](https://luweiqing.com/gossip/AI-Infra-Supabase-Turso.html) | Supabase 在 2026 年 10 月 2 日收购 Turso，同一天还宣布了由 GIC 领投、CapitalG 等跟投的 1.5 亿美元增长融资。公告把这笔交易定位成：给 agent 时... |
 | 2026-10-03 | [借你一用](https://www.hecaitou.com/2026/10/Borrowing-You.html) | 这两天才注意到，我很多年前的一篇文章被人们翻出来，以此作为证据，证明某人当初就不怎么样。但我自己很清楚，当年发出那篇文章之后，那篇文章在许多人嘴里是「恰恰证明了和菜头是个沙雕」。 文章还是那篇文章，发在网上之后辗转传播，我一个字都改不了。当初它是我沙雕的证据，如今它却成了我有远见的证据。那这篇文章究… |
 | 2026-10-03 | [消费者知识小课堂（一）为消费者免费提供餐具，是餐厅应当履行的义务](https://blog.yasking.org/a/consumer-knowledge-part-1) | 前些天在大众点评看到一家位于昌平评分颇高的北京铜火锅餐馆，餐桌上摆放着消毒后带包装的餐具。 几年前我不在意 … |
 | 2026-10-03 | [油管赛道和语言选择什么？](https://dsx2016.com/what-niche-and-language-should-i-choose-for-my-youtube-channel/) | 先说语言 最方便的是自己的母语，比如中文 受众相对广一点和单价高一点的是英文 其他的都是一些小众语言，适合自己... 油管赛道和语言选择什么？ 最先出现在 大师兄2016 。 |
 | 2026-10-03 | [第五年 IV](https://mobius.blog/25824.html) | 连续两天都在节假日来咖啡厅处理工作，我虽然不是个喜欢热闹的人，但这种场合又很适合用来作为灵感收集。不过在上一轮 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
+| 2026-10-02 | [把 NGA 读成一本杂志 —— 阅境 Readscape 油猴脚本分享](https://corvo.myseu.cn/2026/10/02/2026-10-02-%E6%8A%8ANGA%E8%AF%BB%E6%88%90%E4%B8%80%E6%9C%AC%E6%9D%82%E5%BF%97-%E9%98%85%E5%A2%83Readscape/) | 我做了一个叫 阅境 / Readscape 的油猴脚本，可以把 NGA 的板块列表和帖子重排成杂志式的沉浸阅读界面：卡片瀑布流列表、首楼图文笔记、逐页评论、字号配色个性化。不需要服务器，装个油猴扩展一键安装，Android 和 iPhone 的手机浏览器同样完美支持。本文主要演示各项功能的实际用法。 |
 | 2026-10-02 | [明天穿什么衣服？按体感温度分 5 档，照着穿就行](https://gugegt.com/tigan-wendu-chuanyi.html) | 明天 18℃，穿长袖还是加件外套？天气 App 只报数字，不接这句。 真正决定穿多少的是体感温度。同样是 18℃，晴天和阴雨天能差出一件外套。 |
 | 2026-10-02 | [挺赞同这篇文章的实测结果，不同的 har](https://versun.me/blog/tweet-2105976233565786341) | 挺赞同这篇文章的实测结果，不同的 harness 只影响账单，对结果的影响微乎其微。还有之前的 FrontierHarness 评测其实也是这个道理，只不过它的测试集只有30题，66%通过率和60%其实只差2题而已，这在统计学上几乎就是随机波动 总结下 1. 别迷信大厂官方 Harness 2. 极… |
 | 2026-10-02 | [西北三日游](https://atpx.com/blog/northwest-china-tour/) | 一次简单的兰州、西宁三日游。 |
@@ -50,6 +59,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-10-02 | [收到 @levelsio 发的会员邮件了](https://versun.me/blog/tweet-2105832202957447602) | 收到 @levelsio 发的会员邮件了，我都快忘了，一年也就一两封。 很喜欢他写的一篇感想：当一件事 AI 做得和人一样好时，这件事就不再特别了。 比如最近 Opus 5.5 席卷了营销视频。在以前，同样的效果需要大量剪辑、动态设计和预算，现在几乎 0 成本。 这意味着任何人都能做出同等质量的内容… |
 | 2026-10-02 | [我对 Gemini 4 的期待是，比3.](https://versun.me/blog/tweet-2105810440253260270) | 我对 Gemini 4 的期待是，比3.8 flash 好就行了，不期待它能横扫 claude 和 openai |
 | 2026-10-01 | [我的乡愁 II](https://www.geedea.pro/article/home-sick-ii/) | 请读者给我几段文本的时间平复心情，我方才忍受着飘散在房间里的烟味儿，下楼给我三个月前带回家的龟背竹换了水。想到刚回家看到它们的模样，我实在没办法平静下来。 因为没办法带上我养的龟背竹，所以放在家里，回家之后…… 它的叶子黄了，边缘已经要枯了，不知道家里人是用什么水养的它，水是褐黄色的，水已经要溢出水… |
+| 2026-10-01 | [久违的电影日](https://blog.solazy.me/20261001/) | 今天看了几部电影，索性就记录一下 |
 | 2026-10-01 | [「地球村」：数字游民账号清单，开放、共建](https://gugegt.com/diqiucun-nomad-account-list.html) | 地球村：数字游民账号清单 名字叫「地球村」，意思很简单：不管人在哪，靠这一套东西就能把日子过下去。 |
 | 2026-10-01 | [微信公众号贴图｜微信贴图号](https://dsx2016.com/wechat-official-account-stickers-wechat-sticker-account/) | 贴图号 微信公众号和微信贴图号是两个不同的产品 微信公众号可以发布贴图 但是微信贴图号只能发布贴图 微信贴图号... 微信公众号贴图｜微信贴图号 最先出现在 大师兄2016 。 |
 | 2026-10-01 | [preconnect 走 http3](https://blog.est.im/2026/stdout-38) | 想让 强制走 HTTP/3，能做到吗？ preconnect 是什么 浏览器看到这个标签，会立刻去做这几件事： 解析 example.com 域名 建立一个连接 完成 TLS 握手（如必要） 保持连接并等着，不发送任何请求正文 等真正要请求资源时，这个连接已经热好了。这就是 提前连接 preconn… |

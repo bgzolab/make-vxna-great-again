@@ -1,5 +1,61 @@
 [
   {
+    "title": "油管用什么设备和视频类型",
+    "url": "https://dsx2016.com/what-equipment-and-video-types-are-used-for-youtube/",
+    "date": "2026-10-03T12:04:28Z",
+    "description": "口播和vlog 无论任何视频平台，最基础的就是两种形式 一种是口播，一种是vlog 都可以出镜，锻炼镜头感，不... 油管用什么设备和视频类型 最先出现在 大师兄2016 。",
+    "source_root_domain": "dsx2016.com"
+  },
+  {
+    "title": "道德和欲望",
+    "url": "https://blog.oospace.com/posts/2026-10-03-c/",
+    "date": "2026-10-03T11:29:00Z",
+    "description": "没有什么是一成不变的，唯一不变的是变化",
+    "source_root_domain": "oospace.com"
+  },
+  {
+    "title": "拧巴的世界观",
+    "url": "https://blog.oospace.com/posts/2026-10-03-b/",
+    "date": "2026-10-03T11:00:00Z",
+    "description": "这个世界为什么是谁的拳头大听谁的",
+    "source_root_domain": "oospace.com"
+  },
+  {
+    "title": "Coffee Break Clojure, Vol.5",
+    "url": "https://www.geedea.pro/article/clj5/",
+    "date": "2026-10-03T10:50:02Z",
+    "description": "在 第一篇 我们安装了 Leiningen，当时只是用它启动了 REPL 和 nREPL 服务器，现在我们要用它来干点重活儿了。顺带一提，Leiningen 的名字取自短篇故事《 莱宁根大战蚂蚁 》，故事情节…… 就是一个叫莱宁根的男人大战蚂蚁。 创建项目 在终端输入 lein new -h 命令查看帮助，可以看到这些模板： Subtasks available: template A meta-template for 'lein new' templates. plugin A leiningen plugin project template. default A general project template for libraries. app An application project template. 模板只是提供了预先配置好的项目描述文件和项目结构，选哪个都不影响开发。简单来说，如果要写个 Clojure 库就用 default ，如果要写应用程序就用 app 。下文用 app 做示范。 创建一个名叫 antfighter 的应用。 lein new app an",
+    "source_root_domain": "geedea.pro"
+  },
+  {
+    "title": "上班与自律",
+    "url": "https://blog.oospace.com/posts/2026-10-03-a/",
+    "date": "2026-10-03T10:15:00Z",
+    "description": "有钱有闲容易自律，只要不上班，就能想办法一直不上班，上了班就很难跳出来",
+    "source_root_domain": "oospace.com"
+  },
+  {
+    "title": "学习 Etcd 笔记：启动与基础命令",
+    "url": "https://blog.yasking.org/a/learn-etcd",
+    "date": "2026-10-03T08:59:00Z",
+    "description": "有了 AI，现在学习成本很低，有很多开源项目都很值得学习，先从 Etcd 始。 搭建 Etcd 测试环境 本机电脑有 Docker 环境就好办了，创建 ~/Portable …",
+    "source_root_domain": "yasking.org"
+  },
+  {
+    "title": "中秋与国庆",
+    "url": "https://www.gtdstudy.com/posts/2026-10-3-open-your-eye/",
+    "date": "2026-10-03T08:51:48Z",
+    "description": "朋友，这封信来晚了，本来应该中秋就写的，没想到国庆也已经过了 3 天了，才终于提笔写起来。祝你中秋，国庆快乐！ 想念爷爷奶奶 每到中秋，都非常想念爷爷奶奶。我永远记得，在老家住的 3 个月，是我一生中最快乐的日子。 爷爷写得一手好字，奶奶能烧一手好菜；爷爷说话慢条斯理，奶奶说话噼里啪啦；爷爷常坐在大厅的一角，看着门外，奶奶总进进出出，屁股总没有坐下的时候。 我记得，正是贪玩的年纪，小朋友喊我出去玩，我放下笔就跑出去了，回来看到爷爷跟我说，你看你一急就把题目写错了。下一次小朋友喊我时，我再心急也把题目做完了，但是此时小朋友早就一溜烟跑没影了。 我记得，奶奶 …",
+    "source_root_domain": "gtdstudy.com"
+  },
+  {
+    "title": "油管要不要露脸？",
+    "url": "https://dsx2016.com/should-i-show-my-face-on-youtube/",
+    "date": "2026-10-03T07:42:08Z",
+    "description": "先说结论 90%要露脸 其他美食，手工，部分amsr不需要露脸 现象分析 彩票店老板很少买大额彩票或者刮刮乐 ... 油管要不要露脸？ 最先出现在 大师兄2016 。",
+    "source_root_domain": "dsx2016.com"
+  },
+  {
     "title": "AI Infra：Supabase 收购 Turso",
     "url": "https://luweiqing.com/gossip/AI-Infra-Supabase-Turso.html",
     "date": "2026-10-03T04:27:56Z",
@@ -33,6 +89,13 @@
     "date": "2026-10-03T01:30:00Z",
     "description": "连续两天都在节假日来咖啡厅处理工作，我虽然不是个喜欢热闹的人，但这种场合又很适合用来作为灵感收集。不过在上一轮 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。",
     "source_root_domain": "onojyun.com"
+  },
+  {
+    "title": "把 NGA 读成一本杂志 —— 阅境 Readscape 油猴脚本分享",
+    "url": "https://corvo.myseu.cn/2026/10/02/2026-10-02-%E6%8A%8ANGA%E8%AF%BB%E6%88%90%E4%B8%80%E6%9C%AC%E6%9D%82%E5%BF%97-%E9%98%85%E5%A2%83Readscape/",
+    "date": "2026-10-02T22:00:00Z",
+    "description": "我做了一个叫 阅境 / Readscape 的油猴脚本，可以把 NGA 的板块列表和帖子重排成杂志式的沉浸阅读界面：卡片瀑布流列表、首楼图文笔记、逐页评论、字号配色个性化。不需要服务器，装个油猴扩展一键安装，Android 和 iPhone 的手机浏览器同样完美支持。本文主要演示各项功能的实际用法。",
+    "source_root_domain": "myseu.cn"
   },
   {
     "title": "明天穿什么衣服？按体感温度分 5 档，照着穿就行",
@@ -159,6 +222,13 @@
     "date": "2026-10-01T17:27:29Z",
     "description": "请读者给我几段文本的时间平复心情，我方才忍受着飘散在房间里的烟味儿，下楼给我三个月前带回家的龟背竹换了水。想到刚回家看到它们的模样，我实在没办法平静下来。 因为没办法带上我养的龟背竹，所以放在家里，回家之后…… 它的叶子黄了，边缘已经要枯了，不知道家里人是用什么水养的它，水是褐黄色的，水已经要溢出水瓶了，我明明已经交代过不能超过根部…… 另一盆也半死不活了，因为之前它长得太好了，我给他换了大点的玻璃瓶，想着他能再抽一根叶，那个瓶子被打碎了，被放进了一个塑料桶里，叶子也黄了。你们他妈的对它们做了什么！ —— 我的联邦宇宙账号 清洗它们根部的时候，我感觉自己在看一个受了虐待的孩子。那些根部已经变色变形了，不再是之前漂亮整洁的白色，每次冲洗都会有好多碎屑跟着水流下来。清洗得我觉得能接受了，就给它们倒上了矿泉水。本想放在窗边，但担心被毫不在乎的家人再次打翻，最后还是放回了原位，在那胡乱堆放着食品、香烟和垃圾的茶几上为它腾了一个位子。 读者可能不能理解我为什么对两株植物这么上心。它们是我搬出乌烟瘴气的学生宿舍之后，在出租屋里养得最好的活物。我一直觉得人照料的生命会反映出照料者的生命状态，植物也是",
     "source_root_domain": "geedea.pro"
+  },
+  {
+    "title": "久违的电影日",
+    "url": "https://blog.solazy.me/20261001/",
+    "date": "2026-10-01T15:30:00Z",
+    "description": "今天看了几部电影，索性就记录一下",
+    "source_root_domain": "solazy.me"
   },
   {
     "title": "「地球村」：数字游民账号清单，开放、共建",
