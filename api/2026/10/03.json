@@ -1,0 +1,303 @@
+[
+  {
+    "title": "明天穿什么衣服？按体感温度分 5 档，照着穿就行",
+    "url": "https://gugegt.com/tigan-wendu-chuanyi.html",
+    "date": "2026-10-02T18:05:00Z",
+    "description": "明天 18℃，穿长袖还是加件外套？天气 App 只报数字，不接这句。 真正决定穿多少的是体感温度。同样是 18℃，晴天和阴雨天能差出一件外套。",
+    "source_root_domain": "gugegt.com"
+  },
+  {
+    "title": "挺赞同这篇文章的实测结果，不同的 har",
+    "url": "https://versun.me/blog/tweet-2105976233565786341",
+    "date": "2026-10-02T11:00:35Z",
+    "description": "挺赞同这篇文章的实测结果，不同的 harness 只影响账单，对结果的影响微乎其微。还有之前的 FrontierHarness 评测其实也是这个道理，只不过它的测试集只有30题，66%通过率和60%其实只差2题而已，这在统计学上几乎就是随机波动 总结下 1. 别迷信大厂官方 Harness 2. 极简 Harness 足够抗打：Pi 无论在哪个评测里，都是性价比和通过率最均衡的选择 3. 决定解题上限的是底模，Harness 主要是决定你的钱包怎么瘪下去 https://arena.ai/blog/coding-agents-harness-tax",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "西北三日游",
+    "url": "https://atpx.com/blog/northwest-china-tour/",
+    "date": "2026-10-02T08:36:40Z",
+    "description": "一次简单的兰州、西宁三日游。",
+    "source_root_domain": "atpx.com"
+  },
+  {
+    "title": "让 AI 开飞机如何",
+    "url": "https://www.hecaitou.com/2026/10/what-if-we-let-ai-fly-the-plane.html",
+    "date": "2026-10-02T04:59:24Z",
+    "description": "仔细看过 迪拜航空 FZ1073 航班的相关新闻，我突然冒出一个想法：也许 AI 自动驾驶应该跳过汽车，直接接管飞机。 在整个新闻事件里，最不稳定的因素是人---副驾驶用利器反复捅机长，试图控制飞机撞地；恢复稳定的最重要因素也是人---机长拼尽全力打开驾驶舱大门，水管工乘客锁喉副驾驶，将飞机改出俯冲，备班飞行员进入驾驶舱操作飞机平安落地。 我是说，如果整件事里去掉人的因素呢？ 很多年前，我还在民航的时候就知道一件事：某些机场其实是可以让飞机全自动降落的，正常情况下无需飞行员手动操控。精密进近系统的精度很高，稳定性比人类手动操作强多了。在大雾等低能见度天气里，飞行员在这种机场可以把飞机的接地、拉平、滑跑交给 自动驾驶完成。 然而，这没有成为航空公司的日常。从成本、训练以及运行的角度考虑，大多数时候还是由飞行员控制。不过我就一直想：如果全程都是靠电脑来自动驾驶呢？如果尽量把人为干预降低到最低呢？整个行业会发生什么变化？ 在 迪拜航空 FZ1073 航班的空中惊魂过后，老问题又回到了我眼前：为什么不让 AI 自动驾驶飞机呢？飞行员只是作为辅助，必要时可以接管飞机控制权。或者 AI 作为辅助，",
+    "source_root_domain": "hecaitou.com"
+  },
+  {
+    "title": "入蜀记 day494 歌会、Low-E、安全场域",
+    "url": "https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_494/",
+    "date": "2026-10-02T04:29:27Z",
+    "description": "「歌会、Low-E、安全场域。」",
+    "source_root_domain": "arlmy.me"
+  },
+  {
+    "title": "入蜀记 day493 湖北广济佛手山药、ZS、热爱成都",
+    "url": "https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_493/",
+    "date": "2026-10-02T04:28:27Z",
+    "description": "「湖北广济佛手山药、ZS、热爱成都。」",
+    "source_root_domain": "arlmy.me"
+  },
+  {
+    "title": "现在做开发者的生意越来越难做了，开发者完",
+    "url": "https://versun.me/blog/tweet-2105877352182063491",
+    "date": "2026-10-02T04:27:40Z",
+    "description": "现在做开发者的生意越来越难做了，开发者完全可以根据自己的需求 vibe coding 一个 比如 @levelsio 上个月就自己 vibe coding 替换掉了大量 SaaS 服务，每月省下约 2.5 万美元。 具体替换了下面这些服务： - 天气 API -> 换成了自己写的抓取挪威气象局 API 的微服务 - 图片缩放 API -> 自己用 Node.js 的 Sharp + Redis 搓的缩放服务（省下约 $1,500/月） - Google Vision 黄暴图检测 -> 自己用 Python NudeNET 跑的 $0/月检测服务（省下约 $2,500/月） - Cloudflare 流媒体 -> 跑在 VPS 上的 Nginx 串流，每月 $0（省下约 $250/月） - API Flash（生成社交分享卡片截图） -> 自己写的截图服务，每月 $0（省下约 $250/月） - New Relic + IPHub -> 自己写的错误监控、DDoS 拦截与集群管理服务（叫 error2telegram），每月 $0（省下约 $250/月） - 人工审核团队 -> 用 @x",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "入蜀记 day492 热体寒体、肉馕、扁担钩",
+    "url": "https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_492/",
+    "date": "2026-10-02T04:27:27Z",
+    "description": "「热体寒体、肉馕、扁担钩。」",
+    "source_root_domain": "arlmy.me"
+  },
+  {
+    "title": "入蜀记 day491 呼吸自由、地板超市、唯有适应",
+    "url": "https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_491/",
+    "date": "2026-10-02T04:26:27Z",
+    "description": "「呼吸自由、地板超市、唯有适应。」",
+    "source_root_domain": "arlmy.me"
+  },
+  {
+    "title": "入蜀记 day490 tip toe",
+    "url": "https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_490/",
+    "date": "2026-10-02T04:25:27Z",
+    "description": "「tip toe。」",
+    "source_root_domain": "arlmy.me"
+  },
+  {
+    "title": "入蜀记 day489 鸟与台风",
+    "url": "https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_489/",
+    "date": "2026-10-02T04:24:27Z",
+    "description": "「鸟与台风。」",
+    "source_root_domain": "arlmy.me"
+  },
+  {
+    "title": "微信公众号账号风险",
+    "url": "https://dsx2016.com/wechat-official-account-risks/",
+    "date": "2026-10-02T04:24:12Z",
+    "description": "公众号风险提示 公众号助手，账号检测，风险 提示有引导兼职，网赚等风险 才夸它不用折腾服务器，就来一招风险提示... 微信公众号账号风险 最先出现在 大师兄2016 。",
+    "source_root_domain": "dsx2016.com"
+  },
+  {
+    "title": "New Release: Insaniquarium",
+    "url": "https://macsourceports.com/game/insaniquarium",
+    "date": "2026-10-02T03:37:33Z",
+    "description": "Insaniquarium is a game where you feed fish. And fight aliens. And feed fish to other fish. And avoid electrocution. By now you either think this game is pointless or endlessly addictive.…",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "第五年 III",
+    "url": "https://mobius.blog/25820.html",
+    "date": "2026-10-02T01:30:00Z",
+    "description": "现在在写的内容，其实是明天要定时发布的，明明都说了是在放假期间“开天窗”，但由于提前写完的东西早就没有库存了， […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。",
+    "source_root_domain": "onojyun.com"
+  },
+  {
+    "title": "收到 @levelsio 发的会员邮件了",
+    "url": "https://versun.me/blog/tweet-2105832202957447602",
+    "date": "2026-10-02T01:28:16Z",
+    "description": "收到 @levelsio 发的会员邮件了，我都快忘了，一年也就一两封。 很喜欢他写的一篇感想：当一件事 AI 做得和人一样好时，这件事就不再特别了。 比如最近 Opus 5.5 席卷了营销视频。在以前，同样的效果需要大量剪辑、动态设计和预算，现在几乎 0 成本。 这意味着任何人都能做出同等质量的内容，结果就是迅速审美疲劳。 想要重新获得吸引力也很简单：你必须再次与众不同，而这，才是 AI 无法代替的。 https://levels.io/ai-commoditizes-media-until-not-special",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "我对 Gemini 4 的期待是，比3.",
+    "url": "https://versun.me/blog/tweet-2105810440253260270",
+    "date": "2026-10-02T00:01:47Z",
+    "description": "我对 Gemini 4 的期待是，比3.8 flash 好就行了，不期待它能横扫 claude 和 openai",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "我的乡愁 II",
+    "url": "https://www.geedea.pro/article/home-sick-ii/",
+    "date": "2026-10-01T17:27:29Z",
+    "description": "请读者给我几段文本的时间平复心情，我方才忍受着飘散在房间里的烟味儿，下楼给我三个月前带回家的龟背竹换了水。想到刚回家看到它们的模样，我实在没办法平静下来。 因为没办法带上我养的龟背竹，所以放在家里，回家之后…… 它的叶子黄了，边缘已经要枯了，不知道家里人是用什么水养的它，水是褐黄色的，水已经要溢出水瓶了，我明明已经交代过不能超过根部…… 另一盆也半死不活了，因为之前它长得太好了，我给他换了大点的玻璃瓶，想着他能再抽一根叶，那个瓶子被打碎了，被放进了一个塑料桶里，叶子也黄了。你们他妈的对它们做了什么！ —— 我的联邦宇宙账号 清洗它们根部的时候，我感觉自己在看一个受了虐待的孩子。那些根部已经变色变形了，不再是之前漂亮整洁的白色，每次冲洗都会有好多碎屑跟着水流下来。清洗得我觉得能接受了，就给它们倒上了矿泉水。本想放在窗边，但担心被毫不在乎的家人再次打翻，最后还是放回了原位，在那胡乱堆放着食品、香烟和垃圾的茶几上为它腾了一个位子。 读者可能不能理解我为什么对两株植物这么上心。它们是我搬出乌烟瘴气的学生宿舍之后，在出租屋里养得最好的活物。我一直觉得人照料的生命会反映出照料者的生命状态，植物也是",
+    "source_root_domain": "geedea.pro"
+  },
+  {
+    "title": "「地球村」：数字游民账号清单，开放、共建",
+    "url": "https://gugegt.com/diqiucun-nomad-account-list.html",
+    "date": "2026-10-01T14:25:00Z",
+    "description": "地球村：数字游民账号清单 名字叫「地球村」，意思很简单：不管人在哪，靠这一套东西就能把日子过下去。",
+    "source_root_domain": "gugegt.com"
+  },
+  {
+    "title": "微信公众号贴图｜微信贴图号",
+    "url": "https://dsx2016.com/wechat-official-account-stickers-wechat-sticker-account/",
+    "date": "2026-10-01T12:46:15Z",
+    "description": "贴图号 微信公众号和微信贴图号是两个不同的产品 微信公众号可以发布贴图 但是微信贴图号只能发布贴图 微信贴图号... 微信公众号贴图｜微信贴图号 最先出现在 大师兄2016 。",
+    "source_root_domain": "dsx2016.com"
+  },
+  {
+    "title": "preconnect 走 http3",
+    "url": "https://blog.est.im/2026/stdout-38",
+    "date": "2026-10-01T12:33:00Z",
+    "description": "想让 强制走 HTTP/3，能做到吗？ preconnect 是什么 浏览器看到这个标签，会立刻去做这几件事： 解析 example.com 域名 建立一个连接 完成 TLS 握手（如必要） 保持连接并等着，不发送任何请求正文 等真正要请求资源时，这个连接已经热好了。这就是 提前连接 preconnect HTTP/3 跑在 UDP 上（QUIC 协议），HTTP/1.1 和 HTTP/2 跑在 TCP 上。 HTML 层面没有任何办法声明\"这个 preconnect 要走 h3\"。 这个连接最终用什么协议，HTTP/1.1、HTTP/2、HTTP/3，浏览器有一系列决定流程 触发 h3 preconnect 的三个条件 网络层有两条实现路径（Chromium 正在迁移，两条并存） 条件 ①：浏览器缓存了这个站点的 Alt-Svc 服务端某次响应头带上： Alt-Svc: h3=\":443\"; ma=86400 浏览器把它记下来（存进 profile 磁盘缓存），之后所有对该站点的 preconnect 都会走 QUIC。 传统路径： httpstreamfactoryjobcontr",
+    "source_root_domain": "feedburner.com"
+  },
+  {
+    "title": "微信小程序审核通过｜支持虚拟支付",
+    "url": "https://dsx2016.com/wechat-mini-program-review-approved-to-support-virtual-payments/",
+    "date": "2026-10-01T12:00:13Z",
+    "description": "微信小程序审核通过 还是忍不住吐糟，感觉又是提交后几分钟就开始测试，然后测试完压6小时左右才发送审核结果 中午... 微信小程序审核通过｜支持虚拟支付 最先出现在 大师兄2016 。",
+    "source_root_domain": "dsx2016.com"
+  },
+  {
+    "title": "生活碎碎念：在夹缝里成长的人",
+    "url": "https://blog.mfwt.top/index.php/archives/1518/",
+    "date": "2026-10-01T11:39:00Z",
+    "description": "本文要讲的其实是一个很微妙的话题：笔者是生活在夹缝中的，但我不确定这是否是一种常态，或者换句话说，这是否是大多数人的真实经历。总之，这篇文章一来是探讨此话题，二来也是做个记录，把自己的过往经历记...",
+    "source_root_domain": "mfwt.top"
+  },
+  {
+    "title": "2026.10.1",
+    "url": "https://www.justzht.com/2026-10-1/",
+    "date": "2026-10-01T09:11:24Z",
+    "description": "升职了，没啥实感，可能等新的工资或者股票发下来了才有什么想法。老板说之后就按照新职级的 baseline 来评估绩效了",
+    "source_root_domain": "justzht.com"
+  },
+  {
+    "title": "如何在Docker中让容器流量走指定代理",
+    "url": "https://brain-zhang.github.io/blog/2026/10/01/ru-he-zai-dockerzhong-rang-rong-qi-liu-liang-zou-zhi-ding-dai-li/",
+    "date": "2026-10-01T08:27:34Z",
+    "description": "我在一台机器上运行了多个docker容器，希望为每一个容器的流量指定一个代理服务器； 不仅仅是http等等流量，而是所有流量，同时还要排除局域网流量； 解决方法： 为需要走代理的容器分配一个专属的 Docker Bridge 网络（例如固定子网 172.28.0.0/16）。 在宿主机上运行一个透明代理客户端，监听本地重定向端口（例如 127.0.0.1:7892），或者局域网架设专门的代理服务或者网关 使用宿主机的 iptables 规则，将所有来自该子网、目标为外部公网的 TCP 流量 REDIRECT 到代理服务器 这样的好处有很多: 不需要容器做任何更改 可以为不同的容器指定不同的代理 HOST的流量不受任何影响 1. 用脚本建立Docker Bridge网络: docker-gateway-net.sh up 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 ",
+    "source_root_domain": "brainz.fun"
+  },
+  {
+    "title": "微信公众号一个号对应一个账号",
+    "url": "https://dsx2016.com/each-wechat-official-account-corresponds-to-a-single-account/",
+    "date": "2026-10-01T07:12:01Z",
+    "description": "唯一实名账户 有一段时间个人微信可以创建5个左右公众号 现在想继续创建，发现只有创建唯一一个 并且这个微信公众... 微信公众号一个号对应一个账号 最先出现在 大师兄2016 。",
+    "source_root_domain": "dsx2016.com"
+  },
+  {
+    "title": "我好像陷入了no webview的原教旨主义",
+    "url": "https://yuhang.ch/posts/thoughts/no-webview-originalism/",
+    "date": "2026-10-01T06:19:54Z",
+    "description": "最近做了俩软件， pandanote 和 pandareader ，note是自己看到 evernote 做的，reader是看到 papr 做的，原因是他俩是webview，我想用，而我“不太喜欢”webview。 写这篇文章是在做reader的时候内心一直处在一种拧巴的状态，虽然自己做也挺方便的，但看着界面和ai聊天也是种消耗。想通过写篇东西顺道梳理一下自己。我在构思pandareader的app story的时候，就明确了这个软件就是我自己用的： Choosing a reader started taking as much time as making one. So I made Panda Reader. I can change it whenever I like. That’s the whole advantage. It won’t suit everyone. Use it, change it, fork it. That’s why it’s open source. 现在挑选一个产品和自己手写一个的时间成本差不多 这个产品没有更多的title，唯一的优点",
+    "source_root_domain": "yuhang.ch"
+  },
+  {
+    "title": "微信小程序审核不通过",
+    "url": "https://dsx2016.com/wechat-mini-program-rejected-during-review/",
+    "date": "2026-10-01T05:35:16Z",
+    "description": "审核不通过 今天是国庆 理论上微信小程序审核会放缓，因为一大堆企业小程序肯定排队加急审核 个人小程序如果不是加... 微信小程序审核不通过 最先出现在 大师兄2016 。",
+    "source_root_domain": "dsx2016.com"
+  },
+  {
+    "title": "白矮星",
+    "url": "https://physnya.top/compact-object/lesson-3-white-dwarf/",
+    "date": "2026-10-01T04:43:10Z",
+    "description": "第一颗人类认证的白矮星是天狼星的伴星：它有 25000 25000 25000 K，相对地，天狼星本身只有 9900 9900 9900 K. 因此我们能够推测这个伴星一定具有非常小的发光面积.",
+    "source_root_domain": "physnya.top"
+  },
+  {
+    "title": "The Intent Behind the Gesture: A Deep Dive into RedNote's \"Double-Swipe\" Exit",
+    "url": "https://blog.ensonyan.com/it/3493.html",
+    "date": "2026-10-01T04:25:44Z",
+    "description": "Recently, while using RedNote (小红书) on my iPhone 11 (iO […]",
+    "source_root_domain": "ensonyan.com"
+  },
+  {
+    "title": "2005，网页那一头",
+    "url": "https://www.tortorse.com/archives/2005-the-other-end-of-the-web/",
+    "date": "2026-10-01T04:13:02Z",
+    "description": "2005年超级女声南京唱区海选现场",
+    "source_root_domain": "tortorse.com"
+  },
+  {
+    "title": "New Release: Total Annihilation",
+    "url": "https://macsourceports.com/game/totalannihilation",
+    "date": "2026-10-01T03:40:49Z",
+    "description": "Total Annihilation is an RTS game with a cult following. Whereas other games in the genre focused on resource scarcity or micromanagement of units, it focused on resource streaming and…",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "New Release: Oni",
+    "url": "https://macsourceports.com/game/oni",
+    "date": "2026-10-01T03:40:48Z",
+    "description": "The last game Bungie made before being absorbed by Microsoft and consumed with Halo, Oni is that game I barely remember but folks on my Discord desperately love. It's also never been…",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "国庆七天，肯定有一大批人的行程是：床、饭桌、厕所。",
+    "url": "https://gugegt.com/guoqing-bed-table-toilet.html",
+    "date": "2026-10-01T03:40:00Z",
+    "description": "七天假期，行程只有三站。床、饭桌、厕所，循环往复。 放假前一周，我在手机备忘录里列了七天的安排：去海边、爬一次崂山、见两个朋友、把买了半年没翻的那本书看完。 十月一号早上十点半，我醒了。外面太阳挺好，被窝里温度刚好，窗户缝漏进来的风是凉的。翻个身，那份清单就当没写过。",
+    "source_root_domain": "gugegt.com"
+  },
+  {
+    "title": "Quetoo updated",
+    "url": "https://macsourceports.com/game/quetoo",
+    "date": "2026-10-01T03:38:40Z",
+    "description": "The build of Quetoo has been updated to version v1.0.118 of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "Ken's Labyrinth updated",
+    "url": "https://macsourceports.com/game/kenslabyrinth",
+    "date": "2026-10-01T03:38:14Z",
+    "description": "The build of LAB3D/SDL for Ken's Labyrinth has been updated to version 4.4.0 of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "Marathon Infinity updated",
+    "url": "https://macsourceports.com/game/marathoninfinity",
+    "date": "2026-10-01T03:37:49Z",
+    "description": "The build of Aleph One for Marathon Infinity for Marathon Infinity has been updated to version release-20260930 of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "Marathon 2: Durandal updated",
+    "url": "https://macsourceports.com/game/marathon2",
+    "date": "2026-10-01T03:37:24Z",
+    "description": "The build of Aleph One for Marathon 2: Durandal for Marathon 2: Durandal has been updated to version release-20260930 of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "Marathon updated",
+    "url": "https://macsourceports.com/game/marathon",
+    "date": "2026-10-01T03:36:58Z",
+    "description": "The build of Aleph One for Marathon for Marathon has been updated to version release-20260930 of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "习惯与趋势",
+    "url": "https://blog.oospace.com/posts/2026-10-01/",
+    "date": "2026-10-01T03:14:00Z",
+    "description": "一个人的习惯，只能影响自己和身边的人，如果很多人都有这个习惯会怎样",
+    "source_root_domain": "oospace.com"
+  },
+  {
+    "title": "9月在 @tuttihq 提现了866元",
+    "url": "https://versun.me/blog/tweet-2105484713720959213",
+    "date": "2026-10-01T02:27:28Z",
+    "description": "YC (Yucheng) 九月 @tuttihq 的数据，截到 9 月 30 日： ▸ 累计注册达人 14,269 个，九月新增 3,528。四月的时候总共才 159 ▸ 真正发了帖的 1,431 位，一共 61,601 条，分在 46 场活动里 ▸ 九月达人奖励 $81,480，1,545 个人拿到。本月单人最高 $2,653，累计拿得最多的那位已经 $11,197 ▸ 有效曝光 860 万 ▸ 一个月上了 7 次 𝕏 热榜 ▸ 达人的粉丝里美国占 25%，抽样到的粉丝分布在 189 个国家和地区 十月接着冲。。。 9月在 @tuttihq 提现了866元，感谢！",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "第五年 II",
+    "url": "https://mobius.blog/25813.html",
+    "date": "2026-10-01T01:30:00Z",
+    "description": "继续昨天的“那把关于写作的刀”。 1200 | 百日谈 当写到1200的时候，距离500日写作还剩下最后的10 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。",
+    "source_root_domain": "onojyun.com"
+  },
+  {
+    "title": "微信小程序备案驳回",
+    "url": "https://dsx2016.com/wechat-mini-program-filing-rejected/",
+    "date": "2026-10-01T01:00:15Z",
+    "description": "深圳备案 在深圳备案微信小程序 需要居住证，如果居住证过期，备案就失效 目前居住证，据不完全了解，只在深圳需要... 微信小程序备案驳回 最先出现在 大师兄2016 。",
+    "source_root_domain": "dsx2016.com"
+  },
+  {
+    "title": "国庆快乐：抽奖、优惠、调价，关于周刊的三件事",
+    "url": "https://pythoncat.top/posts/2026-10-01-national-day/",
+    "date": "2026-10-01T00:00:00Z",
+    "description": "每期都有\"百里挑一\"抽奖，10 月下旬 88 元限时优惠，活动后年费调整为 108 元",
+    "source_root_domain": "pythoncat.top"
+  }
+]

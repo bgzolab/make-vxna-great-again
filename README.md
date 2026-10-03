@@ -28,10 +28,12 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | Date | Title | Summary |
 | --- | --- | --- |
 | 2026-10-02 | [明天穿什么衣服？按体感温度分 5 档，照着穿就行](https://gugegt.com/tigan-wendu-chuanyi.html) | 明天 18℃，穿长袖还是加件外套？天气 App 只报数字，不接这句。 真正决定穿多少的是体感温度。同样是 18℃，晴天和阴雨天能差出一件外套。 |
+| 2026-10-02 | [挺赞同这篇文章的实测结果，不同的 har](https://versun.me/blog/tweet-2105976233565786341) | 挺赞同这篇文章的实测结果，不同的 harness 只影响账单，对结果的影响微乎其微。还有之前的 FrontierHarness 评测其实也是这个道理，只不过它的测试集只有30题，66%通过率和60%其实只差2题而已，这在统计学上几乎就是随机波动 总结下 1. 别迷信大厂官方 Harness 2. 极… |
 | 2026-10-02 | [西北三日游](https://atpx.com/blog/northwest-china-tour/) | 一次简单的兰州、西宁三日游。 |
 | 2026-10-02 | [让 AI 开飞机如何](https://www.hecaitou.com/2026/10/what-if-we-let-ai-fly-the-plane.html) | 仔细看过 迪拜航空 FZ1073 航班的相关新闻，我突然冒出一个想法：也许 AI 自动驾驶应该跳过汽车，直接接管飞机。 在整个新闻事件里，最不稳定的因素是人---副驾驶用利器反复捅机长，试图控制飞机撞地；恢复稳定的最重要因素也是人---机长拼尽全力打开驾驶舱大门，水管工乘客锁喉副驾驶，将飞机改出俯冲… |
 | 2026-10-02 | [入蜀记 day494 歌会、Low-E、安全场域](https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_494/) | 「歌会、Low-E、安全场域。」 |
 | 2026-10-02 | [入蜀记 day493 湖北广济佛手山药、ZS、热爱成都](https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_493/) | 「湖北广济佛手山药、ZS、热爱成都。」 |
+| 2026-10-02 | [现在做开发者的生意越来越难做了，开发者完](https://versun.me/blog/tweet-2105877352182063491) | 现在做开发者的生意越来越难做了，开发者完全可以根据自己的需求 vibe coding 一个 比如 @levelsio 上个月就自己 vibe coding 替换掉了大量 SaaS 服务，每月省下约 2.5 万美元。 具体替换了下面这些服务： - 天气 API -> 换成了自己写的抓取挪威气象局 AP… |
 | 2026-10-02 | [入蜀记 day492 热体寒体、肉馕、扁担钩](https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_492/) | 「热体寒体、肉馕、扁担钩。」 |
 | 2026-10-02 | [入蜀记 day491 呼吸自由、地板超市、唯有适应](https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_491/) | 「呼吸自由、地板超市、唯有适应。」 |
 | 2026-10-02 | [入蜀记 day490 tip toe](https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_490/) | 「tip toe。」 |
@@ -40,6 +42,8 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-10-02 | [ROG Ally 改装 jsaux 65Wh 电池套件](https://guchengf.me/blog/2026-10-02-rain/) | 最近重新开始高频地使用 ROG Ally，然后发现它的续航和散热是比较大的问题，即使只以12-15w的功率来运行，续航也明显有点弱。 经过一番搜索（结合AI推荐），找到了 jsaux 的电池升级套件 ，主要考虑了以下几个因素： 稳定性。 稳定性毫无疑问是最重要的，65Wh的方案似乎是社区验证最多的，… |
 | 2026-10-02 | [New Release: Insaniquarium](https://macsourceports.com/game/insaniquarium) | Insaniquarium is a game where you feed fish. And fight aliens. And feed fish to other fish. And avoid electrocution. By now you either think this game… |
 | 2026-10-02 | [第五年 III](https://mobius.blog/25820.html) | 现在在写的内容，其实是明天要定时发布的，明明都说了是在放假期间“开天窗”，但由于提前写完的东西早就没有库存了， […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
+| 2026-10-02 | [收到 @levelsio 发的会员邮件了](https://versun.me/blog/tweet-2105832202957447602) | 收到 @levelsio 发的会员邮件了，我都快忘了，一年也就一两封。 很喜欢他写的一篇感想：当一件事 AI 做得和人一样好时，这件事就不再特别了。 比如最近 Opus 5.5 席卷了营销视频。在以前，同样的效果需要大量剪辑、动态设计和预算，现在几乎 0 成本。 这意味着任何人都能做出同等质量的内容… |
+| 2026-10-02 | [我对 Gemini 4 的期待是，比3.](https://versun.me/blog/tweet-2105810440253260270) | 我对 Gemini 4 的期待是，比3.8 flash 好就行了，不期待它能横扫 claude 和 openai |
 | 2026-10-01 | [我的乡愁 II](https://www.geedea.pro/article/home-sick-ii/) | 请读者给我几段文本的时间平复心情，我方才忍受着飘散在房间里的烟味儿，下楼给我三个月前带回家的龟背竹换了水。想到刚回家看到它们的模样，我实在没办法平静下来。 因为没办法带上我养的龟背竹，所以放在家里，回家之后…… 它的叶子黄了，边缘已经要枯了，不知道家里人是用什么水养的它，水是褐黄色的，水已经要溢出水… |
 | 2026-10-01 | [「地球村」：数字游民账号清单，开放、共建](https://gugegt.com/diqiucun-nomad-account-list.html) | 地球村：数字游民账号清单 名字叫「地球村」，意思很简单：不管人在哪，靠这一套东西就能把日子过下去。 |
 | 2026-10-01 | [微信公众号贴图｜微信贴图号](https://dsx2016.com/wechat-official-account-stickers-wechat-sticker-account/) | 贴图号 微信公众号和微信贴图号是两个不同的产品 微信公众号可以发布贴图 但是微信贴图号只能发布贴图 微信贴图号... 微信公众号贴图｜微信贴图号 最先出现在 大师兄2016 。 |
@@ -177,17 +181,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-09-26 | [根据我这2天使用opus 5.5的感受，](https://versun.me/blog/tweet-2103656854773711297) | 根据我这2天使用opus 5.5的感受，给大家一个思考层级的选择参考： Opus 5.5 low = GPT 5.6 Sol / Gemini 3.8 flash Opus 5.5 Medium = GPT 5.6 Astra / Kimi K3 / SWE 2 Opus 5.5 High = Fa… |
 | 2026-09-26 | [2004，没有暑假的夏天](https://www.tortorse.com/archives/2004-summer-without-vacation/) | 招聘会上，人们在展位间看招聘信息 |
 | 2026-09-26 | [Python 潮流周刊#169：AI 用 11 天证完费马大定理、Python 拟加 export 关键字、一个 Key 调 3000 个工具](https://pythoncat.top/posts/2026-09-26-weekly/) | 分享了 12 篇文章，12 个开源项目 |
-| 2026-09-25 | [中秋快乐](https://blog.solazy.me/20260925/) | 中秋节过得越来越平静了 |
-| 2026-09-25 | [这种效果搭配秒控板，不要太爽啊！我想要这](https://versun.me/blog/tweet-2103436216138121265) | Zsolt Kacso I wanted infinite canvas for my desktop. So I built it with Omarchy and Opus. I'm calling it Phantomat. Grab here: https://github.com/kaol… |
-| 2026-09-25 | [Pensieve: 2609](https://xiaket.github.io/2026/pensieve-2609.html) | 所读所观所玩 |
-| 2026-09-25 | [怯犬](https://www.geedea.pro/fiction/doggy/) | 一 今晚没有月亮，窗户外面其他人家的灯火也灭了，屋子里很黑，杉松迷迷糊糊地醒了。耳塞不能阻断嗅觉，好几个晚上，他都被香水、汗液和石楠花的味道弄醒，醒来时，他还紧紧地抱着一只玩偶，脸埋在沙发的靠背上。他感到背后有风，一阵远远的响动，随后皮革的气味取代了那些扰人心智的东西。他翻了个身，刚好碰到男友的手臂… |
-| 2026-09-25 | [《火焰纹章 封印之剑》游戏感想](https://blog.yuanji.dev/posts/fire-emblem-fuuin-no-tsurugi-review/) | 接连写了两篇博客分别介绍了最近购买的复古游戏掌机（见：复古掌机初体验：ANBERNIC RG 34XX）和围绕 […] |
-| 2026-09-25 | [终日网上翻垃圾](https://www.hecaitou.com/2026/09/dumpster-diving-on-the-modern-web.html) | 今天是中秋节，我想聊一点轻松的话题。 这几天我在选电脑显示器，目前我正使用的一台华硕显示器和苹果系统八字越来越冲，会频繁自动黑屏，然后又自动点亮。你想象一下，一个人站在空荡荡的房间里面对一套电脑，然后它毫无征兆地熄灭，等一会儿又自顾自地亮起来。你就说这时候是不是想上网买几道符回来给它贴满？ 再后来即… |
-| 2026-09-25 | [简单让 AI 对比了下 4款 Agent](https://versun.me/blog/tweet-2103297487486513598) | 简单让 AI 对比了下 4款 Agent 网关工具， 分别是：magpie · cc-switch · CLIProxyAPI · AstrLink 供参考：https://agent-gateway-compare.versun.me |
-| 2026-09-25 | [开水](https://mobius.blog/25780.html) | 这个标题来自于坐在我旁边的陌生人，正起身去咖啡厅吧台要求工作人员，往自己的茶杯里接了一杯开水。 她想让工作人员 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
-| 2026-09-25 | [这是吹起 ai 网关的风吗，这2天已经看](https://versun.me/blog/tweet-2103279669412065313) | yetone One more thing https://usemagpie.ai/ 这是吹起 ai 网关的风吗，这2天已经看到3个大佬在做同样的东西了 |
-| 2026-09-25 | [opus 5.5 上下文在 256k 左](https://versun.me/blog/tweet-2103279251948707998) | opus 5.5 上下文在 256k 左右就会出现失忆，我已经遇到2次了，pi agent (max 1M) |
-| 2026-09-25 | [Raft 开源了！ 但以一种很有意思的方](https://versun.me/blog/tweet-2103274356134830482) | stdrc https://x.com/i/article/2103157543891853312 Raft 开源了！ 但以一种很有意思的方式开源，建议看看 |
 
 ## Vibe Coding
 
