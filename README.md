@@ -27,6 +27,8 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-10-03 | [油管对于普通人意味着什么](https://dsx2016.com/what-does-youtube-mean-to-the-average-person/) | 普通人 普通人就做微信生态或者抖音生态就好了 一个公众号，一个短视频 微信流量主赚个咖啡钱，短视频和直播带货看... 油管对于普通人意味着什么 最先出现在 大师兄2016 。 |
+| 2026-10-03 | [油管一些需要提前知道的内容](https://dsx2016.com/some-things-you-need-to-know-about-youtube-in-advance/) | 刷量和买号 叠甲，本文不卖频道不刷量 油管开通YPP，顺利的话至少要预期一个月或者半年以上 很多人根本无法完成... 油管一些需要提前知道的内容 最先出现在 大师兄2016 。 |
 | 2026-10-03 | [油管用什么设备和视频类型](https://dsx2016.com/what-equipment-and-video-types-are-used-for-youtube/) | 口播和vlog 无论任何视频平台，最基础的就是两种形式 一种是口播，一种是vlog 都可以出镜，锻炼镜头感，不... 油管用什么设备和视频类型 最先出现在 大师兄2016 。 |
 | 2026-10-03 | [道德和欲望](https://blog.oospace.com/posts/2026-10-03-c/) | 没有什么是一成不变的，唯一不变的是变化 |
 | 2026-10-03 | [拧巴的世界观](https://blog.oospace.com/posts/2026-10-03-b/) | 这个世界为什么是谁的拳头大听谁的 |
