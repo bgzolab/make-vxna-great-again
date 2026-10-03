@@ -27,6 +27,11 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-10-03 | [AI Infra：Supabase 收购 Turso](https://luweiqing.com/gossip/AI-Infra-Supabase-Turso.html) | Supabase 在 2026 年 10 月 2 日收购 Turso，同一天还宣布了由 GIC 领投、CapitalG 等跟投的 1.5 亿美元增长融资。公告把这笔交易定位成：给 agent 时... |
+| 2026-10-03 | [借你一用](https://www.hecaitou.com/2026/10/Borrowing-You.html) | 这两天才注意到，我很多年前的一篇文章被人们翻出来，以此作为证据，证明某人当初就不怎么样。但我自己很清楚，当年发出那篇文章之后，那篇文章在许多人嘴里是「恰恰证明了和菜头是个沙雕」。 文章还是那篇文章，发在网上之后辗转传播，我一个字都改不了。当初它是我沙雕的证据，如今它却成了我有远见的证据。那这篇文章究… |
+| 2026-10-03 | [消费者知识小课堂（一）为消费者免费提供餐具，是餐厅应当履行的义务](https://blog.yasking.org/a/consumer-knowledge-part-1) | 前些天在大众点评看到一家位于昌平评分颇高的北京铜火锅餐馆，餐桌上摆放着消毒后带包装的餐具。 几年前我不在意 … |
+| 2026-10-03 | [油管赛道和语言选择什么？](https://dsx2016.com/what-niche-and-language-should-i-choose-for-my-youtube-channel/) | 先说语言 最方便的是自己的母语，比如中文 受众相对广一点和单价高一点的是英文 其他的都是一些小众语言，适合自己... 油管赛道和语言选择什么？ 最先出现在 大师兄2016 。 |
+| 2026-10-03 | [第五年 IV](https://mobius.blog/25824.html) | 连续两天都在节假日来咖啡厅处理工作，我虽然不是个喜欢热闹的人，但这种场合又很适合用来作为灵感收集。不过在上一轮 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-10-02 | [明天穿什么衣服？按体感温度分 5 档，照着穿就行](https://gugegt.com/tigan-wendu-chuanyi.html) | 明天 18℃，穿长袖还是加件外套？天气 App 只报数字，不接这句。 真正决定穿多少的是体感温度。同样是 18℃，晴天和阴雨天能差出一件外套。 |
 | 2026-10-02 | [挺赞同这篇文章的实测结果，不同的 har](https://versun.me/blog/tweet-2105976233565786341) | 挺赞同这篇文章的实测结果，不同的 harness 只影响账单，对结果的影响微乎其微。还有之前的 FrontierHarness 评测其实也是这个道理，只不过它的测试集只有30题，66%通过率和60%其实只差2题而已，这在统计学上几乎就是随机波动 总结下 1. 别迷信大厂官方 Harness 2. 极… |
 | 2026-10-02 | [西北三日游](https://atpx.com/blog/northwest-china-tour/) | 一次简单的兰州、西宁三日游。 |
