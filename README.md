@@ -28,6 +28,8 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | Date | Title | Summary |
 | --- | --- | --- |
 | 2026-10-04 | [AI 狂飙，怎么才能 10 倍 or 100 倍自己的工作效率（2026-09-月度小结）](https://yuanchaofa.com/blog/2026-09-month-summary) | 认真思考如何利用 Agent 把自己的工作效率提升到 10 倍甚至 100 倍，也尝试用 Multica 和 Hermes Agent 建立属于自己的工作流。同时，因为 B 站计税方式变化，我重新思考视频商业化，并决定放下数据焦虑，继续做让自己开心的视频。 |
+| 2026-10-04 | [Near By Guru: 找到你身边的开源上师](https://www.ixiqin.com/2026/10/04/near-by-guru-find-an-open-source-guru-by-your-side/) | 在上一篇《开源，可能是新手软件工程师的唯一的路了，所以我做了 GoodFirstIssue.org》中，我介绍 […] |
+| 2026-10-04 | [开源，可能是新手软件工程师的唯一的路了，所以我做了 GoodFirstIssue.org](https://www.ixiqin.com/2026/10/04/open-source-may-be-the-only-path-for-novice-software/) | TL;DRAI 能写代码之后，企业更想招一个熟手配上 AI，而不是一个新手。新手要被看见，开源是唯一的一条不用 […] |
 | 2026-10-04 | [罪与罚](https://blog.oospace.com/posts/2026-10-04/) | 社会运行需要规矩，法律就是规矩，然而规矩过于死板和失效，就达不到效果，就会丧失执法根基 |
 | 2026-10-04 | [油管YPP广告分成](https://dsx2016.com/youtube-partner-program-ypp-ad-revenue-sharing/) | YPP回收 不要以为开通了YPP，就一直可以广告分成 它会以各种理由不定期收回，比如使用AI，低质量，其他版权... 油管YPP广告分成 最先出现在 大师兄2016 。 |
 | 2026-10-04 | [捡垃圾之乐](https://www.hecaitou.com/2026/10/The-Joy-of-Junk.html) | 我认为世间没有所谓的「垃圾」，只存在价值错配。 如果你从这个角度去观察，世事就会变得有趣起来，不再局限在高级VS.低级，高档VS.垃圾这样的对立概念里。前几天我看到一条新闻，某位上海老教授去世之后，他的藏书被家人搬到楼下，一人两本大赠送。 老教授在世的时候，这些藏书都是他一本本精挑细选而来，选内容，… |
@@ -35,6 +37,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-10-04 | [Total Annihilation updated](https://macsourceports.com/game/totalannihilation) | The build of Open Annihilation for Total Annihilation has been updated to version v0.6.2 of the project |
 | 2026-10-04 | [Quetoo updated](https://macsourceports.com/game/quetoo) | The build of Quetoo has been updated to version v1.0.120 of the project |
 | 2026-10-04 | [Oni updated](https://macsourceports.com/game/oni) | The build of OniARM64 for Oni has been updated to version v1.3.1 of the project |
+| 2026-10-04 | [2026年第40周](https://blog.sakoamc.com/posts/2640/) | 题记：二零二六年第四十周，假期大家都去哪儿玩了呢？先祝大家节日快乐！ |
 | 2026-10-03 | [UZDoom updated](https://macsourceports.com/sourceport/uzdoom) | The build of UZDoom for the DOOM engine series of games has been updated to version 5.0.3 of the project\n\nhttps://macsourceports.com/sourceport/uzdo… |
 | 2026-10-03 | [油管对于普通人意味着什么](https://dsx2016.com/what-does-youtube-mean-to-the-average-person/) | 普通人 普通人就做微信生态或者抖音生态就好了 一个公众号，一个短视频 微信流量主赚个咖啡钱，短视频和直播带货看... 油管对于普通人意味着什么 最先出现在 大师兄2016 。 |
 | 2026-10-03 | [油管一些需要提前知道的内容](https://dsx2016.com/some-things-you-need-to-know-about-youtube-in-advance/) | 刷量和买号 叠甲，本文不卖频道不刷量 油管开通YPP，顺利的话至少要预期一个月或者半年以上 很多人根本无法完成... 油管一些需要提前知道的内容 最先出现在 大师兄2016 。 |

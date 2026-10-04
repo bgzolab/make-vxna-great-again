@@ -7,6 +7,20 @@
     "source_root_domain": "bruceyuan.com"
   },
   {
+    "title": "Near By Guru: 找到你身边的开源上师",
+    "url": "https://www.ixiqin.com/2026/10/04/near-by-guru-find-an-open-source-guru-by-your-side/",
+    "date": "2026-10-04T12:55:21Z",
+    "description": "在上一篇《开源，可能是新手软件工程师的唯一的路了，所以我做了 GoodFirstIssue.org》中，我介绍 […]",
+    "source_root_domain": "ixiqin.com"
+  },
+  {
+    "title": "开源，可能是新手软件工程师的唯一的路了，所以我做了 GoodFirstIssue.org",
+    "url": "https://www.ixiqin.com/2026/10/04/open-source-may-be-the-only-path-for-novice-software/",
+    "date": "2026-10-04T09:48:38Z",
+    "description": "TL;DRAI 能写代码之后，企业更想招一个熟手配上 AI，而不是一个新手。新手要被看见，开源是唯一的一条不用 […]",
+    "source_root_domain": "ixiqin.com"
+  },
+  {
     "title": "罪与罚",
     "url": "https://blog.oospace.com/posts/2026-10-04/",
     "date": "2026-10-04T06:08:00Z",
@@ -54,6 +68,13 @@
     "date": "2026-10-04T02:58:46Z",
     "description": "The build of OniARM64 for Oni has been updated to version v1.3.1 of the project",
     "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "2026年第40周",
+    "url": "https://blog.sakoamc.com/posts/2640/",
+    "date": "2026-10-04T00:00:00Z",
+    "description": "题记：二零二六年第四十周，假期大家都去哪儿玩了呢？先祝大家节日快乐！",
+    "source_root_domain": "sakoamc.com"
   },
   {
     "title": "UZDoom updated",
