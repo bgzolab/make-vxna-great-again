@@ -30,6 +30,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-10-04 | [AI 狂飙，怎么才能 10 倍 or 100 倍自己的工作效率（2026-09-月度小结）](https://yuanchaofa.com/blog/2026-09-month-summary) | 认真思考如何利用 Agent 把自己的工作效率提升到 10 倍甚至 100 倍，也尝试用 Multica 和 Hermes Agent 建立属于自己的工作流。同时，因为 B 站计税方式变化，我重新思考视频商业化，并决定放下数据焦虑，继续做让自己开心的视频。 |
 | 2026-10-04 | [Near By Guru: 找到你身边的开源上师](https://www.ixiqin.com/2026/10/04/near-by-guru-find-an-open-source-guru-by-your-side/) | 在上一篇《开源，可能是新手软件工程师的唯一的路了，所以我做了 GoodFirstIssue.org》中，我介绍 […] |
 | 2026-10-04 | [开源，可能是新手软件工程师的唯一的路了，所以我做了 GoodFirstIssue.org](https://www.ixiqin.com/2026/10/04/open-source-may-be-the-only-path-for-novice-software/) | TL;DRAI 能写代码之后，企业更想招一个熟手配上 AI，而不是一个新手。新手要被看见，开源是唯一的一条不用 […] |
+| 2026-10-04 | [Vol.120 第115期AI精选：个人智能体产品潮，贴身智能与人的判断位置](https://liduos.com/weekly/the-weekly-gradient-120) | 本期内容聚焦个人智能体的产品发布潮，从贴身处事、模型降价与语音接口，到评审问责与人的判断位置，回答智能体如何进入生活、人退到哪里。 |
 | 2026-10-04 | [罪与罚](https://blog.oospace.com/posts/2026-10-04/) | 社会运行需要规矩，法律就是规矩，然而规矩过于死板和失效，就达不到效果，就会丧失执法根基 |
 | 2026-10-04 | [油管YPP广告分成](https://dsx2016.com/youtube-partner-program-ypp-ad-revenue-sharing/) | YPP回收 不要以为开通了YPP，就一直可以广告分成 它会以各种理由不定期收回，比如使用AI，低质量，其他版权... 油管YPP广告分成 最先出现在 大师兄2016 。 |
 | 2026-10-04 | [捡垃圾之乐](https://www.hecaitou.com/2026/10/The-Joy-of-Junk.html) | 我认为世间没有所谓的「垃圾」，只存在价值错配。 如果你从这个角度去观察，世事就会变得有趣起来，不再局限在高级VS.低级，高档VS.垃圾这样的对立概念里。前几天我看到一条新闻，某位上海老教授去世之后，他的藏书被家人搬到楼下，一人两本大赠送。 老教授在世的时候，这些藏书都是他一本本精挑细选而来，选内容，… |
