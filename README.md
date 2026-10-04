@@ -27,6 +27,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-10-03 | [UZDoom updated](https://macsourceports.com/sourceport/uzdoom) | The build of UZDoom for the DOOM engine series of games has been updated to version 5.0.3 of the project\n\nhttps://macsourceports.com/sourceport/uzdo… |
 | 2026-10-03 | [油管对于普通人意味着什么](https://dsx2016.com/what-does-youtube-mean-to-the-average-person/) | 普通人 普通人就做微信生态或者抖音生态就好了 一个公众号，一个短视频 微信流量主赚个咖啡钱，短视频和直播带货看... 油管对于普通人意味着什么 最先出现在 大师兄2016 。 |
 | 2026-10-03 | [油管一些需要提前知道的内容](https://dsx2016.com/some-things-you-need-to-know-about-youtube-in-advance/) | 刷量和买号 叠甲，本文不卖频道不刷量 油管开通YPP，顺利的话至少要预期一个月或者半年以上 很多人根本无法完成... 油管一些需要提前知道的内容 最先出现在 大师兄2016 。 |
 | 2026-10-03 | [油管用什么设备和视频类型](https://dsx2016.com/what-equipment-and-video-types-are-used-for-youtube/) | 口播和vlog 无论任何视频平台，最基础的就是两种形式 一种是口播，一种是vlog 都可以出镜，锻炼镜头感，不... 油管用什么设备和视频类型 最先出现在 大师兄2016 。 |
@@ -128,7 +129,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-09-29 | [](https://elmagnifico.tech/2026/09/29/2026-09-15-shenzhen-lasa-ontheway/) | Foreword 如上篇所提，今年中秋和国庆中间卡了三天班，直接请假从 9 月 25 号连到 10 月 7 号，一共 13 天。去拉萨，托车到成都再开 318到拉萨，后续车托回深圳，我从拉萨直接飞回来。 准备 预算 拖车到成都1700，拉萨拖回来3000，飞成都1600，拉萨飞回3900，这部分固定… |
 | 2026-09-29 | [同甘共苦电动牙刷](https://www.hecaitou.com/2026/09/through-thick-thin-modern-electric-toothbrush.html) | 很多年前我就介绍过电动牙刷，应该有不少读者是受了我的影响，从此接受这种生活里的便利小玩意儿。 但正如一句中国古代谚语说的那样：老革命遇见新问题。 前天我换了一支新款电动牙刷，直接把我给弄懵了。之前我用的是某大牌电动牙刷，用了很多年。这种事情你知道的，直男用了什么东西觉得好，就会搜索历史订单，随手按下… |
 | 2026-09-29 | [No One Lives Forever 2: A Spy in H.A.R.M.'s Way updated](https://macsourceports.com/game/nolf2) | The build of NOLF2 for Mac for No One Lives Forever 2: A Spy in H.A.R.M.'s Way has been updated to version 0.4.3 of the project |
-| 2026-09-29 | [UZDoom updated](https://macsourceports.com/sourceport/uzdoom) | The build of UZDoom for the DOOM engine series of games has been updated to version 5.0.3 of the project\n\nhttps://macsourceports.com/sourceport/uzdo… |
 | 2026-09-29 | [Twikoo 评论为什么这么慢：藏在 POST_SUBMIT 里的 5 秒等待窗口](https://liudon.com/posts/twikoo-comment-delay-post-submit/) | 2026/09/29 更新 文中排查的问题已经修复并合入 Twikoo。 我升级后重新测试，评论请求耗时从原来的 5-6s 降到了 1s 以内 。 有同样问题的，可以将服务端升级到 2.0.12 或更高版本 。如果使用 Netlify 老部署，还需要按官方更新文档完成一次 Modern Functi… |
 | 2026-09-29 | [水枪、锥形桶与小组长](https://mobius.blog/25795.html) | 前几天，目睹了一场争吵。 早上小区会有不同区域负责垃圾倾倒的清洁工，会在等待垃圾转运车收走垃圾后，在小区某处的 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-09-29 | [claude sonnet 5.5发布了](https://versun.me/blog/tweet-2104725352107086205) | Claude Sonnet 5.5 improves on Sonnet 5 across benchmarks, in some cases dramatically. It’s a faster, lower-cost complement to Claude Opus 5.5, stronge… |
@@ -180,24 +180,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-09-27 | [写作能解决什么？](https://mobius.blog/25783.html) | 本期Newsletter回顾了写作的功能及适用人群。写作可以帮助情绪反刍、恢复主体性，但并非每个人适合。探讨了自我与作品的关系，强调写作应为自我对话，而非市场认可。 —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-09-27 | [兄弟们，发现个好东西呀，可以免费使用 6](https://versun.me/blog/tweet-2104034538842411502) | Railway Get a free VM from your terminal or from @muse. Zero sign-up. One command. ssh https://railway.new 兄弟们，发现个好东西呀，可以免费使用 60 分钟的 linux 虚拟机 方法很简单:… |
 | 2026-09-27 | [《路易斯安那系列》文本整理](https://weblog.contained.love/posts/louisiana-series-text/) | 至今竟然还没有人整理出歌佬《路易斯安那系列》的文本，我实在等不及了，就自己来吧。 包括两篇作者杂谈的文字版作为附录在书后。 书籍效果如图： 大致流程为: 截取视频帧 RapidOCR 本地模型识别 Faster-whisper 本地识别校准 排版校对 迭代了很多版之后，仍然有许多细节问题，先发出来再… |
-| 2026-09-26 | [How to transfer file to Device Hub](https://blog.xu42.com/posts/how-to-transfer-file-to-decice-hub/) | xcrun simctl list &#124; grep Booted xcrun simctl getappcontainer com.apple.DocumentsApp groups rsync ~/Downloads/file.pdf " /File Provider Storage/file.pd… |
-| 2026-09-26 | [是琐碎的小事让我活着](https://www.geedea.pro/article/little-things/) | 这几天试了试不同的搜索引擎，其实也没有厌倦 Kagi，只是他们似乎在往邮件、新闻这些业务上拓展了，让我有点担心某天会发病，所以在物色替代品。搜索关键词很自负地搜了自己博客的名字，结果发现两三个镜像站聚合了我的 RSS，然后用语言模型生成了非常诡异的总结，还改了我的标题，机翻了我的英文文章。罢了，不去… |
-| 2026-09-26 | [Hugo 博客搭建、部署与优化实践](https://liudon.com/guides/hugo-blog/) | 本博客使用 Hugo 生成静态页面，并部署在 Cloudflare Pages。 长期维护过程中，我先后处理了主题改造、图片加载、访问性能、评论系统和搜索收录等问题。 这份指南汇集了相关实践，记录每次调整背后的原因、尝试过的方案，以及最终采用的实现。 |
-| 2026-09-26 | [博客时光机](https://liudon.com/guides/blog-time-machine/) | 从将站点部署到 IPFS、保存历史快照，到时光机 1.0 的随机穿越，再到 2.0 的 Macintosh 可视时间线，这份指南完整记录了项目的演进过程，以及每个阶段解决的问题。 |
-| 2026-09-26 | [AI 口播视频生成实践](https://liudon.com/guides/ai-video/) | 为了生成自然的 AI 口播视频，我先后部署并测试了多种音色克隆和人物对口型方案。 这份指南记录了不同方案的实际效果与取舍，以及如何将这些能力组合起来，最终实现口播短视频二创工具 VideoRemaker。 |
-| 2026-09-26 | [没有一劳永逸的习惯](https://blog.solazy.me/20260926/) | 今天突然想聊聊坚持、习惯和反人性 |
-| 2026-09-26 | [Node.js、浏览器和 Cloudflare Workers 的wasm引入问题](https://blog.est.im/2026/stdout-36) | 最近在鼓捣 WebAssembly，这玩意没啥神秘的，可以看出一坨二进制的 .js 库文件 它本身的export和调用方式是统一的，但如今天我才知道，在不同 JavaScript 运行环境加载 .wasm 方式并不完全一样。 例如 Cloudflare Workers 可以直接： import wa… |
-| 2026-09-26 | [出海赚美金:博客域名忘记续费了](https://dsx2016.com/going-global-to-earn-dollars-forgot-to-renew-the-blog-domain/) | 域名过期 前些天感冒，一个星期没好，所有业务都没有时间处理 就在这个敏感时间点，我的博客域名过期了，域名已经被... 出海赚美金:博客域名忘记续费了 最先出现在 大师兄2016 。 |
-| 2026-09-26 | [13.8 万星的 free-for-dev：57 类免费额度，替掉我一半的付费订阅](https://gugegt.com/free-for-dev-free-tier-guide.html) | 上周整理订阅列表，发现有 9 个服务在按月扣钱。一个数据库，一个对象存储，一个监控，一个错误追踪，两个只在周末跑一次定时任务的小机器，还有几个我自己都想不起什么时候开通的。 加起来一个月 60 多美元，折人民币四百多。 这些活儿有一个共同点：全都不需要付费。我把账单截图丢进 free-for-dev… |
-| 2026-09-26 | [Coffee Break Clojure, Vol.3](https://www.geedea.pro/article/clj3/) | 上一篇 我们讨论了不同类型的形式，了解了函数、Lambda、宏和特殊形式的皮毛，也学会了用一些基本的运算符、 let 和 if 等等。今天的文章要讨论集合数据类型。不过在此之前，我们还是先看看普通的数据类型有哪些。 今天的文章有点长，所以读的时候，呃…… 准备一杯大号的咖啡？ 你已经知道和你可能不知… |
-| 2026-09-26 | [弥月佳期-中秋修水行记](https://yovey.me/%e5%bc%a5%e6%9c%88%e4%bd%b3%e6%9c%9f-%e4%b8%ad%e7%a7%8b%e4%bf%ae%e6%b0%b4%e8%a1%8c%e8%ae%b0/) | 清早出发，出城前先在Manner打好咖啡，一路西行。 行至三分之一，过路口的时候低速避让，路肩不平，点不到地， … Continue reading "弥月佳期-中秋修水行记" |
-| 2026-09-26 | [开发了一个云剪贴板服务 Cloud Clipboard](https://hellodk.cn/post/1231) | 跨设备复制粘贴，文本 / 图片 / 文件，一个链接搞定。在电脑 A 上创建一条剪贴板，得到一个形如 https://paste.940304.xyz/a7 的短链接；在手机或另一台电脑上打开这个... |
-| 2026-09-26 | [第一次拜月娘](https://www.hecaitou.com/2026/09/worshipping-moon-goddess-first-time.html) | 我经历过五十多个中秋，今年第一次在中秋夜拜月娘。 如果严格按照潮汕的拜月娘风俗，我最多只能帮着搬一下供桌和拜垫，上香这种事情根本轮不到我，因为在潮汕传统上拜月娘是女性的专属。月亮属阴，象征女性，自己人拜自己人很合理。 但我人在北京，一起赏月的一群人都不是本地人，而是一代移民。说起来，我们各自都是各家… |
-| 2026-09-26 | [如果你和我一样，玩《塞尔达传说 旷野之息](https://versun.me/blog/tweet-2103705056709406889) | 如果你和我一样，玩《塞尔达传说 旷野之息》一直玩不下去，也无法理解为什么它会被称为神作，那么你可以试一试这么玩，我这几天已经玩的停不下来了。。。 1. 进入设置，把 HUD 界面改成「高级模式 (Pro)」 这步最关键。 改完后，屏幕上的小地图、温度表、声音雷达全都会消失，只留血量。 你不再是一个“… |
-| 2026-09-26 | [Coffee Break Clojure, Vol.2](https://www.geedea.pro/article/clj2/) | 上一篇 我们配置好了 REPL，可以随时开始编写 Clojure 代码并执行。 第零篇 提到，被求值（Eval）的列表叫作形式（form），形式的第一个元素是操作符，剩余的是参数。根据操作符的不同，形式被分为函数形式、Lambda 形式、宏形式和特殊形式。今天的文章就来介绍这几种形式。 函数形式 不… |
-| 2026-09-26 | [根据我这2天使用opus 5.5的感受，](https://versun.me/blog/tweet-2103656854773711297) | 根据我这2天使用opus 5.5的感受，给大家一个思考层级的选择参考： Opus 5.5 low = GPT 5.6 Sol / Gemini 3.8 flash Opus 5.5 Medium = GPT 5.6 Astra / Kimi K3 / SWE 2 Opus 5.5 High = Fa… |
-| 2026-09-26 | [2004，没有暑假的夏天](https://www.tortorse.com/archives/2004-summer-without-vacation/) | 招聘会上，人们在展位间看招聘信息 |
-| 2026-09-26 | [Python 潮流周刊#169：AI 用 11 天证完费马大定理、Python 拟加 export 关键字、一个 Key 调 3000 个工具](https://pythoncat.top/posts/2026-09-26-weekly/) | 分享了 12 篇文章，12 个开源项目 |
 
 ## Vibe Coding
 

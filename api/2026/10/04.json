@@ -1,0 +1,240 @@
+[
+  {
+    "title": "UZDoom updated",
+    "url": "https://macsourceports.com/sourceport/uzdoom",
+    "date": "2026-10-03T21:09:39Z",
+    "description": "The build of UZDoom for the DOOM engine series of games has been updated to version 5.0.3 of the project\\n\\nhttps://macsourceports.com/sourceport/uzdoom\\n\\n#macgaming #retrogaming #macOS #uzdoom #gaming #apple #m1 #m2 #m3 #applesilicon\\n\\n",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "油管对于普通人意味着什么",
+    "url": "https://dsx2016.com/what-does-youtube-mean-to-the-average-person/",
+    "date": "2026-10-03T16:29:48Z",
+    "description": "普通人 普通人就做微信生态或者抖音生态就好了 一个公众号，一个短视频 微信流量主赚个咖啡钱，短视频和直播带货看... 油管对于普通人意味着什么 最先出现在 大师兄2016 。",
+    "source_root_domain": "dsx2016.com"
+  },
+  {
+    "title": "油管一些需要提前知道的内容",
+    "url": "https://dsx2016.com/some-things-you-need-to-know-about-youtube-in-advance/",
+    "date": "2026-10-03T15:23:52Z",
+    "description": "刷量和买号 叠甲，本文不卖频道不刷量 油管开通YPP，顺利的话至少要预期一个月或者半年以上 很多人根本无法完成... 油管一些需要提前知道的内容 最先出现在 大师兄2016 。",
+    "source_root_domain": "dsx2016.com"
+  },
+  {
+    "title": "油管用什么设备和视频类型",
+    "url": "https://dsx2016.com/what-equipment-and-video-types-are-used-for-youtube/",
+    "date": "2026-10-03T12:04:28Z",
+    "description": "口播和vlog 无论任何视频平台，最基础的就是两种形式 一种是口播，一种是vlog 都可以出镜，锻炼镜头感，不... 油管用什么设备和视频类型 最先出现在 大师兄2016 。",
+    "source_root_domain": "dsx2016.com"
+  },
+  {
+    "title": "道德和欲望",
+    "url": "https://blog.oospace.com/posts/2026-10-03-c/",
+    "date": "2026-10-03T11:29:00Z",
+    "description": "没有什么是一成不变的，唯一不变的是变化",
+    "source_root_domain": "oospace.com"
+  },
+  {
+    "title": "拧巴的世界观",
+    "url": "https://blog.oospace.com/posts/2026-10-03-b/",
+    "date": "2026-10-03T11:00:00Z",
+    "description": "这个世界为什么是谁的拳头大听谁的",
+    "source_root_domain": "oospace.com"
+  },
+  {
+    "title": "Coffee Break Clojure, Vol.5",
+    "url": "https://www.geedea.pro/article/clj5/",
+    "date": "2026-10-03T10:50:02Z",
+    "description": "在 第一篇 我们安装了 Leiningen，当时只是用它启动了 REPL 和 nREPL 服务器，现在我们要用它来干点重活儿了。顺带一提，Leiningen 的名字取自短篇故事《 莱宁根大战蚂蚁 》，故事情节…… 就是一个叫莱宁根的男人大战蚂蚁。 创建项目 在终端输入 lein new -h 命令查看帮助，可以看到这些模板： Subtasks available: template A meta-template for 'lein new' templates. plugin A leiningen plugin project template. default A general project template for libraries. app An application project template. 模板只是提供了预先配置好的项目描述文件和项目结构，选哪个都不影响开发。简单来说，如果要写个 Clojure 库就用 default ，如果要写应用程序就用 app 。下文用 app 做示范。 创建一个名叫 antfighter 的应用。 lein new app an",
+    "source_root_domain": "geedea.pro"
+  },
+  {
+    "title": "上班与自律",
+    "url": "https://blog.oospace.com/posts/2026-10-03-a/",
+    "date": "2026-10-03T10:15:00Z",
+    "description": "有钱有闲容易自律，只要不上班，就能想办法一直不上班，上了班就很难跳出来",
+    "source_root_domain": "oospace.com"
+  },
+  {
+    "title": "学习 Etcd 笔记：启动与基础命令",
+    "url": "https://blog.yasking.org/a/learn-etcd",
+    "date": "2026-10-03T08:59:00Z",
+    "description": "有了 AI，现在学习成本很低，有很多开源项目都很值得学习，先从 Etcd 始。 搭建 Etcd 测试环境 本机电脑有 Docker 环境就好办了，创建 ~/Portable …",
+    "source_root_domain": "yasking.org"
+  },
+  {
+    "title": "中秋与国庆",
+    "url": "https://www.gtdstudy.com/posts/2026-10-3-open-your-eye/",
+    "date": "2026-10-03T08:51:48Z",
+    "description": "朋友，这封信来晚了，本来应该中秋就写的，没想到国庆也已经过了 3 天了，才终于提笔写起来。祝你中秋，国庆快乐！ 想念爷爷奶奶 每到中秋，都非常想念爷爷奶奶。我永远记得，在老家住的 3 个月，是我一生中最快乐的日子。 爷爷写得一手好字，奶奶能烧一手好菜；爷爷说话慢条斯理，奶奶说话噼里啪啦；爷爷常坐在大厅的一角，看着门外，奶奶总进进出出，屁股总没有坐下的时候。 我记得，正是贪玩的年纪，小朋友喊我出去玩，我放下笔就跑出去了，回来看到爷爷跟我说，你看你一急就把题目写错了。下一次小朋友喊我时，我再心急也把题目做完了，但是此时小朋友早就一溜烟跑没影了。 我记得，奶奶 …",
+    "source_root_domain": "gtdstudy.com"
+  },
+  {
+    "title": "油管要不要露脸？",
+    "url": "https://dsx2016.com/should-i-show-my-face-on-youtube/",
+    "date": "2026-10-03T07:42:08Z",
+    "description": "先说结论 90%要露脸 其他美食，手工，部分amsr不需要露脸 现象分析 彩票店老板很少买大额彩票或者刮刮乐 ... 油管要不要露脸？ 最先出现在 大师兄2016 。",
+    "source_root_domain": "dsx2016.com"
+  },
+  {
+    "title": "AI Infra：Supabase 收购 Turso",
+    "url": "https://luweiqing.com/gossip/AI-Infra-Supabase-Turso.html",
+    "date": "2026-10-03T04:27:56Z",
+    "description": "Supabase 在 2026 年 10 月 2 日收购 Turso，同一天还宣布了由 GIC 领投、CapitalG 等跟投的 1.5 亿美元增长融资。公告把这笔交易定位成：给 agent 时...",
+    "source_root_domain": "luweiqing.com"
+  },
+  {
+    "title": "借你一用",
+    "url": "https://www.hecaitou.com/2026/10/Borrowing-You.html",
+    "date": "2026-10-03T04:25:02Z",
+    "description": "这两天才注意到，我很多年前的一篇文章被人们翻出来，以此作为证据，证明某人当初就不怎么样。但我自己很清楚，当年发出那篇文章之后，那篇文章在许多人嘴里是「恰恰证明了和菜头是个沙雕」。 文章还是那篇文章，发在网上之后辗转传播，我一个字都改不了。当初它是我沙雕的证据，如今它却成了我有远见的证据。那这篇文章究竟算什么呢？我作为当事人，觉得荒谬极了，也好笑极了。 其实我写什么根本不重要，写就写了，发就发了，关键得看后来它被怎么用？当很多人内心认定我是个沙雕的时候，同一篇文章很容易就能解读出沙雕味来，从头到尾每个字都沙雕，可以作为沙雕的铁证来批评我。 当很多人需要什么武器来攻击他人的时候，同一篇文章很容易就能解读出批评否定的意味来，感觉是多年前我扔出的一块石头，现在正好捡起来继续砸出去。很自然的，那当年的我肯定很有远见，必须是远见，不是的话大家都不答应。 所以说网上的事情别太认真。 自己是个什么人，自己有什么真实想法，在网上没什么人会真的在意。只有一种情况下有例外，那就是网上有人要用你这个人，要用你的内容，去达成他们个人的目的。不过，既然别人要借你一用，如何用就是人家的事情。通常来说，别人的用法和你",
+    "source_root_domain": "hecaitou.com"
+  },
+  {
+    "title": "消费者知识小课堂（一）为消费者免费提供餐具，是餐厅应当履行的义务",
+    "url": "https://blog.yasking.org/a/consumer-knowledge-part-1",
+    "date": "2026-10-03T03:03:00Z",
+    "description": "前些天在大众点评看到一家位于昌平评分颇高的北京铜火锅餐馆，餐桌上摆放着消毒后带包装的餐具。 几年前我不在意 …",
+    "source_root_domain": "yasking.org"
+  },
+  {
+    "title": "油管赛道和语言选择什么？",
+    "url": "https://dsx2016.com/what-niche-and-language-should-i-choose-for-my-youtube-channel/",
+    "date": "2026-10-03T02:41:47Z",
+    "description": "先说语言 最方便的是自己的母语，比如中文 受众相对广一点和单价高一点的是英文 其他的都是一些小众语言，适合自己... 油管赛道和语言选择什么？ 最先出现在 大师兄2016 。",
+    "source_root_domain": "dsx2016.com"
+  },
+  {
+    "title": "第五年 IV",
+    "url": "https://mobius.blog/25824.html",
+    "date": "2026-10-03T01:30:00Z",
+    "description": "连续两天都在节假日来咖啡厅处理工作，我虽然不是个喜欢热闹的人，但这种场合又很适合用来作为灵感收集。不过在上一轮 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。",
+    "source_root_domain": "onojyun.com"
+  },
+  {
+    "title": "把 NGA 读成一本杂志 —— 阅境 Readscape 油猴脚本分享",
+    "url": "https://corvo.myseu.cn/2026/10/02/2026-10-02-%E6%8A%8ANGA%E8%AF%BB%E6%88%90%E4%B8%80%E6%9C%AC%E6%9D%82%E5%BF%97-%E9%98%85%E5%A2%83Readscape/",
+    "date": "2026-10-02T22:00:00Z",
+    "description": "我做了一个叫 阅境 / Readscape 的油猴脚本，可以把 NGA 的板块列表和帖子重排成杂志式的沉浸阅读界面：卡片瀑布流列表、首楼图文笔记、逐页评论、字号配色个性化。不需要服务器，装个油猴扩展一键安装，Android 和 iPhone 的手机浏览器同样完美支持。本文主要演示各项功能的实际用法。",
+    "source_root_domain": "myseu.cn"
+  },
+  {
+    "title": "明天穿什么衣服？按体感温度分 5 档，照着穿就行",
+    "url": "https://gugegt.com/tigan-wendu-chuanyi.html",
+    "date": "2026-10-02T18:05:00Z",
+    "description": "明天 18℃，穿长袖还是加件外套？天气 App 只报数字，不接这句。 真正决定穿多少的是体感温度。同样是 18℃，晴天和阴雨天能差出一件外套。",
+    "source_root_domain": "gugegt.com"
+  },
+  {
+    "title": "挺赞同这篇文章的实测结果，不同的 har",
+    "url": "https://versun.me/blog/tweet-2105976233565786341",
+    "date": "2026-10-02T11:00:35Z",
+    "description": "挺赞同这篇文章的实测结果，不同的 harness 只影响账单，对结果的影响微乎其微。还有之前的 FrontierHarness 评测其实也是这个道理，只不过它的测试集只有30题，66%通过率和60%其实只差2题而已，这在统计学上几乎就是随机波动 总结下 1. 别迷信大厂官方 Harness 2. 极简 Harness 足够抗打：Pi 无论在哪个评测里，都是性价比和通过率最均衡的选择 3. 决定解题上限的是底模，Harness 主要是决定你的钱包怎么瘪下去 https://arena.ai/blog/coding-agents-harness-tax",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "西北三日游",
+    "url": "https://atpx.com/blog/northwest-china-tour/",
+    "date": "2026-10-02T08:36:40Z",
+    "description": "一次简单的兰州、西宁三日游。",
+    "source_root_domain": "atpx.com"
+  },
+  {
+    "title": "让 AI 开飞机如何",
+    "url": "https://www.hecaitou.com/2026/10/what-if-we-let-ai-fly-the-plane.html",
+    "date": "2026-10-02T04:59:24Z",
+    "description": "仔细看过 迪拜航空 FZ1073 航班的相关新闻，我突然冒出一个想法：也许 AI 自动驾驶应该跳过汽车，直接接管飞机。 在整个新闻事件里，最不稳定的因素是人---副驾驶用利器反复捅机长，试图控制飞机撞地；恢复稳定的最重要因素也是人---机长拼尽全力打开驾驶舱大门，水管工乘客锁喉副驾驶，将飞机改出俯冲，备班飞行员进入驾驶舱操作飞机平安落地。 我是说，如果整件事里去掉人的因素呢？ 很多年前，我还在民航的时候就知道一件事：某些机场其实是可以让飞机全自动降落的，正常情况下无需飞行员手动操控。精密进近系统的精度很高，稳定性比人类手动操作强多了。在大雾等低能见度天气里，飞行员在这种机场可以把飞机的接地、拉平、滑跑交给 自动驾驶完成。 然而，这没有成为航空公司的日常。从成本、训练以及运行的角度考虑，大多数时候还是由飞行员控制。不过我就一直想：如果全程都是靠电脑来自动驾驶呢？如果尽量把人为干预降低到最低呢？整个行业会发生什么变化？ 在 迪拜航空 FZ1073 航班的空中惊魂过后，老问题又回到了我眼前：为什么不让 AI 自动驾驶飞机呢？飞行员只是作为辅助，必要时可以接管飞机控制权。或者 AI 作为辅助，",
+    "source_root_domain": "hecaitou.com"
+  },
+  {
+    "title": "入蜀记 day494 歌会、Low-E、安全场域",
+    "url": "https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_494/",
+    "date": "2026-10-02T04:29:27Z",
+    "description": "「歌会、Low-E、安全场域。」",
+    "source_root_domain": "arlmy.me"
+  },
+  {
+    "title": "入蜀记 day493 湖北广济佛手山药、ZS、热爱成都",
+    "url": "https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_493/",
+    "date": "2026-10-02T04:28:27Z",
+    "description": "「湖北广济佛手山药、ZS、热爱成都。」",
+    "source_root_domain": "arlmy.me"
+  },
+  {
+    "title": "现在做开发者的生意越来越难做了，开发者完",
+    "url": "https://versun.me/blog/tweet-2105877352182063491",
+    "date": "2026-10-02T04:27:40Z",
+    "description": "现在做开发者的生意越来越难做了，开发者完全可以根据自己的需求 vibe coding 一个 比如 @levelsio 上个月就自己 vibe coding 替换掉了大量 SaaS 服务，每月省下约 2.5 万美元。 具体替换了下面这些服务： - 天气 API -> 换成了自己写的抓取挪威气象局 API 的微服务 - 图片缩放 API -> 自己用 Node.js 的 Sharp + Redis 搓的缩放服务（省下约 $1,500/月） - Google Vision 黄暴图检测 -> 自己用 Python NudeNET 跑的 $0/月检测服务（省下约 $2,500/月） - Cloudflare 流媒体 -> 跑在 VPS 上的 Nginx 串流，每月 $0（省下约 $250/月） - API Flash（生成社交分享卡片截图） -> 自己写的截图服务，每月 $0（省下约 $250/月） - New Relic + IPHub -> 自己写的错误监控、DDoS 拦截与集群管理服务（叫 error2telegram），每月 $0（省下约 $250/月） - 人工审核团队 -> 用 @x",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "入蜀记 day492 热体寒体、肉馕、扁担钩",
+    "url": "https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_492/",
+    "date": "2026-10-02T04:27:27Z",
+    "description": "「热体寒体、肉馕、扁担钩。」",
+    "source_root_domain": "arlmy.me"
+  },
+  {
+    "title": "入蜀记 day491 呼吸自由、地板超市、唯有适应",
+    "url": "https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_491/",
+    "date": "2026-10-02T04:26:27Z",
+    "description": "「呼吸自由、地板超市、唯有适应。」",
+    "source_root_domain": "arlmy.me"
+  },
+  {
+    "title": "入蜀记 day490 tip toe",
+    "url": "https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_490/",
+    "date": "2026-10-02T04:25:27Z",
+    "description": "「tip toe。」",
+    "source_root_domain": "arlmy.me"
+  },
+  {
+    "title": "入蜀记 day489 鸟与台风",
+    "url": "https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_489/",
+    "date": "2026-10-02T04:24:27Z",
+    "description": "「鸟与台风。」",
+    "source_root_domain": "arlmy.me"
+  },
+  {
+    "title": "微信公众号账号风险",
+    "url": "https://dsx2016.com/wechat-official-account-risks/",
+    "date": "2026-10-02T04:24:12Z",
+    "description": "公众号风险提示 公众号助手，账号检测，风险 提示有引导兼职，网赚等风险 才夸它不用折腾服务器，就来一招风险提示... 微信公众号账号风险 最先出现在 大师兄2016 。",
+    "source_root_domain": "dsx2016.com"
+  },
+  {
+    "title": "ROG Ally 改装 jsaux 65Wh 电池套件",
+    "url": "https://guchengf.me/blog/2026-10-02-rain/",
+    "date": "2026-10-02T03:38:05Z",
+    "description": "最近重新开始高频地使用 ROG Ally，然后发现它的续航和散热是比较大的问题，即使只以12-15w的功率来运行，续航也明显有点弱。 经过一番搜索（结合AI推荐），找到了 jsaux 的电池升级套件 ，主要考虑了以下几个因素： 稳定性。 稳定性毫无疑问是最重要的，65Wh的方案似乎是社区验证最多的，整体评价比较好。 对原部件破坏最少。这个方案只需要修剪电池仓的两个凸起。 成本可控。大容量电池的成本上升很明显。 改装过程实际很简单，jsaux提供了详细的 教程 ，按教程操作即可。其中有几个比较容易搞错的地方： 背板底部的中心螺丝是固定螺丝，只需松开。 套件提供了新的螺丝并且有示意图标记对应位置，但你仍然应该记录每颗螺丝对应的位置。 电池电缆连接器非常脆弱，务必注意操作力度。 修剪电池仓突出的支撑时要细心一些，确保平整。 感光胶条记得要贴到传感器上。 装上新背板之后记得先试下 m1 m2 按键是否正常。 整体上没有什么难度。续航和散热表现的优化也符合预期。但是让我产生思考的是另一件事。这个套件我花费了400元，现在windows掌机更新换代很快并且性能单价越来越低的情况下，对这样一个比较老",
+    "source_root_domain": "guchengf.me"
+  },
+  {
+    "title": "New Release: Insaniquarium",
+    "url": "https://macsourceports.com/game/insaniquarium",
+    "date": "2026-10-02T03:37:33Z",
+    "description": "Insaniquarium is a game where you feed fish. And fight aliens. And feed fish to other fish. And avoid electrocution. By now you either think this game is pointless or endlessly addictive.…",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "第五年 III",
+    "url": "https://mobius.blog/25820.html",
+    "date": "2026-10-02T01:30:00Z",
+    "description": "现在在写的内容，其实是明天要定时发布的，明明都说了是在放假期间“开天窗”，但由于提前写完的东西早就没有库存了， […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。",
+    "source_root_domain": "onojyun.com"
+  },
+  {
+    "title": "收到 @levelsio 发的会员邮件了",
+    "url": "https://versun.me/blog/tweet-2105832202957447602",
+    "date": "2026-10-02T01:28:16Z",
+    "description": "收到 @levelsio 发的会员邮件了，我都快忘了，一年也就一两封。 很喜欢他写的一篇感想：当一件事 AI 做得和人一样好时，这件事就不再特别了。 比如最近 Opus 5.5 席卷了营销视频。在以前，同样的效果需要大量剪辑、动态设计和预算，现在几乎 0 成本。 这意味着任何人都能做出同等质量的内容，结果就是迅速审美疲劳。 想要重新获得吸引力也很简单：你必须再次与众不同，而这，才是 AI 无法代替的。 https://levels.io/ai-commoditizes-media-until-not-special",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "我对 Gemini 4 的期待是，比3.",
+    "url": "https://versun.me/blog/tweet-2105810440253260270",
+    "date": "2026-10-02T00:01:47Z",
+    "description": "我对 Gemini 4 的期待是，比3.8 flash 好就行了，不期待它能横扫 claude 和 openai",
+    "source_root_domain": "versun.me"
+  }
+]
