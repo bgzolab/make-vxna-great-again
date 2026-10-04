@@ -27,9 +27,18 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-10-04 | [AI 狂飙，怎么才能 10 倍 or 100 倍自己的工作效率（2026-09-月度小结）](https://yuanchaofa.com/blog/2026-09-month-summary) | 认真思考如何利用 Agent 把自己的工作效率提升到 10 倍甚至 100 倍，也尝试用 Multica 和 Hermes Agent 建立属于自己的工作流。同时，因为 B 站计税方式变化，我重新思考视频商业化，并决定放下数据焦虑，继续做让自己开心的视频。 |
+| 2026-10-04 | [罪与罚](https://blog.oospace.com/posts/2026-10-04/) | 社会运行需要规矩，法律就是规矩，然而规矩过于死板和失效，就达不到效果，就会丧失执法根基 |
+| 2026-10-04 | [油管YPP广告分成](https://dsx2016.com/youtube-partner-program-ypp-ad-revenue-sharing/) | YPP回收 不要以为开通了YPP，就一直可以广告分成 它会以各种理由不定期收回，比如使用AI，低质量，其他版权... 油管YPP广告分成 最先出现在 大师兄2016 。 |
+| 2026-10-04 | [捡垃圾之乐](https://www.hecaitou.com/2026/10/The-Joy-of-Junk.html) | 我认为世间没有所谓的「垃圾」，只存在价值错配。 如果你从这个角度去观察，世事就会变得有趣起来，不再局限在高级VS.低级，高档VS.垃圾这样的对立概念里。前几天我看到一条新闻，某位上海老教授去世之后，他的藏书被家人搬到楼下，一人两本大赠送。 老教授在世的时候，这些藏书都是他一本本精挑细选而来，选内容，… |
+| 2026-10-04 | [New Release: SimCity 2000](https://macsourceports.com/game/simcity2000) | The 90's were a wild time for a lot of reasons, not the least of which was that we were obsessed with tacking the number "2000" onto everything. So in… |
+| 2026-10-04 | [Total Annihilation updated](https://macsourceports.com/game/totalannihilation) | The build of Open Annihilation for Total Annihilation has been updated to version v0.6.2 of the project |
+| 2026-10-04 | [Quetoo updated](https://macsourceports.com/game/quetoo) | The build of Quetoo has been updated to version v1.0.120 of the project |
+| 2026-10-04 | [Oni updated](https://macsourceports.com/game/oni) | The build of OniARM64 for Oni has been updated to version v1.3.1 of the project |
 | 2026-10-03 | [UZDoom updated](https://macsourceports.com/sourceport/uzdoom) | The build of UZDoom for the DOOM engine series of games has been updated to version 5.0.3 of the project\n\nhttps://macsourceports.com/sourceport/uzdo… |
 | 2026-10-03 | [油管对于普通人意味着什么](https://dsx2016.com/what-does-youtube-mean-to-the-average-person/) | 普通人 普通人就做微信生态或者抖音生态就好了 一个公众号，一个短视频 微信流量主赚个咖啡钱，短视频和直播带货看... 油管对于普通人意味着什么 最先出现在 大师兄2016 。 |
 | 2026-10-03 | [油管一些需要提前知道的内容](https://dsx2016.com/some-things-you-need-to-know-about-youtube-in-advance/) | 刷量和买号 叠甲，本文不卖频道不刷量 油管开通YPP，顺利的话至少要预期一个月或者半年以上 很多人根本无法完成... 油管一些需要提前知道的内容 最先出现在 大师兄2016 。 |
+| 2026-10-03 | [莫名其妙的优越感](https://blog.solazy.me/20261003/) | 今天听了一期播客，引起了些许不适 |
 | 2026-10-03 | [油管用什么设备和视频类型](https://dsx2016.com/what-equipment-and-video-types-are-used-for-youtube/) | 口播和vlog 无论任何视频平台，最基础的就是两种形式 一种是口播，一种是vlog 都可以出镜，锻炼镜头感，不... 油管用什么设备和视频类型 最先出现在 大师兄2016 。 |
 | 2026-10-03 | [道德和欲望](https://blog.oospace.com/posts/2026-10-03-c/) | 没有什么是一成不变的，唯一不变的是变化 |
 | 2026-10-03 | [拧巴的世界观](https://blog.oospace.com/posts/2026-10-03-b/) | 这个世界为什么是谁的拳头大听谁的 |
@@ -45,6 +54,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-10-03 | [第五年 IV](https://mobius.blog/25824.html) | 连续两天都在节假日来咖啡厅处理工作，我虽然不是个喜欢热闹的人，但这种场合又很适合用来作为灵感收集。不过在上一轮 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-10-02 | [把 NGA 读成一本杂志 —— 阅境 Readscape 油猴脚本分享](https://corvo.myseu.cn/2026/10/02/2026-10-02-%E6%8A%8ANGA%E8%AF%BB%E6%88%90%E4%B8%80%E6%9C%AC%E6%9D%82%E5%BF%97-%E9%98%85%E5%A2%83Readscape/) | 我做了一个叫 阅境 / Readscape 的油猴脚本，可以把 NGA 的板块列表和帖子重排成杂志式的沉浸阅读界面：卡片瀑布流列表、首楼图文笔记、逐页评论、字号配色个性化。不需要服务器，装个油猴扩展一键安装，Android 和 iPhone 的手机浏览器同样完美支持。本文主要演示各项功能的实际用法。 |
 | 2026-10-02 | [明天穿什么衣服？按体感温度分 5 档，照着穿就行](https://gugegt.com/tigan-wendu-chuanyi.html) | 明天 18℃，穿长袖还是加件外套？天气 App 只报数字，不接这句。 真正决定穿多少的是体感温度。同样是 18℃，晴天和阴雨天能差出一件外套。 |
+| 2026-10-02 | [放弃是需要筹码的](https://blog.solazy.me/20261002/) | 今天聊聊身边的「放弃」案例 |
 | 2026-10-02 | [挺赞同这篇文章的实测结果，不同的 har](https://versun.me/blog/tweet-2105976233565786341) | 挺赞同这篇文章的实测结果，不同的 harness 只影响账单，对结果的影响微乎其微。还有之前的 FrontierHarness 评测其实也是这个道理，只不过它的测试集只有30题，66%通过率和60%其实只差2题而已，这在统计学上几乎就是随机波动 总结下 1. 别迷信大厂官方 Harness 2. 极… |
 | 2026-10-02 | [西北三日游](https://atpx.com/blog/northwest-china-tour/) | 一次简单的兰州、西宁三日游。 |
 | 2026-10-02 | [让 AI 开飞机如何](https://www.hecaitou.com/2026/10/what-if-we-let-ai-fly-the-plane.html) | 仔细看过 迪拜航空 FZ1073 航班的相关新闻，我突然冒出一个想法：也许 AI 自动驾驶应该跳过汽车，直接接管飞机。 在整个新闻事件里，最不稳定的因素是人---副驾驶用利器反复捅机长，试图控制飞机撞地；恢复稳定的最重要因素也是人---机长拼尽全力打开驾驶舱大门，水管工乘客锁喉副驾驶，将飞机改出俯冲… |
@@ -78,10 +88,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-10-01 | [为什么经济下行与 Web3 无关](https://smallyu.net/2026/10/01/%E4%B8%BA%E4%BB%80%E4%B9%88%E7%BB%8F%E6%B5%8E%E4%B8%8B%E8%A1%8C%E4%B8%8EWeb3%E6%97%A0%E5%85%B3/) | 我们要区分开三件事：1. 经济周期的牛熊交替；2. 全球性的经济衰退；3. |
 | 2026-10-01 | [The Intent Behind the Gesture: A Deep Dive into RedNote's "Double-Swipe" Exit](https://blog.ensonyan.com/it/3493.html) | Recently, while using RedNote (小红书) on my iPhone 11 (iO […] |
 | 2026-10-01 | [2005，网页那一头](https://www.tortorse.com/archives/2005-the-other-end-of-the-web/) | 2005年超级女声南京唱区海选现场 |
-| 2026-10-01 | [New Release: Total Annihilation](https://macsourceports.com/game/totalannihilation) | Total Annihilation is an RTS game with a cult following. Whereas other games in the genre focused on resource scarcity or micromanagement of units, it… |
-| 2026-10-01 | [New Release: Oni](https://macsourceports.com/game/oni) | The last game Bungie made before being absorbed by Microsoft and consumed with Halo, Oni is that game I barely remember but folks on my Discord desper… |
 | 2026-10-01 | [国庆七天，肯定有一大批人的行程是：床、饭桌、厕所。](https://gugegt.com/guoqing-bed-table-toilet.html) | 七天假期，行程只有三站。床、饭桌、厕所，循环往复。 放假前一周，我在手机备忘录里列了七天的安排：去海边、爬一次崂山、见两个朋友、把买了半年没翻的那本书看完。 十月一号早上十点半，我醒了。外面太阳挺好，被窝里温度刚好，窗户缝漏进来的风是凉的。翻个身，那份清单就当没写过。 |
-| 2026-10-01 | [Quetoo updated](https://macsourceports.com/game/quetoo) | The build of Quetoo has been updated to version v1.0.118 of the project |
 | 2026-10-01 | [Ken's Labyrinth updated](https://macsourceports.com/game/kenslabyrinth) | The build of LAB3D/SDL for Ken's Labyrinth has been updated to version 4.4.0 of the project |
 | 2026-10-01 | [Marathon Infinity updated](https://macsourceports.com/game/marathoninfinity) | The build of Aleph One for Marathon Infinity for Marathon Infinity has been updated to version release-20260930 of the project |
 | 2026-10-01 | [Marathon 2: Durandal updated](https://macsourceports.com/game/marathon2) | The build of Aleph One for Marathon 2: Durandal for Marathon 2: Durandal has been updated to version release-20260930 of the project |
