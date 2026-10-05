@@ -27,6 +27,12 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-10-05 | [OpenAI、Anthropic、Google 的 AI 命名全史：GPT、Claude、Gemini 这些名字都是怎么来的](https://gugegt.com/ai-model-naming-history.html) | 名字起的时候可能只是随手一取，用久了就成了产品气质的一部分。 OpenAI 像理工男，Anthropic 像文科生，Google 像天文爱好者。 把三家从 2018 年到 2026 年发过的模型名字按时间排一遍，三套起名逻辑就浮出来了。 |
+| 2026-10-05 | [干点正事](https://www.hecaitou.com/2026/10/do-some-real-work-for-once.html) | 假期里知道了两条消息，一悲一喜。 悲的是一条事实：自 1997 年非那雄胺获批用于治疗雄秃以后，FDA 针对雄秃就再也没有批准过新药。换句话来说，如果你很关注秃顶或者生发类的内容，这些年来在网上被算法系统推荐过无数篇最新论文，听说过无数次兴高采烈的预告消息，它们全都是扯，一个都没有变成现实。 因此，… |
+| 2026-10-05 | [中国为什么没有专业的个人交易员](https://smallyu.net/2026/10/05/%E4%B8%AD%E5%9B%BD%E4%B8%BA%E4%BB%80%E4%B9%88%E6%B2%A1%E6%9C%89%E4%B8%93%E4%B8%9A%E7%9A%84%E4%B8%AA%E4%BA%BA%E4%BA%A4%E6%98%93%E5%91%98/) | 中国不是没有会交易的人。 中国有基金经理，有私募，有期货高手，有游资，有量化团队，也有无数每天盯着 K |
+| 2026-10-05 | [创业开公司1年，收入为0](https://yuqiqin.me/first-year-startup-no-revenue/) | [!NOTE] Info 全文共计13238字，预计阅读时长30min，记录的是我2025.07-2026.09的经历 创业开公司1年，收入为0 本博客的回忆板块终于迎来了属于它的第5篇文章。这个板块所记录的事情总是酸涩而又痛苦的，是青春伤痛文学，在写作的过程中往往要把自己最脆弱、最艰难地那部分挖开… |
+| 2026-10-05 | [通灵卡片Psychic Paper](https://yuqiqin.me/) | 通灵卡片Psychic Paper 简介 欢迎来到我的 数字花园 ，这里是我分享工作、学习和生活的个人博客。 我给它取名为通灵卡片（ Psychic Paper ），这是来自英国国宝级科幻电视剧《神秘博士》中的一个小道具，它本身是一张空白的卡片，但是看着它的人会在卡片上看到使用者想让他们看到的内容。… |
+| 2026-10-05 | [磨损与魔法](https://mobius.blog/25827.html) | 我正在码字的电脑，电脑键盘磨损得惨不忍睹，在特定的光线角度下，会显得格外的刺眼，甚至显得有些脏兮兮、油乎乎的。 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-10-04 | [AI 狂飙，怎么才能 10 倍 or 100 倍自己的工作效率（2026-09-月度小结）](https://yuanchaofa.com/blog/2026-09-month-summary) | 认真思考如何利用 Agent 把自己的工作效率提升到 10 倍甚至 100 倍，也尝试用 Multica 和 Hermes Agent 建立属于自己的工作流。同时，因为 B 站计税方式变化，我重新思考视频商业化，并决定放下数据焦虑，继续做让自己开心的视频。 |
 | 2026-10-04 | [Near By Guru: 找到你身边的开源上师](https://www.ixiqin.com/2026/10/04/near-by-guru-find-an-open-source-guru-by-your-side/) | 在上一篇《开源，可能是新手软件工程师的唯一的路了，所以我做了 GoodFirstIssue.org》中，我介绍 […] |
 | 2026-10-04 | [开源，可能是新手软件工程师的唯一的路了，所以我做了 GoodFirstIssue.org](https://www.ixiqin.com/2026/10/04/open-source-may-be-the-only-path-for-novice-software/) | TL;DRAI 能写代码之后，企业更想招一个熟手配上 AI，而不是一个新手。新手要被看见，开源是唯一的一条不用 […] |
