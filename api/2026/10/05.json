@@ -1,5 +1,75 @@
 [
   {
+    "title": "道德德online新增：核心精要与专题书单",
+    "url": "https://blog.mzh.ren/zh/posts/2026/10/daodejing-core/",
+    "date": "2026-10-05T21:17:40Z",
+    "description": "老子《道德经》古本对照阅读——在线背诵与学习 我写 daodejing.online 这个网站的初衷，是想要把整部《道德经》背诵下来。因为我觉得《道德经》只有五千个字，背起来应该比较容易。俗话说“柿子要挑软的捏”，而且我觉得《道德经》文字很优美，背起来应该也会很通畅。",
+    "source_root_domain": "mzh.ren"
+  },
+  {
+    "title": "Coffee Break Clojure, Vol.6",
+    "url": "https://www.geedea.pro/article/clj6/",
+    "date": "2026-10-05T16:17:09Z",
+    "description": "上一篇 讲解了如何用 Leiningen 管理 Clojure 项目的目录结构和依赖项，今天我们来了解 Clojure 生态中最常见的 Web 后端库 Ring 。不对，和那个 IndieWeb Ring 没有关系。 初识 Ring Ring 是对 Web 服务器的 低层 抽象，也就是说没有实现页面路由（router），和通常的后端框架（比如 Go 的 Gin、Python 的 Django、Java 的 Spring Web 等）有很大区别。 根据 Ring Spec 1.6.1 ，Ring 主要有三个概念： Handler（处理器） Middleware（中间件） Adapter（适配器） Ring 提供了三种 API： 同步 API、异步 API 和 WebSocket API。不同的 API 在概念上略有不同，我们先从最简单的同步 API 讲起。 Handler 就是一个函数，接收 HTTP 请求，返回 HTTP 响应。 ;; 一个示例 Handler ( fn [request] response) 异步 API 的区别不大，只不过，由于 Handler 的结果需要异步返回，",
+    "source_root_domain": "geedea.pro"
+  },
+  {
+    "title": "久违的更新",
+    "url": "https://wujie.me/back-to-blogging/",
+    "date": "2026-10-05T15:10:54Z",
+    "description": "很久没更新博客了，其实这两个月早就想更新了，却迟迟没有写出来。每每打开博客后台，写上几句话，然后就这样在草稿箱 … 继续阅读 久违的更新",
+    "source_root_domain": "wujie.me"
+  },
+  {
+    "title": "形式熟悉，内容陌生，味道惊喜",
+    "url": "https://anotherdayu.com/9891/",
+    "date": "2026-10-05T15:01:00Z",
+    "description": "在国外住久了，试了许多中餐。炒菜、炖菜，常常总觉得差着一点意思。说不出究竟差在哪里，也许是菜不对，也许是火候不对，也许只是人在异乡，嘴也跟着挑剔起来。 面馆却常有意外之喜。 兰州牛肉面、陕西面、日式拉面、越南 Pho，都挺地道。欧美的朋友也吃得很开心，英国老板说她隔段时间就会带侄子去吃一家兰州拉面（三千拉面）。 这大约先要归功于原料。面粉、牛羊肉、辣椒、醋、葱蒜，在英国都不算难找，核心原料很全球通用。面食不像有些炒菜，非要某一种青菜、某一种鲜味，还要有匹配的火候，少一样便差了神韵。面条的显得很包容，原料稍有出入，也不至于面目全非。 菜单通常也简单。几种面，几种汤，几样浇头。做得多了，手上自然熟，味道也容易稳定。若什么都卖，反倒常常什么都差一点。 还有一层，与饮食文化相关。 中国炒菜的菜单，对第一次接触的人来说，从名字到吃法都很陌生。点完以后，还涉及配米饭、共享几道菜这一整套中国式的吃饭方式。我们自己觉得自然，外国人第一次见，未必知道从哪里下手。面对真正陌生的食物，最难的往往不是吃下去，而是决定要不要尝第一口。 一碗面便省事得多。 意大利面在欧洲吃了几百年，「面加酱汁或浇头」早已是再熟悉",
+    "source_root_domain": "anotherdayu.com"
+  },
+  {
+    "title": "R#122 矛盾的信息",
+    "url": "https://blog.sakanano.moe/journals/random_122",
+    "date": "2026-10-05T15:00:00Z",
+    "description": "2026.9.29 ~ 2026.10.5",
+    "source_root_domain": "sakanano.moe"
+  },
+  {
+    "title": "以棋娱乐",
+    "url": "https://www.ixiqin.com/2026/10/05/entertainment-through-chess/",
+    "date": "2026-10-05T14:50:30Z",
+    "description": "作为一个工作狂，我的时间大部分被计算机所占据，但难免有休息的时候。近来，我和太太选择了以棋娱乐，消磨时间。 而 […]",
+    "source_root_domain": "ixiqin.com"
+  },
+  {
+    "title": "《火焰纹章 烈火之剑》游戏感想：更易上手、更多要素的前传",
+    "url": "https://blog.yuanji.dev/posts/fire-emblem-rekka-no-ken-review/",
+    "date": "2026-10-05T13:56:33Z",
+    "description": "上一篇结尾我还在盘算着，接下来换点别的类型的游戏玩玩，结果《火焰纹章 封印之剑》刚通关，转头就把《火焰纹章》在 […]",
+    "source_root_domain": "gimo.me"
+  },
+  {
+    "title": "创业开公司1年，收入为0",
+    "url": "https://yuqiqin.me/first-year-startup-no-revenue/",
+    "date": "2026-10-05T12:23:55Z",
+    "description": "[!NOTE] Info 全文共计13238字，预计阅读时长30min，记录的是我2025.07-2026.09的经历 创业开公司1年，收入为0 本博客的回忆板块终于迎来了属于它的第5篇文章。这个板块所记录的事情总是酸涩而又痛苦的，是青春伤痛文学，在写作的过程中往往要把自己最脆弱、最艰难的那部分挖开、审视，编纂成文，接着公之于众，挂在自己的一亩三分田，警醒自己不要重蹈覆辙。 时间一转而过，我已经从学校毕业了6年有余，从教培机构离职之后就一直一边在做自由职业，一遍摸索创业，希望能够在30岁找到自己真正喜欢做的事情，以及一份能够让自己不再“打工”的事业——不用看老板的脸色，不用背负KPI，不用想OKR，不用看绩效，想请假就请假，想去旅游就去旅游，能有很多时间陪家人，同时自己对自己的事业和收入负责。 这就是前情提要了。 70 + 80 + 90 + 00 公司总共有4个股东，分别是70后、80后、90后（我）以及00后，下文也就这么继续称呼吧。 一开始是我和00后，也就是我弟，打算一起做服装外贸。弟弟家里有一个服装厂，主要做校服团服，虽然在本地做得有点规模，但是随着经济下行加政策冲击——各区",
+    "source_root_domain": "yuqiqin.me"
+  },
+  {
+    "title": "大脑充血 Vol.101",
+    "url": "https://www.geedea.pro/weekly/101/",
+    "date": "2026-10-05T09:18:33Z",
+    "description": "我一直说周刊是每周一发布，每月正刊也是，从没限定具体时间，就是考虑到了发布当天赶死线的情况。这期周刊的一小半内容都是周一写的，但质量确是我认为创刊以来最佳的一期，也是最长的，超过了一万字。祝阅读愉快。 本月的话题是道德与纯粹性，个人知识管理，市场的辨别力，开源软件与 UX 设计，Clojure 与函数式编程。 吾仅悉落 chapter 1 girl in red NeoDB Girl in Red 是我之前听一个叫 Chloe Moriondo 的翻唱歌手了解到的（当时 Chloe 还在 YouTube 上发尤克里里弹唱的视频，如今似乎变成原创流行歌手了，少了些味道）。 她的不少歌曲描写的都是对女生的爱恋，还有抑郁情绪。貌似不少拉拉会以「你听 Girl in Red 吗？」来辨认身份。 我好奇男同会用谁，Taylor Swift 和 Lady Gaga 吗？难不成是 Troye Sivan？ 《chapter 1》是她的第一张 EP，至今为止她只发过《If I Could Make It Go Quiet》和《I’m Doing It Again》两张录音室专辑。这张 EP 为她的风格",
+    "source_root_domain": "geedea.pro"
+  },
+  {
+    "title": "2026.10.5",
+    "url": "https://www.justzht.com/2026-10-5/",
+    "date": "2026-10-05T08:47:10Z",
+    "description": "刚回到家。在外州玩的朋友说家里监控看不到其中一只猫了，怕是从窗户跳了出去，于是拜托我去看看。而我接到",
+    "source_root_domain": "justzht.com"
+  },
+  {
     "title": "OpenAI、Anthropic、Google 的 AI 命名全史：GPT、Claude、Gemini 这些名字都是怎么来的",
     "url": "https://gugegt.com/ai-model-naming-history.html",
     "date": "2026-10-05T06:52:00Z",
@@ -19,13 +89,6 @@
     "date": "2026-10-05T04:10:00Z",
     "description": "中国不是没有会交易的人。 中国有基金经理，有私募，有期货高手，有游资，有量化团队，也有无数每天盯着 K",
     "source_root_domain": "smallyu.net"
-  },
-  {
-    "title": "创业开公司1年，收入为0",
-    "url": "https://yuqiqin.me/first-year-startup-no-revenue/",
-    "date": "2026-10-05T03:30:17Z",
-    "description": "[!NOTE] Info 全文共计13238字，预计阅读时长30min，记录的是我2025.07-2026.09的经历 创业开公司1年，收入为0 本博客的回忆板块终于迎来了属于它的第5篇文章。这个板块所记录的事情总是酸涩而又痛苦的，是青春伤痛文学，在写作的过程中往往要把自己最脆弱、最艰难地那部分挖开、审视，编纂成文，接着公之于众，挂在自己的一亩三分田，警醒自己不要重蹈覆辙。 时间一转而过，我已经从学校毕业了6年有余，从 机构离职 之后就一直一边在做自由职业，一遍摸索创业，希望能够在30岁找到自己真正喜欢做的事情，以及一份能够让自己不再“打工”的事业——不用看老板的脸色，不用背负KPI，不用想OKR，不用看绩效，想请假就请假，想去旅游就去旅游，能有很多时间陪家人，同时自己对自己的事业和收入负责。 这就是前情提要了。 70 + 80 + 90 + 00 公司总共有4个股东，分别出生于70后、80后、90后（我）以及00后，下文也就这么继续称呼吧。 一开始是我和00后，也就是我弟，打算一起做服装外贸。弟弟家里有一个服装厂，主要做校服团服，虽然在本地做得有点规模，但是随着经济下行加政策冲击——",
-    "source_root_domain": "yuqiqin.me"
   },
   {
     "title": "通灵卡片Psychic Paper",
