@@ -38,6 +38,8 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-10-04 | [Total Annihilation updated](https://macsourceports.com/game/totalannihilation) | The build of Open Annihilation for Total Annihilation has been updated to version v0.6.2 of the project |
 | 2026-10-04 | [Quetoo updated](https://macsourceports.com/game/quetoo) | The build of Quetoo has been updated to version v1.0.120 of the project |
 | 2026-10-04 | [Oni updated](https://macsourceports.com/game/oni) | The build of OniARM64 for Oni has been updated to version v1.3.1 of the project |
+| 2026-10-04 | [经实测，Gemini Pro 订阅的 o](https://versun.me/blog/tweet-2106567037443256701) | 经实测，Gemini Pro 订阅的 opus 5.5 额度， 5小时只有 4M token，一周最多2个5小时额度，也就是8M token。。。。。 |
+| 2026-10-04 | [自从 hermes 经历了代码大清理以后](https://versun.me/blog/tweet-2106536614839423272) | Nous Research New blog post: We had a million lines of Python to clean up. On September 2nd @Teknium asked Hermes Agent to do it. 1,393 subagents and… |
 | 2026-10-04 | [2026年第40周](https://blog.sakoamc.com/posts/2640/) | 题记：二零二六年第四十周，假期大家都去哪儿玩了呢？先祝大家节日快乐！ |
 | 2026-10-03 | [UZDoom updated](https://macsourceports.com/sourceport/uzdoom) | The build of UZDoom for the DOOM engine series of games has been updated to version 5.0.3 of the project\n\nhttps://macsourceports.com/sourceport/uzdo… |
 | 2026-10-03 | [油管对于普通人意味着什么](https://dsx2016.com/what-does-youtube-mean-to-the-average-person/) | 普通人 普通人就做微信生态或者抖音生态就好了 一个公众号，一个短视频 微信流量主赚个咖啡钱，短视频和直播带货看... 油管对于普通人意味着什么 最先出现在 大师兄2016 。 |
@@ -162,35 +164,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-09-28 | [大脑充血 Vol.100](https://www.geedea.pro/weekly/100/) | 第一百期！我明明把正刊改成每月更新了，却还是每周更新小报，就是为了撑到这一天。这样我就可以酷酷地告诉别人，我有件事情坚持了一百周，也就是将近两年的时间。 这期是小游戏特辑。节前无心工作的话，就摸鱼玩玩吧。我们国庆十月正刊再见。 色彩计数器 🎮 Color Counter 从 Taxodium Zin… |
 | 2026-09-28 | [「普通朋友」的边界](https://lomus.cc/archives/834) | 今天想来聊一个这段时间经常发生在我身上的事。 起因是我的一个前同事，前两年还在公司的时候，我们关系还可以，但也 […] 「普通朋友」的边界 最先出现在 Lumos's Blog 。 |
 | 2026-09-28 | [2026年第37、38周：流水账小记](https://blog.sakoamc.com/posts/263839/) | 题记：人一旦忙起来，时间的流速都变得不一样了。 |
-| 2026-09-27 | [VictoriaLogs vector 采集报 TLS 证书验证失败的排查记录](https://199604.com/3724) | VictoriaLogs vector 采集报 TLS 证书验证失败的排查记录 记录时间：2026-09-23 […] |
-| 2026-09-27 | [用 iPhone 遥控器控制你的 Android TV 和 Mac —— atv-core 项目分享](https://corvo.myseu.cn/2026/09/27/2026-09-27-%E7%94%A8iPhone%E9%81%A5%E6%8E%A7%E5%99%A8%E6%8E%A7%E5%88%B6%E4%BD%A0%E7%9A%84Android-TV%E5%92%8CMac/) | 我开发了一个叫 atv-core 的项目，可以让你直接用 iPhone 控制中心的 Apple TV 遥控器来操控 Android TV 和 Mac。不需要买 Apple TV，不需要额外 App，iPhone 自带的遥控器就行。本文分享一下这个项目的使用方法和背后的一些技术原理。 |
-| 2026-09-27 | [](https://elmagnifico.tech/2026/09/28/2026-09-15-shenzhen-lasa-ontheway/) | Foreword 如上篇所提，今年中秋和国庆中间卡了三天班，直接请假从 9 月 25 号连到 10 月 7 号，一共 13 天。去拉萨，托车到成都再开 318到拉萨，后续车托回深圳，我从拉萨直接飞回来。 准备 预算 拖车到成都1700，拉萨拖回来3000，飞成都1600，拉萨飞回3900，这部分固定… |
-| 2026-09-27 | [Meaning of life](https://blog.bensontech.dev/posts/boring/) | Boring I took a casual life for a long time during the past 2 month. I don’t set some goals for myself except the regular work time. I can do whatever… |
-| 2026-09-27 | [微信公众号文章多平台分发](https://dsx2016.com/multi-platform-distribution-of-wechat-official-account-articles/) | 公众号文章 以前把独立博客作为主要平台，微信公众号酌情作为副平台 因为独立博客可以写自己想写的，不限制字数，不... 微信公众号文章多平台分发 最先出现在 大师兄2016 。 |
-| 2026-09-27 | [Toots 438 2026 Sep.20 - Sep.26](https://z.arlmy.me/posts/MastodonArchives/2026/MastodonTootsArchives_20260926/) | 「基础设置与寄生。」 |
-| 2026-09-27 | [入蜀记 day488 非中非欧美](https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_488/) | 「非中非欧美。」 |
-| 2026-09-27 | [入蜀记 day487 多、小、控、熵、逆](https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_487/) | 「多、小、控、熵、逆。」 |
-| 2026-09-27 | [入蜀记 day486 潮湿](https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_486/) | 「潮湿。」 |
-| 2026-09-27 | [入蜀记 day485 海鲜pasta](https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_485/) | 「海鲜pasta」 |
-| 2026-09-27 | [博客时光机 2.0 后端篇：构建可视索引](https://liudon.com/posts/hugo-ipfs-time-machine-v2-visual-index/) | 前言 上一篇介绍了 博客时光机 2.0 的更新，这篇来聊聊它背后的实现。 2.0 想做的事情其实很直观： 让博客从过去开始，一版一版走到今天。 原本以为，把历史页面截下来，按时间播放就行了。 |
-| 2026-09-27 | [如何寻找与选购免执照的 409MHz 公众对讲机](https://blog.mfwt.top/index.php/archives/1640/) | 之前笔者写了很多关于合法使用对讲机的博文，比如谨慎购买网红对讲机（原因：所用的频段不是普通对讲机频段），等等。在聊到合规性的话题时候，基本上都会提到，那种对讲机为什么是不合法的，合法的替代品有哪... |
-| 2026-09-27 | [Wind and Limits](https://tianheg.co/posts/sport-wind-limit-en/) | I worked overtime today, and went for a run in the evening. According to Zepp's plan, today's run was 11km. The last time I ran more than 10km was bac… |
-| 2026-09-27 | [从wireguard代理换回frp内网穿透](https://dsx2016.com/switching-back-from-a-wireguard-proxy-to-frp-for-nat-traversal/) | 总是断线 使用wireguard，在linux上大概一周左右回掉线一次，看起来是正常，实际上网络是假连接，业务... 从wireguard代理换回frp内网穿透 最先出现在 大师兄2016 。 |
-| 2026-09-27 | [【运动记】风与极限](https://tianheg.co/posts/sport-wind-limit/) | 今天加班，晚上去跑步了，按照Zepp的计划，今天要跑11km。上次跑超过10km，还是八月的事情。 |
-| 2026-09-27 | [2026.9.27](https://www.justzht.com/2026-9-27/) | 周六的时候给 E39 买的车机到了，因此下午就在装。拆开中控，把 Business CD 机拔出来，发现上任车主自己接线搞了一个蓝 |
-| 2026-09-27 | [前挡玻璃上的划痕](https://blog.solazy.me/20260927/) | 刚下高速，路上发生一件事儿 |
-| 2026-09-27 | [Emacs 代碼块导出复用](https://taxodium.ink/reusing-emacs-code-block-when-export.html) | Emacs 代碼块导出复用 在寫博客時，有時我需要顯示代碼，同時把代碼导出成 HTML，放在頁面裡用。例如在 一些關於連結的建議::進階樣式 裡，我要介紹外部連結的樣式，同時要將樣式應用在頁面上，原來我會這麼做： 一個代碼块 ( #+beginsrc css ) 用於顯示代碼： #+beginsrc… |
-| 2026-09-27 | [使用 Emacs Everywhere，把任意輸入框用 Emacs 接管](https://taxodium.ink/use-emacs-everywhere-to-take-over-any-input-field-with-emacs.html) | 使用 Emacs Everywhere，把任意輸入框用 Emacs 接管 tecosaur/emacs-everywhere 是一個 Emacs 的擴展，它可以在任意輸入框輸入時，打開一個 Emacs Frame，把輸入框的內容複製到 Emacs 裡編輯， 編輯完成後，再把內容粘貼回原來的輸入框。… |
-| 2026-09-27 | [地球上最后的夜晚](https://www.geedea.pro/library/2026/last-evenings-on-earth/) | 第一次听闻波拉尼奥是某个下午在西西弗书店闲逛，买了一本很厚的《在地狱阅览室里》，散文集，一百多块钱，是我买过最贵的书。那个时候我不认识他，没读下去，后来把书在多抓鱼上卖掉了。我有段时间想要多读些拉美文学，对波拉尼奥本人以及和他同时代或对他产生过影响的作者都建立一些了解，再去读那本书。然后我读了点 马… |
-| 2026-09-27 | [微信公众号文章AI自动转为微信图文](https://dsx2016.com/automatically-convert-wechat-official-account-articles-into-wechat-rich-media-posts-using-ai/) | 微信图文 微信图文，也叫微信贴图，俗称“小绿书” 目前微信官方大力推荐微信图文，为了方便创作者 只要发布公众号... 微信公众号文章AI自动转为微信图文 最先出现在 大师兄2016 。 |
-| 2026-09-27 | [Muse 邀请码攻略：48 小时内兑换拿 10 亿词元（附自助找码方法）](https://gugegt.com/muse-invite-code-guide.html) | 上次发了篇 Muse 邀请码的说明 ，后台问得最多的两句话：码到底填哪儿？失效了还有没有新的？ 第二句没法一次答完。邀请码先到先得，一个码的额度用完就报错，我上个月贴的码现在还有效，别人贴的可能几小时就废了。 所以这篇补两件事：兑换的三个步骤，以及怎么自己去 X 上实时找码。 |
-| 2026-09-27 | [我的文化偏好](https://www.hecaitou.com/2026/09/my-cultural-preferences.html) | 因为我在中秋提到了拜月娘，很多读者就很疑惑：你什么时候对潮汕文化如此有兴趣了？ 我就想反问：我什么时候对地方文化没兴趣过？ 当然，面对提问的时候直接用反问的方式回应显得很不友善。那我还可以换一种回答：拜月娘又不是潮汕地区所独有，起码同源文化的福建地区也有，直接判定我对潮汕文化有兴趣很不严谨。 不过这… |
-| 2026-09-27 | [微信公众号和独立博客](https://dsx2016.com/wechat-official-accounts-and-independent-blogs/) | 数据分析 同样的文章，从发布到现在 微信公众号浏览量为35，独立博客浏览量为24 两者差距不算大 但是有一个细... 微信公众号和独立博客 最先出现在 大师兄2016 。 |
-| 2026-09-27 | [水蒸蛋](https://taxodium.ink/recipe-shui-zheng-dan.html) | 水蒸蛋 水蒸蛋有啥難的？打几個雞蛋，加點水，放鍋裡一蒸不就完了嗎？ 我也是這麼想的，但想要蒸出表面光滑、整體水嫩的水蒸蛋，還是有一些細節要注意的。 食材 雞蛋若干個，具體几個，取决於你想吃几個，以及容器大小。 烹飪 打 4 個雞蛋到容器裡，按 1:1.5 的蛋水比例加水 (你可以用半個蛋殻來量，量… |
-| 2026-09-27 | [一些關於連結的建議](https://taxodium.ink/some-advice-about-links.html) | 一些關於連結的建議 內容相關 在分享連結前，可以停下來先想想要不要分享。你的每一次分享都會給連結帶來一定的點擊量，你希望這個連結被傳播嗎？它值得被傳播嗎？有時不分享也許是更好的選擇。 讓連結的文字有意義 ，即使脫離上下文，連結中的文字也應該能說明該連結會前往何處。 錯誤示範：我的博客是 這個 。 正… |
-| 2026-09-27 | [写作能解决什么？](https://mobius.blog/25783.html) | 本期Newsletter回顾了写作的功能及适用人群。写作可以帮助情绪反刍、恢复主体性，但并非每个人适合。探讨了自我与作品的关系，强调写作应为自我对话，而非市场认可。 —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
-| 2026-09-27 | [兄弟们，发现个好东西呀，可以免费使用 6](https://versun.me/blog/tweet-2104034538842411502) | Railway Get a free VM from your terminal or from @muse. Zero sign-up. One command. ssh https://railway.new 兄弟们，发现个好东西呀，可以免费使用 60 分钟的 linux 虚拟机 方法很简单:… |
-| 2026-09-27 | [《路易斯安那系列》文本整理](https://weblog.contained.love/posts/louisiana-series-text/) | 至今竟然还没有人整理出歌佬《路易斯安那系列》的文本，我实在等不及了，就自己来吧。 包括两篇作者杂谈的文字版作为附录在书后。 书籍效果如图： 大致流程为: 截取视频帧 RapidOCR 本地模型识别 Faster-whisper 本地识别校准 排版校对 迭代了很多版之后，仍然有许多细节问题，先发出来再… |
 
 ## Vibe Coding
 
