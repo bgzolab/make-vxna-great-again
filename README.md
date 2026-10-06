@@ -27,6 +27,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-10-06 | [2026 年 8 月 读女性研究，小说，随笔 6 本](https://conge.livingwithfcs.org/2026/10/06/reading-summary/) | 引子 引子 本月读娼妓问题，随时对 7 月份读基层生计的延续。很快我就了解到，娼妓在个人财务上，并非社会底层。 |
 | 2026-10-06 | [Holon：可部署在个人电脑或团队服务器上的 Agent 工作台](https://luweiqing.com/resources/Holon-Agent.html) | Holon 是一套可部署在个人电脑或团队服务器上的 Agent 工作台。它要解决的不是“怎么跟模型聊天”，而是：一件需要跨时间、跨事件、跨人跟进的工作，怎样在你关掉终端之后仍然接着做，并且随时能... |
 | 2026-10-06 | [乌苏啤酒 1986 & 经典 Wusu Beer Co. 1986 & Classic](https://7gugu.com/index.php/2026/10/06/%e4%b9%8c%e8%8b%8f%e5%95%a4%e9%85%92-1986-%e7%bb%8f%e5%85%b8-wusu-beer-co-1986-classic/) | 国庆期间，去北疆赏秋，恰好路过乌苏市，来都来了，必须买两瓶本地产的乌苏尝一下。 外观：淡黄色 清澈 气泡消散快 … 继续阅读 “乌苏啤酒 1986 & 经典 Wusu Beer Co. 1986 & Classic” |
 | 2026-10-06 | [为什么 Polymarket 比交易所邪恶很多倍](https://smallyu.net/2026/10/06/%E4%B8%BA%E4%BB%80%E4%B9%88Polymarket%E6%AF%94%E4%BA%A4%E6%98%93%E6%89%80%E9%82%AA%E6%81%B6%E5%BE%88%E5%A4%9A%E5%80%8D/) | 交易所已经足够邪恶了。 它把杠杆、期货、永续合约、期权这些原本属于专业金融领域的东西，包装成一个任何人拿起手机就可以参与的消费级 App。 一个没有任何金融训练的人，可以在注册账户几分钟后，直接开 20 倍、50 |
