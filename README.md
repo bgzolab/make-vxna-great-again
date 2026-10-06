@@ -27,9 +27,18 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
-| 2026-10-05 | [道德德online新增：核心精要与专题书单](https://blog.mzh.ren/zh/posts/2026/10/daodejing-core/) | 老子《道德经》古本对照阅读——在线背诵与学习 我写 daodejing.online 这个网站的初衷，是想要把整部《道德经》背诵下来。因为我觉得《道德经》只有五千个字，背起来应该比较容易。俗话说“柿子要挑软的捏”，而且我觉得《道德经》文字很优美，背起来应该也会很通畅。 |
+| 2026-10-06 | [康熙微服看短剧](https://www.hecaitou.com/2026/10/The-Emperor-Goes-Slumming.html) | 算起来，我应该是网上写字的人里很早就公开承认自己看网络小说的人，而且一点也不妨碍我在文章里推荐严肃文学。我一点都不觉得分裂，因为文学并不是只有一种用途，也不觉得因为自己读大部头全身就会放光，或者读通俗文学就应该关起门拉上窗帘。 到今天我都还没有看任何短剧，但我对短剧的态度也是一样。最起码，我能做到不… |
+| 2026-10-06 | [为什么 Solana 可以查询代币的 Holder 列表，以太坊不可以？](https://smallyu.net/2026/10/06/%E4%B8%BA%E4%BB%80%E4%B9%88Solana%E5%8F%AF%E4%BB%A5%E6%9F%A5%E8%AF%A2%E4%BB%A3%E5%B8%81%E7%9A%84Holder%E5%88%97%E8%A1%A8%EF%BC%8C%E4%BB%A5%E5%A4%AA%E5%9D%8A%E4%B8%8D%E5%8F%AF%E4%BB%A5%EF%BC%9F/) | 这是一个看起来很简单的问题。 给定一个 Token，例如 USDC，我们想知道： 现在有哪些地址持有它？每个地址分别持有多少？ 在 Solana |
+| 2026-10-06 | [地摊上淘来两个鸡肋对讲机](https://blog.mfwt.top/index.php/archives/1662/) | 国庆小长假临近尾声，之后就没什么假期了，而且这几天有冷空气，气温下降到比较凉快的程度（和去年差不多，十月份的广东就发入冬体验卡了，体验卡过期就热回去了），所以趁着这个机会去了趟岗顶，一来是为了熟... |
+| 2026-10-06 | [Insaniquarium updated](https://macsourceports.com/game/insaniquarium) | The build of Insaniquarium Portable for Insaniquarium has been updated to version 0.2 of the project |
+| 2026-10-06 | [豆腐，与认知边界](https://mobius.blog/25834.html) | 今天这个话题，来自于看完《一饭封神》第二季的总决赛后，突然在脑子里蹦出来的。 总决赛的比赛规则也是需要大家使用 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
+| 2026-10-06 | [古华《芙蓉镇》](https://wujie.me/gu-hua-hibiscus-town/) | 这本书大概从年初就开始看了，断断续续地看了九个月，2026年10月5日的晚上才看完。书本身并不厚，只有207页 … 继续阅读 古华《芙蓉镇》 |
+| 2026-10-06 | [一个抖音遥控器的开发小记](https://www.bmpi.dev/dev/free4chat-task-app-development-notes/) | 从一个只有三个按钮的抖音遥控器出发，沿着 Free4Chat 的 Task、Generated App、WebRTC DataChannel、Agent Runtime、Adapter、ACP/MCP/A2A/A2UI 和 macOS Accessibility，一路拆开它背后的实时协作系统。 |
+| 2026-10-05 | [道德经online新增：核心精要与专题书单](https://blog.mzh.ren/zh/posts/2026/10/daodejing-core/) | 老子《道德经》古本对照阅读——在线背诵与学习 我写 daodejing.online 网站的初衷，是想要把整部《道德经》背诵下来。俗话说“柿子要挑软的捏”，我觉得《道德经》只有五千个字，背起来应该比较容易。而且我觉得《道德经》文字很优美，背起来应该也会很通畅。 |
 | 2026-10-05 | [第十一届网络社会年会｜全球青年学者论坛征稿启事](https://caa-ins.org/archives/13434) | 第十一届网络社会年会11th Annual Conference of Network Society 知者之后：当算力作用于知识After the Knower: When Compute Acts upon Knowledge 全球青年学者论坛｜征稿主旨Global Young Scholars… |
 | 2026-10-05 | [Coffee Break Clojure, Vol.6](https://www.geedea.pro/article/clj6/) | 上一篇 讲解了如何用 Leiningen 管理 Clojure 项目的目录结构和依赖项，今天我们来了解 Clojure 生态中最常见的 Web 后端库 Ring 。不对，和那个 IndieWeb Ring 没有关系。 初识 Ring Ring 是对 Web 服务器的 低层 抽象，也就是说没有实现页面… |
+| 2026-10-05 | [软件工程师必修课：最小必要计算](https://www.less-bug.com/posts/minimal-necessary-computation/) | 你可能从不接触编译器开发。但只要你开发过稍微复杂的软件系统，你都必然面对过同一个结构性困境： 数据源只发生了一次局部微小的变更，计算系统却被迫把大半个流程、甚至全量流程重新执行一遍。 例如： 前端开发：页面中存在多层嵌套的组件树。用户在筛选栏中勾选了一个标签，朴素的数据流可能会让没有发生任何视觉变化… |
+| 2026-10-05 | [立场的反面](https://blog.solazy.me/20261005/) | 今天讲一个和立场相关，和能力相关的话题 |
 | 2026-10-05 | [久违的更新](https://wujie.me/back-to-blogging/) | 很久没更新博客了，其实这两个月早就想更新了，却迟迟没有写出来。每每打开博客后台，写上几句话，然后就这样在草稿箱 … 继续阅读 久违的更新 |
 | 2026-10-05 | [形式熟悉，内容陌生，味道惊喜](https://anotherdayu.com/9891/) | 在国外住久了，试了许多中餐。炒菜、炖菜，常常总觉得差着一点意思。说不出究竟差在哪里，也许是菜不对，也许是火候不对，也许只是人在异乡，嘴也跟着挑剔起来。 面馆却常有意外之喜。 兰州牛肉面、陕西面、日式拉面、越南 Pho，都挺地道。欧美的朋友也吃得很开心，英国老板说她隔段时间就会带侄子去吃一家兰州拉面（… |
 | 2026-10-05 | [R#122 矛盾的信息](https://blog.sakanano.moe/journals/random_122) | 2026.9.29 ~ 2026.10.5 |
@@ -44,6 +53,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-10-05 | [通灵卡片Psychic Paper](https://yuqiqin.me/) | 通灵卡片Psychic Paper 简介 欢迎来到我的 数字花园 ，这里是我分享工作、学习和生活的个人博客。 我给它取名为通灵卡片（ Psychic Paper ），这是来自英国国宝级科幻电视剧《神秘博士》中的一个小道具，它本身是一张空白的卡片，但是看着它的人会在卡片上看到使用者想让他们看到的内容。… |
 | 2026-10-05 | [磨损与魔法](https://mobius.blog/25827.html) | 我正在码字的电脑，电脑键盘磨损得惨不忍睹，在特定的光线角度下，会显得格外的刺眼，甚至显得有些脏兮兮、油乎乎的。 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-10-04 | [AI 狂飙，怎么才能 10 倍 or 100 倍自己的工作效率（2026-09-月度小结）](https://yuanchaofa.com/blog/2026-09-month-summary) | 认真思考如何利用 Agent 把自己的工作效率提升到 10 倍甚至 100 倍，也尝试用 Multica 和 Hermes Agent 建立属于自己的工作流。同时，因为 B 站计税方式变化，我重新思考视频商业化，并决定放下数据焦虑，继续做让自己开心的视频。 |
+| 2026-10-04 | [假期过半了](https://blog.solazy.me/20261004/) | 时间过得很快，今年的最后一个长假已经过半了 |
 | 2026-10-04 | [Near By Guru: 找到你身边的开源上师](https://www.ixiqin.com/2026/10/04/near-by-guru-find-an-open-source-guru-by-your-side/) | 在上一篇《开源，可能是新手软件工程师的唯一的路了，所以我做了 GoodFirstIssue.org》中，我介绍 […] |
 | 2026-10-04 | [开源，可能是新手软件工程师的唯一的路了，所以我做了 GoodFirstIssue.org](https://www.ixiqin.com/2026/10/04/open-source-may-be-the-only-path-for-novice-software/) | TL;DRAI 能写代码之后，企业更想招一个熟手配上 AI，而不是一个新手。新手要被看见，开源是唯一的一条不用 […] |
 | 2026-10-04 | [Vol.120 第115期AI精选：个人智能体产品潮，贴身智能与人的判断位置](https://liduos.com/weekly/the-weekly-gradient-120) | 本期内容聚焦个人智能体的产品发布潮，从贴身处事、模型降价与语音接口，到评审问责与人的判断位置，回答智能体如何进入生活、人退到哪里。 |
@@ -89,7 +99,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-10-02 | [入蜀记 day489 鸟与台风](https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_489/) | 「鸟与台风。」 |
 | 2026-10-02 | [微信公众号账号风险](https://dsx2016.com/wechat-official-account-risks/) | 公众号风险提示 公众号助手，账号检测，风险 提示有引导兼职，网赚等风险 才夸它不用折腾服务器，就来一招风险提示... 微信公众号账号风险 最先出现在 大师兄2016 。 |
 | 2026-10-02 | [ROG Ally 改装 jsaux 65Wh 电池套件](https://guchengf.me/blog/2026-10-02-rain/) | 最近重新开始高频地使用 ROG Ally，然后发现它的续航和散热是比较大的问题，即使只以12-15w的功率来运行，续航也明显有点弱。 经过一番搜索（结合AI推荐），找到了 jsaux 的电池升级套件 ，主要考虑了以下几个因素： 稳定性。 稳定性毫无疑问是最重要的，65Wh的方案似乎是社区验证最多的，… |
-| 2026-10-02 | [New Release: Insaniquarium](https://macsourceports.com/game/insaniquarium) | Insaniquarium is a game where you feed fish. And fight aliens. And feed fish to other fish. And avoid electrocution. By now you either think this game… |
 | 2026-10-02 | [第五年 III](https://mobius.blog/25820.html) | 现在在写的内容，其实是明天要定时发布的，明明都说了是在放假期间“开天窗”，但由于提前写完的东西早就没有库存了， […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-10-02 | [收到 @levelsio 发的会员邮件了](https://versun.me/blog/tweet-2105832202957447602) | 收到 @levelsio 发的会员邮件了，我都快忘了，一年也就一两封。 很喜欢他写的一篇感想：当一件事 AI 做得和人一样好时，这件事就不再特别了。 比如最近 Opus 5.5 席卷了营销视频。在以前，同样的效果需要大量剪辑、动态设计和预算，现在几乎 0 成本。 这意味着任何人都能做出同等质量的内容… |
 | 2026-10-02 | [我对 Gemini 4 的期待是，比3.](https://versun.me/blog/tweet-2105810440253260270) | 我对 Gemini 4 的期待是，比3.8 flash 好就行了，不期待它能横扫 claude 和 openai |

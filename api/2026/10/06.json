@@ -1,9 +1,58 @@
 [
   {
-    "title": "道德德online新增：核心精要与专题书单",
+    "title": "康熙微服看短剧",
+    "url": "https://www.hecaitou.com/2026/10/The-Emperor-Goes-Slumming.html",
+    "date": "2026-10-06T05:08:55Z",
+    "description": "算起来，我应该是网上写字的人里很早就公开承认自己看网络小说的人，而且一点也不妨碍我在文章里推荐严肃文学。我一点都不觉得分裂，因为文学并不是只有一种用途，也不觉得因为自己读大部头全身就会放光，或者读通俗文学就应该关起门拉上窗帘。 到今天我都还没有看任何短剧，但我对短剧的态度也是一样。最起码，我能做到不用看短剧这件事去评判一个人，尤其是判断对方的审美和智商。如果真要吐槽，也许我会对只看短剧这件事有些意见。不是因为短剧高或者低，而是只看某样东西会让人视野狭窄，不独是短剧，只看优质英剧也是一样。 但是在现实中，人们的想法和我不大一样。前阵子有条热闻，说是许多文化名流承认自己看短剧，于是文艺青年的精神世界顿时崩塌了。这种新闻我很不喜欢，它隐藏着一种居高临下的心态。名导演、名作家看短剧，是某种很失身份的事情，严肃文艺是高的，通俗文艺是低的，人只能往高处走，一旦向下那就是堕落。 但人是多么复杂的一种动物啊。就说「精神追求」这四个字，如果认真讨论一下的话，具体追求什么呢？追求深度广度是追求，那追求放松娱乐算不算也是一种？还是说法律规定了，追求就必须向上追？往深里追？ 当然会有反驳说，既然是「追求」，意",
+    "source_root_domain": "hecaitou.com"
+  },
+  {
+    "title": "为什么 Solana 可以查询代币的 Holder 列表，以太坊不可以？",
+    "url": "https://smallyu.net/2026/10/06/%E4%B8%BA%E4%BB%80%E4%B9%88Solana%E5%8F%AF%E4%BB%A5%E6%9F%A5%E8%AF%A2%E4%BB%A3%E5%B8%81%E7%9A%84Holder%E5%88%97%E8%A1%A8%EF%BC%8C%E4%BB%A5%E5%A4%AA%E5%9D%8A%E4%B8%8D%E5%8F%AF%E4%BB%A5%EF%BC%9F/",
+    "date": "2026-10-06T04:28:19Z",
+    "description": "这是一个看起来很简单的问题。 给定一个 Token，例如 USDC，我们想知道： 现在有哪些地址持有它？每个地址分别持有多少？ 在 Solana",
+    "source_root_domain": "smallyu.net"
+  },
+  {
+    "title": "地摊上淘来两个鸡肋对讲机",
+    "url": "https://blog.mfwt.top/index.php/archives/1662/",
+    "date": "2026-10-06T03:57:00Z",
+    "description": "国庆小长假临近尾声，之后就没什么假期了，而且这几天有冷空气，气温下降到比较凉快的程度（和去年差不多，十月份的广东就发入冬体验卡了，体验卡过期就热回去了），所以趁着这个机会去了趟岗顶，一来是为了熟...",
+    "source_root_domain": "mfwt.top"
+  },
+  {
+    "title": "Insaniquarium updated",
+    "url": "https://macsourceports.com/game/insaniquarium",
+    "date": "2026-10-06T02:27:57Z",
+    "description": "The build of Insaniquarium Portable for Insaniquarium has been updated to version 0.2 of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "豆腐，与认知边界",
+    "url": "https://mobius.blog/25834.html",
+    "date": "2026-10-06T01:30:00Z",
+    "description": "今天这个话题，来自于看完《一饭封神》第二季的总决赛后，突然在脑子里蹦出来的。 总决赛的比赛规则也是需要大家使用 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。",
+    "source_root_domain": "onojyun.com"
+  },
+  {
+    "title": "古华《芙蓉镇》",
+    "url": "https://wujie.me/gu-hua-hibiscus-town/",
+    "date": "2026-10-06T01:27:41Z",
+    "description": "这本书大概从年初就开始看了，断断续续地看了九个月，2026年10月5日的晚上才看完。书本身并不厚，只有207页 … 继续阅读 古华《芙蓉镇》",
+    "source_root_domain": "wujie.me"
+  },
+  {
+    "title": "一个抖音遥控器的开发小记",
+    "url": "https://www.bmpi.dev/dev/free4chat-task-app-development-notes/",
+    "date": "2026-10-06T00:00:00Z",
+    "description": "从一个只有三个按钮的抖音遥控器出发，沿着 Free4Chat 的 Task、Generated App、WebRTC DataChannel、Agent Runtime、Adapter、ACP/MCP/A2A/A2UI 和 macOS Accessibility，一路拆开它背后的实时协作系统。",
+    "source_root_domain": "bmpi.dev"
+  },
+  {
+    "title": "道德经online新增：核心精要与专题书单",
     "url": "https://blog.mzh.ren/zh/posts/2026/10/daodejing-core/",
     "date": "2026-10-05T21:17:40Z",
-    "description": "老子《道德经》古本对照阅读——在线背诵与学习 我写 daodejing.online 这个网站的初衷，是想要把整部《道德经》背诵下来。因为我觉得《道德经》只有五千个字，背起来应该比较容易。俗话说“柿子要挑软的捏”，而且我觉得《道德经》文字很优美，背起来应该也会很通畅。",
+    "description": "老子《道德经》古本对照阅读——在线背诵与学习 我写 daodejing.online 网站的初衷，是想要把整部《道德经》背诵下来。俗话说“柿子要挑软的捏”，我觉得《道德经》只有五千个字，背起来应该比较容易。而且我觉得《道德经》文字很优美，背起来应该也会很通畅。",
     "source_root_domain": "mzh.ren"
   },
   {
@@ -19,6 +68,20 @@
     "date": "2026-10-05T16:17:09Z",
     "description": "上一篇 讲解了如何用 Leiningen 管理 Clojure 项目的目录结构和依赖项，今天我们来了解 Clojure 生态中最常见的 Web 后端库 Ring 。不对，和那个 IndieWeb Ring 没有关系。 初识 Ring Ring 是对 Web 服务器的 低层 抽象，也就是说没有实现页面路由（router），和通常的后端框架（比如 Go 的 Gin、Python 的 Django、Java 的 Spring Web 等）有很大区别。 根据 Ring Spec 1.6.1 ，Ring 主要有三个概念： Handler（处理器） Middleware（中间件） Adapter（适配器） Ring 提供了三种 API： 同步 API、异步 API 和 WebSocket API。不同的 API 在概念上略有不同，我们先从最简单的同步 API 讲起。 Handler 就是一个函数，接收 HTTP 请求，返回 HTTP 响应。 ;; 一个示例 Handler ( fn [request] response) 异步 API 的区别不大，只不过，由于 Handler 的结果需要异步返回，",
     "source_root_domain": "geedea.pro"
+  },
+  {
+    "title": "软件工程师必修课：最小必要计算",
+    "url": "https://www.less-bug.com/posts/minimal-necessary-computation/",
+    "date": "2026-10-05T16:00:00Z",
+    "description": "你可能从不接触编译器开发。但只要你开发过稍微复杂的软件系统，你都必然面对过同一个结构性困境： 数据源只发生了一次局部微小的变更，计算系统却被迫把大半个流程、甚至全量流程重新执行一遍。 例如： 前端开发：页面中存在多层嵌套的组件树。用户在筛选栏中勾选了一个标签，朴素的数据流可能会让没有发生任何视觉变化的数十个底层表格组件也重新执行布局计算。 后端/大数据工程：数仓维护着包含复杂聚合的数据。如果上游某张基础配置表修改了一行记录，缺乏依赖推断的批处理任务可能不得不把全量历史流水表重新 JOIN 一遍。 图形：场景图中包含成百上千个具有从属关系的物体。边缘叶子节点发生了一次微小位移，朴素实现需要自顶向下遍历并重新计算整棵树的世界坐标矩阵。 在本系列中，我们会以 Salsa（一个开源的 Rust 响应式与按需增量计算框架） 作为样本，拆解复杂计算系统如何做到“输入改变时，只重算绝对必要的最少代码”。 无论您是否是Rust 开发者、编译器工程师，只要您对增量计算、响应式编程或构建系统的底层原理感兴趣，本文都值得一读。 困境和 Salsa 的解法 很多工程师都在代码编辑器中使用过代码补全与实时诊断功",
+    "source_root_domain": "less-bug.com"
+  },
+  {
+    "title": "立场的反面",
+    "url": "https://blog.solazy.me/20261005/",
+    "date": "2026-10-05T15:30:00Z",
+    "description": "今天讲一个和立场相关，和能力相关的话题",
+    "source_root_domain": "solazy.me"
   },
   {
     "title": "久违的更新",
@@ -117,6 +180,13 @@
     "date": "2026-10-04T15:00:00Z",
     "description": "认真思考如何利用 Agent 把自己的工作效率提升到 10 倍甚至 100 倍，也尝试用 Multica 和 Hermes Agent 建立属于自己的工作流。同时，因为 B 站计税方式变化，我重新思考视频商业化，并决定放下数据焦虑，继续做让自己开心的视频。",
     "source_root_domain": "bruceyuan.com"
+  },
+  {
+    "title": "假期过半了",
+    "url": "https://blog.solazy.me/20261004/",
+    "date": "2026-10-04T15:00:00Z",
+    "description": "时间过得很快，今年的最后一个长假已经过半了",
+    "source_root_domain": "solazy.me"
   },
   {
     "title": "Near By Guru: 找到你身边的开源上师",
