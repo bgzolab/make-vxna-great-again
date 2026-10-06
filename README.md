@@ -27,6 +27,9 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-10-06 | [Holon：可部署在个人电脑或团队服务器上的 Agent 工作台](https://luweiqing.com/resources/Holon-Agent.html) | Holon 是一套可部署在个人电脑或团队服务器上的 Agent 工作台。它要解决的不是“怎么跟模型聊天”，而是：一件需要跨时间、跨事件、跨人跟进的工作，怎样在你关掉终端之后仍然接着做，并且随时能... |
+| 2026-10-06 | [乌苏啤酒 1986 & 经典 Wusu Beer Co. 1986 & Classic](https://7gugu.com/index.php/2026/10/06/%e4%b9%8c%e8%8b%8f%e5%95%a4%e9%85%92-1986-%e7%bb%8f%e5%85%b8-wusu-beer-co-1986-classic/) | 国庆期间，去北疆赏秋，恰好路过乌苏市，来都来了，必须买两瓶本地产的乌苏尝一下。 外观：淡黄色 清澈 气泡消散快 … 继续阅读 “乌苏啤酒 1986 & 经典 Wusu Beer Co. 1986 & Classic” |
+| 2026-10-06 | [为什么 Polymarket 比交易所邪恶很多倍](https://smallyu.net/2026/10/06/%E4%B8%BA%E4%BB%80%E4%B9%88Polymarket%E6%AF%94%E4%BA%A4%E6%98%93%E6%89%80%E9%82%AA%E6%81%B6%E5%BE%88%E5%A4%9A%E5%80%8D/) | 交易所已经足够邪恶了。 它把杠杆、期货、永续合约、期权这些原本属于专业金融领域的东西，包装成一个任何人拿起手机就可以参与的消费级 App。 一个没有任何金融训练的人，可以在注册账户几分钟后，直接开 20 倍、50 |
 | 2026-10-06 | [康熙微服看短剧](https://www.hecaitou.com/2026/10/The-Emperor-Goes-Slumming.html) | 算起来，我应该是网上写字的人里很早就公开承认自己看网络小说的人，而且一点也不妨碍我在文章里推荐严肃文学。我一点都不觉得分裂，因为文学并不是只有一种用途，也不觉得因为自己读大部头全身就会放光，或者读通俗文学就应该关起门拉上窗帘。 到今天我都还没有看任何短剧，但我对短剧的态度也是一样。最起码，我能做到不… |
 | 2026-10-06 | [为什么 Solana 可以查询代币的 Holder 列表，以太坊不可以？](https://smallyu.net/2026/10/06/%E4%B8%BA%E4%BB%80%E4%B9%88Solana%E5%8F%AF%E4%BB%A5%E6%9F%A5%E8%AF%A2%E4%BB%A3%E5%B8%81%E7%9A%84Holder%E5%88%97%E8%A1%A8%EF%BC%8C%E4%BB%A5%E5%A4%AA%E5%9D%8A%E4%B8%8D%E5%8F%AF%E4%BB%A5%EF%BC%9F/) | 这是一个看起来很简单的问题。 给定一个 Token，例如 USDC，我们想知道： 现在有哪些地址持有它？每个地址分别持有多少？ 在 Solana |
 | 2026-10-06 | [地摊上淘来两个鸡肋对讲机](https://blog.mfwt.top/index.php/archives/1662/) | 国庆小长假临近尾声，之后就没什么假期了，而且这几天有冷空气，气温下降到比较凉快的程度（和去年差不多，十月份的广东就发入冬体验卡了，体验卡过期就热回去了），所以趁着这个机会去了趟岗顶，一来是为了熟... |
@@ -37,7 +40,9 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-10-05 | [道德经online新增：核心精要与专题书单](https://blog.mzh.ren/zh/posts/2026/10/daodejing-core/) | 老子《道德经》古本对照阅读——在线背诵与学习 我写 daodejing.online 网站的初衷，是想要把整部《道德经》背诵下来。俗话说“柿子要挑软的捏”，我觉得《道德经》只有五千个字，背起来应该比较容易。而且我觉得《道德经》文字很优美，背起来应该也会很通畅。 |
 | 2026-10-05 | [第十一届网络社会年会｜全球青年学者论坛征稿启事](https://caa-ins.org/archives/13434) | 第十一届网络社会年会11th Annual Conference of Network Society 知者之后：当算力作用于知识After the Knower: When Compute Acts upon Knowledge 全球青年学者论坛｜征稿主旨Global Young Scholars… |
 | 2026-10-05 | [Coffee Break Clojure, Vol.6](https://www.geedea.pro/article/clj6/) | 上一篇 讲解了如何用 Leiningen 管理 Clojure 项目的目录结构和依赖项，今天我们来了解 Clojure 生态中最常见的 Web 后端库 Ring 。不对，和那个 IndieWeb Ring 没有关系。 初识 Ring Ring 是对 Web 服务器的 低层 抽象，也就是说没有实现页面… |
+| 2026-10-05 | [深圳-拉萨自驾-游记](https://elmagnifico.tech/2026/10/06/shenzhen-lasa-ontheway/) | Foreword 如上篇所提，今年中秋和国庆中间卡了三天班，直接请假从 9 月 25 号连到 10 月 7 号，一共 13 天。去拉萨，拖车到成都再开 318到拉萨，后续车拖回深圳，我从拉萨直接飞回来。 准备 预算 拖车到成都1700，拉萨拖回来3000，飞成都1600，拉萨飞回3900，这部分固定… |
 | 2026-10-05 | [软件工程师必修课：最小必要计算](https://www.less-bug.com/posts/minimal-necessary-computation/) | 你可能从不接触编译器开发。但只要你开发过稍微复杂的软件系统，你都必然面对过同一个结构性困境： 数据源只发生了一次局部微小的变更，计算系统却被迫把大半个流程、甚至全量流程重新执行一遍。 例如： 前端开发：页面中存在多层嵌套的组件树。用户在筛选栏中勾选了一个标签，朴素的数据流可能会让没有发生任何视觉变化… |
+| 2026-10-05 | [嘿，来看看我的新博客 —— 从 WordPress 到 Astro](https://veryjack.com/technique/wordpress-to-astro/) | 如果你最近打开过我的博客，应该已经发现，这个小破站换了一个新模样。花了几天时间，我将博客从用了四年的 WordPress 迁移到了 Astro，保留了原本的文章、评论和大部分功能及页面，也重新设计了博客的样式。 |
 | 2026-10-05 | [立场的反面](https://blog.solazy.me/20261005/) | 今天讲一个和立场相关，和能力相关的话题 |
 | 2026-10-05 | [久违的更新](https://wujie.me/back-to-blogging/) | 很久没更新博客了，其实这两个月早就想更新了，却迟迟没有写出来。每每打开博客后台，写上几句话，然后就这样在草稿箱 … 继续阅读 久违的更新 |
 | 2026-10-05 | [形式熟悉，内容陌生，味道惊喜](https://anotherdayu.com/9891/) | 在国外住久了，试了许多中餐。炒菜、炖菜，常常总觉得差着一点意思。说不出究竟差在哪里，也许是菜不对，也许是火候不对，也许只是人在异乡，嘴也跟着挑剔起来。 面馆却常有意外之喜。 兰州牛肉面、陕西面、日式拉面、越南 Pho，都挺地道。欧美的朋友也吃得很开心，英国老板说她隔段时间就会带侄子去吃一家兰州拉面（… |
