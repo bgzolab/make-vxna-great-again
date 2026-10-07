@@ -27,6 +27,16 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-10-07 | [我要免费送妳一支花](https://kaix.in/2026/1007/) | 女儿又独自一人去旅游了，时常跟我分享见闻。昨晚有个老太太说要把一支花免费送给她，但是又说如果觉得不好意思就看着给点钱，而且还一直跟着走。女儿原本真以为遇到雅事一桩，因此并没觉得不好意思，但见对方表情逐渐「恶化」，这才把花还了回去。 无独有偶，昨天我接到一通电话，是运营商打来的——先生您的套餐下个月到… |
+| 2026-10-07 | [翻译-为什么纯文本仍然是我们拥有的最佳技术之一](https://blog.prayhand13013.top/20261007T180116--翻译-为什么纯文本仍然是我们拥有的最佳技术之一__blog.html) |  |
+| 2026-10-07 | [Memos: 十一约教练学了几天车](https://blog.yasking.org/a/1791357305) | 驾照是在几年前考下来的，但一直不会开车，这个十一有些时间，想着学习下，后续自驾出行方便很多。 先在闲鱼上找了带车 … |
+| 2026-10-07 | [博客装修记：再见了，所有的 jQuery](https://blog.mfwt.top/index.php/archives/1669/) | 国庆假期即将结束，回想起来以前中学（尤其是高中）时候，总是会有老师在群里发通知说『假期结束，是时候收心了，回校当天检查所有作业，并进行月考』之类很恐怖的话。现在大学了，这种东西已经消失，当然也舒... |
+| 2026-10-07 | [吃的选择](https://www.hecaitou.com/2026/10/what-we-choose-to-eat.html) | 一写文章谈做菜，谈吃，每个人都觉得自己有发言权，因为随随便便自己都有十几年几十年吃的经验，搞不好也有那么多年做菜的经验。 我对此表示怀疑。天天做的事情未必就一定能做好，不信的话，看看做工的，做父母的，是不是每个都很出色。这还是对外，吃更接近于对内，那再看看大家睡得都好吗？牙都刷得干净吗？ 吃在我看来… |
+| 2026-10-07 | [最近惦念 20260928](https://z.arlmy.me/posts/TILs/thoughts/20260928_Recently/) | 「只做，一件事情。」 |
+| 2026-10-07 | [最近惦念 20260917](https://z.arlmy.me/posts/TILs/thoughts/20260917_Recently/) | 「这里曾经有一个人。」 |
+| 2026-10-07 | [入蜀记 day497 文竹换土、林简七、任性](https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_497/) | 「文竹换土、林简七、任性。」 |
+| 2026-10-07 | [入蜀记 day496 炸葱油](https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_496/) | 「炸葱油。」 |
+| 2026-10-07 | [入蜀记 day495 服务费、coser、人生换位](https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_495/) | 「服务费、coser、人生换位。」 |
 | 2026-10-07 | [Quake II updated](https://macsourceports.com/game/quake2) | The build of Quake II RTX: Metal for Quake II has been updated to version 1.0 of the project |
 | 2026-10-07 | [Star Wars: TIE Fighter updated](https://macsourceports.com/game/swtiefighter) | The build of OpenTIE for Star Wars: TIE Fighter has been updated to version v0.0.7 of the project |
 | 2026-10-07 | [Total Annihilation updated](https://macsourceports.com/game/totalannihilation) | The build of Open Annihilation for Total Annihilation has been updated to version v0.7.2 of the project |
