@@ -27,10 +27,18 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-10-07 | [Quake II updated](https://macsourceports.com/game/quake2) | The build of Quake II RTX: Metal for Quake II has been updated to version 1.0 of the project |
+| 2026-10-07 | [Star Wars: TIE Fighter updated](https://macsourceports.com/game/swtiefighter) | The build of OpenTIE for Star Wars: TIE Fighter has been updated to version v0.0.7 of the project |
+| 2026-10-07 | [Total Annihilation updated](https://macsourceports.com/game/totalannihilation) | The build of Open Annihilation for Total Annihilation has been updated to version v0.7.2 of the project |
+| 2026-10-07 | [Quetoo updated](https://macsourceports.com/game/quetoo) | The build of Quetoo has been updated to version v1.0.121 of the project |
+| 2026-10-07 | [那就活着](https://mobius.blog/25838.html) | 1652 &#124; 自杀后的同情标准与理解原则 这两天某公司正值人生发展上升趋于平稳时期（如果直接说“40岁”感觉又 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
+| 2026-10-06 | [放弃了，评测集是真的不好做，特别是涉及众](https://versun.me/blog/tweet-2107611356501582200) | Versun 正在做一份本地模型的实用能力排行榜，测试集是从各种公开 benchmark中挑选微调，覆盖任务拆解、代码开发、长链路执行、上下文、指令遵循、记忆抽取、逻辑与常识 7 个维度 目前针对本地模型的评测很少，不知道有人感兴趣不，关注人多的话，我尽快测完放出来 放弃了，评测集是真的不好做，特别… |
 | 2026-10-06 | [2026 年 8 月 读女性研究，小说，随笔 6 本](https://conge.livingwithfcs.org/2026/10/06/reading-summary/) | 引子 引子 本月读娼妓问题，随时对 7 月份读基层生计的延续。很快我就了解到，娼妓在个人财务上，并非社会底层。 |
+| 2026-10-06 | [我的不想要](https://blog.solazy.me/20261006/) | 比起知道自己想要什么，我觉得知道自己不想要什么更重要 |
 | 2026-10-06 | [Holon：可部署在个人电脑或团队服务器上的 Agent 工作台](https://luweiqing.com/resources/Holon-Agent.html) | Holon 是一套可部署在个人电脑或团队服务器上的 Agent 工作台。它要解决的不是“怎么跟模型聊天”，而是：一件需要跨时间、跨事件、跨人跟进的工作，怎样在你关掉终端之后仍然接着做，并且随时能... |
 | 2026-10-06 | [乌苏啤酒 1986 & 经典 Wusu Beer Co. 1986 & Classic](https://7gugu.com/index.php/2026/10/06/%e4%b9%8c%e8%8b%8f%e5%95%a4%e9%85%92-1986-%e7%bb%8f%e5%85%b8-wusu-beer-co-1986-classic/) | 国庆期间，去北疆赏秋，恰好路过乌苏市，来都来了，必须买两瓶本地产的乌苏尝一下。 外观：淡黄色 清澈 气泡消散快 … 继续阅读 “乌苏啤酒 1986 & 经典 Wusu Beer Co. 1986 & Classic” |
 | 2026-10-06 | [为什么 Polymarket 比交易所邪恶很多倍](https://smallyu.net/2026/10/06/%E4%B8%BA%E4%BB%80%E4%B9%88Polymarket%E6%AF%94%E4%BA%A4%E6%98%93%E6%89%80%E9%82%AA%E6%81%B6%E5%BE%88%E5%A4%9A%E5%80%8D/) | 交易所已经足够邪恶了。 它把杠杆、期货、永续合约、期权这些原本属于专业金融领域的东西，包装成一个任何人拿起手机就可以参与的消费级 App。 一个没有任何金融训练的人，可以在注册账户几分钟后，直接开 20 倍、50 |
+| 2026-10-06 | [谷歌的 gemini 3.8 flash](https://versun.me/blog/tweet-2107354159343362250) | 谷歌的 gemini 3.8 flash 最近肯定降智了，做的东西还不如swe-2 |
 | 2026-10-06 | [康熙微服看短剧](https://www.hecaitou.com/2026/10/The-Emperor-Goes-Slumming.html) | 算起来，我应该是网上写字的人里很早就公开承认自己看网络小说的人，而且一点也不妨碍我在文章里推荐严肃文学。我一点都不觉得分裂，因为文学并不是只有一种用途，也不觉得因为自己读大部头全身就会放光，或者读通俗文学就应该关起门拉上窗帘。 到今天我都还没有看任何短剧，但我对短剧的态度也是一样。最起码，我能做到不… |
 | 2026-10-06 | [为什么 Solana 可以查询代币的 Holder 列表，以太坊不可以？](https://smallyu.net/2026/10/06/%E4%B8%BA%E4%BB%80%E4%B9%88Solana%E5%8F%AF%E4%BB%A5%E6%9F%A5%E8%AF%A2%E4%BB%A3%E5%B8%81%E7%9A%84Holder%E5%88%97%E8%A1%A8%EF%BC%8C%E4%BB%A5%E5%A4%AA%E5%9D%8A%E4%B8%8D%E5%8F%AF%E4%BB%A5%EF%BC%9F/) | 这是一个看起来很简单的问题。 给定一个 Token，例如 USDC，我们想知道： 现在有哪些地址持有它？每个地址分别持有多少？ 在 Solana |
 | 2026-10-06 | [地摊上淘来两个鸡肋对讲机](https://blog.mfwt.top/index.php/archives/1662/) | 国庆小长假临近尾声，之后就没什么假期了，而且这几天有冷空气，气温下降到比较凉快的程度（和去年差不多，十月份的广东就发入冬体验卡了，体验卡过期就热回去了），所以趁着这个机会去了趟岗顶，一来是为了熟... |
@@ -67,8 +75,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-10-04 | [油管YPP广告分成](https://dsx2016.com/youtube-partner-program-ypp-ad-revenue-sharing/) | YPP回收 不要以为开通了YPP，就一直可以广告分成 它会以各种理由不定期收回，比如使用AI，低质量，其他版权... 油管YPP广告分成 最先出现在 大师兄2016 。 |
 | 2026-10-04 | [捡垃圾之乐](https://www.hecaitou.com/2026/10/The-Joy-of-Junk.html) | 我认为世间没有所谓的「垃圾」，只存在价值错配。 如果你从这个角度去观察，世事就会变得有趣起来，不再局限在高级VS.低级，高档VS.垃圾这样的对立概念里。前几天我看到一条新闻，某位上海老教授去世之后，他的藏书被家人搬到楼下，一人两本大赠送。 老教授在世的时候，这些藏书都是他一本本精挑细选而来，选内容，… |
 | 2026-10-04 | [New Release: SimCity 2000](https://macsourceports.com/game/simcity2000) | The 90's were a wild time for a lot of reasons, not the least of which was that we were obsessed with tacking the number "2000" onto everything. So in… |
-| 2026-10-04 | [Total Annihilation updated](https://macsourceports.com/game/totalannihilation) | The build of Open Annihilation for Total Annihilation has been updated to version v0.6.2 of the project |
-| 2026-10-04 | [Quetoo updated](https://macsourceports.com/game/quetoo) | The build of Quetoo has been updated to version v1.0.120 of the project |
 | 2026-10-04 | [Oni updated](https://macsourceports.com/game/oni) | The build of OniARM64 for Oni has been updated to version v1.3.1 of the project |
 | 2026-10-04 | [经实测，Gemini Pro 订阅的 o](https://versun.me/blog/tweet-2106567037443256701) | 经实测，Gemini Pro 订阅的 opus 5.5 额度， 5小时只有 4M token，一周最多2个5小时额度，也就是8M token。。。。。 |
 | 2026-10-04 | [自从 hermes 经历了代码大清理以后](https://versun.me/blog/tweet-2106536614839423272) | Nous Research New blog post: We had a million lines of Python to clean up. On September 2nd @Teknium asked Hermes Agent to do it. 1,393 subagents and… |
@@ -153,29 +159,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-09-30 | [微信小程序备案和贴图话题](https://dsx2016.com/wechat-mini-program-filing-and-sticker-related-topics/) | 微信小程序备案 我的第一个微信小程序好像没有备案，只有微信认证，记不清是备案后忘了还是没备案 但是第二个微信小... 微信小程序备案和贴图话题 最先出现在 大师兄2016 。 |
 | 2026-09-30 | [免费音乐的破解之道](https://jubeny.com/2026/09/unlock-free-music/) | 听歌用了很多年的Spotify，加入过不同的家庭车，随着最后一班车的解散，懒得去寻新车，也不想自己开车，于是顺势转用免费的Youtube Music。 使用Youtube Music有三种途径——网页版、官方App和三方App，但哪一种都不太令人满意。 |
 | 2026-09-30 | [无聊的 OpenAI DevDay 技术](https://versun.me/blog/tweet-2105088356887793985) | 无聊的 OpenAI DevDay 技术上几乎毫无新东西，全是在“弥补、缝合、抄竞品和挖护城河” 1. 缝合 • dots：本质就是抄 Meta Muse 的萌系拟人化外壳，加了一个类似 Claude Tag 的 Slack 独立工作身份，再塞进 Codex 里跑工具 • ChatGPT Space… |
-| 2026-09-29 | [GPT 6.1 Sol 应该就是正式版的](https://versun.me/blog/tweet-2105083998066409680) | GPT 6.1 Sol 应该就是正式版的 GPT 6 Sol吧😂 |
-| 2026-09-29 | [A Toy Port for My Daughter](https://victor42.eth.limo/post-en/daughter-toy-port/) | A small experiment in tidying education and task management. Last night my daughter broke a large toy beetle, and its wings and head came off. I meant… |
-| 2026-09-29 | [女儿的玩具港口](https://victor42.eth.limo/post/daughter-toy-port/) | 一次关于收纳教育与任务管理的小实验。 昨晚，女儿把一个玩具大甲虫摔坏了，翅膀和头掉下来。 我本打算修，忽然想到可以让她看看我解决问题的思路。我拿起甲虫身体和翅膀，我说，这边翅膀掉下来了，但是我没注意之前是怎么样的，我不知道怎么装回去了。怎么办呢，诶！它两个翅膀是一样的，我来看看另外一个翅膀是怎么固定… |
-| 2026-09-29 | [AI教会了女儿洗澡](https://victor42.eth.limo/post/daughter-learns-to-bath/) | 都在问AI在工作中有什么应用，很少人问生活中有什么应用。 女儿最近学会了洗澡。但只能说是不怕水了，还搞不清顺序，也会漏洗一些地方。同时也非常磨蹭，洗着洗着就玩起来。 骂也骂了，想想觉得骂也没什么用，干脆把洗澡变成游戏吧。 拿 AI 生成了这么个图，打印两张带回家。一张纯粹给女儿当涂色卡玩。另一张让她… |
-| 2026-09-29 | [How AI Taught My Daughter to Take a Bath](https://victor42.eth.limo/post-en/daughter-learns-to-bath/) | Everyone asks what AI can do at work, but few ask what it can do in daily life. My daughter recently learned to take a bath. But it is more that she i… |
-| 2026-09-29 | [关于意识 - 假如 AI 觉醒了](https://i.hsfzxjy.site/on-consciousness-with-chatgpt-1/) | 本文收录于 系列《假如 AI 觉醒了》 。 意识与主观体验 我：</stron |
-| 2026-09-29 | [假如 AI 觉醒了](https://i.hsfzxjy.site/what-if-ai-awakes/) | 《假如 AI 觉醒了》是一个新系列，以访谈纪要的形式，记录本人与 ChatGPT 所做的大量思想实验，以及对未知事物的讨论。 文章内容改写自本人与 ChatGPT 的聊天记录。原记录为全英文，翻译后由本人削去部分重复及无关内容，调整表达、语气及顺序，增添阅 |
-| 2026-09-29 | [让人运气变好的秘诀](https://blog.solazy.me/20260929/) | 今天看直播突然看到一个有趣的事儿，来和大家分享一下 |
-| 2026-09-29 | [如何在Antigravity中设置定时任务](https://brain-zhang.github.io/blog/2026/09/29/ru-he-zai-antigravityzhong-she-zhi-ding-shi-ren-wu/) | Antigravity中有设置定时任务的选项；但是界面设置，只能每次都开启一个新的session，如果指定每次定时任务都在一个session中完成，需要直接修改配置文件: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 vim ~/.gemini/config/side… |
-| 2026-09-29 | [Coffee Break Clojure, Vol.4](https://www.geedea.pro/article/clj4/) | 今天的文章衔接 上一期 有关集合（collection）和序列（sequence）的知识，来讨论一种特殊的集合，叫惰性序列（lazy seq）。我们还会接触到函数式编程（functional programing）。 其实在另一门名为 Haskell 的语言里，也能见到惰性，而 Haskell 是纯… |
-| 2026-09-29 | [AI漫谈录-6 相对论与量子力学观测者效应的统一](https://brain-zhang.github.io/blog/2026/09/29/aiman-tan-lu-6-xiang-dui-lun-yu-liang-zi-li-xue-guan-ce-zhe-xiao-ying-de-tong-%5B%3F%5D/) | 我现在每天跟AI的对话已经远远超过跟人的交流了；有时候会产生有一些很有意思的对话内容，记录一下: 这一期记录的是跟豆包聊的是如何把广义相对论和量子力学中的矛盾点相结合； 虽然我仅仅是物理学的科普爱好者，但是这一期极大的激发了我的想象；我提出了一种理论：以信息为载体的第四维度受观测者影响，会产生信息的… |
-| 2026-09-29 | [微信公众号贴图流量和微信小程序虚拟支付](https://dsx2016.com/wechat-official-account-sticker-traffic-and-wechat-mini-program-virtual-payments/) | 微信贴图流量 昨天的微信贴图有48阅读，对应的文章只有15阅读 这是唯一一次微信贴图超过20阅读，但是同时公众... 微信公众号贴图流量和微信小程序虚拟支付 最先出现在 大师兄2016 。 |
-| 2026-09-29 | [时间线上好多李飞飞。。。 我一直有个问题](https://versun.me/blog/tweet-2104890340188794956) | 时间线上好多李飞飞。。。 我一直有个问题， 世界模型到底能干嘛？ @grok |
-| 2026-09-29 | [做为一个近十年没喝酒的人来说，叮咚买菜最](https://versun.me/blog/tweet-2104881447870091596) | 做为一个近十年没喝酒的人来说，叮咚买菜最近定制的鸡尾酒都挺好喝的，都是买菜送的😂 |
-| 2026-09-29 | [喜大普奔！锤子便签也有开源版了【效率工具指南】](https://penghh.fun/2026/09/29/2026-9-29-smartisan_note/) | <script src=" |
-| 2026-09-29 | [让座](https://mobius.blog/25804.html) | 我正在咖啡厅码字，又坐在了那个我常坐的长条桌边。 这时候来了一家人，六个成年人带着一个小孩，在看到长条桌边只坐 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
-| 2026-09-29 | [站在电车里, 我在手机上改代码](https://xiaket.github.io/2026/run-deepseek-harness-remotely.html) | 对于我而言, 这是另外一个Aha时刻. 18个月前, 当我第一次开始用Claude Code的时候有这样的感觉. 而今天早上当我在电车上, 在手机上让deepseek harness(后面简称为dsh)帮我去改一段代码, 然后切app去读书, 一会儿后回到浏览器, 发现活已经干完了. 这个感觉就是很… |
-| 2026-09-29 | [同甘共苦电动牙刷](https://www.hecaitou.com/2026/09/through-thick-thin-modern-electric-toothbrush.html) | 很多年前我就介绍过电动牙刷，应该有不少读者是受了我的影响，从此接受这种生活里的便利小玩意儿。 但正如一句中国古代谚语说的那样：老革命遇见新问题。 前天我换了一支新款电动牙刷，直接把我给弄懵了。之前我用的是某大牌电动牙刷，用了很多年。这种事情你知道的，直男用了什么东西觉得好，就会搜索历史订单，随手按下… |
-| 2026-09-29 | [No One Lives Forever 2: A Spy in H.A.R.M.'s Way updated](https://macsourceports.com/game/nolf2) | The build of NOLF2 for Mac for No One Lives Forever 2: A Spy in H.A.R.M.'s Way has been updated to version 0.4.3 of the project |
-| 2026-09-29 | [Twikoo 评论为什么这么慢：藏在 POST_SUBMIT 里的 5 秒等待窗口](https://liudon.com/posts/twikoo-comment-delay-post-submit/) | 2026/09/29 更新 文中排查的问题已经修复并合入 Twikoo。 我升级后重新测试，评论请求耗时从原来的 5-6s 降到了 1s 以内 。 有同样问题的，可以将服务端升级到 2.0.12 或更高版本 。如果使用 Netlify 老部署，还需要按官方更新文档完成一次 Modern Functi… |
-| 2026-09-29 | [水枪、锥形桶与小组长](https://mobius.blog/25795.html) | 前几天，目睹了一场争吵。 早上小区会有不同区域负责垃圾倾倒的清洁工，会在等待垃圾转运车收走垃圾后，在小区某处的 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
-| 2026-09-29 | [claude sonnet 5.5发布了](https://versun.me/blog/tweet-2104725352107086205) | Claude Sonnet 5.5 improves on Sonnet 5 across benchmarks, in some cases dramatically. It’s a faster, lower-cost complement to Claude Opus 5.5, stronge… |
-| 2026-09-29 | [AI 为主题配置流程提效实践经验分享](https://lrd.im/blog/2026-09-29) | 利用 Agent 的编码能力，设计师可以基于自身工作流开发出各种各样的工具。这篇文章以内部的「主题编辑器」为例，介绍我是如何 Vibe Coding 一个工具来为主题配置的流程提效。 |
 
 ## Vibe Coding
 
