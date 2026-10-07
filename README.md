@@ -27,9 +27,15 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-10-07 | [AI Rank Bank: A Ledger That Keeps AI Companies Honest About Their Promises](https://gugegt.com/ai-rank-bank-claim-ledger.html) | AI companies publish a lot of promises. Almost none of them are ever checked again. Look at the past two weeks. NVIDIA said a 64GB version of its DGX… |
+| 2026-10-07 | [打领带的人](https://www.geedea.pro/article/tie-wearers/) | 最近在关注 Golda ，从 ch0ccyra1n 写的 Issues 来看，她近期并不打算推进太多功能开发，更多是在做各个平台的发包和新 Fork 落地的工作，还有清理 Hugo 的某些遗留问题（比如 Hugo 的传递依赖太多导致不太容易打包到 Guix 的 问题 ）。我在帮忙移除了 hugo d… |
+| 2026-10-07 | [Toots 439 2026 Sep.27 - Oct.3](https://z.arlmy.me/posts/MastodonArchives/2026/MastodonTootsArchives_20261003/) | 「人模狗样。」 |
+| 2026-10-07 | [国庆结算](https://yovey.me/26-national-day-holiday/) | 10.1 陪妹妹逛街买周边，收拾行李 10.2 出发庐山，下雨，哪儿也没去早早泡了温泉7点就睡了。 10.3 … Continue reading "国庆结算" |
+| 2026-10-07 | [“独立开发者” 是最大的骗局](https://smallyu.net/2026/10/07/%E2%80%9C%E7%8B%AC%E7%AB%8B%E5%BC%80%E5%8F%91%E8%80%85%E2%80%9D%E6%98%AF%E6%9C%80%E5%A4%A7%E7%9A%84%E9%AA%97%E5%B1%80/) | 这些年，在中文程序员社区里，有一种非常奇怪的现象。 一个程序员被裁员了。 找了几个月工作，没找到。 或者找到了，但工资太低，不满意。 再或者年纪上来了，技术也没有特别强，在招聘市场上越来越没有竞争力。 然 |
 | 2026-10-07 | [我要免费送妳一支花](https://kaix.in/2026/1007/) | 女儿又独自一人去旅游了，时常跟我分享见闻。昨晚有个老太太说要把一支花免费送给她，但是又说如果觉得不好意思就看着给点钱，而且还一直跟着走。女儿原本真以为遇到雅事一桩，因此并没觉得不好意思，但见对方表情逐渐「恶化」，这才把花还了回去。 无独有偶，昨天我接到一通电话，是运营商打来的——先生您的套餐下个月到… |
 | 2026-10-07 | [翻译-为什么纯文本仍然是我们拥有的最佳技术之一](https://blog.prayhand13013.top/20261007T180116--翻译-为什么纯文本仍然是我们拥有的最佳技术之一__blog.html) |  |
 | 2026-10-07 | [Memos: 十一约教练学了几天车](https://blog.yasking.org/a/1791357305) | 驾照是在几年前考下来的，但一直不会开车，这个十一有些时间，想着学习下，后续自驾出行方便很多。 先在闲鱼上找了带车 … |
+| 2026-10-07 | [轻徒步・北京・延寿寺后山（2026）](https://blog.yasking.org/a/photos-beijing-yanshousi) | 10.1 当天，想着可别进城了，北京哪里人都会很多。就计划往郊区走走，前些天在 B 站看个 UP 主推荐个入门级的徒步/爬山路 … |
 | 2026-10-07 | [博客装修记：再见了，所有的 jQuery](https://blog.mfwt.top/index.php/archives/1669/) | 国庆假期即将结束，回想起来以前中学（尤其是高中）时候，总是会有老师在群里发通知说『假期结束，是时候收心了，回校当天检查所有作业，并进行月考』之类很恐怖的话。现在大学了，这种东西已经消失，当然也舒... |
 | 2026-10-07 | [吃的选择](https://www.hecaitou.com/2026/10/what-we-choose-to-eat.html) | 一写文章谈做菜，谈吃，每个人都觉得自己有发言权，因为随随便便自己都有十几年几十年吃的经验，搞不好也有那么多年做菜的经验。 我对此表示怀疑。天天做的事情未必就一定能做好，不信的话，看看做工的，做父母的，是不是每个都很出色。这还是对外，吃更接近于对内，那再看看大家睡得都好吗？牙都刷得干净吗？ 吃在我看来… |
 | 2026-10-07 | [最近惦念 20260928](https://z.arlmy.me/posts/TILs/thoughts/20260928_Recently/) | 「只做，一件事情。」 |
@@ -55,7 +61,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-10-06 | [Insaniquarium updated](https://macsourceports.com/game/insaniquarium) | The build of Insaniquarium Portable for Insaniquarium has been updated to version 0.2 of the project |
 | 2026-10-06 | [豆腐，与认知边界](https://mobius.blog/25834.html) | 今天这个话题，来自于看完《一饭封神》第二季的总决赛后，突然在脑子里蹦出来的。 总决赛的比赛规则也是需要大家使用 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-10-06 | [古华《芙蓉镇》](https://wujie.me/gu-hua-hibiscus-town/) | 这本书大概从年初就开始看了，断断续续地看了九个月，2026年10月5日的晚上才看完。书本身并不厚，只有207页 … 继续阅读 古华《芙蓉镇》 |
-| 2026-10-06 | [一个抖音遥控器的开发小记](https://www.bmpi.dev/dev/free4chat-task-app-development-notes/) | 从一个只有三个按钮的抖音遥控器出发，沿着 Free4Chat 的 Task、Generated App、WebRTC DataChannel、Agent Runtime、Adapter、ACP/MCP/A2A/A2UI 和 macOS Accessibility，一路拆开它背后的实时协作系统。 |
+| 2026-10-06 | [一个抖音遥控器的开发小记](https://www.bmpi.dev/dev/free4chat-task-app-development-notes/) | 一个只有三个按钮的抖音遥控器，让我第一次把 free4chat 的 Room/Task、Agent Runtime、本地能力与实时通信串起来看了一遍。 |
 | 2026-10-05 | [道德经online新增：核心精要与专题书单](https://blog.mzh.ren/zh/posts/2026/10/daodejing-core/) | 老子《道德经》古本对照阅读——在线背诵与学习 我写 daodejing.online 网站的初衷，是想要把整部《道德经》背诵下来。俗话说“柿子要挑软的捏”，我觉得《道德经》只有五千个字，背起来应该比较容易。而且我觉得《道德经》文字很优美，背起来应该也会很通畅。 |
 | 2026-10-05 | [第十一届网络社会年会｜全球青年学者论坛征稿启事](https://caa-ins.org/archives/13434) | 第十一届网络社会年会11th Annual Conference of Network Society 知者之后：当算力作用于知识After the Knower: When Compute Acts upon Knowledge 全球青年学者论坛｜征稿主旨Global Young Scholars… |
 | 2026-10-05 | [Coffee Break Clojure, Vol.6](https://www.geedea.pro/article/clj6/) | 上一篇 讲解了如何用 Leiningen 管理 Clojure 项目的目录结构和依赖项，今天我们来了解 Clojure 生态中最常见的 Web 后端库 Ring 。不对，和那个 IndieWeb Ring 没有关系。 初识 Ring Ring 是对 Web 服务器的 低层 抽象，也就是说没有实现页面… |
