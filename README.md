@@ -27,6 +27,8 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-10-08 | [科技爱好者周刊（第 414 期）：Jev 决策模型有什么用](http://www.ruanyifeng.com/blog/2026/10/weekly-issue-414.html) | 这里记录每周值得分享的科技内容，周五发布。 本杂志 开源 ，欢迎 投稿 。另有 《谁在招人》 服务，发布程序员招聘信息。合作请 邮件联系 （yifeng.ruan@gmail.com）。 封面图 国产首列数字地铁列车 VELLINK，完全无人驾驶，车头改成了大幅玻璃，用于观光。（ via ） Jev… |
+| 2026-10-08 | [油管封面图和去除人声保留背景音](https://dsx2016.com/youtube-thumbnail-and-vocal-removal-isolating-the-background-audio/) | 油管封面图 为了油管封面，让ai写了一个python离线包 启动后会打开一个网页，网页可以选择本地视频，然后对... 油管封面图和去除人声保留背景音 最先出现在 大师兄2016 。 |
 | 2026-10-08 | [学习周刊-总第284期-2026年第41周](https://wiki.eryajf.net/pages/fdfe24/) | 如要阅读全文，点击标题跳转。 学习周刊-总第284期 ｜ manifest ｜ iContainer ｜ open-note ｜ dbops ｜ skill-zoo ｜ CoPet ｜ renewlet |
 | 2026-10-08 | [OneKey Pro 2： 再次进化的旗舰硬件钱包](https://song.al/onekeypro2) | 购买链接 欢迎通过下面购买链接购买 Onekey Pro2 ： 专属链接： https://onekey.so/r/SIMON/shop 🧧频道福利：通过本链接下单，我将返还订单金额的 10% 给你，下单后请私信 Telegram 机器人 @appdobot Onekey是什么？ 在正式开箱前，我们… |
 | 2026-10-08 | [极限拉扯出好价](https://www.hecaitou.com/2026/10/The-Price-Tug-of-War.html) | 最近验证了我的一条网购心得，那就是：极限拉扯出便宜。 前几天我展示了一张我在网上淘来的便宜 CD，花了我 25 块钱不到，却是一张很好的专辑，我甚至感慨说「古典音乐 CD 贱如泥」。有读者立即按图索骥，发现最便宜的一张也要 60 块。看到这个价格，我回去看了看我的那一张 CD，还有存货，价格还是 2… |
@@ -37,6 +39,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-10-07 | [我很怀疑 @yetone 是仿生人，无论](https://versun.me/blog/tweet-2107973563991081256) | 我很怀疑 @yetone 是仿生人，无论早上还是下午或者晚上进去，他都在更新，commit 都是几分钟前的，太恐怖了 |
 | 2026-10-07 | [AI Rank Bank: A Ledger That Keeps AI Companies Honest About Their Promises](https://gugegt.com/ai-rank-bank-claim-ledger.html) | AI companies publish a lot of promises. Almost none of them are ever checked again. Look at the past two weeks. NVIDIA said a 64GB version of its DGX… |
 | 2026-10-07 | [打领带的人](https://www.geedea.pro/article/tie-wearers/) | 最近在关注 Golda ，从 ch0ccyra1n 写的 Issues 来看，她近期并不打算推进太多功能开发，更多是在做各个平台的发包和新 Fork 落地的工作，还有清理 Hugo 的某些遗留问题（比如 Hugo 的传递依赖太多导致不太容易打包到 Guix 的 问题 ）。我在帮忙移除了 hugo d… |
+| 2026-10-07 | [iPhone 自动备份到 NAS：开源啦](https://razeen.me/posts/iphone-wifi-backup-nas-open-source/) | iOS Backup 更新并开源了。这篇文章介绍新版的管理员登录、加密备份、多渠道通知和备份管理，以及部署前的准备、旧版升级注意事项与实验功能的使用边界。 |
 | 2026-10-07 | [Toots 439 2026 Sep.27 - Oct.3](https://z.arlmy.me/posts/MastodonArchives/2026/MastodonTootsArchives_20261003/) | 「人模狗样。」 |
 | 2026-10-07 | [国庆结算](https://yovey.me/26-national-day-holiday/) | 10.1 陪妹妹逛街买周边，收拾行李 10.2 出发庐山，下雨，哪儿也没去早早泡了温泉7点就睡了。 10.3 … Continue reading "国庆结算" |
 | 2026-10-07 | [“独立开发者” 是最大的骗局](https://smallyu.net/2026/10/07/%E2%80%9C%E7%8B%AC%E7%AB%8B%E5%BC%80%E5%8F%91%E8%80%85%E2%80%9D%E6%98%AF%E6%9C%80%E5%A4%A7%E7%9A%84%E9%AA%97%E5%B1%80/) | 这些年，在中文程序员社区里，有一种非常奇怪的现象。 一个程序员被裁员了。 找了几个月工作，没找到。 或者找到了，但工资太低，不满意。 再或者年纪上来了，技术也没有特别强，在招聘市场上越来越没有竞争力。 然 |
