@@ -1,0 +1,254 @@
+[
+  {
+    "title": "学习周刊-总第284期-2026年第41周",
+    "url": "https://wiki.eryajf.net/pages/fdfe24/",
+    "date": "2026-10-08T11:37:56Z",
+    "description": "如要阅读全文，点击标题跳转。 学习周刊-总第284期 ｜ manifest ｜ iContainer ｜ open-note ｜ dbops ｜ skill-zoo ｜ CoPet ｜ renewlet",
+    "source_root_domain": "eryajf.net"
+  },
+  {
+    "title": "AI Rank Bank: A Ledger That Keeps AI Companies Honest About Their Promises",
+    "url": "https://gugegt.com/ai-rank-bank-claim-ledger.html",
+    "date": "2026-10-07T18:30:00Z",
+    "description": "AI companies publish a lot of promises. Almost none of them are ever checked again. Look at the past two weeks. NVIDIA said a 64GB version of its DGX Spark desktop AI computer goes on sale October 23 through Acer, ASUS, Dell, Gigabyte, HP and MSI, starting at $4,999. Mistral said it will publish the weights of Mistral Large 4, its trillion-parameter model, before the end of October. Anthropic said it is expanding a Cyber Verification Program that vets security researchers for access to Claude’s ",
+    "source_root_domain": "gugegt.com"
+  },
+  {
+    "title": "打领带的人",
+    "url": "https://www.geedea.pro/article/tie-wearers/",
+    "date": "2026-10-07T16:52:21Z",
+    "description": "最近在关注 Golda ，从 ch0ccyra1n 写的 Issues 来看，她近期并不打算推进太多功能开发，更多是在做各个平台的发包和新 Fork 落地的工作，还有清理 Hugo 的某些遗留问题（比如 Hugo 的传递依赖太多导致不太容易打包到 Guix 的 问题 ）。我在帮忙移除了 hugo deploy 之后也找不到什么能帮忙的事情了。 不过我在尝试把博客从 Hugo 迁移到 Golda 的时候，发现我依赖的某些较新的 API 没有被 Golda 实现。我去翻了 Hugo 的更新日志和相关的 commit，发现这些功能有不少是用 Claude 写的，不能拿来用。Hugo 也废弃了某些 API。这样下去，Golda 的 API 会和 Hugo 的变得越来越不容易兼容，但一直盯着 Hugo 更新，等人重新实现他们用大模型生成的功能，也不现实。关于此事，我提了 Issue ，与维护者基本达成一致。不过，这也意味着我要为了消除 LLM 写的代码，耗费好多精力修改我原来的代码。 事情进行到这里的时候我已经觉得有点心累，一方面是因为我在 一百零一期周刊 里提到的道德矛盾感，另一方面是我愈来愈",
+    "source_root_domain": "geedea.pro"
+  },
+  {
+    "title": "Toots 439 2026 Sep.27 - Oct.3",
+    "url": "https://z.arlmy.me/posts/MastodonArchives/2026/MastodonTootsArchives_20261003/",
+    "date": "2026-10-07T15:10:27Z",
+    "description": "「人模狗样。」",
+    "source_root_domain": "arlmy.me"
+  },
+  {
+    "title": "国庆结算",
+    "url": "https://yovey.me/26-national-day-holiday/",
+    "date": "2026-10-07T15:05:24Z",
+    "description": "10.1 陪妹妹逛街买周边，收拾行李 10.2 出发庐山，下雨，哪儿也没去早早泡了温泉7点就睡了。 10.3 … Continue reading \"国庆结算\"",
+    "source_root_domain": "yovey.me"
+  },
+  {
+    "title": "“独立开发者” 是最大的骗局",
+    "url": "https://smallyu.net/2026/10/07/%E2%80%9C%E7%8B%AC%E7%AB%8B%E5%BC%80%E5%8F%91%E8%80%85%E2%80%9D%E6%98%AF%E6%9C%80%E5%A4%A7%E7%9A%84%E9%AA%97%E5%B1%80/",
+    "date": "2026-10-07T14:10:17Z",
+    "description": "这些年，在中文程序员社区里，有一种非常奇怪的现象。 一个程序员被裁员了。 找了几个月工作，没找到。 或者找到了，但工资太低，不满意。 再或者年纪上来了，技术也没有特别强，在招聘市场上越来越没有竞争力。 然",
+    "source_root_domain": "smallyu.net"
+  },
+  {
+    "title": "我要免费送妳一支花",
+    "url": "https://kaix.in/2026/1007/",
+    "date": "2026-10-07T10:29:04Z",
+    "description": "女儿又独自一人去旅游了，时常跟我分享见闻。昨晚有个老太太说要把一支花免费送给她，但是又说如果觉得不好意思就看着给点钱，而且还一直跟着走。女儿原本真以为遇到雅事一桩，因此并没觉得不好意思，但见对方表情逐渐「恶化」，这才把花还了回去。 无独有偶，昨天我接到一通电话，是运营商打来的——先生您的套餐下个月到期，为了回馈老客户，我们将为您免费提升网速到 1000M，您每月 89 元的套餐内还包含……原来所谓免费升级网速，其实是想让我在无意中确认将套餐从 59 提档到 89。 我们就是生活在这样的环境中啊。 fin. 激赏 ！ 来信 。",
+    "source_root_domain": "kaix.in"
+  },
+  {
+    "title": "翻译-为什么纯文本仍然是我们拥有的最佳技术之一",
+    "url": "https://blog.prayhand13013.top/20261007T180116--翻译-为什么纯文本仍然是我们拥有的最佳技术之一__blog.html",
+    "date": "2026-10-07T10:01:00Z",
+    "description": "",
+    "source_root_domain": "tomoemami.github.io"
+  },
+  {
+    "title": "Memos: 十一约教练学了几天车",
+    "url": "https://blog.yasking.org/a/1791357305",
+    "date": "2026-10-07T07:15:05Z",
+    "description": "驾照是在几年前考下来的，但一直不会开车，这个十一有些时间，想着学习下，后续自驾出行方便很多。 先在闲鱼上找了带车 …",
+    "source_root_domain": "yasking.org"
+  },
+  {
+    "title": "轻徒步・北京・延寿寺后山（2026）",
+    "url": "https://blog.yasking.org/a/photos-beijing-yanshousi",
+    "date": "2026-10-07T06:11:13Z",
+    "description": "10.1 当天，想着可别进城了，北京哪里人都会很多。就计划往郊区走走，前些天在 B 站看个 UP 主推荐个入门级的徒步/爬山路 …",
+    "source_root_domain": "yasking.org"
+  },
+  {
+    "title": "博客装修记：再见了，所有的 jQuery",
+    "url": "https://blog.mfwt.top/index.php/archives/1669/",
+    "date": "2026-10-07T05:50:25Z",
+    "description": "国庆假期即将结束，回想起来以前中学（尤其是高中）时候，总是会有老师在群里发通知说『假期结束，是时候收心了，回校当天检查所有作业，并进行月考』之类很恐怖的话。现在大学了，这种东西已经消失，当然也舒...",
+    "source_root_domain": "mfwt.top"
+  },
+  {
+    "title": "吃的选择",
+    "url": "https://www.hecaitou.com/2026/10/what-we-choose-to-eat.html",
+    "date": "2026-10-07T05:25:53Z",
+    "description": "一写文章谈做菜，谈吃，每个人都觉得自己有发言权，因为随随便便自己都有十几年几十年吃的经验，搞不好也有那么多年做菜的经验。 我对此表示怀疑。天天做的事情未必就一定能做好，不信的话，看看做工的，做父母的，是不是每个都很出色。这还是对外，吃更接近于对内，那再看看大家睡得都好吗？牙都刷得干净吗？ 吃在我看来是件很复杂的事情。首先，要知道吃的是什么。从幼童长到大，一样样食材慢慢学，慢慢记。有时候偶然吃一次忘了，今后还需要复习。如果是在南方生活，也许每一年在菜市场还是能发现陌生的食材。 然后要知道怎么吃，你得一顿顿吃，一道道吃，吃一次新做法记一回。这样你才知道某一种食材对应几种做法，而不同的做法又和季节、食材新鲜程度、各地风土人情有关系。否则黄瓜就是拍，花生米就是炸，人生也未免单调得厉害，跟吃药片一样。 再然后要知道好歹。一道菜上来，自己说好吃不好吃，除了纯感官和纯经验之外，你得有一套个人评判标准。而这个标准即便不能说服别人，起码也应该做到自圆其说。不能总是「我们那里就是这么做的」，也不能总是「从来就不是那么做的」，要能说出好歹来，而这个「好」可以和他人达成共识。 到这里只是完成了一半，因为吃是很",
+    "source_root_domain": "hecaitou.com"
+  },
+  {
+    "title": "最近惦念 20260928",
+    "url": "https://z.arlmy.me/posts/TILs/thoughts/20260928_Recently/",
+    "date": "2026-10-07T04:49:27Z",
+    "description": "「只做，一件事情。」",
+    "source_root_domain": "arlmy.me"
+  },
+  {
+    "title": "最近惦念 20260917",
+    "url": "https://z.arlmy.me/posts/TILs/thoughts/20260917_Recently/",
+    "date": "2026-10-07T04:47:27Z",
+    "description": "「这里曾经有一个人。」",
+    "source_root_domain": "arlmy.me"
+  },
+  {
+    "title": "入蜀记 day497 文竹换土、林简七、任性",
+    "url": "https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_497/",
+    "date": "2026-10-07T04:40:27Z",
+    "description": "「文竹换土、林简七、任性。」",
+    "source_root_domain": "arlmy.me"
+  },
+  {
+    "title": "入蜀记 day496 炸葱油",
+    "url": "https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_496/",
+    "date": "2026-10-07T04:39:27Z",
+    "description": "「炸葱油。」",
+    "source_root_domain": "arlmy.me"
+  },
+  {
+    "title": "入蜀记 day495 服务费、coser、人生换位",
+    "url": "https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_495/",
+    "date": "2026-10-07T04:37:27Z",
+    "description": "「服务费、coser、人生换位。」",
+    "source_root_domain": "arlmy.me"
+  },
+  {
+    "title": "Quake II updated",
+    "url": "https://macsourceports.com/game/quake2",
+    "date": "2026-10-07T03:46:05Z",
+    "description": "The build of Quake II RTX: Metal for Quake II has been updated to version 1.0 of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "Star Wars: TIE Fighter updated",
+    "url": "https://macsourceports.com/game/swtiefighter",
+    "date": "2026-10-07T03:45:50Z",
+    "description": "The build of OpenTIE for Star Wars: TIE Fighter has been updated to version v0.0.7 of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "Total Annihilation updated",
+    "url": "https://macsourceports.com/game/totalannihilation",
+    "date": "2026-10-07T03:45:35Z",
+    "description": "The build of Open Annihilation for Total Annihilation has been updated to version v0.7.2 of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "Quetoo updated",
+    "url": "https://macsourceports.com/game/quetoo",
+    "date": "2026-10-07T03:45:19Z",
+    "description": "The build of Quetoo has been updated to version v1.0.121 of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "那就活着",
+    "url": "https://mobius.blog/25838.html",
+    "date": "2026-10-07T01:47:15Z",
+    "description": "1652 | 自杀后的同情标准与理解原则 这两天某公司正值人生发展上升趋于平稳时期（如果直接说“40岁”感觉又 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。",
+    "source_root_domain": "onojyun.com"
+  },
+  {
+    "title": "放弃了，评测集是真的不好做，特别是涉及众",
+    "url": "https://versun.me/blog/tweet-2107611356501582200",
+    "date": "2026-10-06T23:17:59Z",
+    "description": "Versun 正在做一份本地模型的实用能力排行榜，测试集是从各种公开 benchmark中挑选微调，覆盖任务拆解、代码开发、长链路执行、上下文、指令遵循、记忆抽取、逻辑与常识 7 个维度 目前针对本地模型的评测很少，不知道有人感兴趣不，关注人多的话，我尽快测完放出来 放弃了，评测集是真的不好做，特别是涉及众多不同类型的模型时，会遇到各种各样的问题，即使有 opus 5.5 的帮助，依旧做的一塌糊涂",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "2026 年 8 月 读女性研究，小说，随笔 6 本",
+    "url": "https://conge.livingwithfcs.org/2026/10/06/reading-summary/",
+    "date": "2026-10-06T19:25:00Z",
+    "description": "引子 引子 本月读娼妓问题，随时对 7 月份读基层生计的延续。很快我就了解到，娼妓在个人财务上，并非社会底层。",
+    "source_root_domain": "livingwithfcs.org"
+  },
+  {
+    "title": "我的不想要",
+    "url": "https://blog.solazy.me/20261006/",
+    "date": "2026-10-06T15:00:00Z",
+    "description": "比起知道自己想要什么，我觉得知道自己不想要什么更重要",
+    "source_root_domain": "solazy.me"
+  },
+  {
+    "title": "Holon：可部署在个人电脑或团队服务器上的 Agent 工作台",
+    "url": "https://luweiqing.com/resources/Holon-Agent.html",
+    "date": "2026-10-06T11:15:35Z",
+    "description": "Holon 是一套可部署在个人电脑或团队服务器上的 Agent 工作台。它要解决的不是“怎么跟模型聊天”，而是：一件需要跨时间、跨事件、跨人跟进的工作，怎样在你关掉终端之后仍然接着做，并且随时能...",
+    "source_root_domain": "luweiqing.com"
+  },
+  {
+    "title": "乌苏啤酒 1986 & 经典 Wusu Beer Co. 1986 & Classic",
+    "url": "https://7gugu.com/index.php/2026/10/06/%e4%b9%8c%e8%8b%8f%e5%95%a4%e9%85%92-1986-%e7%bb%8f%e5%85%b8-wusu-beer-co-1986-classic/",
+    "date": "2026-10-06T10:16:37Z",
+    "description": "国庆期间，去北疆赏秋，恰好路过乌苏市，来都来了，必须买两瓶本地产的乌苏尝一下。 外观：淡黄色 清澈 气泡消散快 … 继续阅读 “乌苏啤酒 1986 & 经典 Wusu Beer Co. 1986 & Classic”",
+    "source_root_domain": "7gugu.com"
+  },
+  {
+    "title": "为什么 Polymarket 比交易所邪恶很多倍",
+    "url": "https://smallyu.net/2026/10/06/%E4%B8%BA%E4%BB%80%E4%B9%88Polymarket%E6%AF%94%E4%BA%A4%E6%98%93%E6%89%80%E9%82%AA%E6%81%B6%E5%BE%88%E5%A4%9A%E5%80%8D/",
+    "date": "2026-10-06T10:02:22Z",
+    "description": "交易所已经足够邪恶了。 它把杠杆、期货、永续合约、期权这些原本属于专业金融领域的东西，包装成一个任何人拿起手机就可以参与的消费级 App。 一个没有任何金融训练的人，可以在注册账户几分钟后，直接开 20 倍、50",
+    "source_root_domain": "smallyu.net"
+  },
+  {
+    "title": "谷歌的 gemini 3.8 flash",
+    "url": "https://versun.me/blog/tweet-2107354159343362250",
+    "date": "2026-10-06T06:15:58Z",
+    "description": "谷歌的 gemini 3.8 flash 最近肯定降智了，做的东西还不如swe-2",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "康熙微服看短剧",
+    "url": "https://www.hecaitou.com/2026/10/The-Emperor-Goes-Slumming.html",
+    "date": "2026-10-06T05:08:55Z",
+    "description": "算起来，我应该是网上写字的人里很早就公开承认自己看网络小说的人，而且一点也不妨碍我在文章里推荐严肃文学。我一点都不觉得分裂，因为文学并不是只有一种用途，也不觉得因为自己读大部头全身就会放光，或者读通俗文学就应该关起门拉上窗帘。 到今天我都还没有看任何短剧，但我对短剧的态度也是一样。最起码，我能做到不用看短剧这件事去评判一个人，尤其是判断对方的审美和智商。如果真要吐槽，也许我会对只看短剧这件事有些意见。不是因为短剧高或者低，而是只看某样东西会让人视野狭窄，不独是短剧，只看优质英剧也是一样。 但是在现实中，人们的想法和我不大一样。前阵子有条热闻，说是许多文化名流承认自己看短剧，于是文艺青年的精神世界顿时崩塌了。这种新闻我很不喜欢，它隐藏着一种居高临下的心态。名导演、名作家看短剧，是某种很失身份的事情，严肃文艺是高的，通俗文艺是低的，人只能往高处走，一旦向下那就是堕落。 但人是多么复杂的一种动物啊。就说「精神追求」这四个字，如果认真讨论一下的话，具体追求什么呢？追求深度广度是追求，那追求放松娱乐算不算也是一种？还是说法律规定了，追求就必须向上追？往深里追？ 当然会有反驳说，既然是「追求」，意",
+    "source_root_domain": "hecaitou.com"
+  },
+  {
+    "title": "为什么 Solana 可以查询代币的 Holder 列表，以太坊不可以？",
+    "url": "https://smallyu.net/2026/10/06/%E4%B8%BA%E4%BB%80%E4%B9%88Solana%E5%8F%AF%E4%BB%A5%E6%9F%A5%E8%AF%A2%E4%BB%A3%E5%B8%81%E7%9A%84Holder%E5%88%97%E8%A1%A8%EF%BC%8C%E4%BB%A5%E5%A4%AA%E5%9D%8A%E4%B8%8D%E5%8F%AF%E4%BB%A5%EF%BC%9F/",
+    "date": "2026-10-06T04:28:19Z",
+    "description": "这是一个看起来很简单的问题。 给定一个 Token，例如 USDC，我们想知道： 现在有哪些地址持有它？每个地址分别持有多少？ 在 Solana",
+    "source_root_domain": "smallyu.net"
+  },
+  {
+    "title": "地摊上淘来两个鸡肋对讲机",
+    "url": "https://blog.mfwt.top/index.php/archives/1662/",
+    "date": "2026-10-06T03:57:00Z",
+    "description": "国庆小长假临近尾声，之后就没什么假期了，而且这几天有冷空气，气温下降到比较凉快的程度（和去年差不多，十月份的广东就发入冬体验卡了，体验卡过期就热回去了），所以趁着这个机会去了趟岗顶，一来是为了熟...",
+    "source_root_domain": "mfwt.top"
+  },
+  {
+    "title": "Insaniquarium updated",
+    "url": "https://macsourceports.com/game/insaniquarium",
+    "date": "2026-10-06T02:27:57Z",
+    "description": "The build of Insaniquarium Portable for Insaniquarium has been updated to version 0.2 of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "豆腐，与认知边界",
+    "url": "https://mobius.blog/25834.html",
+    "date": "2026-10-06T01:30:00Z",
+    "description": "今天这个话题，来自于看完《一饭封神》第二季的总决赛后，突然在脑子里蹦出来的。 总决赛的比赛规则也是需要大家使用 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。",
+    "source_root_domain": "onojyun.com"
+  },
+  {
+    "title": "古华《芙蓉镇》",
+    "url": "https://wujie.me/gu-hua-hibiscus-town/",
+    "date": "2026-10-06T01:27:41Z",
+    "description": "这本书大概从年初就开始看了，断断续续地看了九个月，2026年10月5日的晚上才看完。书本身并不厚，只有207页 … 继续阅读 古华《芙蓉镇》",
+    "source_root_domain": "wujie.me"
+  },
+  {
+    "title": "一个抖音遥控器的开发小记",
+    "url": "https://www.bmpi.dev/dev/free4chat-task-app-development-notes/",
+    "date": "2026-10-06T00:00:00Z",
+    "description": "一个只有三个按钮的抖音遥控器，让我第一次把 free4chat 的 Room/Task、Agent Runtime、本地能力与实时通信串起来看了一遍。",
+    "source_root_domain": "bmpi.dev"
+  }
+]

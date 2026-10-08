@@ -27,6 +27,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-10-08 | [学习周刊-总第284期-2026年第41周](https://wiki.eryajf.net/pages/fdfe24/) | 如要阅读全文，点击标题跳转。 学习周刊-总第284期 ｜ manifest ｜ iContainer ｜ open-note ｜ dbops ｜ skill-zoo ｜ CoPet ｜ renewlet |
 | 2026-10-07 | [AI Rank Bank: A Ledger That Keeps AI Companies Honest About Their Promises](https://gugegt.com/ai-rank-bank-claim-ledger.html) | AI companies publish a lot of promises. Almost none of them are ever checked again. Look at the past two weeks. NVIDIA said a 64GB version of its DGX… |
 | 2026-10-07 | [打领带的人](https://www.geedea.pro/article/tie-wearers/) | 最近在关注 Golda ，从 ch0ccyra1n 写的 Issues 来看，她近期并不打算推进太多功能开发，更多是在做各个平台的发包和新 Fork 落地的工作，还有清理 Hugo 的某些遗留问题（比如 Hugo 的传递依赖太多导致不太容易打包到 Guix 的 问题 ）。我在帮忙移除了 hugo d… |
 | 2026-10-07 | [Toots 439 2026 Sep.27 - Oct.3](https://z.arlmy.me/posts/MastodonArchives/2026/MastodonTootsArchives_20261003/) | 「人模狗样。」 |
@@ -143,7 +144,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-10-01 | [我好像陷入了no webview的原教旨主义](https://yuhang.ch/posts/thoughts/no-webview-originalism/) | 最近做了俩软件， pandanote 和 pandareader ，note是自己看到 evernote 做的，reader是看到 papr 做的，原因是他俩是webview，我想用，而我“不太喜欢”webview。 写这篇文章是在做reader的时候内心一直处在一种拧巴的状态，虽然自己做也挺方便的… |
 | 2026-10-01 | [微信小程序审核不通过](https://dsx2016.com/wechat-mini-program-rejected-during-review/) | 审核不通过 今天是国庆 理论上微信小程序审核会放缓，因为一大堆企业小程序肯定排队加急审核 个人小程序如果不是加... 微信小程序审核不通过 最先出现在 大师兄2016 。 |
 | 2026-10-01 | [白矮星](https://physnya.top/compact-object/lesson-3-white-dwarf/) | 第一颗人类认证的白矮星是天狼星的伴星：它有 25000 25000 25000 K，相对地，天狼星本身只有 9900 9900 9900 K. 因此我们能够推测这个伴星一定具有非常小的发光面积. |
-| 2026-10-01 | [lesson-3](https://physnya.top/compact-object/compact-object/zf1cp98z/) | 白矮星 第一颗人类认证的白矮星是天狼星的伴星：它有 25000 25000 25000 K，相对地，天狼星本身只有 9900 9900 9900 K. 因此我们能够推测这个伴星一定具有非常小的发光面积. |
 | 2026-10-01 | [为什么经济下行与 Web3 无关](https://smallyu.net/2026/10/01/%E4%B8%BA%E4%BB%80%E4%B9%88%E7%BB%8F%E6%B5%8E%E4%B8%8B%E8%A1%8C%E4%B8%8EWeb3%E6%97%A0%E5%85%B3/) | 我们要区分开三件事：1. 经济周期的牛熊交替；2. 全球性的经济衰退；3. |
 | 2026-10-01 | [The Intent Behind the Gesture: A Deep Dive into RedNote's "Double-Swipe" Exit](https://blog.ensonyan.com/it/3493.html) | Recently, while using RedNote (小红书) on my iPhone 11 (iO […] |
 | 2026-10-01 | [2005，网页那一头](https://www.tortorse.com/archives/2005-the-other-end-of-the-web/) | 2005年超级女声南京唱区海选现场 |
@@ -157,24 +157,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-10-01 | [第五年 II](https://mobius.blog/25813.html) | 继续昨天的“那把关于写作的刀”。 1200 &#124; 百日谈 当写到1200的时候，距离500日写作还剩下最后的10 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-10-01 | [微信小程序备案驳回](https://dsx2016.com/wechat-mini-program-filing-rejected/) | 深圳备案 在深圳备案微信小程序 需要居住证，如果居住证过期，备案就失效 目前居住证，据不完全了解，只在深圳需要... 微信小程序备案驳回 最先出现在 大师兄2016 。 |
 | 2026-10-01 | [国庆快乐：抽奖、优惠、调价，关于周刊的三件事](https://pythoncat.top/posts/2026-10-01-national-day/) | 每期都有"百里挑一"抽奖，10 月下旬 88 元限时优惠，活动后年费调整为 108 元 |
-| 2026-09-30 | [Gemini 4 Argon 这跑分，全](https://versun.me/blog/tweet-2105429720603185650) | Google AI Announcing Gemini 4 Argon, our new frontier model. Argon is built to sustain deep reasoning across complex, long-horizon workflows and deliv… |
-| 2026-09-30 | [解决 Codex 无法访问 rg.exe 的问题](https://www.liesauer.net/blog/post/1046.html) | 这个问题实际上牵扯到多个工具，不确定根源是否在于 Codex 的机制问题，但本文不做过多追溯。事实上，Codex 官方仓库堆积着好多个关于工具调用失败的 issue，但貌似和这个问题不太一样，就... |
-| 2026-09-30 | [博客SEO优化](https://elmagnifico.tech/2026/10/01/SEO/) | Foreword 博客挂了这么多年，sitemap都没正经交给过Google。subtitle一直当关键词用，description基本没有。这次把Analytics和Search Console翻了一遍，能补的先补上，统计也增加了Cloudflare。 Search Console发现的问题 近三… |
-| 2026-09-30 | [Z姓氏](https://z.arlmy.me/posts/ZArlmyMe/Z_20260930/) | 「选姓。」 |
-| 2026-09-30 | [道歉要趁早](https://blog.solazy.me/20260930/) | 从今天听到的一期播客中的一句话说起…… |
-| 2026-09-30 | [Wake Me Up When September Ends](https://re.karlbaey.top/articles/wake-me-up-when-september-ends/) | 🤔 本文为电波系，一定与多数人的看法相左。 放个可爱的“🤔”在这，因为我还不知道自己想写点什么，这恐怕是我日渐单薄的注意 … |
-| 2026-09-30 | [记录一下 OpenWRT 上网卡、页面白屏、图片加载不出来、连接超时的问题](https://www.ghostchu.com/6000/%e8%ae%b0%e5%bd%95%e4%b8%80%e4%b8%8b-openwrt-%e4%b8%8a%e7%bd%91%e5%8d%a1%e3%80%81%e9%a1%b5%e9%9d%a2%e7%99%bd%e5%b1%8f%e3%80%81%e5%9b%be%e7%89%87%e5%8a%a0%e8%bd%bd%e4%b8%8d%e5%87%ba%e6%9d%a5%e3%80%81/) | 最近因为 iKuai 的安全漏洞问题，一直在推进路由往 OpenWRT 切换，但自从切换到 OpenWRT 到 […] 记录一下 OpenWRT 上网卡、页面白屏、图片加载不出来、连接超时的问题 最先出现在 Ghost_chu's Blog 。 |
-| 2026-09-30 | [我捅了马蜂窝了。。。 前天基于礼貌回关了](https://versun.me/blog/tweet-2105239050689110247) | 我捅了马蜂窝了。。。 前天基于礼貌回关了几个币圈的人，然后最近一直都有币圈的人关注我😂根本停不下来。。。 |
-| 2026-09-30 | [中秋修水 后记](https://yovey.me/mid-autumn-touring-afterword/) | 这篇算是后记，视频还在加工处理中。一大堆素材拍下来，不知道怎么淘选加工。 省内国道跑多了，山水田园的景色司空见 … Continue reading "中秋修水 后记" |
-| 2026-09-30 | [改变一切的是时间的缝隙](https://kaix.in/2026/0930/) | 时间是连续的吗？不管是从物理学角度还是主观层面来讲，或许皆否。Carlo Rovelli 在《时间的秩序》里科普了时间的量子化、离散性，它根本不能被无限分割。主观上也是如此，记忆从不是平滑的卷轴，睁开眼的「上一刻」常常已隔数年，其间光阴，雾气朦胧。 回头想想，当下和去年此时此刻的自己，到底差别在哪呢… |
-| 2026-09-30 | [泼个冷水哈 @wey_gu 读完文章，对](https://versun.me/blog/tweet-2105169441403404534) | Nowledge Mem https://x.com/i/article/2105132677699682304 泼个冷水哈 @wey_gu 读完文章，对“决策与生成解耦”的架构思考很认同，但对 Mem 客户端直接加一个「快速判断」配置项，我觉得值得商榷，建议挪进「实验室」或高级模式。 几点直接感受… |
-| 2026-09-30 | [我只想着那些小孩子](https://www.hecaitou.com/2026/09/what-about-children.html) | 昨天我在网上看到的所有内容之中，下面这条针对新闻的评论很是打动我，因为它看起来暗黑、地狱、苦涩，但是底色却带着温情，整体上又有点好笑。 新闻内容是一对 70 高龄的华裔老夫妻在加州的一处停车场，轮流开枪射杀了据称是虐待自家女儿的女婿。那条评论是这么说的： 「 亚裔父母是这样的：他们拒绝说 『我爱你… |
-| 2026-09-30 | [哈哈， A\ 义父啊，智谱要活了 Ant](https://versun.me/blog/tweet-2105153173711458383) | 周尔复 @yihong0618 哈哈， A\ 义父啊，智谱要活了 Anthropic 发文警告：智谱开源的 GLM-5.3 已能自主写端到端网络 exploit，水平接近自家限量版 Mythos，且护栏用简单手段就能拆掉。 https://www.anthropic.com/research/glm… |
-| 2026-09-30 | [[科幻小说]请勿对宇宙开闪光灯](https://brain-zhang.github.io/blog/2026/09/30/ke-huan-xiao-shuo-qing-wu-dui-yu-zhou-kai-shan-guang-deng/) | 这是与AI吹水的副产品；来源于一个想法：例如设定某种外星文明制造出能探测 $10^{-60}$ 量级引力微扰的“深时钟”，他们不再用电磁波监听宇宙，而是通过监测太空中微小的引力涟漪，直接侦测出哪个星系里诞生了具备“观测能力”的智慧物种，然后执行”清理”动作，这不就是我们微观态的波函数坍缩诱因嘛； =… |
-| 2026-09-30 | [第五年 I](https://mobius.blog/25798.html) | 既然快要放假了，无心工作，所以接下来的几天就来搞搞综艺节目里，最喜欢用来应对“开天窗”的内容——怀旧。 也不完 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
-| 2026-09-30 | [微信小程序备案和贴图话题](https://dsx2016.com/wechat-mini-program-filing-and-sticker-related-topics/) | 微信小程序备案 我的第一个微信小程序好像没有备案，只有微信认证，记不清是备案后忘了还是没备案 但是第二个微信小... 微信小程序备案和贴图话题 最先出现在 大师兄2016 。 |
-| 2026-09-30 | [免费音乐的破解之道](https://jubeny.com/2026/09/unlock-free-music/) | 听歌用了很多年的Spotify，加入过不同的家庭车，随着最后一班车的解散，懒得去寻新车，也不想自己开车，于是顺势转用免费的Youtube Music。 使用Youtube Music有三种途径——网页版、官方App和三方App，但哪一种都不太令人满意。 |
-| 2026-09-30 | [无聊的 OpenAI DevDay 技术](https://versun.me/blog/tweet-2105088356887793985) | 无聊的 OpenAI DevDay 技术上几乎毫无新东西，全是在“弥补、缝合、抄竞品和挖护城河” 1. 缝合 • dots：本质就是抄 Meta Muse 的萌系拟人化外壳，加了一个类似 Claude Tag 的 Slack 独立工作身份，再塞进 Codex 里跑工具 • ChatGPT Space… |
 
 ## Vibe Coding
 
