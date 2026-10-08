@@ -28,6 +28,12 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | Date | Title | Summary |
 | --- | --- | --- |
 | 2026-10-08 | [学习周刊-总第284期-2026年第41周](https://wiki.eryajf.net/pages/fdfe24/) | 如要阅读全文，点击标题跳转。 学习周刊-总第284期 ｜ manifest ｜ iContainer ｜ open-note ｜ dbops ｜ skill-zoo ｜ CoPet ｜ renewlet |
+| 2026-10-08 | [极限拉扯出好价](https://www.hecaitou.com/2026/10/The-Price-Tug-of-War.html) | 最近验证了我的一条网购心得，那就是：极限拉扯出便宜。 前几天我展示了一张我在网上淘来的便宜 CD，花了我 25 块钱不到，却是一张很好的专辑，我甚至感慨说「古典音乐 CD 贱如泥」。有读者立即按图索骥，发现最便宜的一张也要 60 块。看到这个价格，我回去看了看我的那一张 CD，还有存货，价格还是 2… |
+| 2026-10-08 | [292、寒露](https://1900.live/292-han-lu/) | null 露华初白，金风转肃，天地在澄清与敛藏之间，拉满了一张无形的清寒之弓。 太阳行至黄经195°，寒露——秋之第五序，亦为深秋之门庭。 寒侵草木，万物知霜。鸿雁来宾，最后的队列以“人”字掠过南天的肃云，写下迁徙的终章；雀入大水为蛤，雀鸟隐入沧波，将踪迹藏进贝壳的纹络深处；菊有黄华，群芳谢尽之后，… |
+| 2026-10-08 | [什么值得写？](https://mobius.blog/25841.html) | 前段时间收到一则留言，就是简单问了一个简单的问题：什么值得写？ 没有上下文地来这样一句话，我反而不知道怎么回答 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
+| 2026-10-08 | [兰州三日之旅](https://gaoyu.me/blog/34-lanzhou-travel) | 国庆节出行 |
+| 2026-10-07 | [Haiku 5.5 除了便宜没什么特色，](https://versun.me/blog/tweet-2107975148989280415) | Claude Introducing Claude Haiku 5.5: the cheapest, fastest, and most capable small model we’ve ever released. On average, it costs around 75% less to… |
+| 2026-10-07 | [我很怀疑 @yetone 是仿生人，无论](https://versun.me/blog/tweet-2107973563991081256) | 我很怀疑 @yetone 是仿生人，无论早上还是下午或者晚上进去，他都在更新，commit 都是几分钟前的，太恐怖了 |
 | 2026-10-07 | [AI Rank Bank: A Ledger That Keeps AI Companies Honest About Their Promises](https://gugegt.com/ai-rank-bank-claim-ledger.html) | AI companies publish a lot of promises. Almost none of them are ever checked again. Look at the past two weeks. NVIDIA said a 64GB version of its DGX… |
 | 2026-10-07 | [打领带的人](https://www.geedea.pro/article/tie-wearers/) | 最近在关注 Golda ，从 ch0ccyra1n 写的 Issues 来看，她近期并不打算推进太多功能开发，更多是在做各个平台的发包和新 Fork 落地的工作，还有清理 Hugo 的某些遗留问题（比如 Hugo 的传递依赖太多导致不太容易打包到 Guix 的 问题 ）。我在帮忙移除了 hugo d… |
 | 2026-10-07 | [Toots 439 2026 Sep.27 - Oct.3](https://z.arlmy.me/posts/MastodonArchives/2026/MastodonTootsArchives_20261003/) | 「人模狗样。」 |
