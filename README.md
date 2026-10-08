@@ -28,6 +28,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | Date | Title | Summary |
 | --- | --- | --- |
 | 2026-10-08 | [学习周刊-总第284期-2026年第41周](https://wiki.eryajf.net/pages/fdfe24/) | 如要阅读全文，点击标题跳转。 学习周刊-总第284期 ｜ manifest ｜ iContainer ｜ open-note ｜ dbops ｜ skill-zoo ｜ CoPet ｜ renewlet |
+| 2026-10-08 | [OneKey Pro 2： 再次进化的旗舰硬件钱包](https://song.al/onekeypro2) | 购买链接 欢迎通过下面购买链接购买 Onekey Pro2 ： 专属链接： https://onekey.so/r/SIMON/shop 🧧频道福利：通过本链接下单，我将返还订单金额的 10% 给你，下单后请私信 Telegram 机器人 @appdobot Onekey是什么？ 在正式开箱前，我们… |
 | 2026-10-08 | [极限拉扯出好价](https://www.hecaitou.com/2026/10/The-Price-Tug-of-War.html) | 最近验证了我的一条网购心得，那就是：极限拉扯出便宜。 前几天我展示了一张我在网上淘来的便宜 CD，花了我 25 块钱不到，却是一张很好的专辑，我甚至感慨说「古典音乐 CD 贱如泥」。有读者立即按图索骥，发现最便宜的一张也要 60 块。看到这个价格，我回去看了看我的那一张 CD，还有存货，价格还是 2… |
 | 2026-10-08 | [292、寒露](https://1900.live/292-han-lu/) | null 露华初白，金风转肃，天地在澄清与敛藏之间，拉满了一张无形的清寒之弓。 太阳行至黄经195°，寒露——秋之第五序，亦为深秋之门庭。 寒侵草木，万物知霜。鸿雁来宾，最后的队列以“人”字掠过南天的肃云，写下迁徙的终章；雀入大水为蛤，雀鸟隐入沧波，将踪迹藏进贝壳的纹络深处；菊有黄华，群芳谢尽之后，… |
 | 2026-10-08 | [什么值得写？](https://mobius.blog/25841.html) | 前段时间收到一则留言，就是简单问了一个简单的问题：什么值得写？ 没有上下文地来这样一句话，我反而不知道怎么回答 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
