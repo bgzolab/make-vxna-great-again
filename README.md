@@ -27,6 +27,9 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-10-09 | [Revisiting SCSS in Emacs: tree-sitter-scss, scss2-mode and emmet2-mode](https://peiwen.lu/posts/tree-sitter-scss) | Why I picked up a Tree-sitter grammar for SCSS again after three and a half years, and the two Emacs packages that grew out of it. |
+| 2026-10-09 | [极速聊 Nintendo Direct 260909](https://bluepika.life/blog/nintendo-direct-260909-quick-chat) | 简单记录一下这次 Nintendo Direct 里出现的游戏，以及直播时的一些即时感想。 |
+| 2026-10-08 | [Total Annihilation updated](https://macsourceports.com/game/totalannihilation) | The build of Open Annihilation for Total Annihilation has been updated to version v0.7.3 of the project |
 | 2026-10-08 | [科技爱好者周刊（第 414 期）：Jev 决策模型有什么用](http://www.ruanyifeng.com/blog/2026/10/weekly-issue-414.html) | 这里记录每周值得分享的科技内容，周五发布。 本杂志 开源 ，欢迎 投稿 。另有 《谁在招人》 服务，发布程序员招聘信息。合作请 邮件联系 （yifeng.ruan@gmail.com）。 封面图 国产首列数字地铁列车 VELLINK，完全无人驾驶，车头改成了大幅玻璃，用于观光。（ via ） Jev… |
 | 2026-10-08 | [油管封面图和去除人声保留背景音](https://dsx2016.com/youtube-thumbnail-and-vocal-removal-isolating-the-background-audio/) | 油管封面图 为了油管封面，让ai写了一个python离线包 启动后会打开一个网页，网页可以选择本地视频，然后对... 油管封面图和去除人声保留背景音 最先出现在 大师兄2016 。 |
 | 2026-10-08 | [学习周刊-总第284期-2026年第41周](https://wiki.eryajf.net/pages/fdfe24/) | 如要阅读全文，点击标题跳转。 学习周刊-总第284期 ｜ manifest ｜ iContainer ｜ open-note ｜ dbops ｜ skill-zoo ｜ CoPet ｜ renewlet |
@@ -56,7 +59,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-10-07 | [入蜀记 day495 服务费、coser、人生换位](https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_495/) | 「服务费、coser、人生换位。」 |
 | 2026-10-07 | [Quake II updated](https://macsourceports.com/game/quake2) | The build of Quake II RTX: Metal for Quake II has been updated to version 1.0 of the project |
 | 2026-10-07 | [Star Wars: TIE Fighter updated](https://macsourceports.com/game/swtiefighter) | The build of OpenTIE for Star Wars: TIE Fighter has been updated to version v0.0.7 of the project |
-| 2026-10-07 | [Total Annihilation updated](https://macsourceports.com/game/totalannihilation) | The build of Open Annihilation for Total Annihilation has been updated to version v0.7.2 of the project |
 | 2026-10-07 | [Quetoo updated](https://macsourceports.com/game/quetoo) | The build of Quetoo has been updated to version v1.0.121 of the project |
 | 2026-10-07 | [那就活着](https://mobius.blog/25838.html) | 1652 &#124; 自杀后的同情标准与理解原则 这两天某公司正值人生发展上升趋于平稳时期（如果直接说“40岁”感觉又 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-10-06 | [放弃了，评测集是真的不好做，特别是涉及众](https://versun.me/blog/tweet-2107611356501582200) | Versun 正在做一份本地模型的实用能力排行榜，测试集是从各种公开 benchmark中挑选微调，覆盖任务拆解、代码开发、长链路执行、上下文、指令遵循、记忆抽取、逻辑与常识 7 个维度 目前针对本地模型的评测很少，不知道有人感兴趣不，关注人多的话，我尽快测完放出来 放弃了，评测集是真的不好做，特别… |
@@ -141,32 +143,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-10-02 | [第五年 III](https://mobius.blog/25820.html) | 现在在写的内容，其实是明天要定时发布的，明明都说了是在放假期间“开天窗”，但由于提前写完的东西早就没有库存了， […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-10-02 | [收到 @levelsio 发的会员邮件了](https://versun.me/blog/tweet-2105832202957447602) | 收到 @levelsio 发的会员邮件了，我都快忘了，一年也就一两封。 很喜欢他写的一篇感想：当一件事 AI 做得和人一样好时，这件事就不再特别了。 比如最近 Opus 5.5 席卷了营销视频。在以前，同样的效果需要大量剪辑、动态设计和预算，现在几乎 0 成本。 这意味着任何人都能做出同等质量的内容… |
 | 2026-10-02 | [我对 Gemini 4 的期待是，比3.](https://versun.me/blog/tweet-2105810440253260270) | 我对 Gemini 4 的期待是，比3.8 flash 好就行了，不期待它能横扫 claude 和 openai |
-| 2026-10-01 | [我的乡愁 II](https://www.geedea.pro/article/home-sick-ii/) | 请读者给我几段文本的时间平复心情，我方才忍受着飘散在房间里的烟味儿，下楼给我三个月前带回家的龟背竹换了水。想到刚回家看到它们的模样，我实在没办法平静下来。 因为没办法带上我养的龟背竹，所以放在家里，回家之后…… 它的叶子黄了，边缘已经要枯了，不知道家里人是用什么水养的它，水是褐黄色的，水已经要溢出水… |
-| 2026-10-01 | [久违的电影日](https://blog.solazy.me/20261001/) | 今天看了几部电影，索性就记录一下 |
-| 2026-10-01 | [「地球村」：数字游民账号清单，开放、共建](https://gugegt.com/diqiucun-nomad-account-list.html) | 地球村：数字游民账号清单 名字叫「地球村」，意思很简单：不管人在哪，靠这一套东西就能把日子过下去。 |
-| 2026-10-01 | [微信公众号贴图｜微信贴图号](https://dsx2016.com/wechat-official-account-stickers-wechat-sticker-account/) | 贴图号 微信公众号和微信贴图号是两个不同的产品 微信公众号可以发布贴图 但是微信贴图号只能发布贴图 微信贴图号... 微信公众号贴图｜微信贴图号 最先出现在 大师兄2016 。 |
-| 2026-10-01 | [preconnect 走 http3](https://blog.est.im/2026/stdout-38) | 想让 强制走 HTTP/3，能做到吗？ preconnect 是什么 浏览器看到这个标签，会立刻去做这几件事： 解析 example.com 域名 建立一个连接 完成 TLS 握手（如必要） 保持连接并等着，不发送任何请求正文 等真正要请求资源时，这个连接已经热好了。这就是 提前连接 preconn… |
-| 2026-10-01 | [微信小程序审核通过｜支持虚拟支付](https://dsx2016.com/wechat-mini-program-review-approved-to-support-virtual-payments/) | 微信小程序审核通过 还是忍不住吐糟，感觉又是提交后几分钟就开始测试，然后测试完压6小时左右才发送审核结果 中午... 微信小程序审核通过｜支持虚拟支付 最先出现在 大师兄2016 。 |
-| 2026-10-01 | [生活碎碎念：在夹缝里成长的人](https://blog.mfwt.top/index.php/archives/1518/) | 本文要讲的其实是一个很微妙的话题：笔者是生活在夹缝中的，但我不确定这是否是一种常态，或者换句话说，这是否是大多数人的真实经历。总之，这篇文章一来是探讨此话题，二来也是做个记录，把自己的过往经历记... |
-| 2026-10-01 | [2026.10.1](https://www.justzht.com/2026-10-1/) | 升职了，没啥实感，可能等新的工资或者股票发下来了才有什么想法。老板说之后就按照新职级的 baseline 来评估绩效了 |
-| 2026-10-01 | [如何在Docker中让容器流量走指定代理](https://brain-zhang.github.io/blog/2026/10/01/ru-he-zai-dockerzhong-rang-rong-qi-liu-liang-zou-zhi-ding-dai-li/) | 我在一台机器上运行了多个docker容器，希望为每一个容器的流量指定一个代理服务器； 不仅仅是http等等流量，而是所有流量，同时还要排除局域网流量； 解决方法： 为需要走代理的容器分配一个专属的 Docker Bridge 网络（例如固定子网 172.28.0.0/16）。 在宿主机上运行一个透明… |
-| 2026-10-01 | [微信公众号一个号对应一个账号](https://dsx2016.com/each-wechat-official-account-corresponds-to-a-single-account/) | 唯一实名账户 有一段时间个人微信可以创建5个左右公众号 现在想继续创建，发现只有创建唯一一个 并且这个微信公众... 微信公众号一个号对应一个账号 最先出现在 大师兄2016 。 |
-| 2026-10-01 | [我好像陷入了no webview的原教旨主义](https://yuhang.ch/posts/thoughts/no-webview-originalism/) | 最近做了俩软件， pandanote 和 pandareader ，note是自己看到 evernote 做的，reader是看到 papr 做的，原因是他俩是webview，我想用，而我“不太喜欢”webview。 写这篇文章是在做reader的时候内心一直处在一种拧巴的状态，虽然自己做也挺方便的… |
-| 2026-10-01 | [微信小程序审核不通过](https://dsx2016.com/wechat-mini-program-rejected-during-review/) | 审核不通过 今天是国庆 理论上微信小程序审核会放缓，因为一大堆企业小程序肯定排队加急审核 个人小程序如果不是加... 微信小程序审核不通过 最先出现在 大师兄2016 。 |
-| 2026-10-01 | [白矮星](https://physnya.top/compact-object/lesson-3-white-dwarf/) | 第一颗人类认证的白矮星是天狼星的伴星：它有 25000 25000 25000 K，相对地，天狼星本身只有 9900 9900 9900 K. 因此我们能够推测这个伴星一定具有非常小的发光面积. |
-| 2026-10-01 | [为什么经济下行与 Web3 无关](https://smallyu.net/2026/10/01/%E4%B8%BA%E4%BB%80%E4%B9%88%E7%BB%8F%E6%B5%8E%E4%B8%8B%E8%A1%8C%E4%B8%8EWeb3%E6%97%A0%E5%85%B3/) | 我们要区分开三件事：1. 经济周期的牛熊交替；2. 全球性的经济衰退；3. |
-| 2026-10-01 | [The Intent Behind the Gesture: A Deep Dive into RedNote's "Double-Swipe" Exit](https://blog.ensonyan.com/it/3493.html) | Recently, while using RedNote (小红书) on my iPhone 11 (iO […] |
-| 2026-10-01 | [2005，网页那一头](https://www.tortorse.com/archives/2005-the-other-end-of-the-web/) | 2005年超级女声南京唱区海选现场 |
-| 2026-10-01 | [国庆七天，肯定有一大批人的行程是：床、饭桌、厕所。](https://gugegt.com/guoqing-bed-table-toilet.html) | 七天假期，行程只有三站。床、饭桌、厕所，循环往复。 放假前一周，我在手机备忘录里列了七天的安排：去海边、爬一次崂山、见两个朋友、把买了半年没翻的那本书看完。 十月一号早上十点半，我醒了。外面太阳挺好，被窝里温度刚好，窗户缝漏进来的风是凉的。翻个身，那份清单就当没写过。 |
-| 2026-10-01 | [Ken's Labyrinth updated](https://macsourceports.com/game/kenslabyrinth) | The build of LAB3D/SDL for Ken's Labyrinth has been updated to version 4.4.0 of the project |
-| 2026-10-01 | [Marathon Infinity updated](https://macsourceports.com/game/marathoninfinity) | The build of Aleph One for Marathon Infinity for Marathon Infinity has been updated to version release-20260930 of the project |
-| 2026-10-01 | [Marathon 2: Durandal updated](https://macsourceports.com/game/marathon2) | The build of Aleph One for Marathon 2: Durandal for Marathon 2: Durandal has been updated to version release-20260930 of the project |
-| 2026-10-01 | [Marathon updated](https://macsourceports.com/game/marathon) | The build of Aleph One for Marathon for Marathon has been updated to version release-20260930 of the project |
-| 2026-10-01 | [习惯与趋势](https://blog.oospace.com/posts/2026-10-01/) | 一个人的习惯，只能影响自己和身边的人，如果很多人都有这个习惯会怎样 |
-| 2026-10-01 | [9月在 @tuttihq 提现了866元](https://versun.me/blog/tweet-2105484713720959213) | YC (Yucheng) 九月 @tuttihq 的数据，截到 9 月 30 日： ▸ 累计注册达人 14,269 个，九月新增 3,528。四月的时候总共才 159 ▸ 真正发了帖的 1,431 位，一共 61,601 条，分在 46 场活动里 ▸ 九月达人奖励 $81,480，1,545 个人拿… |
-| 2026-10-01 | [第五年 II](https://mobius.blog/25813.html) | 继续昨天的“那把关于写作的刀”。 1200 &#124; 百日谈 当写到1200的时候，距离500日写作还剩下最后的10 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
-| 2026-10-01 | [微信小程序备案驳回](https://dsx2016.com/wechat-mini-program-filing-rejected/) | 深圳备案 在深圳备案微信小程序 需要居住证，如果居住证过期，备案就失效 目前居住证，据不完全了解，只在深圳需要... 微信小程序备案驳回 最先出现在 大师兄2016 。 |
-| 2026-10-01 | [国庆快乐：抽奖、优惠、调价，关于周刊的三件事](https://pythoncat.top/posts/2026-10-01-national-day/) | 每期都有"百里挑一"抽奖，10 月下旬 88 元限时优惠，活动后年费调整为 108 元 |
 
 ## Vibe Coding
 
