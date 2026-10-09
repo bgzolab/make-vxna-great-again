@@ -1,5 +1,33 @@
 [
   {
+    "title": "Menlo 合伙人：万亿美金公司的2%大于独角兽的15%",
+    "url": "https://wenfeixiang.com/2026/10/menlos-venky-ganesan-in-20vc/",
+    "date": "2026-10-09T14:38:05Z",
+    "description": "美国知名 VC 机构 Menlo Ventures 合伙人 Venky Ganesan 日前在知名科技播客 2 […]",
+    "source_root_domain": "wenfeixiang.com"
+  },
+  {
+    "title": "2026 年十一假期",
+    "url": "https://yipai.me/post/2554.html",
+    "date": "2026-10-09T14:35:22Z",
+    "description": "今年十一没出门，因为没什么旅游的兴趣，怕了人山人海。境外热门地方也挤满了中国人。还有个原因是娃上小一了，有点紧张怕他请假影响学习，尽管我内心深处认为应该没啥影响。因为要给娃腾空间放学习桌，十一前一周我就开始收拾书房了，此项工作持续到假期最后一天。扔了十几大袋闲置或无用的物品，才发现有很多没拆封的玩具、书籍。有些是我买的，有些是别人送的，虽然可惜，但既然这么多",
+    "source_root_domain": "yipai.me"
+  },
+  {
+    "title": "「言说」无法掌控的代码",
+    "url": "https://www.wdssmq.com/post/20190520073.html",
+    "date": "2026-10-09T10:20:30Z",
+    "description": "继续「不想」写的水文。。 上一篇「月报」记录的那些代码项目烧掉了当月的 Copilot 额度，还烧了不少「硅基流动」的羊毛，甚至充了 10 块钱； 后边才发现，Copilot 可以设置「额外预算」继续用，按量计费，而不用开更高一档的订阅； 我用了 1 刀出头，然而至今没收到付费通知，就不知道什么情况； 「- -」「- -」「- -」「- -」 「折腾」水水的不想月报电脑网络沉冰浮水 https://www.wdssmq.com/post/20140225001.html ↑ 围绕 Z-BlogPHP 和周边工具投入了很多，然而完成后并没有什么实感，比如 1.8 的正式版感觉仍然要很久。。 「喵明明已经很努力在写代码了。。」 ↑ 好吧，如标题所说，我对那些代码本身并没有太多掌控感，因为都是 AI 生成的，虽然规划和确认效果仍然略费精力； 「- -」「- -」「- -」「- -」 之后又用 WorkBuddy 的羊毛写了一个 Z-BlogPHP 插件，名字就叫「一个 Z-BlogPHP 插件」—— wdssmq/zbpzberOne: 一个并不能证明什么的 Z-BlogPHP 插件 htt",
+    "source_root_domain": "wdssmq.com"
+  },
+  {
+    "title": "请不要将标签页的标题改为无意义字符",
+    "url": "https://blog.mfwt.top/index.php/archives/1659/",
+    "date": "2026-10-09T08:54:26Z",
+    "description": "部分博客（或者说部分站点），不知道从何时起有了一个很奇怪的习惯：在页面失去焦点（比如切换到其他标签页）之后，页面上的js会将标题修改为无意义的内容。典型的比如『页面崩溃啦』、『不要走啦』、『快回...",
+    "source_root_domain": "mfwt.top"
+  },
+  {
     "title": "定时备份 teslamate 数据",
     "url": "https://alanlee.fun/2026/10/09/teslamate-automatic-backup-to-s3/",
     "date": "2026-10-09T07:31:00Z",
@@ -31,7 +59,7 @@
     "title": "我把 Apple Watch 半退役了：Google Fitbit Air 可能是最适合 AI 用户的可穿戴设备",
     "url": "https://www.ixiqin.com/2026/10/09/use-google-fitbit-air/",
     "date": "2026-10-09T02:32:06Z",
-    "description": "用了两个月后，我把 Apple Watch 半退役了，身体记录的主力换成了 Fitbit Air。 什么是 G […]",
+    "description": "我把 Apple Watch 半退役了，身体记录的主力换成了 Fitbit Air。 什么是 Google F […]",
     "source_root_domain": "ixiqin.com"
   },
   {

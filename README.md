@@ -27,11 +27,15 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-10-09 | [Menlo 合伙人：万亿美金公司的2%大于独角兽的15%](https://wenfeixiang.com/2026/10/menlos-venky-ganesan-in-20vc/) | 美国知名 VC 机构 Menlo Ventures 合伙人 Venky Ganesan 日前在知名科技播客 2 […] |
+| 2026-10-09 | [2026 年十一假期](https://yipai.me/post/2554.html) | 今年十一没出门，因为没什么旅游的兴趣，怕了人山人海。境外热门地方也挤满了中国人。还有个原因是娃上小一了，有点紧张怕他请假影响学习，尽管我内心深处认为应该没啥影响。因为要给娃腾空间放学习桌，十一前一周我就开始收拾书房了，此项工作持续到假期最后一天。扔了十几大袋闲置或无用的物品，才发现有很多没拆封的玩具… |
+| 2026-10-09 | [「言说」无法掌控的代码](https://www.wdssmq.com/post/20190520073.html) | 继续「不想」写的水文。。 上一篇「月报」记录的那些代码项目烧掉了当月的 Copilot 额度，还烧了不少「硅基流动」的羊毛，甚至充了 10 块钱； 后边才发现，Copilot 可以设置「额外预算」继续用，按量计费，而不用开更高一档的订阅； 我用了 1 刀出头，然而至今没收到付费通知，就不知道什么情况… |
+| 2026-10-09 | [请不要将标签页的标题改为无意义字符](https://blog.mfwt.top/index.php/archives/1659/) | 部分博客（或者说部分站点），不知道从何时起有了一个很奇怪的习惯：在页面失去焦点（比如切换到其他标签页）之后，页面上的js会将标题修改为无意义的内容。典型的比如『页面崩溃啦』、『不要走啦』、『快回... |
 | 2026-10-09 | [定时备份 teslamate 数据](https://alanlee.fun/2026/10/09/teslamate-automatic-backup-to-s3/) | 通过 PostgreSQL 的 pg_dump、AWS S3 和 Crontab，实现 TeslaMate 驾驶数据的定时自动备份、云端存储及过期清理，确保珍贵的驾驶记录得到妥善保存。[ChatGPT 6 High] |
 | 2026-10-09 | [给 AI 公司“记账”的网站，看看他们“吹牛”了没](https://gugegt.com/ai-rank-bank-launch-promises.html) | 各家 AI 公司每天都在发布：「下个月上线」「即将开源」「逐步开放给所有人」。话都说得很满，回头核对的没几个。 于是做了 AI Rank Bank： airankbank.com 。每条发布当成一个承诺记在账上，到期看兑现没有。 |
 | 2026-10-09 | [坏人的定义](https://www.hecaitou.com/2026/10/on-defining-the-bad-person.html) | 在网上看到一个说法，判断一个人是不是坏人，不需要等到他做出什么大奸大恶的事情来，只需要看他平素如何对待一个善良的人，尤其是如何对待一个善良且弱势的人，是否会利用对方这种善良步步紧逼，是否会任意挥霍这种善意却毫不在乎，就可以直接判断。 我听完觉得很有道理，并且推论出一个关于坏人的定义：只要谁习惯性地利… |
 | 2026-10-09 | [一次 GitHub Actions 超时，追到 IPFS 基础设施的动荡](https://liudon.com/posts/github-actions-ipfs-dist-ipfs-tech/) | 前言 今天更新《 博客时光机 2.0 前端篇：把时间装进一台 Macintosh 》时，突然遇到了 GitHub Actions 执行失败。 简单看了下报错，看着是 IPFS 部分执行失败了。 以为是偶尔遇到的网络问题，重试几次还是不行。 |
-| 2026-10-09 | [我把 Apple Watch 半退役了：Google Fitbit Air 可能是最适合 AI 用户的可穿戴设备](https://www.ixiqin.com/2026/10/09/use-google-fitbit-air/) | 用了两个月后，我把 Apple Watch 半退役了，身体记录的主力换成了 Fitbit Air。 什么是 G […] |
+| 2026-10-09 | [我把 Apple Watch 半退役了：Google Fitbit Air 可能是最适合 AI 用户的可穿戴设备](https://www.ixiqin.com/2026/10/09/use-google-fitbit-air/) | 我把 Apple Watch 半退役了，身体记录的主力换成了 Fitbit Air。 什么是 Google F […] |
 | 2026-10-09 | [商K里的书店在卖什么书？](https://mobius.blog/25845.html) | 商K里有没有书店我并不知道，但我却知道它在卖什么书。 其实今天的文章来自于昨晚的梦，梦见在一家商K里，前台附近 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-10-09 | [博客时光机 2.0 前端篇：把时间装进一台 Macintosh](https://liudon.com/posts/hugo-ipfs-time-machine-v2-frontend/) | 上一篇《 博客时光机 2.0 后端篇：构建可视索引 》讲了后端的实现，如何把完整的 CID 构建历史整理成一条真正有意义的「可视时间线」。 后端提前生成好了可视索引，前端只需要按索引展示就好了，但如何实现前端的效果也是折腾了一番。 |
 | 2026-10-09 | [Revisiting SCSS in Emacs: tree-sitter-scss, scss2-mode and emmet2-mode](https://peiwen.lu/posts/tree-sitter-scss) | Why I picked up a Tree-sitter grammar for SCSS again after three and a half years, and the two Emacs packages that grew out of it. |
