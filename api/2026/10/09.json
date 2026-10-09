@@ -1,5 +1,54 @@
 [
   {
+    "title": "定时备份 teslamate 数据",
+    "url": "https://alanlee.fun/2026/10/09/teslamate-automatic-backup-to-s3/",
+    "date": "2026-10-09T07:31:00Z",
+    "description": "通过 PostgreSQL 的 pg_dump、AWS S3 和 Crontab，实现 TeslaMate 驾驶数据的定时自动备份、云端存储及过期清理，确保珍贵的驾驶记录得到妥善保存。[ChatGPT 6 High]",
+    "source_root_domain": "alanlee.fun"
+  },
+  {
+    "title": "给 AI 公司“记账”的网站，看看他们“吹牛”了没",
+    "url": "https://gugegt.com/ai-rank-bank-launch-promises.html",
+    "date": "2026-10-09T04:50:00Z",
+    "description": "各家 AI 公司每天都在发布：「下个月上线」「即将开源」「逐步开放给所有人」。话都说得很满，回头核对的没几个。 于是做了 AI Rank Bank： airankbank.com 。每条发布当成一个承诺记在账上，到期看兑现没有。",
+    "source_root_domain": "gugegt.com"
+  },
+  {
+    "title": "坏人的定义",
+    "url": "https://www.hecaitou.com/2026/10/on-defining-the-bad-person.html",
+    "date": "2026-10-09T04:42:11Z",
+    "description": "在网上看到一个说法，判断一个人是不是坏人，不需要等到他做出什么大奸大恶的事情来，只需要看他平素如何对待一个善良的人，尤其是如何对待一个善良且弱势的人，是否会利用对方这种善良步步紧逼，是否会任意挥霍这种善意却毫不在乎，就可以直接判断。 我听完觉得很有道理，并且推论出一个关于坏人的定义：只要谁习惯性地利用他人的善良本性和回避冲突的心理，让对方一次次陷入为难，一次次占对方便宜，甚至以此为乐，那他就是个坏人。 很少听说谁在单位年会上喝醉了暴打自己领导的，但经常看到有人在宵夜摊上两杯马尿下去，就对着店小二拍桌子打板凳。在年会上让一个人保持衣冠楚楚，彬彬有礼，谈吐不俗的东西，为什么会在宵夜摊上失效？因为那个东西不是人性中的良善，而是对权力和实力的敬畏。在年会上是对他人实力的尊重，等到了宵夜摊上，感觉实力落在了自己身上，这时候敬畏就转为肆无忌惮，坏也就生长了出来。 生活中讨论过无数次的「边界感」也是同理。为什么总有人突破边界？或者我这么问，为什么很多人总是被人突破边界？这不是有没有礼貌的问题，也不是情商高低的问题，边界每一次被蓄意破坏，是因为有一方对另一方的良善有充足信心，非常确信自己的行为不会招致",
+    "source_root_domain": "hecaitou.com"
+  },
+  {
+    "title": "一次 GitHub Actions 超时，追到 IPFS 基础设施的动荡",
+    "url": "https://liudon.com/posts/github-actions-ipfs-dist-ipfs-tech/",
+    "date": "2026-10-09T03:08:15Z",
+    "description": "前言 今天更新《 博客时光机 2.0 前端篇：把时间装进一台 Macintosh 》时，突然遇到了 GitHub Actions 执行失败。 简单看了下报错，看着是 IPFS 部分执行失败了。 以为是偶尔遇到的网络问题，重试几次还是不行。",
+    "source_root_domain": "liudon.com"
+  },
+  {
+    "title": "我把 Apple Watch 半退役了：Google Fitbit Air 可能是最适合 AI 用户的可穿戴设备",
+    "url": "https://www.ixiqin.com/2026/10/09/use-google-fitbit-air/",
+    "date": "2026-10-09T02:32:06Z",
+    "description": "用了两个月后，我把 Apple Watch 半退役了，身体记录的主力换成了 Fitbit Air。 什么是 G […]",
+    "source_root_domain": "ixiqin.com"
+  },
+  {
+    "title": "商K里的书店在卖什么书？",
+    "url": "https://mobius.blog/25845.html",
+    "date": "2026-10-09T01:50:14Z",
+    "description": "商K里有没有书店我并不知道，但我却知道它在卖什么书。 其实今天的文章来自于昨晚的梦，梦见在一家商K里，前台附近 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。",
+    "source_root_domain": "onojyun.com"
+  },
+  {
+    "title": "博客时光机 2.0 前端篇：把时间装进一台 Macintosh",
+    "url": "https://liudon.com/posts/hugo-ipfs-time-machine-v2-frontend/",
+    "date": "2026-10-09T00:57:46Z",
+    "description": "上一篇《 博客时光机 2.0 后端篇：构建可视索引 》讲了后端的实现，如何把完整的 CID 构建历史整理成一条真正有意义的「可视时间线」。 后端提前生成好了可视索引，前端只需要按索引展示就好了，但如何实现前端的效果也是折腾了一番。",
+    "source_root_domain": "liudon.com"
+  },
+  {
     "title": "Revisiting SCSS in Emacs: tree-sitter-scss, scss2-mode and emmet2-mode",
     "url": "https://peiwen.lu/posts/tree-sitter-scss",
     "date": "2026-10-09T00:00:00Z",
@@ -19,6 +68,13 @@
     "date": "2026-10-08T19:45:37Z",
     "description": "The build of Open Annihilation for Total Annihilation has been updated to version v0.7.3 of the project",
     "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "我写了一套视频内容解析的 skill",
+    "url": "https://blog.solazy.me/20261008/",
+    "date": "2026-10-08T15:35:00Z",
+    "description": "确实是自己有需求，以后会把更多自写自用的 skill 开放出来",
+    "source_root_domain": "solazy.me"
   },
   {
     "title": "科技爱好者周刊（第 414 期）：Jev 决策模型有什么用",
@@ -47,6 +103,13 @@
     "date": "2026-10-08T08:33:07Z",
     "description": "购买链接 欢迎通过下面购买链接购买 Onekey Pro2 ： 专属链接： https://onekey.so/r/SIMON/shop 🧧频道福利：通过本链接下单，我将返还订单金额的 10% 给你，下单后请私信 Telegram 机器人 @appdobot Onekey是什么？ 在正式开箱前，我们先来回答一个关键问题：OneKey 是什么？ OneKey 是一款广受欢迎的硬件钱包品牌，主打「安全易用、生态完整、支持多端」的加密资产管理体验。 OneKey 获得过 Coinbase Ventures、Dragonfly、Ribbit Capital、YZi Labs 等机构投资。2026 年 4 月，OneKey 宣布完成 B 轮融资，估值达到约 1.5 亿美元，YZi Labs 参与投资。OneKey 是唯一同时获得 Coinbase Ventures 和 YZi Labs 支持的硬件钱包厂商。 它的核心理念是让更多用户以更低的门槛使用上专业级别的冷钱包工具，无论是新手入门还是资深用户都能找到适合自己的型号。OneKey 产品线支持二维码隔离、蓝牙通信、USB-C 连接等主流交互方式",
     "source_root_domain": "song.al"
+  },
+  {
+    "title": "Tutti 应该是国内唯一做 X Tre",
+    "url": "https://versun.me/blog/tweet-2108090760772128927",
+    "date": "2026-10-08T07:02:58Z",
+    "description": "Tutti 对于出海品牌来说，最稀缺的东西之一，是全球注意力。 而 𝕏 Trending，是获取全球注意力的重要方式。 进入 Trending，获得的不只是榜单上的一个位置，更意味着品牌、产品和故事进入更大范围的公共讨论，获得全球用户、创作者和潜在客户的关注。 过去一个月，Tutti 做出了 7 次 𝕏 Trending。最多的一天，Top 5 里有 3 条来自我们。 所以最近被问得最多的一句话：𝕏 Trending，到底能不能做出来？ 因此，Tutti 决定开一场线上闭门会，直接分享我们最近 7 Tutti 应该是国内唯一做 X Trending 的吧 10 月 19 日有个免费的线上闭门分享会，有做出海的可以关注下",
+    "source_root_domain": "versun.me"
   },
   {
     "title": "极限拉扯出好价",

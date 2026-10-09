@@ -27,13 +27,22 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-10-09 | [定时备份 teslamate 数据](https://alanlee.fun/2026/10/09/teslamate-automatic-backup-to-s3/) | 通过 PostgreSQL 的 pg_dump、AWS S3 和 Crontab，实现 TeslaMate 驾驶数据的定时自动备份、云端存储及过期清理，确保珍贵的驾驶记录得到妥善保存。[ChatGPT 6 High] |
+| 2026-10-09 | [给 AI 公司“记账”的网站，看看他们“吹牛”了没](https://gugegt.com/ai-rank-bank-launch-promises.html) | 各家 AI 公司每天都在发布：「下个月上线」「即将开源」「逐步开放给所有人」。话都说得很满，回头核对的没几个。 于是做了 AI Rank Bank： airankbank.com 。每条发布当成一个承诺记在账上，到期看兑现没有。 |
+| 2026-10-09 | [坏人的定义](https://www.hecaitou.com/2026/10/on-defining-the-bad-person.html) | 在网上看到一个说法，判断一个人是不是坏人，不需要等到他做出什么大奸大恶的事情来，只需要看他平素如何对待一个善良的人，尤其是如何对待一个善良且弱势的人，是否会利用对方这种善良步步紧逼，是否会任意挥霍这种善意却毫不在乎，就可以直接判断。 我听完觉得很有道理，并且推论出一个关于坏人的定义：只要谁习惯性地利… |
+| 2026-10-09 | [一次 GitHub Actions 超时，追到 IPFS 基础设施的动荡](https://liudon.com/posts/github-actions-ipfs-dist-ipfs-tech/) | 前言 今天更新《 博客时光机 2.0 前端篇：把时间装进一台 Macintosh 》时，突然遇到了 GitHub Actions 执行失败。 简单看了下报错，看着是 IPFS 部分执行失败了。 以为是偶尔遇到的网络问题，重试几次还是不行。 |
+| 2026-10-09 | [我把 Apple Watch 半退役了：Google Fitbit Air 可能是最适合 AI 用户的可穿戴设备](https://www.ixiqin.com/2026/10/09/use-google-fitbit-air/) | 用了两个月后，我把 Apple Watch 半退役了，身体记录的主力换成了 Fitbit Air。 什么是 G […] |
+| 2026-10-09 | [商K里的书店在卖什么书？](https://mobius.blog/25845.html) | 商K里有没有书店我并不知道，但我却知道它在卖什么书。 其实今天的文章来自于昨晚的梦，梦见在一家商K里，前台附近 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
+| 2026-10-09 | [博客时光机 2.0 前端篇：把时间装进一台 Macintosh](https://liudon.com/posts/hugo-ipfs-time-machine-v2-frontend/) | 上一篇《 博客时光机 2.0 后端篇：构建可视索引 》讲了后端的实现，如何把完整的 CID 构建历史整理成一条真正有意义的「可视时间线」。 后端提前生成好了可视索引，前端只需要按索引展示就好了，但如何实现前端的效果也是折腾了一番。 |
 | 2026-10-09 | [Revisiting SCSS in Emacs: tree-sitter-scss, scss2-mode and emmet2-mode](https://peiwen.lu/posts/tree-sitter-scss) | Why I picked up a Tree-sitter grammar for SCSS again after three and a half years, and the two Emacs packages that grew out of it. |
 | 2026-10-09 | [极速聊 Nintendo Direct 260909](https://bluepika.life/blog/nintendo-direct-260909-quick-chat) | 简单记录一下这次 Nintendo Direct 里出现的游戏，以及直播时的一些即时感想。 |
 | 2026-10-08 | [Total Annihilation updated](https://macsourceports.com/game/totalannihilation) | The build of Open Annihilation for Total Annihilation has been updated to version v0.7.3 of the project |
+| 2026-10-08 | [我写了一套视频内容解析的 skill](https://blog.solazy.me/20261008/) | 确实是自己有需求，以后会把更多自写自用的 skill 开放出来 |
 | 2026-10-08 | [科技爱好者周刊（第 414 期）：Jev 决策模型有什么用](http://www.ruanyifeng.com/blog/2026/10/weekly-issue-414.html) | 这里记录每周值得分享的科技内容，周五发布。 本杂志 开源 ，欢迎 投稿 。另有 《谁在招人》 服务，发布程序员招聘信息。合作请 邮件联系 （yifeng.ruan@gmail.com）。 封面图 国产首列数字地铁列车 VELLINK，完全无人驾驶，车头改成了大幅玻璃，用于观光。（ via ） Jev… |
 | 2026-10-08 | [油管封面图和去除人声保留背景音](https://dsx2016.com/youtube-thumbnail-and-vocal-removal-isolating-the-background-audio/) | 油管封面图 为了油管封面，让ai写了一个python离线包 启动后会打开一个网页，网页可以选择本地视频，然后对... 油管封面图和去除人声保留背景音 最先出现在 大师兄2016 。 |
 | 2026-10-08 | [学习周刊-总第284期-2026年第41周](https://wiki.eryajf.net/pages/fdfe24/) | 如要阅读全文，点击标题跳转。 学习周刊-总第284期 ｜ manifest ｜ iContainer ｜ open-note ｜ dbops ｜ skill-zoo ｜ CoPet ｜ renewlet |
 | 2026-10-08 | [OneKey Pro 2： 再次进化的旗舰硬件钱包](https://song.al/onekeypro2) | 购买链接 欢迎通过下面购买链接购买 Onekey Pro2 ： 专属链接： https://onekey.so/r/SIMON/shop 🧧频道福利：通过本链接下单，我将返还订单金额的 10% 给你，下单后请私信 Telegram 机器人 @appdobot Onekey是什么？ 在正式开箱前，我们… |
+| 2026-10-08 | [Tutti 应该是国内唯一做 X Tre](https://versun.me/blog/tweet-2108090760772128927) | Tutti 对于出海品牌来说，最稀缺的东西之一，是全球注意力。 而 𝕏 Trending，是获取全球注意力的重要方式。 进入 Trending，获得的不只是榜单上的一个位置，更意味着品牌、产品和故事进入更大范围的公共讨论，获得全球用户、创作者和潜在客户的关注。 过去一个月，Tutti 做出了 7 次… |
 | 2026-10-08 | [极限拉扯出好价](https://www.hecaitou.com/2026/10/The-Price-Tug-of-War.html) | 最近验证了我的一条网购心得，那就是：极限拉扯出便宜。 前几天我展示了一张我在网上淘来的便宜 CD，花了我 25 块钱不到，却是一张很好的专辑，我甚至感慨说「古典音乐 CD 贱如泥」。有读者立即按图索骥，发现最便宜的一张也要 60 块。看到这个价格，我回去看了看我的那一张 CD，还有存货，价格还是 2… |
 | 2026-10-08 | [292、寒露](https://1900.live/292-han-lu/) | null 露华初白，金风转肃，天地在澄清与敛藏之间，拉满了一张无形的清寒之弓。 太阳行至黄经195°，寒露——秋之第五序，亦为深秋之门庭。 寒侵草木，万物知霜。鸿雁来宾，最后的队列以“人”字掠过南天的肃云，写下迁徙的终章；雀入大水为蛤，雀鸟隐入沧波，将踪迹藏进贝壳的纹络深处；菊有黄华，群芳谢尽之后，… |
 | 2026-10-08 | [什么值得写？](https://mobius.blog/25841.html) | 前段时间收到一则留言，就是简单问了一个简单的问题：什么值得写？ 没有上下文地来这样一句话，我反而不知道怎么回答 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
