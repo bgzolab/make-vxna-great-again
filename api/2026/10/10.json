@@ -1,5 +1,47 @@
 [
   {
+    "title": "Plants vs. Zombies updated",
+    "url": "https://macsourceports.com/game/pvz",
+    "date": "2026-10-10T16:40:41Z",
+    "description": "The build of PvZ Portable for Plants vs. Zombies has been updated to version 0.2.5 of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "Quetoo updated",
+    "url": "https://macsourceports.com/game/quetoo",
+    "date": "2026-10-10T15:48:53Z",
+    "description": "The build of Quetoo has been updated to version v1.0.124 of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "SimCity 2000 updated",
+    "url": "https://macsourceports.com/game/simcity2000",
+    "date": "2026-10-10T15:48:40Z",
+    "description": "The build of OpenSC2K for SimCity 2000 has been updated to version v0.3.0 of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "RollerCoaster Tycoon 2 updated",
+    "url": "https://macsourceports.com/game/rct2",
+    "date": "2026-10-10T15:48:21Z",
+    "description": "The build of OpenRCT2 for RollerCoaster Tycoon 2 has been updated to version v0.5.6 of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "Total Annihilation updated",
+    "url": "https://macsourceports.com/game/totalannihilation",
+    "date": "2026-10-10T15:48:00Z",
+    "description": "The build of Open Annihilation for Total Annihilation has been updated to version v0.7.4 of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "Wolfenstein: Enemy Territory updated",
+    "url": "https://macsourceports.com/game/wolfet",
+    "date": "2026-10-10T15:47:25Z",
+    "description": "The build of ET: Legacy for Wolfenstein: Enemy Territory has been updated to version 2.86.1 of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
     "title": "大陆漢人无需反对台独",
     "url": "https://sinyalee.com/blog/?p=1358",
     "date": "2026-10-10T07:40:49Z",
@@ -21,6 +63,13 @@
     "source_root_domain": "debuginn.com"
   },
   {
+    "title": "Python 潮流周刊#170：3.15 惰性导入落地、3.16 拟纳入增量 GC 与 ?? 运算符",
+    "url": "https://pythoncat.top/posts/2026-10-10-weekly/",
+    "date": "2026-10-10T00:00:00Z",
+    "description": "分享了 13 篇文章，13 个开源项目，2 则音视频，2 则热门讨论",
+    "source_root_domain": "pythoncat.top"
+  },
+  {
     "title": "所有日常消费1%返现，我办了ING这张信用卡",
     "url": "https://www.ozexplorers.com/%E7%BE%8A%E6%AF%9B%E6%94%BB%E7%95%A5/2026/10/10/ing-orange-one-rewards-platinum-review.html",
     "date": "2026-10-10T00:00:00Z",
@@ -28,10 +77,10 @@
     "source_root_domain": "ozexplorers.com"
   },
   {
-    "title": "AI 早报 2026-10-10：Anthropic 自曝 AI 代理滥用政府网站，白宫要求 AI 公司强制报告安全事件",
+    "title": "AI 早报 2026-10-10：47只高增长 AI 应用概念股较年内高点回撤超30%",
     "url": "https://www.jtxyh.com/daily/2026-10-10/",
     "date": "2026-10-09T16:00:00Z",
-    "description": "2026-10-10 AI 早报，共 10 条动态。Anthropic 披露，其测试中的 AI 代理曾滥用互联网上的真实网站：通过美国政府网站的公开表格提交了 20 份非移民签证申请，并向费城警方网站提交了一条虚假凶杀案线索；其他异常行为还涉及入侵企业系统、攻破政府网站。",
+    "description": "2026-10-10 AI 早报，共 14 条动态。证券时报·数据宝统计，截至10月9日收盘，2026年上半年净利润同比增长30%以上（含扭亏为盈）的AI应用概念股中，有47只收盘价较年内高点回撤超过30%。扩散智能DiffuSpace 10月9日宣布近日连续完成两轮融资，由经纬创投、顺为资本、君联资本联合领投，中科…",
     "source_root_domain": "jtxyh.com"
   },
   {
@@ -138,13 +187,6 @@
     "date": "2026-10-09T00:00:00Z",
     "description": "简单记录一下这次 Nintendo Direct 里出现的游戏，以及直播时的一些即时感想。",
     "source_root_domain": "bluepika.life"
-  },
-  {
-    "title": "Total Annihilation updated",
-    "url": "https://macsourceports.com/game/totalannihilation",
-    "date": "2026-10-08T19:45:37Z",
-    "description": "The build of Open Annihilation for Total Annihilation has been updated to version v0.7.3 of the project",
-    "source_root_domain": "macsourceports.com"
   },
   {
     "title": "我写了一套视频内容解析的 skill",

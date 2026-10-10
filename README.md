@@ -27,11 +27,18 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-10-10 | [Plants vs. Zombies updated](https://macsourceports.com/game/pvz) | The build of PvZ Portable for Plants vs. Zombies has been updated to version 0.2.5 of the project |
+| 2026-10-10 | [Quetoo updated](https://macsourceports.com/game/quetoo) | The build of Quetoo has been updated to version v1.0.124 of the project |
+| 2026-10-10 | [SimCity 2000 updated](https://macsourceports.com/game/simcity2000) | The build of OpenSC2K for SimCity 2000 has been updated to version v0.3.0 of the project |
+| 2026-10-10 | [RollerCoaster Tycoon 2 updated](https://macsourceports.com/game/rct2) | The build of OpenRCT2 for RollerCoaster Tycoon 2 has been updated to version v0.5.6 of the project |
+| 2026-10-10 | [Total Annihilation updated](https://macsourceports.com/game/totalannihilation) | The build of Open Annihilation for Total Annihilation has been updated to version v0.7.4 of the project |
+| 2026-10-10 | [Wolfenstein: Enemy Territory updated](https://macsourceports.com/game/wolfet) | The build of ET: Legacy for Wolfenstein: Enemy Territory has been updated to version 2.86.1 of the project |
 | 2026-10-10 | [大陆漢人无需反对台独](https://sinyalee.com/blog/?p=1358) | 中共几十年如一日，利用漢人的朴素的民族主义情绪，把台独渲染成十恶不赦的事。几乎所有人都被中共洗脑了，不经思考就 […] |
 | 2026-10-10 | [他人特殊论](https://www.hecaitou.com/2026/10/the-myth-of-the-special-exception.html) | 我个人很讨厌他人特殊论，一旦听到就会立即失去沟通的兴趣。 什么是他人特殊论？我先举个例子：当初我尝试 16+8 间歇性禁食，过了一段时间之后根据自己的体会写文章介绍。留言里立即有人回复：那是因为你每天不上 12 小时班，那是因为你不需要给孩子做饭，那是因为你年纪大了不觉得饿......看明白了吧？他… |
 | 2026-10-10 | [知盈 iAssets 更新近况：家庭共享、AI 资产分析和存款提醒](https://blog.debuginn.com/p/iassets-share/) | 大家好呀，我是 Meng小羽，好久不见～ 之前给大家介绍过我做的 家庭资产管理 APP——知盈 iAssets 。这段时间没停下来，一边自己用，一边根据大家的反馈继续改。 做这种工具还挺有意思的。刚开始觉得，把账户记进去、能看到净资产就差不多了。真用起来才发现，光把钱记清楚还不够：家人想一起看账本，… |
+| 2026-10-10 | [Python 潮流周刊#170：3.15 惰性导入落地、3.16 拟纳入增量 GC 与 ?? 运算符](https://pythoncat.top/posts/2026-10-10-weekly/) | 分享了 13 篇文章，13 个开源项目，2 则音视频，2 则热门讨论 |
 | 2026-10-10 | [所有日常消费1%返现，我办了ING这张信用卡](https://www.ozexplorers.com/%E7%BE%8A%E6%AF%9B%E6%94%BB%E7%95%A5/2026/10/10/ing-orange-one-rewards-platinum-review.html) | 之前聊到HSBC汇丰澳洲宣布关闭，2%的现金返现即将关闭。本着骑驴找马的心态，我开始寻找可以替代HSBC的银行卡。 |
-| 2026-10-09 | [AI 早报 2026-10-10：Anthropic 自曝 AI 代理滥用政府网站，白宫要求 AI 公司强制报告安全事件](https://www.jtxyh.com/daily/2026-10-10/) | 2026-10-10 AI 早报，共 10 条动态。Anthropic 披露，其测试中的 AI 代理曾滥用互联网上的真实网站：通过美国政府网站的公开表格提交了 20 份非移民签证申请，并向费城警方网站提交了一条虚假凶杀案线索；其他异常行为还涉及入侵企业系统、攻破政府网站。 |
+| 2026-10-09 | [AI 早报 2026-10-10：47只高增长 AI 应用概念股较年内高点回撤超30%](https://www.jtxyh.com/daily/2026-10-10/) | 2026-10-10 AI 早报，共 14 条动态。证券时报·数据宝统计，截至10月9日收盘，2026年上半年净利润同比增长30%以上（含扭亏为盈）的AI应用概念股中，有47只收盘价较年内高点回撤超过30%。扩散智能DiffuSpace 10月9日宣布近日连续完成两轮融资，由经纬创投、顺为资本、君联… |
 | 2026-10-09 | [好记性不如烂笔头](https://blog.solazy.me/20261009/) | 现在真的容易忘事儿 |
 | 2026-10-09 | [Menlo 合伙人：万亿美金公司的2%大于独角兽的15%](https://wenfeixiang.com/2026/10/menlos-venky-ganesan-in-20vc/) | 美国知名 VC 机构 Menlo Ventures 合伙人 Venky Ganesan 日前在知名科技播客 2 […] |
 | 2026-10-09 | [2026 年十一假期](https://yipai.me/post/2554.html) | 今年十一没出门，因为没什么旅游的兴趣，怕了人山人海。境外热门地方也挤满了中国人。还有个原因是娃上小一了，有点紧张怕他请假影响学习，尽管我内心深处认为应该没啥影响。因为要给娃腾空间放学习桌，十一前一周我就开始收拾书房了，此项工作持续到假期最后一天。扔了十几大袋闲置或无用的物品，才发现有很多没拆封的玩具… |
@@ -47,7 +54,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-10-09 | [博客时光机 2.0 前端篇：把时间装进一台 Macintosh](https://liudon.com/posts/hugo-ipfs-time-machine-v2-frontend/) | 上一篇《 博客时光机 2.0 后端篇：构建可视索引 》讲了后端的实现，如何把完整的 CID 构建历史整理成一条真正有意义的「可视时间线」。 后端提前生成好了可视索引，前端只需要按索引展示就好了，但如何实现前端的效果也是折腾了一番。 |
 | 2026-10-09 | [Revisiting SCSS in Emacs: tree-sitter-scss, scss2-mode and emmet2-mode](https://peiwen.lu/posts/tree-sitter-scss) | Why I picked up a Tree-sitter grammar for SCSS again after three and a half years, and the two Emacs packages that grew out of it. |
 | 2026-10-09 | [极速聊 Nintendo Direct 260909](https://bluepika.life/blog/nintendo-direct-260909-quick-chat) | 简单记录一下这次 Nintendo Direct 里出现的游戏，以及直播时的一些即时感想。 |
-| 2026-10-08 | [Total Annihilation updated](https://macsourceports.com/game/totalannihilation) | The build of Open Annihilation for Total Annihilation has been updated to version v0.7.3 of the project |
 | 2026-10-08 | [我写了一套视频内容解析的 skill](https://blog.solazy.me/20261008/) | 确实是自己有需求，以后会把更多自写自用的 skill 开放出来 |
 | 2026-10-08 | [科技爱好者周刊（第 414 期）：Jev 决策模型有什么用](http://www.ruanyifeng.com/blog/2026/10/weekly-issue-414.html) | 这里记录每周值得分享的科技内容，周五发布。 本杂志 开源 ，欢迎 投稿 。另有 《谁在招人》 服务，发布程序员招聘信息。合作请 邮件联系 （yifeng.ruan@gmail.com）。 封面图 国产首列数字地铁列车 VELLINK，完全无人驾驶，车头改成了大幅玻璃，用于观光。（ via ） Jev… |
 | 2026-10-08 | [油管封面图和去除人声保留背景音](https://dsx2016.com/youtube-thumbnail-and-vocal-removal-isolating-the-background-audio/) | 油管封面图 为了油管封面，让ai写了一个python离线包 启动后会打开一个网页，网页可以选择本地视频，然后对... 油管封面图和去除人声保留背景音 最先出现在 大师兄2016 。 |
@@ -79,7 +85,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-10-07 | [入蜀记 day495 服务费、coser、人生换位](https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_495/) | 「服务费、coser、人生换位。」 |
 | 2026-10-07 | [Quake II updated](https://macsourceports.com/game/quake2) | The build of Quake II RTX: Metal for Quake II has been updated to version 1.0 of the project |
 | 2026-10-07 | [Star Wars: TIE Fighter updated](https://macsourceports.com/game/swtiefighter) | The build of OpenTIE for Star Wars: TIE Fighter has been updated to version v0.0.7 of the project |
-| 2026-10-07 | [Quetoo updated](https://macsourceports.com/game/quetoo) | The build of Quetoo has been updated to version v1.0.121 of the project |
 | 2026-10-07 | [那就活着](https://mobius.blog/25838.html) | 1652 &#124; 自杀后的同情标准与理解原则 这两天某公司正值人生发展上升趋于平稳时期（如果直接说“40岁”感觉又 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-10-06 | [放弃了，评测集是真的不好做，特别是涉及众](https://versun.me/blog/tweet-2107611356501582200) | Versun 正在做一份本地模型的实用能力排行榜，测试集是从各种公开 benchmark中挑选微调，覆盖任务拆解、代码开发、长链路执行、上下文、指令遵循、记忆抽取、逻辑与常识 7 个维度 目前针对本地模型的评测很少，不知道有人感兴趣不，关注人多的话，我尽快测完放出来 放弃了，评测集是真的不好做，特别… |
 | 2026-10-06 | [2026 年 8 月 读女性研究，小说，随笔 6 本](https://conge.livingwithfcs.org/2026/10/06/reading-summary/) | 引子 引子 本月读娼妓问题，随时对 7 月份读基层生计的延续。很快我就了解到，娼妓在个人财务上，并非社会底层。 |
@@ -123,7 +128,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-10-04 | [罪与罚](https://blog.oospace.com/posts/2026-10-04/) | 社会运行需要规矩，法律就是规矩，然而规矩过于死板和失效，就达不到效果，就会丧失执法根基 |
 | 2026-10-04 | [油管YPP广告分成](https://dsx2016.com/youtube-partner-program-ypp-ad-revenue-sharing/) | YPP回收 不要以为开通了YPP，就一直可以广告分成 它会以各种理由不定期收回，比如使用AI，低质量，其他版权... 油管YPP广告分成 最先出现在 大师兄2016 。 |
 | 2026-10-04 | [捡垃圾之乐](https://www.hecaitou.com/2026/10/The-Joy-of-Junk.html) | 我认为世间没有所谓的「垃圾」，只存在价值错配。 如果你从这个角度去观察，世事就会变得有趣起来，不再局限在高级VS.低级，高档VS.垃圾这样的对立概念里。前几天我看到一条新闻，某位上海老教授去世之后，他的藏书被家人搬到楼下，一人两本大赠送。 老教授在世的时候，这些藏书都是他一本本精挑细选而来，选内容，… |
-| 2026-10-04 | [New Release: SimCity 2000](https://macsourceports.com/game/simcity2000) | The 90's were a wild time for a lot of reasons, not the least of which was that we were obsessed with tacking the number "2000" onto everything. So in… |
 | 2026-10-04 | [Oni updated](https://macsourceports.com/game/oni) | The build of OniARM64 for Oni has been updated to version v1.3.1 of the project |
 | 2026-10-04 | [经实测，Gemini Pro 订阅的 o](https://versun.me/blog/tweet-2106567037443256701) | 经实测，Gemini Pro 订阅的 opus 5.5 额度， 5小时只有 4M token，一周最多2个5小时额度，也就是8M token。。。。。 |
 | 2026-10-04 | [自从 hermes 经历了代码大清理以后](https://versun.me/blog/tweet-2106536614839423272) | Nous Research New blog post: We had a million lines of Python to clean up. On September 2nd @Teknium asked Hermes Agent to do it. 1,393 subagents and… |
