@@ -27,7 +27,9 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-10-10 | [从乙方到甲方，网络安全职业发展需要考虑的方向与能力](https://blog.sakanano.moe/qa/cybersecurity-career) | 技术专家还是安全负责人？长期目标尚不清晰时，该积累哪些知识和技能？ |
 | 2026-10-10 | [Plants vs. Zombies updated](https://macsourceports.com/game/pvz) | The build of PvZ Portable for Plants vs. Zombies has been updated to version 0.2.5 of the project |
+| 2026-10-10 | [AI 早报 2026-10-11：SemiAnalysis：中国现有数据中心算力超 24GW，不到美国 56GW 的一半](https://www.jtxyh.com/daily/2026-10-11/) | 2026-10-11 AI 早报，共 4 条动态。研究机构 SemiAnalysis 本周发布首个“中国数据中心模型”，英国《金融时报》10 月 7 日报道了该报告。路透 10 月 9 日独家报道，成立仅约六个月、还没有产品的微芯片初创公司 Nuvacore 正在融资，目标数亿美元，估值约 25 亿… |
 | 2026-10-10 | [Quetoo updated](https://macsourceports.com/game/quetoo) | The build of Quetoo has been updated to version v1.0.124 of the project |
 | 2026-10-10 | [SimCity 2000 updated](https://macsourceports.com/game/simcity2000) | The build of OpenSC2K for SimCity 2000 has been updated to version v0.3.0 of the project |
 | 2026-10-10 | [RollerCoaster Tycoon 2 updated](https://macsourceports.com/game/rct2) | The build of OpenRCT2 for RollerCoaster Tycoon 2 has been updated to version v0.5.6 of the project |
