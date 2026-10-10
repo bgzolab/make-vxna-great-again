@@ -27,9 +27,12 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-10-10 | [知盈 iAssets 更新近况：家庭共享、AI 资产分析和存款提醒](https://blog.debuginn.com/p/iassets-share/) | 大家好呀，我是 Meng小羽，好久不见～ 之前给大家介绍过我做的 家庭资产管理 APP——知盈 iAssets 。这段时间没停下来，一边自己用，一边根据大家的反馈继续改。 做这种工具还挺有意思的。刚开始觉得，把账户记进去、能看到净资产就差不多了。真用起来才发现，光把钱记清楚还不够：家人想一起看账本，… |
+| 2026-10-10 | [所有日常消费1%返现，我办了ING这张信用卡](https://www.ozexplorers.com/%E7%BE%8A%E6%AF%9B%E6%94%BB%E7%95%A5/2026/10/10/ing-orange-one-rewards-platinum-review.html) | 之前聊到HSBC汇丰澳洲宣布关闭，2%的现金返现即将关闭。本着骑驴找马的心态，我开始寻找可以替代HSBC的银行卡。 |
 | 2026-10-09 | [Menlo 合伙人：万亿美金公司的2%大于独角兽的15%](https://wenfeixiang.com/2026/10/menlos-venky-ganesan-in-20vc/) | 美国知名 VC 机构 Menlo Ventures 合伙人 Venky Ganesan 日前在知名科技播客 2 […] |
 | 2026-10-09 | [2026 年十一假期](https://yipai.me/post/2554.html) | 今年十一没出门，因为没什么旅游的兴趣，怕了人山人海。境外热门地方也挤满了中国人。还有个原因是娃上小一了，有点紧张怕他请假影响学习，尽管我内心深处认为应该没啥影响。因为要给娃腾空间放学习桌，十一前一周我就开始收拾书房了，此项工作持续到假期最后一天。扔了十几大袋闲置或无用的物品，才发现有很多没拆封的玩具… |
 | 2026-10-09 | [「言说」无法掌控的代码](https://www.wdssmq.com/post/20190520073.html) | 继续「不想」写的水文。。 上一篇「月报」记录的那些代码项目烧掉了当月的 Copilot 额度，还烧了不少「硅基流动」的羊毛，甚至充了 10 块钱； 后边才发现，Copilot 可以设置「额外预算」继续用，按量计费，而不用开更高一档的订阅； 我用了 1 刀出头，然而至今没收到付费通知，就不知道什么情况… |
+| 2026-10-09 | [excuse me？全套办公套装？ 不是](https://versun.me/blog/tweet-2108496001468125621) | 雷电芽衣 ELY Office Suite is finally coming! Hope it worth a star and repost! http://office.elygpui.com http://github.com/ZacharyZhang-NY/ElyOffice ELY Of… |
 | 2026-10-09 | [请不要将标签页的标题改为无意义字符](https://blog.mfwt.top/index.php/archives/1659/) | 部分博客（或者说部分站点），不知道从何时起有了一个很奇怪的习惯：在页面失去焦点（比如切换到其他标签页）之后，页面上的js会将标题修改为无意义的内容。典型的比如『页面崩溃啦』、『不要走啦』、『快回... |
 | 2026-10-09 | [定时备份 teslamate 数据](https://alanlee.fun/2026/10/09/teslamate-automatic-backup-to-s3/) | 通过 PostgreSQL 的 pg_dump、AWS S3 和 Crontab，实现 TeslaMate 驾驶数据的定时自动备份、云端存储及过期清理，确保珍贵的驾驶记录得到妥善保存。[ChatGPT 6 High] |
 | 2026-10-09 | [给 AI 公司“记账”的网站，看看他们“吹牛”了没](https://gugegt.com/ai-rank-bank-launch-promises.html) | 各家 AI 公司每天都在发布：「下个月上线」「即将开源」「逐步开放给所有人」。话都说得很满，回头核对的没几个。 于是做了 AI Rank Bank： airankbank.com 。每条发布当成一个承诺记在账上，到期看兑现没有。 |
@@ -138,24 +141,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-10-03 | [消费者知识小课堂（一）为消费者免费提供餐具，是餐厅应当履行的义务](https://blog.yasking.org/a/consumer-knowledge-part-1) | 前些天在大众点评看到一家位于昌平评分颇高的北京铜火锅餐馆，餐桌上摆放着消毒后带包装的餐具。 几年前我不在意 … |
 | 2026-10-03 | [油管赛道和语言选择什么？](https://dsx2016.com/what-niche-and-language-should-i-choose-for-my-youtube-channel/) | 先说语言 最方便的是自己的母语，比如中文 受众相对广一点和单价高一点的是英文 其他的都是一些小众语言，适合自己... 油管赛道和语言选择什么？ 最先出现在 大师兄2016 。 |
 | 2026-10-03 | [第五年 IV](https://mobius.blog/25824.html) | 连续两天都在节假日来咖啡厅处理工作，我虽然不是个喜欢热闹的人，但这种场合又很适合用来作为灵感收集。不过在上一轮 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
-| 2026-10-02 | [把 NGA 读成一本杂志 —— 阅境 Readscape 油猴脚本分享](https://corvo.myseu.cn/2026/10/02/2026-10-02-%E6%8A%8ANGA%E8%AF%BB%E6%88%90%E4%B8%80%E6%9C%AC%E6%9D%82%E5%BF%97-%E9%98%85%E5%A2%83Readscape/) | 我做了一个叫 阅境 / Readscape 的油猴脚本，可以把 NGA 的板块列表和帖子重排成杂志式的沉浸阅读界面：卡片瀑布流列表、首楼图文笔记、逐页评论、字号配色个性化。不需要服务器，装个油猴扩展一键安装，Android 和 iPhone 的手机浏览器同样完美支持。本文主要演示各项功能的实际用法。 |
-| 2026-10-02 | [明天穿什么衣服？按体感温度分 5 档，照着穿就行](https://gugegt.com/tigan-wendu-chuanyi.html) | 明天 18℃，穿长袖还是加件外套？天气 App 只报数字，不接这句。 真正决定穿多少的是体感温度。同样是 18℃，晴天和阴雨天能差出一件外套。 |
-| 2026-10-02 | [放弃是需要筹码的](https://blog.solazy.me/20261002/) | 今天聊聊身边的「放弃」案例 |
-| 2026-10-02 | [挺赞同这篇文章的实测结果，不同的 har](https://versun.me/blog/tweet-2105976233565786341) | 挺赞同这篇文章的实测结果，不同的 harness 只影响账单，对结果的影响微乎其微。还有之前的 FrontierHarness 评测其实也是这个道理，只不过它的测试集只有30题，66%通过率和60%其实只差2题而已，这在统计学上几乎就是随机波动 总结下 1. 别迷信大厂官方 Harness 2. 极… |
-| 2026-10-02 | [西北三日游](https://atpx.com/blog/northwest-china-tour/) | 一次简单的兰州、西宁三日游。 |
-| 2026-10-02 | [让 AI 开飞机如何](https://www.hecaitou.com/2026/10/what-if-we-let-ai-fly-the-plane.html) | 仔细看过 迪拜航空 FZ1073 航班的相关新闻，我突然冒出一个想法：也许 AI 自动驾驶应该跳过汽车，直接接管飞机。 在整个新闻事件里，最不稳定的因素是人---副驾驶用利器反复捅机长，试图控制飞机撞地；恢复稳定的最重要因素也是人---机长拼尽全力打开驾驶舱大门，水管工乘客锁喉副驾驶，将飞机改出俯冲… |
-| 2026-10-02 | [入蜀记 day494 歌会、Low-E、安全场域](https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_494/) | 「歌会、Low-E、安全场域。」 |
-| 2026-10-02 | [入蜀记 day493 湖北广济佛手山药、ZS、热爱成都](https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_493/) | 「湖北广济佛手山药、ZS、热爱成都。」 |
-| 2026-10-02 | [现在做开发者的生意越来越难做了，开发者完](https://versun.me/blog/tweet-2105877352182063491) | 现在做开发者的生意越来越难做了，开发者完全可以根据自己的需求 vibe coding 一个 比如 @levelsio 上个月就自己 vibe coding 替换掉了大量 SaaS 服务，每月省下约 2.5 万美元。 具体替换了下面这些服务： - 天气 API -> 换成了自己写的抓取挪威气象局 AP… |
-| 2026-10-02 | [入蜀记 day492 热体寒体、肉馕、扁担钩](https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_492/) | 「热体寒体、肉馕、扁担钩。」 |
-| 2026-10-02 | [入蜀记 day491 呼吸自由、地板超市、唯有适应](https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_491/) | 「呼吸自由、地板超市、唯有适应。」 |
-| 2026-10-02 | [入蜀记 day490 tip toe](https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_490/) | 「tip toe。」 |
-| 2026-10-02 | [入蜀记 day489 鸟与台风](https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_489/) | 「鸟与台风。」 |
-| 2026-10-02 | [微信公众号账号风险](https://dsx2016.com/wechat-official-account-risks/) | 公众号风险提示 公众号助手，账号检测，风险 提示有引导兼职，网赚等风险 才夸它不用折腾服务器，就来一招风险提示... 微信公众号账号风险 最先出现在 大师兄2016 。 |
-| 2026-10-02 | [ROG Ally 改装 jsaux 65Wh 电池套件](https://guchengf.me/blog/2026-10-02-rain/) | 最近重新开始高频地使用 ROG Ally，然后发现它的续航和散热是比较大的问题，即使只以12-15w的功率来运行，续航也明显有点弱。 经过一番搜索（结合AI推荐），找到了 jsaux 的电池升级套件 ，主要考虑了以下几个因素： 稳定性。 稳定性毫无疑问是最重要的，65Wh的方案似乎是社区验证最多的，… |
-| 2026-10-02 | [第五年 III](https://mobius.blog/25820.html) | 现在在写的内容，其实是明天要定时发布的，明明都说了是在放假期间“开天窗”，但由于提前写完的东西早就没有库存了， […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
-| 2026-10-02 | [收到 @levelsio 发的会员邮件了](https://versun.me/blog/tweet-2105832202957447602) | 收到 @levelsio 发的会员邮件了，我都快忘了，一年也就一两封。 很喜欢他写的一篇感想：当一件事 AI 做得和人一样好时，这件事就不再特别了。 比如最近 Opus 5.5 席卷了营销视频。在以前，同样的效果需要大量剪辑、动态设计和预算，现在几乎 0 成本。 这意味着任何人都能做出同等质量的内容… |
-| 2026-10-02 | [我对 Gemini 4 的期待是，比3.](https://versun.me/blog/tweet-2105810440253260270) | 我对 Gemini 4 的期待是，比3.8 flash 好就行了，不期待它能横扫 claude 和 openai |
 
 ## Vibe Coding
 
