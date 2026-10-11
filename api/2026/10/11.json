@@ -7,6 +7,13 @@
     "source_root_domain": "mzh.ren"
   },
   {
+    "title": "AI 早报 2026-10-12：白宫要求所有 AI 公司立即上报模型事故：从自愿合规转向强制披露",
+    "url": "https://www.jtxyh.com/daily/2026-10-12/",
+    "date": "2026-10-11T16:00:00Z",
+    "description": "2026-10-12 AI 早报，共 4 条动态。10月9日，白宫超级智能力量（Super Intelligence Force）在给 Axios 的声明中要求：所有 AI 公司必须立即上报涉及其模型的事故，并跟进补救，这是“不是可选项”的“关键国家安全义务”。",
+    "source_root_domain": "jtxyh.com"
+  },
+  {
     "title": "周末流水账 1011",
     "url": "https://blog.solazy.me/20261011/",
     "date": "2026-10-11T14:00:00Z",
@@ -54,6 +61,13 @@
     "date": "2026-10-11T08:14:00Z",
     "description": "还在被 冈易 QQ 音乐困扰吗，让小爱同学播放NAS上的歌需要几步？ https://est.github.io/play2mi/ 装个书签，点两下就行。不需要下载软件，不需要第三方服务器 期间还是碰壁了不少的。也学到不少东西。小米音箱以前应该是openwrt魔改 ubus 控制，后来都改成 Android 了。 这一分裂也导致它内部有两套API接口。一个是 sid=micoapi 一个是 sid=xiaomiio ，前者跑在 小爱云 Mina api2.mina.mi.com ，后者跑在 米家 IoT 云 api.io.mi.com/app 和 api.mijia.tech/app 这次就简单做了 Mina (micoapi) 的支持 能放歌，能 TTS 就行了。要扩展等有缘人吧。 期间搞出来个巨搞笑的插曲，AI 发现浏览器死活登录不上，一度以为是风控了，账号被画像了，IP被标记了，结果是 nonce 计算的时候没用 bigint 精度被截断了。笑死。幸好在去研究 TLS 指纹之前被我拦住了。 这种一般都是低级错误。 然后无聊让AI去扒一下能不能拿到shell，还真有注入漏洞。不过，",
     "source_root_domain": "feedburner.com"
+  },
+  {
+    "title": "Vol.121 应用、模型与运行系统相互塑造：AI 基础设施、智能体与云服务演进",
+    "url": "https://liduos.com/weekly/the-weekly-gradient-121",
+    "date": "2026-10-11T08:00:00Z",
+    "description": "本期内容围绕应用、模型与运行系统相互塑造，梳理 AI 基础设施、智能体平台、云服务、推理优化、持久执行环境与成本评估等新变化，并关注真实任务中的工程实践。",
+    "source_root_domain": "liduos.com"
   },
   {
     "title": "油管｜无人直播和YPP时长",
