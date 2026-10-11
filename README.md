@@ -27,16 +27,22 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-10-10 | [可以通过下面的命令关掉ai功能，并删掉相](https://versun.me/blog/tweet-2109069951273439337) | GeekPlux Apple Intelligence 占用 22GB 的空间，但是一点用都没，有点可笑。 可以通过下面的命令关掉ai功能，并删掉相关模型/AI组件，收回这些空间： curl -fsSL https://raw.githubusercontent.com/omlahore/Remov… |
 | 2026-10-10 | [从乙方到甲方，网络安全职业发展需要考虑的方向与能力](https://blog.sakanano.moe/qa/cybersecurity-career) | 技术专家还是安全负责人？长期目标尚不清晰时，该积累哪些知识和技能？ |
 | 2026-10-10 | [Plants vs. Zombies updated](https://macsourceports.com/game/pvz) | The build of PvZ Portable for Plants vs. Zombies has been updated to version 0.2.5 of the project |
-| 2026-10-10 | [AI 早报 2026-10-11：SemiAnalysis：中国现有数据中心算力超 24GW，不到美国 56GW 的一半](https://www.jtxyh.com/daily/2026-10-11/) | 2026-10-11 AI 早报，共 4 条动态。研究机构 SemiAnalysis 本周发布首个“中国数据中心模型”，英国《金融时报》10 月 7 日报道了该报告。路透 10 月 9 日独家报道，成立仅约六个月、还没有产品的微芯片初创公司 Nuvacore 正在融资，目标数亿美元，估值约 25 亿… |
+| 2026-10-10 | [AI 早报 2026-10-11：AI 排行榜 Arena 完成 2 亿美元 B 轮融资，估值 31 亿美元](https://www.jtxyh.com/daily/2026-10-11/) | 2026-10-11 AI 早报，共 11 条动态。TechCrunch 10 月 8 日报道，起源于 UC Berkeley 众包模型排行榜的 Arena 完成 2 亿美元 B 轮融资，由 Lightspeed Venture Partners 与 Khosla Ventures 联合领投，投后估… |
 | 2026-10-10 | [Quetoo updated](https://macsourceports.com/game/quetoo) | The build of Quetoo has been updated to version v1.0.124 of the project |
 | 2026-10-10 | [SimCity 2000 updated](https://macsourceports.com/game/simcity2000) | The build of OpenSC2K for SimCity 2000 has been updated to version v0.3.0 of the project |
 | 2026-10-10 | [RollerCoaster Tycoon 2 updated](https://macsourceports.com/game/rct2) | The build of OpenRCT2 for RollerCoaster Tycoon 2 has been updated to version v0.5.6 of the project |
 | 2026-10-10 | [Total Annihilation updated](https://macsourceports.com/game/totalannihilation) | The build of Open Annihilation for Total Annihilation has been updated to version v0.7.4 of the project |
 | 2026-10-10 | [Wolfenstein: Enemy Territory updated](https://macsourceports.com/game/wolfet) | The build of ET: Legacy for Wolfenstein: Enemy Territory has been updated to version 2.86.1 of the project |
+| 2026-10-10 | [哈？推特出了个“呼叫”功能，不是电话，可](https://versun.me/blog/tweet-2108889487921258818) | 哈？推特出了个“呼叫”功能，不是电话，可以在线开会议 |
 | 2026-10-10 | [大陆漢人无需反对台独](https://sinyalee.com/blog/?p=1358) | 中共几十年如一日，利用漢人的朴素的民族主义情绪，把台独渲染成十恶不赦的事。几乎所有人都被中共洗脑了，不经思考就 […] |
+| 2026-10-10 | [培训群里192个人，这题只有2个人做对。](https://versun.me/blog/tweet-2108807251930808813) | 培训群里192个人，这题只有2个人做对。。。 这说明了什么。。。 |
 | 2026-10-10 | [他人特殊论](https://www.hecaitou.com/2026/10/the-myth-of-the-special-exception.html) | 我个人很讨厌他人特殊论，一旦听到就会立即失去沟通的兴趣。 什么是他人特殊论？我先举个例子：当初我尝试 16+8 间歇性禁食，过了一段时间之后根据自己的体会写文章介绍。留言里立即有人回复：那是因为你每天不上 12 小时班，那是因为你不需要给孩子做饭，那是因为你年纪大了不觉得饿......看明白了吧？他… |
+| 2026-10-10 | [A/ 为了封号，又新增了一条禁令： 禁止](https://versun.me/blog/tweet-2108735579911524378) | A/ 为了封号，又新增了一条禁令： 禁止虐待辱骂 claude 模型。。。 所以，各位，以后看 A/ 不爽，也不能拿 claude 模型出气了 😂 https://www.anthropic.com/news/2026-usage-policy-update |
+| 2026-10-10 | [Cloudflare 收购 Deno 了](https://versun.me/blog/tweet-2108734111494074707) | Deno We are excited to announce that Deno is joining Cloudflare! https://deno.com/blog/cloudflare Cloudflare 收购 Deno 了，恭喜！ deno 还会维护一年，之后停止开发，社区应该会接手吧… |
+| 2026-10-10 | [想不到我 2024 年黑五买的一台 vp](https://versun.me/blog/tweet-2108733110947045455) | 想不到我 2024 年黑五买的一台 vps 竟然成绝唱了。。。 这配置年付才68刀，现在行情200刀一年算便宜了吧 |
 | 2026-10-10 | [知盈 iAssets 更新近况：家庭共享、AI 资产分析和存款提醒](https://blog.debuginn.com/p/iassets-share/) | 大家好呀，我是 Meng小羽，好久不见～ 之前给大家介绍过我做的 家庭资产管理 APP——知盈 iAssets 。这段时间没停下来，一边自己用，一边根据大家的反馈继续改。 做这种工具还挺有意思的。刚开始觉得，把账户记进去、能看到净资产就差不多了。真用起来才发现，光把钱记清楚还不够：家人想一起看账本，… |
 | 2026-10-10 | [Python 潮流周刊#170：3.15 惰性导入落地、3.16 拟纳入增量 GC 与 ?? 运算符](https://pythoncat.top/posts/2026-10-10-weekly/) | 分享了 13 篇文章，13 个开源项目，2 则音视频，2 则热门讨论 |
 | 2026-10-10 | [所有日常消费1%返现，我办了ING这张信用卡](https://www.ozexplorers.com/%E7%BE%8A%E6%AF%9B%E6%94%BB%E7%95%A5/2026/10/10/ing-orange-one-rewards-platinum-review.html) | 之前聊到HSBC汇丰澳洲宣布关闭，2%的现金返现即将关闭。本着骑驴找马的心态，我开始寻找可以替代HSBC的银行卡。 |
@@ -134,23 +140,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-10-04 | [经实测，Gemini Pro 订阅的 o](https://versun.me/blog/tweet-2106567037443256701) | 经实测，Gemini Pro 订阅的 opus 5.5 额度， 5小时只有 4M token，一周最多2个5小时额度，也就是8M token。。。。。 |
 | 2026-10-04 | [自从 hermes 经历了代码大清理以后](https://versun.me/blog/tweet-2106536614839423272) | Nous Research New blog post: We had a million lines of Python to clean up. On September 2nd @Teknium asked Hermes Agent to do it. 1,393 subagents and… |
 | 2026-10-04 | [2026年第40周](https://blog.sakoamc.com/posts/2640/) | 题记：二零二六年第四十周，假期大家都去哪儿玩了呢？先祝大家节日快乐！ |
-| 2026-10-03 | [UZDoom updated](https://macsourceports.com/sourceport/uzdoom) | The build of UZDoom for the DOOM engine series of games has been updated to version 5.0.3 of the project\n\nhttps://macsourceports.com/sourceport/uzdo… |
-| 2026-10-03 | [油管对于普通人意味着什么](https://dsx2016.com/what-does-youtube-mean-to-the-average-person/) | 普通人 普通人就做微信生态或者抖音生态就好了 一个公众号，一个短视频 微信流量主赚个咖啡钱，短视频和直播带货看... 油管对于普通人意味着什么 最先出现在 大师兄2016 。 |
-| 2026-10-03 | [油管一些需要提前知道的内容](https://dsx2016.com/some-things-you-need-to-know-about-youtube-in-advance/) | 刷量和买号 叠甲，本文不卖频道不刷量 油管开通YPP，顺利的话至少要预期一个月或者半年以上 很多人根本无法完成... 油管一些需要提前知道的内容 最先出现在 大师兄2016 。 |
-| 2026-10-03 | [莫名其妙的优越感](https://blog.solazy.me/20261003/) | 今天听了一期播客，引起了些许不适 |
-| 2026-10-03 | [油管用什么设备和视频类型](https://dsx2016.com/what-equipment-and-video-types-are-used-for-youtube/) | 口播和vlog 无论任何视频平台，最基础的就是两种形式 一种是口播，一种是vlog 都可以出镜，锻炼镜头感，不... 油管用什么设备和视频类型 最先出现在 大师兄2016 。 |
-| 2026-10-03 | [道德和欲望](https://blog.oospace.com/posts/2026-10-03-c/) | 没有什么是一成不变的，唯一不变的是变化 |
-| 2026-10-03 | [拧巴的世界观](https://blog.oospace.com/posts/2026-10-03-b/) | 这个世界为什么是谁的拳头大听谁的 |
-| 2026-10-03 | [Coffee Break Clojure, Vol.5](https://www.geedea.pro/article/clj5/) | 在 第一篇 我们安装了 Leiningen，当时只是用它启动了 REPL 和 nREPL 服务器，现在我们要用它来干点重活儿了。顺带一提，Leiningen 的名字取自短篇故事《 莱宁根大战蚂蚁 》，故事情节…… 就是一个叫莱宁根的男人大战蚂蚁。 创建项目 在终端输入 lein new -h 命令查… |
-| 2026-10-03 | [上班与自律](https://blog.oospace.com/posts/2026-10-03-a/) | 有钱有闲容易自律，只要不上班，就能想办法一直不上班，上了班就很难跳出来 |
-| 2026-10-03 | [学习 Etcd 笔记：启动与基础命令](https://blog.yasking.org/a/learn-etcd) | 有了 AI，现在学习成本很低，有很多开源项目都很值得学习，先从 Etcd 始。 搭建 Etcd 测试环境 本机电脑有 Docker 环境就好办了，创建 ~/Portable … |
-| 2026-10-03 | [中秋与国庆](https://www.gtdstudy.com/posts/2026-10-3-open-your-eye/) | 朋友，这封信来晚了，本来应该中秋就写的，没想到国庆也已经过了 3 天了，才终于提笔写起来。祝你中秋，国庆快乐！ 想念爷爷奶奶 每到中秋，都非常想念爷爷奶奶。我永远记得，在老家住的 3 个月，是我一生中最快乐的日子。 爷爷写得一手好字，奶奶能烧一手好菜；爷爷说话慢条斯理，奶奶说话噼里啪啦；爷爷常坐在大… |
-| 2026-10-03 | [油管要不要露脸？](https://dsx2016.com/should-i-show-my-face-on-youtube/) | 先说结论 90%要露脸 其他美食，手工，部分amsr不需要露脸 现象分析 彩票店老板很少买大额彩票或者刮刮乐 ... 油管要不要露脸？ 最先出现在 大师兄2016 。 |
-| 2026-10-03 | [AI Infra：Supabase 收购 Turso](https://luweiqing.com/gossip/AI-Infra-Supabase-Turso.html) | Supabase 在 2026 年 10 月 2 日收购 Turso，同一天还宣布了由 GIC 领投、CapitalG 等跟投的 1.5 亿美元增长融资。公告把这笔交易定位成：给 agent 时... |
-| 2026-10-03 | [借你一用](https://www.hecaitou.com/2026/10/Borrowing-You.html) | 这两天才注意到，我很多年前的一篇文章被人们翻出来，以此作为证据，证明某人当初就不怎么样。但我自己很清楚，当年发出那篇文章之后，那篇文章在许多人嘴里是「恰恰证明了和菜头是个沙雕」。 文章还是那篇文章，发在网上之后辗转传播，我一个字都改不了。当初它是我沙雕的证据，如今它却成了我有远见的证据。那这篇文章究… |
-| 2026-10-03 | [消费者知识小课堂（一）为消费者免费提供餐具，是餐厅应当履行的义务](https://blog.yasking.org/a/consumer-knowledge-part-1) | 前些天在大众点评看到一家位于昌平评分颇高的北京铜火锅餐馆，餐桌上摆放着消毒后带包装的餐具。 几年前我不在意 … |
-| 2026-10-03 | [油管赛道和语言选择什么？](https://dsx2016.com/what-niche-and-language-should-i-choose-for-my-youtube-channel/) | 先说语言 最方便的是自己的母语，比如中文 受众相对广一点和单价高一点的是英文 其他的都是一些小众语言，适合自己... 油管赛道和语言选择什么？ 最先出现在 大师兄2016 。 |
-| 2026-10-03 | [第五年 IV](https://mobius.blog/25824.html) | 连续两天都在节假日来咖啡厅处理工作，我虽然不是个喜欢热闹的人，但这种场合又很适合用来作为灵感收集。不过在上一轮 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 
 ## Vibe Coding
 
