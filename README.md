@@ -27,15 +27,27 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-10-11 | [油管｜无人直播和YPP时长](https://dsx2016.com/youtube-automated-livestreams-and-ypp-watch-time/) | 无人直播 直播要求就是有人不断的回应，如果没有人，流量就大减 另外重点说一下，油管视频和直播，或者其他视频平台... 油管｜无人直播和YPP时长 最先出现在 大师兄2016 。 |
+| 2026-10-11 | [讀《一句頂一萬句》](https://taxodium.ink/%E8%AE%80%E3%80%8A%E4%B8%80%E5%8F%A5%E9%A0%82%E4%B8%80%E8%90%AC%E5%8F%A5%E3%80%8B.html) | 讀《一句頂一萬句》 《 一句頂一萬句 》是劉震雲的一部長篇小說。開頭差點沒能看下去，一下子講太多人物了，老楊、老馬、老裴⋯⋯不過耐心看下去，很快主綫就會變得清晰。整本書像是一出群像劇，講了很多人的故事、不同人的家長裡短、人情世故，有種在聴不同人的八卦的感覺，誰不喜歡吃瓜呢，就越看越有意思。 書分成了… |
+| 2026-10-11 | [油管｜社交平台和搜索引擎](https://dsx2016.com/youtube-social-media-platforms-and-search-engines/) | 外部流量 油管的流量大部分来源于平台自己的推荐 如果这部分流量起不来，恰好别的社交平台数据不错，可以考虑从外部... 油管｜社交平台和搜索引擎 最先出现在 大师兄2016 。 |
+| 2026-10-11 | [契入一本书的契机](https://www.hecaitou.com/2026/10/when-a-book-finally-clicks.html) | 我介绍过很多书，有两本书的命运对照起来看非常有趣。一本是《献给阿尔吉侬的花束》，很多人看完介绍立即找来看，才翻开第一页就把书扔开，说「这写的都是什么玩意儿？！」。 另一本是《光明共和国》，跑去看的人要少很多，但是一般都能顺利读完，读完之后大为疑惑：这本书好在哪里？我怎么没觉出什么好来？ 又过几个月，… |
+| 2026-10-11 | [伸手不打笑脸人](https://mobius.blog/25877.html) | 希望对方伸手不打笑脸人的前提是什么？ A、己方笑得足够真诚； B、己方主动示好，以拉近彼此关系； C、己方提前 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
+| 2026-10-11 | [油管｜做系列化和日常化内容](https://dsx2016.com/creating-serialized-and-daily-content-for-youtube/) | 什么是系列化 简单来说就是合集，是简化版书的大纲 有完整的目录和结构，有初始有结束，不是零零散散的知识点 最好... 油管｜做系列化和日常化内容 最先出现在 大师兄2016 。 |
+| 2026-10-11 | [入蜀记 day501 舒兹梦、暴食、百鸟朝凤](https://z.arlmy.me/posts/BBBPandINSW/INSW-deep/INSW_501/) | 「舒兹梦、暴食、百鸟朝凤。」 |
+| 2026-10-11 | [入蜀记 day500 yes、反对暴力、聚会畅聊](https://z.arlmy.me/posts/BBBPandINSW/INSW-deep/INSW_500/) | 「yes、反对暴力、聚会畅聊。」 |
+| 2026-10-11 | [入蜀记 day499 读者、时间戳、我爱成都](https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_499/) | 「读者、时间戳、我爱成都。」 |
+| 2026-10-11 | [入蜀记 day498 爷爷、呼吸法、服务器入侵](https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_498/) | 「爷爷、呼吸法、服务器入侵。」 |
+| 2026-10-11 | [≡ 016｜这两周莫比乌斯环转到了哪里？](https://mobius.blog/25848.html) | —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-10-10 | [可以通过下面的命令关掉ai功能，并删掉相](https://versun.me/blog/tweet-2109069951273439337) | GeekPlux Apple Intelligence 占用 22GB 的空间，但是一点用都没，有点可笑。 可以通过下面的命令关掉ai功能，并删掉相关模型/AI组件，收回这些空间： curl -fsSL https://raw.githubusercontent.com/omlahore/Remov… |
 | 2026-10-10 | [从乙方到甲方，网络安全职业发展需要考虑的方向与能力](https://blog.sakanano.moe/qa/cybersecurity-career) | 技术专家还是安全负责人？长期目标尚不清晰时，该积累哪些知识和技能？ |
 | 2026-10-10 | [Plants vs. Zombies updated](https://macsourceports.com/game/pvz) | The build of PvZ Portable for Plants vs. Zombies has been updated to version 0.2.5 of the project |
-| 2026-10-10 | [AI 早报 2026-10-11：AI 排行榜 Arena 完成 2 亿美元 B 轮融资，估值 31 亿美元](https://www.jtxyh.com/daily/2026-10-11/) | 2026-10-11 AI 早报，共 11 条动态。TechCrunch 10 月 8 日报道，起源于 UC Berkeley 众包模型排行榜的 Arena 完成 2 亿美元 B 轮融资，由 Lightspeed Venture Partners 与 Khosla Ventures 联合领投，投后估… |
+| 2026-10-10 | [AI 早报 2026-10-11：纳德拉呼吁给 AI 装「紧急制动」：默认每个模型都已被攻陷](https://www.jtxyh.com/daily/2026-10-11/) | 2026-10-11 AI 早报，共 22 条动态。微软 CEO 纳德拉 10 月 10 日（周六）在 X 上发帖，要求部署前沿 AI 的公司把大模型当成「潜在的内部威胁」对待。据金融时报报道（Startup Fortune 10 月 11 日整理），半年前还争着承销数据中心贷款的银行，如今开始把… |
 | 2026-10-10 | [Quetoo updated](https://macsourceports.com/game/quetoo) | The build of Quetoo has been updated to version v1.0.124 of the project |
 | 2026-10-10 | [SimCity 2000 updated](https://macsourceports.com/game/simcity2000) | The build of OpenSC2K for SimCity 2000 has been updated to version v0.3.0 of the project |
 | 2026-10-10 | [RollerCoaster Tycoon 2 updated](https://macsourceports.com/game/rct2) | The build of OpenRCT2 for RollerCoaster Tycoon 2 has been updated to version v0.5.6 of the project |
 | 2026-10-10 | [Total Annihilation updated](https://macsourceports.com/game/totalannihilation) | The build of Open Annihilation for Total Annihilation has been updated to version v0.7.4 of the project |
 | 2026-10-10 | [Wolfenstein: Enemy Territory updated](https://macsourceports.com/game/wolfet) | The build of ET: Legacy for Wolfenstein: Enemy Territory has been updated to version 2.86.1 of the project |
+| 2026-10-10 | [初次见面的及格线](https://blog.solazy.me/20261010/) | 我又要开始给别人打标签了 |
 | 2026-10-10 | [哈？推特出了个“呼叫”功能，不是电话，可](https://versun.me/blog/tweet-2108889487921258818) | 哈？推特出了个“呼叫”功能，不是电话，可以在线开会议 |
 | 2026-10-10 | [大陆漢人无需反对台独](https://sinyalee.com/blog/?p=1358) | 中共几十年如一日，利用漢人的朴素的民族主义情绪，把台独渲染成十恶不赦的事。几乎所有人都被中共洗脑了，不经思考就 […] |
 | 2026-10-10 | [培训群里192个人，这题只有2个人做对。](https://versun.me/blog/tweet-2108807251930808813) | 培训群里192个人，这题只有2个人做对。。。 这说明了什么。。。 |
