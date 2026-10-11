@@ -27,6 +27,14 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-10-11 | [人生开始讲性价比：一本开源神书，正在教普通人如何安全地活着](https://blog.mzh.ren/zh/posts/2026/10/thoughts-of-how-to-live-better-live/) | 最近有一本在线电子书非常火爆，叫《高性价比人生指南》。 eternity4719/HowToLiveBetter: 高性价比人生指南: 长寿防病、急救、省钱理财、法律红线、失业与工伤、医保社保、恋爱婚育、怀孕育儿、创业与做平台合规、出国与技能。每条写明成本、收益、证据等级和原始出处，只引期刊论文与官… |
+| 2026-10-11 | [周末流水账 1011](https://blog.solazy.me/20261011/) | 难得的一天，是单休的周末呀 |
+| 2026-10-11 | [和校园网斗智斗勇的日子（第十辑）](https://blog.mfwt.top/index.php/archives/1685/) | 刚来到学校的时候，初步探了探校园网，把网络整通，就写下了这个系列的第九辑。然而在过去一个月里面，校园网反复无常地变化，逐渐积累了一批问题。不得已，只能开个第十辑，继续写下来，作为记录。该说不说，... |
+| 2026-10-11 | [在北京的乡巴佬](https://smallyu.net/2026/10/11/%E5%9C%A8%E5%8C%97%E4%BA%AC%E7%9A%84%E4%B9%A1%E5%B7%B4%E4%BD%AC/) | 我大学刚到北京实习的时候，在一家做话费业务的公司工作。当时所在的组大概有六七个人，每天干的事情无非是改改 |
+| 2026-10-11 | [[转载] AI 原生组织转型：用 AI 对齐事实、对齐打法](http://tubaozi.top/posts/2026/ai-native-org-alignment/) | 学也学了、用也用了，每个人都说自己提效了，组织效率却没动；效率动了，钱也没多赚。这篇聊效率的三层台阶、组织为什么是上一个时代的发明，以及用 AI 对齐事实、对齐打法的具体操作。 |
+| 2026-10-11 | [ENG101 - Writing to locate: rough draft](https://dcb9.github.io/posts/2026-10-11/) | My Submission Title: My grandparents’ house Figure 1. A village similar to my grandparents’ house. Link: https://www.sohu.com/a/680902068_121123737 My… |
+| 2026-10-11 | [有听有记 Voxi：会议音频转译摘要app](http://tubaozi.top/posts/2026/voxi/) | 一次关于「把会议录音这件事收回到本地」的尝试：录制、转写、摘要、脑图、问答、笔记，一个窗口装下。 为什么要自己写一个 开会这件事的痛点很稳定：说了什么记不住，记了笔记又来不及听。 市面上的会议助手不少，但它们大多长一个样——注册、登录、把会议音频传到某个云端、等一个订阅制的转写额度。对于内容敏感的会… |
+| 2026-10-11 | [浏览器点2下就能让小爱音箱播放http音乐！](https://blog.est.im/2026/stdout-39) | 还在被 冈易 QQ 音乐困扰吗，让小爱同学播放NAS上的歌需要几步？ https://est.github.io/play2mi/ 装个书签，点两下就行。不需要下载软件，不需要第三方服务器 期间还是碰壁了不少的。也学到不少东西。小米音箱以前应该是openwrt魔改 ubus 控制，后来都改成 And… |
 | 2026-10-11 | [油管｜无人直播和YPP时长](https://dsx2016.com/youtube-automated-livestreams-and-ypp-watch-time/) | 无人直播 直播要求就是有人不断的回应，如果没有人，流量就大减 另外重点说一下，油管视频和直播，或者其他视频平台... 油管｜无人直播和YPP时长 最先出现在 大师兄2016 。 |
 | 2026-10-11 | [讀《一句頂一萬句》](https://taxodium.ink/%E8%AE%80%E3%80%8A%E4%B8%80%E5%8F%A5%E9%A0%82%E4%B8%80%E8%90%AC%E5%8F%A5%E3%80%8B.html) | 讀《一句頂一萬句》 《 一句頂一萬句 》是劉震雲的一部長篇小說。開頭差點沒能看下去，一下子講太多人物了，老楊、老馬、老裴⋯⋯不過耐心看下去，很快主綫就會變得清晰。整本書像是一出群像劇，講了很多人的故事、不同人的家長裡短、人情世故，有種在聴不同人的八卦的感覺，誰不喜歡吃瓜呢，就越看越有意思。 書分成了… |
 | 2026-10-11 | [油管｜社交平台和搜索引擎](https://dsx2016.com/youtube-social-media-platforms-and-search-engines/) | 外部流量 油管的流量大部分来源于平台自己的推荐 如果这部分流量起不来，恰好别的社交平台数据不错，可以考虑从外部... 油管｜社交平台和搜索引擎 最先出现在 大师兄2016 。 |
@@ -41,12 +49,13 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-10-10 | [可以通过下面的命令关掉ai功能，并删掉相](https://versun.me/blog/tweet-2109069951273439337) | GeekPlux Apple Intelligence 占用 22GB 的空间，但是一点用都没，有点可笑。 可以通过下面的命令关掉ai功能，并删掉相关模型/AI组件，收回这些空间： curl -fsSL https://raw.githubusercontent.com/omlahore/Remov… |
 | 2026-10-10 | [从乙方到甲方，网络安全职业发展需要考虑的方向与能力](https://blog.sakanano.moe/qa/cybersecurity-career) | 技术专家还是安全负责人？长期目标尚不清晰时，该积累哪些知识和技能？ |
 | 2026-10-10 | [Plants vs. Zombies updated](https://macsourceports.com/game/pvz) | The build of PvZ Portable for Plants vs. Zombies has been updated to version 0.2.5 of the project |
-| 2026-10-10 | [AI 早报 2026-10-11：纳德拉呼吁给 AI 装「紧急制动」：默认每个模型都已被攻陷](https://www.jtxyh.com/daily/2026-10-11/) | 2026-10-11 AI 早报，共 22 条动态。微软 CEO 纳德拉 10 月 10 日（周六）在 X 上发帖，要求部署前沿 AI 的公司把大模型当成「潜在的内部威胁」对待。据金融时报报道（Startup Fortune 10 月 11 日整理），半年前还争着承销数据中心贷款的银行，如今开始把… |
+| 2026-10-10 | [AI 早报 2026-10-11：Mistral 发布万亿参数开放权重模型 Large 4「Le Chonk」，10 月底开源权重](https://www.jtxyh.com/daily/2026-10-11/) | 2026-10-11 AI 早报，共 30 条动态。10 月 6 日，法国 Mistral AI 开启旗舰模型 Large 4 公开预览，预览 API 已上线，承诺 10 月 27 日前放出可下载权重。10 月 7 日，湾区创业公司 Atomic Machines 结束 6 年隐身，推出 AI 原生… |
 | 2026-10-10 | [Quetoo updated](https://macsourceports.com/game/quetoo) | The build of Quetoo has been updated to version v1.0.124 of the project |
 | 2026-10-10 | [SimCity 2000 updated](https://macsourceports.com/game/simcity2000) | The build of OpenSC2K for SimCity 2000 has been updated to version v0.3.0 of the project |
 | 2026-10-10 | [RollerCoaster Tycoon 2 updated](https://macsourceports.com/game/rct2) | The build of OpenRCT2 for RollerCoaster Tycoon 2 has been updated to version v0.5.6 of the project |
 | 2026-10-10 | [Total Annihilation updated](https://macsourceports.com/game/totalannihilation) | The build of Open Annihilation for Total Annihilation has been updated to version v0.7.4 of the project |
 | 2026-10-10 | [Wolfenstein: Enemy Territory updated](https://macsourceports.com/game/wolfet) | The build of ET: Legacy for Wolfenstein: Enemy Territory has been updated to version 2.86.1 of the project |
+| 2026-10-10 | [最难的🇯🇵幼儿园儿歌](https://springwood.me/difficult-toddler-songs/) | （摘要）《虫の声》是一首经典的🇯🇵幼儿园儿歌，但里面出现了五种虫的名字，对于不熟悉虫的人来说是重大挑战。 |
 | 2026-10-10 | [初次见面的及格线](https://blog.solazy.me/20261010/) | 我又要开始给别人打标签了 |
 | 2026-10-10 | [哈？推特出了个“呼叫”功能，不是电话，可](https://versun.me/blog/tweet-2108889487921258818) | 哈？推特出了个“呼叫”功能，不是电话，可以在线开会议 |
 | 2026-10-10 | [大陆漢人无需反对台独](https://sinyalee.com/blog/?p=1358) | 中共几十年如一日，利用漢人的朴素的民族主义情绪，把台独渲染成十恶不赦的事。几乎所有人都被中共洗脑了，不经思考就 […] |

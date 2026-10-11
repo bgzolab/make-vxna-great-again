@@ -1,5 +1,61 @@
 [
   {
+    "title": "人生开始讲性价比：一本开源神书，正在教普通人如何安全地活着",
+    "url": "https://blog.mzh.ren/zh/posts/2026/10/thoughts-of-how-to-live-better-live/",
+    "date": "2026-10-11T20:10:18Z",
+    "description": "最近有一本在线电子书非常火爆，叫《高性价比人生指南》。 eternity4719/HowToLiveBetter: 高性价比人生指南: 长寿防病、急救、省钱理财、法律红线、失业与工伤、医保社保、恋爱婚育、怀孕育儿、创业与做平台合规、出国与技能。每条写明成本、收益、证据等级和原始出处，只引期刊论文与官方文件。 https://github.com/eternity4719/HowToLiveBetter 它是一个 GitHub 开源项目，但不讲代码，讲怎么活得久、少花冤枉钱、不踩法律红线、没钱时怎么求助，也讲结婚生子、创业出国等。每条写明成本、收益和证据，不用全做，挑着用。",
+    "source_root_domain": "mzh.ren"
+  },
+  {
+    "title": "周末流水账 1011",
+    "url": "https://blog.solazy.me/20261011/",
+    "date": "2026-10-11T14:00:00Z",
+    "description": "难得的一天，是单休的周末呀",
+    "source_root_domain": "solazy.me"
+  },
+  {
+    "title": "和校园网斗智斗勇的日子（第十辑）",
+    "url": "https://blog.mfwt.top/index.php/archives/1685/",
+    "date": "2026-10-11T13:32:00Z",
+    "description": "刚来到学校的时候，初步探了探校园网，把网络整通，就写下了这个系列的第九辑。然而在过去一个月里面，校园网反复无常地变化，逐渐积累了一批问题。不得已，只能开个第十辑，继续写下来，作为记录。该说不说，...",
+    "source_root_domain": "mfwt.top"
+  },
+  {
+    "title": "在北京的乡巴佬",
+    "url": "https://smallyu.net/2026/10/11/%E5%9C%A8%E5%8C%97%E4%BA%AC%E7%9A%84%E4%B9%A1%E5%B7%B4%E4%BD%AC/",
+    "date": "2026-10-11T12:58:56Z",
+    "description": "我大学刚到北京实习的时候，在一家做话费业务的公司工作。当时所在的组大概有六七个人，每天干的事情无非是改改",
+    "source_root_domain": "smallyu.net"
+  },
+  {
+    "title": "[转载] AI 原生组织转型：用 AI 对齐事实、对齐打法",
+    "url": "http://tubaozi.top/posts/2026/ai-native-org-alignment/",
+    "date": "2026-10-11T10:52:29Z",
+    "description": "学也学了、用也用了，每个人都说自己提效了，组织效率却没动；效率动了，钱也没多赚。这篇聊效率的三层台阶、组织为什么是上一个时代的发明，以及用 AI 对齐事实、对齐打法的具体操作。",
+    "source_root_domain": "tubaozi.top"
+  },
+  {
+    "title": "ENG101 - Writing to locate: rough draft",
+    "url": "https://dcb9.github.io/posts/2026-10-11/",
+    "date": "2026-10-11T10:40:00Z",
+    "description": "My Submission Title: My grandparents’ house Figure 1. A village similar to my grandparents’ house. Link: https://www.sohu.com/a/680902068_121123737 My grandparents’s house is in a small village located in Wushan County, Chongqing City, by the Yangtze River, the longest river in China. The village is quiet, peaceful, and beautiful. Mountains, trees, farmlands and bushes surround it. The population of the village is extremely low; it must have at most 20 houses. The majority of families are scatte",
+    "source_root_domain": "dcb9.github.io"
+  },
+  {
+    "title": "有听有记 Voxi：会议音频转译摘要app",
+    "url": "http://tubaozi.top/posts/2026/voxi/",
+    "date": "2026-10-11T09:02:25Z",
+    "description": "一次关于「把会议录音这件事收回到本地」的尝试：录制、转写、摘要、脑图、问答、笔记，一个窗口装下。 为什么要自己写一个 开会这件事的痛点很稳定：说了什么记不住，记了笔记又来不及听。 市面上的会议助手不少，但它们大多长一个样——注册、登录、把会议音频传到某个云端、等一个订阅制的转写额度。对于内容敏感的会议，「把录音上传到别人服务器」本身就是个需要犹豫三秒的动作；而对于只是想把每周例会的结论留个底的人来说，为这个装一个订阅制 SaaS 也未免太重。 所以我想要的东西很朴素： 录音和资料库在本地。 录下来的东西是我的文件，存在我选的目录里，索引也是本地一个 JSON。 转写和 AI 能力按需接。 用哪家的语音识别、用哪家的大模型，我自己填 Key，不绑定任何平台账号。 不配也能用。 没有 Key 的时候，它至少是个能录音、能播放、能记笔记的录音机，而不是一个打不开的空白页。 于是有了 有听有记 Voxi——一个 macOS 上的会议助手。整个项目 4800 行 Go（含测试），直接依赖只有两个：purego 和 mygo。 它长什么样 一个窗口，左边录音库，右边详情。 页签 做什么 转写 带时",
+    "source_root_domain": "tubaozi.top"
+  },
+  {
+    "title": "浏览器点2下就能让小爱音箱播放http音乐！",
+    "url": "https://blog.est.im/2026/stdout-39",
+    "date": "2026-10-11T08:14:00Z",
+    "description": "还在被 冈易 QQ 音乐困扰吗，让小爱同学播放NAS上的歌需要几步？ https://est.github.io/play2mi/ 装个书签，点两下就行。不需要下载软件，不需要第三方服务器 期间还是碰壁了不少的。也学到不少东西。小米音箱以前应该是openwrt魔改 ubus 控制，后来都改成 Android 了。 这一分裂也导致它内部有两套API接口。一个是 sid=micoapi 一个是 sid=xiaomiio ，前者跑在 小爱云 Mina api2.mina.mi.com ，后者跑在 米家 IoT 云 api.io.mi.com/app 和 api.mijia.tech/app 这次就简单做了 Mina (micoapi) 的支持 能放歌，能 TTS 就行了。要扩展等有缘人吧。 期间搞出来个巨搞笑的插曲，AI 发现浏览器死活登录不上，一度以为是风控了，账号被画像了，IP被标记了，结果是 nonce 计算的时候没用 bigint 精度被截断了。笑死。幸好在去研究 TLS 指纹之前被我拦住了。 这种一般都是低级错误。 然后无聊让AI去扒一下能不能拿到shell，还真有注入漏洞。不过，",
+    "source_root_domain": "feedburner.com"
+  },
+  {
     "title": "油管｜无人直播和YPP时长",
     "url": "https://dsx2016.com/youtube-automated-livestreams-and-ypp-watch-time/",
     "date": "2026-10-11T07:22:03Z",
@@ -98,10 +154,10 @@
     "source_root_domain": "macsourceports.com"
   },
   {
-    "title": "AI 早报 2026-10-11：纳德拉呼吁给 AI 装「紧急制动」：默认每个模型都已被攻陷",
+    "title": "AI 早报 2026-10-11：Mistral 发布万亿参数开放权重模型 Large 4「Le Chonk」，10 月底开源权重",
     "url": "https://www.jtxyh.com/daily/2026-10-11/",
     "date": "2026-10-10T16:00:00Z",
-    "description": "2026-10-11 AI 早报，共 22 条动态。微软 CEO 纳德拉 10 月 10 日（周六）在 X 上发帖，要求部署前沿 AI 的公司把大模型当成「潜在的内部威胁」对待。据金融时报报道（Startup Fortune 10 月 11 日整理），半年前还争着承销数据中心贷款的银行，如今开始把 AI…",
+    "description": "2026-10-11 AI 早报，共 30 条动态。10 月 6 日，法国 Mistral AI 开启旗舰模型 Large 4 公开预览，预览 API 已上线，承诺 10 月 27 日前放出可下载权重。10 月 7 日，湾区创业公司 Atomic Machines 结束 6 年隐身，推出 AI 原生制造系统…",
     "source_root_domain": "jtxyh.com"
   },
   {
@@ -138,6 +194,13 @@
     "date": "2026-10-10T15:47:25Z",
     "description": "The build of ET: Legacy for Wolfenstein: Enemy Territory has been updated to version 2.86.1 of the project",
     "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "最难的🇯🇵幼儿园儿歌",
+    "url": "https://springwood.me/difficult-toddler-songs/",
+    "date": "2026-10-10T15:00:00Z",
+    "description": "（摘要）《虫の声》是一首经典的🇯🇵幼儿园儿歌，但里面出现了五种虫的名字，对于不熟悉虫的人来说是重大挑战。",
+    "source_root_domain": "springwood.me"
   },
   {
     "title": "初次见面的及格线",
