@@ -27,11 +27,14 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-10-12 | [油管｜直播YPP时长和直播场次](https://dsx2016.com/youtube-live-ypp-watch-time-and-livestream-sessions/) | YPP时长 在直播结束后，大概过了几个小时，看到了21k直播的数据 显示累计观看时长39小时，这个我预计的10... 油管｜直播YPP时长和直播场次 最先出现在 大师兄2016 。 |
+| 2026-10-11 | [听说有人的 opus 5.5 灰度路由到](https://versun.me/blog/tweet-2109426478219960746) | 听说有人的 opus 5.5 灰度路由到了 opus 5.6，能力提升很大，真的假的，这也太快了吧，感觉可能是fable 5.5 我还在等谷歌的 argon 模型呢，这是要胎死腹中的节奏吗😂 |
 | 2026-10-11 | [人生开始讲性价比：一本开源神书，正在教普通人如何安全地活着](https://blog.mzh.ren/zh/posts/2026/10/thoughts-of-how-to-live-better-live/) | 最近有一本在线电子书非常火爆，叫《高性价比人生指南》。 eternity4719/HowToLiveBetter: 高性价比人生指南: 长寿防病、急救、省钱理财、法律红线、失业与工伤、医保社保、恋爱婚育、怀孕育儿、创业与做平台合规、出国与技能。每条写明成本、收益、证据等级和原始出处，只引期刊论文与官… |
-| 2026-10-11 | [AI 早报 2026-10-12：白宫要求所有 AI 公司立即上报模型事故：从自愿合规转向强制披露](https://www.jtxyh.com/daily/2026-10-12/) | 2026-10-12 AI 早报，共 4 条动态。10月9日，白宫超级智能力量（Super Intelligence Force）在给 Axios 的声明中要求：所有 AI 公司必须立即上报涉及其模型的事故，并跟进补救，这是“不是可选项”的“关键国家安全义务”。 |
+| 2026-10-11 | [AI 早报 2026-10-12：Nous Research 完成 9000 万美元 B 轮融资，估值 15 亿美元，推企业版智能体](https://www.jtxyh.com/daily/2026-10-12/) | 2026-10-12 AI 早报，共 6 条动态。Nous Research 10 月 7 日确认完成 9000 万美元 B 轮融资，估值 15 亿美元，由 Robot Ventures 领投，英伟达、三星、Union Square Ventures、Menlo Ventures 和 1789 Ca… |
 | 2026-10-11 | [周末流水账 1011](https://blog.solazy.me/20261011/) | 难得的一天，是单休的周末呀 |
 | 2026-10-11 | [和校园网斗智斗勇的日子（第十辑）](https://blog.mfwt.top/index.php/archives/1685/) | 刚来到学校的时候，初步探了探校园网，把网络整通，就写下了这个系列的第九辑。然而在过去一个月里面，校园网反复无常地变化，逐渐积累了一批问题。不得已，只能开个第十辑，继续写下来，作为记录。该说不说，... |
 | 2026-10-11 | [在北京的乡巴佬](https://smallyu.net/2026/10/11/%E5%9C%A8%E5%8C%97%E4%BA%AC%E7%9A%84%E4%B9%A1%E5%B7%B4%E4%BD%AC/) | 我大学刚到北京实习的时候，在一家做话费业务的公司工作。当时所在的组大概有六七个人，每天干的事情无非是改改 |
+| 2026-10-11 | [Opus 5.5 太神了，特别会揣摩真实](https://versun.me/blog/tweet-2109237153440186691) | Opus 5.5 太神了，特别会揣摩真实意图。 我把它接在 Hermes 上用，每次布置任务，一开始都只丢一句话，等我想起还有些细节和限制条件，正准备补发消息，它已经回复了。 而且完全是按我想要的那样做的！ |
 | 2026-10-11 | [[转载] AI 原生组织转型：用 AI 对齐事实、对齐打法](http://tubaozi.top/posts/2026/ai-native-org-alignment/) | 学也学了、用也用了，每个人都说自己提效了，组织效率却没动；效率动了，钱也没多赚。这篇聊效率的三层台阶、组织为什么是上一个时代的发明，以及用 AI 对齐事实、对齐打法的具体操作。 |
 | 2026-10-11 | [ENG101 - Writing to locate: rough draft](https://dcb9.github.io/posts/2026-10-11/) | My Submission Title: My grandparents’ house Figure 1. A village similar to my grandparents’ house. Link: https://www.sohu.com/a/680902068_121123737 My… |
 | 2026-10-11 | [有听有记 Voxi：会议音频转译摘要app](http://tubaozi.top/posts/2026/voxi/) | 一次关于「把会议录音这件事收回到本地」的尝试：录制、转写、摘要、脑图、问答、笔记，一个窗口装下。 为什么要自己写一个 开会这件事的痛点很稳定：说了什么记不住，记了笔记又来不及听。 市面上的会议助手不少，但它们大多长一个样——注册、登录、把会议音频传到某个云端、等一个订阅制的转写额度。对于内容敏感的会… |
@@ -151,18 +154,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-10-05 | [中国为什么没有专业的个人交易员](https://smallyu.net/2026/10/05/%E4%B8%AD%E5%9B%BD%E4%B8%BA%E4%BB%80%E4%B9%88%E6%B2%A1%E6%9C%89%E4%B8%93%E4%B8%9A%E7%9A%84%E4%B8%AA%E4%BA%BA%E4%BA%A4%E6%98%93%E5%91%98/) | 中国不是没有会交易的人。 中国有基金经理，有私募，有期货高手，有游资，有量化团队，也有无数每天盯着 K |
 | 2026-10-05 | [通灵卡片Psychic Paper](https://yuqiqin.me/) | 通灵卡片Psychic Paper 简介 欢迎来到我的 数字花园 ，这里是我分享工作、学习和生活的个人博客。 我给它取名为通灵卡片（ Psychic Paper ），这是来自英国国宝级科幻电视剧《神秘博士》中的一个小道具，它本身是一张空白的卡片，但是看着它的人会在卡片上看到使用者想让他们看到的内容。… |
 | 2026-10-05 | [磨损与魔法](https://mobius.blog/25827.html) | 我正在码字的电脑，电脑键盘磨损得惨不忍睹，在特定的光线角度下，会显得格外的刺眼，甚至显得有些脏兮兮、油乎乎的。 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
-| 2026-10-04 | [AI 狂飙，怎么才能 10 倍 or 100 倍自己的工作效率（2026-09-月度小结）](https://yuanchaofa.com/blog/2026-09-month-summary) | 认真思考如何利用 Agent 把自己的工作效率提升到 10 倍甚至 100 倍，也尝试用 Multica 和 Hermes Agent 建立属于自己的工作流。同时，因为 B 站计税方式变化，我重新思考视频商业化，并决定放下数据焦虑，继续做让自己开心的视频。 |
-| 2026-10-04 | [假期过半了](https://blog.solazy.me/20261004/) | 时间过得很快，今年的最后一个长假已经过半了 |
-| 2026-10-04 | [Near By Guru: 找到你身边的开源上师](https://www.ixiqin.com/2026/10/04/near-by-guru-find-an-open-source-guru-by-your-side/) | 在上一篇《开源，可能是新手软件工程师的唯一的路了，所以我做了 GoodFirstIssue.org》中，我介绍 […] |
-| 2026-10-04 | [开源，可能是新手软件工程师的唯一的路了，所以我做了 GoodFirstIssue.org](https://www.ixiqin.com/2026/10/04/open-source-may-be-the-only-path-for-novice-software/) | TL;DRAI 能写代码之后，企业更想招一个熟手配上 AI，而不是一个新手。新手要被看见，开源是唯一的一条不用 […] |
-| 2026-10-04 | [Vol.120 第115期AI精选：个人智能体产品潮，贴身智能与人的判断位置](https://liduos.com/weekly/the-weekly-gradient-120) | 本期内容聚焦个人智能体的产品发布潮，从贴身处事、模型降价与语音接口，到评审问责与人的判断位置，回答智能体如何进入生活、人退到哪里。 |
-| 2026-10-04 | [罪与罚](https://blog.oospace.com/posts/2026-10-04/) | 社会运行需要规矩，法律就是规矩，然而规矩过于死板和失效，就达不到效果，就会丧失执法根基 |
-| 2026-10-04 | [油管YPP广告分成](https://dsx2016.com/youtube-partner-program-ypp-ad-revenue-sharing/) | YPP回收 不要以为开通了YPP，就一直可以广告分成 它会以各种理由不定期收回，比如使用AI，低质量，其他版权... 油管YPP广告分成 最先出现在 大师兄2016 。 |
-| 2026-10-04 | [捡垃圾之乐](https://www.hecaitou.com/2026/10/The-Joy-of-Junk.html) | 我认为世间没有所谓的「垃圾」，只存在价值错配。 如果你从这个角度去观察，世事就会变得有趣起来，不再局限在高级VS.低级，高档VS.垃圾这样的对立概念里。前几天我看到一条新闻，某位上海老教授去世之后，他的藏书被家人搬到楼下，一人两本大赠送。 老教授在世的时候，这些藏书都是他一本本精挑细选而来，选内容，… |
-| 2026-10-04 | [Oni updated](https://macsourceports.com/game/oni) | The build of OniARM64 for Oni has been updated to version v1.3.1 of the project |
-| 2026-10-04 | [经实测，Gemini Pro 订阅的 o](https://versun.me/blog/tweet-2106567037443256701) | 经实测，Gemini Pro 订阅的 opus 5.5 额度， 5小时只有 4M token，一周最多2个5小时额度，也就是8M token。。。。。 |
-| 2026-10-04 | [自从 hermes 经历了代码大清理以后](https://versun.me/blog/tweet-2106536614839423272) | Nous Research New blog post: We had a million lines of Python to clean up. On September 2nd @Teknium asked Hermes Agent to do it. 1,393 subagents and… |
-| 2026-10-04 | [2026年第40周](https://blog.sakoamc.com/posts/2640/) | 题记：二零二六年第四十周，假期大家都去哪儿玩了呢？先祝大家节日快乐！ |
 
 ## Vibe Coding
 
