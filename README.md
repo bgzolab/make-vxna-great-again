@@ -27,10 +27,25 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-10-12 | [1xbet inscription : ce qu’il faut savoir](https://wujie.me/1xbet-inscription-ce-qu-il-faut-savoir/) | Guide complet pour 1xbet inscription Pourquoi choisir 1 … 继续阅读 1xbet inscription : ce qu’il faut savoir |
+| 2026-10-12 | [كل ما تحتاج معرفته عن 1xbet مصر للمقيمين في الإمارات العربية المتحدة](https://wujie.me/kl-m-thtj-maarfth-aan-1xbet-msr-llmqymyn-fy-lmrt-laarby-lmthd/) | دليل عملي حول 1xbet مصر للمستخدمين في الإمارات العربية … 继续阅读 كل ما تحتاج معرفته عن 1xbet مصر للمقيمين في الإمارات العربية المتحدة |
+| 2026-10-12 | [ما تحتاج معرفته عن 1xbet 12 double chance](https://wujie.me/m-thtj-maarfth-aan-1xbet-12-double-chance/) | دليل عملي للمراهنة على 1xbet 12 double chance ما هي ميز … 继续阅读 ما تحتاج معرفته عن 1xbet 12 double chance |
+| 2026-10-12 | [BestOnlyFans Sites: Features, Pricing, Security, and Setup Guide](https://wujie.me/bestonlyfans-sites-features-pricing-security-and-setup-guide/) | BestOnlyFans Sites: A Practical Guide for Savvy Users U … 继续阅读 BestOnlyFans Sites: Features, Pricing, Security, and Setup Guide |
+| 2026-10-12 | [Top OnlyFans Accounts: Security, Reliability & Safe Access Guide](https://wujie.me/top-onlyfans-accounts-security-reliability-safe-access-guide/) | Top OnlyFans Accounts: Practical Guidance for Finding, … 继续阅读 Top OnlyFans Accounts: Security, Reliability & Safe Access Guide |
+| 2026-10-12 | [中国不是汉人的民族国家](https://sinyalee.com/blog/?p=1366) | 中国政府现在的统治，其实建立在一个非常脆弱的理解之上：中国是汉人的民族国家。 我写《中国必须停止歧视汉人》的时 […] |
+| 2026-10-12 | [Guide complet des bonus de l’app 1xbet pour les joueurs français](https://wujie.me/guide-complet-des-bonus-de-l-app-1xbet-pour-les-joueurs-francais/) | Guide complet de l’app 1xbet – Tout savoir pour jouer e … 继续阅读 Guide complet des bonus de l’app 1xbet pour les joueurs français |
+| 2026-10-12 | [Memos: 周边最后一家能吃的麻辣烫也拉胯了](https://blog.yasking.org/a/1791785685) | 正宗的哈尔滨麻辣烫默认不加麻酱、或至少麻将是可选的，汤是清亮的。 这家是我吃过、少有的 ‘东北老式麻辣烫’，在北京这边 … |
+| 2026-10-12 | [Toots 440 2026 Oct.4 - Oct.10](https://z.arlmy.me/posts/MastodonArchives/2026/MastodonTootsArchives_20261010/) | 「寒露。」 |
+| 2026-10-12 | [冰箱艺术家](https://www.hecaitou.com/2026/10/The-Refrigerator-Artist.html) | 这个周末，我把我的公众号搞得有点像是小红书。先是发了一条贴图：《 老登冰箱贴 》，发现留言区里有很多读者展示了自己家的冰箱贴，于是又专门发了一条征集贴：《 看看大家的冰箱贴 》，这下子看到了琳琅满目的私人收藏。 我个人很喜欢读者朋友分享的这些内容。当我看到各种各样的冰箱门或是磁力面板上贴着冰箱贴，无… |
+| 2026-10-12 | [先回答这四个问题，再谈独立开发](https://www.evan.xin/5124/) | 观点一：身份错位 —— 独立开发被当成了"退路"，但它其实是"高地" 文章的逻辑起点是：现实中大多数人的路径是 […] |
+| 2026-10-12 | [Zine#60 - 追加與回顧笔記法、通風、天國拯救](https://taxodium.ink/60.html) | Zine#60 追加與回顧笔記法、通風、天國拯救 🎵 ふたたび - 久石譲 目錄 News &#124; Article Cool Bit Blog Related Tutorial &#124; Resource Code Related AI Related Tool &#124; Library Emacs 一些话 &#124; 摘… |
+| 2026-10-12 | [又又又决定写周记了](https://zhangke.space/%e5%8f%88%e5%8f%88%e5%8f%88%e5%86%b3%e5%ae%9a%e8%a6%81%e5%86%99%e5%91%a8%e8%ae%b0%e4%ba%86/?utm_source=rss&utm_medium=rss&utm_campaign=%25e5%258f%2588%25e5%258f%2588%25e5%258f%2588%25e5%2586%25b3%25e5%25ae%259a%25e8%25a6%2581%25e5%2586%2599%25e5%2591%25a8%25e8%25ae%25b0%25e4%25ba%2586) | 又想写周记了，生活和工作中有很多值得记录的东西，而且我的记性真的很差，所以这次一定要坚持把周记写下去了。 而且 […] The post 又又又决定写周记了 first appeared on 张可的博客 . |
+| 2026-10-12 | [秀肌肉骂街的泼妇](https://mobius.blog/25882.html) | 前几天，我在网上目睹了一场争吵——虽然说是争吵，但其实非常无聊，甚至两个人从始至终就没有在一个频道上吵架。 吵 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
+| 2026-10-12 | [DOOM II updated](https://macsourceports.com/game/doom2) | The build of DOOM II RT: Metal for DOOM II has been updated to version 1.0 of the project |
 | 2026-10-12 | [油管｜直播YPP时长和直播场次](https://dsx2016.com/youtube-live-ypp-watch-time-and-livestream-sessions/) | YPP时长 在直播结束后，大概过了几个小时，看到了21k直播的数据 显示累计观看时长39小时，这个我预计的10... 油管｜直播YPP时长和直播场次 最先出现在 大师兄2016 。 |
 | 2026-10-11 | [听说有人的 opus 5.5 灰度路由到](https://versun.me/blog/tweet-2109426478219960746) | 听说有人的 opus 5.5 灰度路由到了 opus 5.6，能力提升很大，真的假的，这也太快了吧，感觉可能是fable 5.5 我还在等谷歌的 argon 模型呢，这是要胎死腹中的节奏吗😂 |
 | 2026-10-11 | [人生开始讲性价比：一本开源神书，正在教普通人如何安全地活着](https://blog.mzh.ren/zh/posts/2026/10/thoughts-of-how-to-live-better-live/) | 最近有一本在线电子书非常火爆，叫《高性价比人生指南》。 eternity4719/HowToLiveBetter: 高性价比人生指南: 长寿防病、急救、省钱理财、法律红线、失业与工伤、医保社保、恋爱婚育、怀孕育儿、创业与做平台合规、出国与技能。每条写明成本、收益、证据等级和原始出处，只引期刊论文与官… |
-| 2026-10-11 | [AI 早报 2026-10-12：Nous Research 完成 9000 万美元 B 轮融资，估值 15 亿美元，推企业版智能体](https://www.jtxyh.com/daily/2026-10-12/) | 2026-10-12 AI 早报，共 6 条动态。Nous Research 10 月 7 日确认完成 9000 万美元 B 轮融资，估值 15 亿美元，由 Robot Ventures 领投，英伟达、三星、Union Square Ventures、Menlo Ventures 和 1789 Ca… |
+| 2026-10-11 | [AI 早报 2026-10-12：REA 一周狂揽 10 万星：让 AI 编程智能体「逆向一切」二进制](https://www.jtxyh.com/daily/2026-10-12/) | 2026-10-12 AI 早报，共 17 条动态。开源项目 REA（Reverse Engineer Anything）一周刷屏：GitHub 星数从 10 月 6 日不到 1 万涨到 12 日超 11 万。《韩国经济日报》本周报道，三星电子明年约80%的存储芯片产能（含HBM）已通过长期供应协议… |
 | 2026-10-11 | [周末流水账 1011](https://blog.solazy.me/20261011/) | 难得的一天，是单休的周末呀 |
 | 2026-10-11 | [和校园网斗智斗勇的日子（第十辑）](https://blog.mfwt.top/index.php/archives/1685/) | 刚来到学校的时候，初步探了探校园网，把网络整通，就写下了这个系列的第九辑。然而在过去一个月里面，校园网反复无常地变化，逐渐积累了一批问题。不得已，只能开个第十辑，继续写下来，作为记录。该说不说，... |
 | 2026-10-11 | [在北京的乡巴佬](https://smallyu.net/2026/10/11/%E5%9C%A8%E5%8C%97%E4%BA%AC%E7%9A%84%E4%B9%A1%E5%B7%B4%E4%BD%AC/) | 我大学刚到北京实习的时候，在一家做话费业务的公司工作。当时所在的组大概有六七个人，每天干的事情无非是改改 |
