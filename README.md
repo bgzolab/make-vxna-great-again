@@ -27,6 +27,19 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-10-12 | [Goodman Casino Mobile Experience: Schnelle Spins und Sofortentscheidungen](https://wujie.me/goodman-casino-mobile-experience-schnelle-spins-und-sofortentscheidungen/) | Es gibt einen bestimmten Rhythmus beim Spielen von Slot … 继续阅读 Goodman Casino Mobile Experience: Schnelle Spins und Sofortentscheidungen |
+| 2026-10-12 | [Candy Spinz Casino Review: Süße Boni und schnelle Slot-Sessions](https://wujie.me/candy-spinz-casino-review-suse-boni-und-schnelle-slot-sessions/) | There is something about the name Candy Spinz that sugg … 继续阅读 Candy Spinz Casino Review: Süße Boni und schnelle Slot-Sessions |
+| 2026-10-12 | [AI 早报 2026-10-13：HCLTech第二财季先进AI年化营收升至2.19亿美元](https://www.jtxyh.com/daily/2026-10-13/) | 2026-10-13 AI 早报，共 2 条动态。HCLTech于10月12日公布截至9月季度业绩：营收3,562亿卢比，同比增长11.5%；净利润513.2亿卢比，同比增长21.2%。IonQ于10月12日宣布签署最终协议，以全股票交易收购零信任安全公司Elisity，交易估值最高13亿美元，其中… |
+| 2026-10-12 | [R#123 分界线](https://blog.sakanano.moe/journals/random_123) | 2026.10.6 ~ 2026.10.12 |
+| 2026-10-12 | [Coffee Break Clojure, Async](https://www.geedea.pro/article/clj7/) | 上一篇 我提及了如何用 Ring 开发 HTTP 服务器，也提到 Ring 提供了同步 API 和异步 API。那么，什么是异步编程？为什么需要异步？在什么情况下需要让一个程序同时做很多事情？ 同步、异步、并发和并行 同步（synchronization）的中文名字可能会让人误以为是多个实体同时进行… |
+| 2026-10-12 | [测量标准](https://physnya.top/astro-physics/lesson-2/) | 星等和测光 两种星等系统： Vega 系统：用 Vega 的光谱作为标准谱，标定其他星体的星等. Vega 在各通带处均为 0 等； AB 系统：用 Vega 在 v 波段流量密度 3631 J y 3631\text{ J}_{\text{y}} 3631 J y ​ 作为统一零点定标. 一般 A… |
+| 2026-10-12 | [双星系统](https://physnya.top/compact-object/lesson-4-double-star-system/) | Pre-1：用白矮星来探测系外行星的成分 为什么用白矮星？ 因为白矮星的光谱非常「干净」，它的光谱中并没有太多金属成分对我们的测量造成污染；同时白矮星非常「敏感」，有系外行星的光谱会很容易地被探测出来. 我们所使用的方式就是光谱. 测量得到的结果是，有被污染的白矮星，其被污染的这些谱线和地球、哈雷彗… |
+| 2026-10-12 | [test123123](https://wujie.me/test123123-2/) | test123123 |
+| 2026-10-12 | [HTML里的“宏”](https://blog.est.im/2026/stdout-40) | 摊牌了，分享两个极少有人知道的技巧。 观察下面的网页 https://lab.est.im/xhtml/ 有没有发现神奇之处 '> ]> Entity test hey &my_symbol; visit &wikipedia; for more! 另外就是刚做的 play2mi 有一个特立独行的想… |
+| 2026-10-12 | [Crash Duel Withdrawal Steps & Methods – Fast, Secure Cashout &#124; Bradlands](https://wujie.me/crash-duel-withdrawal-steps-methods-fast-secure-cashout-bradlands/) | What Is Crash Duel and Why It Matters Registration and … 继续阅读 Crash Duel Withdrawal Steps & Methods – Fast, Secure Cashout &#124; Bradlands |
+| 2026-10-12 | [OnlyFans Free Version Guide: Features, Benefits, and How It Works](https://wujie.me/onlyfans-free-version-guide-features-benefits-and-how-it-works/) | Practical Guide to the OnlyFans Free Version What Is th … 继续阅读 OnlyFans Free Version Guide: Features, Benefits, and How It Works |
+| 2026-10-12 | [巴别塔](https://kaix.in/2026/1012/) | Emoji 常被喻为现代的巴别塔或新世界语，但是塔终归还是要建在地上，而各地又有各地的规矩。 fin. 激赏 ！ 来信 。 |
+| 2026-10-12 | [How Do Free OnlyFans Accounts Work? A Complete Practical Guide](https://wujie.me/how-do-free-onlyfans-accounts-work-a-complete-practical-guide/) | How Do Free OnlyFans Accounts Work? The Basics Who Can … 继续阅读 How Do Free OnlyFans Accounts Work? A Complete Practical Guide |
 | 2026-10-12 | [1xbet inscription : ce qu’il faut savoir](https://wujie.me/1xbet-inscription-ce-qu-il-faut-savoir/) | Guide complet pour 1xbet inscription Pourquoi choisir 1 … 继续阅读 1xbet inscription : ce qu’il faut savoir |
 | 2026-10-12 | [كل ما تحتاج معرفته عن 1xbet مصر للمقيمين في الإمارات العربية المتحدة](https://wujie.me/kl-m-thtj-maarfth-aan-1xbet-msr-llmqymyn-fy-lmrt-laarby-lmthd/) | دليل عملي حول 1xbet مصر للمستخدمين في الإمارات العربية … 继续阅读 كل ما تحتاج معرفته عن 1xbet مصر للمقيمين في الإمارات العربية المتحدة |
 | 2026-10-12 | [ما تحتاج معرفته عن 1xbet 12 double chance](https://wujie.me/m-thtj-maarfth-aan-1xbet-12-double-chance/) | دليل عملي للمراهنة على 1xbet 12 double chance ما هي ميز … 继续阅读 ما تحتاج معرفته عن 1xbet 12 double chance |
@@ -45,7 +58,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-10-12 | [油管｜直播YPP时长和直播场次](https://dsx2016.com/youtube-live-ypp-watch-time-and-livestream-sessions/) | YPP时长 在直播结束后，大概过了几个小时，看到了21k直播的数据 显示累计观看时长39小时，这个我预计的10... 油管｜直播YPP时长和直播场次 最先出现在 大师兄2016 。 |
 | 2026-10-11 | [听说有人的 opus 5.5 灰度路由到](https://versun.me/blog/tweet-2109426478219960746) | 听说有人的 opus 5.5 灰度路由到了 opus 5.6，能力提升很大，真的假的，这也太快了吧，感觉可能是fable 5.5 我还在等谷歌的 argon 模型呢，这是要胎死腹中的节奏吗😂 |
 | 2026-10-11 | [人生开始讲性价比：一本开源神书，正在教普通人如何安全地活着](https://blog.mzh.ren/zh/posts/2026/10/thoughts-of-how-to-live-better-live/) | 最近有一本在线电子书非常火爆，叫《高性价比人生指南》。 eternity4719/HowToLiveBetter: 高性价比人生指南: 长寿防病、急救、省钱理财、法律红线、失业与工伤、医保社保、恋爱婚育、怀孕育儿、创业与做平台合规、出国与技能。每条写明成本、收益、证据等级和原始出处，只引期刊论文与官… |
-| 2026-10-11 | [AI 早报 2026-10-12：REA 一周狂揽 10 万星：让 AI 编程智能体「逆向一切」二进制](https://www.jtxyh.com/daily/2026-10-12/) | 2026-10-12 AI 早报，共 17 条动态。开源项目 REA（Reverse Engineer Anything）一周刷屏：GitHub 星数从 10 月 6 日不到 1 万涨到 12 日超 11 万。《韩国经济日报》本周报道，三星电子明年约80%的存储芯片产能（含HBM）已通过长期供应协议… |
+| 2026-10-11 | [AI 早报 2026-10-12：微软发布自研 AI 芯片 Maia 300：台积电 N2P 工艺，288GB HBM4 显存、带宽…](https://www.jtxyh.com/daily/2026-10-12/) | 2026-10-12 AI 早报，共 40 条动态。微软 10 月 12 日发布第三代自研 AI 加速器 Maia 300，主攻推理场景。Salesforce 10 月 12 日宣布签署最终协议，收购 AI 分析平台 Loops。小鹏汽车创始人何小鹏在 10 月 11 日的巴黎之夜活动上公布了人形机… |
 | 2026-10-11 | [周末流水账 1011](https://blog.solazy.me/20261011/) | 难得的一天，是单休的周末呀 |
 | 2026-10-11 | [和校园网斗智斗勇的日子（第十辑）](https://blog.mfwt.top/index.php/archives/1685/) | 刚来到学校的时候，初步探了探校园网，把网络整通，就写下了这个系列的第九辑。然而在过去一个月里面，校园网反复无常地变化，逐渐积累了一批问题。不得已，只能开个第十辑，继续写下来，作为记录。该说不说，... |
 | 2026-10-11 | [在北京的乡巴佬](https://smallyu.net/2026/10/11/%E5%9C%A8%E5%8C%97%E4%BA%AC%E7%9A%84%E4%B9%A1%E5%B7%B4%E4%BD%AC/) | 我大学刚到北京实习的时候，在一家做话费业务的公司工作。当时所在的组大概有六七个人，每天干的事情无非是改改 |
@@ -70,6 +83,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-10-10 | [从乙方到甲方，网络安全职业发展需要考虑的方向与能力](https://blog.sakanano.moe/qa/cybersecurity-career) | 技术专家还是安全负责人？长期目标尚不清晰时，该积累哪些知识和技能？ |
 | 2026-10-10 | [Plants vs. Zombies updated](https://macsourceports.com/game/pvz) | The build of PvZ Portable for Plants vs. Zombies has been updated to version 0.2.5 of the project |
 | 2026-10-10 | [AI 早报 2026-10-11：Mistral 发布万亿参数开放权重模型 Large 4「Le Chonk」，10 月底开源权重](https://www.jtxyh.com/daily/2026-10-11/) | 2026-10-11 AI 早报，共 30 条动态。10 月 6 日，法国 Mistral AI 开启旗舰模型 Large 4 公开预览，预览 API 已上线，承诺 10 月 27 日前放出可下载权重。10 月 7 日，湾区创业公司 Atomic Machines 结束 6 年隐身，推出 AI 原生… |
+| 2026-10-10 | [Google Cloud 免费层 e2-micro 实例配置与 WireGuard 专网搭建](https://programnotes.cn/free-server-gcp-free-tier-wireguard-setup/index.html) | 本文记录在 Google Cloud (GCP) 申请永久免费（Free Tier）e2-micro 实例，并通过配置 SSH 密钥与搭建 WireGuard 专有网络的极简实践流程。 <a href= |
 | 2026-10-10 | [Quetoo updated](https://macsourceports.com/game/quetoo) | The build of Quetoo has been updated to version v1.0.124 of the project |
 | 2026-10-10 | [SimCity 2000 updated](https://macsourceports.com/game/simcity2000) | The build of OpenSC2K for SimCity 2000 has been updated to version v0.3.0 of the project |
 | 2026-10-10 | [RollerCoaster Tycoon 2 updated](https://macsourceports.com/game/rct2) | The build of OpenRCT2 for RollerCoaster Tycoon 2 has been updated to version v0.5.6 of the project |
