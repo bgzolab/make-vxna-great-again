@@ -27,6 +27,14 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-10-13 | [方块](https://mobius.blog/25898.html) | 在《∞》里搜索有关酒精的字眼，里面出现的都是在某一则小说里以道具的形式出现。但按道理来说，2016年期间我去过 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
+| 2026-10-13 | [AI 早报 2026-10-14：Rocket Software 收购以色列 AI 初创 Geniez AI：六人团队，一年卖到约 1…](https://www.jtxyh.com/daily/2026-10-14/) | 2026-10-14 AI 早报，共 4 条动态。美国软件公司 Rocket Software 10 月 13 日宣布收购以色列初创 Geniez AI，后者的技术是让 AI 智能体直接运行在大型机上，监控实时系统、诊断故障、用自然语言执行工作流。据《印度经济时报》10 月 13 日报道，印度 AI… |
+| 2026-10-13 | [PVE9 超融合基础设施 - 4.PVE 虚拟化网络 - VLAN](https://songxwn.com/PVE-HCI-4/) | PVE 单机默认使用Linux Bridge进行网络配置。 PVE 集群的Vnets本质上和VMware的vDS分布式交换机很像，就是为了在集群里面给虚拟机一个统一的网络接入选项。当虚拟机在线迁移、故障切换的时候能够自动化，在任意主机节点都能使用对应网络。 |
+| 2026-10-13 | [油管｜佣金带货products](https://dsx2016.com/products-for-affiliate-marketing-on-youtube/) | products 看到油管消息通知有个小红点 点开大致看了下是佣金带货提示，10个小时前 和我发布手工视频时间... 油管｜佣金带货products 最先出现在 大师兄2016 。 |
+| 2026-10-13 | [油管｜aigc和自动化工作流](https://dsx2016.com/youtube-aigc-and-automated-workflows/) | 工作流 这里指的不是ai短剧或者ai视频 ai自动工作流本文是自动化，ai去除人声，ai生成字幕，ai转英文或... 油管｜aigc和自动化工作流 最先出现在 大师兄2016 。 |
+| 2026-10-13 | [X忍不住了，彻底封死低价订阅](https://gugegt.com/x-subscription-price-revamp.html) | 10 月初，有人在 X 上发了一段录屏：四档订阅，8 到 200 美元，Grok 和 Cursor 的额度共用一个池子。发帖的人自己补了一句，产品还在测试，条款随时会变。 10 月 12 日，这套东西正式上线了。 名字叫 The X Subscription。官方页面的说法是：一份订阅，价格差不多等… |
+| 2026-10-13 | [主动代谢](https://z.arlmy.me/posts/Essays/2026/MaxwellDemon_20261013/) | 「屎里还有多少熵？」 |
+| 2026-10-13 | [正行亡私补](https://z.arlmy.me/posts/Essays/2026/SpringAndAutumnNew_20261013/) | 「新战国。」 |
 | 2026-10-13 | [Proxmox VE LXC - 系统级容器](https://songxwn.com/PVE-LXC-Linux-Containers/) | PVE（Proxmox VE）同时支持两种「虚拟化」：一种是基于 KVM 的虚拟机（QEMU/KVM），另一种就是 LXC（Linux Containers）容器。很多人第一次用 PVE 都会疑惑：既然已经有虚拟机了，为什么还要 LXC？它和 Docker 又是什么关系？本文简单梳理一下 LXC 的… |
 | 2026-10-13 | [也不能贼着我一个人薅吧](https://www.hecaitou.com/2026/10/stop-shearing-the-same-sheep.html) | 如果日更压力太大，我个人建议要么别更，要么写短文写句子。没必要硬写，一定要硬写，也不要整天贼（zēi）着我一个人，我更新什么主题，看完自己也更新什么主题。贼也就贼吧，但其实只是把我的文章拿去，用自己的话重新再写一遍，这就没多大意思了。 倒不是小气，我那么说完全是基于个人经验。以前还流行写时评那会儿，… |
 | 2026-10-13 | [油管｜产品展示和佣金以及手工](https://dsx2016.com/youtube-product-showcases-commissions-and-handmade-items/) | YPP和产品 只靠YPP有时候赚的反而比较少 商单，佣金联盟，卖课，自己的主页可能赚的更多 在完成1000粉丝... 油管｜产品展示和佣金以及手工 最先出现在 大师兄2016 。 |
@@ -37,6 +45,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-10-13 | [doma.in 二级域名注册上线，烧饼也能换域名啦](https://u.sb/doma-in/) | 烧饼旗下的二级域名注册平台 doma.in 已开放 wz.org、wz.io、com.fo 和 co.fo 注册，论坛会员还可以用大米购买域名代金券。 |
 | 2026-10-13 | [烧饼论坛开放注册，邀请朋友一起赚烧饼](https://u.sb/sb-sb-open-registration/) | 烧饼论坛开放注册啦，不再需要邀请码，新会员注册就送 10 个烧饼，通过邀请链接加入并验证邮箱，双方还能各得 10 个烧饼。 |
 | 2026-10-13 | [来澳洲之前，值得提前想清楚的四件事](https://www.ozexplorers.com/%E6%BE%B3%E6%B4%B2%E7%94%9F%E6%B4%BB/2026/10/13/four-things-to-consider-before-moving-to-australia.md.html) | 最近不少人趁着国庆假期来澳洲旅游，发的内容无外乎碧海晴天、袋鼠考拉、自由快乐，再感叹一句： |
+| 2026-10-13 | [AI 时代下的 App 乱象](https://gaoyu.me/blog/35-app-promotion) | 过去是从零到一最难，现在是从一到一百最难。 |
 | 2026-10-12 | [Wolfenstein: Enemy Territory updated](https://macsourceports.com/game/wolfet) | The build of ET: Legacy for Wolfenstein: Enemy Territory has been updated to version 2.86.2 of the project |
 | 2026-10-12 | [Quetoo updated](https://macsourceports.com/game/quetoo) | The build of Quetoo has been updated to version v1.0.127 of the project |
 | 2026-10-12 | [Crispy Doom updated](https://macsourceports.com/sourceport/crispydoom) | The build of Crispy Doom for the DOOM engine series of games has been updated to version crispy-doom-7.2 of the project\n\nhttps://macsourceports.com/… |
@@ -44,9 +53,10 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-10-12 | [Quake updated](https://macsourceports.com/game/quake) | The build of vkQuake for Quake has been updated to version 1.37.0 of the project |
 | 2026-10-12 | [Goodman Casino Mobile Experience: Schnelle Spins und Sofortentscheidungen](https://wujie.me/goodman-casino-mobile-experience-schnelle-spins-und-sofortentscheidungen/) | Es gibt einen bestimmten Rhythmus beim Spielen von Slot … 继续阅读 Goodman Casino Mobile Experience: Schnelle Spins und Sofortentscheidungen |
 | 2026-10-12 | [Candy Spinz Casino Review: Süße Boni und schnelle Slot-Sessions](https://wujie.me/candy-spinz-casino-review-suse-boni-und-schnelle-slot-sessions/) | There is something about the name Candy Spinz that sugg … 继续阅读 Candy Spinz Casino Review: Süße Boni und schnelle Slot-Sessions |
-| 2026-10-12 | [AI 早报 2026-10-13：Publicis 第三季净营收有机增长 5%，称 AI 服务需求上升](https://www.jtxyh.com/daily/2026-10-13/) | 2026-10-13 AI 早报，共 33 条动态。Publicis Groupe 10 月 13 日公布 2026 年第三季业绩：净营收 38.08 亿欧元，按有机口径增长 5.0%，高于上半年 4.8%。10月13日，具身智能公司星尘智能（Astribot）宣布完成10亿元规模新一轮融资，估值达… |
+| 2026-10-12 | [AI 早报 2026-10-13：埃森哲收购英国客户智能公司 Sagacity，新增逾 140 名专业人员](https://www.jtxyh.com/daily/2026-10-13/) | 2026-10-13 AI 早报，共 58 条动态。埃森哲 10 月 13 日宣布收购英国数据与客户智能公司 Sagacity。10月10日，长鑫存储（CXMT）总裁曹堪宇宣布，新一代 4F² DRAM 存储单元架构取得关键进展，目标在 2026 年底前推出结合 4F² 架构与混合键合技术的新一代… |
 | 2026-10-12 | [R#123 分界线](https://blog.sakanano.moe/journals/random_123) | 2026.10.6 ~ 2026.10.12 |
 | 2026-10-12 | [Coffee Break Clojure, Async](https://www.geedea.pro/article/clj7/) | 上一篇 我提及了如何用 Ring 开发 HTTP 服务器，也提到 Ring 提供了同步 API 和异步 API。那么，什么是异步编程？为什么需要异步？在什么情况下需要让一个程序同时做很多事情？ 同步、异步、并发和并行 同步（synchronization）的中文名字可能会让人误以为是多个实体同时进行… |
+| 2026-10-12 | [比闹钟醒得早，是一种勤劳么？](https://blog.solazy.me/20261012/) | 你有比闹钟醒得早吗？ |
 | 2026-10-12 | [测量标准](https://physnya.top/astro-physics/lesson-2/) | 星等和测光 两种星等系统： Vega 系统：用 Vega 的光谱作为标准谱，标定其他星体的星等. Vega 在各通带处均为 0 等； AB 系统：用 Vega 在 v 波段流量密度 3631 J y 3631\text{ J}_{\text{y}} 3631 J y ​ 作为统一零点定标. 一般 A… |
 | 2026-10-12 | [双星系统](https://physnya.top/compact-object/lesson-4-double-star-system/) | Pre-1：用白矮星来探测系外行星的成分 为什么用白矮星？ 因为白矮星的光谱非常「干净」，它的光谱中并没有太多金属成分对我们的测量造成污染；同时白矮星非常「敏感」，有系外行星的光谱会很容易地被探测出来. 我们所使用的方式就是光谱. 测量得到的结果是，有被污染的白矮星，其被污染的这些谱线和地球、哈雷彗… |
 | 2026-10-12 | [test123123](https://wujie.me/test123123-2/) | test123123 |
