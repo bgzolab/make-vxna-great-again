@@ -28,7 +28,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | Date | Title | Summary |
 | --- | --- | --- |
 | 2026-10-13 | [方块](https://mobius.blog/25898.html) | 在《∞》里搜索有关酒精的字眼，里面出现的都是在某一则小说里以道具的形式出现。但按道理来说，2016年期间我去过 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
-| 2026-10-13 | [AI 早报 2026-10-14：Rocket Software 收购以色列 AI 初创 Geniez AI：六人团队，一年卖到约 1…](https://www.jtxyh.com/daily/2026-10-14/) | 2026-10-14 AI 早报，共 4 条动态。美国软件公司 Rocket Software 10 月 13 日宣布收购以色列初创 Geniez AI，后者的技术是让 AI 智能体直接运行在大型机上，监控实时系统、诊断故障、用自然语言执行工作流。据《印度经济时报》10 月 13 日报道，印度 AI… |
+| 2026-10-13 | [AI 早报 2026-10-14：DXC与LangChain合作，将运维智能体接入评估与追踪工具](https://www.jtxyh.com/daily/2026-10-14/) | 2026-10-14 AI 早报，共 13 条动态。DXC于10月13日宣布与LangChain合作。LangChain在10月13日发布langchain-scaledown集成，为LangChain和Deep Agents提供历史摘要、工具结果压缩及结构化信息提取中间件。 |
 | 2026-10-13 | [PVE9 超融合基础设施 - 4.PVE 虚拟化网络 - VLAN](https://songxwn.com/PVE-HCI-4/) | PVE 单机默认使用Linux Bridge进行网络配置。 PVE 集群的Vnets本质上和VMware的vDS分布式交换机很像，就是为了在集群里面给虚拟机一个统一的网络接入选项。当虚拟机在线迁移、故障切换的时候能够自动化，在任意主机节点都能使用对应网络。 |
 | 2026-10-13 | [油管｜佣金带货products](https://dsx2016.com/products-for-affiliate-marketing-on-youtube/) | products 看到油管消息通知有个小红点 点开大致看了下是佣金带货提示，10个小时前 和我发布手工视频时间... 油管｜佣金带货products 最先出现在 大师兄2016 。 |
 | 2026-10-13 | [油管｜aigc和自动化工作流](https://dsx2016.com/youtube-aigc-and-automated-workflows/) | 工作流 这里指的不是ai短剧或者ai视频 ai自动工作流本文是自动化，ai去除人声，ai生成字幕，ai转英文或... 油管｜aigc和自动化工作流 最先出现在 大师兄2016 。 |

@@ -7,10 +7,10 @@
     "source_root_domain": "onojyun.com"
   },
   {
-    "title": "AI 早报 2026-10-14：Rocket Software 收购以色列 AI 初创 Geniez AI：六人团队，一年卖到约 1…",
+    "title": "AI 早报 2026-10-14：DXC与LangChain合作，将运维智能体接入评估与追踪工具",
     "url": "https://www.jtxyh.com/daily/2026-10-14/",
     "date": "2026-10-13T16:00:00Z",
-    "description": "2026-10-14 AI 早报，共 4 条动态。美国软件公司 Rocket Software 10 月 13 日宣布收购以色列初创 Geniez AI，后者的技术是让 AI 智能体直接运行在大型机上，监控实时系统、诊断故障、用自然语言执行工作流。据《印度经济时报》10 月 13 日报道，印度 AI 初创…",
+    "description": "2026-10-14 AI 早报，共 13 条动态。DXC于10月13日宣布与LangChain合作。LangChain在10月13日发布langchain-scaledown集成，为LangChain和Deep Agents提供历史摘要、工具结果压缩及结构化信息提取中间件。",
     "source_root_domain": "jtxyh.com"
   },
   {
