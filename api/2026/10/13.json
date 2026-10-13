@@ -1,0 +1,345 @@
+[
+  {
+    "title": "Commander-Genius updated",
+    "url": "https://macsourceports.com/sourceport/commander-genius",
+    "date": "2026-10-13T01:41:16Z",
+    "description": "The build of Commander-Genius for the Commander Keen series of games has been updated to version v3.6.4 of the project\\n\\nhttps://macsourceports.com/sourceport/commander-genius\\n\\n#macgaming #retrogaming #macOS #commander-genius #gaming #apple #m1 #m2 #m3 #applesilicon\\n\\n",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "陷阱悲剧 I",
+    "url": "https://mobius.blog/25895.html",
+    "date": "2026-10-13T01:30:00Z",
+    "description": "首先需要解释一下，“陷阱悲剧”这个词并不是已经存在的某种具体的艺术形式，而是我个人对于现阶段AI短剧模型的一个 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。",
+    "source_root_domain": "onojyun.com"
+  },
+  {
+    "title": "doma.in 二级域名注册上线，烧饼也能换域名啦",
+    "url": "https://u.sb/doma-in/",
+    "date": "2026-10-13T00:00:00Z",
+    "description": "烧饼旗下的二级域名注册平台 doma.in 已开放 wz.org、wz.io、com.fo 和 co.fo 注册，论坛会员还可以用大米购买域名代金券。",
+    "source_root_domain": "u.sb"
+  },
+  {
+    "title": "烧饼论坛开放注册，邀请朋友一起赚烧饼",
+    "url": "https://u.sb/sb-sb-open-registration/",
+    "date": "2026-10-13T00:00:00Z",
+    "description": "烧饼论坛开放注册啦，不再需要邀请码，新会员注册就送 10 个烧饼，通过邀请链接加入并验证邮箱，双方还能各得 10 个烧饼。",
+    "source_root_domain": "u.sb"
+  },
+  {
+    "title": "Wolfenstein: Enemy Territory updated",
+    "url": "https://macsourceports.com/game/wolfet",
+    "date": "2026-10-12T23:35:53Z",
+    "description": "The build of ET: Legacy for Wolfenstein: Enemy Territory has been updated to version 2.86.2 of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "Quetoo updated",
+    "url": "https://macsourceports.com/game/quetoo",
+    "date": "2026-10-12T23:34:44Z",
+    "description": "The build of Quetoo has been updated to version v1.0.127 of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "Crispy Doom updated",
+    "url": "https://macsourceports.com/sourceport/crispydoom",
+    "date": "2026-10-12T23:29:20Z",
+    "description": "The build of Crispy Doom for the DOOM engine series of games has been updated to version crispy-doom-7.2 of the project\\n\\nhttps://macsourceports.com/sourceport/crispydoom\\n\\n#macgaming #retrogaming #macOS #crispydoom #gaming #apple #m1 #m2 #m3 #applesilicon\\n\\n",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "Insaniquarium updated",
+    "url": "https://macsourceports.com/game/insaniquarium",
+    "date": "2026-10-12T23:03:59Z",
+    "description": "The build of Insaniquarium Portable for Insaniquarium has been updated to version 0.3 of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "Quake updated",
+    "url": "https://macsourceports.com/game/quake",
+    "date": "2026-10-12T22:37:23Z",
+    "description": "The build of vkQuake for Quake has been updated to version 1.37.0 of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "AI 早报 2026-10-13：英伟达、思科联手推 USFP 光模块新规范：单通道 400G，单模块最高 12.8Tb/s",
+    "url": "https://www.jtxyh.com/daily/2026-10-13/",
+    "date": "2026-10-12T16:00:00Z",
+    "description": "2026-10-13 AI 早报，共 9 条动态。英伟达和思科在 OCP 全球峰会（10 月 12 日）公布了高密度可插拔光模块 USFP（Ultra-Dense Small Form Factor Pluggable）的规划，这是首个支持单通道 400Gb/s 的光模块形态。",
+    "source_root_domain": "jtxyh.com"
+  },
+  {
+    "title": "R#123 分界线",
+    "url": "https://blog.sakanano.moe/journals/random_123",
+    "date": "2026-10-12T15:50:00Z",
+    "description": "2026.10.6 ~ 2026.10.12",
+    "source_root_domain": "sakanano.moe"
+  },
+  {
+    "title": "Coffee Break Clojure, Async",
+    "url": "https://www.geedea.pro/article/clj7/",
+    "date": "2026-10-12T15:48:37Z",
+    "description": "上一篇 我提及了如何用 Ring 开发 HTTP 服务器，也提到 Ring 提供了同步 API 和异步 API。那么，什么是异步编程？为什么需要异步？在什么情况下需要让一个程序同时做很多事情？ 同步、异步、并发和并行 同步（synchronization）的中文名字可能会让人误以为是多个实体同时进行操作，实际上同步的意思是指系统中所有事件都依照相同的顺序进行协调。可以用工厂流水线举例，假如流水线中一个工人需要等上一个工人交付一部分工作之后才能干活，整个流水线都要所有人一起干活才能转动起来，这个流水线就是同步的。反之，假如某些工作可以分开做，比如一部分人负责生产 A 零件，另一部分人负责生产 B 零件，两者互不干扰，而最终把 A 和 B 组装在一起的又是另一拨人，这个系统就是异步的（asynchronous）。 异步（asynchrony）和并发（concurrency）很容易搞混，并不是同一个概念。异步是指系统中各个事件的状态不同步，而并发通常是指多个线程（或类似线程的东西）同时做类似的操作。 以下分别是异步和并发的例子： 小明和小华准备去桌游店玩，小明负责去买饮料和零食，而小华先去桌",
+    "source_root_domain": "geedea.pro"
+  },
+  {
+    "title": "测量标准",
+    "url": "https://physnya.top/astro-physics/lesson-2/",
+    "date": "2026-10-12T14:45:17Z",
+    "description": "星等和测光 两种星等系统： Vega 系统：用 Vega 的光谱作为标准谱，标定其他星体的星等. Vega 在各通带处均为 0 等； AB 系统：用 Vega 在 v 波段流量密度 3631 J y 3631\\text{ J}_{\\text{y}} 3631 J y ​ 作为统一零点定标. 一般 AB 系统用于巡天测光.",
+    "source_root_domain": "physnya.top"
+  },
+  {
+    "title": "双星系统",
+    "url": "https://physnya.top/compact-object/lesson-4-double-star-system/",
+    "date": "2026-10-12T14:45:17Z",
+    "description": "Pre-1：用白矮星来探测系外行星的成分 为什么用白矮星？ 因为白矮星的光谱非常「干净」，它的光谱中并没有太多金属成分对我们的测量造成污染；同时白矮星非常「敏感」，有系外行星的光谱会很容易地被探测出来. 我们所使用的方式就是光谱. 测量得到的结果是，有被污染的白矮星，其被污染的这些谱线和地球、哈雷彗星的光谱比较类似 —— 或许可以推测白矮星在演化过程中「吃掉」了系外行星. 提示 程同学利用手上的数据做过对比，证明了恒星光谱的主要成分和系外行星光谱是有区别的. 因此可以建立起白矮星被污染的光谱来自于系外行星的假设. 另一个问题是，多余的 O 元素，一般认为来自于彗星中的水 —— 但是水是怎么 survive 之前的 AGB 或者 RGB 阶段的呢？",
+    "source_root_domain": "physnya.top"
+  },
+  {
+    "title": "HTML里的“宏”",
+    "url": "https://blog.est.im/2026/stdout-40",
+    "date": "2026-10-12T13:29:00Z",
+    "description": "摊牌了，分享两个极少有人知道的技巧。 观察下面的网页 https://lab.est.im/xhtml/ 有没有发现神奇之处 '> ]> Entity test hey &my_symbol; visit &wikipedia; for more! 另外就是刚做的 play2mi 有一个特立独行的想法：不让出现厂牌的关键字，一律用图标 代替。 但是这个 出现得次数太多，就很重复了。有没有 宏/macro 来节约呢？ 浑身不舒服。经过一番激烈拷打AI，最终结果： div.wrap param {display: inline; height: 1em; vertical-align: -.125em;} param[mi] { content: url(\"https://www.mi.com/favicon.ico\"); } param[mijia] { content: url(\"https://cdn.web-global.fds.api.mi-img.com/mijia/prod/home/favicon.ico\") } 是一个自定义属性，写起来比 短，也不需要闭合。 用不存在的自",
+    "source_root_domain": "feedburner.com"
+  },
+  {
+    "title": "巴别塔",
+    "url": "https://kaix.in/2026/1012/",
+    "date": "2026-10-12T09:29:04Z",
+    "description": "Emoji 常被喻为现代的巴别塔或新世界语，但是塔终归还是要建在地上，而各地又有各地的规矩。 fin. 激赏 ！ 来信 。",
+    "source_root_domain": "kaix.in"
+  },
+  {
+    "title": "中国不是汉人的民族国家",
+    "url": "https://sinyalee.com/blog/?p=1366",
+    "date": "2026-10-12T07:39:25Z",
+    "description": "中国政府现在的统治，其实建立在一个非常脆弱的理解之上：中国是汉人的民族国家。 我写《中国必须停止歧视汉人》的时 […]",
+    "source_root_domain": "sinyalee.com"
+  },
+  {
+    "title": "Memos: 周边最后一家能吃的麻辣烫也拉胯了",
+    "url": "https://blog.yasking.org/a/1791785685",
+    "date": "2026-10-12T06:14:45Z",
+    "description": "正宗的哈尔滨麻辣烫默认不加麻酱、或至少麻将是可选的，汤是清亮的。 这家是我吃过、少有的 ‘东北老式麻辣烫’，在北京这边 …",
+    "source_root_domain": "yasking.org"
+  },
+  {
+    "title": "Toots 440 2026 Oct.4 - Oct.10",
+    "url": "https://z.arlmy.me/posts/MastodonArchives/2026/MastodonTootsArchives_20261010/",
+    "date": "2026-10-12T05:27:27Z",
+    "description": "「寒露。」",
+    "source_root_domain": "arlmy.me"
+  },
+  {
+    "title": "冰箱艺术家",
+    "url": "https://www.hecaitou.com/2026/10/The-Refrigerator-Artist.html",
+    "date": "2026-10-12T04:51:07Z",
+    "description": "这个周末，我把我的公众号搞得有点像是小红书。先是发了一条贴图：《 老登冰箱贴 》，发现留言区里有很多读者展示了自己家的冰箱贴，于是又专门发了一条征集贴：《 看看大家的冰箱贴 》，这下子看到了琳琅满目的私人收藏。 我个人很喜欢读者朋友分享的这些内容。当我看到各种各样的冰箱门或是磁力面板上贴着冰箱贴，无论这些冰箱贴是购自博物馆、风景区、网购平台，还是自己手工制作，我都会把这些装点自己冰箱门的读者视为和我一模一样的创作者---我用文字和图片创作，他们用现成品做拼贴，同样也是一种创作。 也有读者不能理解冰箱贴，甚至看轻这种拼贴行为，其实，只要自己真正从事一点什么创作就能理解这背后需要些什么。在一个大平面上，如何安排不同颜色、形状、材质、内容的冰箱贴，怎么处理它们之间的关系，以及最后布置完毕之后呈现出怎样的一种视觉效果，这些事情一点都不简单。 更别说这些年渐渐流行结构更为复杂，甚至是立体造型的冰箱贴，这就让整件事从处理二维平面的图片，变成了处理三维空间里的相对关系。我一张张照片看过，看某一位读者具体的处理方式，说实话，我感觉并不比我设计一篇文章的谋篇布局轻松多少。 一说到创作，很容易想到写文章，",
+    "source_root_domain": "hecaitou.com"
+  },
+  {
+    "title": "先回答这四个问题，再谈独立开发",
+    "url": "https://www.evan.xin/5124/",
+    "date": "2026-10-12T03:19:40Z",
+    "description": "观点一：身份错位 —— 独立开发被当成了\"退路\"，但它其实是\"高地\" 文章的逻辑起点是：现实中大多数人的路径是 […]",
+    "source_root_domain": "evan.xin"
+  },
+  {
+    "title": "Zine#60 - 追加與回顧笔記法、通風、天國拯救",
+    "url": "https://taxodium.ink/60.html",
+    "date": "2026-10-12T02:55:00Z",
+    "description": "Zine#60 追加與回顧笔記法、通風、天國拯救 🎵 ふたたび - 久石譲 目錄 News | Article Cool Bit Blog Related Tutorial | Resource Code Related AI Related Tool | Library Emacs 一些话 | 摘抄 多媒体 News | Article Browser vertical tabs are great (and they’re older than you think!) by Dan Q 無論垂直分頁起源於何處，它們都非常棒，我超級喜歡。以下是垂直分頁之所以厲害的原因： 如果你（像我一樣）傾向於開啟大量分頁，垂直分頁捲動起來會更容易。 同樣地：假設你使用的是橫向閱讀的語言，你可以更輕鬆地閱讀標題。 在寬螢幕（甚至是超寬螢幕！）顯示器上，你很可能會有剩餘的水平空間，因此垂直空間相對珍貴：垂直分頁有助於最大化你的可用螢幕空間。 Source 俺也一樣。 The Midtown Butcher by Andy Weir 有趣的短篇小說，看得還有點紧張。 See also: Antihypo",
+    "source_root_domain": "taxodium.ink"
+  },
+  {
+    "title": "大早上的，看着关注的几位大佬互撕，心里真",
+    "url": "https://versun.me/blog/tweet-2109466842452660559",
+    "date": "2026-10-12T02:11:01Z",
+    "description": "大早上的，看着关注的几位大佬互撕，心里真不是滋味。 我的观点是：Talk is cheap. Show me the app 现在代码不值钱了，值钱的是迭代、交付、运营、维护，单拎一个出来都不简单 至于批评别人用 AI 工具，就像坐高铁的人批评坐飞机的人，没啥意义",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "秀肌肉骂街的泼妇",
+    "url": "https://mobius.blog/25882.html",
+    "date": "2026-10-12T01:30:00Z",
+    "description": "前几天，我在网上目睹了一场争吵——虽然说是争吵，但其实非常无聊，甚至两个人从始至终就没有在一个频道上吵架。 吵 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。",
+    "source_root_domain": "onojyun.com"
+  },
+  {
+    "title": "DOOM II updated",
+    "url": "https://macsourceports.com/game/doom2",
+    "date": "2026-10-12T01:06:30Z",
+    "description": "The build of DOOM II RT: Metal for DOOM II has been updated to version 1.0 of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "油管｜直播YPP时长和直播场次",
+    "url": "https://dsx2016.com/youtube-live-ypp-watch-time-and-livestream-sessions/",
+    "date": "2026-10-12T00:00:48Z",
+    "description": "YPP时长 在直播结束后，大概过了几个小时，看到了21k直播的数据 显示累计观看时长39小时，这个我预计的10... 油管｜直播YPP时长和直播场次 最先出现在 大师兄2016 。",
+    "source_root_domain": "dsx2016.com"
+  },
+  {
+    "title": "听说有人的 opus 5.5 灰度路由到",
+    "url": "https://versun.me/blog/tweet-2109426478219960746",
+    "date": "2026-10-11T23:30:38Z",
+    "description": "听说有人的 opus 5.5 灰度路由到了 opus 5.6，能力提升很大，真的假的，这也太快了吧，感觉可能是fable 5.5 我还在等谷歌的 argon 模型呢，这是要胎死腹中的节奏吗😂",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "人生开始讲性价比：一本开源神书，正在教普通人如何安全地活着",
+    "url": "https://blog.mzh.ren/zh/posts/2026/10/thoughts-of-how-to-live-better-live/",
+    "date": "2026-10-11T20:10:18Z",
+    "description": "最近有一本在线电子书非常火爆，叫《高性价比人生指南》。 eternity4719/HowToLiveBetter: 高性价比人生指南: 长寿防病、急救、省钱理财、法律红线、失业与工伤、医保社保、恋爱婚育、怀孕育儿、创业与做平台合规、出国与技能。每条写明成本、收益、证据等级和原始出处，只引期刊论文与官方文件。 https://github.com/eternity4719/HowToLiveBetter 它是一个 GitHub 开源项目，但不讲代码，讲怎么活得久、少花冤枉钱、不踩法律红线、没钱时怎么求助，也讲结婚生子、创业出国等。每条写明成本、收益和证据，不用全做，挑着用。",
+    "source_root_domain": "mzh.ren"
+  },
+  {
+    "title": "AI 早报 2026-10-12：微软发布自研 AI 芯片 Maia 300：台积电 N2P 工艺，288GB HBM4 显存、带宽…",
+    "url": "https://www.jtxyh.com/daily/2026-10-12/",
+    "date": "2026-10-11T16:00:00Z",
+    "description": "2026-10-12 AI 早报，共 40 条动态。微软 10 月 12 日发布第三代自研 AI 加速器 Maia 300，主攻推理场景。Salesforce 10 月 12 日宣布签署最终协议，收购 AI 分析平台 Loops。小鹏汽车创始人何小鹏在 10 月 11 日的巴黎之夜活动上公布了人形机器人 IRON…",
+    "source_root_domain": "jtxyh.com"
+  },
+  {
+    "title": "周末流水账 1011",
+    "url": "https://blog.solazy.me/20261011/",
+    "date": "2026-10-11T14:00:00Z",
+    "description": "难得的一天，是单休的周末呀",
+    "source_root_domain": "solazy.me"
+  },
+  {
+    "title": "和校园网斗智斗勇的日子（第十辑）",
+    "url": "https://blog.mfwt.top/index.php/archives/1685/",
+    "date": "2026-10-11T13:32:00Z",
+    "description": "刚来到学校的时候，初步探了探校园网，把网络整通，就写下了这个系列的第九辑。然而在过去一个月里面，校园网反复无常地变化，逐渐积累了一批问题。不得已，只能开个第十辑，继续写下来，作为记录。该说不说，...",
+    "source_root_domain": "mfwt.top"
+  },
+  {
+    "title": "在北京的乡巴佬",
+    "url": "https://smallyu.net/2026/10/11/%E5%9C%A8%E5%8C%97%E4%BA%AC%E7%9A%84%E4%B9%A1%E5%B7%B4%E4%BD%AC/",
+    "date": "2026-10-11T12:58:56Z",
+    "description": "我大学刚到北京实习的时候，在一家做话费业务的公司工作。当时所在的组大概有六七个人，每天干的事情无非是改改",
+    "source_root_domain": "smallyu.net"
+  },
+  {
+    "title": "Opus 5.5 太神了，特别会揣摩真实",
+    "url": "https://versun.me/blog/tweet-2109237153440186691",
+    "date": "2026-10-11T10:58:19Z",
+    "description": "Opus 5.5 太神了，特别会揣摩真实意图。 我把它接在 Hermes 上用，每次布置任务，一开始都只丢一句话，等我想起还有些细节和限制条件，正准备补发消息，它已经回复了。 而且完全是按我想要的那样做的！",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "[转载] AI 原生组织转型：用 AI 对齐事实、对齐打法",
+    "url": "http://tubaozi.top/posts/2026/ai-native-org-alignment/",
+    "date": "2026-10-11T10:52:29Z",
+    "description": "学也学了、用也用了，每个人都说自己提效了，组织效率却没动；效率动了，钱也没多赚。这篇聊效率的三层台阶、组织为什么是上一个时代的发明，以及用 AI 对齐事实、对齐打法的具体操作。",
+    "source_root_domain": "tubaozi.top"
+  },
+  {
+    "title": "ENG101 - Writing to locate: rough draft",
+    "url": "https://dcb9.github.io/posts/2026-10-11/",
+    "date": "2026-10-11T10:40:00Z",
+    "description": "My Submission Title: My grandparents’ house Figure 1. A village similar to my grandparents’ house. Link: https://www.sohu.com/a/680902068_121123737 My grandparents’s house is in a small village located in Wushan County, Chongqing City, by the Yangtze River, the longest river in China. The village is quiet, peaceful, and beautiful. Mountains, trees, farmlands and bushes surround it. The population of the village is extremely low; it must have at most 20 houses. The majority of families are scatte",
+    "source_root_domain": "dcb9.github.io"
+  },
+  {
+    "title": "有听有记 Voxi：会议音频转译摘要app",
+    "url": "http://tubaozi.top/posts/2026/voxi/",
+    "date": "2026-10-11T09:02:25Z",
+    "description": "一次关于「把会议录音这件事收回到本地」的尝试：录制、转写、摘要、脑图、问答、笔记，一个窗口装下。 为什么要自己写一个 开会这件事的痛点很稳定：说了什么记不住，记了笔记又来不及听。 市面上的会议助手不少，但它们大多长一个样——注册、登录、把会议音频传到某个云端、等一个订阅制的转写额度。对于内容敏感的会议，「把录音上传到别人服务器」本身就是个需要犹豫三秒的动作；而对于只是想把每周例会的结论留个底的人来说，为这个装一个订阅制 SaaS 也未免太重。 所以我想要的东西很朴素： 录音和资料库在本地。 录下来的东西是我的文件，存在我选的目录里，索引也是本地一个 JSON。 转写和 AI 能力按需接。 用哪家的语音识别、用哪家的大模型，我自己填 Key，不绑定任何平台账号。 不配也能用。 没有 Key 的时候，它至少是个能录音、能播放、能记笔记的录音机，而不是一个打不开的空白页。 于是有了 有听有记 Voxi——一个 macOS 上的会议助手。整个项目 4800 行 Go（含测试），直接依赖只有两个：purego 和 mygo。 它长什么样 一个窗口，左边录音库，右边详情。 页签 做什么 转写 带时",
+    "source_root_domain": "tubaozi.top"
+  },
+  {
+    "title": "浏览器点2下就能让小爱音箱播放http音乐！",
+    "url": "https://blog.est.im/2026/stdout-39",
+    "date": "2026-10-11T08:14:00Z",
+    "description": "还在被 冈易 QQ 音乐困扰吗，让小爱同学播放NAS上的歌需要几步？ https://est.github.io/play2mi/ 装个书签，点两下就行。不需要下载软件，不需要第三方服务器 期间还是碰壁了不少的。也学到不少东西。小米音箱以前应该是openwrt魔改 ubus 控制，后来都改成 Android 了。 这一分裂也导致它内部有两套API接口。一个是 sid=micoapi 一个是 sid=xiaomiio ，前者跑在 小爱云 Mina api2.mina.mi.com ，后者跑在 米家 IoT 云 api.io.mi.com/app 和 api.mijia.tech/app 这次就简单做了 Mina (micoapi) 的支持 能放歌，能 TTS 就行了。要扩展等有缘人吧。 期间搞出来个巨搞笑的插曲，AI 发现浏览器死活登录不上，一度以为是风控了，账号被画像了，IP被标记了，结果是 nonce 计算的时候没用 bigint 精度被截断了。笑死。幸好在去研究 TLS 指纹之前被我拦住了。 这种一般都是低级错误。 然后无聊让AI去扒一下能不能拿到shell，还真有注入漏洞。不过，",
+    "source_root_domain": "feedburner.com"
+  },
+  {
+    "title": "Vol.121 应用、模型与运行系统相互塑造：AI 基础设施、智能体与云服务演进",
+    "url": "https://liduos.com/weekly/the-weekly-gradient-121",
+    "date": "2026-10-11T08:00:00Z",
+    "description": "本期内容围绕应用、模型与运行系统相互塑造，梳理 AI 基础设施、智能体平台、云服务、推理优化、持久执行环境与成本评估等新变化，并关注真实任务中的工程实践。",
+    "source_root_domain": "liduos.com"
+  },
+  {
+    "title": "油管｜无人直播和YPP时长",
+    "url": "https://dsx2016.com/youtube-automated-livestreams-and-ypp-watch-time/",
+    "date": "2026-10-11T07:22:03Z",
+    "description": "无人直播 直播要求就是有人不断的回应，如果没有人，流量就大减 另外重点说一下，油管视频和直播，或者其他视频平台... 油管｜无人直播和YPP时长 最先出现在 大师兄2016 。",
+    "source_root_domain": "dsx2016.com"
+  },
+  {
+    "title": "讀《一句頂一萬句》",
+    "url": "https://taxodium.ink/%E8%AE%80%E3%80%8A%E4%B8%80%E5%8F%A5%E9%A0%82%E4%B8%80%E8%90%AC%E5%8F%A5%E3%80%8B.html",
+    "date": "2026-10-11T06:52:00Z",
+    "description": "讀《一句頂一萬句》 《 一句頂一萬句 》是劉震雲的一部長篇小說。開頭差點沒能看下去，一下子講太多人物了，老楊、老馬、老裴⋯⋯不過耐心看下去，很快主綫就會變得清晰。整本書像是一出群像劇，講了很多人的故事、不同人的家長裡短、人情世故，有種在聴不同人的八卦的感覺，誰不喜歡吃瓜呢，就越看越有意思。 書分成了兩部分，出延津記和回延津記，前者主要講述楊百順的前半生，而後者主要關於牛愛國，他是楊百順的養女的後代。 楊百順的一生并不順，遇過不少人和挫折，最後還把疼愛的養女弄丟了(被拐賣了)，於是他也像傷心的老裴一樣想离開延津這個傷心地，一直走，直到走到一個心裡不再難受的地方。 牛愛國和楊百順都一樣，和妻子沒話可說，妻子和身邊的人出軌，而他們都被妻子瞞在鼓裡。為什麼會出軌？大概是因為兩人沒話可說，聊不起來，覺得孤單寂寞，又正好碰到一個能說上話，還能「再多說几句吧」的人，於是就陷進去了。書裡很多人都是孤單的，都想找人說話，但找到一個能暢快一直聊的人并不容易，有的人之前能聊到一起去，過了一陣子又聊不到一块，關係也就慢慢疏遠了。知己還是難尋，酒逢知己千杯少，話不投機半句多。 書裡的几個人都有想殺人的冲動，或是",
+    "source_root_domain": "taxodium.ink"
+  },
+  {
+    "title": "油管｜社交平台和搜索引擎",
+    "url": "https://dsx2016.com/youtube-social-media-platforms-and-search-engines/",
+    "date": "2026-10-11T06:26:25Z",
+    "description": "外部流量 油管的流量大部分来源于平台自己的推荐 如果这部分流量起不来，恰好别的社交平台数据不错，可以考虑从外部... 油管｜社交平台和搜索引擎 最先出现在 大师兄2016 。",
+    "source_root_domain": "dsx2016.com"
+  },
+  {
+    "title": "契入一本书的契机",
+    "url": "https://www.hecaitou.com/2026/10/when-a-book-finally-clicks.html",
+    "date": "2026-10-11T05:54:30Z",
+    "description": "我介绍过很多书，有两本书的命运对照起来看非常有趣。一本是《献给阿尔吉侬的花束》，很多人看完介绍立即找来看，才翻开第一页就把书扔开，说「这写的都是什么玩意儿？！」。 另一本是《光明共和国》，跑去看的人要少很多，但是一般都能顺利读完，读完之后大为疑惑：这本书好在哪里？我怎么没觉出什么好来？ 又过几个月，甚至是几年，有些人又跑回去看《阿尔吉侬的花束》，没办法，总是反复听人推荐这本书，听多了人的头皮就能硬起来。结果试着读完第一章之后，整个人突然陷入了书里，一口气看到最后，然后眼泪汪汪跑来找我，告诉我说：真是一本好书啊，谢谢你。 类似的事情极少发生在《光明共和国》上。如果不是我凶名昭著，积威犹存，估计很多人会直接说出自己的心里话：你不是在骗我吧？甚至集体振臂高呼：退钱！退钱！退钱！ 我能理解这种差异。《献给阿尔吉侬的花束》其实是一本很好读的小说，作者花了很多功夫在形式上，包括错别字这种文字形式，包括口语体这种文体形式，也包括回环这种结构形式。每一种都造成了一定的阅读门槛，如果读者能够冲过这个门槛，接受作者的这种设定，故事在理解上并没有任何难度，因此也就很容易共情主人公。 至于说深度的部分，作者对",
+    "source_root_domain": "hecaitou.com"
+  },
+  {
+    "title": "伸手不打笑脸人",
+    "url": "https://mobius.blog/25877.html",
+    "date": "2026-10-11T05:45:01Z",
+    "description": "希望对方伸手不打笑脸人的前提是什么？ A、己方笑得足够真诚； B、己方主动示好，以拉近彼此关系； C、己方提前 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。",
+    "source_root_domain": "onojyun.com"
+  },
+  {
+    "title": "油管｜做系列化和日常化内容",
+    "url": "https://dsx2016.com/creating-serialized-and-daily-content-for-youtube/",
+    "date": "2026-10-11T02:44:11Z",
+    "description": "什么是系列化 简单来说就是合集，是简化版书的大纲 有完整的目录和结构，有初始有结束，不是零零散散的知识点 最好... 油管｜做系列化和日常化内容 最先出现在 大师兄2016 。",
+    "source_root_domain": "dsx2016.com"
+  },
+  {
+    "title": "入蜀记 day501 舒兹梦、暴食、百鸟朝凤",
+    "url": "https://z.arlmy.me/posts/BBBPandINSW/INSW-deep/INSW_501/",
+    "date": "2026-10-11T02:28:27Z",
+    "description": "「舒兹梦、暴食、百鸟朝凤。」",
+    "source_root_domain": "arlmy.me"
+  },
+  {
+    "title": "入蜀记 day500 yes、反对暴力、聚会畅聊",
+    "url": "https://z.arlmy.me/posts/BBBPandINSW/INSW-deep/INSW_500/",
+    "date": "2026-10-11T02:26:27Z",
+    "description": "「yes、反对暴力、聚会畅聊。」",
+    "source_root_domain": "arlmy.me"
+  },
+  {
+    "title": "入蜀记 day499 读者、时间戳、我爱成都",
+    "url": "https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_499/",
+    "date": "2026-10-11T02:23:27Z",
+    "description": "「读者、时间戳、我爱成都。」",
+    "source_root_domain": "arlmy.me"
+  },
+  {
+    "title": "入蜀记 day498 爷爷、呼吸法、服务器入侵",
+    "url": "https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_498/",
+    "date": "2026-10-11T02:21:27Z",
+    "description": "「爷爷、呼吸法、服务器入侵。」",
+    "source_root_domain": "arlmy.me"
+  },
+  {
+    "title": "≡ 016｜这两周莫比乌斯环转到了哪里？",
+    "url": "https://mobius.blog/25848.html",
+    "date": "2026-10-11T01:47:50Z",
+    "description": "—— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。",
+    "source_root_domain": "onojyun.com"
+  }
+]

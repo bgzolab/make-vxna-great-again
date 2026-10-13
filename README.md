@@ -27,9 +27,18 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-10-13 | [Commander-Genius updated](https://macsourceports.com/sourceport/commander-genius) | The build of Commander-Genius for the Commander Keen series of games has been updated to version v3.6.4 of the project\n\nhttps://macsourceports.com/s… |
+| 2026-10-13 | [陷阱悲剧 I](https://mobius.blog/25895.html) | 首先需要解释一下，“陷阱悲剧”这个词并不是已经存在的某种具体的艺术形式，而是我个人对于现阶段AI短剧模型的一个 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
+| 2026-10-13 | [doma.in 二级域名注册上线，烧饼也能换域名啦](https://u.sb/doma-in/) | 烧饼旗下的二级域名注册平台 doma.in 已开放 wz.org、wz.io、com.fo 和 co.fo 注册，论坛会员还可以用大米购买域名代金券。 |
+| 2026-10-13 | [烧饼论坛开放注册，邀请朋友一起赚烧饼](https://u.sb/sb-sb-open-registration/) | 烧饼论坛开放注册啦，不再需要邀请码，新会员注册就送 10 个烧饼，通过邀请链接加入并验证邮箱，双方还能各得 10 个烧饼。 |
+| 2026-10-12 | [Wolfenstein: Enemy Territory updated](https://macsourceports.com/game/wolfet) | The build of ET: Legacy for Wolfenstein: Enemy Territory has been updated to version 2.86.2 of the project |
+| 2026-10-12 | [Quetoo updated](https://macsourceports.com/game/quetoo) | The build of Quetoo has been updated to version v1.0.127 of the project |
+| 2026-10-12 | [Crispy Doom updated](https://macsourceports.com/sourceport/crispydoom) | The build of Crispy Doom for the DOOM engine series of games has been updated to version crispy-doom-7.2 of the project\n\nhttps://macsourceports.com/… |
+| 2026-10-12 | [Insaniquarium updated](https://macsourceports.com/game/insaniquarium) | The build of Insaniquarium Portable for Insaniquarium has been updated to version 0.3 of the project |
+| 2026-10-12 | [Quake updated](https://macsourceports.com/game/quake) | The build of vkQuake for Quake has been updated to version 1.37.0 of the project |
 | 2026-10-12 | [Goodman Casino Mobile Experience: Schnelle Spins und Sofortentscheidungen](https://wujie.me/goodman-casino-mobile-experience-schnelle-spins-und-sofortentscheidungen/) | Es gibt einen bestimmten Rhythmus beim Spielen von Slot … 继续阅读 Goodman Casino Mobile Experience: Schnelle Spins und Sofortentscheidungen |
 | 2026-10-12 | [Candy Spinz Casino Review: Süße Boni und schnelle Slot-Sessions](https://wujie.me/candy-spinz-casino-review-suse-boni-und-schnelle-slot-sessions/) | There is something about the name Candy Spinz that sugg … 继续阅读 Candy Spinz Casino Review: Süße Boni und schnelle Slot-Sessions |
-| 2026-10-12 | [AI 早报 2026-10-13：HCLTech第二财季先进AI年化营收升至2.19亿美元](https://www.jtxyh.com/daily/2026-10-13/) | 2026-10-13 AI 早报，共 2 条动态。HCLTech于10月12日公布截至9月季度业绩：营收3,562亿卢比，同比增长11.5%；净利润513.2亿卢比，同比增长21.2%。IonQ于10月12日宣布签署最终协议，以全股票交易收购零信任安全公司Elisity，交易估值最高13亿美元，其中… |
+| 2026-10-12 | [AI 早报 2026-10-13：英伟达、思科联手推 USFP 光模块新规范：单通道 400G，单模块最高 12.8Tb/s](https://www.jtxyh.com/daily/2026-10-13/) | 2026-10-13 AI 早报，共 9 条动态。英伟达和思科在 OCP 全球峰会（10 月 12 日）公布了高密度可插拔光模块 USFP（Ultra-Dense Small Form Factor Pluggable）的规划，这是首个支持单通道 400Gb/s 的光模块形态。 |
 | 2026-10-12 | [R#123 分界线](https://blog.sakanano.moe/journals/random_123) | 2026.10.6 ~ 2026.10.12 |
 | 2026-10-12 | [Coffee Break Clojure, Async](https://www.geedea.pro/article/clj7/) | 上一篇 我提及了如何用 Ring 开发 HTTP 服务器，也提到 Ring 提供了同步 API 和异步 API。那么，什么是异步编程？为什么需要异步？在什么情况下需要让一个程序同时做很多事情？ 同步、异步、并发和并行 同步（synchronization）的中文名字可能会让人误以为是多个实体同时进行… |
 | 2026-10-12 | [测量标准](https://physnya.top/astro-physics/lesson-2/) | 星等和测光 两种星等系统： Vega 系统：用 Vega 的光谱作为标准谱，标定其他星体的星等. Vega 在各通带处均为 0 等； AB 系统：用 Vega 在 v 波段流量密度 3631 J y 3631\text{ J}_{\text{y}} 3631 J y ​ 作为统一零点定标. 一般 A… |
@@ -52,6 +61,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-10-12 | [冰箱艺术家](https://www.hecaitou.com/2026/10/The-Refrigerator-Artist.html) | 这个周末，我把我的公众号搞得有点像是小红书。先是发了一条贴图：《 老登冰箱贴 》，发现留言区里有很多读者展示了自己家的冰箱贴，于是又专门发了一条征集贴：《 看看大家的冰箱贴 》，这下子看到了琳琅满目的私人收藏。 我个人很喜欢读者朋友分享的这些内容。当我看到各种各样的冰箱门或是磁力面板上贴着冰箱贴，无… |
 | 2026-10-12 | [先回答这四个问题，再谈独立开发](https://www.evan.xin/5124/) | 观点一：身份错位 —— 独立开发被当成了"退路"，但它其实是"高地" 文章的逻辑起点是：现实中大多数人的路径是 […] |
 | 2026-10-12 | [Zine#60 - 追加與回顧笔記法、通風、天國拯救](https://taxodium.ink/60.html) | Zine#60 追加與回顧笔記法、通風、天國拯救 🎵 ふたたび - 久石譲 目錄 News &#124; Article Cool Bit Blog Related Tutorial &#124; Resource Code Related AI Related Tool &#124; Library Emacs 一些话 &#124; 摘… |
+| 2026-10-12 | [大早上的，看着关注的几位大佬互撕，心里真](https://versun.me/blog/tweet-2109466842452660559) | 大早上的，看着关注的几位大佬互撕，心里真不是滋味。 我的观点是：Talk is cheap. Show me the app 现在代码不值钱了，值钱的是迭代、交付、运营、维护，单拎一个出来都不简单 至于批评别人用 AI 工具，就像坐高铁的人批评坐飞机的人，没啥意义 |
 | 2026-10-12 | [又又又决定写周记了](https://zhangke.space/%e5%8f%88%e5%8f%88%e5%8f%88%e5%86%b3%e5%ae%9a%e8%a6%81%e5%86%99%e5%91%a8%e8%ae%b0%e4%ba%86/?utm_source=rss&utm_medium=rss&utm_campaign=%25e5%258f%2588%25e5%258f%2588%25e5%258f%2588%25e5%2586%25b3%25e5%25ae%259a%25e8%25a6%2581%25e5%2586%2599%25e5%2591%25a8%25e8%25ae%25b0%25e4%25ba%2586) | 又想写周记了，生活和工作中有很多值得记录的东西，而且我的记性真的很差，所以这次一定要坚持把周记写下去了。 而且 […] The post 又又又决定写周记了 first appeared on 张可的博客 . |
 | 2026-10-12 | [秀肌肉骂街的泼妇](https://mobius.blog/25882.html) | 前几天，我在网上目睹了一场争吵——虽然说是争吵，但其实非常无聊，甚至两个人从始至终就没有在一个频道上吵架。 吵 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-10-12 | [DOOM II updated](https://macsourceports.com/game/doom2) | The build of DOOM II RT: Metal for DOOM II has been updated to version 1.0 of the project |
@@ -84,11 +94,9 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-10-10 | [Plants vs. Zombies updated](https://macsourceports.com/game/pvz) | The build of PvZ Portable for Plants vs. Zombies has been updated to version 0.2.5 of the project |
 | 2026-10-10 | [AI 早报 2026-10-11：Mistral 发布万亿参数开放权重模型 Large 4「Le Chonk」，10 月底开源权重](https://www.jtxyh.com/daily/2026-10-11/) | 2026-10-11 AI 早报，共 30 条动态。10 月 6 日，法国 Mistral AI 开启旗舰模型 Large 4 公开预览，预览 API 已上线，承诺 10 月 27 日前放出可下载权重。10 月 7 日，湾区创业公司 Atomic Machines 结束 6 年隐身，推出 AI 原生… |
 | 2026-10-10 | [Google Cloud 免费层 e2-micro 实例配置与 WireGuard 专网搭建](https://programnotes.cn/free-server-gcp-free-tier-wireguard-setup/index.html) | 本文记录在 Google Cloud (GCP) 申请永久免费（Free Tier）e2-micro 实例，并通过配置 SSH 密钥与搭建 WireGuard 专有网络的极简实践流程。 <a href= |
-| 2026-10-10 | [Quetoo updated](https://macsourceports.com/game/quetoo) | The build of Quetoo has been updated to version v1.0.124 of the project |
 | 2026-10-10 | [SimCity 2000 updated](https://macsourceports.com/game/simcity2000) | The build of OpenSC2K for SimCity 2000 has been updated to version v0.3.0 of the project |
 | 2026-10-10 | [RollerCoaster Tycoon 2 updated](https://macsourceports.com/game/rct2) | The build of OpenRCT2 for RollerCoaster Tycoon 2 has been updated to version v0.5.6 of the project |
 | 2026-10-10 | [Total Annihilation updated](https://macsourceports.com/game/totalannihilation) | The build of Open Annihilation for Total Annihilation has been updated to version v0.7.4 of the project |
-| 2026-10-10 | [Wolfenstein: Enemy Territory updated](https://macsourceports.com/game/wolfet) | The build of ET: Legacy for Wolfenstein: Enemy Territory has been updated to version 2.86.1 of the project |
 | 2026-10-10 | [最难的🇯🇵幼儿园儿歌](https://springwood.me/difficult-toddler-songs/) | （摘要）《虫の声》是一首经典的🇯🇵幼儿园儿歌，但里面出现了五种虫的名字，对于不熟悉虫的人来说是重大挑战。 |
 | 2026-10-10 | [初次见面的及格线](https://blog.solazy.me/20261010/) | 我又要开始给别人打标签了 |
 | 2026-10-10 | [哈？推特出了个“呼叫”功能，不是电话，可](https://versun.me/blog/tweet-2108889487921258818) | 哈？推特出了个“呼叫”功能，不是电话，可以在线开会议 |
@@ -159,30 +167,9 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-10-06 | [康熙微服看短剧](https://www.hecaitou.com/2026/10/The-Emperor-Goes-Slumming.html) | 算起来，我应该是网上写字的人里很早就公开承认自己看网络小说的人，而且一点也不妨碍我在文章里推荐严肃文学。我一点都不觉得分裂，因为文学并不是只有一种用途，也不觉得因为自己读大部头全身就会放光，或者读通俗文学就应该关起门拉上窗帘。 到今天我都还没有看任何短剧，但我对短剧的态度也是一样。最起码，我能做到不… |
 | 2026-10-06 | [为什么 Solana 可以查询代币的 Holder 列表，以太坊不可以？](https://smallyu.net/2026/10/06/%E4%B8%BA%E4%BB%80%E4%B9%88Solana%E5%8F%AF%E4%BB%A5%E6%9F%A5%E8%AF%A2%E4%BB%A3%E5%B8%81%E7%9A%84Holder%E5%88%97%E8%A1%A8%EF%BC%8C%E4%BB%A5%E5%A4%AA%E5%9D%8A%E4%B8%8D%E5%8F%AF%E4%BB%A5%EF%BC%9F/) | 这是一个看起来很简单的问题。 给定一个 Token，例如 USDC，我们想知道： 现在有哪些地址持有它？每个地址分别持有多少？ 在 Solana |
 | 2026-10-06 | [地摊上淘来两个鸡肋对讲机](https://blog.mfwt.top/index.php/archives/1662/) | 国庆小长假临近尾声，之后就没什么假期了，而且这几天有冷空气，气温下降到比较凉快的程度（和去年差不多，十月份的广东就发入冬体验卡了，体验卡过期就热回去了），所以趁着这个机会去了趟岗顶，一来是为了熟... |
-| 2026-10-06 | [Insaniquarium updated](https://macsourceports.com/game/insaniquarium) | The build of Insaniquarium Portable for Insaniquarium has been updated to version 0.2 of the project |
 | 2026-10-06 | [豆腐，与认知边界](https://mobius.blog/25834.html) | 今天这个话题，来自于看完《一饭封神》第二季的总决赛后，突然在脑子里蹦出来的。 总决赛的比赛规则也是需要大家使用 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-10-06 | [古华《芙蓉镇》](https://wujie.me/gu-hua-hibiscus-town/) | 这本书大概从年初就开始看了，断断续续地看了九个月，2026年10月5日的晚上才看完。书本身并不厚，只有207页 … 继续阅读 古华《芙蓉镇》 |
 | 2026-10-06 | [一个抖音遥控器的开发小记](https://www.bmpi.dev/dev/free4chat-task-app-development-notes/) | 一个只有三个按钮的抖音遥控器，让我第一次把 free4chat 的 Room/Task、Agent Runtime、本地能力与实时通信串起来看了一遍。 |
-| 2026-10-05 | [道德经online新增：核心精要与专题书单](https://blog.mzh.ren/zh/posts/2026/10/daodejing-core/) | 老子《道德经》古本对照阅读——在线背诵与学习 我写 daodejing.online 网站的初衷，是想要把整部《道德经》背诵下来。俗话说“柿子要挑软的捏”，我觉得《道德经》只有五千个字，背起来应该比较容易。而且我觉得《道德经》文字很优美，背起来应该也会很通畅。 |
-| 2026-10-05 | [第十一届网络社会年会｜全球青年学者论坛征稿启事](https://caa-ins.org/archives/13434) | 第十一届网络社会年会11th Annual Conference of Network Society 知者之后：当算力作用于知识After the Knower: When Compute Acts upon Knowledge 全球青年学者论坛｜征稿主旨Global Young Scholars… |
-| 2026-10-05 | [Coffee Break Clojure, Vol.6](https://www.geedea.pro/article/clj6/) | 上一篇 讲解了如何用 Leiningen 管理 Clojure 项目的目录结构和依赖项，今天我们来了解 Clojure 生态中最常见的 Web 后端库 Ring 。不对，和那个 IndieWeb Ring 没有关系。 初识 Ring Ring 是对 Web 服务器的 低层 抽象，也就是说没有实现页面… |
-| 2026-10-05 | [深圳-拉萨自驾-游记](https://elmagnifico.tech/2026/10/06/shenzhen-lasa-ontheway/) | Foreword 如上篇所提，今年中秋和国庆中间卡了三天班，直接请假从 9 月 25 号连到 10 月 7 号，一共 13 天。去拉萨，拖车到成都再开 318到拉萨，后续车拖回深圳，我从拉萨直接飞回来。 准备 预算 拖车到成都1700，拉萨拖回来3000，飞成都1600，拉萨飞回3900，这部分固定… |
-| 2026-10-05 | [软件工程师必修课：最小必要计算](https://www.less-bug.com/posts/minimal-necessary-computation/) | 你可能从不接触编译器开发。但只要你开发过稍微复杂的软件系统，你都必然面对过同一个结构性困境： 数据源只发生了一次局部微小的变更，计算系统却被迫把大半个流程、甚至全量流程重新执行一遍。 例如： 前端开发：页面中存在多层嵌套的组件树。用户在筛选栏中勾选了一个标签，朴素的数据流可能会让没有发生任何视觉变化… |
-| 2026-10-05 | [嘿，来看看我的新博客 —— 从 WordPress 到 Astro](https://veryjack.com/technique/wordpress-to-astro/) | 如果你最近打开过我的博客，应该已经发现，这个小破站换了一个新模样。花了几天时间，我将博客从用了四年的 WordPress 迁移到了 Astro，保留了原本的文章、评论和大部分功能及页面，也重新设计了博客的样式。 |
-| 2026-10-05 | [立场的反面](https://blog.solazy.me/20261005/) | 今天讲一个和立场相关，和能力相关的话题 |
-| 2026-10-05 | [久违的更新](https://wujie.me/back-to-blogging/) | 很久没更新博客了，其实这两个月早就想更新了，却迟迟没有写出来。每每打开博客后台，写上几句话，然后就这样在草稿箱 … 继续阅读 久违的更新 |
-| 2026-10-05 | [形式熟悉，内容陌生，味道惊喜](https://anotherdayu.com/9891/) | 在国外住久了，试了许多中餐。炒菜、炖菜，常常总觉得差着一点意思。说不出究竟差在哪里，也许是菜不对，也许是火候不对，也许只是人在异乡，嘴也跟着挑剔起来。 面馆却常有意外之喜。 兰州牛肉面、陕西面、日式拉面、越南 Pho，都挺地道。欧美的朋友也吃得很开心，英国老板说她隔段时间就会带侄子去吃一家兰州拉面（… |
-| 2026-10-05 | [R#122 矛盾的信息](https://blog.sakanano.moe/journals/random_122) | 2026.9.29 ~ 2026.10.5 |
-| 2026-10-05 | [以棋娱乐](https://www.ixiqin.com/2026/10/05/entertainment-through-chess/) | 作为一个工作狂，我的时间大部分被计算机所占据，但难免有休息的时候。近来，我和太太选择了以棋娱乐，消磨时间。 而 […] |
-| 2026-10-05 | [《火焰纹章 烈火之剑》游戏感想：更易上手、更多要素的前传](https://blog.yuanji.dev/posts/fire-emblem-rekka-no-ken-review/) | 上一篇结尾我还在盘算着，接下来换点别的类型的游戏玩玩，结果《火焰纹章 封印之剑》刚通关，转头就把《火焰纹章》在 […] |
-| 2026-10-05 | [创业开公司1年，收入为0](https://yuqiqin.me/first-year-startup-no-revenue/) | [!NOTE] Info 全文共计13238字，预计阅读时长30min，记录的是我2025.07-2026.09的经历 创业开公司1年，收入为0 本博客的回忆板块终于迎来了属于它的第5篇文章。这个板块所记录的事情总是酸涩而又痛苦的，是青春伤痛文学，在写作的过程中往往要把自己最脆弱、最艰难的那部分挖开… |
-| 2026-10-05 | [大脑充血 Vol.101](https://www.geedea.pro/weekly/101/) | 我一直说周刊是每周一发布，每月正刊也是，从没限定具体时间，就是考虑到了发布当天赶死线的情况。这期周刊的一小半内容都是周一写的，但质量确是我认为创刊以来最佳的一期，也是最长的，超过了一万字。祝阅读愉快。 本月的话题是道德与纯粹性，个人知识管理，市场的辨别力，开源软件与 UX 设计，Clojure 与函… |
-| 2026-10-05 | [2026.10.5](https://www.justzht.com/2026-10-5/) | 刚回到家。在外州玩的朋友说家里监控看不到其中一只猫了，怕是从窗户跳了出去，于是拜托我去看看。而我接到 |
-| 2026-10-05 | [OpenAI、Anthropic、Google 的 AI 命名全史：GPT、Claude、Gemini 这些名字都是怎么来的](https://gugegt.com/ai-model-naming-history.html) | 名字起的时候可能只是随手一取，用久了就成了产品气质的一部分。 OpenAI 像理工男，Anthropic 像文科生，Google 像天文爱好者。 把三家从 2018 年到 2026 年发过的模型名字按时间排一遍，三套起名逻辑就浮出来了。 |
-| 2026-10-05 | [干点正事](https://www.hecaitou.com/2026/10/do-some-real-work-for-once.html) | 假期里知道了两条消息，一悲一喜。 悲的是一条事实：自 1997 年非那雄胺获批用于治疗雄秃以后，FDA 针对雄秃就再也没有批准过新药。换句话来说，如果你很关注秃顶或者生发类的内容，这些年来在网上被算法系统推荐过无数篇最新论文，听说过无数次兴高采烈的预告消息，它们全都是扯，一个都没有变成现实。 因此，… |
-| 2026-10-05 | [中国为什么没有专业的个人交易员](https://smallyu.net/2026/10/05/%E4%B8%AD%E5%9B%BD%E4%B8%BA%E4%BB%80%E4%B9%88%E6%B2%A1%E6%9C%89%E4%B8%93%E4%B8%9A%E7%9A%84%E4%B8%AA%E4%BA%BA%E4%BA%A4%E6%98%93%E5%91%98/) | 中国不是没有会交易的人。 中国有基金经理，有私募，有期货高手，有游资，有量化团队，也有无数每天盯着 K |
-| 2026-10-05 | [通灵卡片Psychic Paper](https://yuqiqin.me/) | 通灵卡片Psychic Paper 简介 欢迎来到我的 数字花园 ，这里是我分享工作、学习和生活的个人博客。 我给它取名为通灵卡片（ Psychic Paper ），这是来自英国国宝级科幻电视剧《神秘博士》中的一个小道具，它本身是一张空白的卡片，但是看着它的人会在卡片上看到使用者想让他们看到的内容。… |
-| 2026-10-05 | [磨损与魔法](https://mobius.blog/25827.html) | 我正在码字的电脑，电脑键盘磨损得惨不忍睹，在特定的光线角度下，会显得格外的刺眼，甚至显得有些脏兮兮、油乎乎的。 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 
 ## Vibe Coding
 
