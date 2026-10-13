@@ -1,5 +1,33 @@
 [
   {
+    "title": "Proxmox VE LXC - 系统级容器",
+    "url": "https://songxwn.com/PVE-LXC-Linux-Containers/",
+    "date": "2026-10-13T05:21:29Z",
+    "description": "PVE（Proxmox VE）同时支持两种「虚拟化」：一种是基于 KVM 的虚拟机（QEMU/KVM），另一种就是 LXC（Linux Containers）容器。很多人第一次用 PVE 都会疑惑：既然已经有虚拟机了，为什么还要 LXC？它和 Docker 又是什么关系？本文简单梳理一下 LXC 的定位、与虚拟机和 Docker 的区别，以及它的优缺点。",
+    "source_root_domain": "songxwn.com"
+  },
+  {
+    "title": "也不能贼着我一个人薅吧",
+    "url": "https://www.hecaitou.com/2026/10/stop-shearing-the-same-sheep.html",
+    "date": "2026-10-13T04:40:58Z",
+    "description": "如果日更压力太大，我个人建议要么别更，要么写短文写句子。没必要硬写，一定要硬写，也不要整天贼（zēi）着我一个人，我更新什么主题，看完自己也更新什么主题。贼也就贼吧，但其实只是把我的文章拿去，用自己的话重新再写一遍，这就没多大意思了。 倒不是小气，我那么说完全是基于个人经验。以前还流行写时评那会儿，我在这个领域算得上是国内数得着的好手。有些写手觉得自己找话题，自己做分析太累，看到我勤快量又大，就开始写《驳和菜头XXX之论调》之类的文章。我写一篇，他看一篇，然后转手轻轻松松驳上一篇，这一天的更新就算是交代过去了。 到了今天，虽然我很少写时评，但是偶尔出手点评一下当下热闻，依然可以轻松过十万➕。然而，那些专门写驳论的哥们呢？早就把自己给写没了。 为什么？因为他们想的是如何完成更新任务，如何把一篇文章对付过去，于是要找轻省的办法。而我当初是个敬业爱岗的网络喷子，看到热门新闻我就兴奋，就想开一篇文章喷一下，内心都是激情和冲动。而且，每次开喷之前，我都有一条自我要求：一定要和别人喷得不一样。 这样一年年下来，我硬硬的还在，而那些为了完成任务的人则被媒体和读者所抛弃。读者能不能读懂文章也许存在疑问",
+    "source_root_domain": "hecaitou.com"
+  },
+  {
+    "title": "油管｜产品展示和佣金以及手工",
+    "url": "https://dsx2016.com/youtube-product-showcases-commissions-and-handmade-items/",
+    "date": "2026-10-13T03:08:42Z",
+    "description": "YPP和产品 只靠YPP有时候赚的反而比较少 商单，佣金联盟，卖课，自己的主页可能赚的更多 在完成1000粉丝... 油管｜产品展示和佣金以及手工 最先出现在 大师兄2016 。",
+    "source_root_domain": "dsx2016.com"
+  },
+  {
+    "title": "New Release: Lemmings",
+    "url": "https://macsourceports.com/game/lemmings",
+    "date": "2026-10-13T02:18:49Z",
+    "description": "You know what Lemmings is: that game where you have to get a bunch of cute little creatures from point A to point B and let just enough of them explode to be fun but not lose the level. The…",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
     "title": "Commander-Genius updated",
     "url": "https://macsourceports.com/sourceport/commander-genius",
     "date": "2026-10-13T01:41:16Z",
@@ -14,6 +42,13 @@
     "source_root_domain": "onojyun.com"
   },
   {
+    "title": "浅谈评估AI数据标注的准确率",
+    "url": "https://prologue.dev/blog/evaluating-ai-data-labeling-accuracy",
+    "date": "2026-10-13T00:00:00Z",
+    "description": "自动优化提示词的原理、模型标签A/B测试统计分析、证据驱动的模型打标质量改进。",
+    "source_root_domain": "prologue.dev"
+  },
+  {
     "title": "doma.in 二级域名注册上线，烧饼也能换域名啦",
     "url": "https://u.sb/doma-in/",
     "date": "2026-10-13T00:00:00Z",
@@ -26,6 +61,13 @@
     "date": "2026-10-13T00:00:00Z",
     "description": "烧饼论坛开放注册啦，不再需要邀请码，新会员注册就送 10 个烧饼，通过邀请链接加入并验证邮箱，双方还能各得 10 个烧饼。",
     "source_root_domain": "u.sb"
+  },
+  {
+    "title": "来澳洲之前，值得提前想清楚的四件事",
+    "url": "https://www.ozexplorers.com/%E6%BE%B3%E6%B4%B2%E7%94%9F%E6%B4%BB/2026/10/13/four-things-to-consider-before-moving-to-australia.md.html",
+    "date": "2026-10-13T00:00:00Z",
+    "description": "最近不少人趁着国庆假期来澳洲旅游，发的内容无外乎碧海晴天、袋鼠考拉、自由快乐，再感叹一句：",
+    "source_root_domain": "ozexplorers.com"
   },
   {
     "title": "Wolfenstein: Enemy Territory updated",
@@ -63,10 +105,10 @@
     "source_root_domain": "macsourceports.com"
   },
   {
-    "title": "AI 早报 2026-10-13：英伟达、思科联手推 USFP 光模块新规范：单通道 400G，单模块最高 12.8Tb/s",
+    "title": "AI 早报 2026-10-13：Publicis 第三季净营收有机增长 5%，称 AI 服务需求上升",
     "url": "https://www.jtxyh.com/daily/2026-10-13/",
     "date": "2026-10-12T16:00:00Z",
-    "description": "2026-10-13 AI 早报，共 9 条动态。英伟达和思科在 OCP 全球峰会（10 月 12 日）公布了高密度可插拔光模块 USFP（Ultra-Dense Small Form Factor Pluggable）的规划，这是首个支持单通道 400Gb/s 的光模块形态。",
+    "description": "2026-10-13 AI 早报，共 33 条动态。Publicis Groupe 10 月 13 日公布 2026 年第三季业绩：净营收 38.08 亿欧元，按有机口径增长 5.0%，高于上半年 4.8%。10月13日，具身智能公司星尘智能（Astribot）宣布完成10亿元规模新一轮融资，估值达150亿元。",
     "source_root_domain": "jtxyh.com"
   },
   {
@@ -159,6 +201,13 @@
     "date": "2026-10-12T02:11:01Z",
     "description": "大早上的，看着关注的几位大佬互撕，心里真不是滋味。 我的观点是：Talk is cheap. Show me the app 现在代码不值钱了，值钱的是迭代、交付、运营、维护，单拎一个出来都不简单 至于批评别人用 AI 工具，就像坐高铁的人批评坐飞机的人，没啥意义",
     "source_root_domain": "versun.me"
+  },
+  {
+    "title": "又又又决定写周记了",
+    "url": "https://zhangke.space/%e5%8f%88%e5%8f%88%e5%8f%88%e5%86%b3%e5%ae%9a%e8%a6%81%e5%86%99%e5%91%a8%e8%ae%b0%e4%ba%86/?utm_source=rss&utm_medium=rss&utm_campaign=%25e5%258f%2588%25e5%258f%2588%25e5%258f%2588%25e5%2586%25b3%25e5%25ae%259a%25e8%25a6%2581%25e5%2586%2599%25e5%2591%25a8%25e8%25ae%25b0%25e4%25ba%2586",
+    "date": "2026-10-12T01:58:35Z",
+    "description": "又想写周记了，生活和工作中有很多值得记录的东西，而且我的记性真的很差，所以这次一定要坚持把周记写下去了。 而且 […] The post 又又又决定写周记了 first appeared on 张可的博客 .",
+    "source_root_domain": "zhangke.space"
   },
   {
     "title": "秀肌肉骂街的泼妇",
