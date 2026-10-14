@@ -27,6 +27,10 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-10-14 | [陷阱悲剧 II](https://mobius.blog/25910.html) | 继续昨天的话题，既然“陷阱喜剧”的乐趣在于： 那用这个逻辑也可以制作悲剧吗？悲剧并不一定是让人难过，也可以是完 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
+| 2026-10-14 | [为什么做加密货币的钱包产品很难赚钱](https://smallyu.net/2026/10/14/%E4%B8%BA%E4%BB%80%E4%B9%88%E5%81%9A%E5%8A%A0%E5%AF%86%E8%B4%A7%E5%B8%81%E7%9A%84%E9%92%B1%E5%8C%85%E4%BA%A7%E5%93%81%E5%BE%88%E9%9A%BE%E8%B5%9A%E9%92%B1/) | 我有过几段加密货币钱包开发的经历。后来回过头看，我越来越确信一件事： 做加密货币钱包，是整个 Web3 |
+| 2026-10-14 | [低成本自建阿里云函数计算FC+OSS图床](https://krya.com/post/oss/) | 源码： https://github.com/ezzty/oss-upload 先说三件事： 本文所有 AccessKey 、密码、域名、Bucket 名 都是占位符 ，照抄前请替换成你自己的。 代码是单文件 Node.js（约 380 行），依赖通过 FC 层（Layer） 注入，业务代码零硬编码… |
+| 2026-10-14 | [近两年我使用过的相机](https://bluepika.life/blog/cameras-i-used-in-the-past-two-years) | 回顾近两年用过的数码与胶片相机，以及最终选择尼康 Zf 的理由。 |
 | 2026-10-13 | [方块](https://mobius.blog/25898.html) | 在《∞》里搜索有关酒精的字眼，里面出现的都是在某一则小说里以道具的形式出现。但按道理来说，2016年期间我去过 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-10-13 | [AI 早报 2026-10-14：DXC与LangChain合作，将运维智能体接入评估与追踪工具](https://www.jtxyh.com/daily/2026-10-14/) | 2026-10-14 AI 早报，共 13 条动态。DXC于10月13日宣布与LangChain合作。LangChain在10月13日发布langchain-scaledown集成，为LangChain和Deep Agents提供历史摘要、工具结果压缩及结构化信息提取中间件。 |
 | 2026-10-13 | [PVE9 超融合基础设施 - 4.PVE 虚拟化网络 - VLAN](https://songxwn.com/PVE-HCI-4/) | PVE 单机默认使用Linux Bridge进行网络配置。 PVE 集群的Vnets本质上和VMware的vDS分布式交换机很像，就是为了在集群里面给虚拟机一个统一的网络接入选项。当虚拟机在线迁移、故障切换的时候能够自动化，在任意主机节点都能使用对应网络。 |
@@ -37,10 +41,13 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-10-13 | [正行亡私补](https://z.arlmy.me/posts/Essays/2026/SpringAndAutumnNew_20261013/) | 「新战国。」 |
 | 2026-10-13 | [Proxmox VE LXC - 系统级容器](https://songxwn.com/PVE-LXC-Linux-Containers/) | PVE（Proxmox VE）同时支持两种「虚拟化」：一种是基于 KVM 的虚拟机（QEMU/KVM），另一种就是 LXC（Linux Containers）容器。很多人第一次用 PVE 都会疑惑：既然已经有虚拟机了，为什么还要 LXC？它和 Docker 又是什么关系？本文简单梳理一下 LXC 的… |
 | 2026-10-13 | [也不能贼着我一个人薅吧](https://www.hecaitou.com/2026/10/stop-shearing-the-same-sheep.html) | 如果日更压力太大，我个人建议要么别更，要么写短文写句子。没必要硬写，一定要硬写，也不要整天贼（zēi）着我一个人，我更新什么主题，看完自己也更新什么主题。贼也就贼吧，但其实只是把我的文章拿去，用自己的话重新再写一遍，这就没多大意思了。 倒不是小气，我那么说完全是基于个人经验。以前还流行写时评那会儿，… |
+| 2026-10-13 | [高级的食材往往只需要最朴素的烹饪方式](https://versun.me/blog/tweet-2109862937808777252) | yetone 很多人想让我分享一下工作流，我一直没想好怎么分享，因为其实我没有任何的魔法，甚至还特别简陋，总觉得分享出来毫无意义。其实我就是用 Claude Code，然后用官方的 Opus 5.5 模型执行 loop 就可以了。 我会并行执行图里的 3 个 loop，然后每晚抽一点时间铲铲屎（主要… |
 | 2026-10-13 | [油管｜产品展示和佣金以及手工](https://dsx2016.com/youtube-product-showcases-commissions-and-handmade-items/) | YPP和产品 只靠YPP有时候赚的反而比较少 商单，佣金联盟，卖课，自己的主页可能赚的更多 在完成1000粉丝... 油管｜产品展示和佣金以及手工 最先出现在 大师兄2016 。 |
+| 2026-10-13 | [最近在给 magpie 设置“意图分流”](https://versun.me/blog/tweet-2109836116467802426) | 最近在给 magpie 设置“意图分流”功能， 让 hermes 简单对比了 cloudflare 的 clef flash 和本地部署 clef flash 4bit的差异，供大家参考 TLDR：准确度没差，相应慢 0.8s，更稳定，可本地部署使用 |
 | 2026-10-13 | [New Release: Lemmings](https://macsourceports.com/game/lemmings) | You know what Lemmings is: that game where you have to get a bunch of cute little creatures from point A to point B and let just enough of them explod… |
 | 2026-10-13 | [Commander-Genius updated](https://macsourceports.com/sourceport/commander-genius) | The build of Commander-Genius for the Commander Keen series of games has been updated to version v3.6.4 of the project\n\nhttps://macsourceports.com/s… |
 | 2026-10-13 | [陷阱悲剧 I](https://mobius.blog/25895.html) | 首先需要解释一下，“陷阱悲剧”这个词并不是已经存在的某种具体的艺术形式，而是我个人对于现阶段AI短剧模型的一个 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
+| 2026-10-13 | [X Pass 新订阅出来了，把所有都整合](https://versun.me/blog/tweet-2109817318364889337) | X Pass 新订阅出来了，把所有都整合在一起了 日元区有6个月的优惠(7刀每月) 建议转 |
 | 2026-10-13 | [浅谈评估AI数据标注的准确率](https://prologue.dev/blog/evaluating-ai-data-labeling-accuracy) | 自动优化提示词的原理、模型标签A/B测试统计分析、证据驱动的模型打标质量改进。 |
 | 2026-10-13 | [doma.in 二级域名注册上线，烧饼也能换域名啦](https://u.sb/doma-in/) | 烧饼旗下的二级域名注册平台 doma.in 已开放 wz.org、wz.io、com.fo 和 co.fo 注册，论坛会员还可以用大米购买域名代金券。 |
 | 2026-10-13 | [烧饼论坛开放注册，邀请朋友一起赚烧饼](https://u.sb/sb-sb-open-registration/) | 烧饼论坛开放注册啦，不再需要邀请码，新会员注册就送 10 个烧饼，通过邀请链接加入并验证邮箱，双方还能各得 10 个烧饼。 |
@@ -53,7 +60,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-10-12 | [Quake updated](https://macsourceports.com/game/quake) | The build of vkQuake for Quake has been updated to version 1.37.0 of the project |
 | 2026-10-12 | [Goodman Casino Mobile Experience: Schnelle Spins und Sofortentscheidungen](https://wujie.me/goodman-casino-mobile-experience-schnelle-spins-und-sofortentscheidungen/) | Es gibt einen bestimmten Rhythmus beim Spielen von Slot … 继续阅读 Goodman Casino Mobile Experience: Schnelle Spins und Sofortentscheidungen |
 | 2026-10-12 | [Candy Spinz Casino Review: Süße Boni und schnelle Slot-Sessions](https://wujie.me/candy-spinz-casino-review-suse-boni-und-schnelle-slot-sessions/) | There is something about the name Candy Spinz that sugg … 继续阅读 Candy Spinz Casino Review: Süße Boni und schnelle Slot-Sessions |
-| 2026-10-12 | [AI 早报 2026-10-13：埃森哲收购英国客户智能公司 Sagacity，新增逾 140 名专业人员](https://www.jtxyh.com/daily/2026-10-13/) | 2026-10-13 AI 早报，共 58 条动态。埃森哲 10 月 13 日宣布收购英国数据与客户智能公司 Sagacity。10月10日，长鑫存储（CXMT）总裁曹堪宇宣布，新一代 4F² DRAM 存储单元架构取得关键进展，目标在 2026 年底前推出结合 4F² 架构与混合键合技术的新一代… |
+| 2026-10-12 | [AI 早报 2026-10-13：长鑫存储 4F² DRAM 突破：年底推新一代服务器内存，美光、闪迪股价重挫](https://www.jtxyh.com/daily/2026-10-13/) | 2026-10-13 AI 早报，共 55 条动态。10月10日，长鑫存储（CXMT）总裁曹堪宇宣布，新一代 4F² DRAM 存储单元架构取得关键进展，目标在 2026 年底前推出结合 4F² 架构与混合键合技术的新一代 DDR5 RDIMM 服务器内存。 |
 | 2026-10-12 | [R#123 分界线](https://blog.sakanano.moe/journals/random_123) | 2026.10.6 ~ 2026.10.12 |
 | 2026-10-12 | [Coffee Break Clojure, Async](https://www.geedea.pro/article/clj7/) | 上一篇 我提及了如何用 Ring 开发 HTTP 服务器，也提到 Ring 提供了同步 API 和异步 API。那么，什么是异步编程？为什么需要异步？在什么情况下需要让一个程序同时做很多事情？ 同步、异步、并发和并行 同步（synchronization）的中文名字可能会让人误以为是多个实体同时进行… |
 | 2026-10-12 | [比闹钟醒得早，是一种勤劳么？](https://blog.solazy.me/20261012/) | 你有比闹钟醒得早吗？ |
@@ -173,19 +180,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-10-07 | [Quake II updated](https://macsourceports.com/game/quake2) | The build of Quake II RTX: Metal for Quake II has been updated to version 1.0 of the project |
 | 2026-10-07 | [Star Wars: TIE Fighter updated](https://macsourceports.com/game/swtiefighter) | The build of OpenTIE for Star Wars: TIE Fighter has been updated to version v0.0.7 of the project |
 | 2026-10-07 | [那就活着](https://mobius.blog/25838.html) | 1652 &#124; 自杀后的同情标准与理解原则 这两天某公司正值人生发展上升趋于平稳时期（如果直接说“40岁”感觉又 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
-| 2026-10-06 | [放弃了，评测集是真的不好做，特别是涉及众](https://versun.me/blog/tweet-2107611356501582200) | Versun 正在做一份本地模型的实用能力排行榜，测试集是从各种公开 benchmark中挑选微调，覆盖任务拆解、代码开发、长链路执行、上下文、指令遵循、记忆抽取、逻辑与常识 7 个维度 目前针对本地模型的评测很少，不知道有人感兴趣不，关注人多的话，我尽快测完放出来 放弃了，评测集是真的不好做，特别… |
-| 2026-10-06 | [2026 年 8 月 读女性研究，小说，随笔 6 本](https://conge.livingwithfcs.org/2026/10/06/reading-summary/) | 引子 引子 本月读娼妓问题，随时对 7 月份读基层生计的延续。很快我就了解到，娼妓在个人财务上，并非社会底层。 |
-| 2026-10-06 | [我的不想要](https://blog.solazy.me/20261006/) | 比起知道自己想要什么，我觉得知道自己不想要什么更重要 |
-| 2026-10-06 | [Holon：可部署在个人电脑或团队服务器上的 Agent 工作台](https://luweiqing.com/resources/Holon-Agent.html) | Holon 是一套可部署在个人电脑或团队服务器上的 Agent 工作台。它要解决的不是“怎么跟模型聊天”，而是：一件需要跨时间、跨事件、跨人跟进的工作，怎样在你关掉终端之后仍然接着做，并且随时能... |
-| 2026-10-06 | [乌苏啤酒 1986 & 经典 Wusu Beer Co. 1986 & Classic](https://7gugu.com/index.php/2026/10/06/%e4%b9%8c%e8%8b%8f%e5%95%a4%e9%85%92-1986-%e7%bb%8f%e5%85%b8-wusu-beer-co-1986-classic/) | 国庆期间，去北疆赏秋，恰好路过乌苏市，来都来了，必须买两瓶本地产的乌苏尝一下。 外观：淡黄色 清澈 气泡消散快 … 继续阅读 “乌苏啤酒 1986 & 经典 Wusu Beer Co. 1986 & Classic” |
-| 2026-10-06 | [为什么 Polymarket 比交易所邪恶很多倍](https://smallyu.net/2026/10/06/%E4%B8%BA%E4%BB%80%E4%B9%88Polymarket%E6%AF%94%E4%BA%A4%E6%98%93%E6%89%80%E9%82%AA%E6%81%B6%E5%BE%88%E5%A4%9A%E5%80%8D/) | 交易所已经足够邪恶了。 它把杠杆、期货、永续合约、期权这些原本属于专业金融领域的东西，包装成一个任何人拿起手机就可以参与的消费级 App。 一个没有任何金融训练的人，可以在注册账户几分钟后，直接开 20 倍、50 |
-| 2026-10-06 | [谷歌的 gemini 3.8 flash](https://versun.me/blog/tweet-2107354159343362250) | 谷歌的 gemini 3.8 flash 最近肯定降智了，做的东西还不如swe-2 |
-| 2026-10-06 | [康熙微服看短剧](https://www.hecaitou.com/2026/10/The-Emperor-Goes-Slumming.html) | 算起来，我应该是网上写字的人里很早就公开承认自己看网络小说的人，而且一点也不妨碍我在文章里推荐严肃文学。我一点都不觉得分裂，因为文学并不是只有一种用途，也不觉得因为自己读大部头全身就会放光，或者读通俗文学就应该关起门拉上窗帘。 到今天我都还没有看任何短剧，但我对短剧的态度也是一样。最起码，我能做到不… |
-| 2026-10-06 | [为什么 Solana 可以查询代币的 Holder 列表，以太坊不可以？](https://smallyu.net/2026/10/06/%E4%B8%BA%E4%BB%80%E4%B9%88Solana%E5%8F%AF%E4%BB%A5%E6%9F%A5%E8%AF%A2%E4%BB%A3%E5%B8%81%E7%9A%84Holder%E5%88%97%E8%A1%A8%EF%BC%8C%E4%BB%A5%E5%A4%AA%E5%9D%8A%E4%B8%8D%E5%8F%AF%E4%BB%A5%EF%BC%9F/) | 这是一个看起来很简单的问题。 给定一个 Token，例如 USDC，我们想知道： 现在有哪些地址持有它？每个地址分别持有多少？ 在 Solana |
-| 2026-10-06 | [地摊上淘来两个鸡肋对讲机](https://blog.mfwt.top/index.php/archives/1662/) | 国庆小长假临近尾声，之后就没什么假期了，而且这几天有冷空气，气温下降到比较凉快的程度（和去年差不多，十月份的广东就发入冬体验卡了，体验卡过期就热回去了），所以趁着这个机会去了趟岗顶，一来是为了熟... |
-| 2026-10-06 | [豆腐，与认知边界](https://mobius.blog/25834.html) | 今天这个话题，来自于看完《一饭封神》第二季的总决赛后，突然在脑子里蹦出来的。 总决赛的比赛规则也是需要大家使用 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
-| 2026-10-06 | [古华《芙蓉镇》](https://wujie.me/gu-hua-hibiscus-town/) | 这本书大概从年初就开始看了，断断续续地看了九个月，2026年10月5日的晚上才看完。书本身并不厚，只有207页 … 继续阅读 古华《芙蓉镇》 |
-| 2026-10-06 | [一个抖音遥控器的开发小记](https://www.bmpi.dev/dev/free4chat-task-app-development-notes/) | 一个只有三个按钮的抖音遥控器，让我第一次把 free4chat 的 Room/Task、Agent Runtime、本地能力与实时通信串起来看了一遍。 |
 
 ## Vibe Coding
 
