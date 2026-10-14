@@ -27,6 +27,9 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-10-14 | [Insaniquarium updated](https://macsourceports.com/game/insaniquarium) | The build of Insaniquarium Portable for Insaniquarium has been updated to version 0.4 of the project |
+| 2026-10-14 | [2006，带着手册去装服务器](https://www.tortorse.com/archives/installing-servers-with-a-manual-2006/) | 带着安装手册在机房安装服务器 |
+| 2026-10-14 | [出站口外趴活的司机](https://blog.solazy.me/20261014/) | 最近在外面出差，遇到一个现象…… |
 | 2026-10-14 | [曹丰泽是野狗](https://sinyalee.com/blog/?p=1371) | 言论自由几乎等同于政治权利。一个人如果连表达自己的利益诉求的权利都没有，那么可以说这个人根本没有政治权利，更不 […] |
 | 2026-10-14 | [油管｜AI声音克隆和油管vlog](https://dsx2016.com/youtube-ai-sound-cloning-and-youtube-vlogs/) | AI声音克隆 用商业软件ai配音不是很满意，多数是适配中文，偶有英文，要么vip，要么音色太少没得选 用开源t... 油管｜AI声音克隆和油管vlog 最先出现在 大师兄2016 。 |
 | 2026-10-14 | [伤害豁免](https://www.hecaitou.com/2026/10/damage-immunity.html) | 我又发现了一个年龄增长带来的好处：对网上的伤害豁免。 新世纪初，我才上网写字不久，自然很在乎这件事。我上网经验也少，不知道匿名制会放大人性中的恶，不理解为什么人会如此刻薄恶毒。因此，看到有人贬低我的文笔，把我的文章说得一无是处时，我心里还是会觉得难过，偶尔甚至会自我怀疑。不过，也正因为这样，我暗自发… |
@@ -38,7 +41,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-10-13 | [五行的核心](https://blog.zzbd.org/miao20261014-3/) | 一是“五行”的基本思想与运用，二是“周易”的核心观念与结构。二者在中国哲学里是互通的：都在回答“世界是什么样”“变化有什么规律”“人应当怎样处世”这三大问题。 |
 | 2026-10-13 | [定而后能静：一念之慢，万物之宁](https://blog.zzbd.org/miao20261014-2/) | 《周易・系辞》说：”易，无思也，无为也，寂然不动，感而遂通天下之故。” 你听这句话 —— 寂然不动，感而遂通。天地之间最难的事情，不是动，而是不动时的感应。真正的力量，从来不在急促里，而在那一份 “寂然” 里。你越是急着要抓住什么，什么就越从指缝里流走；你越是安静地站在那里，万物反而向你走来。 |
 | 2026-10-13 | [方块](https://mobius.blog/25898.html) | 在《∞》里搜索有关酒精的字眼，里面出现的都是在某一则小说里以道具的形式出现。但按道理来说，2016年期间我去过 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
-| 2026-10-13 | [AI 早报 2026-10-14：DXC与LangChain合作，将运维智能体接入评估与追踪工具](https://www.jtxyh.com/daily/2026-10-14/) | 2026-10-14 AI 早报，共 13 条动态。DXC于10月13日宣布与LangChain合作。LangChain在10月13日发布langchain-scaledown集成，为LangChain和Deep Agents提供历史摘要、工具结果压缩及结构化信息提取中间件。 |
+| 2026-10-13 | [AI 早报 2026-10-14：日本拟投至多210亿美元在美建两座晶圆厂：格芯运营，苹果、瑞萨是首批客户](https://www.jtxyh.com/daily/2026-10-14/) | 2026-10-14 AI 早报，共 79 条动态。10月14日，GlobalFoundries宣布日本将投资至多210亿美元，在纽约州建两座由格芯运营的新晶圆厂。双方10月13日宣布合作，通过MCP在Sana与Claude之间交换任务和上下文。路透社 10 月 13 日援引知情人士报道，OpenA… |
 | 2026-10-13 | [PVE9 超融合基础设施 - 4.PVE 虚拟化网络 - VLAN](https://songxwn.com/PVE-HCI-4/) | PVE 单机默认使用Linux Bridge进行网络配置。 PVE 集群的Vnets本质上和VMware的vDS分布式交换机很像，就是为了在集群里面给虚拟机一个统一的网络接入选项。当虚拟机在线迁移、故障切换的时候能够自动化，在任意主机节点都能使用对应网络。 |
 | 2026-10-13 | [油管｜佣金带货products](https://dsx2016.com/products-for-affiliate-marketing-on-youtube/) | products 看到油管消息通知有个小红点 点开大致看了下是佣金带货提示，10个小时前 和我发布手工视频时间... 油管｜佣金带货products 最先出现在 大师兄2016 。 |
 | 2026-10-13 | [油管｜aigc和自动化工作流](https://dsx2016.com/youtube-aigc-and-automated-workflows/) | 工作流 这里指的不是ai短剧或者ai视频 ai自动工作流本文是自动化，ai去除人声，ai生成字幕，ai转英文或... 油管｜aigc和自动化工作流 最先出现在 大师兄2016 。 |
@@ -63,7 +66,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-10-12 | [Wolfenstein: Enemy Territory updated](https://macsourceports.com/game/wolfet) | The build of ET: Legacy for Wolfenstein: Enemy Territory has been updated to version 2.86.2 of the project |
 | 2026-10-12 | [Quetoo updated](https://macsourceports.com/game/quetoo) | The build of Quetoo has been updated to version v1.0.127 of the project |
 | 2026-10-12 | [Crispy Doom updated](https://macsourceports.com/sourceport/crispydoom) | The build of Crispy Doom for the DOOM engine series of games has been updated to version crispy-doom-7.2 of the project\n\nhttps://macsourceports.com/… |
-| 2026-10-12 | [Insaniquarium updated](https://macsourceports.com/game/insaniquarium) | The build of Insaniquarium Portable for Insaniquarium has been updated to version 0.3 of the project |
 | 2026-10-12 | [Quake updated](https://macsourceports.com/game/quake) | The build of vkQuake for Quake has been updated to version 1.37.0 of the project |
 | 2026-10-12 | [Goodman Casino Mobile Experience: Schnelle Spins und Sofortentscheidungen](https://wujie.me/goodman-casino-mobile-experience-schnelle-spins-und-sofortentscheidungen/) | Es gibt einen bestimmten Rhythmus beim Spielen von Slot … 继续阅读 Goodman Casino Mobile Experience: Schnelle Spins und Sofortentscheidungen |
 | 2026-10-12 | [Candy Spinz Casino Review: Süße Boni und schnelle Slot-Sessions](https://wujie.me/candy-spinz-casino-review-suse-boni-und-schnelle-slot-sessions/) | There is something about the name Candy Spinz that sugg … 继续阅读 Candy Spinz Casino Review: Süße Boni und schnelle Slot-Sessions |

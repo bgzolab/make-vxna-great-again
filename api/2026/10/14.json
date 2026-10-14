@@ -1,5 +1,26 @@
 [
   {
+    "title": "Insaniquarium updated",
+    "url": "https://macsourceports.com/game/insaniquarium",
+    "date": "2026-10-14T17:19:59Z",
+    "description": "The build of Insaniquarium Portable for Insaniquarium has been updated to version 0.4 of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "2006，带着手册去装服务器",
+    "url": "https://www.tortorse.com/archives/installing-servers-with-a-manual-2006/",
+    "date": "2026-10-14T15:59:28Z",
+    "description": "带着安装手册在机房安装服务器",
+    "source_root_domain": "tortorse.com"
+  },
+  {
+    "title": "出站口外趴活的司机",
+    "url": "https://blog.solazy.me/20261014/",
+    "date": "2026-10-14T15:00:00Z",
+    "description": "最近在外面出差，遇到一个现象……",
+    "source_root_domain": "solazy.me"
+  },
+  {
     "title": "曹丰泽是野狗",
     "url": "https://sinyalee.com/blog/?p=1371",
     "date": "2026-10-14T14:32:13Z",
@@ -75,6 +96,13 @@
     "date": "2026-10-13T16:01:53Z",
     "description": "在《∞》里搜索有关酒精的字眼，里面出现的都是在某一则小说里以道具的形式出现。但按道理来说，2016年期间我去过 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。",
     "source_root_domain": "onojyun.com"
+  },
+  {
+    "title": "AI 早报 2026-10-14：日本拟投至多210亿美元在美建两座晶圆厂：格芯运营，苹果、瑞萨是首批客户",
+    "url": "https://www.jtxyh.com/daily/2026-10-14/",
+    "date": "2026-10-13T16:00:00Z",
+    "description": "2026-10-14 AI 早报，共 79 条动态。10月14日，GlobalFoundries宣布日本将投资至多210亿美元，在纽约州建两座由格芯运营的新晶圆厂。双方10月13日宣布合作，通过MCP在Sana与Claude之间交换任务和上下文。路透社 10 月 13 日援引知情人士报道，OpenAI 和…",
+    "source_root_domain": "jtxyh.com"
   },
   {
     "title": "PVE9 超融合基础设施 - 4.PVE 虚拟化网络 - VLAN",
@@ -242,13 +270,6 @@
     "url": "https://macsourceports.com/sourceport/crispydoom",
     "date": "2026-10-12T23:29:20Z",
     "description": "The build of Crispy Doom for the DOOM engine series of games has been updated to version crispy-doom-7.2 of the project\\n\\nhttps://macsourceports.com/sourceport/crispydoom\\n\\n#macgaming #retrogaming #macOS #crispydoom #gaming #apple #m1 #m2 #m3 #applesilicon\\n\\n",
-    "source_root_domain": "macsourceports.com"
-  },
-  {
-    "title": "Insaniquarium updated",
-    "url": "https://macsourceports.com/game/insaniquarium",
-    "date": "2026-10-12T23:03:59Z",
-    "description": "The build of Insaniquarium Portable for Insaniquarium has been updated to version 0.3 of the project",
     "source_root_domain": "macsourceports.com"
   },
   {
