@@ -27,10 +27,14 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-10-14 | [伤害豁免](https://www.hecaitou.com/2026/10/damage-immunity.html) | 我又发现了一个年龄增长带来的好处：对网上的伤害豁免。 新世纪初，我才上网写字不久，自然很在乎这件事。我上网经验也少，不知道匿名制会放大人性中的恶，不理解为什么人会如此刻薄恶毒。因此，看到有人贬低我的文笔，把我的文章说得一无是处时，我心里还是会觉得难过，偶尔甚至会自我怀疑。不过，也正因为这样，我暗自发… |
 | 2026-10-14 | [陷阱悲剧 II](https://mobius.blog/25910.html) | 继续昨天的话题，既然“陷阱喜剧”的乐趣在于： 那用这个逻辑也可以制作悲剧吗？悲剧并不一定是让人难过，也可以是完 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-10-14 | [为什么做加密货币的钱包产品很难赚钱](https://smallyu.net/2026/10/14/%E4%B8%BA%E4%BB%80%E4%B9%88%E5%81%9A%E5%8A%A0%E5%AF%86%E8%B4%A7%E5%B8%81%E7%9A%84%E9%92%B1%E5%8C%85%E4%BA%A7%E5%93%81%E5%BE%88%E9%9A%BE%E8%B5%9A%E9%92%B1/) | 我有过几段加密货币钱包开发的经历。后来回过头看，我越来越确信一件事： 做加密货币钱包，是整个 Web3 |
 | 2026-10-14 | [低成本自建阿里云函数计算FC+OSS图床](https://krya.com/post/oss/) | 源码： https://github.com/ezzty/oss-upload 先说三件事： 本文所有 AccessKey 、密码、域名、Bucket 名 都是占位符 ，照抄前请替换成你自己的。 代码是单文件 Node.js（约 380 行），依赖通过 FC 层（Layer） 注入，业务代码零硬编码… |
 | 2026-10-14 | [近两年我使用过的相机](https://bluepika.life/blog/cameras-i-used-in-the-past-two-years) | 回顾近两年用过的数码与胶片相机，以及最终选择尼康 Zf 的理由。 |
+| 2026-10-13 | [拆解四柱五行--自测篇](https://blog.zzbd.org/miao20261014/) | 公历： 1986 年 12 月 29 日 01:00 ，丑时（1:00–3:00） 四柱： 丙寅 庚子 丁未 辛丑 日主： 丁火（你本人，丁灯之火，烛火、星光，不是烈火） |
+| 2026-10-13 | [五行的核心](https://blog.zzbd.org/miao20261014-3/) | 一是“五行”的基本思想与运用，二是“周易”的核心观念与结构。二者在中国哲学里是互通的：都在回答“世界是什么样”“变化有什么规律”“人应当怎样处世”这三大问题。 |
+| 2026-10-13 | [定而后能静：一念之慢，万物之宁](https://blog.zzbd.org/miao20261014-2/) | 《周易・系辞》说：”易，无思也，无为也，寂然不动，感而遂通天下之故。” 你听这句话 —— 寂然不动，感而遂通。天地之间最难的事情，不是动，而是不动时的感应。真正的力量，从来不在急促里，而在那一份 “寂然” 里。你越是急着要抓住什么，什么就越从指缝里流走；你越是安静地站在那里，万物反而向你走来。 |
 | 2026-10-13 | [方块](https://mobius.blog/25898.html) | 在《∞》里搜索有关酒精的字眼，里面出现的都是在某一则小说里以道具的形式出现。但按道理来说，2016年期间我去过 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-10-13 | [AI 早报 2026-10-14：DXC与LangChain合作，将运维智能体接入评估与追踪工具](https://www.jtxyh.com/daily/2026-10-14/) | 2026-10-14 AI 早报，共 13 条动态。DXC于10月13日宣布与LangChain合作。LangChain在10月13日发布langchain-scaledown集成，为LangChain和Deep Agents提供历史摘要、工具结果压缩及结构化信息提取中间件。 |
 | 2026-10-13 | [PVE9 超融合基础设施 - 4.PVE 虚拟化网络 - VLAN](https://songxwn.com/PVE-HCI-4/) | PVE 单机默认使用Linux Bridge进行网络配置。 PVE 集群的Vnets本质上和VMware的vDS分布式交换机很像，就是为了在集群里面给虚拟机一个统一的网络接入选项。当虚拟机在线迁移、故障切换的时候能够自动化，在任意主机节点都能使用对应网络。 |
@@ -48,6 +52,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-10-13 | [Commander-Genius updated](https://macsourceports.com/sourceport/commander-genius) | The build of Commander-Genius for the Commander Keen series of games has been updated to version v3.6.4 of the project\n\nhttps://macsourceports.com/s… |
 | 2026-10-13 | [陷阱悲剧 I](https://mobius.blog/25895.html) | 首先需要解释一下，“陷阱悲剧”这个词并不是已经存在的某种具体的艺术形式，而是我个人对于现阶段AI短剧模型的一个 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-10-13 | [X Pass 新订阅出来了，把所有都整合](https://versun.me/blog/tweet-2109817318364889337) | X Pass 新订阅出来了，把所有都整合在一起了 日元区有6个月的优惠(7刀每月) 建议转 |
+| 2026-10-13 | [几幅常见的中药配伍-补气养血](https://blog.zzbd.org/miao20261013-2/) | 一定要注意：下面所有剂量仅为中医经典和教科书常见 “ 成人日剂量参考 ”，不适合作为你自己照方抓药服用的依据。 体质、病情、年龄、怀孕与否，都必须由中医师面诊后调整，用错方可能越吃越糟。 |
 | 2026-10-13 | [浅谈评估AI数据标注的准确率](https://prologue.dev/blog/evaluating-ai-data-labeling-accuracy) | 自动优化提示词的原理、模型标签A/B测试统计分析、证据驱动的模型打标质量改进。 |
 | 2026-10-13 | [doma.in 二级域名注册上线，烧饼也能换域名啦](https://u.sb/doma-in/) | 烧饼旗下的二级域名注册平台 doma.in 已开放 wz.org、wz.io、com.fo 和 co.fo 注册，论坛会员还可以用大米购买域名代金券。 |
 | 2026-10-13 | [烧饼论坛开放注册，邀请朋友一起赚烧饼](https://u.sb/sb-sb-open-registration/) | 烧饼论坛开放注册啦，不再需要邀请码，新会员注册就送 10 个烧饼，通过邀请链接加入并验证邮箱，双方还能各得 10 个烧饼。 |
@@ -60,6 +65,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-10-12 | [Quake updated](https://macsourceports.com/game/quake) | The build of vkQuake for Quake has been updated to version 1.37.0 of the project |
 | 2026-10-12 | [Goodman Casino Mobile Experience: Schnelle Spins und Sofortentscheidungen](https://wujie.me/goodman-casino-mobile-experience-schnelle-spins-und-sofortentscheidungen/) | Es gibt einen bestimmten Rhythmus beim Spielen von Slot … 继续阅读 Goodman Casino Mobile Experience: Schnelle Spins und Sofortentscheidungen |
 | 2026-10-12 | [Candy Spinz Casino Review: Süße Boni und schnelle Slot-Sessions](https://wujie.me/candy-spinz-casino-review-suse-boni-und-schnelle-slot-sessions/) | There is something about the name Candy Spinz that sugg … 继续阅读 Candy Spinz Casino Review: Süße Boni und schnelle Slot-Sessions |
+| 2026-10-12 | [**用中医理论重塑日常养生：以「治未病」为核心的慢性病预防框架](https://blog.zzbd.org/miao20261013/) | 用中医理论重塑日常养生：以「治未病」为核心的慢性病预防框架 |
 | 2026-10-12 | [AI 早报 2026-10-13：长鑫存储 4F² DRAM 突破：年底推新一代服务器内存，美光、闪迪股价重挫](https://www.jtxyh.com/daily/2026-10-13/) | 2026-10-13 AI 早报，共 55 条动态。10月10日，长鑫存储（CXMT）总裁曹堪宇宣布，新一代 4F² DRAM 存储单元架构取得关键进展，目标在 2026 年底前推出结合 4F² 架构与混合键合技术的新一代 DDR5 RDIMM 服务器内存。 |
 | 2026-10-12 | [R#123 分界线](https://blog.sakanano.moe/journals/random_123) | 2026.10.6 ~ 2026.10.12 |
 | 2026-10-12 | [Coffee Break Clojure, Async](https://www.geedea.pro/article/clj7/) | 上一篇 我提及了如何用 Ring 开发 HTTP 服务器，也提到 Ring 提供了同步 API 和异步 API。那么，什么是异步编程？为什么需要异步？在什么情况下需要让一个程序同时做很多事情？ 同步、异步、并发和并行 同步（synchronization）的中文名字可能会让人误以为是多个实体同时进行… |
