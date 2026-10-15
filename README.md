@@ -27,6 +27,8 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-10-15 | [油管｜AI视频工作流从文稿转字幕和配音](https://dsx2016.com/youtube-ai-video-workflow-from-script-to-subtitles-and-voiceover/) | AI视频工作流 目前实现三种字幕工作流 一种是自己的音频配音被翻译为字幕 一种是ai根据视频或者抽帧生成字幕 ... 油管｜AI视频工作流从文稿转字幕和配音 最先出现在 大师兄2016 。 |
+| 2026-10-15 | [人生切割](https://tianheg.co/posts/life-severance/) | 下班，洗澡，坐到电脑前 回想今天，我疲惫的一天 早八晚十，这是我的工作时段 晚十早八，这是我的生活时段 |
 | 2026-10-15 | [学习周刊-总第285期-2026年第42周](https://wiki.eryajf.net/pages/6be37e/) | 如要阅读全文，点击标题跳转。 学习周刊-总第285期 ｜ YCode ｜ MacTools ｜ LockIME ｜ OnePagent ｜ maple ｜ vorssaint-utils ｜ trinity |
 | 2026-10-15 | [第十届网络社会年会新加坡特别场 开场致词](https://caa-ins.org/archives/13447) | 2025年11月28日至29日，第十届网络社会年会新加坡场作为 新加坡管理大学（SMU）Web3Week（11月27日至30日）的特别策划活动，在新加坡管理大学（SMU）义安公司礼堂（The Ngee Ann Kongsi Auditorium）举办。本届年会新加坡场由新加坡管理大学计算与信息系统学… |
 | 2026-10-15 | [入蜀记 day504 周期时间观、我都爱、低端定位](https://z.arlmy.me/posts/BBBPandINSW/INSW-deep/INSW_504/) | 「周期时间观、我都爱、低端定位。」 |
@@ -37,6 +39,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-10-15 | [介绍两位歌王](https://www.hecaitou.com/2026/10/meet-two-kings-of-song.html) | 最近在网上偶然遇见了两位殿堂级歌王，选 CD 的时候看到他们的专辑封面，让我感觉到一种诡异的熟悉，但我又的确不认识他们。 一位是 Mikhail Bennett，灵魂歌王，面相非常沧桑的一位美国西部老人，拥有一把老烟枪嗓子，主要是弹唱乡村歌曲，内容多为讲述他破碎的一生，什么儿子死了一类的事情。 另一… |
 | 2026-10-15 | [一个人的异托邦 I](https://mobius.blog/25915.html) | “异托邦”，原意指“异质空间”，是法国哲学家米歇尔·福柯提出的概念。简单来说，异托邦是现实存在的“世界”，然而 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-10-14 | [Insaniquarium updated](https://macsourceports.com/game/insaniquarium) | The build of Insaniquarium Portable for Insaniquarium has been updated to version 0.4 of the project |
+| 2026-10-14 | [AI 早报 2026-10-15：10.15总结；阶跃星辰开放Step 5 Preview模型权重，支持100万token上下文](https://www.jtxyh.com/daily/2026-10-15/) | 2026-10-15 AI 早报，共 25 条动态。本期重点是模型开放、算力投入与智能体治理。阶跃星辰10月15日开放Step 5 Preview模型权重并发布技术博客。台积电10月15日公布2026年第三季度业绩：净利润7630.6亿新台币，同比增长68.7%，创季度新高；每股收益29.43新台币… |
 | 2026-10-14 | [2006，带着手册去装服务器](https://www.tortorse.com/archives/installing-servers-with-a-manual-2006/) | 带着安装手册在机房安装服务器 |
 | 2026-10-14 | [出站口外趴活的司机](https://blog.solazy.me/20261014/) | 最近在外面出差，遇到一个现象…… |
 | 2026-10-14 | [曹丰泽是野狗](https://sinyalee.com/blog/?p=1371) | 言论自由几乎等同于政治权利。一个人如果连表达自己的利益诉求的权利都没有，那么可以说这个人根本没有政治权利，更不 […] |
@@ -45,7 +48,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-10-14 | [太好用，意图分流特别适合 agent，我](https://versun.me/blog/tweet-2110189979540635938) | Versun 最近在给 magpie 设置“意图分流”功能， 让 hermes 简单对比了 cloudflare 的 clef flash 和本地部署 clef flash 4bit的差异，供大家参考 TLDR：准确度没差，相应慢 0.8s，更稳定，可本地部署使用 太好用，意图分流特别适合 agen… |
 | 2026-10-14 | [陷阱悲剧 II](https://mobius.blog/25910.html) | 继续昨天的话题，既然“陷阱喜剧”的乐趣在于： 那用这个逻辑也可以制作悲剧吗？悲剧并不一定是让人难过，也可以是完 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-10-14 | [为什么做加密货币的钱包产品很难赚钱](https://smallyu.net/2026/10/14/%E4%B8%BA%E4%BB%80%E4%B9%88%E5%81%9A%E5%8A%A0%E5%AF%86%E8%B4%A7%E5%B8%81%E7%9A%84%E9%92%B1%E5%8C%85%E4%BA%A7%E5%93%81%E5%BE%88%E9%9A%BE%E8%B5%9A%E9%92%B1/) | 我有过几段加密货币钱包开发的经历。后来回过头看，我越来越确信一件事： 做加密货币钱包，是整个 Web3 |
-| 2026-10-14 | [低成本自建阿里云函数计算FC+OSS图床](https://krya.com/post/oss/) | 源码： https://github.com/ezzty/oss-upload 先说三件事： 本文所有 AccessKey 、密码、域名、Bucket 名 都是占位符 ，照抄前请替换成你自己的。 代码是单文件 Node.js（约 380 行），依赖通过 FC 层（Layer） 注入，业务代码零硬编码… |
+| 2026-10-14 | [低成本自建阿里云函数计算FC+OSS图床](https://krya.com/post/oss/) | 源码： https://github.com/ezzty/oss-upload 先说三件事： 本图床最简易的安装方式是通过 AI 安装，你把源码链接丢给它，让 AI 审核、改功能，指导安装。 本文所有 AccessKey 、密码、域名、Bucket 名 都是占位符 ，照抄前请替换成你自己的。 代码是… |
 | 2026-10-14 | [近两年我使用过的相机](https://bluepika.life/blog/cameras-i-used-in-the-past-two-years) | 回顾近两年用过的数码与胶片相机，以及最终选择尼康 Zf 的理由。 |
 | 2026-10-13 | [拆解四柱五行--自测篇](https://blog.zzbd.org/miao20261014/) | 公历： 1986 年 12 月 29 日 01:00 ，丑时（1:00–3:00） 四柱： 丙寅 庚子 丁未 辛丑 日主： 丁火（你本人，丁灯之火，烛火、星光，不是烈火） |
 | 2026-10-13 | [五行的核心](https://blog.zzbd.org/miao20261014-3/) | 一是“五行”的基本思想与运用，二是“周易”的核心观念与结构。二者在中国哲学里是互通的：都在回答“世界是什么样”“变化有什么规律”“人应当怎样处世”这三大问题。 |

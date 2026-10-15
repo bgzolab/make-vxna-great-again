@@ -1,5 +1,19 @@
 [
   {
+    "title": "油管｜AI视频工作流从文稿转字幕和配音",
+    "url": "https://dsx2016.com/youtube-ai-video-workflow-from-script-to-subtitles-and-voiceover/",
+    "date": "2026-10-15T16:11:48Z",
+    "description": "AI视频工作流 目前实现三种字幕工作流 一种是自己的音频配音被翻译为字幕 一种是ai根据视频或者抽帧生成字幕 ... 油管｜AI视频工作流从文稿转字幕和配音 最先出现在 大师兄2016 。",
+    "source_root_domain": "dsx2016.com"
+  },
+  {
+    "title": "人生切割",
+    "url": "https://tianheg.co/posts/life-severance/",
+    "date": "2026-10-15T14:24:47Z",
+    "description": "下班，洗澡，坐到电脑前 回想今天，我疲惫的一天 早八晚十，这是我的工作时段 晚十早八，这是我的生活时段",
+    "source_root_domain": "tianheg.co"
+  },
+  {
     "title": "学习周刊-总第285期-2026年第42周",
     "url": "https://wiki.eryajf.net/pages/6be37e/",
     "date": "2026-10-15T11:38:56Z",
@@ -70,6 +84,13 @@
     "source_root_domain": "macsourceports.com"
   },
   {
+    "title": "AI 早报 2026-10-15：10.15总结；阶跃星辰开放Step 5 Preview模型权重，支持100万token上下文",
+    "url": "https://www.jtxyh.com/daily/2026-10-15/",
+    "date": "2026-10-14T16:00:00Z",
+    "description": "2026-10-15 AI 早报，共 25 条动态。本期重点是模型开放、算力投入与智能体治理。阶跃星辰10月15日开放Step 5 Preview模型权重并发布技术博客。台积电10月15日公布2026年第三季度业绩：净利润7630.6亿新台币，同比增长68.7%，创季度新高；每股收益29.43新台币。",
+    "source_root_domain": "jtxyh.com"
+  },
+  {
     "title": "2006，带着手册去装服务器",
     "url": "https://www.tortorse.com/archives/installing-servers-with-a-manual-2006/",
     "date": "2026-10-14T15:59:28Z",
@@ -129,7 +150,7 @@
     "title": "低成本自建阿里云函数计算FC+OSS图床",
     "url": "https://krya.com/post/oss/",
     "date": "2026-10-14T01:00:00Z",
-    "description": "源码： https://github.com/ezzty/oss-upload 先说三件事： 本文所有 AccessKey 、密码、域名、Bucket 名 都是占位符 ，照抄前请替换成你自己的。 代码是单文件 Node.js（约 380 行），依赖通过 FC 层（Layer） 注入，业务代码零硬编码，全部配置走环境变量。 走完这篇，你会得到： 登录 → 拿 token → 上传 → 返回 Markdown 图片语法 的完整链路，且上线前有可执行的验收清单。 一、为什么自建图床 每一个静态博客都必备第三方图床；但是哪个图床不跑路呢？很难说。而且你用别人的图床：防盗链规则不受你控制、服务跑路图片全 404、内容审核误伤、免费额度藏陷阱。 踩了很多坑之后，决定自己给自己搞一个极低使用成本的图床。主要目的就是省钱，不限量！ 数据在自己账号里 ，随时能导出、能迁移 计费按量 ，个人图床的用量基本落在免费额度边缘 安全策略自己定 ：谁能传、传多大、放哪个目录、给谁看，全部可控 代价是你要自己处理鉴权、防爆破、类型校验这些脏活——本文已经替你处理完了。 二、架构与请求流程 浏览器 upload.ht",
+    "description": "源码： https://github.com/ezzty/oss-upload 先说三件事： 本图床最简易的安装方式是通过 AI 安装，你把源码链接丢给它，让 AI 审核、改功能，指导安装。 本文所有 AccessKey 、密码、域名、Bucket 名 都是占位符 ，照抄前请替换成你自己的。 代码是单文件 Node.js（约 380 行），依赖通过 FC 层（Layer） 注入，业务代码零硬编码，全部配置走环境变量。 一、为什么自建图床 每一个静态博客基本都得有图床。好多人图省钱，用别人的永久免费图床；但是哪个大善人永不跑路呢？而且数据在他人之手，自己毫无主动权，难免提心吊胆。 踩了很多坑之后，决定自己做一个极低成本的图床。主要目的就是省钱、不限容量、安全！ 很多自建图床方案都要自备服务器，月租几十块还得自己打补丁；或者有一些图床只能在本地客户端运行，换个电脑就不能上传；最终我决定做一个 Serverless 的云端图床方案，随时随地，想传就传。 阿里云函数计算 FC + OSS FC 按量付费（低流量≈0 元）+ 无数据库 + 免运维，部署包低至 6KB。低频上传几乎零开支。 OSS",
     "source_root_domain": "krya.com"
   },
   {
