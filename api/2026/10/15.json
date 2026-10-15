@@ -63,6 +63,13 @@
     "source_root_domain": "arlmy.me"
   },
   {
+    "title": "Lemmings updated",
+    "url": "https://macsourceports.com/game/lemmings",
+    "date": "2026-10-15T03:36:04Z",
+    "description": "The build of Ultimate Lemmings for Lemmings has been updated to version v1.9.7 of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
     "title": "介绍两位歌王",
     "url": "https://www.hecaitou.com/2026/10/meet-two-kings-of-song.html",
     "date": "2026-10-15T03:08:33Z",
@@ -271,13 +278,6 @@
     "date": "2026-10-13T02:38:23Z",
     "description": "最近在给 magpie 设置“意图分流”功能， 让 hermes 简单对比了 cloudflare 的 clef flash 和本地部署 clef flash 4bit的差异，供大家参考 TLDR：准确度没差，相应慢 0.8s，更稳定，可本地部署使用",
     "source_root_domain": "versun.me"
-  },
-  {
-    "title": "New Release: Lemmings",
-    "url": "https://macsourceports.com/game/lemmings",
-    "date": "2026-10-13T02:18:49Z",
-    "description": "You know what Lemmings is: that game where you have to get a bunch of cute little creatures from point A to point B and let just enough of them explode to be fun but not lose the level. The…",
-    "source_root_domain": "macsourceports.com"
   },
   {
     "title": "Commander-Genius updated",

@@ -36,6 +36,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-10-15 | [入蜀记 day502 补牙、不介意我消失、记住夏乌拉、平东CP](https://z.arlmy.me/posts/BBBPandINSW/INSW-deep/INSW_502/) | 「补牙、不介意我消失、记住夏乌拉、平东CP。」 |
 | 2026-10-15 | [刚结完婚，分享一个为了婚礼临时 vibe 出来的照片相册](https://www.qs5.org/Post/788.html) | 创意来自我对象。她说，来了这么多宾客，大家都有手机，也会拍下不少照片，但怎么把这些照片收集起来呢？于是就有了这个项目：把二维码放在海报和 LED 屏幕上，宾客扫码就能上传自己拍的照片，留下各自视... |
 | 2026-10-15 | [摘：《Monsieur Teste》](https://z.arlmy.me/posts/Note/Note_PaulValery_MonsieurTeste/) | 「一种散步。」 |
+| 2026-10-15 | [Lemmings updated](https://macsourceports.com/game/lemmings) | The build of Ultimate Lemmings for Lemmings has been updated to version v1.9.7 of the project |
 | 2026-10-15 | [介绍两位歌王](https://www.hecaitou.com/2026/10/meet-two-kings-of-song.html) | 最近在网上偶然遇见了两位殿堂级歌王，选 CD 的时候看到他们的专辑封面，让我感觉到一种诡异的熟悉，但我又的确不认识他们。 一位是 Mikhail Bennett，灵魂歌王，面相非常沧桑的一位美国西部老人，拥有一把老烟枪嗓子，主要是弹唱乡村歌曲，内容多为讲述他破碎的一生，什么儿子死了一类的事情。 另一… |
 | 2026-10-15 | [一个人的异托邦 I](https://mobius.blog/25915.html) | “异托邦”，原意指“异质空间”，是法国哲学家米歇尔·福柯提出的概念。简单来说，异托邦是现实存在的“世界”，然而 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-10-14 | [Insaniquarium updated](https://macsourceports.com/game/insaniquarium) | The build of Insaniquarium Portable for Insaniquarium has been updated to version 0.4 of the project |
@@ -66,7 +67,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-10-13 | [高级的食材往往只需要最朴素的烹饪方式](https://versun.me/blog/tweet-2109862937808777252) | yetone 很多人想让我分享一下工作流，我一直没想好怎么分享，因为其实我没有任何的魔法，甚至还特别简陋，总觉得分享出来毫无意义。其实我就是用 Claude Code，然后用官方的 Opus 5.5 模型执行 loop 就可以了。 我会并行执行图里的 3 个 loop，然后每晚抽一点时间铲铲屎（主要… |
 | 2026-10-13 | [油管｜产品展示和佣金以及手工](https://dsx2016.com/youtube-product-showcases-commissions-and-handmade-items/) | YPP和产品 只靠YPP有时候赚的反而比较少 商单，佣金联盟，卖课，自己的主页可能赚的更多 在完成1000粉丝... 油管｜产品展示和佣金以及手工 最先出现在 大师兄2016 。 |
 | 2026-10-13 | [最近在给 magpie 设置“意图分流”](https://versun.me/blog/tweet-2109836116467802426) | 最近在给 magpie 设置“意图分流”功能， 让 hermes 简单对比了 cloudflare 的 clef flash 和本地部署 clef flash 4bit的差异，供大家参考 TLDR：准确度没差，相应慢 0.8s，更稳定，可本地部署使用 |
-| 2026-10-13 | [New Release: Lemmings](https://macsourceports.com/game/lemmings) | You know what Lemmings is: that game where you have to get a bunch of cute little creatures from point A to point B and let just enough of them explod… |
 | 2026-10-13 | [Commander-Genius updated](https://macsourceports.com/sourceport/commander-genius) | The build of Commander-Genius for the Commander Keen series of games has been updated to version v3.6.4 of the project\n\nhttps://macsourceports.com/s… |
 | 2026-10-13 | [陷阱悲剧 I](https://mobius.blog/25895.html) | 首先需要解释一下，“陷阱悲剧”这个词并不是已经存在的某种具体的艺术形式，而是我个人对于现阶段AI短剧模型的一个 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-10-13 | [X Pass 新订阅出来了，把所有都整合](https://versun.me/blog/tweet-2109817318364889337) | X Pass 新订阅出来了，把所有都整合在一起了 日元区有6个月的优惠(7刀每月) 建议转 |
