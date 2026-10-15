@@ -28,6 +28,12 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | Date | Title | Summary |
 | --- | --- | --- |
 | 2026-10-15 | [学习周刊-总第285期-2026年第42周](https://wiki.eryajf.net/pages/6be37e/) | 如要阅读全文，点击标题跳转。 学习周刊-总第285期 ｜ YCode ｜ MacTools ｜ LockIME ｜ OnePagent ｜ maple ｜ vorssaint-utils ｜ trinity |
+| 2026-10-15 | [入蜀记 day504 周期时间观、我都爱、低端定位](https://z.arlmy.me/posts/BBBPandINSW/INSW-deep/INSW_504/) | 「周期时间观、我都爱、低端定位。」 |
+| 2026-10-15 | [入蜀记 day503 民族大学和人类学](https://z.arlmy.me/posts/BBBPandINSW/INSW-deep/INSW_503/) | 「民族大学和人类学。」 |
+| 2026-10-15 | [入蜀记 day502 补牙、不介意我消失、记住夏乌拉、平东CP](https://z.arlmy.me/posts/BBBPandINSW/INSW-deep/INSW_502/) | 「补牙、不介意我消失、记住夏乌拉、平东CP。」 |
+| 2026-10-15 | [刚结完婚，分享一个为了婚礼临时 vibe 出来的照片相册](https://www.qs5.org/Post/788.html) | 创意来自我对象。她说，来了这么多宾客，大家都有手机，也会拍下不少照片，但怎么把这些照片收集起来呢？于是就有了这个项目：把二维码放在海报和 LED 屏幕上，宾客扫码就能上传自己拍的照片，留下各自视... |
+| 2026-10-15 | [摘：《Monsieur Teste》](https://z.arlmy.me/posts/Note/Note_PaulValery_MonsieurTeste/) | 「一种散步。」 |
+| 2026-10-15 | [介绍两位歌王](https://www.hecaitou.com/2026/10/meet-two-kings-of-song.html) | 最近在网上偶然遇见了两位殿堂级歌王，选 CD 的时候看到他们的专辑封面，让我感觉到一种诡异的熟悉，但我又的确不认识他们。 一位是 Mikhail Bennett，灵魂歌王，面相非常沧桑的一位美国西部老人，拥有一把老烟枪嗓子，主要是弹唱乡村歌曲，内容多为讲述他破碎的一生，什么儿子死了一类的事情。 另一… |
 | 2026-10-15 | [一个人的异托邦 I](https://mobius.blog/25915.html) | “异托邦”，原意指“异质空间”，是法国哲学家米歇尔·福柯提出的概念。简单来说，异托邦是现实存在的“世界”，然而 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-10-14 | [Insaniquarium updated](https://macsourceports.com/game/insaniquarium) | The build of Insaniquarium Portable for Insaniquarium has been updated to version 0.4 of the project |
 | 2026-10-14 | [2006，带着手册去装服务器](https://www.tortorse.com/archives/installing-servers-with-a-manual-2006/) | 带着安装手册在机房安装服务器 |
@@ -44,7 +50,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-10-13 | [五行的核心](https://blog.zzbd.org/miao20261014-3/) | 一是“五行”的基本思想与运用，二是“周易”的核心观念与结构。二者在中国哲学里是互通的：都在回答“世界是什么样”“变化有什么规律”“人应当怎样处世”这三大问题。 |
 | 2026-10-13 | [定而后能静：一念之慢，万物之宁](https://blog.zzbd.org/miao20261014-2/) | 《周易・系辞》说：”易，无思也，无为也，寂然不动，感而遂通天下之故。” 你听这句话 —— 寂然不动，感而遂通。天地之间最难的事情，不是动，而是不动时的感应。真正的力量，从来不在急促里，而在那一份 “寂然” 里。你越是急着要抓住什么，什么就越从指缝里流走；你越是安静地站在那里，万物反而向你走来。 |
 | 2026-10-13 | [方块](https://mobius.blog/25898.html) | 在《∞》里搜索有关酒精的字眼，里面出现的都是在某一则小说里以道具的形式出现。但按道理来说，2016年期间我去过 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
-| 2026-10-13 | [AI 早报 2026-10-14：10月14日每日总结：模型开放、API迁移与智能体落地](https://www.jtxyh.com/daily/2026-10-14/) | 2026-10-14 AI 早报，共 21 条动态。本期先看影响使用和预算的变化：Google已向全球开发者及企业开放Gemini 4 Argon，API每百万输入/输出token的介绍价为2/10美元，11月30日后升至4/20美元。10月14日，GlobalFoundries宣布日本将投资至多2… |
+| 2026-10-13 | [AI 早报 2026-10-14：10.14总结；日本拟投至多210亿美元在美建两座晶圆厂：格芯运营，苹果、瑞萨是首批客户](https://www.jtxyh.com/daily/2026-10-14/) | 2026-10-14 AI 早报，共 21 条动态。本期先看影响使用和预算的变化：Google已向全球开发者及企业开放Gemini 4 Argon，API每百万输入/输出token的介绍价为2/10美元，11月30日后升至4/20美元。10月14日，GlobalFoundries宣布日本将投资至多2… |
 | 2026-10-13 | [PVE9 超融合基础设施 - 4.PVE 虚拟化网络 - VLAN](https://songxwn.com/PVE-HCI-4/) | PVE 单机默认使用Linux Bridge进行网络配置。 PVE 集群的Vnets本质上和VMware的vDS分布式交换机很像，就是为了在集群里面给虚拟机一个统一的网络接入选项。当虚拟机在线迁移、故障切换的时候能够自动化，在任意主机节点都能使用对应网络。 |
 | 2026-10-13 | [油管｜佣金带货products](https://dsx2016.com/products-for-affiliate-marketing-on-youtube/) | products 看到油管消息通知有个小红点 点开大致看了下是佣金带货提示，10个小时前 和我发布手工视频时间... 油管｜佣金带货products 最先出现在 大师兄2016 。 |
 | 2026-10-13 | [油管｜aigc和自动化工作流](https://dsx2016.com/youtube-aigc-and-automated-workflows/) | 工作流 这里指的不是ai短剧或者ai视频 ai自动工作流本文是自动化，ai去除人声，ai生成字幕，ai转英文或... 油管｜aigc和自动化工作流 最先出现在 大师兄2016 。 |
