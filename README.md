@@ -27,12 +27,15 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-10-15 | [学习周刊-总第285期-2026年第42周](https://wiki.eryajf.net/pages/6be37e/) | 如要阅读全文，点击标题跳转。 学习周刊-总第285期 ｜ YCode ｜ MacTools ｜ LockIME ｜ OnePagent ｜ maple ｜ vorssaint-utils ｜ trinity |
+| 2026-10-15 | [一个人的异托邦 I](https://mobius.blog/25915.html) | “异托邦”，原意指“异质空间”，是法国哲学家米歇尔·福柯提出的概念。简单来说，异托邦是现实存在的“世界”，然而 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-10-14 | [Insaniquarium updated](https://macsourceports.com/game/insaniquarium) | The build of Insaniquarium Portable for Insaniquarium has been updated to version 0.4 of the project |
 | 2026-10-14 | [2006，带着手册去装服务器](https://www.tortorse.com/archives/installing-servers-with-a-manual-2006/) | 带着安装手册在机房安装服务器 |
 | 2026-10-14 | [出站口外趴活的司机](https://blog.solazy.me/20261014/) | 最近在外面出差，遇到一个现象…… |
 | 2026-10-14 | [曹丰泽是野狗](https://sinyalee.com/blog/?p=1371) | 言论自由几乎等同于政治权利。一个人如果连表达自己的利益诉求的权利都没有，那么可以说这个人根本没有政治权利，更不 […] |
 | 2026-10-14 | [油管｜AI声音克隆和油管vlog](https://dsx2016.com/youtube-ai-sound-cloning-and-youtube-vlogs/) | AI声音克隆 用商业软件ai配音不是很满意，多数是适配中文，偶有英文，要么vip，要么音色太少没得选 用开源t... 油管｜AI声音克隆和油管vlog 最先出现在 大师兄2016 。 |
 | 2026-10-14 | [伤害豁免](https://www.hecaitou.com/2026/10/damage-immunity.html) | 我又发现了一个年龄增长带来的好处：对网上的伤害豁免。 新世纪初，我才上网写字不久，自然很在乎这件事。我上网经验也少，不知道匿名制会放大人性中的恶，不理解为什么人会如此刻薄恶毒。因此，看到有人贬低我的文笔，把我的文章说得一无是处时，我心里还是会觉得难过，偶尔甚至会自我怀疑。不过，也正因为这样，我暗自发… |
+| 2026-10-14 | [太好用，意图分流特别适合 agent，我](https://versun.me/blog/tweet-2110189979540635938) | Versun 最近在给 magpie 设置“意图分流”功能， 让 hermes 简单对比了 cloudflare 的 clef flash 和本地部署 clef flash 4bit的差异，供大家参考 TLDR：准确度没差，相应慢 0.8s，更稳定，可本地部署使用 太好用，意图分流特别适合 agen… |
 | 2026-10-14 | [陷阱悲剧 II](https://mobius.blog/25910.html) | 继续昨天的话题，既然“陷阱喜剧”的乐趣在于： 那用这个逻辑也可以制作悲剧吗？悲剧并不一定是让人难过，也可以是完 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-10-14 | [为什么做加密货币的钱包产品很难赚钱](https://smallyu.net/2026/10/14/%E4%B8%BA%E4%BB%80%E4%B9%88%E5%81%9A%E5%8A%A0%E5%AF%86%E8%B4%A7%E5%B8%81%E7%9A%84%E9%92%B1%E5%8C%85%E4%BA%A7%E5%93%81%E5%BE%88%E9%9A%BE%E8%B5%9A%E9%92%B1/) | 我有过几段加密货币钱包开发的经历。后来回过头看，我越来越确信一件事： 做加密货币钱包，是整个 Web3 |
 | 2026-10-14 | [低成本自建阿里云函数计算FC+OSS图床](https://krya.com/post/oss/) | 源码： https://github.com/ezzty/oss-upload 先说三件事： 本文所有 AccessKey 、密码、域名、Bucket 名 都是占位符 ，照抄前请替换成你自己的。 代码是单文件 Node.js（约 380 行），依赖通过 FC 层（Layer） 注入，业务代码零硬编码… |
@@ -41,7 +44,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-10-13 | [五行的核心](https://blog.zzbd.org/miao20261014-3/) | 一是“五行”的基本思想与运用，二是“周易”的核心观念与结构。二者在中国哲学里是互通的：都在回答“世界是什么样”“变化有什么规律”“人应当怎样处世”这三大问题。 |
 | 2026-10-13 | [定而后能静：一念之慢，万物之宁](https://blog.zzbd.org/miao20261014-2/) | 《周易・系辞》说：”易，无思也，无为也，寂然不动，感而遂通天下之故。” 你听这句话 —— 寂然不动，感而遂通。天地之间最难的事情，不是动，而是不动时的感应。真正的力量，从来不在急促里，而在那一份 “寂然” 里。你越是急着要抓住什么，什么就越从指缝里流走；你越是安静地站在那里，万物反而向你走来。 |
 | 2026-10-13 | [方块](https://mobius.blog/25898.html) | 在《∞》里搜索有关酒精的字眼，里面出现的都是在某一则小说里以道具的形式出现。但按道理来说，2016年期间我去过 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
-| 2026-10-13 | [AI 早报 2026-10-14：日本拟投至多210亿美元在美建两座晶圆厂：格芯运营，苹果、瑞萨是首批客户](https://www.jtxyh.com/daily/2026-10-14/) | 2026-10-14 AI 早报，共 79 条动态。10月14日，GlobalFoundries宣布日本将投资至多210亿美元，在纽约州建两座由格芯运营的新晶圆厂。双方10月13日宣布合作，通过MCP在Sana与Claude之间交换任务和上下文。路透社 10 月 13 日援引知情人士报道，OpenA… |
+| 2026-10-13 | [AI 早报 2026-10-14：10月14日每日总结：模型开放、API迁移与智能体落地](https://www.jtxyh.com/daily/2026-10-14/) | 2026-10-14 AI 早报，共 21 条动态。本期先看影响使用和预算的变化：Google已向全球开发者及企业开放Gemini 4 Argon，API每百万输入/输出token的介绍价为2/10美元，11月30日后升至4/20美元。10月14日，GlobalFoundries宣布日本将投资至多2… |
 | 2026-10-13 | [PVE9 超融合基础设施 - 4.PVE 虚拟化网络 - VLAN](https://songxwn.com/PVE-HCI-4/) | PVE 单机默认使用Linux Bridge进行网络配置。 PVE 集群的Vnets本质上和VMware的vDS分布式交换机很像，就是为了在集群里面给虚拟机一个统一的网络接入选项。当虚拟机在线迁移、故障切换的时候能够自动化，在任意主机节点都能使用对应网络。 |
 | 2026-10-13 | [油管｜佣金带货products](https://dsx2016.com/products-for-affiliate-marketing-on-youtube/) | products 看到油管消息通知有个小红点 点开大致看了下是佣金带货提示，10个小时前 和我发布手工视频时间... 油管｜佣金带货products 最先出现在 大师兄2016 。 |
 | 2026-10-13 | [油管｜aigc和自动化工作流](https://dsx2016.com/youtube-aigc-and-automated-workflows/) | 工作流 这里指的不是ai短剧或者ai视频 ai自动工作流本文是自动化，ai去除人声，ai生成字幕，ai转英文或... 油管｜aigc和自动化工作流 最先出现在 大师兄2016 。 |
@@ -168,28 +171,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-10-08 | [292、寒露](https://1900.live/292-han-lu/) | null 露华初白，金风转肃，天地在澄清与敛藏之间，拉满了一张无形的清寒之弓。 太阳行至黄经195°，寒露——秋之第五序，亦为深秋之门庭。 寒侵草木，万物知霜。鸿雁来宾，最后的队列以“人”字掠过南天的肃云，写下迁徙的终章；雀入大水为蛤，雀鸟隐入沧波，将踪迹藏进贝壳的纹络深处；菊有黄华，群芳谢尽之后，… |
 | 2026-10-08 | [什么值得写？](https://mobius.blog/25841.html) | 前段时间收到一则留言，就是简单问了一个简单的问题：什么值得写？ 没有上下文地来这样一句话，我反而不知道怎么回答 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-10-08 | [兰州三日之旅](https://gaoyu.me/blog/34-lanzhou-travel) | 国庆节出行 |
-| 2026-10-07 | [Haiku 5.5 除了便宜没什么特色，](https://versun.me/blog/tweet-2107975148989280415) | Claude Introducing Claude Haiku 5.5: the cheapest, fastest, and most capable small model we’ve ever released. On average, it costs around 75% less to… |
-| 2026-10-07 | [我很怀疑 @yetone 是仿生人，无论](https://versun.me/blog/tweet-2107973563991081256) | 我很怀疑 @yetone 是仿生人，无论早上还是下午或者晚上进去，他都在更新，commit 都是几分钟前的，太恐怖了 |
-| 2026-10-07 | [AI Rank Bank: A Ledger That Keeps AI Companies Honest About Their Promises](https://gugegt.com/ai-rank-bank-claim-ledger.html) | AI companies publish a lot of promises. Almost none of them are ever checked again. Look at the past two weeks. NVIDIA said a 64GB version of its DGX… |
-| 2026-10-07 | [打领带的人](https://www.geedea.pro/article/tie-wearers/) | 最近在关注 Golda ，从 ch0ccyra1n 写的 Issues 来看，她近期并不打算推进太多功能开发，更多是在做各个平台的发包和新 Fork 落地的工作，还有清理 Hugo 的某些遗留问题（比如 Hugo 的传递依赖太多导致不太容易打包到 Guix 的 问题 ）。我在帮忙移除了 hugo d… |
-| 2026-10-07 | [iPhone 自动备份到 NAS：开源啦](https://razeen.me/posts/iphone-wifi-backup-nas-open-source/) | iOS Backup 更新并开源了。这篇文章介绍新版的管理员登录、加密备份、多渠道通知和备份管理，以及部署前的准备、旧版升级注意事项与实验功能的使用边界。 |
-| 2026-10-07 | [Toots 439 2026 Sep.27 - Oct.3](https://z.arlmy.me/posts/MastodonArchives/2026/MastodonTootsArchives_20261003/) | 「人模狗样。」 |
-| 2026-10-07 | [国庆结算](https://yovey.me/26-national-day-holiday/) | 10.1 陪妹妹逛街买周边，收拾行李 10.2 出发庐山，下雨，哪儿也没去早早泡了温泉7点就睡了。 10.3 … Continue reading "国庆结算" |
-| 2026-10-07 | [“独立开发者” 是最大的骗局](https://smallyu.net/2026/10/07/%E2%80%9C%E7%8B%AC%E7%AB%8B%E5%BC%80%E5%8F%91%E8%80%85%E2%80%9D%E6%98%AF%E6%9C%80%E5%A4%A7%E7%9A%84%E9%AA%97%E5%B1%80/) | 这些年，在中文程序员社区里，有一种非常奇怪的现象。 一个程序员被裁员了。 找了几个月工作，没找到。 或者找到了，但工资太低，不满意。 再或者年纪上来了，技术也没有特别强，在招聘市场上越来越没有竞争力。 然 |
-| 2026-10-07 | [我要免费送妳一支花](https://kaix.in/2026/1007/) | 女儿又独自一人去旅游了，时常跟我分享见闻。昨晚有个老太太说要把一支花免费送给她，但是又说如果觉得不好意思就看着给点钱，而且还一直跟着走。女儿原本真以为遇到雅事一桩，因此并没觉得不好意思，但见对方表情逐渐「恶化」，这才把花还了回去。 无独有偶，昨天我接到一通电话，是运营商打来的——先生您的套餐下个月到… |
-| 2026-10-07 | [翻译-为什么纯文本仍然是我们拥有的最佳技术之一](https://blog.prayhand13013.top/20261007T180116--翻译-为什么纯文本仍然是我们拥有的最佳技术之一__blog.html) |  |
-| 2026-10-07 | [Memos: 十一约教练学了几天车](https://blog.yasking.org/a/1791357305) | 驾照是在几年前考下来的，但一直不会开车，这个十一有些时间，想着学习下，后续自驾出行方便很多。 先在闲鱼上找了带车 … |
-| 2026-10-07 | [轻徒步・北京・延寿寺后山（2026）](https://blog.yasking.org/a/photos-beijing-yanshousi) | 10.1 当天，想着可别进城了，北京哪里人都会很多。就计划往郊区走走，前些天在 B 站看个 UP 主推荐个入门级的徒步/爬山路 … |
-| 2026-10-07 | [博客装修记：再见了，所有的 jQuery](https://blog.mfwt.top/index.php/archives/1669/) | 国庆假期即将结束，回想起来以前中学（尤其是高中）时候，总是会有老师在群里发通知说『假期结束，是时候收心了，回校当天检查所有作业，并进行月考』之类很恐怖的话。现在大学了，这种东西已经消失，当然也舒... |
-| 2026-10-07 | [吃的选择](https://www.hecaitou.com/2026/10/what-we-choose-to-eat.html) | 一写文章谈做菜，谈吃，每个人都觉得自己有发言权，因为随随便便自己都有十几年几十年吃的经验，搞不好也有那么多年做菜的经验。 我对此表示怀疑。天天做的事情未必就一定能做好，不信的话，看看做工的，做父母的，是不是每个都很出色。这还是对外，吃更接近于对内，那再看看大家睡得都好吗？牙都刷得干净吗？ 吃在我看来… |
-| 2026-10-07 | [最近惦念 20260928](https://z.arlmy.me/posts/TILs/thoughts/20260928_Recently/) | 「只做，一件事情。」 |
-| 2026-10-07 | [最近惦念 20260917](https://z.arlmy.me/posts/TILs/thoughts/20260917_Recently/) | 「这里曾经有一个人。」 |
-| 2026-10-07 | [入蜀记 day497 文竹换土、林简七、任性](https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_497/) | 「文竹换土、林简七、任性。」 |
-| 2026-10-07 | [入蜀记 day496 炸葱油](https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_496/) | 「炸葱油。」 |
-| 2026-10-07 | [入蜀记 day495 服务费、coser、人生换位](https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_495/) | 「服务费、coser、人生换位。」 |
-| 2026-10-07 | [Quake II updated](https://macsourceports.com/game/quake2) | The build of Quake II RTX: Metal for Quake II has been updated to version 1.0 of the project |
-| 2026-10-07 | [Star Wars: TIE Fighter updated](https://macsourceports.com/game/swtiefighter) | The build of OpenTIE for Star Wars: TIE Fighter has been updated to version v0.0.7 of the project |
-| 2026-10-07 | [那就活着](https://mobius.blog/25838.html) | 1652 &#124; 自杀后的同情标准与理解原则 这两天某公司正值人生发展上升趋于平稳时期（如果直接说“40岁”感觉又 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 
 ## Vibe Coding
 
