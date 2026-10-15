@@ -28,6 +28,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | Date | Title | Summary |
 | --- | --- | --- |
 | 2026-10-15 | [学习周刊-总第285期-2026年第42周](https://wiki.eryajf.net/pages/6be37e/) | 如要阅读全文，点击标题跳转。 学习周刊-总第285期 ｜ YCode ｜ MacTools ｜ LockIME ｜ OnePagent ｜ maple ｜ vorssaint-utils ｜ trinity |
+| 2026-10-15 | [第十届网络社会年会新加坡特别场 开场致词](https://caa-ins.org/archives/13447) | 2025年11月28日至29日，第十届网络社会年会新加坡场作为 新加坡管理大学（SMU）Web3Week（11月27日至30日）的特别策划活动，在新加坡管理大学（SMU）义安公司礼堂（The Ngee Ann Kongsi Auditorium）举办。本届年会新加坡场由新加坡管理大学计算与信息系统学… |
 | 2026-10-15 | [入蜀记 day504 周期时间观、我都爱、低端定位](https://z.arlmy.me/posts/BBBPandINSW/INSW-deep/INSW_504/) | 「周期时间观、我都爱、低端定位。」 |
 | 2026-10-15 | [入蜀记 day503 民族大学和人类学](https://z.arlmy.me/posts/BBBPandINSW/INSW-deep/INSW_503/) | 「民族大学和人类学。」 |
 | 2026-10-15 | [入蜀记 day502 补牙、不介意我消失、记住夏乌拉、平东CP](https://z.arlmy.me/posts/BBBPandINSW/INSW-deep/INSW_502/) | 「补牙、不介意我消失、记住夏乌拉、平东CP。」 |
