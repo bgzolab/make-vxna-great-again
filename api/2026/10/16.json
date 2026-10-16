@@ -1,5 +1,40 @@
 [
   {
+    "title": "Ambermoon updated",
+    "url": "https://macsourceports.com/game/ambermoon",
+    "date": "2026-10-16T21:36:26Z",
+    "description": "The build of Ambermoon.net for Ambermoon has been updated to version v1.14.1 of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "Lemmings updated",
+    "url": "https://macsourceports.com/game/lemmings",
+    "date": "2026-10-16T21:36:26Z",
+    "description": "The build of Ultimate Lemmings for Lemmings has been updated to version v2.0.3 of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "Quetoo updated",
+    "url": "https://macsourceports.com/game/quetoo",
+    "date": "2026-10-16T21:36:26Z",
+    "description": "The build of Quetoo has been updated to version v1.0.128 of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "SimCity 2000 updated",
+    "url": "https://macsourceports.com/game/simcity2000",
+    "date": "2026-10-16T21:36:26Z",
+    "description": "The build of OpenSC2K for SimCity 2000 has been updated to version v0.3.0 of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "Total Annihilation updated",
+    "url": "https://macsourceports.com/game/totalannihilation",
+    "date": "2026-10-16T21:36:26Z",
+    "description": "The build of Open Annihilation for Total Annihilation has been updated to version v0.8.1 of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
     "title": "Aliens versus Predator updated",
     "url": "https://macsourceports.com/game/avp",
     "date": "2026-10-16T16:43:02Z",
@@ -173,13 +208,6 @@
     "date": "2026-10-15T05:07:46Z",
     "description": "「一种散步。」",
     "source_root_domain": "arlmy.me"
-  },
-  {
-    "title": "Lemmings updated",
-    "url": "https://macsourceports.com/game/lemmings",
-    "date": "2026-10-15T03:36:04Z",
-    "description": "The build of Ultimate Lemmings for Lemmings has been updated to version v1.9.7 of the project",
-    "source_root_domain": "macsourceports.com"
   },
   {
     "title": "介绍两位歌王",

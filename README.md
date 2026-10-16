@@ -27,6 +27,11 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-10-16 | [Ambermoon updated](https://macsourceports.com/game/ambermoon) | The build of Ambermoon.net for Ambermoon has been updated to version v1.14.1 of the project |
+| 2026-10-16 | [Lemmings updated](https://macsourceports.com/game/lemmings) | The build of Ultimate Lemmings for Lemmings has been updated to version v2.0.3 of the project |
+| 2026-10-16 | [Quetoo updated](https://macsourceports.com/game/quetoo) | The build of Quetoo has been updated to version v1.0.128 of the project |
+| 2026-10-16 | [SimCity 2000 updated](https://macsourceports.com/game/simcity2000) | The build of OpenSC2K for SimCity 2000 has been updated to version v0.3.0 of the project |
+| 2026-10-16 | [Total Annihilation updated](https://macsourceports.com/game/totalannihilation) | The build of Open Annihilation for Total Annihilation has been updated to version v0.8.1 of the project |
 | 2026-10-16 | [Aliens versus Predator updated](https://macsourceports.com/game/avp) | The build of NakedAVP for Aliens versus Predator has been updated to version 1.3.1 of the project |
 | 2026-10-16 | [公众号助手app测试 &#124; 贴图和封面](https://dsx2016.com/official-account-assistant-app-testing-stickers-and-cover-images/) | 微信贴图 公众号助手app上显示已自动将文章转为贴图，点击查看，可以跳转到贴图编辑界面 简单设置后，可点击发表... 公众号助手app测试 &#124; 贴图和封面 最先出现在 大师兄2016 。 |
 | 2026-10-16 | [公众号助手app更新 &#124; 支持文章发表后转为贴图](https://dsx2016.com/official-account-assistant-app-update-supports-converting-published-articles-into-image-posts/) | 公众号助手 一段时间没有关注，公众号助手又更新了一些功能 尤其是文章发表后支持转为贴图，这一段时间都是手机编辑... 公众号助手app更新 &#124; 支持文章发表后转为贴图 最先出现在 大师兄2016 。 |
@@ -52,7 +57,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-10-15 | [刚结完婚，分享一个为了婚礼临时 vibe 出来的照片相册](https://www.qs5.org/Post/788.html) | 创意来自我对象。她说，来了这么多宾客，大家都有手机，也会拍下不少照片，但怎么把这些照片收集起来呢？于是就有了这个项目：把二维码放在海报和 LED 屏幕上，宾客扫码就能上传自己拍的照片，留下各自视... |
 | 2026-10-15 | [哇，这个我也想要！！！](https://versun.me/blog/tweet-2110619737202033046) | SlashVibe Get Early Bird Access now！ $249 ➡️ $149 Lock in the $149 Kickstarter price with $1 （fully refundable） https://slashvibe.ai/earlybird?share=l… |
 | 2026-10-15 | [摘：《Monsieur Teste》](https://z.arlmy.me/posts/Note/Note_PaulValery_MonsieurTeste/) | 「一种散步。」 |
-| 2026-10-15 | [Lemmings updated](https://macsourceports.com/game/lemmings) | The build of Ultimate Lemmings for Lemmings has been updated to version v1.9.7 of the project |
 | 2026-10-15 | [介绍两位歌王](https://www.hecaitou.com/2026/10/meet-two-kings-of-song.html) | 最近在网上偶然遇见了两位殿堂级歌王，选 CD 的时候看到他们的专辑封面，让我感觉到一种诡异的熟悉，但我又的确不认识他们。 一位是 Mikhail Bennett，灵魂歌王，面相非常沧桑的一位美国西部老人，拥有一把老烟枪嗓子，主要是弹唱乡村歌曲，内容多为讲述他破碎的一生，什么儿子死了一类的事情。 另一… |
 | 2026-10-15 | [一个人的异托邦 I](https://mobius.blog/25915.html) | “异托邦”，原意指“异质空间”，是法国哲学家米歇尔·福柯提出的概念。简单来说，异托邦是现实存在的“世界”，然而 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-10-15 | [工作的节奏](https://hux.ink/posts/the-rhythm-of-work/) | 昨天下班比平时晚了一点。 我回到家时，爸妈已经吃完晚饭，见我还没回来，就带着孩子在小区楼下玩。后来我到了，把孩子领上楼准备写作业。 我爸见到我，问了一句：“今天怎么这么晚？” 我说，加了一会儿班，晚下班了半个小时。 他接着说，大意是：“前段时间出去玩了那么久，现在是不是要把落下的工作补回来。” 他说… |
@@ -95,7 +99,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-10-13 | [来澳洲之前，值得提前想清楚的四件事](https://www.ozexplorers.com/%E6%BE%B3%E6%B4%B2%E7%94%9F%E6%B4%BB/2026/10/13/four-things-to-consider-before-moving-to-australia.md.html) | 最近不少人趁着国庆假期来澳洲旅游，发的内容无外乎碧海晴天、袋鼠考拉、自由快乐，再感叹一句： |
 | 2026-10-13 | [AI 时代下的 App 乱象](https://gaoyu.me/blog/35-app-promotion) | 过去是从零到一最难，现在是从一到一百最难。 |
 | 2026-10-12 | [Wolfenstein: Enemy Territory updated](https://macsourceports.com/game/wolfet) | The build of ET: Legacy for Wolfenstein: Enemy Territory has been updated to version 2.86.2 of the project |
-| 2026-10-12 | [Quetoo updated](https://macsourceports.com/game/quetoo) | The build of Quetoo has been updated to version v1.0.127 of the project |
 | 2026-10-12 | [Crispy Doom updated](https://macsourceports.com/sourceport/crispydoom) | The build of Crispy Doom for the DOOM engine series of games has been updated to version crispy-doom-7.2 of the project\n\nhttps://macsourceports.com/… |
 | 2026-10-12 | [Quake updated](https://macsourceports.com/game/quake) | The build of vkQuake for Quake has been updated to version 1.37.0 of the project |
 | 2026-10-12 | [Goodman Casino Mobile Experience: Schnelle Spins und Sofortentscheidungen](https://wujie.me/goodman-casino-mobile-experience-schnelle-spins-und-sofortentscheidungen/) | Es gibt einen bestimmten Rhythmus beim Spielen von Slot … 继续阅读 Goodman Casino Mobile Experience: Schnelle Spins und Sofortentscheidungen |
@@ -158,9 +161,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-10-10 | [Plants vs. Zombies updated](https://macsourceports.com/game/pvz) | The build of PvZ Portable for Plants vs. Zombies has been updated to version 0.2.5 of the project |
 | 2026-10-10 | [AI 早报 2026-10-11：Mistral 发布万亿参数开放权重模型 Large 4「Le Chonk」，10 月底开源权重](https://www.jtxyh.com/daily/2026-10-11/) | 2026-10-11 AI 早报，共 30 条动态。10 月 6 日，法国 Mistral AI 开启旗舰模型 Large 4 公开预览，预览 API 已上线，承诺 10 月 27 日前放出可下载权重。10 月 7 日，湾区创业公司 Atomic Machines 结束 6 年隐身，推出 AI 原生… |
 | 2026-10-10 | [Google Cloud 免费层 e2-micro 实例配置与 WireGuard 专网搭建](https://programnotes.cn/free-server-gcp-free-tier-wireguard-setup/index.html) | 本文记录在 Google Cloud (GCP) 申请永久免费（Free Tier）e2-micro 实例，并通过配置 SSH 密钥与搭建 WireGuard 专有网络的极简实践流程。 <a href= |
-| 2026-10-10 | [SimCity 2000 updated](https://macsourceports.com/game/simcity2000) | The build of OpenSC2K for SimCity 2000 has been updated to version v0.3.0 of the project |
 | 2026-10-10 | [RollerCoaster Tycoon 2 updated](https://macsourceports.com/game/rct2) | The build of OpenRCT2 for RollerCoaster Tycoon 2 has been updated to version v0.5.6 of the project |
-| 2026-10-10 | [Total Annihilation updated](https://macsourceports.com/game/totalannihilation) | The build of Open Annihilation for Total Annihilation has been updated to version v0.7.4 of the project |
 | 2026-10-10 | [最难的🇯🇵幼儿园儿歌](https://springwood.me/difficult-toddler-songs/) | （摘要）《虫の声》是一首经典的🇯🇵幼儿园儿歌，但里面出现了五种虫的名字，对于不熟悉虫的人来说是重大挑战。 |
 | 2026-10-10 | [初次见面的及格线](https://blog.solazy.me/20261010/) | 我又要开始给别人打标签了 |
 | 2026-10-10 | [哈？推特出了个“呼叫”功能，不是电话，可](https://versun.me/blog/tweet-2108889487921258818) | 哈？推特出了个“呼叫”功能，不是电话，可以在线开会议 |
