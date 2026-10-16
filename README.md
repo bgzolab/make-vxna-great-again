@@ -27,7 +27,12 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-10-16 | [一个人的异托邦 II](https://mobius.blog/25920.html) | 接着昨天的话题，“异托邦”是现实存在的“世界”，然而这些世界因为存在某种规则，区隔了现实的部分。例如监狱、学校 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
+| 2026-10-16 | [Memos: 精通 Web Archive 的跷脚网友](https://blog.yasking.org/a/1792114181) | “多亏了这笔贷款，不然我真不知道该怎么交上今年的社保！”，2025-06-19 发布在湖北省人社厅的转载文章，一年多后火了。 抱着学习的 … |
+| 2026-10-16 | [出去玩又要花钱](https://hux.ink/posts/double-loss/) | 接着昨天那件事再想，我感觉我爸那句话里，可能还不只是对“工作为什么会积下来”的理解不同，多少也夹杂着一点对我请假出去玩的不认同。 在他的观念里，请假本身就意味着少干活，少干活可能意味着少挣钱。出去旅游又是另一笔支出，交通、住宿、吃饭、门票，样样都要花钱。 所以从他的角度看，长时间请假出去玩，很容易变… |
+| 2026-10-16 | [科技爱好者周刊（第 415 期）：3D 版《看不见的城市》](http://www.ruanyifeng.com/blog/2026/10/weekly-issue-415.html) | 这里记录每周值得分享的科技内容，周五发布。 本杂志 开源 ，欢迎 投稿 。另有 《谁在招人》 服务，发布程序员招聘信息。合作请 邮件联系 （yifeng.ruan@gmail.com）。 封面图 湖北咸宁梓山湖度假区的美术馆。（ via ） 3D 版《看不见的城市》 意大利小说家卡尔维诺有一本著名的… |
 | 2026-10-15 | [油管｜AI视频工作流从文稿转字幕和配音](https://dsx2016.com/youtube-ai-video-workflow-from-script-to-subtitles-and-voiceover/) | AI视频工作流 目前实现三种字幕工作流 一种是自己的音频配音被翻译为字幕 一种是ai根据视频或者抽帧生成字幕 ... 油管｜AI视频工作流从文稿转字幕和配音 最先出现在 大师兄2016 。 |
+| 2026-10-15 | [SFC 游戏：高桥名人之大冒险岛二代（Takahashi Meijin no Dai-Bouken-jima II）](https://springwood.me/sfc-takahashi-meijin-no-dai-bouken-jima-ii/) | （摘要）这是本系列在16位机上的最后一作，画面和玩法不错，就是BOSS比较难打，需要弄点好武器。 |
 | 2026-10-15 | [人生切割](https://tianheg.co/posts/life-severance/) | 下班，洗澡，坐到电脑前 回想今天，我疲惫的一天 早八晚十，这是我的工作时段 晚十早八，这是我的生活时段 |
 | 2026-10-15 | [学习周刊-总第285期-2026年第42周](https://wiki.eryajf.net/pages/6be37e/) | 如要阅读全文，点击标题跳转。 学习周刊-总第285期 ｜ YCode ｜ MacTools ｜ LockIME ｜ OnePagent ｜ maple ｜ vorssaint-utils ｜ trinity |
 | 2026-10-15 | [第十届网络社会年会新加坡特别场 开场致词](https://caa-ins.org/archives/13447) | 2025年11月28日至29日，第十届网络社会年会新加坡场作为 新加坡管理大学（SMU）Web3Week（11月27日至30日）的特别策划活动，在新加坡管理大学（SMU）义安公司礼堂（The Ngee Ann Kongsi Auditorium）举办。本届年会新加坡场由新加坡管理大学计算与信息系统学… |
@@ -35,10 +40,12 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-10-15 | [入蜀记 day503 民族大学和人类学](https://z.arlmy.me/posts/BBBPandINSW/INSW-deep/INSW_503/) | 「民族大学和人类学。」 |
 | 2026-10-15 | [入蜀记 day502 补牙、不介意我消失、记住夏乌拉、平东CP](https://z.arlmy.me/posts/BBBPandINSW/INSW-deep/INSW_502/) | 「补牙、不介意我消失、记住夏乌拉、平东CP。」 |
 | 2026-10-15 | [刚结完婚，分享一个为了婚礼临时 vibe 出来的照片相册](https://www.qs5.org/Post/788.html) | 创意来自我对象。她说，来了这么多宾客，大家都有手机，也会拍下不少照片，但怎么把这些照片收集起来呢？于是就有了这个项目：把二维码放在海报和 LED 屏幕上，宾客扫码就能上传自己拍的照片，留下各自视... |
+| 2026-10-15 | [哇，这个我也想要！！！](https://versun.me/blog/tweet-2110619737202033046) | SlashVibe Get Early Bird Access now！ $249 ➡️ $149 Lock in the $149 Kickstarter price with $1 （fully refundable） https://slashvibe.ai/earlybird?share=l… |
 | 2026-10-15 | [摘：《Monsieur Teste》](https://z.arlmy.me/posts/Note/Note_PaulValery_MonsieurTeste/) | 「一种散步。」 |
 | 2026-10-15 | [Lemmings updated](https://macsourceports.com/game/lemmings) | The build of Ultimate Lemmings for Lemmings has been updated to version v1.9.7 of the project |
 | 2026-10-15 | [介绍两位歌王](https://www.hecaitou.com/2026/10/meet-two-kings-of-song.html) | 最近在网上偶然遇见了两位殿堂级歌王，选 CD 的时候看到他们的专辑封面，让我感觉到一种诡异的熟悉，但我又的确不认识他们。 一位是 Mikhail Bennett，灵魂歌王，面相非常沧桑的一位美国西部老人，拥有一把老烟枪嗓子，主要是弹唱乡村歌曲，内容多为讲述他破碎的一生，什么儿子死了一类的事情。 另一… |
 | 2026-10-15 | [一个人的异托邦 I](https://mobius.blog/25915.html) | “异托邦”，原意指“异质空间”，是法国哲学家米歇尔·福柯提出的概念。简单来说，异托邦是现实存在的“世界”，然而 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
+| 2026-10-15 | [工作的节奏](https://hux.ink/posts/the-rhythm-of-work/) | 昨天下班比平时晚了一点。 我回到家时，爸妈已经吃完晚饭，见我还没回来，就带着孩子在小区楼下玩。后来我到了，把孩子领上楼准备写作业。 我爸见到我，问了一句：“今天怎么这么晚？” 我说，加了一会儿班，晚下班了半个小时。 他接着说，大意是：“前段时间出去玩了那么久，现在是不是要把落下的工作补回来。” 他说… |
 | 2026-10-14 | [Insaniquarium updated](https://macsourceports.com/game/insaniquarium) | The build of Insaniquarium Portable for Insaniquarium has been updated to version 0.4 of the project |
 | 2026-10-14 | [AI 早报 2026-10-15：10.15总结；阶跃星辰开放Step 5 Preview模型权重，支持100万token上下文](https://www.jtxyh.com/daily/2026-10-15/) | 2026-10-15 AI 早报，共 25 条动态。本期重点是模型开放、算力投入与智能体治理。阶跃星辰10月15日开放Step 5 Preview模型权重并发布技术博客。台积电10月15日公布2026年第三季度业绩：净利润7630.6亿新台币，同比增长68.7%，创季度新高；每股收益29.43新台币… |
 | 2026-10-14 | [2006，带着手册去装服务器](https://www.tortorse.com/archives/installing-servers-with-a-manual-2006/) | 带着安装手册在机房安装服务器 |
@@ -49,7 +56,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-10-14 | [太好用，意图分流特别适合 agent，我](https://versun.me/blog/tweet-2110189979540635938) | Versun 最近在给 magpie 设置“意图分流”功能， 让 hermes 简单对比了 cloudflare 的 clef flash 和本地部署 clef flash 4bit的差异，供大家参考 TLDR：准确度没差，相应慢 0.8s，更稳定，可本地部署使用 太好用，意图分流特别适合 agen… |
 | 2026-10-14 | [陷阱悲剧 II](https://mobius.blog/25910.html) | 继续昨天的话题，既然“陷阱喜剧”的乐趣在于： 那用这个逻辑也可以制作悲剧吗？悲剧并不一定是让人难过，也可以是完 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-10-14 | [为什么做加密货币的钱包产品很难赚钱](https://smallyu.net/2026/10/14/%E4%B8%BA%E4%BB%80%E4%B9%88%E5%81%9A%E5%8A%A0%E5%AF%86%E8%B4%A7%E5%B8%81%E7%9A%84%E9%92%B1%E5%8C%85%E4%BA%A7%E5%93%81%E5%BE%88%E9%9A%BE%E8%B5%9A%E9%92%B1/) | 我有过几段加密货币钱包开发的经历。后来回过头看，我越来越确信一件事： 做加密货币钱包，是整个 Web3 |
-| 2026-10-14 | [低成本自建阿里云函数计算FC+OSS图床](https://krya.com/post/oss/) | 源码： https://github.com/ezzty/oss-upload 先说三件事： 本图床最简易的安装方式是通过 AI 安装，你把源码链接丢给它，让 AI 审核、改功能，指导安装。 本文所有 AccessKey 、密码、域名、Bucket 名 都是占位符 ，照抄前请替换成你自己的。 代码是… |
+| 2026-10-14 | [低成本自建阿里云函数计算FC+OSS图床](https://krya.com/post/oss/) | 先说三件事： 本图床功能简单，配置容易，足够安全；如果不够用，源码丢给Ai，极易增删功能。 本文所有 AccessKey 、密码、域名、Bucket 名都是占位符，照抄前请替换成你自己的。 代码是单文件 Node.js（约 380 行），依赖通过 FC 层（Layer） 注入，业务代码零硬编码，全部… |
 | 2026-10-14 | [近两年我使用过的相机](https://bluepika.life/blog/cameras-i-used-in-the-past-two-years) | 回顾近两年用过的数码与胶片相机，以及最终选择尼康 Zf 的理由。 |
 | 2026-10-13 | [拆解四柱五行--自测篇](https://blog.zzbd.org/miao20261014/) | 公历： 1986 年 12 月 29 日 01:00 ，丑时（1:00–3:00） 四柱： 丙寅 庚子 丁未 辛丑 日主： 丁火（你本人，丁灯之火，烛火、星光，不是烈火） |
 | 2026-10-13 | [五行的核心](https://blog.zzbd.org/miao20261014-3/) | 一是“五行”的基本思想与运用，二是“周易”的核心观念与结构。二者在中国哲学里是互通的：都在回答“世界是什么样”“变化有什么规律”“人应当怎样处世”这三大问题。 |
@@ -171,16 +178,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-10-09 | [博客时光机 2.0 前端篇：把时间装进一台 Macintosh](https://liudon.com/posts/hugo-ipfs-time-machine-v2-frontend/) | 上一篇《 博客时光机 2.0 后端篇：构建可视索引 》讲了后端的实现，如何把完整的 CID 构建历史整理成一条真正有意义的「可视时间线」。 后端提前生成好了可视索引，前端只需要按索引展示就好了，但如何实现前端的效果也是折腾了一番。 |
 | 2026-10-09 | [Revisiting SCSS in Emacs: tree-sitter-scss, scss2-mode and emmet2-mode](https://peiwen.lu/posts/tree-sitter-scss) | Why I picked up a Tree-sitter grammar for SCSS again after three and a half years, and the two Emacs packages that grew out of it. |
 | 2026-10-09 | [极速聊 Nintendo Direct 260909](https://bluepika.life/blog/nintendo-direct-260909-quick-chat) | 简单记录一下这次 Nintendo Direct 里出现的游戏，以及直播时的一些即时感想。 |
-| 2026-10-08 | [我写了一套视频内容解析的 skill](https://blog.solazy.me/20261008/) | 确实是自己有需求，以后会把更多自写自用的 skill 开放出来 |
-| 2026-10-08 | [科技爱好者周刊（第 414 期）：Jev 决策模型有什么用](http://www.ruanyifeng.com/blog/2026/10/weekly-issue-414.html) | 这里记录每周值得分享的科技内容，周五发布。 本杂志 开源 ，欢迎 投稿 。另有 《谁在招人》 服务，发布程序员招聘信息。合作请 邮件联系 （yifeng.ruan@gmail.com）。 封面图 国产首列数字地铁列车 VELLINK，完全无人驾驶，车头改成了大幅玻璃，用于观光。（ via ） Jev… |
-| 2026-10-08 | [油管封面图和去除人声保留背景音](https://dsx2016.com/youtube-thumbnail-and-vocal-removal-isolating-the-background-audio/) | 油管封面图 为了油管封面，让ai写了一个python离线包 启动后会打开一个网页，网页可以选择本地视频，然后对... 油管封面图和去除人声保留背景音 最先出现在 大师兄2016 。 |
-| 2026-10-08 | [学习周刊-总第284期-2026年第41周](https://wiki.eryajf.net/pages/fdfe24/) | 如要阅读全文，点击标题跳转。 学习周刊-总第284期 ｜ manifest ｜ iContainer ｜ open-note ｜ dbops ｜ skill-zoo ｜ CoPet ｜ renewlet |
-| 2026-10-08 | [OneKey Pro 2： 再次进化的旗舰硬件钱包](https://song.al/onekeypro2) | 购买链接 欢迎通过下面购买链接购买 Onekey Pro2 ： 专属链接： https://onekey.so/r/SIMON/shop 🧧频道福利：通过本链接下单，我将返还订单金额的 10% 给你，下单后请私信 Telegram 机器人 @appdobot Onekey是什么？ 在正式开箱前，我们… |
-| 2026-10-08 | [Tutti 应该是国内唯一做 X Tre](https://versun.me/blog/tweet-2108090760772128927) | Tutti 对于出海品牌来说，最稀缺的东西之一，是全球注意力。 而 𝕏 Trending，是获取全球注意力的重要方式。 进入 Trending，获得的不只是榜单上的一个位置，更意味着品牌、产品和故事进入更大范围的公共讨论，获得全球用户、创作者和潜在客户的关注。 过去一个月，Tutti 做出了 7 次… |
-| 2026-10-08 | [极限拉扯出好价](https://www.hecaitou.com/2026/10/The-Price-Tug-of-War.html) | 最近验证了我的一条网购心得，那就是：极限拉扯出便宜。 前几天我展示了一张我在网上淘来的便宜 CD，花了我 25 块钱不到，却是一张很好的专辑，我甚至感慨说「古典音乐 CD 贱如泥」。有读者立即按图索骥，发现最便宜的一张也要 60 块。看到这个价格，我回去看了看我的那一张 CD，还有存货，价格还是 2… |
-| 2026-10-08 | [292、寒露](https://1900.live/292-han-lu/) | null 露华初白，金风转肃，天地在澄清与敛藏之间，拉满了一张无形的清寒之弓。 太阳行至黄经195°，寒露——秋之第五序，亦为深秋之门庭。 寒侵草木，万物知霜。鸿雁来宾，最后的队列以“人”字掠过南天的肃云，写下迁徙的终章；雀入大水为蛤，雀鸟隐入沧波，将踪迹藏进贝壳的纹络深处；菊有黄华，群芳谢尽之后，… |
-| 2026-10-08 | [什么值得写？](https://mobius.blog/25841.html) | 前段时间收到一则留言，就是简单问了一个简单的问题：什么值得写？ 没有上下文地来这样一句话，我反而不知道怎么回答 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
-| 2026-10-08 | [兰州三日之旅](https://gaoyu.me/blog/34-lanzhou-travel) | 国庆节出行 |
 
 ## Vibe Coding
 
