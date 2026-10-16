@@ -27,6 +27,10 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-10-16 | [Aliens versus Predator updated](https://macsourceports.com/game/avp) | The build of NakedAVP for Aliens versus Predator has been updated to version 1.3.1 of the project |
+| 2026-10-16 | [公众号助手app测试 &#124; 贴图和封面](https://dsx2016.com/official-account-assistant-app-testing-stickers-and-cover-images/) | 微信贴图 公众号助手app上显示已自动将文章转为贴图，点击查看，可以跳转到贴图编辑界面 简单设置后，可点击发表... 公众号助手app测试 &#124; 贴图和封面 最先出现在 大师兄2016 。 |
+| 2026-10-16 | [公众号助手app更新 &#124; 支持文章发表后转为贴图](https://dsx2016.com/official-account-assistant-app-update-supports-converting-published-articles-into-image-posts/) | 公众号助手 一段时间没有关注，公众号助手又更新了一些功能 尤其是文章发表后支持转为贴图，这一段时间都是手机编辑... 公众号助手app更新 &#124; 支持文章发表后转为贴图 最先出现在 大师兄2016 。 |
+| 2026-10-16 | [装了一路的那本书](https://blog.solazy.me/20261016/) | 这次出差我带了一本我很喜欢的书 |
 | 2026-10-16 | [油管｜短视频创作和数据分析](https://dsx2016.com/youtube-short-form-video-creation-and-data-analysis/) | 短视频 之前以为短视频默认有1k播放的保底，后来才发现那是只有美食短视频才有的概率 换做手工，vlog短视频，... 油管｜短视频创作和数据分析 最先出现在 大师兄2016 。 |
 | 2026-10-16 | [无用命途：食堂自选窗口，DVD倒带机](https://blog.mfwt.top/index.php/archives/1634/) | 《无用命途》，专门用来记录笔者的一些无用（甚至无厘头的）想法，且每个想法后会附带一点内容，用来介绍这个想法（及其衍生的）有关的东西。每周最多更新一次，但不保证周更，主要看想法的活跃度如何。最近正... |
 | 2026-10-16 | [激荡 2026](https://ssshooter.com/turbulent-2026/) | 记录我激荡的 2026：年初被裁员、结婚备婚、失眠与焦虑、投简历石沉大海、程序员行业内卷，最终入职一家公司却遭遇管理层混乱与拖欠工资。一个普通程序员在这一年里的真实处境与心路。 |
@@ -36,7 +40,9 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-10-16 | [出去玩又要花钱](https://hux.ink/posts/double-loss/) | 接着昨天那件事再想，我感觉我爸那句话里，可能还不只是对“工作为什么会积下来”的理解不同，多少也夹杂着一点对我请假出去玩的不认同。 在他的观念里，请假本身就意味着少干活，少干活可能意味着少挣钱。出去旅游又是另一笔支出，交通、住宿、吃饭、门票，样样都要花钱。 所以从他的角度看，长时间请假出去玩，很容易变… |
 | 2026-10-16 | [科技爱好者周刊（第 415 期）：3D 版《看不见的城市》](http://www.ruanyifeng.com/blog/2026/10/weekly-issue-415.html) | 这里记录每周值得分享的科技内容，周五发布。 本杂志 开源 ，欢迎 投稿 。另有 《谁在招人》 服务，发布程序员招聘信息。合作请 邮件联系 （yifeng.ruan@gmail.com）。 封面图 湖北咸宁梓山湖度假区的美术馆。（ via ） 3D 版《看不见的城市》 意大利小说家卡尔维诺有一本著名的… |
 | 2026-10-15 | [油管｜AI视频工作流从文稿转字幕和配音](https://dsx2016.com/youtube-ai-video-workflow-from-script-to-subtitles-and-voiceover/) | AI视频工作流 目前实现三种字幕工作流 一种是自己的音频配音被翻译为字幕 一种是ai根据视频或者抽帧生成字幕 ... 油管｜AI视频工作流从文稿转字幕和配音 最先出现在 大师兄2016 。 |
+| 2026-10-15 | [AI 早报 2026-10-16：10.16总结；中国拟将23项AI技术纳入出口目录，并启动临时出口前登记](https://www.jtxyh.com/daily/2026-10-16/) | 2026-10-16 AI 早报，共 23 条动态。本期重点是AI治理、模型开放和产业投资。商务部、科技部10月16日发布第48号公告，就新增40项技术的出口管理公开征求意见，其中23项涉及AI大模型、智能体、算力集群和信息处理，意见征集截至11月15日。 |
 | 2026-10-15 | [SFC 游戏：高桥名人之大冒险岛二代（Takahashi Meijin no Dai-Bouken-jima II）](https://springwood.me/sfc-takahashi-meijin-no-dai-bouken-jima-ii/) | （摘要）这是本系列在16位机上的最后一作，画面和玩法不错，就是BOSS比较难打，需要弄点好武器。 |
+| 2026-10-15 | [找不到路的司机](https://blog.solazy.me/20261015/) | 今天打车遇到一件趣事 |
 | 2026-10-15 | [人生切割](https://tianheg.co/posts/life-severance/) | 下班，洗澡，坐到电脑前 回想今天，我疲惫的一天 早八晚十，这是我的工作时段 晚十早八，这是我的生活时段 |
 | 2026-10-15 | [学习周刊-总第285期-2026年第42周](https://wiki.eryajf.net/pages/6be37e/) | 如要阅读全文，点击标题跳转。 学习周刊-总第285期 ｜ YCode ｜ MacTools ｜ LockIME ｜ OnePagent ｜ maple ｜ vorssaint-utils ｜ trinity |
 | 2026-10-15 | [第十届网络社会年会新加坡特别场 开场致词](https://caa-ins.org/archives/13447) | 2025年11月28日至29日，第十届网络社会年会新加坡场作为 新加坡管理大学（SMU）Web3Week（11月27日至30日）的特别策划活动，在新加坡管理大学（SMU）义安公司礼堂（The Ngee Ann Kongsi Auditorium）举办。本届年会新加坡场由新加坡管理大学计算与信息系统学… |
