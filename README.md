@@ -27,6 +27,11 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-10-17 | [It's just NEW!](https://www.lazydaily.cn/2026/10/17/19abe724-4863-4c89-9c86-dea77dfbe1d9/) | 这篇周记记录 2026-06-21 至 2026-10-17。 失踪人口回归！ 体重终于 140 斤了，最低是 139.1 斤，体脂率 19%。 从 5 月底开始减肥， |
+| 2026-10-17 | [2026.10.17](https://www.justzht.com/2026-10-17/) | 去朋友家给他过生日，刚回到家。 上周本来去和朋友去 Stanford Shopping Center 挑礼物，但突发变故，也不需要送别人东西了。来都 |
+| 2026-10-17 | [超级PPT](https://www.hecaitou.com/2026/10/The-Super-PPT.html) | 从昨天到现在，我看了很多遍二代特斯拉 Roadster 的视频。中间还抽空去调戏了我的特斯拉车主朋友：话说你的车子能飞吗？然后收获了很多关于马斯克画饼成瘾、跳票惯犯的花式抱怨。 随后我又看了很多行业分析，说这车几乎没有什么实用性，完全就是为了那空中的几秒钟做出来的道具车，然而却让续航、安全和合规性上… |
+| 2026-10-17 | [际遇无法复制](https://blog.oospace.com/posts/2026-10-17-a/) | 时代的浪潮和机遇，个人的选择，最终的效果，错过一点就追不上 |
+| 2026-10-17 | [沙雕短剧有益身心健康](https://blog.oospace.com/posts/2026-10-17/) | 本来看抽象的沙雕短剧，只是找个乐子，后来发现沙雕短剧才是真理 |
 | 2026-10-17 | [气表、门禁和米面油](https://mobius.blog/25936.html) | 前些日子，天然气公司挨家挨户换了气表。我对这件事并没有太多感触，只是觉得终于不用每月被天然气抄表员，在微信上追 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-10-16 | [Ambermoon updated](https://macsourceports.com/game/ambermoon) | The build of Ambermoon.net for Ambermoon has been updated to version v1.14.1 of the project |
 | 2026-10-16 | [Lemmings updated](https://macsourceports.com/game/lemmings) | The build of Ultimate Lemmings for Lemmings has been updated to version v2.0.3 of the project |
