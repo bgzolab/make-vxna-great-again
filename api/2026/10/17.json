@@ -1,10 +1,73 @@
 [
   {
+    "title": "入蜀记 day507 做饭与附近、哼鸣、紫美石榴",
+    "url": "https://z.arlmy.me/posts/BBBPandINSW/INSW-deep/INSW_507/",
+    "date": "2026-10-17T13:15:27Z",
+    "description": "「做饭与附近、哼鸣、紫美石榴。」",
+    "source_root_domain": "arlmy.me"
+  },
+  {
+    "title": "入蜀记 day506 悖论感、油泼面、MM",
+    "url": "https://z.arlmy.me/posts/BBBPandINSW/INSW-deep/INSW_506/",
+    "date": "2026-10-17T13:10:27Z",
+    "description": "「悖论感、油泼面、MM。」",
+    "source_root_domain": "arlmy.me"
+  },
+  {
+    "title": "入蜀记 day505 游新都桂湖宝光",
+    "url": "https://z.arlmy.me/posts/BBBPandINSW/INSW-deep/INSW_505/",
+    "date": "2026-10-17T13:06:27Z",
+    "description": "「游新都桂湖宝光。」",
+    "source_root_domain": "arlmy.me"
+  },
+  {
+    "title": "AI 为什么总是惹人议论",
+    "url": "https://kaix.in/2026/1017/",
+    "date": "2026-10-17T12:24:04Z",
+    "description": "人工智能研究员 Nick Cammarata 发表了 一篇长文 ，我英文不好，也不是技术领域专家。粗略读过，感觉意思是说：以前大家以为的神经网络不可理喻，其实是人类的认知错误——神经网络本身逻辑清晰。 拿神经网络里的一个具体神经元 4e:55 举例子，它既被猫脸激活也会被汽车前脸激活。人们误以为神经网络用高维空间搞出了猫和车的叠加态，总想区分开，找到一个专门的被猫激活的「猫神经元」。Nick 则认为完全没必要，也不必训练新模型来展开折叠区分猫和车，而是应该直接研究神经网络本身，按照神经网络的逻辑来理解，根本不存在叠加，分类清晰，猫下巴和车前脸都归属于 V 形这个几何意象类别…… 关于这篇文章，显然我远没能清晰解读它。不过，我好像突然知道为什么 AI 总是让人们欣喜又警惕、摇摆不定了。人类制造了不趁手的工具时就会改造它，让它顺手，诚然工具的材质、属性，也要选择合适的来使用，但那些是自然的规律、上帝的造物。而大语言模型，不是因为电子的属性，不是因为硬盘的材质，就只是作为人类的造物、工具本身，却需要人类学习它的逻辑，就像学习如何顺应水流、接受光照一样。欣喜或警惕，都是很自然的反应。 fin.",
+    "source_root_domain": "kaix.in"
+  },
+  {
     "title": "It's just NEW!",
     "url": "https://www.lazydaily.cn/2026/10/17/19abe724-4863-4c89-9c86-dea77dfbe1d9/",
     "date": "2026-10-17T12:06:09Z",
     "description": "这篇周记记录 2026-06-21 至 2026-10-17。 失踪人口回归！ 体重终于 140 斤了，最低是 139.1 斤，体脂率 19%。 从 5 月底开始减肥，",
     "source_root_domain": "lazydaily.cn"
+  },
+  {
+    "title": "Jazz Jackrabbit 2 updated",
+    "url": "https://macsourceports.com/game/jazzjackrabbit2",
+    "date": "2026-10-17T11:14:26Z",
+    "description": "The build of Jazz² Resurrection for Jazz Jackrabbit 2 has been updated to version 3.9.0 of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "Lemmings updated",
+    "url": "https://macsourceports.com/game/lemmings",
+    "date": "2026-10-17T11:14:26Z",
+    "description": "The build of Ultimate Lemmings for Lemmings has been updated to version v2.0.4 of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "The Show Must Go On",
+    "url": "https://blog.razrlele.com/p/2889",
+    "date": "2026-10-17T11:13:39Z",
+    "description": "中秋前一天，宇哥离职了，从宇哥招我进公司到他离职最后一天，1500多天里面一直都和我在一个组，放眼整个互联网行业，都是一个奇迹般的存在了。即使把范围放大到我三十年的人生里面，可能也就零星几个小学同学，能够和他一样长时间和我在一个最小集体单位之下。 也不是伤感，毕竟宇哥也是人生圆满，提前退休，就是这四年多“蹭”的一下就没了，我已经在北京工作了十年出头了，明年就有十天法定年假了，时间的流逝真的让人感到恍惚。 前几天打开网易云音乐，突然看到了科学史评话更新了一则告别仪式通知，我突然头皮麻了一下，点进去一听，居然真的是播客作者的遗体告别仪式，上个月博主吴京平突发脑溢血去世了，这是我网易云上唯一关注的一个播客，十年前刚工作的时候，我说我晚上失眠，同事推荐我去听郭德纲相声，后来我刷来刷去，就听上了科学史评话里面的量子力学史说，就这样吴京平老师陪伴我度过了无数个潘家园七平小隔断里的夜晚，也没有想到，他这一播居然就是十年，我这一漂，也是十年。 十年里，该经历的好像都经历了一遍，买房，买车，裁员，升职，涨薪，恋爱，失恋，变身老法师，又变身运动员，物不是，人也非。 想起了皇后乐队的「The Show Mu",
+    "source_root_domain": "razrlele.com"
+  },
+  {
+    "title": "网络问题排查的思路和技巧",
+    "url": "https://www.kawabangga.com/posts/7431",
+    "date": "2026-10-17T09:54:55Z",
+    "description": "这一篇计划很久了还没有写，今天终于开始下笔了。 许久无从下笔的原因是，网络问题排查——哦不，应该说不光网络，基 […] Continue reading...",
+    "source_root_domain": "kawabangga.com"
+  },
+  {
+    "title": "北京・沙河秋天的落日（2026）",
+    "url": "https://blog.yasking.org/a/photos-beijing-shahe",
+    "date": "2026-10-17T09:47:41Z",
+    "description": "今天周六，北京从早到晚一直在下雨，这短暂又难得的北京秋季，又要加速入冬了，在家闲着翻到 10.2 日在沙河水库拍下的 …",
+    "source_root_domain": "yasking.org"
   },
   {
     "title": "2026.10.17",
@@ -46,13 +109,6 @@
     "url": "https://macsourceports.com/game/ambermoon",
     "date": "2026-10-16T21:36:26Z",
     "description": "The build of Ambermoon.net for Ambermoon has been updated to version v1.14.1 of the project",
-    "source_root_domain": "macsourceports.com"
-  },
-  {
-    "title": "Lemmings updated",
-    "url": "https://macsourceports.com/game/lemmings",
-    "date": "2026-10-16T21:36:26Z",
-    "description": "The build of Ultimate Lemmings for Lemmings has been updated to version v2.0.3 of the project",
     "source_root_domain": "macsourceports.com"
   },
   {
