@@ -27,6 +27,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-10-17 | [气表、门禁和米面油](https://mobius.blog/25936.html) | 前些日子，天然气公司挨家挨户换了气表。我对这件事并没有太多感触，只是觉得终于不用每月被天然气抄表员，在微信上追 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-10-16 | [Ambermoon updated](https://macsourceports.com/game/ambermoon) | The build of Ambermoon.net for Ambermoon has been updated to version v1.14.1 of the project |
 | 2026-10-16 | [Lemmings updated](https://macsourceports.com/game/lemmings) | The build of Ultimate Lemmings for Lemmings has been updated to version v2.0.3 of the project |
 | 2026-10-16 | [Quetoo updated](https://macsourceports.com/game/quetoo) | The build of Quetoo has been updated to version v1.0.128 of the project |
@@ -39,7 +40,11 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-10-16 | [油管｜短视频创作和数据分析](https://dsx2016.com/youtube-short-form-video-creation-and-data-analysis/) | 短视频 之前以为短视频默认有1k播放的保底，后来才发现那是只有美食短视频才有的概率 换做手工，vlog短视频，... 油管｜短视频创作和数据分析 最先出现在 大师兄2016 。 |
 | 2026-10-16 | [无用命途：食堂自选窗口，DVD倒带机](https://blog.mfwt.top/index.php/archives/1634/) | 《无用命途》，专门用来记录笔者的一些无用（甚至无厘头的）想法，且每个想法后会附带一点内容，用来介绍这个想法（及其衍生的）有关的东西。每周最多更新一次，但不保证周更，主要看想法的活跃度如何。最近正... |
 | 2026-10-16 | [激荡 2026](https://ssshooter.com/turbulent-2026/) | 记录我激荡的 2026：年初被裁员、结婚备婚、失眠与焦虑、投简历石沉大海、程序员行业内卷，最终入职一家公司却遭遇管理层混乱与拖欠工资。一个普通程序员在这一年里的真实处境与心路。 |
+| 2026-10-16 | [看着有点像 computer use 的](https://versun.me/blog/tweet-2110986345531486673) | Cua 1/ We're reimagining your computers as shared spaces for your team and its agents. Today we're excited to share Cua Spaces Teams and Pro, built on… |
+| 2026-10-16 | [一直想折腾硬件，但没学过电路啥的，一点硬](https://versun.me/blog/tweet-2110983970351714354) | Evan (Yifeng) Wang 今天拜访了 @M5Stack 好开心！ 感受到了什么才是真正的 Hardware Lab！ 一直想折腾硬件，但没学过电路啥的，一点硬件知识没有。。。 大佬们有啥建议，怎么入门呀，折腾硬件会不会很败家😂 |
 | 2026-10-16 | [她值得](https://www.hecaitou.com/2026/10/She-Is-Worthy.html) | 她站在舞台正中说： 「生命中有各种各样的变化，有的会令人期待，比如今天站在这里拿这个奖，有的变化也可能是无法承受的悲伤，我想告诉大家要拥有面对这种变化，一定会转向正面的信心。」 我个人理解，说前半句话的是著名演员周迅，说后半句的是普通市民周女士。之所以这样说，是因为在 2012 年 11 月之前，我… |
+| 2026-10-16 | [去年在京东648买的一年 iCloud](https://versun.me/blog/tweet-2110910823468282221) | 去年在京东648买的一年 iCloud 要到期了 就只存照片，这几天按照惯例，寻找看看有没有替代品 折腾了一周，相册方面依旧只有老几样，immich、ente、mt photos等等 备份和AI功能都没啥问题，但最主要的问题就一个：微信发送照片时，无法直接在这些应用里选择，只能从系统相册里选，同步功… |
+| 2026-10-16 | [不得不说，特斯拉这车真的好帅，像玩具赛车](https://versun.me/blog/tweet-2110907813774131638) | Tesla Roadster transforms in Track Mode These aero features aren't just for looks: they provide the best passive downforce package of any road car (ap… |
 | 2026-10-16 | [一个人的异托邦 II](https://mobius.blog/25920.html) | 接着昨天的话题，“异托邦”是现实存在的“世界”，然而这些世界因为存在某种规则，区隔了现实的部分。例如监狱、学校 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-10-16 | [Memos: 精通 Web Archive 的跷脚网友](https://blog.yasking.org/a/1792114181) | “多亏了这笔贷款，不然我真不知道该怎么交上今年的社保！”，2025-06-19 发布在湖北省人社厅的转载文章，一年多后火了。 抱着学习的 … |
 | 2026-10-16 | [出去玩又要花钱](https://hux.ink/posts/double-loss/) | 接着昨天那件事再想，我感觉我爸那句话里，可能还不只是对“工作为什么会积下来”的理解不同，多少也夹杂着一点对我请假出去玩的不认同。 在他的观念里，请假本身就意味着少干活，少干活可能意味着少挣钱。出去旅游又是另一笔支出，交通、住宿、吃饭、门票，样样都要花钱。 所以从他的角度看，长时间请假出去玩，很容易变… |
@@ -174,22 +179,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-10-10 | [知盈 iAssets 更新近况：家庭共享、AI 资产分析和存款提醒](https://blog.debuginn.com/p/iassets-share/) | 大家好呀，我是 Meng小羽，好久不见～ 之前给大家介绍过我做的 家庭资产管理 APP——知盈 iAssets 。这段时间没停下来，一边自己用，一边根据大家的反馈继续改。 做这种工具还挺有意思的。刚开始觉得，把账户记进去、能看到净资产就差不多了。真用起来才发现，光把钱记清楚还不够：家人想一起看账本，… |
 | 2026-10-10 | [Python 潮流周刊#170：3.15 惰性导入落地、3.16 拟纳入增量 GC 与 ?? 运算符](https://pythoncat.top/posts/2026-10-10-weekly/) | 分享了 13 篇文章，13 个开源项目，2 则音视频，2 则热门讨论 |
 | 2026-10-10 | [所有日常消费1%返现，我办了ING这张信用卡](https://www.ozexplorers.com/%E7%BE%8A%E6%AF%9B%E6%94%BB%E7%95%A5/2026/10/10/ing-orange-one-rewards-platinum-review.html) | 之前聊到HSBC汇丰澳洲宣布关闭，2%的现金返现即将关闭。本着骑驴找马的心态，我开始寻找可以替代HSBC的银行卡。 |
-| 2026-10-09 | [AI 早报 2026-10-10：47只高增长 AI 应用概念股较年内高点回撤超30%](https://www.jtxyh.com/daily/2026-10-10/) | 2026-10-10 AI 早报，共 14 条动态。证券时报·数据宝统计，截至10月9日收盘，2026年上半年净利润同比增长30%以上（含扭亏为盈）的AI应用概念股中，有47只收盘价较年内高点回撤超过30%。扩散智能DiffuSpace 10月9日宣布近日连续完成两轮融资，由经纬创投、顺为资本、君联… |
-| 2026-10-09 | [好记性不如烂笔头](https://blog.solazy.me/20261009/) | 现在真的容易忘事儿 |
-| 2026-10-09 | [Menlo 合伙人：万亿美金公司的2%大于独角兽的15%](https://wenfeixiang.com/2026/10/menlos-venky-ganesan-in-20vc/) | 美国知名 VC 机构 Menlo Ventures 合伙人 Venky Ganesan 日前在知名科技播客 2 […] |
-| 2026-10-09 | [2026 年十一假期](https://yipai.me/post/2554.html) | 今年十一没出门，因为没什么旅游的兴趣，怕了人山人海。境外热门地方也挤满了中国人。还有个原因是娃上小一了，有点紧张怕他请假影响学习，尽管我内心深处认为应该没啥影响。因为要给娃腾空间放学习桌，十一前一周我就开始收拾书房了，此项工作持续到假期最后一天。扔了十几大袋闲置或无用的物品，才发现有很多没拆封的玩具… |
-| 2026-10-09 | [「言说」无法掌控的代码](https://www.wdssmq.com/post/20190520073.html) | 继续「不想」写的水文。。 上一篇「月报」记录的那些代码项目烧掉了当月的 Copilot 额度，还烧了不少「硅基流动」的羊毛，甚至充了 10 块钱； 后边才发现，Copilot 可以设置「额外预算」继续用，按量计费，而不用开更高一档的订阅； 我用了 1 刀出头，然而至今没收到付费通知，就不知道什么情况… |
-| 2026-10-09 | [excuse me？全套办公套装？ 不是](https://versun.me/blog/tweet-2108496001468125621) | 雷电芽衣 ELY Office Suite is finally coming! Hope it worth a star and repost! http://office.elygpui.com http://github.com/ZacharyZhang-NY/ElyOffice ELY Of… |
-| 2026-10-09 | [请不要将标签页的标题改为无意义字符](https://blog.mfwt.top/index.php/archives/1659/) | 部分博客（或者说部分站点），不知道从何时起有了一个很奇怪的习惯：在页面失去焦点（比如切换到其他标签页）之后，页面上的js会将标题修改为无意义的内容。典型的比如『页面崩溃啦』、『不要走啦』、『快回... |
-| 2026-10-09 | [定时备份 teslamate 数据](https://alanlee.fun/2026/10/09/teslamate-automatic-backup-to-s3/) | 通过 PostgreSQL 的 pg_dump、AWS S3 和 Crontab，实现 TeslaMate 驾驶数据的定时自动备份、云端存储及过期清理，确保珍贵的驾驶记录得到妥善保存。[ChatGPT 6 High] |
-| 2026-10-09 | [给 AI 公司“记账”的网站，看看他们“吹牛”了没](https://gugegt.com/ai-rank-bank-launch-promises.html) | 各家 AI 公司每天都在发布：「下个月上线」「即将开源」「逐步开放给所有人」。话都说得很满，回头核对的没几个。 于是做了 AI Rank Bank： airankbank.com 。每条发布当成一个承诺记在账上，到期看兑现没有。 |
-| 2026-10-09 | [坏人的定义](https://www.hecaitou.com/2026/10/on-defining-the-bad-person.html) | 在网上看到一个说法，判断一个人是不是坏人，不需要等到他做出什么大奸大恶的事情来，只需要看他平素如何对待一个善良的人，尤其是如何对待一个善良且弱势的人，是否会利用对方这种善良步步紧逼，是否会任意挥霍这种善意却毫不在乎，就可以直接判断。 我听完觉得很有道理，并且推论出一个关于坏人的定义：只要谁习惯性地利… |
-| 2026-10-09 | [一次 GitHub Actions 超时，追到 IPFS 基础设施的动荡](https://liudon.com/posts/github-actions-ipfs-dist-ipfs-tech/) | 前言 今天更新《 博客时光机 2.0 前端篇：把时间装进一台 Macintosh 》时，突然遇到了 GitHub Actions 执行失败。 简单看了下报错，看着是 IPFS 部分执行失败了。 以为是偶尔遇到的网络问题，重试几次还是不行。 |
-| 2026-10-09 | [我把 Apple Watch 半退役了：Google Fitbit Air 可能是最适合 AI 用户的可穿戴设备](https://www.ixiqin.com/2026/10/09/use-google-fitbit-air/) | 我把 Apple Watch 半退役了，身体记录的主力换成了 Fitbit Air。 什么是 Google F […] |
-| 2026-10-09 | [商K里的书店在卖什么书？](https://mobius.blog/25845.html) | 商K里有没有书店我并不知道，但我却知道它在卖什么书。 其实今天的文章来自于昨晚的梦，梦见在一家商K里，前台附近 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
-| 2026-10-09 | [博客时光机 2.0 前端篇：把时间装进一台 Macintosh](https://liudon.com/posts/hugo-ipfs-time-machine-v2-frontend/) | 上一篇《 博客时光机 2.0 后端篇：构建可视索引 》讲了后端的实现，如何把完整的 CID 构建历史整理成一条真正有意义的「可视时间线」。 后端提前生成好了可视索引，前端只需要按索引展示就好了，但如何实现前端的效果也是折腾了一番。 |
-| 2026-10-09 | [Revisiting SCSS in Emacs: tree-sitter-scss, scss2-mode and emmet2-mode](https://peiwen.lu/posts/tree-sitter-scss) | Why I picked up a Tree-sitter grammar for SCSS again after three and a half years, and the two Emacs packages that grew out of it. |
-| 2026-10-09 | [极速聊 Nintendo Direct 260909](https://bluepika.life/blog/nintendo-direct-260909-quick-chat) | 简单记录一下这次 Nintendo Direct 里出现的游戏，以及直播时的一些即时感想。 |
 
 ## Vibe Coding
 
