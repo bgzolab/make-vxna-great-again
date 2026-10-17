@@ -27,6 +27,8 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-10-17 | [第十届网络社会年会（新加坡场）｜文勇刚：当AI遇见区块链：迈向二者大一统理论的新视角](https://caa-ins.org/archives/13454) | 文 / 文勇刚翻译/ 李易扬校对/ 周蓬岸 本演讲是第十届网络社会年会新加坡场、暨新加坡管理大学（SMU）Web3Week（11月27日至30日）的特别策划活动“将临的网络：互为劳动与社会的重组”（The Network to Come: Inter-Labor and the Recomposit… |
+| 2026-10-17 | [油管｜美食频道的几种流量类型](https://dsx2016.com/types-of-traffic-sources-for-youtube-food-channels/) | 美食探店 主要是天南地北的旅游，到各个地方探索网红，小巷，特色的地方美食 主打一个原汁原味，风土人情，从五星级... 油管｜美食频道的几种流量类型 最先出现在 大师兄2016 。 |
 | 2026-10-17 | [入蜀记 day507 做饭与附近、哼鸣、紫美石榴](https://z.arlmy.me/posts/BBBPandINSW/INSW-deep/INSW_507/) | 「做饭与附近、哼鸣、紫美石榴。」 |
 | 2026-10-17 | [入蜀记 day506 悖论感、油泼面、MM](https://z.arlmy.me/posts/BBBPandINSW/INSW-deep/INSW_506/) | 「悖论感、油泼面、MM。」 |
 | 2026-10-17 | [入蜀记 day505 游新都桂湖宝光](https://z.arlmy.me/posts/BBBPandINSW/INSW-deep/INSW_505/) | 「游新都桂湖宝光。」 |
@@ -42,11 +44,13 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-10-17 | [际遇无法复制](https://blog.oospace.com/posts/2026-10-17-a/) | 时代的浪潮和机遇，个人的选择，最终的效果，错过一点就追不上 |
 | 2026-10-17 | [沙雕短剧有益身心健康](https://blog.oospace.com/posts/2026-10-17/) | 本来看抽象的沙雕短剧，只是找个乐子，后来发现沙雕短剧才是真理 |
 | 2026-10-17 | [气表、门禁和米面油](https://mobius.blog/25936.html) | 前些日子，天然气公司挨家挨户换了气表。我对这件事并没有太多感触，只是觉得终于不用每月被天然气抄表员，在微信上追 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
+| 2026-10-17 | [Python 潮流周刊#171：Python 3.15 正式发布、lazy 惰性导入与 frozendict 转正为内置](https://pythoncat.top/posts/2026-10-17-weekly/) | 分享了 12 篇文章，12 个开源项目，1 则音视频，2 则热门讨论 |
 | 2026-10-16 | [Ambermoon updated](https://macsourceports.com/game/ambermoon) | The build of Ambermoon.net for Ambermoon has been updated to version v1.14.1 of the project |
 | 2026-10-16 | [Quetoo updated](https://macsourceports.com/game/quetoo) | The build of Quetoo has been updated to version v1.0.128 of the project |
 | 2026-10-16 | [SimCity 2000 updated](https://macsourceports.com/game/simcity2000) | The build of OpenSC2K for SimCity 2000 has been updated to version v0.3.0 of the project |
 | 2026-10-16 | [Total Annihilation updated](https://macsourceports.com/game/totalannihilation) | The build of Open Annihilation for Total Annihilation has been updated to version v0.8.1 of the project |
 | 2026-10-16 | [Aliens versus Predator updated](https://macsourceports.com/game/avp) | The build of NakedAVP for Aliens versus Predator has been updated to version 1.3.1 of the project |
+| 2026-10-16 | [AI 早报 2026-10-17：芯片股连跌 8 个交易日，创 2015 年以来最长连跌纪录](https://www.jtxyh.com/daily/2026-10-17/) | 2026-10-17 AI 早报，共 17 条动态。半导体 ETF SOXX 连续 8 个交易日收跌，是 2015 年 9 月以来最长连跌。10月17日，DeepSeek 发布 V4.1-Flash-1017，官网、App、API 同步上线，权重同时在 Hugging Face 和 ModelSco… |
 | 2026-10-16 | [公众号助手app测试 &#124; 贴图和封面](https://dsx2016.com/official-account-assistant-app-testing-stickers-and-cover-images/) | 微信贴图 公众号助手app上显示已自动将文章转为贴图，点击查看，可以跳转到贴图编辑界面 简单设置后，可点击发表... 公众号助手app测试 &#124; 贴图和封面 最先出现在 大师兄2016 。 |
 | 2026-10-16 | [公众号助手app更新 &#124; 支持文章发表后转为贴图](https://dsx2016.com/official-account-assistant-app-update-supports-converting-published-articles-into-image-posts/) | 公众号助手 一段时间没有关注，公众号助手又更新了一些功能 尤其是文章发表后支持转为贴图，这一段时间都是手机编辑... 公众号助手app更新 &#124; 支持文章发表后转为贴图 最先出现在 大师兄2016 。 |
 | 2026-10-16 | [装了一路的那本书](https://blog.solazy.me/20261016/) | 这次出差我带了一本我很喜欢的书 |
