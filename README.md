@@ -27,6 +27,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-10-18 | [≡ 017｜代价论与选择的自由](https://mobius.blog/25924.html) | 先回顾本周的莫比乌斯。 秀肌肉是最直观的对抗，但如果对方不接招，难免就会沦为秀肌肉的“泼妇”。有趣的不是谁输谁 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-10-17 | [你看到了，就能找到](https://www.hecaitou.com/2026/10/See-It-Find-It.html) | 每次我在网上分享一点什么新入手的小玩意儿，后台就会有很多读者询问：去哪里买？ 在五年前，这的确是个问题。但在2026 年的今天早就有了答案，而且可以说是一种网络生活基本常识，就四个字：以图搜图。 但凡你在网上看到有人分享什么东西，多半是图片。即便是视频，你也可以截屏变成图片。然后在几个主流的网络购物… |
 | 2026-10-17 | [第十届网络社会年会（新加坡场）｜文勇刚：当AI遇见区块链：迈向二者大一统理论的新视角](https://caa-ins.org/archives/13454) | 文 / 文勇刚翻译/ 李易扬校对/ 周蓬岸 本演讲是第十届网络社会年会新加坡场、暨新加坡管理大学（SMU）Web3Week（11月27日至30日）的特别策划活动“将临的网络：互为劳动与社会的重组”（The Network to Come: Inter-Labor and the Recomposit… |
 | 2026-10-17 | [油管｜美食频道的几种流量类型](https://dsx2016.com/types-of-traffic-sources-for-youtube-food-channels/) | 美食探店 主要是天南地北的旅游，到各个地方探索网红，小巷，特色的地方美食 主打一个原汁原味，风土人情，从五星级... 油管｜美食频道的几种流量类型 最先出现在 大师兄2016 。 |
@@ -40,6 +41,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-10-17 | [The Show Must Go On](https://blog.razrlele.com/p/2889) | 中秋前一天，宇哥离职了，从宇哥招我进公司到他离职最后一天，1500多天里面一直都和我在一个组，放眼整个互联网行业，都是一个奇迹般的存在了。即使把范围放大到我三十年的人生里面，可能也就零星几个小学同学，能够和他一样长时间和我在一个最小集体单位之下。 也不是伤感，毕竟宇哥也是人生圆满，提前退休，就是这四… |
 | 2026-10-17 | [网络问题排查的思路和技巧](https://www.kawabangga.com/posts/7431) | 这一篇计划很久了还没有写，今天终于开始下笔了。 许久无从下笔的原因是，网络问题排查——哦不，应该说不光网络，基 […] Continue reading... |
 | 2026-10-17 | [北京・沙河秋天的落日（2026）](https://blog.yasking.org/a/photos-beijing-shahe) | 今天周六，北京从早到晚一直在下雨，这短暂又难得的北京秋季，又要加速入冬了，在家闲着翻到 10.2 日在沙河水库拍下的 … |
+| 2026-10-17 | [这么夸张的吗，新版ds 4.1 flas](https://versun.me/blog/tweet-2111383898424807533) | Yinsen md，agi！ 这么夸张的吗，新版ds 4.1 flash 这性价比无敌了 |
 | 2026-10-17 | [2026.10.17](https://www.justzht.com/2026-10-17/) | 去朋友家给他过生日，刚回到家。 上周本来去和朋友去 Stanford Shopping Center 挑礼物，但突发变故，也不需要送别人东西了。来都 |
 | 2026-10-17 | [超级PPT](https://www.hecaitou.com/2026/10/The-Super-PPT.html) | 从昨天到现在，我看了很多遍二代特斯拉 Roadster 的视频。中间还抽空去调戏了我的特斯拉车主朋友：话说你的车子能飞吗？然后收获了很多关于马斯克画饼成瘾、跳票惯犯的花式抱怨。 随后我又看了很多行业分析，说这车几乎没有什么实用性，完全就是为了那空中的几秒钟做出来的道具车，然而却让续航、安全和合规性上… |
 | 2026-10-17 | [际遇无法复制](https://blog.oospace.com/posts/2026-10-17-a/) | 时代的浪潮和机遇，个人的选择，最终的效果，错过一点就追不上 |
@@ -179,24 +181,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-10-11 | [入蜀记 day499 读者、时间戳、我爱成都](https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_499/) | 「读者、时间戳、我爱成都。」 |
 | 2026-10-11 | [入蜀记 day498 爷爷、呼吸法、服务器入侵](https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_498/) | 「爷爷、呼吸法、服务器入侵。」 |
 | 2026-10-11 | [≡ 016｜这两周莫比乌斯环转到了哪里？](https://mobius.blog/25848.html) | —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
-| 2026-10-10 | [可以通过下面的命令关掉ai功能，并删掉相](https://versun.me/blog/tweet-2109069951273439337) | GeekPlux Apple Intelligence 占用 22GB 的空间，但是一点用都没，有点可笑。 可以通过下面的命令关掉ai功能，并删掉相关模型/AI组件，收回这些空间： curl -fsSL https://raw.githubusercontent.com/omlahore/Remov… |
-| 2026-10-10 | [从乙方到甲方，网络安全职业发展需要考虑的方向与能力](https://blog.sakanano.moe/qa/cybersecurity-career) | 技术专家还是安全负责人？长期目标尚不清晰时，该积累哪些知识和技能？ |
-| 2026-10-10 | [Plants vs. Zombies updated](https://macsourceports.com/game/pvz) | The build of PvZ Portable for Plants vs. Zombies has been updated to version 0.2.5 of the project |
-| 2026-10-10 | [AI 早报 2026-10-11：Mistral 发布万亿参数开放权重模型 Large 4「Le Chonk」，10 月底开源权重](https://www.jtxyh.com/daily/2026-10-11/) | 2026-10-11 AI 早报，共 30 条动态。10 月 6 日，法国 Mistral AI 开启旗舰模型 Large 4 公开预览，预览 API 已上线，承诺 10 月 27 日前放出可下载权重。10 月 7 日，湾区创业公司 Atomic Machines 结束 6 年隐身，推出 AI 原生… |
-| 2026-10-10 | [Google Cloud 免费层 e2-micro 实例配置与 WireGuard 专网搭建](https://programnotes.cn/free-server-gcp-free-tier-wireguard-setup/index.html) | 本文记录在 Google Cloud (GCP) 申请永久免费（Free Tier）e2-micro 实例，并通过配置 SSH 密钥与搭建 WireGuard 专有网络的极简实践流程。 <a href= |
-| 2026-10-10 | [RollerCoaster Tycoon 2 updated](https://macsourceports.com/game/rct2) | The build of OpenRCT2 for RollerCoaster Tycoon 2 has been updated to version v0.5.6 of the project |
-| 2026-10-10 | [最难的🇯🇵幼儿园儿歌](https://springwood.me/difficult-toddler-songs/) | （摘要）《虫の声》是一首经典的🇯🇵幼儿园儿歌，但里面出现了五种虫的名字，对于不熟悉虫的人来说是重大挑战。 |
-| 2026-10-10 | [初次见面的及格线](https://blog.solazy.me/20261010/) | 我又要开始给别人打标签了 |
-| 2026-10-10 | [哈？推特出了个“呼叫”功能，不是电话，可](https://versun.me/blog/tweet-2108889487921258818) | 哈？推特出了个“呼叫”功能，不是电话，可以在线开会议 |
-| 2026-10-10 | [大陆漢人无需反对台独](https://sinyalee.com/blog/?p=1358) | 中共几十年如一日，利用漢人的朴素的民族主义情绪，把台独渲染成十恶不赦的事。几乎所有人都被中共洗脑了，不经思考就 […] |
-| 2026-10-10 | [培训群里192个人，这题只有2个人做对。](https://versun.me/blog/tweet-2108807251930808813) | 培训群里192个人，这题只有2个人做对。。。 这说明了什么。。。 |
-| 2026-10-10 | [他人特殊论](https://www.hecaitou.com/2026/10/the-myth-of-the-special-exception.html) | 我个人很讨厌他人特殊论，一旦听到就会立即失去沟通的兴趣。 什么是他人特殊论？我先举个例子：当初我尝试 16+8 间歇性禁食，过了一段时间之后根据自己的体会写文章介绍。留言里立即有人回复：那是因为你每天不上 12 小时班，那是因为你不需要给孩子做饭，那是因为你年纪大了不觉得饿......看明白了吧？他… |
-| 2026-10-10 | [A/ 为了封号，又新增了一条禁令： 禁止](https://versun.me/blog/tweet-2108735579911524378) | A/ 为了封号，又新增了一条禁令： 禁止虐待辱骂 claude 模型。。。 所以，各位，以后看 A/ 不爽，也不能拿 claude 模型出气了 😂 https://www.anthropic.com/news/2026-usage-policy-update |
-| 2026-10-10 | [Cloudflare 收购 Deno 了](https://versun.me/blog/tweet-2108734111494074707) | Deno We are excited to announce that Deno is joining Cloudflare! https://deno.com/blog/cloudflare Cloudflare 收购 Deno 了，恭喜！ deno 还会维护一年，之后停止开发，社区应该会接手吧… |
-| 2026-10-10 | [想不到我 2024 年黑五买的一台 vp](https://versun.me/blog/tweet-2108733110947045455) | 想不到我 2024 年黑五买的一台 vps 竟然成绝唱了。。。 这配置年付才68刀，现在行情200刀一年算便宜了吧 |
-| 2026-10-10 | [知盈 iAssets 更新近况：家庭共享、AI 资产分析和存款提醒](https://blog.debuginn.com/p/iassets-share/) | 大家好呀，我是 Meng小羽，好久不见～ 之前给大家介绍过我做的 家庭资产管理 APP——知盈 iAssets 。这段时间没停下来，一边自己用，一边根据大家的反馈继续改。 做这种工具还挺有意思的。刚开始觉得，把账户记进去、能看到净资产就差不多了。真用起来才发现，光把钱记清楚还不够：家人想一起看账本，… |
-| 2026-10-10 | [Python 潮流周刊#170：3.15 惰性导入落地、3.16 拟纳入增量 GC 与 ?? 运算符](https://pythoncat.top/posts/2026-10-10-weekly/) | 分享了 13 篇文章，13 个开源项目，2 则音视频，2 则热门讨论 |
-| 2026-10-10 | [所有日常消费1%返现，我办了ING这张信用卡](https://www.ozexplorers.com/%E7%BE%8A%E6%AF%9B%E6%94%BB%E7%95%A5/2026/10/10/ing-orange-one-rewards-platinum-review.html) | 之前聊到HSBC汇丰澳洲宣布关闭，2%的现金返现即将关闭。本着骑驴找马的心态，我开始寻找可以替代HSBC的银行卡。 |
 
 ## Vibe Coding
 
