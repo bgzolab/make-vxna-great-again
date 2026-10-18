@@ -27,7 +27,13 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-10-18 | [油管｜短视频和长视频的对比](https://dsx2016.com/comparing-youtube-short-form-and-long-form-videos/) | 短视频 越是尝试剪辑视频之类的工作，越是觉得应该优先短视频 短视频从前期的拍摄到后期的剪辑，以及上传的网络带宽... 油管｜短视频和长视频的对比 最先出现在 大师兄2016 。 |
+| 2026-10-18 | [Quetoo updated](https://macsourceports.com/game/quetoo) | The build of Quetoo has been updated to version v1.0.129 of the project |
+| 2026-10-18 | [Total Annihilation updated](https://macsourceports.com/game/totalannihilation) | The build of Open Annihilation for Total Annihilation has been updated to version v0.8.3 of the project |
+| 2026-10-18 | [emacs-保存ediff结果为带字符级高亮的src-block](https://blog.prayhand13013.top/20261018T185247--emacs-保存ediff结果为带字符级高亮的src-block__blog.html) |  |
+| 2026-10-18 | [What’s next for the indie web?](https://www.geedea.pro/en/article/weepinbell/) | I have been blogging in English for some time, but this is my first time participating in an indie web conversation. So I think I should introduce mys… |
 | 2026-10-18 | [第十届网络社会年会（新加坡场）｜将临的网络？电影制作、Web3与网络化社会的未来](https://caa-ins.org/archives/13481) | 文 / 迪伦·雷比林（Dylan Reibling）翻译 / 井俱进校对 / 叶云鹤 感谢温教授的精彩演讲。接下来换我发言，恐怕就没那么有深度了。 这实际上是我的第二次 PowerPoint 演示。第一次是在上海。所以如果现在看起来有些粗糙，你们就知道原因了。不过，非常感谢你们邀请我来这里。 我在上… |
+| 2026-10-18 | [箱根之旅](https://www.wikimoe.com/post/b-tn3backb) | 2026年10月10日到12日，天气晴，今天我们去箱根！ 在群里的小伙伴们可能已经知道了。 我最近交往了对象。 这次的箱根之旅就是她在得知我居然还没去过箱根后，制定的旅游计划。 真的非常感谢呢！ 小田急 山之酒店 小田急山之酒店坐落于日本箱根芦之湖畔，前身为三菱岩崎家族的私人别墅，是一家历史悠久、充… |
 | 2026-10-18 | [Coffee Break Clojure, Transducer](https://www.geedea.pro/article/clj8/) | 在第三期《 只用圆括号怎么够？ 》里，我讲到了 reduce 。 先来简单复习一下： reduce 最少接收两个参数，形如 (reduce f coll) ，其中 f 是接收两个参数的函数，形如 (f x y) ； reduce 遍历 coll 中的每个元素，先对前两个元素求 (f a1 a2) ，… |
 | 2026-10-18 | [≡ 017｜代价论与选择的自由](https://mobius.blog/25924.html) | 先回顾本周的莫比乌斯。 秀肌肉是最直观的对抗，但如果对方不接招，难免就会沦为秀肌肉的“泼妇”。有趣的不是谁输谁 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-10-18 | [2026年第41、42周](https://blog.sakoamc.com/posts/264142/) | 题记：二零二六年第四十一、四十二周，时间过得又快又慢。时间，更多的被分配到了什么地方呢？ |
@@ -54,9 +60,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-10-17 | [气表、门禁和米面油](https://mobius.blog/25936.html) | 前些日子，天然气公司挨家挨户换了气表。我对这件事并没有太多感触，只是觉得终于不用每月被天然气抄表员，在微信上追 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-10-17 | [Python 潮流周刊#171：Python 3.15 正式发布、lazy 惰性导入与 frozendict 转正为内置](https://pythoncat.top/posts/2026-10-17-weekly/) | 分享了 12 篇文章，12 个开源项目，1 则音视频，2 则热门讨论 |
 | 2026-10-16 | [Ambermoon updated](https://macsourceports.com/game/ambermoon) | The build of Ambermoon.net for Ambermoon has been updated to version v1.14.1 of the project |
-| 2026-10-16 | [Quetoo updated](https://macsourceports.com/game/quetoo) | The build of Quetoo has been updated to version v1.0.128 of the project |
 | 2026-10-16 | [SimCity 2000 updated](https://macsourceports.com/game/simcity2000) | The build of OpenSC2K for SimCity 2000 has been updated to version v0.3.0 of the project |
-| 2026-10-16 | [Total Annihilation updated](https://macsourceports.com/game/totalannihilation) | The build of Open Annihilation for Total Annihilation has been updated to version v0.8.1 of the project |
 | 2026-10-16 | [Aliens versus Predator updated](https://macsourceports.com/game/avp) | The build of NakedAVP for Aliens versus Predator has been updated to version 1.3.1 of the project |
 | 2026-10-16 | [AI 早报 2026-10-17：10.17总结；DeepSeek 更新 V4.1-Flash，公布编程测试成绩并开放搜索 API](https://www.jtxyh.com/daily/2026-10-17/) | 2026-10-17 AI 早报，共 18 条动态。DeepSeek 更新 V4.1-Flash 并开放搜索与网页抓取 API，公布的编程成绩仍属官方自测。10月17日，DeepSeek发布V4.1-Flash-1017，官网、App和API同步更新，并公布Hugging Face与ModelSco… |
 | 2026-10-16 | [公众号助手app测试 &#124; 贴图和封面](https://dsx2016.com/official-account-assistant-app-testing-stickers-and-cover-images/) | 微信贴图 公众号助手app上显示已自动将文章转为贴图，点击查看，可以跳转到贴图编辑界面 简单设置后，可点击发表... 公众号助手app测试 &#124; 贴图和封面 最先出现在 大师兄2016 。 |
