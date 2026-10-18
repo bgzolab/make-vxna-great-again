@@ -27,6 +27,9 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-10-18 | [周记 – Oct 18](https://zhangke.space/%e5%91%a8%e8%ae%b0-oct-18/?utm_source=rss&utm_medium=rss&utm_campaign=%25e5%2591%25a8%25e8%25ae%25b0-oct-18) | 本周去了两次健身房，骑车上班一次，爬楼梯一次，运动量应该是够了。可惜健身房淋浴间装修到月底，最近没办法骑车上班 […] The post 周记 – Oct 18 first appeared on 张可的博客 . |
+| 2026-10-18 | [Toots 441 2026 Oct.11 - Oct.17](https://z.arlmy.me/posts/MastodonArchives/2026/MastodonTootsArchives_20261017/) | 「蔑视你的思想吧。」 |
+| 2026-10-18 | [最近惦念 20261002](https://z.arlmy.me/posts/TILs/thoughts/20261002_Recently/) | 「人类概念达咩。」 |
 | 2026-10-18 | [油管｜短视频和长视频的对比](https://dsx2016.com/comparing-youtube-short-form-and-long-form-videos/) | 短视频 越是尝试剪辑视频之类的工作，越是觉得应该优先短视频 短视频从前期的拍摄到后期的剪辑，以及上传的网络带宽... 油管｜短视频和长视频的对比 最先出现在 大师兄2016 。 |
 | 2026-10-18 | [Quetoo updated](https://macsourceports.com/game/quetoo) | The build of Quetoo has been updated to version v1.0.129 of the project |
 | 2026-10-18 | [Total Annihilation updated](https://macsourceports.com/game/totalannihilation) | The build of Open Annihilation for Total Annihilation has been updated to version v0.8.3 of the project |
@@ -39,6 +42,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-10-18 | [2026年第41、42周](https://blog.sakoamc.com/posts/264142/) | 题记：二零二六年第四十一、四十二周，时间过得又快又慢。时间，更多的被分配到了什么地方呢？ |
 | 2026-10-17 | [怀念网，167 位历史人物一人一座纪念馆](https://gugegt.com/20261018-huainian-wang.html) | 9 月底我写过一篇，介绍自己做的历史人物纪念站，那时它叫高山景行。10 月 18 日，它正式改名叫怀念网，网址还是 huainian.org 。 改名的原因很实际。高山景行是个成语，你跟人提这个站名，对方转头就忘，在搜索引擎里搜这四个字，排前面的全是诗经讲解，轮不到我的站。怀念网不一样，怀念的拼音就… |
 | 2026-10-17 | [你看到了，就能找到](https://www.hecaitou.com/2026/10/See-It-Find-It.html) | 每次我在网上分享一点什么新入手的小玩意儿，后台就会有很多读者询问：去哪里买？ 在五年前，这的确是个问题。但在2026 年的今天早就有了答案，而且可以说是一种网络生活基本常识，就四个字：以图搜图。 但凡你在网上看到有人分享什么东西，多半是图片。即便是视频，你也可以截屏变成图片。然后在几个主流的网络购物… |
+| 2026-10-17 | [AI 早报 2026-10-18：10.18总结；AWS 财务负责人称 AI 投资可持续](https://www.jtxyh.com/daily/2026-10-18/) | 2026-10-18 AI 早报，共 13 条动态。本期关注模型使用、智能体安全和算力建设。Axios 10 月 16 日报道，AWS 财务负责人 John Felton 看好 AI 投资回报。OfficeChai 10 月 18 日转述 OpenCode 声明称，其正在停用的旧系统遭未授权访问，约… |
 | 2026-10-17 | [留在手里的手机](https://blog.solazy.me/20261017/) | 今天突然想看看是不是要最新款的 iPhone |
 | 2026-10-17 | [第十届网络社会年会（新加坡场）｜文勇刚：当AI遇见区块链：迈向二者大一统理论的新视角](https://caa-ins.org/archives/13454) | 文 / 文勇刚翻译/ 李易扬校对/ 周蓬岸 本演讲是第十届网络社会年会新加坡场、暨新加坡管理大学（SMU）Web3Week（11月27日至30日）的特别策划活动“将临的网络：互为劳动与社会的重组”（The Network to Come: Inter-Labor and the Recomposit… |
 | 2026-10-17 | [油管｜美食频道的几种流量类型](https://dsx2016.com/types-of-traffic-sources-for-youtube-food-channels/) | 美食探店 主要是天南地北的旅游，到各个地方探索网红，小巷，特色的地方美食 主打一个原汁原味，风土人情，从五星级... 油管｜美食频道的几种流量类型 最先出现在 大师兄2016 。 |
