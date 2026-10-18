@@ -28,6 +28,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | Date | Title | Summary |
 | --- | --- | --- |
 | 2026-10-18 | [周记 – Oct 18](https://zhangke.space/%e5%91%a8%e8%ae%b0-oct-18/?utm_source=rss&utm_medium=rss&utm_campaign=%25e5%2591%25a8%25e8%25ae%25b0-oct-18) | 本周去了两次健身房，骑车上班一次，爬楼梯一次，运动量应该是够了。可惜健身房淋浴间装修到月底，最近没办法骑车上班 […] The post 周记 – Oct 18 first appeared on 张可的博客 . |
+| 2026-10-18 | [周末流水账 1018](https://blog.solazy.me/20261018/) | 今天是一个久违的放松周日 |
 | 2026-10-18 | [Toots 441 2026 Oct.11 - Oct.17](https://z.arlmy.me/posts/MastodonArchives/2026/MastodonTootsArchives_20261017/) | 「蔑视你的思想吧。」 |
 | 2026-10-18 | [最近惦念 20261002](https://z.arlmy.me/posts/TILs/thoughts/20261002_Recently/) | 「人类概念达咩。」 |
 | 2026-10-18 | [油管｜短视频和长视频的对比](https://dsx2016.com/comparing-youtube-short-form-and-long-form-videos/) | 短视频 越是尝试剪辑视频之类的工作，越是觉得应该优先短视频 短视频从前期的拍摄到后期的剪辑，以及上传的网络带宽... 油管｜短视频和长视频的对比 最先出现在 大师兄2016 。 |
