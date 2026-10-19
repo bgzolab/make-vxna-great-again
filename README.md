@@ -27,24 +27,31 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-10-19 | [R#124 前人的树](https://blog.sakanano.moe/journals/random_124) | 2026.10.13 ~ 2026.10.19 |
+| 2026-10-19 | [Ambermoon updated](https://macsourceports.com/game/ambermoon) | The build of Ambermoon.net for Ambermoon has been updated to version v1.14.2 of the project |
+| 2026-10-19 | [Lemmings updated](https://macsourceports.com/game/lemmings) | The build of Ultimate Lemmings for Lemmings has been updated to version v2.0.7 of the project |
+| 2026-10-19 | [Quetoo updated](https://macsourceports.com/game/quetoo) | The build of Quetoo has been updated to version v1.0.130 of the project |
+| 2026-10-19 | [Splatterlight updated](https://macsourceports.com/sourceport/spatterlight) | The build of Splatterlight for the Infocom series of games has been updated to version v1.5.5 of the project\n\nhttps://macsourceports.com/sourceport/… |
+| 2026-10-19 | [恒星结构](https://physnya.top/astro-physics/lesson-4-star-structure/) | 恒星形成的 Jeans 判据：根据前面所讨论，常密度的球形气体云的引力势能为 Ω = − 3 5 G M 2 R \Omega=-\frac{3}{5}\frac{GM^2}{R} Ω = − 5 3 ​ R G M 2 ​ |
 | 2026-10-19 | [[翻译] 如何更有野心：给带着模型干活的人的教程](http://tubaozi.top/posts/2026/how-to-be-more-ambitious/) | Anthropic 的 Felix Rieseberg 把「用 AI 要有野心」拆成速度、高度、深度、广度四个方向，每个方向都给了能直接照做的具体手法。 |
 | 2026-10-19 | [迷失在丰富里](https://www.hecaitou.com/2026/10/Lost-in-Abundance.html) | 我家里买重复的东西有很多。当然可以简单解释为记忆力下降，但我自己对此有另外的想法，那就是我根本记不住我究竟拥有多少样东西。于是，曾经拥有的经历就变成了重新购买的理由---我依稀记得这样东西很好，值得拥有一件。于是我多了很多两本同样的书，两盘一样的 CD。 以前的生活不是这样的，记得我四岁的时候和我父… |
 | 2026-10-19 | [Memos: 博客新增 ‘内推岗位’ 页面](https://blog.yasking.org/a/1792373571) | 博客添加内推岗位页面： /jobs 职位包含设计、产品、技术、市场四大类，20+ 个急招岗位。 均有实际招聘需求，并非为了完成招聘指标 … |
 | 2026-10-19 | [告假](https://mobius.blog/25944.html) | 以前听过一个有些悲伤的笑话——甚至有点过时。 一个专栏作家突然想休息，就在自己每周固定栏目的内容里，写了一篇“ […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-10-19 | [ES集群分片打满导致Red与日志链路中断排障](https://199604.com/3727) | ES集群分片打满导致Red与日志链路中断排障 记录时间：2026-10-17（2026-10-19 更新 4. […] |
 | 2026-10-19 | [话语权与主体叙事权](https://blog.oospace.com/posts/2026-10-19/) | 话语权决定能被听到的权利，叙事权决定叙事主题 |
+| 2026-10-18 | [在大A能做全天候吗？10年真实回报大曝光](https://corvo.myseu.cn/2026/10/18/2026-10-18-%E5%9C%A8%E5%A4%A7A%E8%83%BD%E5%81%9A%E5%85%A8%E5%A4%A9%E5%80%99%E5%90%97-10%E5%B9%B4%E7%9C%9F%E5%AE%9E%E5%9B%9E%E6%8A%A5%E5%A4%A7%E6%9B%9D%E5%85%89/) | 用2016年1月至2026年9月的A股场内ETF映射样本，对比固收加、全天候与全球成长组合的收益、回撤和持有体验。 |
+| 2026-10-18 | [AI 早报 2026-10-19：美国国土安全部下令联邦民用机构从 IT 系统中移除 DeepSeek 并禁止采购](https://www.jtxyh.com/daily/2026-10-19/) | 2026-10-19 AI 早报，共 16 条动态。美国国土安全部（DHS）10 月 19 日发布正式排除令，要求联邦民用机构将 DeepSeek 的 AI 产品从 IT 系统中移除，并禁止今后采购 DeepSeek 产品及基于其模型构建的第三方服务。Motive 10月19日推出 Agents，现… |
 | 2026-10-18 | [周记 – Oct 18](https://zhangke.space/%e5%91%a8%e8%ae%b0-oct-18/?utm_source=rss&utm_medium=rss&utm_campaign=%25e5%2591%25a8%25e8%25ae%25b0-oct-18) | 本周去了两次健身房，骑车上班一次，爬楼梯一次，运动量应该是够了。可惜健身房淋浴间装修到月底，最近没办法骑车上班 […] The post 周记 – Oct 18 first appeared on 张可的博客 . |
 | 2026-10-18 | [周末流水账 1018](https://blog.solazy.me/20261018/) | 今天是一个久违的放松周日 |
 | 2026-10-18 | [Toots 441 2026 Oct.11 - Oct.17](https://z.arlmy.me/posts/MastodonArchives/2026/MastodonTootsArchives_20261017/) | 「蔑视你的思想吧。」 |
 | 2026-10-18 | [最近惦念 20261002](https://z.arlmy.me/posts/TILs/thoughts/20261002_Recently/) | 「人类概念达咩。」 |
 | 2026-10-18 | [我的 knowledge mem 从 0](https://versun.me/blog/tweet-2111816758743154972) | 我的 knowledge mem 从 0.10.103 一路回滚到了 0.10.99 才没出问题。。。。 不升级了，我还是等11月重构后的全新版本吧😂 |
 | 2026-10-18 | [油管｜短视频和长视频的对比](https://dsx2016.com/comparing-youtube-short-form-and-long-form-videos/) | 短视频 越是尝试剪辑视频之类的工作，越是觉得应该优先短视频 短视频从前期的拍摄到后期的剪辑，以及上传的网络带宽... 油管｜短视频和长视频的对比 最先出现在 大师兄2016 。 |
-| 2026-10-18 | [Quetoo updated](https://macsourceports.com/game/quetoo) | The build of Quetoo has been updated to version v1.0.129 of the project |
 | 2026-10-18 | [Total Annihilation updated](https://macsourceports.com/game/totalannihilation) | The build of Open Annihilation for Total Annihilation has been updated to version v0.8.3 of the project |
 | 2026-10-18 | [emacs-保存ediff结果为带字符级高亮的src-block](https://blog.prayhand13013.top/20261018T185247--emacs-保存ediff结果为带字符级高亮的src-block__blog.html) |  |
 | 2026-10-18 | [What’s next for the indie web?](https://www.geedea.pro/en/article/weepinbell/) | I have been blogging in English for some time, but this is my first time participating in an indie web conversation. So I think I should introduce mys… |
-| 2026-10-18 | [第十届网络社会年会（新加坡场）｜将临的网络？电影制作、Web3与网络化社会的未来](https://caa-ins.org/archives/13481) | 文 / 迪伦·雷比林（Dylan Reibling）翻译 / 井俱进校对 / 叶云鹤 感谢温教授的精彩演讲。接下来换我发言，恐怕就没那么有深度了。 这实际上是我的第二次 PowerPoint 演示。第一次是在上海。所以如果现在看起来有些粗糙，你们就知道原因了。不过，非常感谢你们邀请我来这里。 我在上… |
-| 2026-10-18 | [箱根之旅](https://www.wikimoe.com/post/b-tn3backb) | 2026年10月10日到12日，天气晴，今天我们去箱根！ 在群里的小伙伴们可能已经知道了。 我最近交往了对象。 这次的箱根之旅就是她在得知我居然还没去过箱根后，制定的旅游计划。 真的非常感谢呢！ 小田急 山之酒店 小田急山之酒店坐落于日本箱根芦之湖畔，前身为三菱岩崎家族的私人别墅，是一家历史悠久、充… |
+| 2026-10-18 | [第十届网络社会年会（新加坡场）｜Dylan Reibling：将临的网络？电影制作、Web3与网络化社会的未来](https://caa-ins.org/archives/13481) | 文 / 迪伦·雷比林（Dylan Reibling）翻译 / 井俱进校对 / 叶云鹤 感谢温教授的精彩演讲。接下来换我发言，恐怕就没那么有深度了。 这实际上是我的第二次 PowerPoint 演示。第一次是在上海。所以如果现在看起来有些粗糙，你们就知道原因了。不过，非常感谢你们邀请我来这里。 我在上… |
+| 2026-10-18 | [箱根之旅](https://www.wikimoe.com/post/b-tn3backb) | 2026年10月11日到12日，天气晴，今天我们去箱根！ 在群里的小伙伴们可能已经知道了。 我最近交往了对象。 这次的箱根之旅就是她在得知我居然还没去过箱根后，制定的旅游计划。 真的非常感谢呢！ 小田急 山之酒店 小田急山之酒店坐落于日本箱根芦之湖畔，前身为三菱岩崎家族的私人别墅，是一家历史悠久、充… |
 | 2026-10-18 | [Coffee Break Clojure, Transducer](https://www.geedea.pro/article/clj8/) | 在第三期《 只用圆括号怎么够？ 》里，我讲到了 reduce 。 先来简单复习一下： reduce 最少接收两个参数，形如 (reduce f coll) ，其中 f 是接收两个参数的函数，形如 (f x y) ； reduce 遍历 coll 中的每个元素，先对前两个元素求 (f a1 a2) ，… |
 | 2026-10-18 | [Tutti 这次改版好彻底啊，一时还接受](https://versun.me/blog/tweet-2111654409495097610) | Tutti 这次改版好彻底啊，一时还接受不了，变化太大了 不过探索了几分钟，感觉比 v1 条理更清晰了，整体界面更像一个工作台。 有几个改动我很喜欢： - 创作单独出来了，之前写稿要点进去每个活动，太麻烦了，这下独立出来，统一在一个地方写 - 添加了群聊功能，之前每次对活动有问题都没地方问，这下有群… |
 | 2026-10-18 | [梳理下我目前的订阅 1. Antigra](https://versun.me/blog/tweet-2111638445294772704) | 梳理下我目前的订阅 1. Antigravity 是咸鱼7块一年的 Pro，主要用 gemini 3.8 flash 2. Claude 官方订阅的 Pro，apple store月付 3. Devin 也是官方订阅的 Pro，月付 接下来会取消 Devin 的订阅，准备使用 deepseek v4… |
@@ -63,7 +70,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-10-17 | [AI 为什么总是惹人议论](https://kaix.in/2026/1017/) | 人工智能研究员 Nick Cammarata 发表了 一篇长文 ，我英文不好，也不是技术领域专家。粗略读过，感觉意思是说：以前大家以为的神经网络不可理喻，其实是人类的认知错误——神经网络本身逻辑清晰。 拿神经网络里的一个具体神经元 4e:55 举例子，它既被猫脸激活也会被汽车前脸激活。人们误以为神经… |
 | 2026-10-17 | [It's just NEW!](https://www.lazydaily.cn/2026/10/17/19abe724-4863-4c89-9c86-dea77dfbe1d9/) | 这篇周记记录 2026-06-21 至 2026-10-17。 失踪人口回归！ 体重终于 140 斤了，最低是 139.1 斤，体脂率 19%。 从 5 月底开始减肥， |
 | 2026-10-17 | [Jazz Jackrabbit 2 updated](https://macsourceports.com/game/jazzjackrabbit2) | The build of Jazz² Resurrection for Jazz Jackrabbit 2 has been updated to version 3.9.0 of the project |
-| 2026-10-17 | [Lemmings updated](https://macsourceports.com/game/lemmings) | The build of Ultimate Lemmings for Lemmings has been updated to version v2.0.4 of the project |
 | 2026-10-17 | [The Show Must Go On](https://blog.razrlele.com/p/2889) | 中秋前一天，宇哥离职了，从宇哥招我进公司到他离职最后一天，1500多天里面一直都和我在一个组，放眼整个互联网行业，都是一个奇迹般的存在了。即使把范围放大到我三十年的人生里面，可能也就零星几个小学同学，能够和他一样长时间和我在一个最小集体单位之下。 也不是伤感，毕竟宇哥也是人生圆满，提前退休，就是这四… |
 | 2026-10-17 | [网络问题排查的思路和技巧](https://www.kawabangga.com/posts/7431) | 这一篇计划很久了还没有写，今天终于开始下笔了。 许久无从下笔的原因是，网络问题排查——哦不，应该说不光网络，基 […] Continue reading... |
 | 2026-10-17 | [北京・沙河秋天的落日（2026）](https://blog.yasking.org/a/photos-beijing-shahe) | 今天周六，北京从早到晚一直在下雨，这短暂又难得的北京秋季，又要加速入冬了，在家闲着翻到 10.2 日在沙河水库拍下的 … |
@@ -74,7 +80,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-10-17 | [沙雕短剧有益身心健康](https://blog.oospace.com/posts/2026-10-17/) | 本来看抽象的沙雕短剧，只是找个乐子，后来发现沙雕短剧才是真理 |
 | 2026-10-17 | [气表、门禁和米面油](https://mobius.blog/25936.html) | 前些日子，天然气公司挨家挨户换了气表。我对这件事并没有太多感触，只是觉得终于不用每月被天然气抄表员，在微信上追 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-10-17 | [Python 潮流周刊#171：Python 3.15 正式发布、lazy 惰性导入与 frozendict 转正为内置](https://pythoncat.top/posts/2026-10-17-weekly/) | 分享了 12 篇文章，12 个开源项目，1 则音视频，2 则热门讨论 |
-| 2026-10-16 | [Ambermoon updated](https://macsourceports.com/game/ambermoon) | The build of Ambermoon.net for Ambermoon has been updated to version v1.14.1 of the project |
 | 2026-10-16 | [SimCity 2000 updated](https://macsourceports.com/game/simcity2000) | The build of OpenSC2K for SimCity 2000 has been updated to version v0.3.0 of the project |
 | 2026-10-16 | [Aliens versus Predator updated](https://macsourceports.com/game/avp) | The build of NakedAVP for Aliens versus Predator has been updated to version 1.3.1 of the project |
 | 2026-10-16 | [AI 早报 2026-10-17：10.17总结；DeepSeek 更新 V4.1-Flash，公布编程测试成绩并开放搜索 API](https://www.jtxyh.com/daily/2026-10-17/) | 2026-10-17 AI 早报，共 18 条动态。DeepSeek 更新 V4.1-Flash 并开放搜索与网页抓取 API，公布的编程成绩仍属官方自测。10月17日，DeepSeek发布V4.1-Flash-1017，官网、App和API同步更新，并公布Hugging Face与ModelSco… |
