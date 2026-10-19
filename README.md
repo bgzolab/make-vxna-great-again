@@ -140,8 +140,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-10-12 | [Wolfenstein: Enemy Territory updated](https://macsourceports.com/game/wolfet) | The build of ET: Legacy for Wolfenstein: Enemy Territory has been updated to version 2.86.2 of the project |
 | 2026-10-12 | [Crispy Doom updated](https://macsourceports.com/sourceport/crispydoom) | The build of Crispy Doom for the DOOM engine series of games has been updated to version crispy-doom-7.2 of the project\n\nhttps://macsourceports.com/… |
 | 2026-10-12 | [Quake updated](https://macsourceports.com/game/quake) | The build of vkQuake for Quake has been updated to version 1.37.0 of the project |
-| 2026-10-12 | [Goodman Casino Mobile Experience: Schnelle Spins und Sofortentscheidungen](https://wujie.me/goodman-casino-mobile-experience-schnelle-spins-und-sofortentscheidungen/) | Es gibt einen bestimmten Rhythmus beim Spielen von Slot … 继续阅读 Goodman Casino Mobile Experience: Schnelle Spins und Sofortentscheidungen |
-| 2026-10-12 | [Candy Spinz Casino Review: Süße Boni und schnelle Slot-Sessions](https://wujie.me/candy-spinz-casino-review-suse-boni-und-schnelle-slot-sessions/) | There is something about the name Candy Spinz that sugg … 继续阅读 Candy Spinz Casino Review: Süße Boni und schnelle Slot-Sessions |
 | 2026-10-12 | [**用中医理论重塑日常养生：以「治未病」为核心的慢性病预防框架](https://blog.zzbd.org/miao20261013/) | 用中医理论重塑日常养生：以「治未病」为核心的慢性病预防框架 |
 | 2026-10-12 | [AI 早报 2026-10-13：长鑫存储 4F² DRAM 突破：年底推新一代服务器内存，美光、闪迪股价重挫](https://www.jtxyh.com/daily/2026-10-13/) | 2026-10-13 AI 早报，共 55 条动态。10月10日，长鑫存储（CXMT）总裁曹堪宇宣布，新一代 4F² DRAM 存储单元架构取得关键进展，目标在 2026 年底前推出结合 4F² 架构与混合键合技术的新一代 DDR5 RDIMM 服务器内存。 |
 | 2026-10-12 | [R#123 分界线](https://blog.sakanano.moe/journals/random_123) | 2026.10.6 ~ 2026.10.12 |
@@ -149,19 +147,9 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-10-12 | [比闹钟醒得早，是一种勤劳么？](https://blog.solazy.me/20261012/) | 你有比闹钟醒得早吗？ |
 | 2026-10-12 | [测量标准](https://physnya.top/astro-physics/lesson-2/) | 星等和测光 两种星等系统： Vega 系统：用 Vega 的光谱作为标准谱，标定其他星体的星等. Vega 在各通带处均为 0 等； AB 系统：用 Vega 在 v 波段流量密度 3631 J y 3631\text{ J}_{\text{y}} 3631 J y ​ 作为统一零点定标. 一般 A… |
 | 2026-10-12 | [双星系统](https://physnya.top/compact-object/lesson-4-double-star-system/) | Pre-1：用白矮星来探测系外行星的成分 为什么用白矮星？ 因为白矮星的光谱非常「干净」，它的光谱中并没有太多金属成分对我们的测量造成污染；同时白矮星非常「敏感」，有系外行星的光谱会很容易地被探测出来. 我们所使用的方式就是光谱. 测量得到的结果是，有被污染的白矮星，其被污染的这些谱线和地球、哈雷彗… |
-| 2026-10-12 | [test123123](https://wujie.me/test123123-2/) | test123123 |
 | 2026-10-12 | [HTML里的“宏”](https://blog.est.im/2026/stdout-40) | 摊牌了，分享两个极少有人知道的技巧。 观察下面的网页 https://lab.est.im/xhtml/ 有没有发现神奇之处 '> ]> Entity test hey &my_symbol; visit &wikipedia; for more! 另外就是刚做的 play2mi 有一个特立独行的想… |
-| 2026-10-12 | [Crash Duel Withdrawal Steps & Methods – Fast, Secure Cashout &#124; Bradlands](https://wujie.me/crash-duel-withdrawal-steps-methods-fast-secure-cashout-bradlands/) | What Is Crash Duel and Why It Matters Registration and … 继续阅读 Crash Duel Withdrawal Steps & Methods – Fast, Secure Cashout &#124; Bradlands |
-| 2026-10-12 | [OnlyFans Free Version Guide: Features, Benefits, and How It Works](https://wujie.me/onlyfans-free-version-guide-features-benefits-and-how-it-works/) | Practical Guide to the OnlyFans Free Version What Is th … 继续阅读 OnlyFans Free Version Guide: Features, Benefits, and How It Works |
 | 2026-10-12 | [巴别塔](https://kaix.in/2026/1012/) | Emoji 常被喻为现代的巴别塔或新世界语，但是塔终归还是要建在地上，而各地又有各地的规矩。 fin. 激赏 ！ 来信 。 |
-| 2026-10-12 | [How Do Free OnlyFans Accounts Work? A Complete Practical Guide](https://wujie.me/how-do-free-onlyfans-accounts-work-a-complete-practical-guide/) | How Do Free OnlyFans Accounts Work? The Basics Who Can … 继续阅读 How Do Free OnlyFans Accounts Work? A Complete Practical Guide |
-| 2026-10-12 | [1xbet inscription : ce qu’il faut savoir](https://wujie.me/1xbet-inscription-ce-qu-il-faut-savoir/) | Guide complet pour 1xbet inscription Pourquoi choisir 1 … 继续阅读 1xbet inscription : ce qu’il faut savoir |
-| 2026-10-12 | [كل ما تحتاج معرفته عن 1xbet مصر للمقيمين في الإمارات العربية المتحدة](https://wujie.me/kl-m-thtj-maarfth-aan-1xbet-msr-llmqymyn-fy-lmrt-laarby-lmthd/) | دليل عملي حول 1xbet مصر للمستخدمين في الإمارات العربية … 继续阅读 كل ما تحتاج معرفته عن 1xbet مصر للمقيمين في الإمارات العربية المتحدة |
-| 2026-10-12 | [ما تحتاج معرفته عن 1xbet 12 double chance](https://wujie.me/m-thtj-maarfth-aan-1xbet-12-double-chance/) | دليل عملي للمراهنة على 1xbet 12 double chance ما هي ميز … 继续阅读 ما تحتاج معرفته عن 1xbet 12 double chance |
-| 2026-10-12 | [BestOnlyFans Sites: Features, Pricing, Security, and Setup Guide](https://wujie.me/bestonlyfans-sites-features-pricing-security-and-setup-guide/) | BestOnlyFans Sites: A Practical Guide for Savvy Users U … 继续阅读 BestOnlyFans Sites: Features, Pricing, Security, and Setup Guide |
-| 2026-10-12 | [Top OnlyFans Accounts: Security, Reliability & Safe Access Guide](https://wujie.me/top-onlyfans-accounts-security-reliability-safe-access-guide/) | Top OnlyFans Accounts: Practical Guidance for Finding, … 继续阅读 Top OnlyFans Accounts: Security, Reliability & Safe Access Guide |
 | 2026-10-12 | [中国不是汉人的民族国家](https://sinyalee.com/blog/?p=1366) | 中国政府现在的统治，其实建立在一个非常脆弱的理解之上：中国是汉人的民族国家。 我写《中国必须停止歧视汉人》的时 […] |
-| 2026-10-12 | [Guide complet des bonus de l’app 1xbet pour les joueurs français](https://wujie.me/guide-complet-des-bonus-de-l-app-1xbet-pour-les-joueurs-francais/) | Guide complet de l’app 1xbet – Tout savoir pour jouer e … 继续阅读 Guide complet des bonus de l’app 1xbet pour les joueurs français |
 | 2026-10-12 | [Memos: 周边最后一家能吃的麻辣烫也拉胯了](https://blog.yasking.org/a/1791785685) | 正宗的哈尔滨麻辣烫默认不加麻酱、或至少麻将是可选的，汤是清亮的。 这家是我吃过、少有的 ‘东北老式麻辣烫’，在北京这边 … |
 | 2026-10-12 | [Toots 440 2026 Oct.4 - Oct.10](https://z.arlmy.me/posts/MastodonArchives/2026/MastodonTootsArchives_20261010/) | 「寒露。」 |
 | 2026-10-12 | [冰箱艺术家](https://www.hecaitou.com/2026/10/The-Refrigerator-Artist.html) | 这个周末，我把我的公众号搞得有点像是小红书。先是发了一条贴图：《 老登冰箱贴 》，发现留言区里有很多读者展示了自己家的冰箱贴，于是又专门发了一条征集贴：《 看看大家的冰箱贴 》，这下子看到了琳琅满目的私人收藏。 我个人很喜欢读者朋友分享的这些内容。当我看到各种各样的冰箱门或是磁力面板上贴着冰箱贴，无… |
@@ -172,29 +160,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-10-12 | [秀肌肉骂街的泼妇](https://mobius.blog/25882.html) | 前几天，我在网上目睹了一场争吵——虽然说是争吵，但其实非常无聊，甚至两个人从始至终就没有在一个频道上吵架。 吵 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-10-12 | [DOOM II updated](https://macsourceports.com/game/doom2) | The build of DOOM II RT: Metal for DOOM II has been updated to version 1.0 of the project |
 | 2026-10-12 | [油管｜直播YPP时长和直播场次](https://dsx2016.com/youtube-live-ypp-watch-time-and-livestream-sessions/) | YPP时长 在直播结束后，大概过了几个小时，看到了21k直播的数据 显示累计观看时长39小时，这个我预计的10... 油管｜直播YPP时长和直播场次 最先出现在 大师兄2016 。 |
-| 2026-10-11 | [听说有人的 opus 5.5 灰度路由到](https://versun.me/blog/tweet-2109426478219960746) | 听说有人的 opus 5.5 灰度路由到了 opus 5.6，能力提升很大，真的假的，这也太快了吧，感觉可能是fable 5.5 我还在等谷歌的 argon 模型呢，这是要胎死腹中的节奏吗😂 |
-| 2026-10-11 | [人生开始讲性价比：一本开源神书，正在教普通人如何安全地活着](https://blog.mzh.ren/zh/posts/2026/10/thoughts-of-how-to-live-better-live/) | 最近有一本在线电子书非常火爆，叫《高性价比人生指南》。 eternity4719/HowToLiveBetter: 高性价比人生指南: 长寿防病、急救、省钱理财、法律红线、失业与工伤、医保社保、恋爱婚育、怀孕育儿、创业与做平台合规、出国与技能。每条写明成本、收益、证据等级和原始出处，只引期刊论文与官… |
-| 2026-10-11 | [AI 早报 2026-10-12：微软发布自研 AI 芯片 Maia 300：台积电 N2P 工艺，288GB HBM4 显存、带宽…](https://www.jtxyh.com/daily/2026-10-12/) | 2026-10-12 AI 早报，共 40 条动态。微软 10 月 12 日发布第三代自研 AI 加速器 Maia 300，主攻推理场景。Salesforce 10 月 12 日宣布签署最终协议，收购 AI 分析平台 Loops。小鹏汽车创始人何小鹏在 10 月 11 日的巴黎之夜活动上公布了人形机… |
-| 2026-10-11 | [周末流水账 1011](https://blog.solazy.me/20261011/) | 难得的一天，是单休的周末呀 |
-| 2026-10-11 | [和校园网斗智斗勇的日子（第十辑）](https://blog.mfwt.top/index.php/archives/1685/) | 刚来到学校的时候，初步探了探校园网，把网络整通，就写下了这个系列的第九辑。然而在过去一个月里面，校园网反复无常地变化，逐渐积累了一批问题。不得已，只能开个第十辑，继续写下来，作为记录。该说不说，... |
-| 2026-10-11 | [在北京的乡巴佬](https://smallyu.net/2026/10/11/%E5%9C%A8%E5%8C%97%E4%BA%AC%E7%9A%84%E4%B9%A1%E5%B7%B4%E4%BD%AC/) | 我大学刚到北京实习的时候，在一家做话费业务的公司工作。当时所在的组大概有六七个人，每天干的事情无非是改改 |
-| 2026-10-11 | [Opus 5.5 太神了，特别会揣摩真实](https://versun.me/blog/tweet-2109237153440186691) | Opus 5.5 太神了，特别会揣摩真实意图。 我把它接在 Hermes 上用，每次布置任务，一开始都只丢一句话，等我想起还有些细节和限制条件，正准备补发消息，它已经回复了。 而且完全是按我想要的那样做的！ |
-| 2026-10-11 | [[转载] AI 原生组织转型：用 AI 对齐事实、对齐打法](http://tubaozi.top/posts/2026/ai-native-org-alignment/) | 学也学了、用也用了，每个人都说自己提效了，组织效率却没动；效率动了，钱也没多赚。这篇聊效率的三层台阶、组织为什么是上一个时代的发明，以及用 AI 对齐事实、对齐打法的具体操作。 |
-| 2026-10-11 | [ENG101 - Writing to locate: rough draft](https://dcb9.github.io/posts/2026-10-11/) | My Submission Title: My grandparents’ house Figure 1. A village similar to my grandparents’ house. Link: https://www.sohu.com/a/680902068_121123737 My… |
-| 2026-10-11 | [有听有记 Voxi：会议音频转译摘要app](http://tubaozi.top/posts/2026/voxi/) | 一次关于「把会议录音这件事收回到本地」的尝试：录制、转写、摘要、脑图、问答、笔记，一个窗口装下。 为什么要自己写一个 开会这件事的痛点很稳定：说了什么记不住，记了笔记又来不及听。 市面上的会议助手不少，但它们大多长一个样——注册、登录、把会议音频传到某个云端、等一个订阅制的转写额度。对于内容敏感的会… |
-| 2026-10-11 | [浏览器点2下就能让小爱音箱播放http音乐！](https://blog.est.im/2026/stdout-39) | 还在被 冈易 QQ 音乐困扰吗，让小爱同学播放NAS上的歌需要几步？ https://est.github.io/play2mi/ 装个书签，点两下就行。不需要下载软件，不需要第三方服务器 期间还是碰壁了不少的。也学到不少东西。小米音箱以前应该是openwrt魔改 ubus 控制，后来都改成 And… |
-| 2026-10-11 | [Vol.121 应用、模型与运行系统相互塑造：AI 基础设施、智能体与云服务演进](https://liduos.com/weekly/the-weekly-gradient-121) | 本期内容围绕应用、模型与运行系统相互塑造，梳理 AI 基础设施、智能体平台、云服务、推理优化、持久执行环境与成本评估等新变化，并关注真实任务中的工程实践。 |
-| 2026-10-11 | [油管｜无人直播和YPP时长](https://dsx2016.com/youtube-automated-livestreams-and-ypp-watch-time/) | 无人直播 直播要求就是有人不断的回应，如果没有人，流量就大减 另外重点说一下，油管视频和直播，或者其他视频平台... 油管｜无人直播和YPP时长 最先出现在 大师兄2016 。 |
-| 2026-10-11 | [讀《一句頂一萬句》](https://taxodium.ink/%E8%AE%80%E3%80%8A%E4%B8%80%E5%8F%A5%E9%A0%82%E4%B8%80%E8%90%AC%E5%8F%A5%E3%80%8B.html) | 讀《一句頂一萬句》 《 一句頂一萬句 》是劉震雲的一部長篇小說。開頭差點沒能看下去，一下子講太多人物了，老楊、老馬、老裴⋯⋯不過耐心看下去，很快主綫就會變得清晰。整本書像是一出群像劇，講了很多人的故事、不同人的家長裡短、人情世故，有種在聴不同人的八卦的感覺，誰不喜歡吃瓜呢，就越看越有意思。 書分成了… |
-| 2026-10-11 | [油管｜社交平台和搜索引擎](https://dsx2016.com/youtube-social-media-platforms-and-search-engines/) | 外部流量 油管的流量大部分来源于平台自己的推荐 如果这部分流量起不来，恰好别的社交平台数据不错，可以考虑从外部... 油管｜社交平台和搜索引擎 最先出现在 大师兄2016 。 |
-| 2026-10-11 | [契入一本书的契机](https://www.hecaitou.com/2026/10/when-a-book-finally-clicks.html) | 我介绍过很多书，有两本书的命运对照起来看非常有趣。一本是《献给阿尔吉侬的花束》，很多人看完介绍立即找来看，才翻开第一页就把书扔开，说「这写的都是什么玩意儿？！」。 另一本是《光明共和国》，跑去看的人要少很多，但是一般都能顺利读完，读完之后大为疑惑：这本书好在哪里？我怎么没觉出什么好来？ 又过几个月，… |
-| 2026-10-11 | [伸手不打笑脸人](https://mobius.blog/25877.html) | 希望对方伸手不打笑脸人的前提是什么？ A、己方笑得足够真诚； B、己方主动示好，以拉近彼此关系； C、己方提前 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
-| 2026-10-11 | [油管｜做系列化和日常化内容](https://dsx2016.com/creating-serialized-and-daily-content-for-youtube/) | 什么是系列化 简单来说就是合集，是简化版书的大纲 有完整的目录和结构，有初始有结束，不是零零散散的知识点 最好... 油管｜做系列化和日常化内容 最先出现在 大师兄2016 。 |
-| 2026-10-11 | [入蜀记 day501 舒兹梦、暴食、百鸟朝凤](https://z.arlmy.me/posts/BBBPandINSW/INSW-deep/INSW_501/) | 「舒兹梦、暴食、百鸟朝凤。」 |
-| 2026-10-11 | [入蜀记 day500 yes、反对暴力、聚会畅聊](https://z.arlmy.me/posts/BBBPandINSW/INSW-deep/INSW_500/) | 「yes、反对暴力、聚会畅聊。」 |
-| 2026-10-11 | [入蜀记 day499 读者、时间戳、我爱成都](https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_499/) | 「读者、时间戳、我爱成都。」 |
-| 2026-10-11 | [入蜀记 day498 爷爷、呼吸法、服务器入侵](https://z.arlmy.me/posts/BBBPandINSW/INSW-ko/INSW_498/) | 「爷爷、呼吸法、服务器入侵。」 |
-| 2026-10-11 | [≡ 016｜这两周莫比乌斯环转到了哪里？](https://mobius.blog/25848.html) | —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 
 ## Vibe Coding
 
