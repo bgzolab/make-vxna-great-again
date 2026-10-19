@@ -1,5 +1,33 @@
 [
   {
+    "title": "Memos: 博客新增 ‘内推岗位’ 页面",
+    "url": "https://blog.yasking.org/a/1792373571",
+    "date": "2026-10-19T01:32:51Z",
+    "description": "博客添加内推岗位页面： /jobs 职位包含设计、产品、技术、市场四大类，20+ 个急招岗位。 均有实际招聘需求，并非为了完成招聘指标 …",
+    "source_root_domain": "yasking.org"
+  },
+  {
+    "title": "告假",
+    "url": "https://mobius.blog/25944.html",
+    "date": "2026-10-19T01:30:00Z",
+    "description": "以前听过一个有些悲伤的笑话——甚至有点过时。 一个专栏作家突然想休息，就在自己每周固定栏目的内容里，写了一篇“ […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。",
+    "source_root_domain": "onojyun.com"
+  },
+  {
+    "title": "ES集群分片打满导致Red与日志链路中断排障",
+    "url": "https://199604.com/3727",
+    "date": "2026-10-19T01:18:13Z",
+    "description": "ES集群分片打满导致Red与日志链路中断排障 记录时间：2026-10-17（2026-10-19 更新 4. […]",
+    "source_root_domain": "199604.com"
+  },
+  {
+    "title": "话语权与主体叙事权",
+    "url": "https://blog.oospace.com/posts/2026-10-19/",
+    "date": "2026-10-19T00:28:00Z",
+    "description": "话语权决定能被听到的权利，叙事权决定叙事主题",
+    "source_root_domain": "oospace.com"
+  },
+  {
     "title": "周记 – Oct 18",
     "url": "https://zhangke.space/%e5%91%a8%e8%ae%b0-oct-18/?utm_source=rss&utm_medium=rss&utm_campaign=%25e5%2591%25a8%25e8%25ae%25b0-oct-18",
     "date": "2026-10-18T15:14:52Z",
@@ -26,6 +54,13 @@
     "date": "2026-10-18T14:08:27Z",
     "description": "「人类概念达咩。」",
     "source_root_domain": "arlmy.me"
+  },
+  {
+    "title": "我的 knowledge mem 从 0",
+    "url": "https://versun.me/blog/tweet-2111816758743154972",
+    "date": "2026-10-18T13:48:45Z",
+    "description": "我的 knowledge mem 从 0.10.103 一路回滚到了 0.10.99 才没出问题。。。。 不升级了，我还是等11月重构后的全新版本吧😂",
+    "source_root_domain": "versun.me"
   },
   {
     "title": "油管｜短视频和长视频的对比",
@@ -84,11 +119,32 @@
     "source_root_domain": "geedea.pro"
   },
   {
+    "title": "Tutti 这次改版好彻底啊，一时还接受",
+    "url": "https://versun.me/blog/tweet-2111654409495097610",
+    "date": "2026-10-18T03:03:38Z",
+    "description": "Tutti 这次改版好彻底啊，一时还接受不了，变化太大了 不过探索了几分钟，感觉比 v1 条理更清晰了，整体界面更像一个工作台。 有几个改动我很喜欢： - 创作单独出来了，之前写稿要点进去每个活动，太麻烦了，这下独立出来，统一在一个地方写 - 添加了群聊功能，之前每次对活动有问题都没地方问，这下有群聊就方便很多了 - 群聊里竟然有自动翻译！这个细节考虑很可以！ 说说缺点： - 活动页，感觉信息密度不高，个人更喜欢左右栏，左边显示活动，右边显示活动详情，这样浏览起来更方便些。 - 活动卡片是否可以添加群聊信息，可以直接跳转过去 - leaderboards页面貌似还是 v1 版本的 最后，祝 Tutti 大发！！ @tuttihq",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "梳理下我目前的订阅 1. Antigra",
+    "url": "https://versun.me/blog/tweet-2111638445294772704",
+    "date": "2026-10-18T02:00:12Z",
+    "description": "梳理下我目前的订阅 1. Antigravity 是咸鱼7块一年的 Pro，主要用 gemini 3.8 flash 2. Claude 官方订阅的 Pro，apple store月付 3. Devin 也是官方订阅的 Pro，月付 接下来会取消 Devin 的订阅，准备使用 deepseek v4.1 flash 做为子模型，应该会直接充值官方 api 使用",
+    "source_root_domain": "versun.me"
+  },
+  {
     "title": "≡ 017｜代价论与选择的自由",
     "url": "https://mobius.blog/25924.html",
     "date": "2026-10-18T01:30:00Z",
     "description": "先回顾本周的莫比乌斯。 秀肌肉是最直观的对抗，但如果对方不接招，难免就会沦为秀肌肉的“泼妇”。有趣的不是谁输谁 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。",
     "source_root_domain": "onojyun.com"
+  },
+  {
+    "title": "刚看了 Will Larson 的新文章",
+    "url": "https://versun.me/blog/tweet-2111609371885289876",
+    "date": "2026-10-18T00:04:40Z",
+    "description": "刚看了 Will Larson 的新文章，讲 AI 时代 PR 爆炸的问题 他们的解法简单粗暴：少于 1000 行、AI review 机器人没报 p1/p2、作者在这个服务里合过 10 个以上 PR、不碰共享库和钱，满足条件就直接交给 AI 审查批准 重点是，这个 AI 只进行批准，不会拒绝或者评论 有处理过 AI 审查的 PR 的，应该深有感触，现在基本没人会主动去评论，都是几个 agent 在一个 PR 里互相交流，而且效率非常低下。。。。 当然，在作者的公司里，这个条件只有大约 10% 的 PR 符合条件，现在谈效果还为时尚早 我比较担忧的是，以前通过 review 能学到挺多东西的，虽然现在我自己也不手写代码了，但这条学习路径似乎走不通了，以后应该只能和 AI 学习了。。。这对个人的学习能力其实有更高的要求，因为你无法确定 AI 教的对不对 https://lethain.com/small-changes/",
+    "source_root_domain": "versun.me"
   },
   {
     "title": "2026年第41、42周",
@@ -115,7 +171,7 @@
     "title": "AI 早报 2026-10-18：10.18总结；AWS 财务负责人称 AI 投资可持续",
     "url": "https://www.jtxyh.com/daily/2026-10-18/",
     "date": "2026-10-17T16:00:00Z",
-    "description": "2026-10-18 AI 早报，共 13 条动态。本期关注模型使用、智能体安全和算力建设。Axios 10 月 16 日报道，AWS 财务负责人 John Felton 看好 AI 投资回报。OfficeChai 10 月 18 日转述 OpenCode 声明称，其正在停用的旧系统遭未授权访问，约 1.4% 的…",
+    "description": "2026-10-18 AI 早报，共 10 条动态。本期关注模型使用、智能体安全和算力建设。Axios 10 月 16 日报道，AWS 财务负责人 John Felton 看好 AI 投资回报。OfficeChai 10 月 18 日转述 OpenCode 声明称，其正在停用的旧系统遭未授权访问，约 1.4% 的…",
     "source_root_domain": "jtxyh.com"
   },
   {
