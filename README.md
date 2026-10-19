@@ -27,6 +27,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-10-19 | [“The Visitor”](https://lachaise.xyz/2026/visitor/) | 10 月 4 日 ：看了个电影叫 Man på drift，电影的英语是叫 The Visitor。之所以想看这个电影，是因为瑞典人写的影评里说，这部片子有种「蔡明亮的味道」。 对白是立陶宛语，字幕是瑞典语。整个放映厅里有三个人，一个中年女性，一个老年女性，还有我。看了不到半小时，老年女性开始打呼噜… |
 | 2026-10-19 | [R#124 前人的树](https://blog.sakanano.moe/journals/random_124) | 2026.10.13 ~ 2026.10.19 |
 | 2026-10-19 | [Ambermoon updated](https://macsourceports.com/game/ambermoon) | The build of Ambermoon.net for Ambermoon has been updated to version v1.14.2 of the project |
 | 2026-10-19 | [Lemmings updated](https://macsourceports.com/game/lemmings) | The build of Ultimate Lemmings for Lemmings has been updated to version v2.0.7 of the project |
@@ -40,7 +41,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-10-19 | [ES集群分片打满导致Red与日志链路中断排障](https://199604.com/3727) | ES集群分片打满导致Red与日志链路中断排障 记录时间：2026-10-17（2026-10-19 更新 4. […] |
 | 2026-10-19 | [话语权与主体叙事权](https://blog.oospace.com/posts/2026-10-19/) | 话语权决定能被听到的权利，叙事权决定叙事主题 |
 | 2026-10-18 | [在大A能做全天候吗？10年真实回报大曝光](https://corvo.myseu.cn/2026/10/18/2026-10-18-%E5%9C%A8%E5%A4%A7A%E8%83%BD%E5%81%9A%E5%85%A8%E5%A4%A9%E5%80%99%E5%90%97-10%E5%B9%B4%E7%9C%9F%E5%AE%9E%E5%9B%9E%E6%8A%A5%E5%A4%A7%E6%9B%9D%E5%85%89/) | 用2016年1月至2026年9月的A股场内ETF映射样本，对比固收加、全天候与全球成长组合的收益、回撤和持有体验。 |
-| 2026-10-18 | [AI 早报 2026-10-19：美国国土安全部下令联邦民用机构从 IT 系统中移除 DeepSeek 并禁止采购](https://www.jtxyh.com/daily/2026-10-19/) | 2026-10-19 AI 早报，共 16 条动态。美国国土安全部（DHS）10 月 19 日发布正式排除令，要求联邦民用机构将 DeepSeek 的 AI 产品从 IT 系统中移除，并禁止今后采购 DeepSeek 产品及基于其模型构建的第三方服务。Motive 10月19日推出 Agents，现… |
+| 2026-10-18 | [AI 早报 2026-10-19：10.19总结；美国公开 DeepSeek 联邦民用机构排除令，原命令发布于7月24日](https://www.jtxyh.com/daily/2026-10-19/) | 2026-10-19 AI 早报，共 14 条动态。本期关注AI落地所需的资金、数据和合规条件。10月19日公开的美国《联邦公报》文件附有国土安全部第2026-01号排除和移除令，原始发布日期为7月24日，公告定于10月20日刊登。Motive 10月19日推出 Agents，现已向客户提供。 |
 | 2026-10-18 | [周记 – Oct 18](https://zhangke.space/%e5%91%a8%e8%ae%b0-oct-18/?utm_source=rss&utm_medium=rss&utm_campaign=%25e5%2591%25a8%25e8%25ae%25b0-oct-18) | 本周去了两次健身房，骑车上班一次，爬楼梯一次，运动量应该是够了。可惜健身房淋浴间装修到月底，最近没办法骑车上班 […] The post 周记 – Oct 18 first appeared on 张可的博客 . |
 | 2026-10-18 | [周末流水账 1018](https://blog.solazy.me/20261018/) | 今天是一个久违的放松周日 |
 | 2026-10-18 | [Toots 441 2026 Oct.11 - Oct.17](https://z.arlmy.me/posts/MastodonArchives/2026/MastodonTootsArchives_20261017/) | 「蔑视你的思想吧。」 |
