@@ -1,5 +1,47 @@
 [
   {
+    "title": "啸风山庄",
+    "url": "https://www.geedea.pro/library/2026/wuthering-heights/",
+    "date": "2026-10-20T17:29:39Z",
+    "description": "《啸风山庄》是经典英国文学 Wuthering Heights 的新译本，译者是赖慈芸。这本在大陆更常见的译名是《呼啸山庄》，在台湾的译名是《咆哮山庄》，译者本人是台湾师范大学翻译研究所教授，可以说这个新译本统一了两岸的译名。书中还附上《啸风山庄》的翻译简史，读起来蛮有趣。曾经 Wuthering Heights 还被译作《狭路冤家》《魂归离恨天》，后者给我的感觉是把 Wuthering 理解为冤魂不散的声响（毕竟主要人物凯瑟琳和希斯克利夫死后的鬼魂似乎都在人间游荡），把 Heights 理解成了高空，也是值得品味的译法。 这个译本我通篇读下来，觉得语言很通顺，几乎没有译制腔，也没有过度本土化，注释也很完善。只不过有不少对情节进行解读的注解，我其实觉得有些影响阅读。理想国的装帧也很好看，大小合适，捧起来很舒服，我之前还在飞机的狭窄座椅上读过。在万米高空读 Wuthering Heights ，也别有一番韵味了。 对于文学经典，我不好妄下评论，不过我也确实没有批评的话要讲。我很喜欢艾米莉·勃朗特对人物的塑造，只可惜她一生只出版了这一部作品，而且似乎在初次出版时并不受欢迎。她的姐姐夏洛特·",
+    "source_root_domain": "geedea.pro"
+  },
+  {
+    "title": "入蜀记 day512 刚需与服从性",
+    "url": "https://z.arlmy.me/posts/BBBPandINSW/INSW-deep/INSW_512/",
+    "date": "2026-10-20T16:03:27Z",
+    "description": "「刚需与服从性。」",
+    "source_root_domain": "arlmy.me"
+  },
+  {
+    "title": "入蜀记 day511 二手文章、小饭骨、乱花争放",
+    "url": "https://z.arlmy.me/posts/BBBPandINSW/INSW-deep/INSW_511/",
+    "date": "2026-10-20T16:01:27Z",
+    "description": "「二手文章、小饭骨、乱花争放。」",
+    "source_root_domain": "arlmy.me"
+  },
+  {
+    "title": "入蜀记 day510 二姐、没有根的演奏者、足火水仙、我去哪儿",
+    "url": "https://z.arlmy.me/posts/BBBPandINSW/INSW-deep/INSW_510/",
+    "date": "2026-10-20T15:58:27Z",
+    "description": "「二姐、没有根的演奏者、足火水仙、我去哪儿。」",
+    "source_root_domain": "arlmy.me"
+  },
+  {
+    "title": "入蜀记 day509 未完成的文本、无数个世界、止疼药",
+    "url": "https://z.arlmy.me/posts/BBBPandINSW/INSW-deep/INSW_509/",
+    "date": "2026-10-20T15:47:27Z",
+    "description": "「未完成的文本、无数个世界、止疼药。」",
+    "source_root_domain": "arlmy.me"
+  },
+  {
+    "title": "入蜀记 day508 Teste先生",
+    "url": "https://z.arlmy.me/posts/BBBPandINSW/INSW-deep/INSW_508/",
+    "date": "2026-10-20T15:35:27Z",
+    "description": "「Teste先生。」",
+    "source_root_domain": "arlmy.me"
+  },
+  {
     "title": "油管｜web网站和固件下载",
     "url": "https://dsx2016.com/youtube-website-and-firmware-downloads/",
     "date": "2026-10-20T09:29:49Z",
@@ -10,11 +52,11 @@
     "title": "免费域名接入 Cloudflare 的一个小技巧",
     "url": "https://www.gaojinan.com/free-subdomain-cloudflare-double-hyphen.html",
     "date": "2026-10-20T06:59:00Z",
-    "description": "免费域名想接入 CF，可以试试在申请的时候把名字写成 xx--名字，也就是第 3、4 位用两个半角横线。例如下面这种格式（仅作示例）：ab--myblog.freedomain.kgcd--ho...",
+    "description": "免费域名想接入 CF，可以试试在申请的时候把名字写成 xx--example，也就是第 3、4 位用两个半角横线。例如下面这种格式（仅作示例）：ab--myblog.freedomain.kgc...",
     "source_root_domain": "gaojinan.com"
   },
   {
-    "title": "Google AI Pro 学生羊毛：先领一年免费，再看 8.99 美元套餐能否叠加",
+    "title": "Google AI Pro 学生羊毛：Google AI Pro + YouTube Premium 两年半",
     "url": "https://www.gaojinan.com/google-ai-pro-student-benefit-youtube-premium.html",
     "date": "2026-10-20T04:26:00Z",
     "description": "最近 Google 的学生优惠又更新了。符合条件的账号可以先领 12 个月 Google AI Pro 免费试用；如果账号所在地区还能订阅 Google AI Pro + YouTube Pre...",
@@ -49,6 +91,13 @@
     "source_root_domain": "lachaise.xyz"
   },
   {
+    "title": "AI 早报 2026-10-20：10.20总结；DeepSeek 开源 DeepInfer，首版支持 V4.1 Flash 离线推理",
+    "url": "https://www.jtxyh.com/daily/2026-10-20/",
+    "date": "2026-10-19T16:00:00Z",
+    "description": "2026-10-20 AI 早报，共 25 条动态。本期的重点是推理部署、智能体权限和实际应用。DeepSeek 开源推理框架 DeepInfer，采用 Apache 2.0 许可。路透社 10 月 20 日援引知情人士报道，字节跳动、阿里巴巴和腾讯订购了超过 300 万块英伟达 RTX PRO 5500…",
+    "source_root_domain": "jtxyh.com"
+  },
+  {
     "title": "R#124 前人的树",
     "url": "https://blog.sakanano.moe/journals/random_124",
     "date": "2026-10-19T15:30:00Z",
@@ -61,6 +110,13 @@
     "date": "2026-10-19T15:30:00Z",
     "description": "今天晚上和同事吃饭，聊到了一个有趣的话题……",
     "source_root_domain": "solazy.me"
+  },
+  {
+    "title": "2026 阅读",
+    "url": "https://z.arlmy.me/posts/YearlyBooks/YearlyBooks_2026/",
+    "date": "2026-10-19T13:44:55Z",
+    "description": "「2026 年阅读短评备份。」",
+    "source_root_domain": "arlmy.me"
   },
   {
     "title": "Ambermoon updated",

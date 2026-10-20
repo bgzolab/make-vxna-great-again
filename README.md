@@ -27,15 +27,23 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-10-20 | [啸风山庄](https://www.geedea.pro/library/2026/wuthering-heights/) | 《啸风山庄》是经典英国文学 Wuthering Heights 的新译本，译者是赖慈芸。这本在大陆更常见的译名是《呼啸山庄》，在台湾的译名是《咆哮山庄》，译者本人是台湾师范大学翻译研究所教授，可以说这个新译本统一了两岸的译名。书中还附上《啸风山庄》的翻译简史，读起来蛮有趣。曾经 Wuthering… |
+| 2026-10-20 | [入蜀记 day512 刚需与服从性](https://z.arlmy.me/posts/BBBPandINSW/INSW-deep/INSW_512/) | 「刚需与服从性。」 |
+| 2026-10-20 | [入蜀记 day511 二手文章、小饭骨、乱花争放](https://z.arlmy.me/posts/BBBPandINSW/INSW-deep/INSW_511/) | 「二手文章、小饭骨、乱花争放。」 |
+| 2026-10-20 | [入蜀记 day510 二姐、没有根的演奏者、足火水仙、我去哪儿](https://z.arlmy.me/posts/BBBPandINSW/INSW-deep/INSW_510/) | 「二姐、没有根的演奏者、足火水仙、我去哪儿。」 |
+| 2026-10-20 | [入蜀记 day509 未完成的文本、无数个世界、止疼药](https://z.arlmy.me/posts/BBBPandINSW/INSW-deep/INSW_509/) | 「未完成的文本、无数个世界、止疼药。」 |
+| 2026-10-20 | [入蜀记 day508 Teste先生](https://z.arlmy.me/posts/BBBPandINSW/INSW-deep/INSW_508/) | 「Teste先生。」 |
 | 2026-10-20 | [油管｜web网站和固件下载](https://dsx2016.com/youtube-website-and-firmware-downloads/) | 固件产品 有时候油管视频作为吃饭或者睡觉背景音 有时候油管视频主要是教程和资源类 有时候油管视频是信息，娱乐，... 油管｜web网站和固件下载 最先出现在 大师兄2016 。 |
-| 2026-10-20 | [免费域名接入 Cloudflare 的一个小技巧](https://www.gaojinan.com/free-subdomain-cloudflare-double-hyphen.html) | 免费域名想接入 CF，可以试试在申请的时候把名字写成 xx--名字，也就是第 3、4 位用两个半角横线。例如下面这种格式（仅作示例）：ab--myblog.freedomain.kgcd--ho... |
-| 2026-10-20 | [Google AI Pro 学生羊毛：先领一年免费，再看 8.99 美元套餐能否叠加](https://www.gaojinan.com/google-ai-pro-student-benefit-youtube-premium.html) | 最近 Google 的学生优惠又更新了。符合条件的账号可以先领 12 个月 Google AI Pro 免费试用；如果账号所在地区还能订阅 Google AI Pro + YouTube Pre... |
+| 2026-10-20 | [免费域名接入 Cloudflare 的一个小技巧](https://www.gaojinan.com/free-subdomain-cloudflare-double-hyphen.html) | 免费域名想接入 CF，可以试试在申请的时候把名字写成 xx--example，也就是第 3、4 位用两个半角横线。例如下面这种格式（仅作示例）：ab--myblog.freedomain.kgc... |
+| 2026-10-20 | [Google AI Pro 学生羊毛：Google AI Pro + YouTube Premium 两年半](https://www.gaojinan.com/google-ai-pro-student-benefit-youtube-premium.html) | 最近 Google 的学生优惠又更新了。符合条件的账号可以先领 12 个月 Google AI Pro 免费试用；如果账号所在地区还能订阅 Google AI Pro + YouTube Pre... |
 | 2026-10-20 | [a16z推出社交网络 Cosign：背书有多重要？](https://wenfeixiang.com/2026/10/cosign-by-a16z/) | 在9月底的一次播客上，美国知名风投机构 a16z 的 4位合伙人：Erik Torenberg 与 Josh […] |
 | 2026-10-20 | [一种培养收纳习惯的有效方式](https://www.hecaitou.com/2026/10/an-effective-way-to-build-a-tidying-habit.html) | 按照稍微宽松一点的标准来说，我现在算是有收拾家的习惯了。不时会主动归置归置物品，整理整理各处台面，完全背离了我之前四十多年的天性。 我天性喜欢乱丢乱放随手扔，多年来被无数人无数次挽救过。但是没有用，举再多名人的例子，我也总是能找出无数名人反例，他们垃圾堆一样的书桌，他们无处下脚的书房，诸如此类。 感… |
 | 2026-10-20 | [处决童年的自己 I](https://mobius.blog/25949.html) | 周末的咖啡厅，带孩子出来玩的人变得多起来。比如此时此刻，在我的视野里，就有两个推着婴儿车来咖啡厅休息的家庭，他 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-10-19 | [“The Visitor”](https://lachaise.xyz/2026/visitor/) | 10 月 4 日 ：看了个电影叫 Man på drift，电影的英语是叫 The Visitor。之所以想看这个电影，是因为瑞典人写的影评里说，这部片子有种「蔡明亮的味道」。 对白是立陶宛语，字幕是瑞典语。整个放映厅里有三个人，一个中年女性，一个老年女性，还有我。看了不到半小时，老年女性开始打呼噜… |
+| 2026-10-19 | [AI 早报 2026-10-20：10.20总结；DeepSeek 开源 DeepInfer，首版支持 V4.1 Flash 离线推理](https://www.jtxyh.com/daily/2026-10-20/) | 2026-10-20 AI 早报，共 25 条动态。本期的重点是推理部署、智能体权限和实际应用。DeepSeek 开源推理框架 DeepInfer，采用 Apache 2.0 许可。路透社 10 月 20 日援引知情人士报道，字节跳动、阿里巴巴和腾讯订购了超过 300 万块英伟达 RTX PRO 5… |
 | 2026-10-19 | [R#124 前人的树](https://blog.sakanano.moe/journals/random_124) | 2026.10.13 ~ 2026.10.19 |
 | 2026-10-19 | [失职与无助](https://blog.solazy.me/20261019/) | 今天晚上和同事吃饭，聊到了一个有趣的话题…… |
+| 2026-10-19 | [2026 阅读](https://z.arlmy.me/posts/YearlyBooks/YearlyBooks_2026/) | 「2026 年阅读短评备份。」 |
 | 2026-10-19 | [Ambermoon updated](https://macsourceports.com/game/ambermoon) | The build of Ambermoon.net for Ambermoon has been updated to version v1.14.2 of the project |
 | 2026-10-19 | [Lemmings updated](https://macsourceports.com/game/lemmings) | The build of Ultimate Lemmings for Lemmings has been updated to version v2.0.7 of the project |
 | 2026-10-19 | [Quetoo updated](https://macsourceports.com/game/quetoo) | The build of Quetoo has been updated to version v1.0.130 of the project |
