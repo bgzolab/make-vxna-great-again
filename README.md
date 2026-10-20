@@ -153,29 +153,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-10-13 | [烧饼论坛开放注册，邀请朋友一起赚烧饼](https://u.sb/sb-sb-open-registration/) | 烧饼论坛开放注册啦，不再需要邀请码，新会员注册就送 10 个烧饼，通过邀请链接加入并验证邮箱，双方还能各得 10 个烧饼。 |
 | 2026-10-13 | [来澳洲之前，值得提前想清楚的四件事](https://www.ozexplorers.com/%E6%BE%B3%E6%B4%B2%E7%94%9F%E6%B4%BB/2026/10/13/four-things-to-consider-before-moving-to-australia.md.html) | 最近不少人趁着国庆假期来澳洲旅游，发的内容无外乎碧海晴天、袋鼠考拉、自由快乐，再感叹一句： |
 | 2026-10-13 | [AI 时代下的 App 乱象](https://gaoyu.me/blog/35-app-promotion) | 过去是从零到一最难，现在是从一到一百最难。 |
-| 2026-10-12 | [Wolfenstein: Enemy Territory updated](https://macsourceports.com/game/wolfet) | The build of ET: Legacy for Wolfenstein: Enemy Territory has been updated to version 2.86.2 of the project |
-| 2026-10-12 | [Crispy Doom updated](https://macsourceports.com/sourceport/crispydoom) | The build of Crispy Doom for the DOOM engine series of games has been updated to version crispy-doom-7.2 of the project\n\nhttps://macsourceports.com/… |
-| 2026-10-12 | [Quake updated](https://macsourceports.com/game/quake) | The build of vkQuake for Quake has been updated to version 1.37.0 of the project |
-| 2026-10-12 | [**用中医理论重塑日常养生：以「治未病」为核心的慢性病预防框架](https://blog.zzbd.org/miao20261013/) | 用中医理论重塑日常养生：以「治未病」为核心的慢性病预防框架 |
-| 2026-10-12 | [AI 早报 2026-10-13：长鑫存储 4F² DRAM 突破：年底推新一代服务器内存，美光、闪迪股价重挫](https://www.jtxyh.com/daily/2026-10-13/) | 2026-10-13 AI 早报，共 55 条动态。10月10日，长鑫存储（CXMT）总裁曹堪宇宣布，新一代 4F² DRAM 存储单元架构取得关键进展，目标在 2026 年底前推出结合 4F² 架构与混合键合技术的新一代 DDR5 RDIMM 服务器内存。 |
-| 2026-10-12 | [R#123 分界线](https://blog.sakanano.moe/journals/random_123) | 2026.10.6 ~ 2026.10.12 |
-| 2026-10-12 | [Coffee Break Clojure, Async](https://www.geedea.pro/article/clj7/) | 上一篇 我提及了如何用 Ring 开发 HTTP 服务器，也提到 Ring 提供了同步 API 和异步 API。那么，什么是异步编程？为什么需要异步？在什么情况下需要让一个程序同时做很多事情？ 同步、异步、并发和并行 同步（synchronization）的中文名字可能会让人误以为是多个实体同时进行… |
-| 2026-10-12 | [比闹钟醒得早，是一种勤劳么？](https://blog.solazy.me/20261012/) | 你有比闹钟醒得早吗？ |
-| 2026-10-12 | [测量标准](https://physnya.top/astro-physics/lesson-2/) | 星等和测光 两种星等系统： Vega 系统：用 Vega 的光谱作为标准谱，标定其他星体的星等. Vega 在各通带处均为 0 等； AB 系统：用 Vega 在 v 波段流量密度 3631 J y 3631\text{ J}_{\text{y}} 3631 J y ​ 作为统一零点定标. 一般 A… |
-| 2026-10-12 | [双星系统](https://physnya.top/compact-object/lesson-4-double-star-system/) | Pre-1：用白矮星来探测系外行星的成分 为什么用白矮星？ 因为白矮星的光谱非常「干净」，它的光谱中并没有太多金属成分对我们的测量造成污染；同时白矮星非常「敏感」，有系外行星的光谱会很容易地被探测出来. 我们所使用的方式就是光谱. 测量得到的结果是，有被污染的白矮星，其被污染的这些谱线和地球、哈雷彗… |
-| 2026-10-12 | [HTML里的“宏”](https://blog.est.im/2026/stdout-40) | 摊牌了，分享两个极少有人知道的技巧。 观察下面的网页 https://lab.est.im/xhtml/ 有没有发现神奇之处 '> ]> Entity test hey &my_symbol; visit &wikipedia; for more! 另外就是刚做的 play2mi 有一个特立独行的想… |
-| 2026-10-12 | [巴别塔](https://kaix.in/2026/1012/) | Emoji 常被喻为现代的巴别塔或新世界语，但是塔终归还是要建在地上，而各地又有各地的规矩。 fin. 激赏 ！ 来信 。 |
-| 2026-10-12 | [中国不是汉人的民族国家](https://sinyalee.com/blog/?p=1366) | 中国政府现在的统治，其实建立在一个非常脆弱的理解之上：中国是汉人的民族国家。 我写《中国必须停止歧视汉人》的时 […] |
-| 2026-10-12 | [Memos: 周边最后一家能吃的麻辣烫也拉胯了](https://blog.yasking.org/a/1791785685) | 正宗的哈尔滨麻辣烫默认不加麻酱、或至少麻将是可选的，汤是清亮的。 这家是我吃过、少有的 ‘东北老式麻辣烫’，在北京这边 … |
-| 2026-10-12 | [Toots 440 2026 Oct.4 - Oct.10](https://z.arlmy.me/posts/MastodonArchives/2026/MastodonTootsArchives_20261010/) | 「寒露。」 |
-| 2026-10-12 | [冰箱艺术家](https://www.hecaitou.com/2026/10/The-Refrigerator-Artist.html) | 这个周末，我把我的公众号搞得有点像是小红书。先是发了一条贴图：《 老登冰箱贴 》，发现留言区里有很多读者展示了自己家的冰箱贴，于是又专门发了一条征集贴：《 看看大家的冰箱贴 》，这下子看到了琳琅满目的私人收藏。 我个人很喜欢读者朋友分享的这些内容。当我看到各种各样的冰箱门或是磁力面板上贴着冰箱贴，无… |
-| 2026-10-12 | [先回答这四个问题，再谈独立开发](https://www.evan.xin/5124/) | 观点一：身份错位 —— 独立开发被当成了"退路"，但它其实是"高地" 文章的逻辑起点是：现实中大多数人的路径是 […] |
-| 2026-10-12 | [Zine#60 - 追加與回顧笔記法、通風、天國拯救](https://taxodium.ink/60.html) | Zine#60 追加與回顧笔記法、通風、天國拯救 🎵 ふたたび - 久石譲 目錄 News &#124; Article Cool Bit Blog Related Tutorial &#124; Resource Code Related AI Related Tool &#124; Library Emacs 一些话 &#124; 摘… |
-| 2026-10-12 | [大早上的，看着关注的几位大佬互撕，心里真](https://versun.me/blog/tweet-2109466842452660559) | 大早上的，看着关注的几位大佬互撕，心里真不是滋味。 我的观点是：Talk is cheap. Show me the app 现在代码不值钱了，值钱的是迭代、交付、运营、维护，单拎一个出来都不简单 至于批评别人用 AI 工具，就像坐高铁的人批评坐飞机的人，没啥意义 |
-| 2026-10-12 | [又又又决定写周记了](https://zhangke.space/%e5%8f%88%e5%8f%88%e5%8f%88%e5%86%b3%e5%ae%9a%e8%a6%81%e5%86%99%e5%91%a8%e8%ae%b0%e4%ba%86/?utm_source=rss&utm_medium=rss&utm_campaign=%25e5%258f%2588%25e5%258f%2588%25e5%258f%2588%25e5%2586%25b3%25e5%25ae%259a%25e8%25a6%2581%25e5%2586%2599%25e5%2591%25a8%25e8%25ae%25b0%25e4%25ba%2586) | 又想写周记了，生活和工作中有很多值得记录的东西，而且我的记性真的很差，所以这次一定要坚持把周记写下去了。 而且 […] The post 又又又决定写周记了 first appeared on 张可的博客 . |
-| 2026-10-12 | [秀肌肉骂街的泼妇](https://mobius.blog/25882.html) | 前几天，我在网上目睹了一场争吵——虽然说是争吵，但其实非常无聊，甚至两个人从始至终就没有在一个频道上吵架。 吵 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
-| 2026-10-12 | [DOOM II updated](https://macsourceports.com/game/doom2) | The build of DOOM II RT: Metal for DOOM II has been updated to version 1.0 of the project |
-| 2026-10-12 | [油管｜直播YPP时长和直播场次](https://dsx2016.com/youtube-live-ypp-watch-time-and-livestream-sessions/) | YPP时长 在直播结束后，大概过了几个小时，看到了21k直播的数据 显示累计观看时长39小时，这个我预计的10... 油管｜直播YPP时长和直播场次 最先出现在 大师兄2016 。 |
 
 ## Vibe Coding
 
