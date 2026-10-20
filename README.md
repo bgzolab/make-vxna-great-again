@@ -33,8 +33,12 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-10-20 | [入蜀记 day510 二姐、没有根的演奏者、足火水仙、我去哪儿](https://z.arlmy.me/posts/BBBPandINSW/INSW-deep/INSW_510/) | 「二姐、没有根的演奏者、足火水仙、我去哪儿。」 |
 | 2026-10-20 | [入蜀记 day509 未完成的文本、无数个世界、止疼药](https://z.arlmy.me/posts/BBBPandINSW/INSW-deep/INSW_509/) | 「未完成的文本、无数个世界、止疼药。」 |
 | 2026-10-20 | [入蜀记 day508 Teste先生](https://z.arlmy.me/posts/BBBPandINSW/INSW-deep/INSW_508/) | 「Teste先生。」 |
+| 2026-10-20 | [Lemmings updated](https://macsourceports.com/game/lemmings) | The build of Ultimate Lemmings for Lemmings has been updated to version v2.1 of the project |
+| 2026-10-20 | [Quetoo updated](https://macsourceports.com/game/quetoo) | The build of Quetoo has been updated to version v1.0.132 of the project |
+| 2026-10-20 | [Total Annihilation updated](https://macsourceports.com/game/totalannihilation) | The build of Open Annihilation for Total Annihilation has been updated to version v0.8.4 of the project |
 | 2026-10-20 | [油管｜web网站和固件下载](https://dsx2016.com/youtube-website-and-firmware-downloads/) | 固件产品 有时候油管视频作为吃饭或者睡觉背景音 有时候油管视频主要是教程和资源类 有时候油管视频是信息，娱乐，... 油管｜web网站和固件下载 最先出现在 大师兄2016 。 |
 | 2026-10-20 | [免费域名接入 Cloudflare 的一个小技巧](https://www.gaojinan.com/free-subdomain-cloudflare-double-hyphen.html) | 免费域名想接入 CF，可以试试在申请的时候把名字写成 xx--example，也就是第 3、4 位用两个半角横线。例如下面这种格式（仅作示例）：ab--myblog.freedomain.kgc... |
+| 2026-10-20 | [Insaniquarium updated](https://macsourceports.com/game/insaniquarium) | The build of Insaniquarium Portable for Insaniquarium has been updated to version 0.5 of the project |
 | 2026-10-20 | [Google AI Pro 学生羊毛：Google AI Pro + YouTube Premium 两年半](https://www.gaojinan.com/google-ai-pro-student-benefit-youtube-premium.html) | 最近 Google 的学生优惠又更新了。符合条件的账号可以先领 12 个月 Google AI Pro 免费试用；如果账号所在地区还能订阅 Google AI Pro + YouTube Pre... |
 | 2026-10-20 | [a16z推出社交网络 Cosign：背书有多重要？](https://wenfeixiang.com/2026/10/cosign-by-a16z/) | 在9月底的一次播客上，美国知名风投机构 a16z 的 4位合伙人：Erik Torenberg 与 Josh […] |
 | 2026-10-20 | [一种培养收纳习惯的有效方式](https://www.hecaitou.com/2026/10/an-effective-way-to-build-a-tidying-habit.html) | 按照稍微宽松一点的标准来说，我现在算是有收拾家的习惯了。不时会主动归置归置物品，整理整理各处台面，完全背离了我之前四十多年的天性。 我天性喜欢乱丢乱放随手扔，多年来被无数人无数次挽救过。但是没有用，举再多名人的例子，我也总是能找出无数名人反例，他们垃圾堆一样的书桌，他们无处下脚的书房，诸如此类。 感… |
@@ -45,8 +49,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-10-19 | [失职与无助](https://blog.solazy.me/20261019/) | 今天晚上和同事吃饭，聊到了一个有趣的话题…… |
 | 2026-10-19 | [2026 阅读](https://z.arlmy.me/posts/YearlyBooks/YearlyBooks_2026/) | 「2026 年阅读短评备份。」 |
 | 2026-10-19 | [Ambermoon updated](https://macsourceports.com/game/ambermoon) | The build of Ambermoon.net for Ambermoon has been updated to version v1.14.2 of the project |
-| 2026-10-19 | [Lemmings updated](https://macsourceports.com/game/lemmings) | The build of Ultimate Lemmings for Lemmings has been updated to version v2.0.7 of the project |
-| 2026-10-19 | [Quetoo updated](https://macsourceports.com/game/quetoo) | The build of Quetoo has been updated to version v1.0.130 of the project |
 | 2026-10-19 | [Splatterlight updated](https://macsourceports.com/sourceport/spatterlight) | The build of Splatterlight for the Infocom series of games has been updated to version v1.5.5 of the project\n\nhttps://macsourceports.com/sourceport/… |
 | 2026-10-19 | [恒星结构](https://physnya.top/astro-physics/lesson-4-star-structure/) | 恒星形成的 Jeans 判据：根据前面所讨论，常密度的球形气体云的引力势能为 Ω = − 3 5 G M 2 R \Omega=-\frac{3}{5}\frac{GM^2}{R} Ω = − 5 3 ​ R G M 2 ​ |
 | 2026-10-19 | [[翻译] 如何更有野心：给带着模型干活的人的教程](http://tubaozi.top/posts/2026/how-to-be-more-ambitious/) | Anthropic 的 Felix Rieseberg 把「用 AI 要有野心」拆成速度、高度、深度、广度四个方向，每个方向都给了能直接照做的具体手法。 |
@@ -63,7 +65,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-10-18 | [最近惦念 20261002](https://z.arlmy.me/posts/TILs/thoughts/20261002_Recently/) | 「人类概念达咩。」 |
 | 2026-10-18 | [我的 knowledge mem 从 0](https://versun.me/blog/tweet-2111816758743154972) | 我的 knowledge mem 从 0.10.103 一路回滚到了 0.10.99 才没出问题。。。。 不升级了，我还是等11月重构后的全新版本吧😂 |
 | 2026-10-18 | [油管｜短视频和长视频的对比](https://dsx2016.com/comparing-youtube-short-form-and-long-form-videos/) | 短视频 越是尝试剪辑视频之类的工作，越是觉得应该优先短视频 短视频从前期的拍摄到后期的剪辑，以及上传的网络带宽... 油管｜短视频和长视频的对比 最先出现在 大师兄2016 。 |
-| 2026-10-18 | [Total Annihilation updated](https://macsourceports.com/game/totalannihilation) | The build of Open Annihilation for Total Annihilation has been updated to version v0.8.3 of the project |
 | 2026-10-18 | [emacs-保存ediff结果为带字符级高亮的src-block](https://blog.prayhand13013.top/20261018T185247--emacs-保存ediff结果为带字符级高亮的src-block__blog.html) |  |
 | 2026-10-18 | [What’s next for the indie web?](https://www.geedea.pro/en/article/weepinbell/) | I have been blogging in English for some time, but this is my first time participating in an indie web conversation. So I think I should introduce mys… |
 | 2026-10-18 | [第十届网络社会年会（新加坡场）｜Dylan Reibling：将临的网络？电影制作、Web3与网络化社会的未来](https://caa-ins.org/archives/13481) | 文 / 迪伦·雷比林（Dylan Reibling）翻译 / 井俱进校对 / 叶云鹤 感谢温教授的精彩演讲。接下来换我发言，恐怕就没那么有深度了。 这实际上是我的第二次 PowerPoint 演示。第一次是在上海。所以如果现在看起来有些粗糙，你们就知道原因了。不过，非常感谢你们邀请我来这里。 我在上… |
@@ -130,7 +131,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-10-15 | [介绍两位歌王](https://www.hecaitou.com/2026/10/meet-two-kings-of-song.html) | 最近在网上偶然遇见了两位殿堂级歌王，选 CD 的时候看到他们的专辑封面，让我感觉到一种诡异的熟悉，但我又的确不认识他们。 一位是 Mikhail Bennett，灵魂歌王，面相非常沧桑的一位美国西部老人，拥有一把老烟枪嗓子，主要是弹唱乡村歌曲，内容多为讲述他破碎的一生，什么儿子死了一类的事情。 另一… |
 | 2026-10-15 | [一个人的异托邦 I](https://mobius.blog/25915.html) | “异托邦”，原意指“异质空间”，是法国哲学家米歇尔·福柯提出的概念。简单来说，异托邦是现实存在的“世界”，然而 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-10-15 | [工作的节奏](https://hux.ink/posts/the-rhythm-of-work/) | 昨天下班比平时晚了一点。 我回到家时，爸妈已经吃完晚饭，见我还没回来，就带着孩子在小区楼下玩。后来我到了，把孩子领上楼准备写作业。 我爸见到我，问了一句：“今天怎么这么晚？” 我说，加了一会儿班，晚下班了半个小时。 他接着说，大意是：“前段时间出去玩了那么久，现在是不是要把落下的工作补回来。” 他说… |
-| 2026-10-14 | [Insaniquarium updated](https://macsourceports.com/game/insaniquarium) | The build of Insaniquarium Portable for Insaniquarium has been updated to version 0.4 of the project |
 | 2026-10-14 | [AI 早报 2026-10-15：10.15总结；阶跃星辰开放Step 5 Preview模型权重，支持100万token上下文](https://www.jtxyh.com/daily/2026-10-15/) | 2026-10-15 AI 早报，共 25 条动态。本期重点是模型开放、算力投入与智能体治理。阶跃星辰10月15日开放Step 5 Preview模型权重并发布技术博客。台积电10月15日公布2026年第三季度业绩：净利润7630.6亿新台币，同比增长68.7%，创季度新高；每股收益29.43新台币… |
 | 2026-10-14 | [2006，带着手册去装服务器](https://www.tortorse.com/archives/installing-servers-with-a-manual-2006/) | 带着安装手册在机房安装服务器 |
 | 2026-10-14 | [出站口外趴活的司机](https://blog.solazy.me/20261014/) | 最近在外面出差，遇到一个现象…… |

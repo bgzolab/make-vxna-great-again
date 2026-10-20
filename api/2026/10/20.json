@@ -42,6 +42,27 @@
     "source_root_domain": "arlmy.me"
   },
   {
+    "title": "Lemmings updated",
+    "url": "https://macsourceports.com/game/lemmings",
+    "date": "2026-10-20T11:00:42Z",
+    "description": "The build of Ultimate Lemmings for Lemmings has been updated to version v2.1 of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "Quetoo updated",
+    "url": "https://macsourceports.com/game/quetoo",
+    "date": "2026-10-20T11:00:41Z",
+    "description": "The build of Quetoo has been updated to version v1.0.132 of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "Total Annihilation updated",
+    "url": "https://macsourceports.com/game/totalannihilation",
+    "date": "2026-10-20T11:00:40Z",
+    "description": "The build of Open Annihilation for Total Annihilation has been updated to version v0.8.4 of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
     "title": "油管｜web网站和固件下载",
     "url": "https://dsx2016.com/youtube-website-and-firmware-downloads/",
     "date": "2026-10-20T09:29:49Z",
@@ -54,6 +75,13 @@
     "date": "2026-10-20T06:59:00Z",
     "description": "免费域名想接入 CF，可以试试在申请的时候把名字写成 xx--example，也就是第 3、4 位用两个半角横线。例如下面这种格式（仅作示例）：ab--myblog.freedomain.kgc...",
     "source_root_domain": "gaojinan.com"
+  },
+  {
+    "title": "Insaniquarium updated",
+    "url": "https://macsourceports.com/game/insaniquarium",
+    "date": "2026-10-20T05:45:42Z",
+    "description": "The build of Insaniquarium Portable for Insaniquarium has been updated to version 0.5 of the project",
+    "source_root_domain": "macsourceports.com"
   },
   {
     "title": "Google AI Pro 学生羊毛：Google AI Pro + YouTube Premium 两年半",
@@ -123,20 +151,6 @@
     "url": "https://macsourceports.com/game/ambermoon",
     "date": "2026-10-19T11:00:39Z",
     "description": "The build of Ambermoon.net for Ambermoon has been updated to version v1.14.2 of the project",
-    "source_root_domain": "macsourceports.com"
-  },
-  {
-    "title": "Lemmings updated",
-    "url": "https://macsourceports.com/game/lemmings",
-    "date": "2026-10-19T11:00:39Z",
-    "description": "The build of Ultimate Lemmings for Lemmings has been updated to version v2.0.7 of the project",
-    "source_root_domain": "macsourceports.com"
-  },
-  {
-    "title": "Quetoo updated",
-    "url": "https://macsourceports.com/game/quetoo",
-    "date": "2026-10-19T11:00:39Z",
-    "description": "The build of Quetoo has been updated to version v1.0.130 of the project",
     "source_root_domain": "macsourceports.com"
   },
   {
@@ -250,13 +264,6 @@
     "date": "2026-10-18T13:18:29Z",
     "description": "短视频 越是尝试剪辑视频之类的工作，越是觉得应该优先短视频 短视频从前期的拍摄到后期的剪辑，以及上传的网络带宽... 油管｜短视频和长视频的对比 最先出现在 大师兄2016 。",
     "source_root_domain": "dsx2016.com"
-  },
-  {
-    "title": "Total Annihilation updated",
-    "url": "https://macsourceports.com/game/totalannihilation",
-    "date": "2026-10-18T11:00:36Z",
-    "description": "The build of Open Annihilation for Total Annihilation has been updated to version v0.8.3 of the project",
-    "source_root_domain": "macsourceports.com"
   },
   {
     "title": "emacs-保存ediff结果为带字符级高亮的src-block",
