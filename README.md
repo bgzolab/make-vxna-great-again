@@ -27,6 +27,8 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-10-21 | [我为小说忙：（六）我们需要 OCR](https://blog.mfwt.top/index.php/archives/1589/) | 严格来说，本文算是番外篇，因为插件的主体部分已经开发完毕。但光有插件肯定是不够的，我们还需要内容。对于《如果瓷杯从未冷透》来说，由于一开始就是电子版，直接复制粘贴就行，但另外一本，《触碰：晨晓之... |
+| 2026-10-21 | [处决童年的自己 II](https://mobius.blog/25955.html) | 这个系列并不是单纯回顾自己的童年，而是前几天一个朋友给我留言。 虽然他在留言里用了一句“这些故事告诉你，希望能 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-10-20 | [啸风山庄](https://www.geedea.pro/library/2026/wuthering-heights/) | 《啸风山庄》是经典英国文学 Wuthering Heights 的新译本，译者是赖慈芸。这本在大陆更常见的译名是《呼啸山庄》，在台湾的译名是《咆哮山庄》，译者本人是台湾师范大学翻译研究所教授，可以说这个新译本统一了两岸的译名。书中还附上《啸风山庄》的翻译简史，读起来蛮有趣。曾经 Wuthering… |
 | 2026-10-20 | [入蜀记 day512 刚需与服从性](https://z.arlmy.me/posts/BBBPandINSW/INSW-deep/INSW_512/) | 「刚需与服从性。」 |
 | 2026-10-20 | [入蜀记 day511 二手文章、小饭骨、乱花争放](https://z.arlmy.me/posts/BBBPandINSW/INSW-deep/INSW_511/) | 「二手文章、小饭骨、乱花争放。」 |
@@ -38,10 +40,12 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-10-20 | [Total Annihilation updated](https://macsourceports.com/game/totalannihilation) | The build of Open Annihilation for Total Annihilation has been updated to version v0.8.4 of the project |
 | 2026-10-20 | [油管｜web网站和固件下载](https://dsx2016.com/youtube-website-and-firmware-downloads/) | 固件产品 有时候油管视频作为吃饭或者睡觉背景音 有时候油管视频主要是教程和资源类 有时候油管视频是信息，娱乐，... 油管｜web网站和固件下载 最先出现在 大师兄2016 。 |
 | 2026-10-20 | [免费域名接入 Cloudflare 的一个小技巧](https://www.gaojinan.com/free-subdomain-cloudflare-double-hyphen.html) | 免费域名想接入 CF，可以试试在申请的时候把名字写成 xx--example，也就是第 3、4 位用两个半角横线。例如下面这种格式（仅作示例）：ab--myblog.freedomain.kgc... |
+| 2026-10-20 | [有用上 oppo 的 ai 心力球吗，感](https://versun.me/blog/tweet-2112428444089045498) | 有用上 oppo 的 ai 心力球吗，感觉怎么样 老早就有类似的想法了，当初是想用大疆的 mic mini 2s 搭配 hermes 来实现，不过一直拖到现在。。 |
 | 2026-10-20 | [Insaniquarium updated](https://macsourceports.com/game/insaniquarium) | The build of Insaniquarium Portable for Insaniquarium has been updated to version 0.5 of the project |
 | 2026-10-20 | [Google AI Pro 学生羊毛：Google AI Pro + YouTube Premium 两年半](https://www.gaojinan.com/google-ai-pro-student-benefit-youtube-premium.html) | 最近 Google 的学生优惠又更新了。符合条件的账号可以先领 12 个月 Google AI Pro 免费试用；如果账号所在地区还能订阅 Google AI Pro + YouTube Pre... |
 | 2026-10-20 | [a16z推出社交网络 Cosign：背书有多重要？](https://wenfeixiang.com/2026/10/cosign-by-a16z/) | 在9月底的一次播客上，美国知名风投机构 a16z 的 4位合伙人：Erik Torenberg 与 Josh […] |
 | 2026-10-20 | [一种培养收纳习惯的有效方式](https://www.hecaitou.com/2026/10/an-effective-way-to-build-a-tidying-habit.html) | 按照稍微宽松一点的标准来说，我现在算是有收拾家的习惯了。不时会主动归置归置物品，整理整理各处台面，完全背离了我之前四十多年的天性。 我天性喜欢乱丢乱放随手扔，多年来被无数人无数次挽救过。但是没有用，举再多名人的例子，我也总是能找出无数名人反例，他们垃圾堆一样的书桌，他们无处下脚的书房，诸如此类。 感… |
+| 2026-10-20 | [有订阅 Google AI Ultra](https://versun.me/blog/tweet-2112358811810005352) | 有订阅 Google AI Ultra 的吗，如果只用Gemini 4 Argon的话，额度相比只用 Opus 5.5 的 Claude max 5x 哪个更多呀 |
 | 2026-10-20 | [处决童年的自己 I](https://mobius.blog/25949.html) | 周末的咖啡厅，带孩子出来玩的人变得多起来。比如此时此刻，在我的视野里，就有两个推着婴儿车来咖啡厅休息的家庭，他 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-10-19 | [“The Visitor”](https://lachaise.xyz/2026/visitor/) | 10 月 4 日 ：看了个电影叫 Man på drift，电影的英语是叫 The Visitor。之所以想看这个电影，是因为瑞典人写的影评里说，这部片子有种「蔡明亮的味道」。 对白是立陶宛语，字幕是瑞典语。整个放映厅里有三个人，一个中年女性，一个老年女性，还有我。看了不到半小时，老年女性开始打呼噜… |
 | 2026-10-19 | [AI 早报 2026-10-20：10.20总结；DeepSeek 开源 DeepInfer，首版支持 V4.1 Flash 离线推理](https://www.jtxyh.com/daily/2026-10-20/) | 2026-10-20 AI 早报，共 25 条动态。本期的重点是推理部署、智能体权限和实际应用。DeepSeek 开源推理框架 DeepInfer，采用 Apache 2.0 许可。路透社 10 月 20 日援引知情人士报道，字节跳动、阿里巴巴和腾讯订购了超过 300 万块英伟达 RTX PRO 5… |
@@ -143,31 +147,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-10-14 | [为什么做加密货币的钱包产品很难赚钱](https://smallyu.net/2026/10/14/%E4%B8%BA%E4%BB%80%E4%B9%88%E5%81%9A%E5%8A%A0%E5%AF%86%E8%B4%A7%E5%B8%81%E7%9A%84%E9%92%B1%E5%8C%85%E4%BA%A7%E5%93%81%E5%BE%88%E9%9A%BE%E8%B5%9A%E9%92%B1/) | 我有过几段加密货币钱包开发的经历。后来回过头看，我越来越确信一件事： 做加密货币钱包，是整个 Web3 |
 | 2026-10-14 | [低成本自建阿里云函数计算FC+OSS图床](https://krya.com/post/oss/) | 先说三件事： 本图床功能简单，配置容易，足够安全；如果不够用，源码丢给Ai，极易增删功能。 本文所有 AccessKey 、密码、域名、Bucket 名都是占位符，照抄前请替换成你自己的。 代码是单文件 Node.js（约 380 行），依赖通过 FC 层（Layer） 注入，业务代码零硬编码，全部… |
 | 2026-10-14 | [近两年我使用过的相机](https://bluepika.life/blog/cameras-i-used-in-the-past-two-years) | 回顾近两年用过的数码与胶片相机，以及最终选择尼康 Zf 的理由。 |
-| 2026-10-13 | [拆解四柱五行--自测篇](https://blog.zzbd.org/miao20261014/) | 公历： 1986 年 12 月 29 日 01:00 ，丑时（1:00–3:00） 四柱： 丙寅 庚子 丁未 辛丑 日主： 丁火（你本人，丁灯之火，烛火、星光，不是烈火） |
-| 2026-10-13 | [五行的核心](https://blog.zzbd.org/miao20261014-3/) | 一是“五行”的基本思想与运用，二是“周易”的核心观念与结构。二者在中国哲学里是互通的：都在回答“世界是什么样”“变化有什么规律”“人应当怎样处世”这三大问题。 |
-| 2026-10-13 | [定而后能静：一念之慢，万物之宁](https://blog.zzbd.org/miao20261014-2/) | 《周易・系辞》说：”易，无思也，无为也，寂然不动，感而遂通天下之故。” 你听这句话 —— 寂然不动，感而遂通。天地之间最难的事情，不是动，而是不动时的感应。真正的力量，从来不在急促里，而在那一份 “寂然” 里。你越是急着要抓住什么，什么就越从指缝里流走；你越是安静地站在那里，万物反而向你走来。 |
-| 2026-10-13 | [方块](https://mobius.blog/25898.html) | 在《∞》里搜索有关酒精的字眼，里面出现的都是在某一则小说里以道具的形式出现。但按道理来说，2016年期间我去过 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
-| 2026-10-13 | [AI 早报 2026-10-14：10.14总结；日本拟投至多210亿美元在美建两座晶圆厂：格芯运营，苹果、瑞萨是首批客户](https://www.jtxyh.com/daily/2026-10-14/) | 2026-10-14 AI 早报，共 21 条动态。本期先看影响使用和预算的变化：Google已向全球开发者及企业开放Gemini 4 Argon，API每百万输入/输出token的介绍价为2/10美元，11月30日后升至4/20美元。10月14日，GlobalFoundries宣布日本将投资至多2… |
-| 2026-10-13 | [PVE9 超融合基础设施 - 4.PVE 虚拟化网络 - VLAN](https://songxwn.com/PVE-HCI-4/) | PVE 单机默认使用Linux Bridge进行网络配置。 PVE 集群的Vnets本质上和VMware的vDS分布式交换机很像，就是为了在集群里面给虚拟机一个统一的网络接入选项。当虚拟机在线迁移、故障切换的时候能够自动化，在任意主机节点都能使用对应网络。 |
-| 2026-10-13 | [油管｜佣金带货products](https://dsx2016.com/products-for-affiliate-marketing-on-youtube/) | products 看到油管消息通知有个小红点 点开大致看了下是佣金带货提示，10个小时前 和我发布手工视频时间... 油管｜佣金带货products 最先出现在 大师兄2016 。 |
-| 2026-10-13 | [油管｜aigc和自动化工作流](https://dsx2016.com/youtube-aigc-and-automated-workflows/) | 工作流 这里指的不是ai短剧或者ai视频 ai自动工作流本文是自动化，ai去除人声，ai生成字幕，ai转英文或... 油管｜aigc和自动化工作流 最先出现在 大师兄2016 。 |
-| 2026-10-13 | [X忍不住了，彻底封死低价订阅](https://gugegt.com/x-subscription-price-revamp.html) | 10 月初，有人在 X 上发了一段录屏：四档订阅，8 到 200 美元，Grok 和 Cursor 的额度共用一个池子。发帖的人自己补了一句，产品还在测试，条款随时会变。 10 月 12 日，这套东西正式上线了。 名字叫 The X Subscription。官方页面的说法是：一份订阅，价格差不多等… |
-| 2026-10-13 | [主动代谢](https://z.arlmy.me/posts/Essays/2026/MaxwellDemon_20261013/) | 「屎里还有多少熵？」 |
-| 2026-10-13 | [正行亡私补](https://z.arlmy.me/posts/Essays/2026/SpringAndAutumnNew_20261013/) | 「新战国。」 |
-| 2026-10-13 | [Proxmox VE LXC - 系统级容器](https://songxwn.com/PVE-LXC-Linux-Containers/) | PVE（Proxmox VE）同时支持两种「虚拟化」：一种是基于 KVM 的虚拟机（QEMU/KVM），另一种就是 LXC（Linux Containers）容器。很多人第一次用 PVE 都会疑惑：既然已经有虚拟机了，为什么还要 LXC？它和 Docker 又是什么关系？本文简单梳理一下 LXC 的… |
-| 2026-10-13 | [也不能贼着我一个人薅吧](https://www.hecaitou.com/2026/10/stop-shearing-the-same-sheep.html) | 如果日更压力太大，我个人建议要么别更，要么写短文写句子。没必要硬写，一定要硬写，也不要整天贼（zēi）着我一个人，我更新什么主题，看完自己也更新什么主题。贼也就贼吧，但其实只是把我的文章拿去，用自己的话重新再写一遍，这就没多大意思了。 倒不是小气，我那么说完全是基于个人经验。以前还流行写时评那会儿，… |
-| 2026-10-13 | [高级的食材往往只需要最朴素的烹饪方式](https://versun.me/blog/tweet-2109862937808777252) | yetone 很多人想让我分享一下工作流，我一直没想好怎么分享，因为其实我没有任何的魔法，甚至还特别简陋，总觉得分享出来毫无意义。其实我就是用 Claude Code，然后用官方的 Opus 5.5 模型执行 loop 就可以了。 我会并行执行图里的 3 个 loop，然后每晚抽一点时间铲铲屎（主要… |
-| 2026-10-13 | [油管｜产品展示和佣金以及手工](https://dsx2016.com/youtube-product-showcases-commissions-and-handmade-items/) | YPP和产品 只靠YPP有时候赚的反而比较少 商单，佣金联盟，卖课，自己的主页可能赚的更多 在完成1000粉丝... 油管｜产品展示和佣金以及手工 最先出现在 大师兄2016 。 |
-| 2026-10-13 | [最近在给 magpie 设置“意图分流”](https://versun.me/blog/tweet-2109836116467802426) | 最近在给 magpie 设置“意图分流”功能， 让 hermes 简单对比了 cloudflare 的 clef flash 和本地部署 clef flash 4bit的差异，供大家参考 TLDR：准确度没差，相应慢 0.8s，更稳定，可本地部署使用 |
-| 2026-10-13 | [Commander-Genius updated](https://macsourceports.com/sourceport/commander-genius) | The build of Commander-Genius for the Commander Keen series of games has been updated to version v3.6.4 of the project\n\nhttps://macsourceports.com/s… |
-| 2026-10-13 | [陷阱悲剧 I](https://mobius.blog/25895.html) | 首先需要解释一下，“陷阱悲剧”这个词并不是已经存在的某种具体的艺术形式，而是我个人对于现阶段AI短剧模型的一个 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
-| 2026-10-13 | [X Pass 新订阅出来了，把所有都整合](https://versun.me/blog/tweet-2109817318364889337) | X Pass 新订阅出来了，把所有都整合在一起了 日元区有6个月的优惠(7刀每月) 建议转 |
-| 2026-10-13 | [几幅常见的中药配伍-补气养血](https://blog.zzbd.org/miao20261013-2/) | 一定要注意：下面所有剂量仅为中医经典和教科书常见 “ 成人日剂量参考 ”，不适合作为你自己照方抓药服用的依据。 体质、病情、年龄、怀孕与否，都必须由中医师面诊后调整，用错方可能越吃越糟。 |
-| 2026-10-13 | [浅谈评估AI数据标注的准确率](https://prologue.dev/blog/evaluating-ai-data-labeling-accuracy) | 自动优化提示词的原理、模型标签A/B测试统计分析、证据驱动的模型打标质量改进。 |
-| 2026-10-13 | [doma.in 二级域名注册上线，烧饼也能换域名啦](https://u.sb/doma-in/) | 烧饼旗下的二级域名注册平台 doma.in 已开放 wz.org、wz.io、com.fo 和 co.fo 注册，论坛会员还可以用大米购买域名代金券。 |
-| 2026-10-13 | [烧饼论坛开放注册，邀请朋友一起赚烧饼](https://u.sb/sb-sb-open-registration/) | 烧饼论坛开放注册啦，不再需要邀请码，新会员注册就送 10 个烧饼，通过邀请链接加入并验证邮箱，双方还能各得 10 个烧饼。 |
-| 2026-10-13 | [来澳洲之前，值得提前想清楚的四件事](https://www.ozexplorers.com/%E6%BE%B3%E6%B4%B2%E7%94%9F%E6%B4%BB/2026/10/13/four-things-to-consider-before-moving-to-australia.md.html) | 最近不少人趁着国庆假期来澳洲旅游，发的内容无外乎碧海晴天、袋鼠考拉、自由快乐，再感叹一句： |
-| 2026-10-13 | [AI 时代下的 App 乱象](https://gaoyu.me/blog/35-app-promotion) | 过去是从零到一最难，现在是从一到一百最难。 |
 
 ## Vibe Coding
 
