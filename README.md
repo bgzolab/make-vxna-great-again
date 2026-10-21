@@ -27,14 +27,18 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-10-21 | [有梦不如做个超大号的](https://www.hecaitou.com/2026/10/if-youre-going-to-dream-make-it-supersized.html) | 有读者建议我，试试用 AI 改变生活，让它负责安排我每天的日程，小到做菜，大到日常事务，都交给 AI。 说实话，看到这个建议的时候我愣了一下。先是觉得这个想法有点绝，但又不是那么绝，因为隐隐约约之间有点熟悉，不够超凡脱俗。再想了一会儿，我琢磨过滋味来，好像上一次那么干的是那群在田纳西州摘棉花的黑人朋… |
+| 2026-10-21 | [DeepSeek Harness 破甲 网络安全红队工具（dsh-purge）](https://www.cheshirex.com/11480.html) | dsh-purge原仓库是：https://github.com/YuJunZhiXue/dsh-purge […] |
 | 2026-10-21 | [我为小说忙：（六）我们需要 OCR](https://blog.mfwt.top/index.php/archives/1589/) | 严格来说，本文算是番外篇，因为插件的主体部分已经开发完毕。但光有插件肯定是不够的，我们还需要内容。对于《如果瓷杯从未冷透》来说，由于一开始就是电子版，直接复制粘贴就行，但另外一本，《触碰：晨晓之... |
 | 2026-10-21 | [处决童年的自己 II](https://mobius.blog/25955.html) | 这个系列并不是单纯回顾自己的童年，而是前几天一个朋友给我留言。 虽然他在留言里用了一句“这些故事告诉你，希望能 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
+| 2026-10-21 | [独立游戏简评 Vol.6](https://bluepika.life/blog/indie-game-notes-6) | 这期只聊两个游戏，刚好它们都是幸存者 Like 游戏，先给出我的评价，它们在幸存者这类型游戏上都做了一些新的尝试，并且都带给我了不少快乐，我认为这两款独立游戏都值得推荐，另外这次也将会从 Cora 的视角来看看这两款游戏的体验怎么样。 球比伦战记 这是今年某一周里 Nintendo Online 的… |
 | 2026-10-20 | [啸风山庄](https://www.geedea.pro/library/2026/wuthering-heights/) | 《啸风山庄》是经典英国文学 Wuthering Heights 的新译本，译者是赖慈芸。这本在大陆更常见的译名是《呼啸山庄》，在台湾的译名是《咆哮山庄》，译者本人是台湾师范大学翻译研究所教授，可以说这个新译本统一了两岸的译名。书中还附上《啸风山庄》的翻译简史，读起来蛮有趣。曾经 Wuthering… |
 | 2026-10-20 | [入蜀记 day512 刚需与服从性](https://z.arlmy.me/posts/BBBPandINSW/INSW-deep/INSW_512/) | 「刚需与服从性。」 |
 | 2026-10-20 | [入蜀记 day511 二手文章、小饭骨、乱花争放](https://z.arlmy.me/posts/BBBPandINSW/INSW-deep/INSW_511/) | 「二手文章、小饭骨、乱花争放。」 |
 | 2026-10-20 | [入蜀记 day510 二姐、没有根的演奏者、足火水仙、我去哪儿](https://z.arlmy.me/posts/BBBPandINSW/INSW-deep/INSW_510/) | 「二姐、没有根的演奏者、足火水仙、我去哪儿。」 |
 | 2026-10-20 | [入蜀记 day509 未完成的文本、无数个世界、止疼药](https://z.arlmy.me/posts/BBBPandINSW/INSW-deep/INSW_509/) | 「未完成的文本、无数个世界、止疼药。」 |
 | 2026-10-20 | [入蜀记 day508 Teste先生](https://z.arlmy.me/posts/BBBPandINSW/INSW-deep/INSW_508/) | 「Teste先生。」 |
+| 2026-10-20 | [「听不懂话」的销售](https://blog.solazy.me/20261020/) | 又是今天的一个真实事件引发的一段思考 |
 | 2026-10-20 | [Lemmings updated](https://macsourceports.com/game/lemmings) | The build of Ultimate Lemmings for Lemmings has been updated to version v2.1 of the project |
 | 2026-10-20 | [Quetoo updated](https://macsourceports.com/game/quetoo) | The build of Quetoo has been updated to version v1.0.132 of the project |
 | 2026-10-20 | [Total Annihilation updated](https://macsourceports.com/game/totalannihilation) | The build of Open Annihilation for Total Annihilation has been updated to version v0.8.4 of the project |
