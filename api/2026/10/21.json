@@ -56,6 +56,13 @@
     "source_root_domain": "arlmy.me"
   },
   {
+    "title": "初探优化器（一）：从SGD到SOAP-Muon",
+    "url": "https://mer.dev/posts/optimizers-revisited-1/",
+    "date": "2026-10-20T16:00:00Z",
+    "description": "重读优化器系列的第一篇，整理一下我对已有优化器工作的理解。",
+    "source_root_domain": "mer.dev"
+  },
+  {
     "title": "入蜀记 day510 二姐、没有根的演奏者、足火水仙、我去哪儿",
     "url": "https://z.arlmy.me/posts/BBBPandINSW/INSW-deep/INSW_510/",
     "date": "2026-10-20T15:58:27Z",
@@ -82,6 +89,13 @@
     "date": "2026-10-20T15:30:00Z",
     "description": "又是今天的一个真实事件引发的一段思考",
     "source_root_domain": "solazy.me"
+  },
+  {
+    "title": "日本高中生物（基础部分）",
+    "url": "https://springwood.me/jp-highschool-biology-1/",
+    "date": "2026-10-20T15:00:00Z",
+    "description": "（摘要）我在读高中时、书上说催化剂又称触媒。但是我从来没听人这么叫过。现在才发现原来中文的“催化剂”在日语里叫做「触媒」。",
+    "source_root_domain": "springwood.me"
   },
   {
     "title": "Lemmings updated",
