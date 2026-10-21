@@ -27,6 +27,9 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-10-21 | [爱拯救之](https://www.geedea.pro/article/amour-en-sauve/) | 极客死亡计划现在运行在安装 OpenBSD 8.0 的服务器上，不是 Linux。 我在 第一百零一期周刊 因 Linux 如今也包含 LLM 生成的代码而感到沮丧，写道：“我用 Linux，不可能不用”——结果，我还真的可以不用。Linus Torvalds 最近还在 邮件列表 里回复一条我读起来… |
+| 2026-10-21 | [Lemmings updated](https://macsourceports.com/game/lemmings) | The build of Ultimate Lemmings for Lemmings has been updated to version v2.1.1 of the project |
+| 2026-10-21 | [Quetoo updated](https://macsourceports.com/game/quetoo) | The build of Quetoo has been updated to version v1.0.133 of the project |
 | 2026-10-21 | [有梦不如做个超大号的](https://www.hecaitou.com/2026/10/if-youre-going-to-dream-make-it-supersized.html) | 有读者建议我，试试用 AI 改变生活，让它负责安排我每天的日程，小到做菜，大到日常事务，都交给 AI。 说实话，看到这个建议的时候我愣了一下。先是觉得这个想法有点绝，但又不是那么绝，因为隐隐约约之间有点熟悉，不够超凡脱俗。再想了一会儿，我琢磨过滋味来，好像上一次那么干的是那群在田纳西州摘棉花的黑人朋… |
 | 2026-10-21 | [DeepSeek Harness 破甲 网络安全红队工具（dsh-purge）](https://www.cheshirex.com/11480.html) | dsh-purge原仓库是：https://github.com/YuJunZhiXue/dsh-purge […] |
 | 2026-10-21 | [我为小说忙：（六）我们需要 OCR](https://blog.mfwt.top/index.php/archives/1589/) | 严格来说，本文算是番外篇，因为插件的主体部分已经开发完毕。但光有插件肯定是不够的，我们还需要内容。对于《如果瓷杯从未冷透》来说，由于一开始就是电子版，直接复制粘贴就行，但另外一本，《触碰：晨晓之... |
@@ -35,14 +38,13 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-10-20 | [啸风山庄](https://www.geedea.pro/library/2026/wuthering-heights/) | 《啸风山庄》是经典英国文学 Wuthering Heights 的新译本，译者是赖慈芸。这本在大陆更常见的译名是《呼啸山庄》，在台湾的译名是《咆哮山庄》，译者本人是台湾师范大学翻译研究所教授，可以说这个新译本统一了两岸的译名。书中还附上《啸风山庄》的翻译简史，读起来蛮有趣。曾经 Wuthering… |
 | 2026-10-20 | [入蜀记 day512 刚需与服从性](https://z.arlmy.me/posts/BBBPandINSW/INSW-deep/INSW_512/) | 「刚需与服从性。」 |
 | 2026-10-20 | [入蜀记 day511 二手文章、小饭骨、乱花争放](https://z.arlmy.me/posts/BBBPandINSW/INSW-deep/INSW_511/) | 「二手文章、小饭骨、乱花争放。」 |
-| 2026-10-20 | [初探优化器（一）：从SGD到SOAP-Muon](https://mer.dev/posts/optimizers-revisited-1/) | 重读优化器系列的第一篇，整理一下我对已有优化器工作的理解。 |
+| 2026-10-20 | [AI 早报 2026-10-21：英伟达发布 OpenShell 参考架构：给企业智能体上“三道锁”](https://www.jtxyh.com/daily/2026-10-21/) | 2026-10-21 AI 早报，共 38 条动态。英伟达10月21日在柏林 GTC 大会上发布 OpenShell 参考架构，把开源 OpenShell 安全运行时扩展成全栈智能体基础设施：模型跑在 Vera Rubin 系统上，智能体支架和工具调用跑在 Vera CPU 上，BlueField… |
+| 2026-10-20 | [初探优化器（一）：从SGD到SOAP-Muon](https://mer.dev/posts/optimizers-revisited-1/) | 初探优化器系列的第一篇，整理一下我对已有优化器工作的理解。 |
 | 2026-10-20 | [入蜀记 day510 二姐、没有根的演奏者、足火水仙、我去哪儿](https://z.arlmy.me/posts/BBBPandINSW/INSW-deep/INSW_510/) | 「二姐、没有根的演奏者、足火水仙、我去哪儿。」 |
 | 2026-10-20 | [入蜀记 day509 未完成的文本、无数个世界、止疼药](https://z.arlmy.me/posts/BBBPandINSW/INSW-deep/INSW_509/) | 「未完成的文本、无数个世界、止疼药。」 |
 | 2026-10-20 | [入蜀记 day508 Teste先生](https://z.arlmy.me/posts/BBBPandINSW/INSW-deep/INSW_508/) | 「Teste先生。」 |
 | 2026-10-20 | [「听不懂话」的销售](https://blog.solazy.me/20261020/) | 又是今天的一个真实事件引发的一段思考 |
 | 2026-10-20 | [日本高中生物（基础部分）](https://springwood.me/jp-highschool-biology-1/) | （摘要）我在读高中时、书上说催化剂又称触媒。但是我从来没听人这么叫过。现在才发现原来中文的“催化剂”在日语里叫做「触媒」。 |
-| 2026-10-20 | [Lemmings updated](https://macsourceports.com/game/lemmings) | The build of Ultimate Lemmings for Lemmings has been updated to version v2.1 of the project |
-| 2026-10-20 | [Quetoo updated](https://macsourceports.com/game/quetoo) | The build of Quetoo has been updated to version v1.0.132 of the project |
 | 2026-10-20 | [Total Annihilation updated](https://macsourceports.com/game/totalannihilation) | The build of Open Annihilation for Total Annihilation has been updated to version v0.8.4 of the project |
 | 2026-10-20 | [油管｜web网站和固件下载](https://dsx2016.com/youtube-website-and-firmware-downloads/) | 固件产品 有时候油管视频作为吃饭或者睡觉背景音 有时候油管视频主要是教程和资源类 有时候油管视频是信息，娱乐，... 油管｜web网站和固件下载 最先出现在 大师兄2016 。 |
 | 2026-10-20 | [免费域名接入 Cloudflare 的一个小技巧](https://www.gaojinan.com/free-subdomain-cloudflare-double-hyphen.html) | 免费域名想接入 CF，可以试试在申请的时候把名字写成 xx--example，也就是第 3、4 位用两个半角横线。例如下面这种格式（仅作示例）：ab--myblog.freedomain.kgc... |
@@ -54,6 +56,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-10-20 | [有订阅 Google AI Ultra](https://versun.me/blog/tweet-2112358811810005352) | 有订阅 Google AI Ultra 的吗，如果只用Gemini 4 Argon的话，额度相比只用 Opus 5.5 的 Claude max 5x 哪个更多呀 |
 | 2026-10-20 | [处决童年的自己 I](https://mobius.blog/25949.html) | 周末的咖啡厅，带孩子出来玩的人变得多起来。比如此时此刻，在我的视野里，就有两个推着婴儿车来咖啡厅休息的家庭，他 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-10-19 | [“The Visitor”](https://lachaise.xyz/2026/visitor/) | 10 月 4 日 ：看了个电影叫 Man på drift，电影的英语是叫 The Visitor。之所以想看这个电影，是因为瑞典人写的影评里说，这部片子有种「蔡明亮的味道」。 对白是立陶宛语，字幕是瑞典语。整个放映厅里有三个人，一个中年女性，一个老年女性，还有我。看了不到半小时，老年女性开始打呼噜… |
+| 2026-10-19 | [广义相对论的观测效应](https://physnya.top/compact-object/lesson-5-general-relativity-effect/) | 广义相对论的可观测效应 我们的核心讨论是，什么时候必须用广义相对论. 狭义相对论效应回顾 光速不变原理. 这引入了 Lorentz 因子， γ = 1 1 − v 2 / c 2 \gamma = \frac{1}{\sqrt{1-v^2/c^2}} γ = 1 − v 2 / c 2 ​ 1 ​… |
 | 2026-10-19 | [AI 早报 2026-10-20：10.20总结；DeepSeek 开源 DeepInfer，首版支持 V4.1 Flash 离线推理](https://www.jtxyh.com/daily/2026-10-20/) | 2026-10-20 AI 早报，共 25 条动态。本期的重点是推理部署、智能体权限和实际应用。DeepSeek 开源推理框架 DeepInfer，采用 Apache 2.0 许可。路透社 10 月 20 日援引知情人士报道，字节跳动、阿里巴巴和腾讯订购了超过 300 万块英伟达 RTX PRO 5… |
 | 2026-10-19 | [R#124 前人的树](https://blog.sakanano.moe/journals/random_124) | 2026.10.13 ~ 2026.10.19 |
 | 2026-10-19 | [失职与无助](https://blog.solazy.me/20261019/) | 今天晚上和同事吃饭，聊到了一个有趣的话题…… |

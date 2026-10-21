@@ -1,5 +1,26 @@
 [
   {
+    "title": "爱拯救之",
+    "url": "https://www.geedea.pro/article/amour-en-sauve/",
+    "date": "2026-10-21T15:52:48Z",
+    "description": "极客死亡计划现在运行在安装 OpenBSD 8.0 的服务器上，不是 Linux。 我在 第一百零一期周刊 因 Linux 如今也包含 LLM 生成的代码而感到沮丧，写道：“我用 Linux，不可能不用”——结果，我还真的可以不用。Linus Torvalds 最近还在 邮件列表 里回复一条我读起来毫无恶意的邮件，用十分荒唐的逻辑称对方的想法愚蠢之极（“UTTERLY STUPID”），语气强烈。 前不久 ，他用 Claude Code 写的代码被评审者找出潜在的竞态问题（race condition）。 再后来 ，Linux 内核不再要求贡献者披露 LLM 使用情况。 这一切都给了我更多的理由抛弃 Linux，去用 BSD。我们讨论的不是可有可无的 SaaS 软件，我们说的是 Linux，全世界都依赖的操作系统。 Oh Linus, oh Linus, you let us all down. 不少 LLM 追捧者貌似只有那么一两个论点，Linus 一边骂人一边强调“LLM 是工具”，与此同时，Rich Hickey 1 说： 我一辈子都在造工具和用工具，我知道工具是什么。LLM 可",
+    "source_root_domain": "geedea.pro"
+  },
+  {
+    "title": "Lemmings updated",
+    "url": "https://macsourceports.com/game/lemmings",
+    "date": "2026-10-21T11:18:01Z",
+    "description": "The build of Ultimate Lemmings for Lemmings has been updated to version v2.1.1 of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "Quetoo updated",
+    "url": "https://macsourceports.com/game/quetoo",
+    "date": "2026-10-21T11:18:00Z",
+    "description": "The build of Quetoo has been updated to version v1.0.133 of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
     "title": "有梦不如做个超大号的",
     "url": "https://www.hecaitou.com/2026/10/if-youre-going-to-dream-make-it-supersized.html",
     "date": "2026-10-21T04:19:32Z",
@@ -56,10 +77,17 @@
     "source_root_domain": "arlmy.me"
   },
   {
+    "title": "AI 早报 2026-10-21：英伟达发布 OpenShell 参考架构：给企业智能体上“三道锁”",
+    "url": "https://www.jtxyh.com/daily/2026-10-21/",
+    "date": "2026-10-20T16:00:00Z",
+    "description": "2026-10-21 AI 早报，共 38 条动态。英伟达10月21日在柏林 GTC 大会上发布 OpenShell 参考架构，把开源 OpenShell 安全运行时扩展成全栈智能体基础设施：模型跑在 Vera Rubin 系统上，智能体支架和工具调用跑在 Vera CPU 上，BlueField DPU 上的…",
+    "source_root_domain": "jtxyh.com"
+  },
+  {
     "title": "初探优化器（一）：从SGD到SOAP-Muon",
     "url": "https://mer.dev/posts/optimizers-revisited-1/",
     "date": "2026-10-20T16:00:00Z",
-    "description": "重读优化器系列的第一篇，整理一下我对已有优化器工作的理解。",
+    "description": "初探优化器系列的第一篇，整理一下我对已有优化器工作的理解。",
     "source_root_domain": "mer.dev"
   },
   {
@@ -96,20 +124,6 @@
     "date": "2026-10-20T15:00:00Z",
     "description": "（摘要）我在读高中时、书上说催化剂又称触媒。但是我从来没听人这么叫过。现在才发现原来中文的“催化剂”在日语里叫做「触媒」。",
     "source_root_domain": "springwood.me"
-  },
-  {
-    "title": "Lemmings updated",
-    "url": "https://macsourceports.com/game/lemmings",
-    "date": "2026-10-20T11:00:42Z",
-    "description": "The build of Ultimate Lemmings for Lemmings has been updated to version v2.1 of the project",
-    "source_root_domain": "macsourceports.com"
-  },
-  {
-    "title": "Quetoo updated",
-    "url": "https://macsourceports.com/game/quetoo",
-    "date": "2026-10-20T11:00:41Z",
-    "description": "The build of Quetoo has been updated to version v1.0.132 of the project",
-    "source_root_domain": "macsourceports.com"
   },
   {
     "title": "Total Annihilation updated",
@@ -187,6 +201,13 @@
     "date": "2026-10-19T18:00:00Z",
     "description": "10 月 4 日 ：看了个电影叫 Man på drift，电影的英语是叫 The Visitor。之所以想看这个电影，是因为瑞典人写的影评里说，这部片子有种「蔡明亮的味道」。 对白是立陶宛语，字幕是瑞典语。整个放映厅里有三个人，一个中年女性，一个老年女性，还有我。看了不到半小时，老年女性开始打呼噜，一直打了全场。 这个整个片都比较闲散，有点奇奇怪怪的。 故事的男主角是生活在挪威的立陶宛人。他从挪威回到立陶宛卖房子，然后遇到了一些曾经认识的人，比如女邻居。他帮女邻居遛狗，女邻居和他用久别重逢的亲昵语气说，我生娃了。男主也说，我也生娃了。 打算买房的年轻情侣来看房的时候，二人在房间里留连不舍。等了很久，有点尴尬地问男主，我们想单独在这个房子里待一会儿，感受一下它的 vibe。男主更加尴尬了，思考了半天只好答应。于是出去逛街、发呆，一直到晚上去露天的啤酒摊喝酒，听人唱卡拉OK。电影中有很多行走、围观、发呆的场景。有街景，有男主住的小区，还有海边。有生日 party，还有露天卡拉 OK。 男主很晚回家，发现看房的情侣已经打地铺在房子里睡了。第二天醒来，情侣给男主做了早饭。吃完早饭，情侣终于要",
     "source_root_domain": "lachaise.xyz"
+  },
+  {
+    "title": "广义相对论的观测效应",
+    "url": "https://physnya.top/compact-object/lesson-5-general-relativity-effect/",
+    "date": "2026-10-19T17:06:44Z",
+    "description": "广义相对论的可观测效应 我们的核心讨论是，什么时候必须用广义相对论. 狭义相对论效应回顾 光速不变原理. 这引入了 Lorentz 因子， γ = 1 1 − v 2 / c 2 \\gamma = \\frac{1}{\\sqrt{1-v^2/c^2}} γ = 1 − v 2 / c 2 ​ 1 ​ 时间延缓效应： Δ t = γ Δ τ \\Delta t=\\gamma\\Delta\\tau Δ t = γ Δ τ . 长度收缩效应： L = L 0 / γ L=L_0/\\gamma L = L 0 ​ / γ . 能量与动量的变换： E = γ m c 2 E=\\gamma mc^2 E = γ m c 2 ， p = γ m v p=\\gamma mv p = γ m v . 相对论集束：或者说前灯效应，在速度方向的发射粒子分布更多.",
+    "source_root_domain": "physnya.top"
   },
   {
     "title": "AI 早报 2026-10-20：10.20总结；DeepSeek 开源 DeepInfer，首版支持 V4.1 Flash 离线推理",
