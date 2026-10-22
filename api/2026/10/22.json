@@ -1,5 +1,19 @@
 [
   {
+    "title": "【剧透】赛博朋克: 边缘行者 第二季 观后感",
+    "url": "https://7gugu.com/index.php/2026/10/23/%e8%b5%9b%e5%8d%9a%e6%9c%8b%e5%85%8b-%e8%be%b9%e7%bc%98%e8%a1%8c%e8%80%85-%e7%ac%ac%e4%ba%8c%e5%ad%a3/",
+    "date": "2026-10-22T17:22:40Z",
+    "description": "Netflix就是厚道，一次性放10集，爽看。剧情也没Threads上说的那么糟糕，当然也没第一季马丁内斯那么 … 继续阅读 “【剧透】赛博朋克: 边缘行者 第二季 观后感”",
+    "source_root_domain": "7gugu.com"
+  },
+  {
+    "title": "QuietSearch:支持 Kagi 和 DeepSeek API 的轻量搜索界面",
+    "url": "https://anotherdayu.com/quietsearch-kagi-deepseek-api/",
+    "date": "2026-10-22T15:30:00Z",
+    "description": "引 最近做了一个满足个人需求的小工具 QuietSearch ，是一个可以部署在 Cloudflare 上的轻量搜索界面，支持接入 Kagi 和 DeepSeek 的搜索 API。 在设置中选择引擎、填入自己的 API Key，就可以搜索。配置 DeepSeek Key 后，在问题末尾加上 ？ ，还可以生成带来源引用的回答。 可以先试试 我部署的版本 ，调用费用由你自己的 API 账户承担。Key 请自行妥善保存，网页只在当前页面内存中保存，但请求会经过网站后端转发。用完可以移除；如果不放心，也可以到服务商平台撤销这个 Key。 自行部署也很简单：Fork 仓库，在 Cloudflare Workers 中导入，构建命令填写 npm run build ，部署命令填写 npx wrangler deploy 。仓库里有图文教程。 讨论 我是 Kagi 的忠实用户，非常重视主动检索在日常工作和生活中的作用。做这个工具，起初是好奇 DeepSeek 搜索 API 的效果，以及它有没有可能取代百度在中国的地位。 用了三天，感觉它更像是为 AI 提供资料的搜索服务。对我来说，返回的结果缺少明确",
+    "source_root_domain": "anotherdayu.com"
+  },
+  {
     "title": "Nginx1.31.7编译原生GeoIP模块并写入JSON访问日志",
     "url": "https://199604.com/3730",
     "date": "2026-10-22T14:07:53Z",
@@ -82,6 +96,13 @@
     "date": "2026-10-22T00:30:51Z",
     "description": "TL;DR 细节 10 月 21 日（周三），PHP 安全团队发布通告，措辞罕见地直接： “If […]",
     "source_root_domain": "ensonyan.com"
+  },
+  {
+    "title": "AI 早报 2026-10-22：10.22总结；法律 AI 公司 Legora 完成 5.5 亿美元 E 轮融资，估值 88 亿美元",
+    "url": "https://www.jtxyh.com/daily/2026-10-22/",
+    "date": "2026-10-21T16:00:00Z",
+    "description": "2026-10-22 AI 早报，共 19 条动态。本期重点是智能体产品的可用阶段、算力投入和企业落地。法律 AI 公司 Legora 10 月 21 日宣布完成 5.5 亿美元 E 轮融资，投后估值 88 亿美元，由 Atreides Management 领投，Baron…",
+    "source_root_domain": "jtxyh.com"
   },
   {
     "title": "爱拯救之",
