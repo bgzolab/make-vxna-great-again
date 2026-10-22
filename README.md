@@ -27,6 +27,12 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-10-22 | [青甘行·上｜祁连山色，张掖丹霞](https://hux.ink/posts/qinggan-trip-02/) | 序曲 ：前路未知，满怀期待 9 月 24 日，临出发前，我写了一篇 序曲短记 ，末尾写道：“前路未知，满怀期待，最美风景在路上。” 彼时行李已经收拾妥当，接下来十三天的行程也基本安排好了，只等出门赶高铁。虽然提前在网上看过一些攻略和照片，对即将经过的地方有初步了解，但毕竟是第一次去大西北，真正会遇见… |
+| 2026-10-22 | [AI Infra：大型定量模型（LQM）研究](https://luweiqing.com/resources/AI-Infra-LQM.html) | 2026年10月20日，Gartner正式发布《2027年十大战略技术趋势》，将大型定量模型（Large Quantitative Models，简称 LQM）列为首项趋势。当AI的聚光灯从“能... |
+| 2026-10-22 | [人书俱老](https://www.hecaitou.com/2026/10/when-the-writer-and-the-work-mature-together.html) | 前几天是鲁迅先生逝世 90 周年，他在小朋友中间的影响力还有那么大么？不好说。当初我家书架上有他的作品集，很多人家也有，理所应当的样子，今天还是如此么？ 金庸在世的时候，国人已经发展出了「金学」，认为他写的武侠小说是难以逾越的文学高峰。但我问过很多 00 后小朋友，提起这个名字他们都是一脸茫然，除非… |
+| 2026-10-22 | [走大朝台我在想啥？一](https://1900.live/zou-da-zhao-tai-wo-zai-xiang-sha-yi/) | null 规划 国庆假期前夕，琢磨着走川西方向安排个一两天的行程看看秋景彩林，候选的地方也定了好几个，奈何那段时间四川天气多以雨天为主，想来去了也是大雾弥漫或者湿答答的，全然不会是我预想中的体验。 而且还联想起上次去龙华山雨天徒步，凌晨3点出发进山，淅沥的小雨让陡峭的徒步路线泥泞非常，几乎走两步就滑… |
+| 2026-10-22 | [2026.10.21](https://www.justzht.com/2026-10-21/) | 昨天下了班和 huaxia 会和开去 SJ 南边看了 American Psycho 重映，就是 sigma face meme 出处的那个电影。老电影了，和 Fight Club 一样，都或多或少 |
+| 2026-10-22 | [受PHP漏洞影响近期多台服务器将会进行升级操作，可能造成部分服务中断](https://www.cheshirex.com/11498.html) | 受PHP漏洞影响近期多台服务器将会进行升级操作，可能造成部分服务中断 目前本站大部分宝塔面板用的 […] |
 | 2026-10-22 | [拧螺丝](https://mobius.blog/25959.html) | 安装猫架、拧螺丝的时候，想起了一个“常识”——不过我至今不觉得这是一个“常识”，可能只是一个在记忆里被保存然后 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-10-22 | [php2shell: 一条请求，让全球 70% 互联网被迫下线](https://blog.ensonyan.com/it/3504.html) | TL;DR 细节 10 月 21 日（周三），PHP 安全团队发布通告，措辞罕见地直接： “If […] |
 | 2026-10-21 | [爱拯救之](https://www.geedea.pro/article/amour-en-sauve/) | 极客死亡计划现在运行在安装 OpenBSD 8.0 的服务器上，不是 Linux。 我在 第一百零一期周刊 因 Linux 如今也包含 LLM 生成的代码而感到沮丧，写道：“我用 Linux，不可能不用”——结果，我还真的可以不用。Linus Torvalds 最近还在 邮件列表 里回复一条我读起来… |
@@ -43,7 +49,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-10-20 | [啸风山庄](https://www.geedea.pro/library/2026/wuthering-heights/) | 《啸风山庄》是经典英国文学 Wuthering Heights 的新译本，译者是赖慈芸。这本在大陆更常见的译名是《呼啸山庄》，在台湾的译名是《咆哮山庄》，译者本人是台湾师范大学翻译研究所教授，可以说这个新译本统一了两岸的译名。书中还附上《啸风山庄》的翻译简史，读起来蛮有趣。曾经 Wuthering… |
 | 2026-10-20 | [入蜀记 day512 刚需与服从性](https://z.arlmy.me/posts/BBBPandINSW/INSW-deep/INSW_512/) | 「刚需与服从性。」 |
 | 2026-10-20 | [入蜀记 day511 二手文章、小饭骨、乱花争放](https://z.arlmy.me/posts/BBBPandINSW/INSW-deep/INSW_511/) | 「二手文章、小饭骨、乱花争放。」 |
-| 2026-10-20 | [AI 早报 2026-10-21：英伟达发布 OpenShell 参考架构：给企业智能体上“三道锁”](https://www.jtxyh.com/daily/2026-10-21/) | 2026-10-21 AI 早报，共 38 条动态。英伟达10月21日在柏林 GTC 大会上发布 OpenShell 参考架构，把开源 OpenShell 安全运行时扩展成全栈智能体基础设施：模型跑在 Vera Rubin 系统上，智能体支架和工具调用跑在 Vera CPU 上，BlueField… |
+| 2026-10-20 | [AI 早报 2026-10-21：10.21总结；英伟达发布 OpenShell 参考架构：给企业智能体上“三道锁”](https://www.jtxyh.com/daily/2026-10-21/) | 2026-10-21 AI 早报，共 39 条动态。本期重点是企业 AI 的部署与控制。英伟达10月21日在柏林 GTC 大会上发布 OpenShell 参考架构，把开源 OpenShell 安全运行时扩展成全栈智能体基础设施：模型跑在 Vera Rubin 系统上，智能体支架和工具调用跑在 Ver… |
 | 2026-10-20 | [初探优化器（一）：从SGD到SOAP-Muon](https://mer.dev/posts/optimizers-revisited-1/) | 初探优化器系列的第一篇，整理一下我对已有优化器工作的理解。 |
 | 2026-10-20 | [入蜀记 day510 二姐、没有根的演奏者、足火水仙、我去哪儿](https://z.arlmy.me/posts/BBBPandINSW/INSW-deep/INSW_510/) | 「二姐、没有根的演奏者、足火水仙、我去哪儿。」 |
 | 2026-10-20 | [入蜀记 day509 未完成的文本、无数个世界、止疼药](https://z.arlmy.me/posts/BBBPandINSW/INSW-deep/INSW_509/) | 「未完成的文本、无数个世界、止疼药。」 |
