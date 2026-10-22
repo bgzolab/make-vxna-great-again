@@ -27,13 +27,18 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-10-22 | [拧螺丝](https://mobius.blog/25959.html) | 安装猫架、拧螺丝的时候，想起了一个“常识”——不过我至今不觉得这是一个“常识”，可能只是一个在记忆里被保存然后 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
+| 2026-10-22 | [php2shell: 一条请求，让全球 70% 互联网被迫下线](https://blog.ensonyan.com/it/3504.html) | TL;DR 细节 10 月 21 日（周三），PHP 安全团队发布通告，措辞罕见地直接： “If […] |
 | 2026-10-21 | [爱拯救之](https://www.geedea.pro/article/amour-en-sauve/) | 极客死亡计划现在运行在安装 OpenBSD 8.0 的服务器上，不是 Linux。 我在 第一百零一期周刊 因 Linux 如今也包含 LLM 生成的代码而感到沮丧，写道：“我用 Linux，不可能不用”——结果，我还真的可以不用。Linus Torvalds 最近还在 邮件列表 里回复一条我读起来… |
 | 2026-10-21 | [Lemmings updated](https://macsourceports.com/game/lemmings) | The build of Ultimate Lemmings for Lemmings has been updated to version v2.1.1 of the project |
 | 2026-10-21 | [Quetoo updated](https://macsourceports.com/game/quetoo) | The build of Quetoo has been updated to version v1.0.133 of the project |
 | 2026-10-21 | [有梦不如做个超大号的](https://www.hecaitou.com/2026/10/if-youre-going-to-dream-make-it-supersized.html) | 有读者建议我，试试用 AI 改变生活，让它负责安排我每天的日程，小到做菜，大到日常事务，都交给 AI。 说实话，看到这个建议的时候我愣了一下。先是觉得这个想法有点绝，但又不是那么绝，因为隐隐约约之间有点熟悉，不够超凡脱俗。再想了一会儿，我琢磨过滋味来，好像上一次那么干的是那群在田纳西州摘棉花的黑人朋… |
+| 2026-10-21 | [我记得之前有看到过一个插件可以隐藏 AI](https://versun.me/blog/tweet-2112751575710228571) | 我记得之前有看到过一个插件可以隐藏 AI 留言的，是哪个来着，找不到了🥲 |
 | 2026-10-21 | [DeepSeek Harness 破甲 网络安全红队工具（dsh-purge）](https://www.cheshirex.com/11480.html) | dsh-purge原仓库是：https://github.com/YuJunZhiXue/dsh-purge […] |
 | 2026-10-21 | [我为小说忙：（六）我们需要 OCR](https://blog.mfwt.top/index.php/archives/1589/) | 严格来说，本文算是番外篇，因为插件的主体部分已经开发完毕。但光有插件肯定是不够的，我们还需要内容。对于《如果瓷杯从未冷透》来说，由于一开始就是电子版，直接复制粘贴就行，但另外一本，《触碰：晨晓之... |
 | 2026-10-21 | [处决童年的自己 II](https://mobius.blog/25955.html) | 这个系列并不是单纯回顾自己的童年，而是前几天一个朋友给我留言。 虽然他在留言里用了一句“这些故事告诉你，希望能 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
+| 2026-10-21 | [兄弟们！我发现这个搭配，非常适合 her](https://versun.me/blog/tweet-2112715157080346959) | 兄弟们！我发现这个搭配，非常适合 hermes： 使用 moa 模式！ deepseek v4.1 flash 做为参考模型，发挥短平快的绝佳单兵能力，快速出思路 gemini 3.8 flash 做为聚合模型，上下文大且不怎么退化，容错强，多轮循环稳定，执行后总结说人话！ 而且这2个额度都管够！！… |
+| 2026-10-21 | [不仅支持皮衣厂，还支持遥遥领先 Deep](https://versun.me/blog/tweet-2112711314464489487) | DeepSeek 🚀 Introducing DeepInfer, our in-house inference framework, now fully open source! Powering DeepSeek-V4.1-Flash at scale with high throughput… |
 | 2026-10-21 | [独立游戏简评 Vol.6](https://bluepika.life/blog/indie-game-notes-6) | 这期只聊两个游戏，刚好它们都是幸存者 Like 游戏，先给出我的评价，它们在幸存者这类型游戏上都做了一些新的尝试，并且都带给我了不少快乐，我认为这两款独立游戏都值得推荐，另外这次也将会从 Cora 的视角来看看这两款游戏的体验怎么样。 球比伦战记 这是今年某一周里 Nintendo Online 的… |
 | 2026-10-20 | [啸风山庄](https://www.geedea.pro/library/2026/wuthering-heights/) | 《啸风山庄》是经典英国文学 Wuthering Heights 的新译本，译者是赖慈芸。这本在大陆更常见的译名是《呼啸山庄》，在台湾的译名是《咆哮山庄》，译者本人是台湾师范大学翻译研究所教授，可以说这个新译本统一了两岸的译名。书中还附上《啸风山庄》的翻译简史，读起来蛮有趣。曾经 Wuthering… |
 | 2026-10-20 | [入蜀记 day512 刚需与服从性](https://z.arlmy.me/posts/BBBPandINSW/INSW-deep/INSW_512/) | 「刚需与服从性。」 |
@@ -144,18 +149,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-10-15 | [介绍两位歌王](https://www.hecaitou.com/2026/10/meet-two-kings-of-song.html) | 最近在网上偶然遇见了两位殿堂级歌王，选 CD 的时候看到他们的专辑封面，让我感觉到一种诡异的熟悉，但我又的确不认识他们。 一位是 Mikhail Bennett，灵魂歌王，面相非常沧桑的一位美国西部老人，拥有一把老烟枪嗓子，主要是弹唱乡村歌曲，内容多为讲述他破碎的一生，什么儿子死了一类的事情。 另一… |
 | 2026-10-15 | [一个人的异托邦 I](https://mobius.blog/25915.html) | “异托邦”，原意指“异质空间”，是法国哲学家米歇尔·福柯提出的概念。简单来说，异托邦是现实存在的“世界”，然而 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-10-15 | [工作的节奏](https://hux.ink/posts/the-rhythm-of-work/) | 昨天下班比平时晚了一点。 我回到家时，爸妈已经吃完晚饭，见我还没回来，就带着孩子在小区楼下玩。后来我到了，把孩子领上楼准备写作业。 我爸见到我，问了一句：“今天怎么这么晚？” 我说，加了一会儿班，晚下班了半个小时。 他接着说，大意是：“前段时间出去玩了那么久，现在是不是要把落下的工作补回来。” 他说… |
-| 2026-10-14 | [AI 早报 2026-10-15：10.15总结；阶跃星辰开放Step 5 Preview模型权重，支持100万token上下文](https://www.jtxyh.com/daily/2026-10-15/) | 2026-10-15 AI 早报，共 25 条动态。本期重点是模型开放、算力投入与智能体治理。阶跃星辰10月15日开放Step 5 Preview模型权重并发布技术博客。台积电10月15日公布2026年第三季度业绩：净利润7630.6亿新台币，同比增长68.7%，创季度新高；每股收益29.43新台币… |
-| 2026-10-14 | [2006，带着手册去装服务器](https://www.tortorse.com/archives/installing-servers-with-a-manual-2006/) | 带着安装手册在机房安装服务器 |
-| 2026-10-14 | [出站口外趴活的司机](https://blog.solazy.me/20261014/) | 最近在外面出差，遇到一个现象…… |
-| 2026-10-14 | [PVE9 超融合基础设施 - 5.PVE 虚拟化网络 - EVPN-VXLAN](https://songxwn.com/PVE-HCI-5/) | PVE 的 EVPN 区域可以理解为“VXLAN 数据通道 + BGP EVPN 控制平面 + 可配置的三层网关/路由” 。普通 VXLAN Zone 主要让不同节点上的 VM 处于同一张虚拟二层网；EVPN Zone 则进一步用于管理这些网络的路由，让不同 VNet 之间、甚至跨集群的网络互通成为… |
-| 2026-10-14 | [曹丰泽是野狗](https://sinyalee.com/blog/?p=1371) | 言论自由几乎等同于政治权利。一个人如果连表达自己的利益诉求的权利都没有，那么可以说这个人根本没有政治权利，更不 […] |
-| 2026-10-14 | [油管｜AI声音克隆和油管vlog](https://dsx2016.com/youtube-ai-sound-cloning-and-youtube-vlogs/) | AI声音克隆 用商业软件ai配音不是很满意，多数是适配中文，偶有英文，要么vip，要么音色太少没得选 用开源t... 油管｜AI声音克隆和油管vlog 最先出现在 大师兄2016 。 |
-| 2026-10-14 | [伤害豁免](https://www.hecaitou.com/2026/10/damage-immunity.html) | 我又发现了一个年龄增长带来的好处：对网上的伤害豁免。 新世纪初，我才上网写字不久，自然很在乎这件事。我上网经验也少，不知道匿名制会放大人性中的恶，不理解为什么人会如此刻薄恶毒。因此，看到有人贬低我的文笔，把我的文章说得一无是处时，我心里还是会觉得难过，偶尔甚至会自我怀疑。不过，也正因为这样，我暗自发… |
-| 2026-10-14 | [太好用，意图分流特别适合 agent，我](https://versun.me/blog/tweet-2110189979540635938) | Versun 最近在给 magpie 设置“意图分流”功能， 让 hermes 简单对比了 cloudflare 的 clef flash 和本地部署 clef flash 4bit的差异，供大家参考 TLDR：准确度没差，相应慢 0.8s，更稳定，可本地部署使用 太好用，意图分流特别适合 agen… |
-| 2026-10-14 | [陷阱悲剧 II](https://mobius.blog/25910.html) | 继续昨天的话题，既然“陷阱喜剧”的乐趣在于： 那用这个逻辑也可以制作悲剧吗？悲剧并不一定是让人难过，也可以是完 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
-| 2026-10-14 | [为什么做加密货币的钱包产品很难赚钱](https://smallyu.net/2026/10/14/%E4%B8%BA%E4%BB%80%E4%B9%88%E5%81%9A%E5%8A%A0%E5%AF%86%E8%B4%A7%E5%B8%81%E7%9A%84%E9%92%B1%E5%8C%85%E4%BA%A7%E5%93%81%E5%BE%88%E9%9A%BE%E8%B5%9A%E9%92%B1/) | 我有过几段加密货币钱包开发的经历。后来回过头看，我越来越确信一件事： 做加密货币钱包，是整个 Web3 |
-| 2026-10-14 | [低成本自建阿里云函数计算FC+OSS图床](https://krya.com/post/oss/) | 先说三件事： 本图床功能简单，配置容易，足够安全；如果不够用，源码丢给Ai，极易增删功能。 本文所有 AccessKey 、密码、域名、Bucket 名都是占位符，照抄前请替换成你自己的。 代码是单文件 Node.js（约 380 行），依赖通过 FC 层（Layer） 注入，业务代码零硬编码，全部… |
-| 2026-10-14 | [近两年我使用过的相机](https://bluepika.life/blog/cameras-i-used-in-the-past-two-years) | 回顾近两年用过的数码与胶片相机，以及最终选择尼康 Zf 的理由。 |
 
 ## Vibe Coding
 

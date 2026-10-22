@@ -1,0 +1,233 @@
+[
+  {
+    "title": "拧螺丝",
+    "url": "https://mobius.blog/25959.html",
+    "date": "2026-10-22T02:07:20Z",
+    "description": "安装猫架、拧螺丝的时候，想起了一个“常识”——不过我至今不觉得这是一个“常识”，可能只是一个在记忆里被保存然后 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。",
+    "source_root_domain": "onojyun.com"
+  },
+  {
+    "title": "php2shell: 一条请求，让全球 70% 互联网被迫下线",
+    "url": "https://blog.ensonyan.com/it/3504.html",
+    "date": "2026-10-22T00:30:51Z",
+    "description": "TL;DR 细节 10 月 21 日（周三），PHP 安全团队发布通告，措辞罕见地直接： “If […]",
+    "source_root_domain": "ensonyan.com"
+  },
+  {
+    "title": "爱拯救之",
+    "url": "https://www.geedea.pro/article/amour-en-sauve/",
+    "date": "2026-10-21T15:52:48Z",
+    "description": "极客死亡计划现在运行在安装 OpenBSD 8.0 的服务器上，不是 Linux。 我在 第一百零一期周刊 因 Linux 如今也包含 LLM 生成的代码而感到沮丧，写道：“我用 Linux，不可能不用”——结果，我还真的可以不用。Linus Torvalds 最近还在 邮件列表 里回复一条我读起来毫无恶意的邮件，用十分荒唐的逻辑称对方的想法愚蠢之极（“UTTERLY STUPID”），语气强烈。 前不久 ，他用 Claude Code 写的代码被评审者找出潜在的竞态问题（race condition）。 再后来 ，Linux 内核不再要求贡献者披露 LLM 使用情况。 这一切都给了我更多的理由抛弃 Linux，去用 BSD。我们讨论的不是可有可无的 SaaS 软件，我们说的是 Linux，全世界都依赖的操作系统。 Oh Linus, oh Linus, you let us all down. 不少 LLM 追捧者貌似只有那么一两个论点，Linus 一边骂人一边强调“LLM 是工具”，与此同时，Rich Hickey 1 说： 我一辈子都在造工具和用工具，我知道工具是什么。LLM 可",
+    "source_root_domain": "geedea.pro"
+  },
+  {
+    "title": "Lemmings updated",
+    "url": "https://macsourceports.com/game/lemmings",
+    "date": "2026-10-21T11:18:01Z",
+    "description": "The build of Ultimate Lemmings for Lemmings has been updated to version v2.1.1 of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "Quetoo updated",
+    "url": "https://macsourceports.com/game/quetoo",
+    "date": "2026-10-21T11:18:00Z",
+    "description": "The build of Quetoo has been updated to version v1.0.133 of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "有梦不如做个超大号的",
+    "url": "https://www.hecaitou.com/2026/10/if-youre-going-to-dream-make-it-supersized.html",
+    "date": "2026-10-21T04:19:32Z",
+    "description": "有读者建议我，试试用 AI 改变生活，让它负责安排我每天的日程，小到做菜，大到日常事务，都交给 AI。 说实话，看到这个建议的时候我愣了一下。先是觉得这个想法有点绝，但又不是那么绝，因为隐隐约约之间有点熟悉，不够超凡脱俗。再想了一会儿，我琢磨过滋味来，好像上一次那么干的是那群在田纳西州摘棉花的黑人朋友们，从早到晚做什么都有人安排好了。不干的话，还有皮鞭、猎犬和步枪伺候。 我能理解这个建议从何而来，它建立在几个假设上： 1、一定存在着一种更好的，更科学的，更有利于自己的生活方式；2、是人就应该去追求这种生活方式；3、但通常自己不知道这种生活方式是什么，知道了也不容易去执行，所以应该用工具来帮助自己。 问题是，我只支持假设 1，一点都不赞同假设 2，对于假设 3 内心也充满疑虑。而且，我也不赞同这些假设背后的那种想当然：AI 比人更聪明，适合指导人们如何生活。它都没去过一次公园，吃过一顿街边摊，你让我如何相信它？ 也许 50 年之后世界的确就是这个样子的，AI 负责安排一切，大家都躺在营养舱里脑后插着管子等着 AI 下指令。但我不想提前到今天，同样的，我也不想要什么更好的，更科学的，更利于",
+    "source_root_domain": "hecaitou.com"
+  },
+  {
+    "title": "我记得之前有看到过一个插件可以隐藏 AI",
+    "url": "https://versun.me/blog/tweet-2112751575710228571",
+    "date": "2026-10-21T03:43:23Z",
+    "description": "我记得之前有看到过一个插件可以隐藏 AI 留言的，是哪个来着，找不到了🥲",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "DeepSeek Harness 破甲 网络安全红队工具（dsh-purge）",
+    "url": "https://www.cheshirex.com/11480.html",
+    "date": "2026-10-21T03:29:47Z",
+    "description": "dsh-purge原仓库是：https://github.com/YuJunZhiXue/dsh-purge […]",
+    "source_root_domain": "cheshirex.com"
+  },
+  {
+    "title": "我为小说忙：（六）我们需要 OCR",
+    "url": "https://blog.mfwt.top/index.php/archives/1589/",
+    "date": "2026-10-21T01:56:02Z",
+    "description": "严格来说，本文算是番外篇，因为插件的主体部分已经开发完毕。但光有插件肯定是不够的，我们还需要内容。对于《如果瓷杯从未冷透》来说，由于一开始就是电子版，直接复制粘贴就行，但另外一本，《触碰：晨晓之...",
+    "source_root_domain": "mfwt.top"
+  },
+  {
+    "title": "处决童年的自己 II",
+    "url": "https://mobius.blog/25955.html",
+    "date": "2026-10-21T01:46:54Z",
+    "description": "这个系列并不是单纯回顾自己的童年，而是前几天一个朋友给我留言。 虽然他在留言里用了一句“这些故事告诉你，希望能 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。",
+    "source_root_domain": "onojyun.com"
+  },
+  {
+    "title": "兄弟们！我发现这个搭配，非常适合 her",
+    "url": "https://versun.me/blog/tweet-2112715157080346959",
+    "date": "2026-10-21T01:18:40Z",
+    "description": "兄弟们！我发现这个搭配，非常适合 hermes： 使用 moa 模式！ deepseek v4.1 flash 做为参考模型，发挥短平快的绝佳单兵能力，快速出思路 gemini 3.8 flash 做为聚合模型，上下文大且不怎么退化，容错强，多轮循环稳定，执行后总结说人话！ 而且这2个额度都管够！！！ 同时我把 review 的角色设置为 opus 5.5，20刀额度完全够用 金三角组合，绝配啊！",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "不仅支持皮衣厂，还支持遥遥领先 Deep",
+    "url": "https://versun.me/blog/tweet-2112711314464489487",
+    "date": "2026-10-21T01:03:24Z",
+    "description": "DeepSeek 🚀 Introducing DeepInfer, our in-house inference framework, now fully open source! Powering DeepSeek-V4.1-Flash at scale with high throughput and low latency. We’re sharing our production stack to help the community lower compute costs, reduce energy 不仅支持皮衣厂，还支持遥遥领先 DeepSeek：还！有！谁！",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "独立游戏简评 Vol.6",
+    "url": "https://bluepika.life/blog/indie-game-notes-6",
+    "date": "2026-10-21T00:00:00Z",
+    "description": "这期只聊两个游戏，刚好它们都是幸存者 Like 游戏，先给出我的评价，它们在幸存者这类型游戏上都做了一些新的尝试，并且都带给我了不少快乐，我认为这两款独立游戏都值得推荐，另外这次也将会从 Cora 的视角来看看这两款游戏的体验怎么样。 球比伦战记 这是今年某一周里 Nintendo Online 的会员免费游戏，在会免期内我们就通关了。 我的评价 它把打砖块和幸存者玩法结合了起来，一改以往的很多幸存者的地图设计方式，非常特别的设计。加上很多不同地图和不同球，球也有类似吸血鬼幸存者的合成模式，可玩内容非常丰富，玩到后面发现解锁的一些角色，还可以让玩法有翻天覆地的变化，特别是其中一个角色，可以直接让游戏变成回合制，游玩下来一直都有新鲜感。 玩到中期后，我感觉到构筑没太大问题，是数值上跟不上了，明显设计者想要我去培养局外要素了。 这个游戏的局外要素并不是简单地提供技能树升级，而是在局外提供了一片空地，你要负责排布建筑建立一个小镇，然后使用弹球来撞击建筑获得局外资源，再使用局外资源来强化建筑，达到强化角色的效果，这个设计是我认为这个游戏最有意思的一点，它和游戏的主题是一脉相承的，建造物还区分弹",
+    "source_root_domain": "bluepika.life"
+  },
+  {
+    "title": "啸风山庄",
+    "url": "https://www.geedea.pro/library/2026/wuthering-heights/",
+    "date": "2026-10-20T17:29:39Z",
+    "description": "《啸风山庄》是经典英国文学 Wuthering Heights 的新译本，译者是赖慈芸。这本在大陆更常见的译名是《呼啸山庄》，在台湾的译名是《咆哮山庄》，译者本人是台湾师范大学翻译研究所教授，可以说这个新译本统一了两岸的译名。书中还附上《啸风山庄》的翻译简史，读起来蛮有趣。曾经 Wuthering Heights 还被译作《狭路冤家》《魂归离恨天》，后者给我的感觉是把 Wuthering 理解为冤魂不散的声响（毕竟主要人物凯瑟琳和希斯克利夫死后的鬼魂似乎都在人间游荡），把 Heights 理解成了高空，也是值得品味的译法。 这个译本我通篇读下来，觉得语言很通顺，几乎没有译制腔，也没有过度本土化，注释也很完善。只不过有不少对情节进行解读的注解，我其实觉得有些影响阅读。理想国的装帧也很好看，大小合适，捧起来很舒服，我之前还在飞机的狭窄座椅上读过。在万米高空读 Wuthering Heights ，也别有一番韵味了。 对于文学经典，我不好妄下评论，不过我也确实没有批评的话要讲。我很喜欢艾米莉·勃朗特对人物的塑造，只可惜她一生只出版了这一部作品，而且似乎在初次出版时并不受欢迎。她的姐姐夏洛特·",
+    "source_root_domain": "geedea.pro"
+  },
+  {
+    "title": "入蜀记 day512 刚需与服从性",
+    "url": "https://z.arlmy.me/posts/BBBPandINSW/INSW-deep/INSW_512/",
+    "date": "2026-10-20T16:03:27Z",
+    "description": "「刚需与服从性。」",
+    "source_root_domain": "arlmy.me"
+  },
+  {
+    "title": "入蜀记 day511 二手文章、小饭骨、乱花争放",
+    "url": "https://z.arlmy.me/posts/BBBPandINSW/INSW-deep/INSW_511/",
+    "date": "2026-10-20T16:01:27Z",
+    "description": "「二手文章、小饭骨、乱花争放。」",
+    "source_root_domain": "arlmy.me"
+  },
+  {
+    "title": "AI 早报 2026-10-21：英伟达发布 OpenShell 参考架构：给企业智能体上“三道锁”",
+    "url": "https://www.jtxyh.com/daily/2026-10-21/",
+    "date": "2026-10-20T16:00:00Z",
+    "description": "2026-10-21 AI 早报，共 38 条动态。英伟达10月21日在柏林 GTC 大会上发布 OpenShell 参考架构，把开源 OpenShell 安全运行时扩展成全栈智能体基础设施：模型跑在 Vera Rubin 系统上，智能体支架和工具调用跑在 Vera CPU 上，BlueField DPU 上的…",
+    "source_root_domain": "jtxyh.com"
+  },
+  {
+    "title": "初探优化器（一）：从SGD到SOAP-Muon",
+    "url": "https://mer.dev/posts/optimizers-revisited-1/",
+    "date": "2026-10-20T16:00:00Z",
+    "description": "初探优化器系列的第一篇，整理一下我对已有优化器工作的理解。",
+    "source_root_domain": "mer.dev"
+  },
+  {
+    "title": "入蜀记 day510 二姐、没有根的演奏者、足火水仙、我去哪儿",
+    "url": "https://z.arlmy.me/posts/BBBPandINSW/INSW-deep/INSW_510/",
+    "date": "2026-10-20T15:58:27Z",
+    "description": "「二姐、没有根的演奏者、足火水仙、我去哪儿。」",
+    "source_root_domain": "arlmy.me"
+  },
+  {
+    "title": "入蜀记 day509 未完成的文本、无数个世界、止疼药",
+    "url": "https://z.arlmy.me/posts/BBBPandINSW/INSW-deep/INSW_509/",
+    "date": "2026-10-20T15:47:27Z",
+    "description": "「未完成的文本、无数个世界、止疼药。」",
+    "source_root_domain": "arlmy.me"
+  },
+  {
+    "title": "入蜀记 day508 Teste先生",
+    "url": "https://z.arlmy.me/posts/BBBPandINSW/INSW-deep/INSW_508/",
+    "date": "2026-10-20T15:35:27Z",
+    "description": "「Teste先生。」",
+    "source_root_domain": "arlmy.me"
+  },
+  {
+    "title": "「听不懂话」的销售",
+    "url": "https://blog.solazy.me/20261020/",
+    "date": "2026-10-20T15:30:00Z",
+    "description": "又是今天的一个真实事件引发的一段思考",
+    "source_root_domain": "solazy.me"
+  },
+  {
+    "title": "日本高中生物（基础部分）",
+    "url": "https://springwood.me/jp-highschool-biology-1/",
+    "date": "2026-10-20T15:00:00Z",
+    "description": "（摘要）我在读高中时、书上说催化剂又称触媒。但是我从来没听人这么叫过。现在才发现原来中文的“催化剂”在日语里叫做「触媒」。",
+    "source_root_domain": "springwood.me"
+  },
+  {
+    "title": "Total Annihilation updated",
+    "url": "https://macsourceports.com/game/totalannihilation",
+    "date": "2026-10-20T11:00:40Z",
+    "description": "The build of Open Annihilation for Total Annihilation has been updated to version v0.8.4 of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "油管｜web网站和固件下载",
+    "url": "https://dsx2016.com/youtube-website-and-firmware-downloads/",
+    "date": "2026-10-20T09:29:49Z",
+    "description": "固件产品 有时候油管视频作为吃饭或者睡觉背景音 有时候油管视频主要是教程和资源类 有时候油管视频是信息，娱乐，... 油管｜web网站和固件下载 最先出现在 大师兄2016 。",
+    "source_root_domain": "dsx2016.com"
+  },
+  {
+    "title": "免费域名接入 Cloudflare 的一个小技巧",
+    "url": "https://www.gaojinan.com/free-subdomain-cloudflare-double-hyphen.html",
+    "date": "2026-10-20T06:59:00Z",
+    "description": "免费域名想接入 CF，可以试试在申请的时候把名字写成 xx--example，也就是第 3、4 位用两个半角横线。例如下面这种格式（仅作示例）：ab--myblog.freedomain.kgc...",
+    "source_root_domain": "gaojinan.com"
+  },
+  {
+    "title": "有用上 oppo 的 ai 心力球吗，感",
+    "url": "https://versun.me/blog/tweet-2112428444089045498",
+    "date": "2026-10-20T06:19:22Z",
+    "description": "有用上 oppo 的 ai 心力球吗，感觉怎么样 老早就有类似的想法了，当初是想用大疆的 mic mini 2s 搭配 hermes 来实现，不过一直拖到现在。。",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "Insaniquarium updated",
+    "url": "https://macsourceports.com/game/insaniquarium",
+    "date": "2026-10-20T05:45:42Z",
+    "description": "The build of Insaniquarium Portable for Insaniquarium has been updated to version 0.5 of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "Google AI Pro 学生羊毛：Google AI Pro + YouTube Premium 两年半",
+    "url": "https://www.gaojinan.com/google-ai-pro-student-benefit-youtube-premium.html",
+    "date": "2026-10-20T04:26:00Z",
+    "description": "最近 Google 的学生优惠又更新了。符合条件的账号可以先领 12 个月 Google AI Pro 免费试用；如果账号所在地区还能订阅 Google AI Pro + YouTube Pre...",
+    "source_root_domain": "gaojinan.com"
+  },
+  {
+    "title": "a16z推出社交网络 Cosign：背书有多重要？",
+    "url": "https://wenfeixiang.com/2026/10/cosign-by-a16z/",
+    "date": "2026-10-20T04:23:19Z",
+    "description": "在9月底的一次播客上，美国知名风投机构 a16z 的 4位合伙人：Erik Torenberg 与 Josh […]",
+    "source_root_domain": "wenfeixiang.com"
+  },
+  {
+    "title": "一种培养收纳习惯的有效方式",
+    "url": "https://www.hecaitou.com/2026/10/an-effective-way-to-build-a-tidying-habit.html",
+    "date": "2026-10-20T03:34:19Z",
+    "description": "按照稍微宽松一点的标准来说，我现在算是有收拾家的习惯了。不时会主动归置归置物品，整理整理各处台面，完全背离了我之前四十多年的天性。 我天性喜欢乱丢乱放随手扔，多年来被无数人无数次挽救过。但是没有用，举再多名人的例子，我也总是能找出无数名人反例，他们垃圾堆一样的书桌，他们无处下脚的书房，诸如此类。 感谢脱不花，是她改变了我。考虑到我已经年过五十，很快要进化为纯花岗岩脑袋，这种改变就显得尤为珍贵。 她听我抱怨家里东西多，空间小，以及什么云南山里人渴望大空间一类纳粹德国一样的呓语，终于有天忍不住了，就很严肃地正告我说：和先生，我看您需要试用一下日式收纳，北京如今有许多专业收纳师，她们带着您归置一回，以后我保证您自己就能收纳。 既然她拉下脸来那么严肃地跟我说，意思很明确，那就是「要么听建议去做，要么咱以后就不要在同一个问题上反反复复抱怨了」。我等于是被她架起来了，而且，我也很好奇，几十年都养不成的习惯，怎么来个收纳师，我就一次学会，从此改变了？ 的确一次见效。 我下了单，来了两个妹子。从下午两点一直收拾到凌晨一点半，终于大功告成。时间不重要，重要的是我不能走开，不能去看书，我得站在她们边上。头",
+    "source_root_domain": "hecaitou.com"
+  },
+  {
+    "title": "有订阅 Google AI Ultra",
+    "url": "https://versun.me/blog/tweet-2112358811810005352",
+    "date": "2026-10-20T01:42:41Z",
+    "description": "有订阅 Google AI Ultra 的吗，如果只用Gemini 4 Argon的话，额度相比只用 Opus 5.5 的 Claude max 5x 哪个更多呀",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "处决童年的自己 I",
+    "url": "https://mobius.blog/25949.html",
+    "date": "2026-10-20T01:30:00Z",
+    "description": "周末的咖啡厅，带孩子出来玩的人变得多起来。比如此时此刻，在我的视野里，就有两个推着婴儿车来咖啡厅休息的家庭，他 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。",
+    "source_root_domain": "onojyun.com"
+  }
+]
