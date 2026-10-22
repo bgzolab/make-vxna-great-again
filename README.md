@@ -27,6 +27,9 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-10-22 | [Nginx1.31.7编译原生GeoIP模块并写入JSON访问日志](https://199604.com/3730) | Nginx1.31.7编译原生GeoIP模块并写入JSON访问日志 记录时间：2026-10-21 环境：RH […] |
+| 2026-10-22 | [Lemmings updated](https://macsourceports.com/game/lemmings) | The build of Ultimate Lemmings for Lemmings has been updated to version v2.1.2 of the project |
+| 2026-10-22 | [云和梯田畲乡自驾4天4夜](https://victor42.eth.limo/post/yunhe-terraces-she-township-self-driving-tour/) | 畲族文化、山岭梯田与瓯江古村。 照片相册： 查看本篇相册 旅行攻略： 获取攻略文档 稻谷金黄、秋意正浓，周五晚杭州出发，驱车300多公里来到丽水，带家人奔赴一场山野度假。 由于是自驾，活动范围比较大，不是单城玩法。行程涉及景宁县、云和县、丽水莲都区三地，且目的地离各区县的城区都有一段距离，非自驾难以… |
 | 2026-10-22 | [青甘行·上｜祁连山色，张掖丹霞](https://hux.ink/posts/qinggan-trip-02/) | 序曲 ：前路未知，满怀期待 9 月 24 日，临出发前，我写了一篇 序曲短记 ，末尾写道：“前路未知，满怀期待，最美风景在路上。” 彼时行李已经收拾妥当，接下来十三天的行程也基本安排好了，只等出门赶高铁。虽然提前在网上看过一些攻略和照片，对即将经过的地方有初步了解，但毕竟是第一次去大西北，真正会遇见… |
 | 2026-10-22 | [AI Infra：大型定量模型（LQM）研究](https://luweiqing.com/resources/AI-Infra-LQM.html) | 2026年10月20日，Gartner正式发布《2027年十大战略技术趋势》，将大型定量模型（Large Quantitative Models，简称 LQM）列为首项趋势。当AI的聚光灯从“能... |
 | 2026-10-22 | [人书俱老](https://www.hecaitou.com/2026/10/when-the-writer-and-the-work-mature-together.html) | 前几天是鲁迅先生逝世 90 周年，他在小朋友中间的影响力还有那么大么？不好说。当初我家书架上有他的作品集，很多人家也有，理所应当的样子，今天还是如此么？ 金庸在世的时候，国人已经发展出了「金学」，认为他写的武侠小说是难以逾越的文学高峰。但我问过很多 00 后小朋友，提起这个名字他们都是一脸茫然，除非… |
@@ -34,9 +37,9 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-10-22 | [2026.10.21](https://www.justzht.com/2026-10-21/) | 昨天下了班和 huaxia 会和开去 SJ 南边看了 American Psycho 重映，就是 sigma face meme 出处的那个电影。老电影了，和 Fight Club 一样，都或多或少 |
 | 2026-10-22 | [受PHP漏洞影响近期多台服务器将会进行升级操作，可能造成部分服务中断](https://www.cheshirex.com/11498.html) | 受PHP漏洞影响近期多台服务器将会进行升级操作，可能造成部分服务中断 目前本站大部分宝塔面板用的 […] |
 | 2026-10-22 | [拧螺丝](https://mobius.blog/25959.html) | 安装猫架、拧螺丝的时候，想起了一个“常识”——不过我至今不觉得这是一个“常识”，可能只是一个在记忆里被保存然后 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
+| 2026-10-22 | [我把用了很久的终端配置整理成了 Dotgraft](https://rokcso.com/p/dotgraft-macos-terminal-setup/) | 我每天大部分时间都在终端里，写代码、跑测试、看日志，一天要开很多次。这套配置在自己机器上用了很久，后来整理成了 Dotgraft，组合是 Ghostty + Starship + zsh。 我不会写 shell 脚本，也没认真研究过 dotfiles，能留下来靠的是每次换电脑把同一批文件再抄一遍，抄… |
 | 2026-10-22 | [php2shell: 一条请求，让全球 70% 互联网被迫下线](https://blog.ensonyan.com/it/3504.html) | TL;DR 细节 10 月 21 日（周三），PHP 安全团队发布通告，措辞罕见地直接： “If […] |
 | 2026-10-21 | [爱拯救之](https://www.geedea.pro/article/amour-en-sauve/) | 极客死亡计划现在运行在安装 OpenBSD 8.0 的服务器上，不是 Linux。 我在 第一百零一期周刊 因 Linux 如今也包含 LLM 生成的代码而感到沮丧，写道：“我用 Linux，不可能不用”——结果，我还真的可以不用。Linus Torvalds 最近还在 邮件列表 里回复一条我读起来… |
-| 2026-10-21 | [Lemmings updated](https://macsourceports.com/game/lemmings) | The build of Ultimate Lemmings for Lemmings has been updated to version v2.1.1 of the project |
 | 2026-10-21 | [Quetoo updated](https://macsourceports.com/game/quetoo) | The build of Quetoo has been updated to version v1.0.133 of the project |
 | 2026-10-21 | [有梦不如做个超大号的](https://www.hecaitou.com/2026/10/if-youre-going-to-dream-make-it-supersized.html) | 有读者建议我，试试用 AI 改变生活，让它负责安排我每天的日程，小到做菜，大到日常事务，都交给 AI。 说实话，看到这个建议的时候我愣了一下。先是觉得这个想法有点绝，但又不是那么绝，因为隐隐约约之间有点熟悉，不够超凡脱俗。再想了一会儿，我琢磨过滋味来，好像上一次那么干的是那群在田纳西州摘棉花的黑人朋… |
 | 2026-10-21 | [我记得之前有看到过一个插件可以隐藏 AI](https://versun.me/blog/tweet-2112751575710228571) | 我记得之前有看到过一个插件可以隐藏 AI 留言的，是哪个来着，找不到了🥲 |

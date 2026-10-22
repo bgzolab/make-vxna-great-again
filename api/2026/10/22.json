@@ -1,5 +1,26 @@
 [
   {
+    "title": "Nginx1.31.7编译原生GeoIP模块并写入JSON访问日志",
+    "url": "https://199604.com/3730",
+    "date": "2026-10-22T14:07:53Z",
+    "description": "Nginx1.31.7编译原生GeoIP模块并写入JSON访问日志 记录时间：2026-10-21 环境：RH […]",
+    "source_root_domain": "199604.com"
+  },
+  {
+    "title": "Lemmings updated",
+    "url": "https://macsourceports.com/game/lemmings",
+    "date": "2026-10-22T11:00:42Z",
+    "description": "The build of Ultimate Lemmings for Lemmings has been updated to version v2.1.2 of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "云和梯田畲乡自驾4天4夜",
+    "url": "https://victor42.eth.limo/post/yunhe-terraces-she-township-self-driving-tour/",
+    "date": "2026-10-22T10:10:00Z",
+    "description": "畲族文化、山岭梯田与瓯江古村。 照片相册： 查看本篇相册 旅行攻略： 获取攻略文档 稻谷金黄、秋意正浓，周五晚杭州出发，驱车300多公里来到丽水，带家人奔赴一场山野度假。 由于是自驾，活动范围比较大，不是单城玩法。行程涉及景宁县、云和县、丽水莲都区三地，且目的地离各区县的城区都有一段距离，非自驾难以实现。 第1天：畲族文化 景宁县全称是景宁畲族自治县，是全国唯一的畲族自治县，也是华东唯一的少数民族自治县。 畲族人把广东潮州的凤凰山作为本族的发源地，从粤闽赣交界地带逐渐沿山区向北扩散，来到了福建和浙南。 畲乡之窗 第一站畲乡之窗，景点不大，围绕一条约300米的大均古街打造的畲族民俗体验景点。 古街入口有一棵千年古樟树，估计要4-5个成年人才能环抱。 整个白天就安排了这一个地方，慢逛细品。女儿换上了一套现代融合款式的畲族服装，神神气气出发。 古街入口有个大戏台，背景墙上有巨大的畲族符号。畲族只有语言，没有常规意义的文字。这几个符号是现代文旅造字过程中设计出来的，成为了畲族的现代装饰符号，没有确定的含义，可以视作一种图形Logo。 4个装饰符号中的形状和笔画，取材于畲族原生的字符系统，就是这",
+    "source_root_domain": "eth.limo"
+  },
+  {
     "title": "青甘行·上｜祁连山色，张掖丹霞",
     "url": "https://hux.ink/posts/qinggan-trip-02/",
     "date": "2026-10-22T07:01:36Z",
@@ -49,6 +70,13 @@
     "source_root_domain": "onojyun.com"
   },
   {
+    "title": "我把用了很久的终端配置整理成了 Dotgraft",
+    "url": "https://rokcso.com/p/dotgraft-macos-terminal-setup/",
+    "date": "2026-10-22T02:00:00Z",
+    "description": "我每天大部分时间都在终端里，写代码、跑测试、看日志，一天要开很多次。这套配置在自己机器上用了很久，后来整理成了 Dotgraft，组合是 Ghostty + Starship + zsh。 我不会写 shell 脚本，也没认真研究过 dotfiles，能留下来靠的是每次换电脑把同一批文件再抄一遍，抄多了就烦，于是才有了这个项目。 Dotgraft 的三套主题：Ink、Paper、Porcelain 安装之前，先看清楚会改哪些文件 我换过几次电脑，也重装过很多次环境，装软件其实不烦，烦的是把终端恢复成顺手的样子：主题、提示符、补全、历史记录，再加几个小工具。 网上教程很多，照着改也能跑。但过几个月再打开 ~/.zshrc ，经常会愣一下，这行是谁加的，删了会不会出问题。当时觉得都记得，后来只剩一堆看不懂的路径。 Dotgraft 就是为这件事写的，安装一行： bash ( curl -fsSL https://raw.githubusercontent.com/rokcso/dotgraft/main/bootstrap.sh ) 它会先检查环境，装好 chezmoi，然后问三件事：要哪",
+    "source_root_domain": "rokcso.com"
+  },
+  {
     "title": "php2shell: 一条请求，让全球 70% 互联网被迫下线",
     "url": "https://blog.ensonyan.com/it/3504.html",
     "date": "2026-10-22T00:30:51Z",
@@ -61,13 +89,6 @@
     "date": "2026-10-21T15:52:48Z",
     "description": "极客死亡计划现在运行在安装 OpenBSD 8.0 的服务器上，不是 Linux。 我在 第一百零一期周刊 因 Linux 如今也包含 LLM 生成的代码而感到沮丧，写道：“我用 Linux，不可能不用”——结果，我还真的可以不用。Linus Torvalds 最近还在 邮件列表 里回复一条我读起来毫无恶意的邮件，用十分荒唐的逻辑称对方的想法愚蠢之极（“UTTERLY STUPID”），语气强烈。 前不久 ，他用 Claude Code 写的代码被评审者找出潜在的竞态问题（race condition）。 再后来 ，Linux 内核不再要求贡献者披露 LLM 使用情况。 这一切都给了我更多的理由抛弃 Linux，去用 BSD。我们讨论的不是可有可无的 SaaS 软件，我们说的是 Linux，全世界都依赖的操作系统。 Oh Linus, oh Linus, you let us all down. 不少 LLM 追捧者貌似只有那么一两个论点，Linus 一边骂人一边强调“LLM 是工具”，与此同时，Rich Hickey 1 说： 我一辈子都在造工具和用工具，我知道工具是什么。LLM 可",
     "source_root_domain": "geedea.pro"
-  },
-  {
-    "title": "Lemmings updated",
-    "url": "https://macsourceports.com/game/lemmings",
-    "date": "2026-10-21T11:18:01Z",
-    "description": "The build of Ultimate Lemmings for Lemmings has been updated to version v2.1.1 of the project",
-    "source_root_domain": "macsourceports.com"
   },
   {
     "title": "Quetoo updated",
