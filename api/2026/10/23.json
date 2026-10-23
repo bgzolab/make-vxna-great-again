@@ -1,5 +1,12 @@
 [
   {
+    "title": "OSC 7501：让程序自己告诉终端它在干什么",
+    "url": "http://tubaozi.top/posts/2026/osc-7501-program-status/",
+    "date": "2026-10-23T16:12:01Z",
+    "description": "Ghostty 作者 Mitchell Hashimoto 提出的终端转义序列 OSC 7501（Program Status Protocol）：程序通过 pty 直接上报空闲、运行、等待、完成、失败等状态，不用再靠解析屏幕去猜。文末补充 Kero 终端的支持情况。",
+    "source_root_domain": "tubaozi.top"
+  },
+  {
     "title": "走大朝台我在想啥？二",
     "url": "https://1900.live/zou-da-zhao-tai-wo-zai-xiang-sha-er/",
     "date": "2026-10-23T12:40:31Z",
@@ -98,11 +105,32 @@
     "source_root_domain": "macsourceports.com"
   },
   {
+    "title": "PHP2Shell 这次，服务器也没能幸免",
+    "url": "https://blog.mxdyeah.com/post/php2shell-server-incident",
+    "date": "2026-10-22T21:13:00Z",
+    "description": "这几天 PHP 圈的氛围，用一个词形容就是：赛跑。一边是 PHP 安全团队赶着发布补丁，另一边是拿到漏洞细节的人开始研究 PoC，还有人甚至不需要现成的 PoC，照着公开的信息就能自己动手。对维...",
+    "source_root_domain": "mxdyeah.com"
+  },
+  {
     "title": "【剧透】赛博朋克: 边缘行者 第二季 观后感",
     "url": "https://7gugu.com/index.php/2026/10/23/%e8%b5%9b%e5%8d%9a%e6%9c%8b%e5%85%8b-%e8%be%b9%e7%bc%98%e8%a1%8c%e8%80%85-%e7%ac%ac%e4%ba%8c%e5%ad%a3/",
     "date": "2026-10-22T17:22:40Z",
     "description": "Netflix就是厚道，一次性放10集，爽看。剧情也没Threads上说的那么糟糕，当然也没第一季马丁内斯那么 … 继续阅读 “【剧透】赛博朋克: 边缘行者 第二季 观后感”",
     "source_root_domain": "7gugu.com"
+  },
+  {
+    "title": "我留起了胡子",
+    "url": "https://tianheg.co/posts/growing-a-beard/",
+    "date": "2026-10-22T16:00:00Z",
+    "description": "我留起了胡子 23 Oct, 2026 我留起了胡子 让它野蛮生长 在鼻子与嘴唇之间的上唇区 有了一撇一捺 我拍了胡子的照片 人中的位置没有胡子 从那里到两边嘴角处胡子是浓密的 我看起来不一样了 以前的我 尽可能刮干净胡子 觉得这代表了我对生活的态度 时间久了 干净的脸庞似乎代表了我的状态 可是，我想看看自己留胡子的样子 想看看自己成熟的样子 于是，我留起了胡子 我觉得这没什么大不了的 只是一种生活选择 源文（.org） #诗作 <svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=",
+    "source_root_domain": "tianheg.co"
+  },
+  {
+    "title": "AI 早报 2026-10-23：10.23总结；Anthropic 与英国 AISI 复盘智能体越权：明确目标是真人，仍未阻止攻击",
+    "url": "https://www.jtxyh.com/daily/2026-10-23/",
+    "date": "2026-10-22T16:00:00Z",
+    "description": "2026-10-23 AI 早报，共 13 条动态。智能体的运行环境、开放标准与安全边界是本期重点。Anthropic 于台北时间10月23日21:40发布分析，与英国 AI 安全研究所（AISI）当天的独立报告共同复盘7月发生、8月已披露的测试事件，并非新发生的攻击。",
+    "source_root_domain": "jtxyh.com"
   },
   {
     "title": "QuietSearch:支持 Kagi 和 DeepSeek API 的轻量搜索界面",

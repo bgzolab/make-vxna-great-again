@@ -27,6 +27,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-10-23 | [OSC 7501：让程序自己告诉终端它在干什么](http://tubaozi.top/posts/2026/osc-7501-program-status/) | Ghostty 作者 Mitchell Hashimoto 提出的终端转义序列 OSC 7501（Program Status Protocol）：程序通过 pty 直接上报空闲、运行、等待、完成、失败等状态，不用再靠解析屏幕去猜。文末补充 Kero 终端的支持情况。 |
 | 2026-10-23 | [走大朝台我在想啥？二](https://1900.live/zou-da-zhao-tai-wo-zai-xiang-sha-er/) | null 昨天更新了前一篇没多久就有四五条博友的评论，这么久没更新这些博友们都在默默关注着我这个小小的孤岛让我有些感动，在这里诚恳的感谢大家，让我感受到了互联网、博客圈的温度。 所以趁着这股劲有还在索性今天把第二篇也写了，接回上文。 刚下车被山上的冷风一吹我差点没绷住哕了出来，为了保住面子，在路边排… |
 | 2026-10-23 | [Lemmings updated](https://macsourceports.com/game/lemmings) | The build of Ultimate Lemmings for Lemmings has been updated to version v2.2.1 of the project |
 | 2026-10-23 | [Total Annihilation updated](https://macsourceports.com/game/totalannihilation) | The build of Open Annihilation for Total Annihilation has been updated to version v0.8.5 of the project |
@@ -41,7 +42,10 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-10-23 | [科技爱好者周刊（第 416 期）：编程已经面目全非](http://www.ruanyifeng.com/blog/2026/10/weekly-issue-416.html) | 这里记录每周值得分享的科技内容，周五发布。 本杂志 开源 ，欢迎 投稿 。另有 《谁在招人》 服务，发布程序员招聘信息。合作请 邮件联系 （yifeng.ruan@gmail.com）。 封面图 本周启用的上海大歌剧院内部装修。（ via ） 编程已经面目全非 大多数人只看到，AI 改变了程序员这个… |
 | 2026-10-22 | [记一次在MacBook上瞎折腾YubiKey把自己锁在外面的救援](https://www.boris1993.com/macos-recover-from-required-pin-to-enable-touch-id.html) | 前两天拿着YubiKey瞎折腾玩，给我的MacBook配上了用它登录，配完了又担心将来忘了这件事给自己找麻烦，于是又解绑了。尽管当时用 sc_auth list 确认了账户已经没有绑定的智能卡，但刚刚打开电脑的时候，却发现macOS要我输入PIN来启用Touch ID。在反复试了好几个我确定正确的P… |
 | 2026-10-22 | [New Release: Quake 4](https://macsourceports.com/game/quake4) | Slowly but surely we're getting all the Quake games on the site. Quake 4 is the fourth installment in the Quake series, and just to keep things weird… |
+| 2026-10-22 | [PHP2Shell 这次，服务器也没能幸免](https://blog.mxdyeah.com/post/php2shell-server-incident) | 这几天 PHP 圈的氛围，用一个词形容就是：赛跑。一边是 PHP 安全团队赶着发布补丁，另一边是拿到漏洞细节的人开始研究 PoC，还有人甚至不需要现成的 PoC，照着公开的信息就能自己动手。对维... |
 | 2026-10-22 | [【剧透】赛博朋克: 边缘行者 第二季 观后感](https://7gugu.com/index.php/2026/10/23/%e8%b5%9b%e5%8d%9a%e6%9c%8b%e5%85%8b-%e8%be%b9%e7%bc%98%e8%a1%8c%e8%80%85-%e7%ac%ac%e4%ba%8c%e5%ad%a3/) | Netflix就是厚道，一次性放10集，爽看。剧情也没Threads上说的那么糟糕，当然也没第一季马丁内斯那么 … 继续阅读 “【剧透】赛博朋克: 边缘行者 第二季 观后感” |
+| 2026-10-22 | [我留起了胡子](https://tianheg.co/posts/growing-a-beard/) | 我留起了胡子 23 Oct, 2026 我留起了胡子 让它野蛮生长 在鼻子与嘴唇之间的上唇区 有了一撇一捺 我拍了胡子的照片 人中的位置没有胡子 从那里到两边嘴角处胡子是浓密的 我看起来不一样了 以前的我 尽可能刮干净胡子 觉得这代表了我对生活的态度 时间久了 干净的脸庞似乎代表了我的状态 可是，我… |
+| 2026-10-22 | [AI 早报 2026-10-23：10.23总结；Anthropic 与英国 AISI 复盘智能体越权：明确目标是真人，仍未阻止攻击](https://www.jtxyh.com/daily/2026-10-23/) | 2026-10-23 AI 早报，共 13 条动态。智能体的运行环境、开放标准与安全边界是本期重点。Anthropic 于台北时间10月23日21:40发布分析，与英国 AI 安全研究所（AISI）当天的独立报告共同复盘7月发生、8月已披露的测试事件，并非新发生的攻击。 |
 | 2026-10-22 | [QuietSearch:支持 Kagi 和 DeepSeek API 的轻量搜索界面](https://anotherdayu.com/quietsearch-kagi-deepseek-api/) | 引 最近做了一个满足个人需求的小工具 QuietSearch ，是一个可以部署在 Cloudflare 上的轻量搜索界面，支持接入 Kagi 和 DeepSeek 的搜索 API。 在设置中选择引擎、填入自己的 API Key，就可以搜索。配置 DeepSeek Key 后，在问题末尾加上 ？ ，还… |
 | 2026-10-22 | [睡得着觉的人](https://blog.solazy.me/20261022/) | 最近对一句话深有感触…… |
 | 2026-10-22 | [Nginx1.31.7编译原生GeoIP模块并写入JSON访问日志](https://199604.com/3730) | Nginx1.31.7编译原生GeoIP模块并写入JSON访问日志 记录时间：2026-10-21 环境：RH […] |
