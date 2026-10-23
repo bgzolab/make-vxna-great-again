@@ -27,8 +27,15 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-10-23 | [免费替代 CleanMyMac：Mole CLI 在 Mac Mini 上的完整使用指南](https://www.evan.xin/5129/) | Mole（tw93/mole）是一个开源的 macOS 系统清理优化工具，功能对标 CleanMyMac、Ap […] |
+| 2026-10-23 | [青甘行·中｜河西走廊，千年敦煌](https://hux.ink/posts/qinggan-trip-03/) | 接 上篇 ，本篇记录 9 月 29 日至 10 月 1 日的三日见闻：从酒泉出发，途经嘉峪关、瓜州，一路向西抵达敦煌，在这里停留了两天。 9 月 29 日｜一个人的嘉峪关，以及漫长的敦煌之路 原本今天只安排了金塔胡杨林，之后便继续前往敦煌。不过前一天晚上查地图时，我发现嘉峪关距离酒泉只有二十多公里。… |
+| 2026-10-23 | [野人编年史](http://imlane.zhanglintc.co/ye-ren-bian-nian-shi) | 野人编年史 野人创始人 徐队 ，群昵称Shogun。姓徐，称徐队，真野人队长，野人 抖音官号 持有者。 张队 ，群昵称张小不。江湖人称竹节虫，简称虫队。 熊队 ，群昵称熊嘎婆，称熊队。 野人CLUB游泳事业部 群主。 亮队 ，群昵称亮什么，称亮队，野人 小红书官号 持有者。 野人声明 从 泳往直前… |
+| 2026-10-23 | [为什么有人不怕把事做砸](https://blog.solazy.me/20261023/) | 今天想接着昨天讲得继续来聊…… |
+| 2026-10-23 | [移除了 webmention 功能](https://kaix.in/2026/1023/) | 开始关注 webmention 协议至少是在 2019 年以前了，2021 年我用 go 语言 写了个小工具 来实现它，大概也算是第一批运用这个协议的中文博客站点。不过几个月前我彻底移除了这个功能。 个中缘由有点复杂，隐私原因算是其中最容易想到也最古怪的部分。这就顺便要提到 fediverse 或者… |
+| 2026-10-23 | [心里有光](https://www.hecaitou.com/2026/10/The-Light-Within.html) | 昨天我在回答读者什么是「心里有光」时，写了这样一段话： 「心里本来就有光，甚至可以说光明就是心的本体。要有光的意思，不是找寻来光，也不是擦拭出光，而是不被遮蔽，让它自然放光。」 这里我用到了「不是...而是...」句型，估计被系统判断为 AI 自动回复的垃圾留言，结果被阻拦了好一阵。我于是有些担心，… |
 | 2026-10-23 | [失乐园里有什么？I](https://mobius.blog/25963.html) | 今天并不是在聊渡边淳一的《失乐园》。失乐园这个词，可以更早追溯到1667年约翰·弥尔顿的无韵诗《Paradis […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-10-23 | [科技爱好者周刊（第 416 期）：编程已经面目全非](http://www.ruanyifeng.com/blog/2026/10/weekly-issue-416.html) | 这里记录每周值得分享的科技内容，周五发布。 本杂志 开源 ，欢迎 投稿 。另有 《谁在招人》 服务，发布程序员招聘信息。合作请 邮件联系 （yifeng.ruan@gmail.com）。 封面图 本周启用的上海大歌剧院内部装修。（ via ） 编程已经面目全非 大多数人只看到，AI 改变了程序员这个… |
+| 2026-10-22 | [记一次在MacBook上瞎折腾YubiKey把自己锁在外面的救援](https://www.boris1993.com/macos-recover-from-required-pin-to-enable-touch-id.html) | 前两天拿着YubiKey瞎折腾玩，给我的MacBook配上了用它登录，配完了又担心将来忘了这件事给自己找麻烦，于是又解绑了。尽管当时用 sc_auth list 确认了账户已经没有绑定的智能卡，但刚刚打开电脑的时候，却发现macOS要我输入PIN来启用Touch ID。在反复试了好几个我确定正确的P… |
 | 2026-10-22 | [New Release: Quake 4](https://macsourceports.com/game/quake4) | Slowly but surely we're getting all the Quake games on the site. Quake 4 is the fourth installment in the Quake series, and just to keep things weird… |
 | 2026-10-22 | [【剧透】赛博朋克: 边缘行者 第二季 观后感](https://7gugu.com/index.php/2026/10/23/%e8%b5%9b%e5%8d%9a%e6%9c%8b%e5%85%8b-%e8%be%b9%e7%bc%98%e8%a1%8c%e8%80%85-%e7%ac%ac%e4%ba%8c%e5%ad%a3/) | Netflix就是厚道，一次性放10集，爽看。剧情也没Threads上说的那么糟糕，当然也没第一季马丁内斯那么 … 继续阅读 “【剧透】赛博朋克: 边缘行者 第二季 观后感” |
 | 2026-10-22 | [QuietSearch:支持 Kagi 和 DeepSeek API 的轻量搜索界面](https://anotherdayu.com/quietsearch-kagi-deepseek-api/) | 引 最近做了一个满足个人需求的小工具 QuietSearch ，是一个可以部署在 Cloudflare 上的轻量搜索界面，支持接入 Kagi 和 DeepSeek 的搜索 API。 在设置中选择引擎、填入自己的 API Key，就可以搜索。配置 DeepSeek Key 后，在问题末尾加上 ？ ，还… |
