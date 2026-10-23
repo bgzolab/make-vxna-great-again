@@ -27,11 +27,16 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-10-23 | [失乐园里有什么？I](https://mobius.blog/25963.html) | 今天并不是在聊渡边淳一的《失乐园》。失乐园这个词，可以更早追溯到1667年约翰·弥尔顿的无韵诗《Paradis […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
+| 2026-10-23 | [科技爱好者周刊（第 416 期）：编程已经面目全非](http://www.ruanyifeng.com/blog/2026/10/weekly-issue-416.html) | 这里记录每周值得分享的科技内容，周五发布。 本杂志 开源 ，欢迎 投稿 。另有 《谁在招人》 服务，发布程序员招聘信息。合作请 邮件联系 （yifeng.ruan@gmail.com）。 封面图 本周启用的上海大歌剧院内部装修。（ via ） 编程已经面目全非 大多数人只看到，AI 改变了程序员这个… |
+| 2026-10-22 | [New Release: Quake 4](https://macsourceports.com/game/quake4) | Slowly but surely we're getting all the Quake games on the site. Quake 4 is the fourth installment in the Quake series, and just to keep things weird… |
 | 2026-10-22 | [【剧透】赛博朋克: 边缘行者 第二季 观后感](https://7gugu.com/index.php/2026/10/23/%e8%b5%9b%e5%8d%9a%e6%9c%8b%e5%85%8b-%e8%be%b9%e7%bc%98%e8%a1%8c%e8%80%85-%e7%ac%ac%e4%ba%8c%e5%ad%a3/) | Netflix就是厚道，一次性放10集，爽看。剧情也没Threads上说的那么糟糕，当然也没第一季马丁内斯那么 … 继续阅读 “【剧透】赛博朋克: 边缘行者 第二季 观后感” |
 | 2026-10-22 | [QuietSearch:支持 Kagi 和 DeepSeek API 的轻量搜索界面](https://anotherdayu.com/quietsearch-kagi-deepseek-api/) | 引 最近做了一个满足个人需求的小工具 QuietSearch ，是一个可以部署在 Cloudflare 上的轻量搜索界面，支持接入 Kagi 和 DeepSeek 的搜索 API。 在设置中选择引擎、填入自己的 API Key，就可以搜索。配置 DeepSeek Key 后，在问题末尾加上 ？ ，还… |
+| 2026-10-22 | [睡得着觉的人](https://blog.solazy.me/20261022/) | 最近对一句话深有感触…… |
 | 2026-10-22 | [Nginx1.31.7编译原生GeoIP模块并写入JSON访问日志](https://199604.com/3730) | Nginx1.31.7编译原生GeoIP模块并写入JSON访问日志 记录时间：2026-10-21 环境：RH […] |
 | 2026-10-22 | [Lemmings updated](https://macsourceports.com/game/lemmings) | The build of Ultimate Lemmings for Lemmings has been updated to version v2.1.2 of the project |
 | 2026-10-22 | [云和梯田畲乡自驾4天4夜](https://victor42.eth.limo/post/yunhe-terraces-she-township-self-driving-tour/) | 畲族文化、山岭梯田与瓯江古村。 照片相册： 查看本篇相册 旅行攻略： 获取攻略文档 稻谷金黄、秋意正浓，周五晚杭州出发，驱车300多公里来到丽水，带家人奔赴一场山野度假。 由于是自驾，活动范围比较大，不是单城玩法。行程涉及景宁县、云和县、丽水莲都区三地，且目的地离各区县的城区都有一段距离，非自驾难以… |
+| 2026-10-22 | [哈哈，好可爱，黄仁勋在 GTC 上和 @](https://versun.me/blog/tweet-2113168136505786723) | Nous Research Jensen closed his GTC Berlin 2026 keynote with this Hermes Agent demo as the finale. He introduced it by saying the way to build an agen… |
 | 2026-10-22 | [青甘行·上｜祁连山色，张掖丹霞](https://hux.ink/posts/qinggan-trip-02/) | 序曲 ：前路未知，满怀期待 9 月 24 日，临出发前，我写了一篇 序曲短记 ，末尾写道：“前路未知，满怀期待，最美风景在路上。” 彼时行李已经收拾妥当，接下来十三天的行程也基本安排好了，只等出门赶高铁。虽然提前在网上看过一些攻略和照片，对即将经过的地方有初步了解，但毕竟是第一次去大西北，真正会遇见… |
 | 2026-10-22 | [AI Infra：大型定量模型（LQM）研究](https://luweiqing.com/resources/AI-Infra-LQM.html) | 2026年10月20日，Gartner正式发布《2027年十大战略技术趋势》，将大型定量模型（Large Quantitative Models，简称 LQM）列为首项趋势。当AI的聚光灯从“能... |
 | 2026-10-22 | [人书俱老](https://www.hecaitou.com/2026/10/when-the-writer-and-the-work-mature-together.html) | 前几天是鲁迅先生逝世 90 周年，他在小朋友中间的影响力还有那么大么？不好说。当初我家书架上有他的作品集，很多人家也有，理所应当的样子，今天还是如此么？ 金庸在世的时候，国人已经发展出了「金学」，认为他写的武侠小说是难以逾越的文学高峰。但我问过很多 00 后小朋友，提起这个名字他们都是一脸茫然，除非… |
@@ -39,6 +44,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-10-22 | [2026.10.21](https://www.justzht.com/2026-10-21/) | 昨天下了班和 huaxia 会和开去 SJ 南边看了 American Psycho 重映，就是 sigma face meme 出处的那个电影。老电影了，和 Fight Club 一样，都或多或少 |
 | 2026-10-22 | [受PHP漏洞影响近期多台服务器将会进行升级操作，可能造成部分服务中断](https://www.cheshirex.com/11498.html) | 受PHP漏洞影响近期多台服务器将会进行升级操作，可能造成部分服务中断 目前本站大部分宝塔面板用的 […] |
 | 2026-10-22 | [拧螺丝](https://mobius.blog/25959.html) | 安装猫架、拧螺丝的时候，想起了一个“常识”——不过我至今不觉得这是一个“常识”，可能只是一个在记忆里被保存然后 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
+| 2026-10-22 | [其实用户要的是确定性，如果改为模型组合，](https://versun.me/blog/tweet-2113089740534861879) | 忒修斯的船板 用户即使知道auto便宜十倍 也还是会主动去按那个opus 甚至sonnet 甚至xxx flash 而不是auto 你知道是为什么吗？ https://twitter.com/ivanhzhao/status/2112946746225766716 其实用户要的是确定性，如果改为模型… |
 | 2026-10-22 | [我把用了很久的终端配置整理成了 Dotgraft](https://rokcso.com/p/dotgraft-macos-terminal-setup/) | 我每天大部分时间都在终端里，写代码、跑测试、看日志，一天要开很多次。这套配置在自己机器上用了很久，后来整理成了 Dotgraft，组合是 Ghostty + Starship + zsh。 我不会写 shell 脚本，也没认真研究过 dotfiles，能留下来靠的是每次换电脑把同一批文件再抄一遍，抄… |
 | 2026-10-22 | [php2shell: 一条请求，让全球 70% 互联网被迫下线](https://blog.ensonyan.com/it/3504.html) | TL;DR 细节 10 月 21 日（周三），PHP 安全团队发布通告，措辞罕见地直接： “If […] |
 | 2026-10-21 | [AI 早报 2026-10-22：10.22总结；法律 AI 公司 Legora 完成 5.5 亿美元 E 轮融资，估值 88 亿美元](https://www.jtxyh.com/daily/2026-10-22/) | 2026-10-22 AI 早报，共 19 条动态。本期重点是智能体产品的可用阶段、算力投入和企业落地。法律 AI 公司 Legora 10 月 21 日宣布完成 5.5 亿美元 E 轮融资，投后估值 88 亿美元，由 Atreides Management 领投，Baron… |
@@ -145,22 +151,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-10-16 | [Memos: 精通 Web Archive 的跷脚网友](https://blog.yasking.org/a/1792114181) | “多亏了这笔贷款，不然我真不知道该怎么交上今年的社保！”，2025-06-19 发布在湖北省人社厅的转载文章，一年多后火了。 抱着学习的 … |
 | 2026-10-16 | [出去玩又要花钱](https://hux.ink/posts/double-loss/) | 接着昨天那件事再想，我感觉我爸那句话里，可能还不只是对“工作为什么会积下来”的理解不同，多少也夹杂着一点对我请假出去玩的不认同。 在他的观念里，请假本身就意味着少干活，少干活可能意味着少挣钱。出去旅游又是另一笔支出，交通、住宿、吃饭、门票，样样都要花钱。 所以从他的角度看，长时间请假出去玩，很容易变… |
 | 2026-10-16 | [科技爱好者周刊（第 415 期）：3D 版《看不见的城市》](http://www.ruanyifeng.com/blog/2026/10/weekly-issue-415.html) | 这里记录每周值得分享的科技内容，周五发布。 本杂志 开源 ，欢迎 投稿 。另有 《谁在招人》 服务，发布程序员招聘信息。合作请 邮件联系 （yifeng.ruan@gmail.com）。 封面图 湖北咸宁梓山湖度假区的美术馆。（ via ） 3D 版《看不见的城市》 意大利小说家卡尔维诺有一本著名的… |
-| 2026-10-15 | [油管｜AI视频工作流从文稿转字幕和配音](https://dsx2016.com/youtube-ai-video-workflow-from-script-to-subtitles-and-voiceover/) | AI视频工作流 目前实现三种字幕工作流 一种是自己的音频配音被翻译为字幕 一种是ai根据视频或者抽帧生成字幕 ... 油管｜AI视频工作流从文稿转字幕和配音 最先出现在 大师兄2016 。 |
-| 2026-10-15 | [AI 早报 2026-10-16：10.16总结；中国拟将23项AI技术纳入出口目录，并启动临时出口前登记](https://www.jtxyh.com/daily/2026-10-16/) | 2026-10-16 AI 早报，共 23 条动态。本期重点是AI治理、模型开放和产业投资。商务部、科技部10月16日发布第48号公告，就新增40项技术的出口管理公开征求意见，其中23项涉及AI大模型、智能体、算力集群和信息处理，意见征集截至11月15日。 |
-| 2026-10-15 | [SFC 游戏：高桥名人之大冒险岛二代（Takahashi Meijin no Dai-Bouken-jima II）](https://springwood.me/sfc-takahashi-meijin-no-dai-bouken-jima-ii/) | （摘要）这是本系列在16位机上的最后一作，画面和玩法不错，就是BOSS比较难打，需要弄点好武器。 |
-| 2026-10-15 | [找不到路的司机](https://blog.solazy.me/20261015/) | 今天打车遇到一件趣事 |
-| 2026-10-15 | [人生切割](https://tianheg.co/posts/life-severance/) | 下班，洗澡，坐到电脑前 回想今天，我疲惫的一天 早八晚十，这是我的工作时段 晚十早八，这是我的生活时段 |
-| 2026-10-15 | [学习周刊-总第285期-2026年第42周](https://wiki.eryajf.net/pages/6be37e/) | 如要阅读全文，点击标题跳转。 学习周刊-总第285期 ｜ YCode ｜ MacTools ｜ LockIME ｜ OnePagent ｜ maple ｜ vorssaint-utils ｜ trinity |
-| 2026-10-15 | [第十届网络社会年会新加坡特别场 开场致词](https://caa-ins.org/archives/13447) | 2025年11月28日至29日，第十届网络社会年会新加坡场作为 新加坡管理大学（SMU）Web3Week（11月27日至30日）的特别策划活动，在新加坡管理大学（SMU）义安公司礼堂（The Ngee Ann Kongsi Auditorium）举办。本届年会新加坡场由新加坡管理大学计算与信息系统学… |
-| 2026-10-15 | [入蜀记 day504 周期时间观、我都爱、低端定位](https://z.arlmy.me/posts/BBBPandINSW/INSW-deep/INSW_504/) | 「周期时间观、我都爱、低端定位。」 |
-| 2026-10-15 | [入蜀记 day503 民族大学和人类学](https://z.arlmy.me/posts/BBBPandINSW/INSW-deep/INSW_503/) | 「民族大学和人类学。」 |
-| 2026-10-15 | [入蜀记 day502 补牙、不介意我消失、记住夏乌拉、平东CP](https://z.arlmy.me/posts/BBBPandINSW/INSW-deep/INSW_502/) | 「补牙、不介意我消失、记住夏乌拉、平东CP。」 |
-| 2026-10-15 | [刚结完婚，分享一个为了婚礼临时 vibe 出来的照片相册](https://www.qs5.org/Post/788.html) | 创意来自我对象。她说，来了这么多宾客，大家都有手机，也会拍下不少照片，但怎么把这些照片收集起来呢？于是就有了这个项目：把二维码放在海报和 LED 屏幕上，宾客扫码就能上传自己拍的照片，留下各自视... |
-| 2026-10-15 | [哇，这个我也想要！！！](https://versun.me/blog/tweet-2110619737202033046) | SlashVibe Get Early Bird Access now！ $249 ➡️ $149 Lock in the $149 Kickstarter price with $1 （fully refundable） https://slashvibe.ai/earlybird?share=l… |
-| 2026-10-15 | [摘：《Monsieur Teste》](https://z.arlmy.me/posts/Note/Note_PaulValery_MonsieurTeste/) | 「一种散步。」 |
-| 2026-10-15 | [介绍两位歌王](https://www.hecaitou.com/2026/10/meet-two-kings-of-song.html) | 最近在网上偶然遇见了两位殿堂级歌王，选 CD 的时候看到他们的专辑封面，让我感觉到一种诡异的熟悉，但我又的确不认识他们。 一位是 Mikhail Bennett，灵魂歌王，面相非常沧桑的一位美国西部老人，拥有一把老烟枪嗓子，主要是弹唱乡村歌曲，内容多为讲述他破碎的一生，什么儿子死了一类的事情。 另一… |
-| 2026-10-15 | [一个人的异托邦 I](https://mobius.blog/25915.html) | “异托邦”，原意指“异质空间”，是法国哲学家米歇尔·福柯提出的概念。简单来说，异托邦是现实存在的“世界”，然而 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
-| 2026-10-15 | [工作的节奏](https://hux.ink/posts/the-rhythm-of-work/) | 昨天下班比平时晚了一点。 我回到家时，爸妈已经吃完晚饭，见我还没回来，就带着孩子在小区楼下玩。后来我到了，把孩子领上楼准备写作业。 我爸见到我，问了一句：“今天怎么这么晚？” 我说，加了一会儿班，晚下班了半个小时。 他接着说，大意是：“前段时间出去玩了那么久，现在是不是要把落下的工作补回来。” 他说… |
 
 ## Vibe Coding
 

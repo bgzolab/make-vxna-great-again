@@ -1,0 +1,205 @@
+[
+  {
+    "title": "失乐园里有什么？I",
+    "url": "https://mobius.blog/25963.html",
+    "date": "2026-10-23T02:00:47Z",
+    "description": "今天并不是在聊渡边淳一的《失乐园》。失乐园这个词，可以更早追溯到1667年约翰·弥尔顿的无韵诗《Paradis […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。",
+    "source_root_domain": "onojyun.com"
+  },
+  {
+    "title": "科技爱好者周刊（第 416 期）：编程已经面目全非",
+    "url": "http://www.ruanyifeng.com/blog/2026/10/weekly-issue-416.html",
+    "date": "2026-10-23T00:06:16Z",
+    "description": "这里记录每周值得分享的科技内容，周五发布。 本杂志 开源 ，欢迎 投稿 。另有 《谁在招人》 服务，发布程序员招聘信息。合作请 邮件联系 （yifeng.ruan@gmail.com）。 封面图 本周启用的上海大歌剧院内部装修。（ via ） 编程已经面目全非 大多数人只看到，AI 改变了程序员这个职业。很少有人提到，AI 也改变了编程。 AI 推翻了传统的软件开发，编程现在已经面目全非。 即使将来泡沫破灭，AI 也不可能从编程工具链中消失，已经永久成为软件开发的一部分，再也无法移除。 一个国外的资深程序员 总结 了，AI 改变了编程的哪些方面。 他的观点非常激进，有很多大胆的断言，我觉得一定要分享给更多人看。 （1）代码审查（Code review）将消失。 人工审查代码已经没意义了。因为人类跟不上 AI 生成代码的速度，无法在合理的时间内，发现 AI 代码中的 Bug。 人类未来只能审查整个系统的组成或架构是否合理，而绝不会像现在这样，通过 PR 逐行审查代码。 （2）单元测试可能会消失。 AI 可以随时改变代码的整个实现，再去测试一个个代码单元，就没意义了。也许下次迭代，整栋楼就",
+    "source_root_domain": "feedburner.com"
+  },
+  {
+    "title": "New Release: Quake 4",
+    "url": "https://macsourceports.com/game/quake4",
+    "date": "2026-10-22T22:28:40Z",
+    "description": "Slowly but surely we're getting all the Quake games on the site. Quake 4 is the fourth installment in the Quake series, and just to keep things weird it's the fourth entry in an…",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "【剧透】赛博朋克: 边缘行者 第二季 观后感",
+    "url": "https://7gugu.com/index.php/2026/10/23/%e8%b5%9b%e5%8d%9a%e6%9c%8b%e5%85%8b-%e8%be%b9%e7%bc%98%e8%a1%8c%e8%80%85-%e7%ac%ac%e4%ba%8c%e5%ad%a3/",
+    "date": "2026-10-22T17:22:40Z",
+    "description": "Netflix就是厚道，一次性放10集，爽看。剧情也没Threads上说的那么糟糕，当然也没第一季马丁内斯那么 … 继续阅读 “【剧透】赛博朋克: 边缘行者 第二季 观后感”",
+    "source_root_domain": "7gugu.com"
+  },
+  {
+    "title": "QuietSearch:支持 Kagi 和 DeepSeek API 的轻量搜索界面",
+    "url": "https://anotherdayu.com/quietsearch-kagi-deepseek-api/",
+    "date": "2026-10-22T15:30:00Z",
+    "description": "引 最近做了一个满足个人需求的小工具 QuietSearch ，是一个可以部署在 Cloudflare 上的轻量搜索界面，支持接入 Kagi 和 DeepSeek 的搜索 API。 在设置中选择引擎、填入自己的 API Key，就可以搜索。配置 DeepSeek Key 后，在问题末尾加上 ？ ，还可以生成带来源引用的回答。 可以先试试 我部署的版本 ，调用费用由你自己的 API 账户承担。Key 请自行妥善保存，网页只在当前页面内存中保存，但请求会经过网站后端转发。用完可以移除；如果不放心，也可以到服务商平台撤销这个 Key。 自行部署也很简单：Fork 仓库，在 Cloudflare Workers 中导入，构建命令填写 npm run build ，部署命令填写 npx wrangler deploy 。仓库里有图文教程。 讨论 我是 Kagi 的忠实用户，非常重视主动检索在日常工作和生活中的作用。做这个工具，起初是好奇 DeepSeek 搜索 API 的效果，以及它有没有可能取代百度在中国的地位。 用了三天，感觉它更像是为 AI 提供资料的搜索服务。对我来说，返回的结果缺少明确",
+    "source_root_domain": "anotherdayu.com"
+  },
+  {
+    "title": "睡得着觉的人",
+    "url": "https://blog.solazy.me/20261022/",
+    "date": "2026-10-22T15:00:00Z",
+    "description": "最近对一句话深有感触……",
+    "source_root_domain": "solazy.me"
+  },
+  {
+    "title": "Nginx1.31.7编译原生GeoIP模块并写入JSON访问日志",
+    "url": "https://199604.com/3730",
+    "date": "2026-10-22T14:07:53Z",
+    "description": "Nginx1.31.7编译原生GeoIP模块并写入JSON访问日志 记录时间：2026-10-21 环境：RH […]",
+    "source_root_domain": "199604.com"
+  },
+  {
+    "title": "Lemmings updated",
+    "url": "https://macsourceports.com/game/lemmings",
+    "date": "2026-10-22T11:00:42Z",
+    "description": "The build of Ultimate Lemmings for Lemmings has been updated to version v2.1.2 of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "云和梯田畲乡自驾4天4夜",
+    "url": "https://victor42.eth.limo/post/yunhe-terraces-she-township-self-driving-tour/",
+    "date": "2026-10-22T10:10:00Z",
+    "description": "畲族文化、山岭梯田与瓯江古村。 照片相册： 查看本篇相册 旅行攻略： 获取攻略文档 稻谷金黄、秋意正浓，周五晚杭州出发，驱车300多公里来到丽水，带家人奔赴一场山野度假。 由于是自驾，活动范围比较大，不是单城玩法。行程涉及景宁县、云和县、丽水莲都区三地，且目的地离各区县的城区都有一段距离，非自驾难以实现。 第1天：畲族文化 景宁县全称是景宁畲族自治县，是全国唯一的畲族自治县，也是华东唯一的少数民族自治县。 畲族人把广东潮州的凤凰山作为本族的发源地，从粤闽赣交界地带逐渐沿山区向北扩散，来到了福建和浙南。 畲乡之窗 第一站畲乡之窗，景点不大，围绕一条约300米的大均古街打造的畲族民俗体验景点。 古街入口有一棵千年古樟树，估计要4-5个成年人才能环抱。 整个白天就安排了这一个地方，慢逛细品。女儿换上了一套现代融合款式的畲族服装，神神气气出发。 古街入口有个大戏台，背景墙上有巨大的畲族符号。畲族只有语言，没有常规意义的文字。这几个符号是现代文旅造字过程中设计出来的，成为了畲族的现代装饰符号，没有确定的含义，可以视作一种图形Logo。 4个装饰符号中的形状和笔画，取材于畲族原生的字符系统，就是这",
+    "source_root_domain": "eth.limo"
+  },
+  {
+    "title": "哈哈，好可爱，黄仁勋在 GTC 上和 @",
+    "url": "https://versun.me/blog/tweet-2113168136505786723",
+    "date": "2026-10-22T07:18:39Z",
+    "description": "Nous Research Jensen closed his GTC Berlin 2026 keynote with this Hermes Agent demo as the finale. He introduced it by saying the way to build an agent is to ask an agent to build it for you, so he installed and set up a customized Hermes in one prompt. Then he 哈哈，好可爱，黄仁勋在 GTC 上和 @pollenrobotics 的可达鸭互动，真好玩，一个400刀，好想要，可惜中国区没得买",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "青甘行·上｜祁连山色，张掖丹霞",
+    "url": "https://hux.ink/posts/qinggan-trip-02/",
+    "date": "2026-10-22T07:01:36Z",
+    "description": "序曲 ：前路未知，满怀期待 9 月 24 日，临出发前，我写了一篇 序曲短记 ，末尾写道：“前路未知，满怀期待，最美风景在路上。” 彼时行李已经收拾妥当，接下来十三天的行程也基本安排好了，只等出门赶高铁。虽然提前在网上看过一些攻略和照片，对即将经过的地方有初步了解，但毕竟是第一次去大西北，真正会遇见怎样的风景，又会经历些什么事情，心里还是充满期待。青海湖、祁连山、河西走廊、敦煌、柴达木盆地……这些曾经多见于地理课本和纪录片中的地名，再过一些天就会逐一出现在眼前。 最终确定的路线，是从西宁出发，先向北经过祁连、张掖，沿河西走廊一路向西抵达敦煌，再向南翻越当金山进入柴达木盆地，经茶卡、青海湖返回西宁，最后到兰州还车。整个环线逆时针走下来，自驾里程接近三千公里。路线确定以后，机票、租车和各地酒店也陆续订好，在地图上的那些地名，也都有了具体的日程坐标。 考虑到深圳直飞西宁的机票价格比较贵，我们选择了先坐高铁到南昌，再从南昌乘机前往西宁的方案。这样不仅可以省下一些交通费用，恰好还能在南昌过个中秋节，让「中秋」同学在家简单过个生日，然后再飞往西宁。虽然需要多折腾一趟高铁，但整体看来还是比较合适。 ",
+    "source_root_domain": "hux.ink"
+  },
+  {
+    "title": "AI Infra：大型定量模型（LQM）研究",
+    "url": "https://luweiqing.com/resources/AI-Infra-LQM.html",
+    "date": "2026-10-22T05:12:00Z",
+    "description": "2026年10月20日，Gartner正式发布《2027年十大战略技术趋势》，将大型定量模型（Large Quantitative Models，简称 LQM）列为首项趋势。当AI的聚光灯从“能...",
+    "source_root_domain": "luweiqing.com"
+  },
+  {
+    "title": "人书俱老",
+    "url": "https://www.hecaitou.com/2026/10/when-the-writer-and-the-work-mature-together.html",
+    "date": "2026-10-22T04:41:27Z",
+    "description": "前几天是鲁迅先生逝世 90 周年，他在小朋友中间的影响力还有那么大么？不好说。当初我家书架上有他的作品集，很多人家也有，理所应当的样子，今天还是如此么？ 金庸在世的时候，国人已经发展出了「金学」，认为他写的武侠小说是难以逾越的文学高峰。但我问过很多 00 后小朋友，提起这个名字他们都是一脸茫然，除非是他们看过的某部作品改编成的电视剧。 类似的情况还有余秋雨。写字有字帖，余秋雨的散文在当年相当于是许多人要临摹的碑帖。任何一本新散文集出来，都会引起很多讨论。在之后的岁月里，我就再也没见过有那么多人追散文的场景。今天呢？这个名字已经很少有人提及了，也许是不上网也没 CP 炒的缘故吧。 对了，刘墉，差点忘记这个名字了。如果说之前列举的这些作家都偏文学的话，那么他算是那种自我发展类教程的开创者。我没有读过他的书，不过到今天都还记得一本书名《我不是教你诈》。当初他的书每年的码洋高到吓人，怕是家家户户都有一本他的书。如今这个品类里，已经不再听到他的名字。 我作为 70 后，偶尔回头想一下，惊奇地发现我少年时代，青年时代的流行作家，流行读物早就翻过了那一篇。甚至是阅读这件事情本身，也早就变成了一种小众",
+    "source_root_domain": "hecaitou.com"
+  },
+  {
+    "title": "走大朝台我在想啥？一",
+    "url": "https://1900.live/zou-da-zhao-tai-wo-zai-xiang-sha-yi/",
+    "date": "2026-10-22T04:40:14Z",
+    "description": "null 规划 国庆假期前夕，琢磨着走川西方向安排个一两天的行程看看秋景彩林，候选的地方也定了好几个，奈何那段时间四川天气多以雨天为主，想来去了也是大雾弥漫或者湿答答的，全然不会是我预想中的体验。 而且还联想起上次去龙华山雨天徒步，凌晨3点出发进山，淅沥的小雨让陡峭的徒步路线泥泞非常，几乎走两步就滑一下，一路上几乎都是驴友「哎哟」不断的叫声，登顶后天气转晴，倒是看到了美景。 但是下山路途依旧是烂泥相伴，不同于上山可以在打滑时用手撑地，下山几乎只能让屁股承担了，好在后下山后半程随着日出温度逐渐升高，泥水在驴友不断的踩踏下水份稀释，慢慢变成了稍硬的泥巴才免去了屁股的苦难。 龙华山徒步 有点离题了。 所以当时想着索性就在家里窝着得了，要是实在待的骨头痒就出去骑骑自行车，前几年的一个国庆就是这样安排的。 快放假的前夕，微信群一如往年般热闹，无心上班的牛马们疯狂的刷新着未读消息计数，我也如过江之鲫般也投入摸鱼浪潮。 巧合 然后在博客群里看到了 @Latiao 发了一张去太原的火车票，说是准备去大朝台，大朝台这条线路几年前就在抖音、B站时常能刷一些关于这条线路的vlog视频，是一条非常经典的徒步线",
+    "source_root_domain": "1900.live"
+  },
+  {
+    "title": "2026.10.21",
+    "url": "https://www.justzht.com/2026-10-21/",
+    "date": "2026-10-22T03:40:12Z",
+    "description": "昨天下了班和 huaxia 会和开去 SJ 南边看了 American Psycho 重映，就是 sigma face meme 出处的那个电影。老电影了，和 Fight Club 一样，都或多或少",
+    "source_root_domain": "justzht.com"
+  },
+  {
+    "title": "拧螺丝",
+    "url": "https://mobius.blog/25959.html",
+    "date": "2026-10-22T02:07:20Z",
+    "description": "安装猫架、拧螺丝的时候，想起了一个“常识”——不过我至今不觉得这是一个“常识”，可能只是一个在记忆里被保存然后 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。",
+    "source_root_domain": "onojyun.com"
+  },
+  {
+    "title": "其实用户要的是确定性，如果改为模型组合，",
+    "url": "https://versun.me/blog/tweet-2113089740534861879",
+    "date": "2026-10-22T02:07:08Z",
+    "description": "忒修斯的船板 用户即使知道auto便宜十倍 也还是会主动去按那个opus 甚至sonnet 甚至xxx flash 而不是auto 你知道是为什么吗？ https://twitter.com/ivanhzhao/status/2112946746225766716 其实用户要的是确定性，如果改为模型组合，比如调研组、写作组、通用组，然后每个组都有明确的模型搭配，这样会更好",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "我把用了很久的终端配置整理成了 Dotgraft",
+    "url": "https://rokcso.com/p/dotgraft-macos-terminal-setup/",
+    "date": "2026-10-22T02:00:00Z",
+    "description": "我每天大部分时间都在终端里，写代码、跑测试、看日志，一天要开很多次。这套配置在自己机器上用了很久，后来整理成了 Dotgraft，组合是 Ghostty + Starship + zsh。 我不会写 shell 脚本，也没认真研究过 dotfiles，能留下来靠的是每次换电脑把同一批文件再抄一遍，抄多了就烦，于是才有了这个项目。 Dotgraft 的三套主题：Ink、Paper、Porcelain 安装之前，先看清楚会改哪些文件 我换过几次电脑，也重装过很多次环境，装软件其实不烦，烦的是把终端恢复成顺手的样子：主题、提示符、补全、历史记录，再加几个小工具。 网上教程很多，照着改也能跑。但过几个月再打开 ~/.zshrc ，经常会愣一下，这行是谁加的，删了会不会出问题。当时觉得都记得，后来只剩一堆看不懂的路径。 Dotgraft 就是为这件事写的，安装一行： bash ( curl -fsSL https://raw.githubusercontent.com/rokcso/dotgraft/main/bootstrap.sh ) 它会先检查环境，装好 chezmoi，然后问三件事：要哪",
+    "source_root_domain": "rokcso.com"
+  },
+  {
+    "title": "php2shell: 一条请求，让全球 70% 互联网被迫下线",
+    "url": "https://blog.ensonyan.com/it/3504.html",
+    "date": "2026-10-22T00:30:51Z",
+    "description": "TL;DR 细节 10 月 21 日（周三），PHP 安全团队发布通告，措辞罕见地直接： “If […]",
+    "source_root_domain": "ensonyan.com"
+  },
+  {
+    "title": "AI 早报 2026-10-22：10.22总结；法律 AI 公司 Legora 完成 5.5 亿美元 E 轮融资，估值 88 亿美元",
+    "url": "https://www.jtxyh.com/daily/2026-10-22/",
+    "date": "2026-10-21T16:00:00Z",
+    "description": "2026-10-22 AI 早报，共 19 条动态。本期重点是智能体产品的可用阶段、算力投入和企业落地。法律 AI 公司 Legora 10 月 21 日宣布完成 5.5 亿美元 E 轮融资，投后估值 88 亿美元，由 Atreides Management 领投，Baron…",
+    "source_root_domain": "jtxyh.com"
+  },
+  {
+    "title": "爱拯救之",
+    "url": "https://www.geedea.pro/article/amour-en-sauve/",
+    "date": "2026-10-21T15:52:48Z",
+    "description": "极客死亡计划现在运行在安装 OpenBSD 8.0 的服务器上，不是 Linux。 我在 第一百零一期周刊 因 Linux 如今也包含 LLM 生成的代码而感到沮丧，写道：“我用 Linux，不可能不用”——结果，我还真的可以不用。Linus Torvalds 最近还在 邮件列表 里回复一条我读起来毫无恶意的邮件，用十分荒唐的逻辑称对方的想法愚蠢之极（“UTTERLY STUPID”），语气强烈。 前不久 ，他用 Claude Code 写的代码被评审者找出潜在的竞态问题（race condition）。 再后来 ，Linux 内核不再要求贡献者披露 LLM 使用情况。 这一切都给了我更多的理由抛弃 Linux，去用 BSD。我们讨论的不是可有可无的 SaaS 软件，我们说的是 Linux，全世界都依赖的操作系统。 Oh Linus, oh Linus, you let us all down. 不少 LLM 追捧者貌似只有那么一两个论点，Linus 一边骂人一边强调“LLM 是工具”，与此同时，Rich Hickey 1 说： 我一辈子都在造工具和用工具，我知道工具是什么。LLM 可",
+    "source_root_domain": "geedea.pro"
+  },
+  {
+    "title": "Quetoo updated",
+    "url": "https://macsourceports.com/game/quetoo",
+    "date": "2026-10-21T11:18:00Z",
+    "description": "The build of Quetoo has been updated to version v1.0.133 of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "有梦不如做个超大号的",
+    "url": "https://www.hecaitou.com/2026/10/if-youre-going-to-dream-make-it-supersized.html",
+    "date": "2026-10-21T04:19:32Z",
+    "description": "有读者建议我，试试用 AI 改变生活，让它负责安排我每天的日程，小到做菜，大到日常事务，都交给 AI。 说实话，看到这个建议的时候我愣了一下。先是觉得这个想法有点绝，但又不是那么绝，因为隐隐约约之间有点熟悉，不够超凡脱俗。再想了一会儿，我琢磨过滋味来，好像上一次那么干的是那群在田纳西州摘棉花的黑人朋友们，从早到晚做什么都有人安排好了。不干的话，还有皮鞭、猎犬和步枪伺候。 我能理解这个建议从何而来，它建立在几个假设上： 1、一定存在着一种更好的，更科学的，更有利于自己的生活方式；2、是人就应该去追求这种生活方式；3、但通常自己不知道这种生活方式是什么，知道了也不容易去执行，所以应该用工具来帮助自己。 问题是，我只支持假设 1，一点都不赞同假设 2，对于假设 3 内心也充满疑虑。而且，我也不赞同这些假设背后的那种想当然：AI 比人更聪明，适合指导人们如何生活。它都没去过一次公园，吃过一顿街边摊，你让我如何相信它？ 也许 50 年之后世界的确就是这个样子的，AI 负责安排一切，大家都躺在营养舱里脑后插着管子等着 AI 下指令。但我不想提前到今天，同样的，我也不想要什么更好的，更科学的，更利于",
+    "source_root_domain": "hecaitou.com"
+  },
+  {
+    "title": "我记得之前有看到过一个插件可以隐藏 AI",
+    "url": "https://versun.me/blog/tweet-2112751575710228571",
+    "date": "2026-10-21T03:43:23Z",
+    "description": "我记得之前有看到过一个插件可以隐藏 AI 留言的，是哪个来着，找不到了🥲",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "我为小说忙：（六）我们需要 OCR",
+    "url": "https://blog.mfwt.top/index.php/archives/1589/",
+    "date": "2026-10-21T01:56:02Z",
+    "description": "严格来说，本文算是番外篇，因为插件的主体部分已经开发完毕。但光有插件肯定是不够的，我们还需要内容。对于《如果瓷杯从未冷透》来说，由于一开始就是电子版，直接复制粘贴就行，但另外一本，《触碰：晨晓之...",
+    "source_root_domain": "mfwt.top"
+  },
+  {
+    "title": "处决童年的自己 II",
+    "url": "https://mobius.blog/25955.html",
+    "date": "2026-10-21T01:46:54Z",
+    "description": "这个系列并不是单纯回顾自己的童年，而是前几天一个朋友给我留言。 虽然他在留言里用了一句“这些故事告诉你，希望能 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。",
+    "source_root_domain": "onojyun.com"
+  },
+  {
+    "title": "兄弟们！我发现这个搭配，非常适合 her",
+    "url": "https://versun.me/blog/tweet-2112715157080346959",
+    "date": "2026-10-21T01:18:40Z",
+    "description": "兄弟们！我发现这个搭配，非常适合 hermes： 使用 moa 模式！ deepseek v4.1 flash 做为参考模型，发挥短平快的绝佳单兵能力，快速出思路 gemini 3.8 flash 做为聚合模型，上下文大且不怎么退化，容错强，多轮循环稳定，执行后总结说人话！ 而且这2个额度都管够！！！ 同时我把 review 的角色设置为 opus 5.5，20刀额度完全够用 金三角组合，绝配啊！",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "不仅支持皮衣厂，还支持遥遥领先 Deep",
+    "url": "https://versun.me/blog/tweet-2112711314464489487",
+    "date": "2026-10-21T01:03:24Z",
+    "description": "DeepSeek 🚀 Introducing DeepInfer, our in-house inference framework, now fully open source! Powering DeepSeek-V4.1-Flash at scale with high throughput and low latency. We’re sharing our production stack to help the community lower compute costs, reduce energy 不仅支持皮衣厂，还支持遥遥领先 DeepSeek：还！有！谁！",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "独立游戏简评 Vol.6",
+    "url": "https://bluepika.life/blog/indie-game-notes-6",
+    "date": "2026-10-21T00:00:00Z",
+    "description": "这期只聊两个游戏，刚好它们都是幸存者 Like 游戏，先给出我的评价，它们在幸存者这类型游戏上都做了一些新的尝试，并且都带给我了不少快乐，我认为这两款独立游戏都值得推荐，另外这次也将会从 Cora 的视角来看看这两款游戏的体验怎么样。 球比伦战记 这是今年某一周里 Nintendo Online 的会员免费游戏，在会免期内我们就通关了。 我的评价 它把打砖块和幸存者玩法结合了起来，一改以往的很多幸存者的地图设计方式，非常特别的设计。加上很多不同地图和不同球，球也有类似吸血鬼幸存者的合成模式，可玩内容非常丰富，玩到后面发现解锁的一些角色，还可以让玩法有翻天覆地的变化，特别是其中一个角色，可以直接让游戏变成回合制，游玩下来一直都有新鲜感。 玩到中期后，我感觉到构筑没太大问题，是数值上跟不上了，明显设计者想要我去培养局外要素了。 这个游戏的局外要素并不是简单地提供技能树升级，而是在局外提供了一片空地，你要负责排布建筑建立一个小镇，然后使用弹球来撞击建筑获得局外资源，再使用局外资源来强化建筑，达到强化角色的效果，这个设计是我认为这个游戏最有意思的一点，它和游戏的主题是一脉相承的，建造物还区分弹",
+    "source_root_domain": "bluepika.life"
+  }
+]
