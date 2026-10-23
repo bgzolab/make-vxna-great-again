@@ -27,12 +27,16 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-10-23 | [走大朝台我在想啥？二](https://1900.live/zou-da-zhao-tai-wo-zai-xiang-sha-er/) | null 昨天更新了前一篇没多久就有四五条博友的评论，这么久没更新这些博友们都在默默关注着我这个小小的孤岛让我有些感动，在这里诚恳的感谢大家，让我感受到了互联网、博客圈的温度。 所以趁着这股劲有还在索性今天把第二篇也写了，接回上文。 刚下车被山上的冷风一吹我差点没绷住哕了出来，为了保住面子，在路边排… |
+| 2026-10-23 | [Lemmings updated](https://macsourceports.com/game/lemmings) | The build of Ultimate Lemmings for Lemmings has been updated to version v2.2.1 of the project |
+| 2026-10-23 | [Total Annihilation updated](https://macsourceports.com/game/totalannihilation) | The build of Open Annihilation for Total Annihilation has been updated to version v0.8.5 of the project |
 | 2026-10-23 | [免费替代 CleanMyMac：Mole CLI 在 Mac Mini 上的完整使用指南](https://www.evan.xin/5129/) | Mole（tw93/mole）是一个开源的 macOS 系统清理优化工具，功能对标 CleanMyMac、Ap […] |
-| 2026-10-23 | [青甘行·中｜河西走廊，千年敦煌](https://hux.ink/posts/qinggan-trip-03/) | 接 上篇 ，本篇记录 9 月 29 日至 10 月 1 日的三日见闻：从酒泉出发，途经嘉峪关、瓜州，一路向西抵达敦煌，在这里停留了两天。 9 月 29 日｜一个人的嘉峪关，以及漫长的敦煌之路 原本今天只安排了金塔胡杨林，之后便继续前往敦煌。不过前一天晚上查地图时，我发现嘉峪关距离酒泉只有二十多公里。… |
+| 2026-10-23 | [青甘行·中｜河西走廊，千年敦煌](https://hux.ink/posts/qinggan-trip-03/) | 接 上篇｜祁连山色，张掖丹霞 ，本篇记录 9 月 29 日至 10 月 1 日的三日见闻：从酒泉出发，途经嘉峪关、瓜州，一路向西抵达敦煌，在这里停留了两天。 9 月 29 日｜一个人的嘉峪关，以及漫长的敦煌之路 原本今天只安排了金塔胡杨林，之后便继续前往敦煌。不过前一天晚上查地图时，我发现嘉峪关距离… |
 | 2026-10-23 | [野人编年史](http://imlane.zhanglintc.co/ye-ren-bian-nian-shi) | 野人编年史 野人创始人 徐队 ，群昵称Shogun。姓徐，称徐队，真野人队长，野人 抖音官号 持有者。 张队 ，群昵称张小不。江湖人称竹节虫，简称虫队。 熊队 ，群昵称熊嘎婆，称熊队。 野人CLUB游泳事业部 群主。 亮队 ，群昵称亮什么，称亮队，野人 小红书官号 持有者。 野人声明 从 泳往直前… |
 | 2026-10-23 | [为什么有人不怕把事做砸](https://blog.solazy.me/20261023/) | 今天想接着昨天讲得继续来聊…… |
 | 2026-10-23 | [移除了 webmention 功能](https://kaix.in/2026/1023/) | 开始关注 webmention 协议至少是在 2019 年以前了，2021 年我用 go 语言 写了个小工具 来实现它，大概也算是第一批运用这个协议的中文博客站点。不过几个月前我彻底移除了这个功能。 个中缘由有点复杂，隐私原因算是其中最容易想到也最古怪的部分。这就顺便要提到 fediverse 或者… |
 | 2026-10-23 | [心里有光](https://www.hecaitou.com/2026/10/The-Light-Within.html) | 昨天我在回答读者什么是「心里有光」时，写了这样一段话： 「心里本来就有光，甚至可以说光明就是心的本体。要有光的意思，不是找寻来光，也不是擦拭出光，而是不被遮蔽，让它自然放光。」 这里我用到了「不是...而是...」句型，估计被系统判断为 AI 自动回复的垃圾留言，结果被阻拦了好一阵。我于是有些担心，… |
+| 2026-10-23 | [部署Akvorado - 网络流日志收集分析系统](https://songxwn.com/akvorado-docker/) | Akvorado Docker 部署详细技术指南（含 Nginx 反向代理 + Basic Auth） Akvorado 是一款开源的网络流量采集、丰富与可视化系统，支持 NetFlow / IPFIX / sFlow。它会通过 SNMP 补充接口名称等信息，用 GeoIP 数据库补充地理信息，再经… |
 | 2026-10-23 | [失乐园里有什么？I](https://mobius.blog/25963.html) | 今天并不是在聊渡边淳一的《失乐园》。失乐园这个词，可以更早追溯到1667年约翰·弥尔顿的无韵诗《Paradis […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-10-23 | [科技爱好者周刊（第 416 期）：编程已经面目全非](http://www.ruanyifeng.com/blog/2026/10/weekly-issue-416.html) | 这里记录每周值得分享的科技内容，周五发布。 本杂志 开源 ，欢迎 投稿 。另有 《谁在招人》 服务，发布程序员招聘信息。合作请 邮件联系 （yifeng.ruan@gmail.com）。 封面图 本周启用的上海大歌剧院内部装修。（ via ） 编程已经面目全非 大多数人只看到，AI 改变了程序员这个… |
 | 2026-10-22 | [记一次在MacBook上瞎折腾YubiKey把自己锁在外面的救援](https://www.boris1993.com/macos-recover-from-required-pin-to-enable-touch-id.html) | 前两天拿着YubiKey瞎折腾玩，给我的MacBook配上了用它登录，配完了又担心将来忘了这件事给自己找麻烦，于是又解绑了。尽管当时用 sc_auth list 确认了账户已经没有绑定的智能卡，但刚刚打开电脑的时候，却发现macOS要我输入PIN来启用Touch ID。在反复试了好几个我确定正确的P… |
@@ -41,7 +45,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-10-22 | [QuietSearch:支持 Kagi 和 DeepSeek API 的轻量搜索界面](https://anotherdayu.com/quietsearch-kagi-deepseek-api/) | 引 最近做了一个满足个人需求的小工具 QuietSearch ，是一个可以部署在 Cloudflare 上的轻量搜索界面，支持接入 Kagi 和 DeepSeek 的搜索 API。 在设置中选择引擎、填入自己的 API Key，就可以搜索。配置 DeepSeek Key 后，在问题末尾加上 ？ ，还… |
 | 2026-10-22 | [睡得着觉的人](https://blog.solazy.me/20261022/) | 最近对一句话深有感触…… |
 | 2026-10-22 | [Nginx1.31.7编译原生GeoIP模块并写入JSON访问日志](https://199604.com/3730) | Nginx1.31.7编译原生GeoIP模块并写入JSON访问日志 记录时间：2026-10-21 环境：RH […] |
-| 2026-10-22 | [Lemmings updated](https://macsourceports.com/game/lemmings) | The build of Ultimate Lemmings for Lemmings has been updated to version v2.1.2 of the project |
 | 2026-10-22 | [云和梯田畲乡自驾4天4夜](https://victor42.eth.limo/post/yunhe-terraces-she-township-self-driving-tour/) | 畲族文化、山岭梯田与瓯江古村。 照片相册： 查看本篇相册 旅行攻略： 获取攻略文档 稻谷金黄、秋意正浓，周五晚杭州出发，驱车300多公里来到丽水，带家人奔赴一场山野度假。 由于是自驾，活动范围比较大，不是单城玩法。行程涉及景宁县、云和县、丽水莲都区三地，且目的地离各区县的城区都有一段距离，非自驾难以… |
 | 2026-10-22 | [哈哈，好可爱，黄仁勋在 GTC 上和 @](https://versun.me/blog/tweet-2113168136505786723) | Nous Research Jensen closed his GTC Berlin 2026 keynote with this Hermes Agent demo as the finale. He introduced it by saying the way to build an agen… |
 | 2026-10-22 | [青甘行·上｜祁连山色，张掖丹霞](https://hux.ink/posts/qinggan-trip-02/) | 序曲 ：前路未知，满怀期待 9 月 24 日，临出发前，我写了一篇 序曲短记 ，末尾写道：“前路未知，满怀期待，最美风景在路上。” 彼时行李已经收拾妥当，接下来十三天的行程也基本安排好了，只等出门赶高铁。虽然提前在网上看过一些攻略和照片，对即将经过的地方有初步了解，但毕竟是第一次去大西北，真正会遇见… |
@@ -75,7 +78,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-10-20 | [入蜀记 day508 Teste先生](https://z.arlmy.me/posts/BBBPandINSW/INSW-deep/INSW_508/) | 「Teste先生。」 |
 | 2026-10-20 | [「听不懂话」的销售](https://blog.solazy.me/20261020/) | 又是今天的一个真实事件引发的一段思考 |
 | 2026-10-20 | [日本高中生物（基础部分）](https://springwood.me/jp-highschool-biology-1/) | （摘要）我在读高中时、书上说催化剂又称触媒。但是我从来没听人这么叫过。现在才发现原来中文的“催化剂”在日语里叫做「触媒」。 |
-| 2026-10-20 | [Total Annihilation updated](https://macsourceports.com/game/totalannihilation) | The build of Open Annihilation for Total Annihilation has been updated to version v0.8.4 of the project |
 | 2026-10-20 | [油管｜web网站和固件下载](https://dsx2016.com/youtube-website-and-firmware-downloads/) | 固件产品 有时候油管视频作为吃饭或者睡觉背景音 有时候油管视频主要是教程和资源类 有时候油管视频是信息，娱乐，... 油管｜web网站和固件下载 最先出现在 大师兄2016 。 |
 | 2026-10-20 | [免费域名接入 Cloudflare 的一个小技巧](https://www.gaojinan.com/free-subdomain-cloudflare-double-hyphen.html) | 免费域名想接入 CF，可以试试在申请的时候把名字写成 xx--example，也就是第 3、4 位用两个半角横线。例如下面这种格式（仅作示例）：ab--myblog.freedomain.kgc... |
 | 2026-10-20 | [有用上 oppo 的 ai 心力球吗，感](https://versun.me/blog/tweet-2112428444089045498) | 有用上 oppo 的 ai 心力球吗，感觉怎么样 老早就有类似的想法了，当初是想用大疆的 mic mini 2s 搭配 hermes 来实现，不过一直拖到现在。。 |
