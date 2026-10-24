@@ -27,7 +27,13 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
-| 2026-10-24 | [回了一趟国](https://cufezhusy.github.io/issue-26/) | 上周回了一趟国，看望了一下父母，也去看了看严严的父母。 这次回去，最直观的感受是，国内现在的生活条件确实很好。各种硬件设施已经相当完善，不少方面甚至比欧美更好，而且物价也便宜。 我们这次住了家乡最好的一家宾馆，淡季居然只要六百多块钱一晚。六百多块，在哥本哈根大概只能住青年旅社了。我以前在斯德哥尔摩也… |
+| 2026-10-24 | [esp32 &#124; cyd &#124; DFPlayer Mini Mp3 模块加SD卡和8r0.5w喇叭](https://dsx2016.com/esp32-cyd-with-dfplayer-mini-mp3-module-sd-card-and-8%cf%89-5w-speaker/) | mp3模块 为了让esp32 cyd可以播放音乐，我买了一个DFPlayer Mini Mp3 模块加SD卡和... esp32 &#124; cyd &#124; DFPlayer Mini Mp3 模块加SD卡和8r0.5w喇叭 最先出现在 大师兄2016 。 |
+| 2026-10-24 | [emacs-将光标所在org-link内容插入为quote代码块](https://blog.prayhand13013.top/20261025T001535--emacs-将光标所在org-link内容插入为quote代码块__blog.html) |  |
+| 2026-10-24 | [emacs-利用elisp进行大小写中文和数字的转换](https://blog.prayhand13013.top/20261025T000705--emacs-利用elisp进行大小写中文和数字的转换__blog.html) |  |
+| 2026-10-24 | [堆栈溢出的一周](https://atpx.com/blog/week-of-stack-overflow/) | 懂归懂，失落归失落，好坏都得继续。 |
+| 2026-10-24 | [每日计划 - 行动力基于清晰力](https://depp.wang/2026/daily-plan/) | 最近在微信读书上看了一本书，叫《认知觉醒》 ，作者周岭。 这本书写了一个观点，我觉得还是挺有启发性的。 这个观点说：读书其实不需要读完后将这本书总结一遍，而是去找一个最有感触的点，去思考、去行动、去改变。这可能是读书最有收获的一种方式。而我以前读完一本书后就会自己去整体总结一遍书中的内容，去输出一篇… |
+| 2026-10-24 | [真正的工业革命，正在第二次发生](https://haoluobo.com/2026/10/the-second-industrial-revolution/) | 年初的时候写了一篇《AI将如何重塑这个世界》，现在半年过去，国务院办公厅发文称要「有效减缓人工智能应用就业替代 […] |
+| 2026-10-24 | [回了一趟国](https://cufezhusy.github.io/issue-26/) | 上周回了一趟国，看望了一下父母，也去看了看严严的父母。中东没法飞了，第一次飞国航走北京转机，好多年没来过首都国际机场了，真是恍如隔世。 这次回去，最直观的感受是，国内现在的生活条件确实很好。各种硬件设施已经相当完善，不少方面甚至比欧美更好，而且物价也便宜。 我们这次住了家乡最好的一家宾馆，淡季居然只… |
 | 2026-10-24 | [遍历「所有」旋律](https://www.yvesx.com/archives/introducting-hertz-cloud) | 智慧生命的精华与本质，真的是技术所无法触及的吗？在刘慈欣的科幻小说《诗云》中，神级文明为了终结人类的艺术，穷举汉字的排列组合，写出了一切过去、现在和未来的诗歌。当我们讨论音乐创作，也经常有人提及... |
 | 2026-10-24 | [Saily eSIM 指南：出境流量、美国号码与优惠码](https://gugegt.com/20261024-saily-esim.html) | 出境旅行，落地能不能马上联网，决定了头半天顺不顺。Saily 的做法是出发前在 App 里买好流量套餐，落地自动联网，不用换卡，不用租 WiFi 盒子，回国也不用对着漫游账单心疼。Saily 是 Nord Security 旗下的公司，NordVPN、NordPass 都是它家的。 |
 | 2026-10-24 | [Lemmings updated](https://macsourceports.com/game/lemmings) | The build of Ultimate Lemmings for Lemmings has been updated to version v2.2.2 of the project |
@@ -44,6 +50,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-10-23 | [Kimi Yes！！！！ 看起来和 op](https://versun.me/blog/tweet-2113772047168078142) | Kimi.ai Introducing Kimi K3.1 Pro: our most capable 3T-class open-weight model. 🔹 1M-token context, 2.8T total / 104B active params (MoE), Multimodal.… |
 | 2026-10-23 | [青甘行·下｜盐湖映翠，初见黄河](https://hux.ink/posts/qinggan-trip-04/) | 接 上篇｜祁连山色，张掖丹霞 及 中篇｜河西走廊，千年敦煌 ，本篇是旅程最后五天的见闻：从敦煌出发，穿越柴达木盆地，途经大柴旦、察尔汗和青海湖，最后回到西宁，经兰州踏上归途。 10 月 2 日｜穿过戈壁，遇见大柴旦翡翠湖 在敦煌连住三个晚上之后，10 月 2 日重新启程，前往青海大柴旦。今天要经过当… |
 | 2026-10-23 | [OSC 7501：让程序自己告诉终端它在干什么](http://tubaozi.top/posts/2026/osc-7501-program-status/) | Ghostty 作者 Mitchell Hashimoto 提出的终端转义序列 OSC 7501（Program Status Protocol）：程序通过 pty 直接上报空闲、运行、等待、完成、失败等状态，不用再靠解析屏幕去猜。文末补充 Kero 终端的支持情况。 |
+| 2026-10-23 | [AI 早报 2026-10-24：10.24总结；Meta 宣布收购 Sundial，吸纳 AI 数据分析团队](https://www.jtxyh.com/daily/2026-10-24/) | 2026-10-24 AI 早报，共 10 条动态。AI 安全与研发投入是本期重点。Meta 数据负责人 Alex Schultz 于10月23日宣布，Sundial 联合创始人 Chandra Narayanan、Julie Zhuo 及部分团队成员携 AI 分析技术加入 Meta，Narayan… |
 | 2026-10-23 | [2007，1906室](https://www.tortorse.com/archives/room-1906-2007/) | 1906室 |
 | 2026-10-23 | [走大朝台我在想啥？二](https://1900.live/zou-da-zhao-tai-wo-zai-xiang-sha-er/) | null 昨天更新了前一篇没多久就有四五条博友的评论，这么久没更新这些博友们都在默默关注着我这个小小的孤岛让我有些感动，在这里诚恳的感谢大家，让我感受到了互联网、博客圈的温度。 所以趁着这股劲有还在索性今天把第二篇也写了，接回上文。 刚下车被山上的冷风一吹我差点没绷住哕了出来，为了保住面子，在路边排… |
 | 2026-10-23 | [Total Annihilation updated](https://macsourceports.com/game/totalannihilation) | The build of Open Annihilation for Total Annihilation has been updated to version v0.8.5 of the project |
