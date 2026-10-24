@@ -27,6 +27,10 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-10-24 | [Insaniquarium updated](https://macsourceports.com/game/insaniquarium) | The build of Insaniquarium Portable for Insaniquarium has been updated to version 0.6 of the project |
+| 2026-10-24 | [Memos: 主厨是餐饮的核心](https://blog.yasking.org/a/1792814826) | 周五同事请客去吃了一家东北菜，这家老店味道一直不错，在大众点评上已收录13年。早两年第一次去他家吃的炒腔骨，口感 … |
+| 2026-10-24 | [这回我承认AI的确实有用](https://www.hecaitou.com/2026/10/why-i-finally-admit-that-ai-is-genuinely-usef.html) | 看过那么多人设计了那么多种 AI 的用法，我终于见到一个大众真正需要，真正解决生活问题的 AI 产品：CleanYourTV。 它解决了一件大部分人每天见，每天烦，但是一直没办法的问题，那就是把你家的智能电视恢复到最朴素的样子，去掉各种电视机自带的广告，各种弹窗，各种各样的后台程序。 不需要用家有任… |
+| 2026-10-24 | [油管｜4k视频和POV视角](https://dsx2016.com/youtube-4k-videos-and-pov-perspective/) | pov视角 就是第一人称视角，一般是运动相机或者ai眼镜，或者是手持手机但是不拍自己，而是拍摄前方，自然的视频... 油管｜4k视频和POV视角 最先出现在 大师兄2016 。 |
 | 2026-10-24 | [GitLab CE 18.6.1 升级到 18.11.13 的过程记录](https://199604.com/3732) | GitLab CE 18.6.1 升级到 18.11.13 的过程记录 记录时间：2026-10-22 环境： […] |
 | 2026-10-24 | [“你是Gay”这句话真的能骂到男性吗？](https://mobius.blog/25969.html) | 虽然我并不是一个很喜欢聊对与错、高低级的人，但有些事情有明显的“层级”问题，比如认知、主体性，以及今天要聊的“ […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-10-24 | [AI 越来越强，我们怎样重新安排工作和生活？](https://www.linggandianbo.com/ai-yue-lai-yue-qiang-wo-men-zen-yang-zhong-xin-an-pai-gong-zuo-he-sheng-huo/) | 从理解 AI 的变化、重新提出问题，到减少记录的负担，以及给朋友留一张餐桌。 |
@@ -95,7 +99,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-10-20 | [油管｜web网站和固件下载](https://dsx2016.com/youtube-website-and-firmware-downloads/) | 固件产品 有时候油管视频作为吃饭或者睡觉背景音 有时候油管视频主要是教程和资源类 有时候油管视频是信息，娱乐，... 油管｜web网站和固件下载 最先出现在 大师兄2016 。 |
 | 2026-10-20 | [免费域名接入 Cloudflare 的一个小技巧](https://www.gaojinan.com/free-subdomain-cloudflare-double-hyphen.html) | 免费域名想接入 CF，可以试试在申请的时候把名字写成 xx--example，也就是第 3、4 位用两个半角横线。例如下面这种格式（仅作示例）：ab--myblog.freedomain.kgc... |
 | 2026-10-20 | [有用上 oppo 的 ai 心力球吗，感](https://versun.me/blog/tweet-2112428444089045498) | 有用上 oppo 的 ai 心力球吗，感觉怎么样 老早就有类似的想法了，当初是想用大疆的 mic mini 2s 搭配 hermes 来实现，不过一直拖到现在。。 |
-| 2026-10-20 | [Insaniquarium updated](https://macsourceports.com/game/insaniquarium) | The build of Insaniquarium Portable for Insaniquarium has been updated to version 0.5 of the project |
 | 2026-10-20 | [Google AI Pro 学生羊毛：Google AI Pro + YouTube Premium 两年半](https://www.gaojinan.com/google-ai-pro-student-benefit-youtube-premium.html) | 最近 Google 的学生优惠又更新了。符合条件的账号可以先领 12 个月 Google AI Pro 免费试用；如果账号所在地区还能订阅 Google AI Pro + YouTube Pre... |
 | 2026-10-20 | [a16z推出社交网络 Cosign：背书有多重要？](https://wenfeixiang.com/2026/10/cosign-by-a16z/) | 在9月底的一次播客上，美国知名风投机构 a16z 的 4位合伙人：Erik Torenberg 与 Josh […] |
 | 2026-10-20 | [一种培养收纳习惯的有效方式](https://www.hecaitou.com/2026/10/an-effective-way-to-build-a-tidying-habit.html) | 按照稍微宽松一点的标准来说，我现在算是有收拾家的习惯了。不时会主动归置归置物品，整理整理各处台面，完全背离了我之前四十多年的天性。 我天性喜欢乱丢乱放随手扔，多年来被无数人无数次挽救过。但是没有用，举再多名人的例子，我也总是能找出无数名人反例，他们垃圾堆一样的书桌，他们无处下脚的书房，诸如此类。 感… |
