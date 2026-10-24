@@ -1,7 +1,7 @@
 ---
 title: Latest Fetch Status
-created: 2026-10-24T17:20:08Z
-modified: 2026-10-24T17:20:08Z
+created: 2026-10-24T20:19:20Z
+modified: 2026-10-24T20:19:20Z
 description: Latest source-level fetch result for the most recent execution.
 tags:
   - ai-notes
@@ -11,11 +11,11 @@ tags:
 
 # Latest Fetch Status
 
-Generated at: 2026-10-24T17:20:08Z
+Generated at: 2026-10-24T20:19:20Z
 
 Total sources: 527
-Successful: 396
-Failed: 131
+Successful: 395
+Failed: 132
 
 | Status | Source | Feed | Origin | Articles | Error |
 | --- | --- | --- | --- | ---: | --- |
@@ -117,14 +117,15 @@ Failed: 131
 | Failed | [#460] V2EX › Xiaojun Zhou | [https://www.xiaojun.im/feed](https://www.xiaojun.im/feed) | [Origin](https://www.v2ex.com/xna/s/460) | 0 | [Errno -2] Name or service not known |
 | Failed | [#464] V2EX › J 实验室 | [https://weijunext.com/rss.xml](https://weijunext.com/rss.xml) | [Origin](https://www.v2ex.com/xna/s/464) | 0 | Client error '404 Not Found' for url 'https://weijunext.com/rss.xml' For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404 |
 | Failed | [#468] V2EX › Ivanvolt | [https://ivanvolt.com/feed](https://ivanvolt.com/feed) | [Origin](https://www.v2ex.com/xna/s/468) | 0 | Client error '404 Not Found' for url 'https://ivanvolt.com/feed' For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404 |
-| Failed | [#473] V2EX › iPen | [https://www.ipen.ink/rss](https://www.ipen.ink/rss) | [Origin](https://www.v2ex.com/xna/s/473) | 0 | Server error '503 Service Unavailable' for url 'https://www.ipen.ink/rss' For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/503 |
+| Failed | [#473] V2EX › iPen | [https://www.ipen.ink/rss](https://www.ipen.ink/rss) | [Origin](https://www.v2ex.com/xna/s/473) | 0 | Client error '403 Forbidden' for url 'https://www.ipen.ink/rss' For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403 |
 | Failed | [#474] V2EX › 信也のブログ | [https://shinya.click/rss.xml](https://shinya.click/rss.xml) | [Origin](https://www.v2ex.com/xna/s/474) | 0 | Client error '404 Not Found' for url 'https://shinya.click/rss.xml' For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404 |
 | Failed | [#476] V2EX › 泽梦记 | [https://blog.100fails.com/rss.xml](https://blog.100fails.com/rss.xml) | [Origin](https://www.v2ex.com/xna/s/476) | 0 | [Errno -2] Name or service not known |
 | Failed | [#478] V2EX › FSpark | [https://fspark.me/feed](https://fspark.me/feed) | [Origin](https://www.v2ex.com/xna/s/478) | 0 | Client error '403 Forbidden' for url 'https://fspark.me/feed' For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403 |
+| Failed | [#485] V2EX › 从不说安全词 | [https://jt26wzz.com/rss.xml](https://jt26wzz.com/rss.xml) | [Origin](https://www.v2ex.com/xna/s/485) | 0 | _ssl.c:1063: The handshake operation timed out |
 | Failed | [#498] V2EX › 重庆崽儿 Brand | [https://www.brandhuang.com/rss.xml](https://www.brandhuang.com/rss.xml) | [Origin](https://www.v2ex.com/xna/s/498) | 0 | Client error '403 Forbidden' for url 'https://www.brandhuang.com/rss.xml' For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403 |
 | Failed | [#4] V2EX › Airwolf Space | [https://airwolfspace.eth.limo/planet.json](https://airwolfspace.eth.limo/planet.json) | [Origin](https://www.v2ex.com/xna/s/4) | 0 | The read operation timed out |
 | Failed | [#507] V2EX › iyeslogo 壹手设计 | [https://www.iyeslogo.com/feed/](https://www.iyeslogo.com/feed/) | [Origin](https://www.v2ex.com/xna/s/507) | 0 | Client error '403 Forbidden' for url 'https://www.iyeslogo.com/feed/' For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403 |
-| Failed | [#508] V2EX › hekou 写字的地方 | [https://www.hekouwangyutian.com/atom.xml](https://www.hekouwangyutian.com/atom.xml) | [Origin](https://www.v2ex.com/xna/s/508) | 0 | [Errno 101] Network is unreachable |
+| Failed | [#508] V2EX › hekou 写字的地方 | [https://www.hekouwangyutian.com/atom.xml](https://www.hekouwangyutian.com/atom.xml) | [Origin](https://www.v2ex.com/xna/s/508) | 0 | [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.hekouwangyutian.com'. (_ssl.c:1081) |
 | Failed | [#50] V2EX › 码农明明桑 | [https://isming.me/index.xml](https://isming.me/index.xml) | [Origin](https://www.v2ex.com/xna/s/50) | 0 | Client error '403 Forbidden' for url 'https://isming.me/index.xml' For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403 |
 | Failed | [#513] V2EX › We Hack Studio | [https://gptkit.eth.limo/rss.xml](https://gptkit.eth.limo/rss.xml) | [Origin](https://www.v2ex.com/xna/s/513) | 0 | Client error '404 Not Found' for url 'https://gptkit.eth.limo/rss.xml' For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404 |
 | Failed | [#528] V2EX › 薇尔薇 | [https://vio.moe/rss.xml](https://vio.moe/rss.xml) | [Origin](https://www.v2ex.com/xna/s/528) | 0 | Client error '403 Forbidden' for url 'https://vio.moe/rss.xml' For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403 |
@@ -407,7 +408,7 @@ Failed: 131
 | Success | [#462] V2EX › justzht | [https://www.justzht.com/rss/](https://www.justzht.com/rss/) | [Origin](https://www.v2ex.com/xna/s/462) | 15 | - |
 | Success | [#463] V2EX › Corey Chiu | [https://coreychiu.com/feed](https://coreychiu.com/feed) | [Origin](https://www.v2ex.com/xna/s/463) | 8 | - |
 | Success | [#465] V2EX › 豁如写东西的 cache | [https://www.huoru.me/index.xml](https://www.huoru.me/index.xml) | [Origin](https://www.v2ex.com/xna/s/465) | 10 | - |
-| Success | [#466] V2EX › 吴润写字的地方 | [https://wu.run/index.xml](https://wu.run/index.xml) | [Origin](https://www.v2ex.com/xna/s/466) | 60 | - |
+| Success | [#466] V2EX › 吴润写字的地方 | [https://wu.run/index.xml](https://wu.run/index.xml) | [Origin](https://www.v2ex.com/xna/s/466) | 58 | - |
 | Success | [#467] V2EX › 思为说 | [https://www.siwei.io/index.xml](https://www.siwei.io/index.xml) | [Origin](https://www.v2ex.com/xna/s/467) | 10 | - |
 | Success | [#469] V2EX › 黑羽的个人博客 | [https://blog.thetbw.xyz/atom.xml](https://blog.thetbw.xyz/atom.xml) | [Origin](https://www.v2ex.com/xna/s/469) | 20 | - |
 | Success | [#46] V2EX › 林中阴影 | [https://blog.heysh.xyz/feed.xml](https://blog.heysh.xyz/feed.xml) | [Origin](https://www.v2ex.com/xna/s/46) | 123 | - |
@@ -423,7 +424,6 @@ Failed: 131
 | Success | [#482] V2EX › Brickの小黑屋 | [https://www.moyu.life/atom.xml](https://www.moyu.life/atom.xml) | [Origin](https://www.v2ex.com/xna/s/482) | 10 | - |
 | Success | [#483] V2EX › 哈喽哈咯 | [https://blog.razrlele.com/feed](https://blog.razrlele.com/feed) | [Origin](https://www.v2ex.com/xna/s/483) | 10 | - |
 | Success | [#484] V2EX › 莫奈的花园 | [https://binghub.site/rss/](https://binghub.site/rss/) | [Origin](https://www.v2ex.com/xna/s/484) | 15 | - |
-| Success | [#485] V2EX › 从不说安全词 | [https://jt26wzz.com/rss.xml](https://jt26wzz.com/rss.xml) | [Origin](https://www.v2ex.com/xna/s/485) | 17 | - |
 | Success | [#486] V2EX › 青空之蓝 | [https://blog.ixk.me/rss.xml](https://blog.ixk.me/rss.xml) | [Origin](https://www.v2ex.com/xna/s/486) | 98 | - |
 | Success | [#487] V2EX › 2750 words | [https://pathos.page/feed.xml](https://pathos.page/feed.xml) | [Origin](https://www.v2ex.com/xna/s/487) | 10 | - |
 | Success | [#488] V2EX › 臨池不輟 | [https://keelii.com/atom.xml](https://keelii.com/atom.xml) | [Origin](https://www.v2ex.com/xna/s/488) | 20 | - |
