@@ -27,18 +27,28 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-10-24 | [GitLab CE 18.6.1 升级到 18.11.13 的过程记录](https://199604.com/3732) | GitLab CE 18.6.1 升级到 18.11.13 的过程记录 记录时间：2026-10-22 环境： […] |
+| 2026-10-24 | [“你是Gay”这句话真的能骂到男性吗？](https://mobius.blog/25969.html) | 虽然我并不是一个很喜欢聊对与错、高低级的人，但有些事情有明显的“层级”问题，比如认知、主体性，以及今天要聊的“ […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
+| 2026-10-24 | [AI 越来越强，我们怎样重新安排工作和生活？](https://www.linggandianbo.com/ai-yue-lai-yue-qiang-wo-men-zen-yang-zhong-xin-an-pai-gong-zuo-he-sheng-huo/) | 从理解 AI 的变化、重新提出问题，到减少记录的负担，以及给朋友留一张餐桌。 |
+| 2026-10-24 | [观雪山赏彩林 川西理小路自驾游](https://krya.com/post/lixiaolu/) | 这个月因为工作出现断档，无事可做。看到川西的彩林非常漂亮，于是一个人从成都出发自驾穿越理小路，当天往返。路线是顺时针方向，从成都至小金，再到理县后返回成都，全程500多公里；高原山路崎岖，车道狭窄；平均时速只有50~60公里，开车就得花8个小时左右；中间的游玩时间稍微局促。 一个人旅游，自由自在，随… |
+| 2026-10-23 | [Kimi Yes！！！！ 看起来和 op](https://versun.me/blog/tweet-2113772047168078142) | Kimi.ai Introducing Kimi K3.1 Pro: our most capable 3T-class open-weight model. 🔹 1M-token context, 2.8T total / 104B active params (MoE), Multimodal.… |
+| 2026-10-23 | [青甘行·下｜盐湖映翠，初见黄河](https://hux.ink/posts/qinggan-trip-04/) | 接 上篇｜祁连山色，张掖丹霞 及 中篇｜河西走廊，千年敦煌 ，本篇是旅程最后五天的见闻：从敦煌出发，穿越柴达木盆地，途经大柴旦、察尔汗和青海湖，最后回到西宁，经兰州踏上归途。 10 月 2 日｜穿过戈壁，遇见大柴旦翡翠湖 在敦煌连住三个晚上之后，10 月 2 日重新启程，前往青海大柴旦。今天要经过当… |
 | 2026-10-23 | [OSC 7501：让程序自己告诉终端它在干什么](http://tubaozi.top/posts/2026/osc-7501-program-status/) | Ghostty 作者 Mitchell Hashimoto 提出的终端转义序列 OSC 7501（Program Status Protocol）：程序通过 pty 直接上报空闲、运行、等待、完成、失败等状态，不用再靠解析屏幕去猜。文末补充 Kero 终端的支持情况。 |
+| 2026-10-23 | [2007，1906室](https://www.tortorse.com/archives/room-1906-2007/) | 1906室 |
 | 2026-10-23 | [走大朝台我在想啥？二](https://1900.live/zou-da-zhao-tai-wo-zai-xiang-sha-er/) | null 昨天更新了前一篇没多久就有四五条博友的评论，这么久没更新这些博友们都在默默关注着我这个小小的孤岛让我有些感动，在这里诚恳的感谢大家，让我感受到了互联网、博客圈的温度。 所以趁着这股劲有还在索性今天把第二篇也写了，接回上文。 刚下车被山上的冷风一吹我差点没绷住哕了出来，为了保住面子，在路边排… |
 | 2026-10-23 | [Lemmings updated](https://macsourceports.com/game/lemmings) | The build of Ultimate Lemmings for Lemmings has been updated to version v2.2.1 of the project |
 | 2026-10-23 | [Total Annihilation updated](https://macsourceports.com/game/totalannihilation) | The build of Open Annihilation for Total Annihilation has been updated to version v0.8.5 of the project |
+| 2026-10-23 | [越来越无法理解大佬的玩法了😂](https://versun.me/blog/tweet-2113566863565422625) | 郭宇 guoyu.eth 最近我和啵啵基本上都不用微信聊天了，现在都是我们的 Grok bot 之间在互相传递消息。比如说明天吃什么，还有关于怎么照顾家里的植物、杂货的采买等等。 越来越无法理解大佬的玩法了😂 |
 | 2026-10-23 | [免费替代 CleanMyMac：Mole CLI 在 Mac Mini 上的完整使用指南](https://www.evan.xin/5129/) | Mole（tw93/mole）是一个开源的 macOS 系统清理优化工具，功能对标 CleanMyMac、Ap […] |
 | 2026-10-23 | [青甘行·中｜河西走廊，千年敦煌](https://hux.ink/posts/qinggan-trip-03/) | 接 上篇｜祁连山色，张掖丹霞 ，本篇记录 9 月 29 日至 10 月 1 日的三日见闻：从酒泉出发，途经嘉峪关、瓜州，一路向西抵达敦煌，在这里停留了两天。 9 月 29 日｜一个人的嘉峪关，以及漫长的敦煌之路 原本今天只安排了金塔胡杨林，之后便继续前往敦煌。不过前一天晚上查地图时，我发现嘉峪关距离… |
 | 2026-10-23 | [野人编年史](http://imlane.zhanglintc.co/ye-ren-bian-nian-shi) | 野人编年史 野人创始人 徐队 ，群昵称Shogun。姓徐，称徐队，真野人队长，野人 抖音官号 持有者。 张队 ，群昵称张小不。江湖人称竹节虫，简称虫队。 熊队 ，群昵称熊嘎婆，称熊队。 野人CLUB游泳事业部 群主。 亮队 ，群昵称亮什么，称亮队，野人 小红书官号 持有者。 野人声明 从 泳往直前… |
 | 2026-10-23 | [为什么有人不怕把事做砸](https://blog.solazy.me/20261023/) | 今天想接着昨天讲得继续来聊…… |
 | 2026-10-23 | [移除了 webmention 功能](https://kaix.in/2026/1023/) | 开始关注 webmention 协议至少是在 2019 年以前了，2021 年我用 go 语言 写了个小工具 来实现它，大概也算是第一批运用这个协议的中文博客站点。不过几个月前我彻底移除了这个功能。 个中缘由有点复杂，隐私原因算是其中最容易想到也最古怪的部分。这就顺便要提到 fediverse 或者… |
 | 2026-10-23 | [心里有光](https://www.hecaitou.com/2026/10/The-Light-Within.html) | 昨天我在回答读者什么是「心里有光」时，写了这样一段话： 「心里本来就有光，甚至可以说光明就是心的本体。要有光的意思，不是找寻来光，也不是擦拭出光，而是不被遮蔽，让它自然放光。」 这里我用到了「不是...而是...」句型，估计被系统判断为 AI 自动回复的垃圾留言，结果被阻拦了好一阵。我于是有些担心，… |
+| 2026-10-23 | [才发现 Zed 团队开发了个 ADE:](https://versun.me/blog/tweet-2113473548983636289) | 才发现 Zed 团队开发了个 ADE: Delta，目前处于 Public Beta 看起来依旧很简洁，审美在线 主要创新是为消灭传统 PR 而生的 DeltaDB： 它在 Git 底下加了一层 DeltaDB，除了记录文件改动外，还记录了生成这次提交的提示词和对话内容 重点是，它除了可以审查 Ag… |
 | 2026-10-23 | [部署Akvorado - 网络流日志收集分析系统](https://songxwn.com/akvorado-docker/) | Akvorado Docker 部署详细技术指南（含 Nginx 反向代理 + Basic Auth） Akvorado 是一款开源的网络流量采集、丰富与可视化系统，支持 NetFlow / IPFIX / sFlow。它会通过 SNMP 补充接口名称等信息，用 GeoIP 数据库补充地理信息，再经… |
 | 2026-10-23 | [失乐园里有什么？I](https://mobius.blog/25963.html) | 今天并不是在聊渡边淳一的《失乐园》。失乐园这个词，可以更早追溯到1667年约翰·弥尔顿的无韵诗《Paradis […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
+| 2026-10-23 | [对不起 Vaultwarden(Bitw](https://versun.me/blog/tweet-2113447259371454848) | 1Password Today we announce 1Password for Agents platform, building with companies @Muse, SpaceX Super Intelligence Grok @Bot, @AnthropicAI’s @Claudea… |
 | 2026-10-23 | [科技爱好者周刊（第 416 期）：编程已经面目全非](http://www.ruanyifeng.com/blog/2026/10/weekly-issue-416.html) | 这里记录每周值得分享的科技内容，周五发布。 本杂志 开源 ，欢迎 投稿 。另有 《谁在招人》 服务，发布程序员招聘信息。合作请 邮件联系 （yifeng.ruan@gmail.com）。 封面图 本周启用的上海大歌剧院内部装修。（ via ） 编程已经面目全非 大多数人只看到，AI 改变了程序员这个… |
 | 2026-10-22 | [记一次在MacBook上瞎折腾YubiKey把自己锁在外面的救援](https://www.boris1993.com/macos-recover-from-required-pin-to-enable-touch-id.html) | 前两天拿着YubiKey瞎折腾玩，给我的MacBook配上了用它登录，配完了又担心将来忘了这件事给自己找麻烦，于是又解绑了。尽管当时用 sc_auth list 确认了账户已经没有绑定的智能卡，但刚刚打开电脑的时候，却发现macOS要我输入PIN来启用Touch ID。在反复试了好几个我确定正确的P… |
 | 2026-10-22 | [New Release: Quake 4](https://macsourceports.com/game/quake4) | Slowly but surely we're getting all the Quake games on the site. Quake 4 is the fourth installment in the Quake series, and just to keep things weird… |
@@ -146,24 +156,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-10-17 | [沙雕短剧有益身心健康](https://blog.oospace.com/posts/2026-10-17/) | 本来看抽象的沙雕短剧，只是找个乐子，后来发现沙雕短剧才是真理 |
 | 2026-10-17 | [气表、门禁和米面油](https://mobius.blog/25936.html) | 前些日子，天然气公司挨家挨户换了气表。我对这件事并没有太多感触，只是觉得终于不用每月被天然气抄表员，在微信上追 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-10-17 | [Python 潮流周刊#171：Python 3.15 正式发布、lazy 惰性导入与 frozendict 转正为内置](https://pythoncat.top/posts/2026-10-17-weekly/) | 分享了 12 篇文章，12 个开源项目，1 则音视频，2 则热门讨论 |
-| 2026-10-16 | [SimCity 2000 updated](https://macsourceports.com/game/simcity2000) | The build of OpenSC2K for SimCity 2000 has been updated to version v0.3.0 of the project |
-| 2026-10-16 | [Aliens versus Predator updated](https://macsourceports.com/game/avp) | The build of NakedAVP for Aliens versus Predator has been updated to version 1.3.1 of the project |
-| 2026-10-16 | [AI 早报 2026-10-17：10.17总结；DeepSeek 更新 V4.1-Flash，公布编程测试成绩并开放搜索 API](https://www.jtxyh.com/daily/2026-10-17/) | 2026-10-17 AI 早报，共 18 条动态。DeepSeek 更新 V4.1-Flash 并开放搜索与网页抓取 API，公布的编程成绩仍属官方自测。10月17日，DeepSeek发布V4.1-Flash-1017，官网、App和API同步更新，并公布Hugging Face与ModelSco… |
-| 2026-10-16 | [公众号助手app测试 &#124; 贴图和封面](https://dsx2016.com/official-account-assistant-app-testing-stickers-and-cover-images/) | 微信贴图 公众号助手app上显示已自动将文章转为贴图，点击查看，可以跳转到贴图编辑界面 简单设置后，可点击发表... 公众号助手app测试 &#124; 贴图和封面 最先出现在 大师兄2016 。 |
-| 2026-10-16 | [公众号助手app更新 &#124; 支持文章发表后转为贴图](https://dsx2016.com/official-account-assistant-app-update-supports-converting-published-articles-into-image-posts/) | 公众号助手 一段时间没有关注，公众号助手又更新了一些功能 尤其是文章发表后支持转为贴图，这一段时间都是手机编辑... 公众号助手app更新 &#124; 支持文章发表后转为贴图 最先出现在 大师兄2016 。 |
-| 2026-10-16 | [装了一路的那本书](https://blog.solazy.me/20261016/) | 这次出差我带了一本我很喜欢的书 |
-| 2026-10-16 | [油管｜短视频创作和数据分析](https://dsx2016.com/youtube-short-form-video-creation-and-data-analysis/) | 短视频 之前以为短视频默认有1k播放的保底，后来才发现那是只有美食短视频才有的概率 换做手工，vlog短视频，... 油管｜短视频创作和数据分析 最先出现在 大师兄2016 。 |
-| 2026-10-16 | [无用命途：食堂自选窗口，DVD倒带机](https://blog.mfwt.top/index.php/archives/1634/) | 《无用命途》，专门用来记录笔者的一些无用（甚至无厘头的）想法，且每个想法后会附带一点内容，用来介绍这个想法（及其衍生的）有关的东西。每周最多更新一次，但不保证周更，主要看想法的活跃度如何。最近正... |
-| 2026-10-16 | [激荡 2026](https://ssshooter.com/turbulent-2026/) | 记录我激荡的 2026：年初被裁员、结婚备婚、失眠与焦虑、投简历石沉大海、程序员行业内卷，最终入职一家公司却遭遇管理层混乱与拖欠工资。一个普通程序员在这一年里的真实处境与心路。 |
-| 2026-10-16 | [看着有点像 computer use 的](https://versun.me/blog/tweet-2110986345531486673) | Cua 1/ We're reimagining your computers as shared spaces for your team and its agents. Today we're excited to share Cua Spaces Teams and Pro, built on… |
-| 2026-10-16 | [一直想折腾硬件，但没学过电路啥的，一点硬](https://versun.me/blog/tweet-2110983970351714354) | Evan (Yifeng) Wang 今天拜访了 @M5Stack 好开心！ 感受到了什么才是真正的 Hardware Lab！ 一直想折腾硬件，但没学过电路啥的，一点硬件知识没有。。。 大佬们有啥建议，怎么入门呀，折腾硬件会不会很败家😂 |
-| 2026-10-16 | [她值得](https://www.hecaitou.com/2026/10/She-Is-Worthy.html) | 她站在舞台正中说： 「生命中有各种各样的变化，有的会令人期待，比如今天站在这里拿这个奖，有的变化也可能是无法承受的悲伤，我想告诉大家要拥有面对这种变化，一定会转向正面的信心。」 我个人理解，说前半句话的是著名演员周迅，说后半句的是普通市民周女士。之所以这样说，是因为在 2012 年 11 月之前，我… |
-| 2026-10-16 | [去年在京东648买的一年 iCloud](https://versun.me/blog/tweet-2110910823468282221) | 去年在京东648买的一年 iCloud 要到期了 就只存照片，这几天按照惯例，寻找看看有没有替代品 折腾了一周，相册方面依旧只有老几样，immich、ente、mt photos等等 备份和AI功能都没啥问题，但最主要的问题就一个：微信发送照片时，无法直接在这些应用里选择，只能从系统相册里选，同步功… |
-| 2026-10-16 | [不得不说，特斯拉这车真的好帅，像玩具赛车](https://versun.me/blog/tweet-2110907813774131638) | Tesla Roadster transforms in Track Mode These aero features aren't just for looks: they provide the best passive downforce package of any road car (ap… |
-| 2026-10-16 | [一个人的异托邦 II](https://mobius.blog/25920.html) | 接着昨天的话题，“异托邦”是现实存在的“世界”，然而这些世界因为存在某种规则，区隔了现实的部分。例如监狱、学校 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
-| 2026-10-16 | [Memos: 精通 Web Archive 的跷脚网友](https://blog.yasking.org/a/1792114181) | “多亏了这笔贷款，不然我真不知道该怎么交上今年的社保！”，2025-06-19 发布在湖北省人社厅的转载文章，一年多后火了。 抱着学习的 … |
-| 2026-10-16 | [出去玩又要花钱](https://hux.ink/posts/double-loss/) | 接着昨天那件事再想，我感觉我爸那句话里，可能还不只是对“工作为什么会积下来”的理解不同，多少也夹杂着一点对我请假出去玩的不认同。 在他的观念里，请假本身就意味着少干活，少干活可能意味着少挣钱。出去旅游又是另一笔支出，交通、住宿、吃饭、门票，样样都要花钱。 所以从他的角度看，长时间请假出去玩，很容易变… |
-| 2026-10-16 | [科技爱好者周刊（第 415 期）：3D 版《看不见的城市》](http://www.ruanyifeng.com/blog/2026/10/weekly-issue-415.html) | 这里记录每周值得分享的科技内容，周五发布。 本杂志 开源 ，欢迎 投稿 。另有 《谁在招人》 服务，发布程序员招聘信息。合作请 邮件联系 （yifeng.ruan@gmail.com）。 封面图 湖北咸宁梓山湖度假区的美术馆。（ via ） 3D 版《看不见的城市》 意大利小说家卡尔维诺有一本著名的… |
 
 ## Vibe Coding
 
