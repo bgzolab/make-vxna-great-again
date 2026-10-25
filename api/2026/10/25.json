@@ -1,10 +1,59 @@
 [
   {
+    "title": "从 AI Passport，看一种 AI 变现的思路",
+    "url": "https://depp.wang/2026/ai-passport/",
+    "date": "2026-10-25T15:07:12Z",
+    "description": "前阵子在网上了解到一个 AI 小玩具，叫 AI 通行证（AI Passport），最近在京东上买了一个。 长这样： 它有一块小屏幕、麦克风、扬声器和实体按键。除了安装别人做好的玩法，也可以让 AI 帮自己写些小软件，装进去玩。 用下来，我觉得 FoloToy 对这个产品的设计和玩法挺有先见之明的。现在大家都在讨论怎么用 AI 赚钱，它把 AI 写软件的能力和一个能卖出去的硬件结合起来，算是在 AI 变现这件事上走通了一步。",
+    "source_root_domain": "depp.wang"
+  },
+  {
+    "title": "稳定的世界正在崩解",
+    "url": "https://blog.oospace.com/posts/2026-10-25/",
+    "date": "2026-10-25T14:59:00Z",
+    "description": "越来越没有耐心了，无论是个人，还是国家",
+    "source_root_domain": "oospace.com"
+  },
+  {
+    "title": "「做个人」",
+    "url": "https://blog.solazy.me/20261025/",
+    "date": "2026-10-25T14:00:00Z",
+    "description": "今天这个选题是压了好一阵子的了，最近思考的很完备，索性写出来",
+    "source_root_domain": "solazy.me"
+  },
+  {
+    "title": "秋天来了，让人想起1873年",
+    "url": "https://cufezhusy.github.io/issue-28/",
+    "date": "2026-10-25T13:27:03Z",
+    "description": "进入十月份，哥本哈根开始真正进入秋天，家附近的公园也渐渐变得金黄。 下周打算开始研究研究 always-on agent。 周末在家的时候，读完了 Liaquat Ahamed 的这本 1873: The First Great Depression and the Making of the Modern World 。最近貌似很多金融业的人都在读这本书，因为现在市场的情况，跟书里描述的1873年非常像。 奥斯曼帝国的主权债务危机，与今天欧洲面临的主权债务问题；AI公司的借贷泡沫，会不会像当年的铁路泡沫一样，最终还是要破灭？而这一切，最后又会不会把人类带向另外两场世界大战？ 下周主要想看看周四欧洲央行会不会对法国债务问题有所表态。欧洲现在的一个问题是，央行的决策者大多是政治家出身，没有人真正有过金融市场的从业经验。这一点就不如大洋彼岸的美联储了，控制市场预期，那真是一绝。 还看了一篇文章，说上周有近一百个宏观对冲基金的投资经理爆了仓。他们以前应该都是靠加杠杆，做法国国债和德国国债之间的 carry trade 赚钱的。说到底，也都是辛苦打工人，告别了年薪百万美元的工作，心理估计都不太",
+    "source_root_domain": "cufezhusy.github.io"
+  },
+  {
     "title": "劳逸结合",
     "url": "https://www.lazydaily.cn/2026/10/25/cd172639-0d6d-4e1e-a145-55e89ffdbd6a/",
     "date": "2026-10-25T11:57:26Z",
     "description": "这篇周记记录 2026-10-18 至 2026-10-25。 刚写了一篇长达三个月的月记。这篇周记简单总结最近一周。 紧接上篇月记。 正如上篇月记中所写，我给自己定下",
     "source_root_domain": "lazydaily.cn"
+  },
+  {
+    "title": "Quetoo updated",
+    "url": "https://macsourceports.com/game/quetoo",
+    "date": "2026-10-25T11:00:38Z",
+    "description": "The build of Quetoo has been updated to version v1.0.134 of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "Total Annihilation updated",
+    "url": "https://macsourceports.com/game/totalannihilation",
+    "date": "2026-10-25T11:00:37Z",
+    "description": "The build of Open Annihilation for Total Annihilation has been updated to version v0.8.6 of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "今年我在外面买咖啡，只花了21.90刀",
+    "url": "https://www.ozexplorers.com/%E6%BE%B3%E6%B4%B2%E7%94%9F%E6%B4%BB/2026/10/25/why-i-rarely-buy-coffee-outside.html",
+    "date": "2026-10-25T11:00:00Z",
+    "description": "今天，我翻了翻记账软件，无意间发现今年至今我只有四次在外面买咖啡的记录，一共花了21.90刀。而去年是265刀，前年是249刀。 我还是一个高度依赖咖啡的打工人，并没有戒咖啡。不过，公司有咖啡机，家里有胶囊机，每天都喝上一到两杯，只是很少再往咖啡店跑了。 前两年的数字相差不大，到了今年突然掉到只剩零头，还是挺让我惊讶的。细想原因，也谈不上消费降级，只是觉得外面喝咖啡的性价比在不断降低。",
+    "source_root_domain": "ozexplorers.com"
   },
   {
     "title": "终结竞争：从护城河到商业终局的实战指南",
@@ -45,7 +94,7 @@
     "title": "≡ 018｜理性选择的幸福还幸福吗？",
     "url": "https://mobius.blog/25980.html",
     "date": "2026-10-25T02:59:42Z",
-    "description": "先回顾一下这周的莫比乌斯。 之前在完成“创作者”与“读者”之间的天然矛盾之后，留下了一个有关“权力”的话题，即 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。",
+    "description": "先回顾一下这周的莫比乌斯。 之前在完成“创作者”与“读者”之间的天然矛盾之后，留下了一个有关“权力”的话题，即 […]",
     "source_root_domain": "mobius.blog"
   },
   {
@@ -61,6 +110,13 @@
     "date": "2026-10-25T00:00:00Z",
     "description": "集团的 Agent 工具允许用户自己创建专家（智能体），而每一个专家都需要有一个头像。此时我想到了可以在流程内接入 AI 生图的能力。",
     "source_root_domain": "lrd.im"
+  },
+  {
+    "title": "2026年第43周",
+    "url": "https://blog.sakoamc.com/posts/2643/",
+    "date": "2026-10-25T00:00:00Z",
+    "description": "题记：二零二六年第四十三周，忙与闲的转换只在一瞬间，前一秒还准备晒个太阳散散步，下一秒就被突如其来的事情打回原形。",
+    "source_root_domain": "sakoamc.com"
   },
   {
     "title": "esp32 | cyd | DFPlayer Mini Mp3 模块加SD卡和8r0.5w喇叭",
@@ -84,11 +140,25 @@
     "source_root_domain": "tomoemami.github.io"
   },
   {
+    "title": "国庆出行感受",
+    "url": "http://www.uncoverman.com/national-day-trip.html",
+    "date": "2026-10-24T16:00:00Z",
+    "description": "国庆假期，带家人自驾去了一趟山东烟台、青岛，四大一小，主要是看海景，听演唱会。分享一下感受： 1 、高速：担心路上会堵车，9.30 请假一天，早上 8 点出发，江浙沪一路自驾到山东烟台，1060 公里。除了长江大桥堵了一段，其他路段畅通。过程中多休息了一会，卡时间凌晨下高速，成功省下高速费。 2 、补能：第一次电车长途自驾，补能规划使用车机自带的。基本上每 3 小时休息、上洗手间、吃饭、充电，这个时候车子偶尔会遇到排队充电情况。电量 30% 上下考虑充电，服务区基本上 50 公里一个，如果遇到排队进服务区情况就去下一个，整体容错空间较多，对出行效率影响不大。 3 、智驾：高速上 99% 是用的智驾， 白天会关闭小蓝灯，避免被人插队 。智驾减速不够平稳，会出现急刹情况，对车上乘客体验不够好，也没有安全感。如果与前车距离越来越近，且前车亮刹车灯，旁边又没有合适的变道空间，当预判要减速，会通过降低智驾限速来减速。 4 、酒与早餐店：国庆酒店价格基本翻 1-2 倍。老人不愿意住得贵，选了性价比高没带早餐的酒店。 早餐有出门找过，花的时间有点多。如果可以，找之前可以先看看外卖软件。 5 、烟台的",
+    "source_root_domain": "uncoverman.com"
+  },
+  {
     "title": "堆栈溢出的一周",
     "url": "https://atpx.com/blog/week-of-stack-overflow/",
     "date": "2026-10-24T15:23:23Z",
     "description": "懂归懂，失落归失落，好坏都得继续。",
     "source_root_domain": "atpx.com"
+  },
+  {
+    "title": "偷偷打赏的人",
+    "url": "https://blog.solazy.me/20261024/",
+    "date": "2026-10-24T15:00:00Z",
+    "description": "今天闲聊一个我之前没聊过的话题",
+    "source_root_domain": "solazy.me"
   },
   {
     "title": "每日计划 - 行动力基于清晰力",
@@ -171,7 +241,7 @@
     "title": "“你是Gay”这句话真的能骂到男性吗？",
     "url": "https://mobius.blog/25969.html",
     "date": "2026-10-24T02:04:56Z",
-    "description": "虽然我并不是一个很喜欢聊对与错、高低级的人，但有些事情有明显的“层级”问题，比如认知、主体性，以及今天要聊的“ […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。",
+    "description": "虽然我并不是一个很喜欢聊对与错、高低级的人，但有些事情有明显的“层级”问题，比如认知、主体性，以及今天要聊的“ […]",
     "source_root_domain": "mobius.blog"
   },
   {
@@ -243,13 +313,6 @@
     "date": "2026-10-23T12:40:31Z",
     "description": "null 昨天更新了前一篇没多久就有四五条博友的评论，这么久没更新这些博友们都在默默关注着我这个小小的孤岛让我有些感动，在这里诚恳的感谢大家，让我感受到了互联网、博客圈的温度。 所以趁着这股劲有还在索性今天把第二篇也写了，接回上文。 刚下车被山上的冷风一吹我差点没绷住哕了出来，为了保住面子，在路边排水槽边上站定了好几秒，借着拿背包整理装备的由头，狠狠做了深呼吸回复状态，好在清新的空气很快让我缓了过来。 大朝台已经能感受到明显的阵风，亚高原温度低于平原，吸进鼻腔的空气带着股冷冽的味道，我上身虽然套着冲锋衣，里面是一件短袖速干，下装则只穿了一条冲锋裤，都是防风不防冷，不一会就开始感觉冲锋衣面料传来的冷意，脸上也被强风吹的生疼。 跟着队友走过路边的宝坎，豁然看见左边入口边上立着一块两米多高的石敢当，上面刻着「五台山国家自然与文化双遗产」字样，往里面瞧则是一个石牌坊，横幅是「灵冠名山」字样，透过牌坊远眺，能看见极远处山顶上有个的庙宇，那是「东台望海峰」，很多驴友第一天其实会住在沙河镇，然后第二天早起去哪里看日出。下方是一个长长的陡坡，那是我们接下来要走的路，就是不知道有多少慕名前来的驴友会被这",
     "source_root_domain": "1900.live"
-  },
-  {
-    "title": "Total Annihilation updated",
-    "url": "https://macsourceports.com/game/totalannihilation",
-    "date": "2026-10-23T11:00:41Z",
-    "description": "The build of Open Annihilation for Total Annihilation has been updated to version v0.8.5 of the project",
-    "source_root_domain": "macsourceports.com"
   },
   {
     "title": "越来越无法理解大佬的玩法了😂",
@@ -325,7 +388,7 @@
     "title": "失乐园里有什么？I",
     "url": "https://mobius.blog/25963.html",
     "date": "2026-10-23T02:00:47Z",
-    "description": "今天并不是在聊渡边淳一的《失乐园》。失乐园这个词，可以更早追溯到1667年约翰·弥尔顿的无韵诗《Paradis […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。",
+    "description": "今天并不是在聊渡边淳一的《失乐园》。失乐园这个词，可以更早追溯到1667年约翰·弥尔顿的无韵诗《Paradis […]",
     "source_root_domain": "mobius.blog"
   },
   {

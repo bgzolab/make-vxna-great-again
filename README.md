@@ -27,19 +27,29 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-10-25 | [从 AI Passport，看一种 AI 变现的思路](https://depp.wang/2026/ai-passport/) | 前阵子在网上了解到一个 AI 小玩具，叫 AI 通行证（AI Passport），最近在京东上买了一个。 长这样： 它有一块小屏幕、麦克风、扬声器和实体按键。除了安装别人做好的玩法，也可以让 AI 帮自己写些小软件，装进去玩。 用下来，我觉得 FoloToy 对这个产品的设计和玩法挺有先见之明的。现… |
+| 2026-10-25 | [稳定的世界正在崩解](https://blog.oospace.com/posts/2026-10-25/) | 越来越没有耐心了，无论是个人，还是国家 |
+| 2026-10-25 | [「做个人」](https://blog.solazy.me/20261025/) | 今天这个选题是压了好一阵子的了，最近思考的很完备，索性写出来 |
+| 2026-10-25 | [秋天来了，让人想起1873年](https://cufezhusy.github.io/issue-28/) | 进入十月份，哥本哈根开始真正进入秋天，家附近的公园也渐渐变得金黄。 下周打算开始研究研究 always-on agent。 周末在家的时候，读完了 Liaquat Ahamed 的这本 1873: The First Great Depression and the Making of the Mo… |
 | 2026-10-25 | [劳逸结合](https://www.lazydaily.cn/2026/10/25/cd172639-0d6d-4e1e-a145-55e89ffdbd6a/) | 这篇周记记录 2026-10-18 至 2026-10-25。 刚写了一篇长达三个月的月记。这篇周记简单总结最近一周。 紧接上篇月记。 正如上篇月记中所写，我给自己定下 |
+| 2026-10-25 | [Quetoo updated](https://macsourceports.com/game/quetoo) | The build of Quetoo has been updated to version v1.0.134 of the project |
+| 2026-10-25 | [Total Annihilation updated](https://macsourceports.com/game/totalannihilation) | The build of Open Annihilation for Total Annihilation has been updated to version v0.8.6 of the project |
+| 2026-10-25 | [今年我在外面买咖啡，只花了21.90刀](https://www.ozexplorers.com/%E6%BE%B3%E6%B4%B2%E7%94%9F%E6%B4%BB/2026/10/25/why-i-rarely-buy-coffee-outside.html) | 今天，我翻了翻记账软件，无意间发现今年至今我只有四次在外面买咖啡的记录，一共花了21.90刀。而去年是265刀，前年是249刀。 我还是一个高度依赖咖啡的打工人，并没有戒咖啡。不过，公司有咖啡机，家里有胶囊机，每天都喝上一到两杯，只是很少再往咖啡店跑了。 前两年的数字相差不大，到了今年突然掉到只剩零… |
 | 2026-10-25 | [终结竞争：从护城河到商业终局的实战指南](https://www.meettea.com/business-moat-endgame.html) | 从护城河到商业终局的实战指南：彼得·蒂尔框架 + AI 时代的商业重构 |
 | 2026-10-25 | [独立开发者的英国公司报税（2026）](https://www.meettea.com/uk-company-tax-2026.html) | 给独立开发者与小微企业的英国公司报税实战指南：CT600、年度账目、Dormant 零申报，从流水归类到提交全流程。 |
 | 2026-10-25 | [AI 时代，终于可以把那些不靠谱的想法也实现了](https://cufezhusy.github.io/issue-27/) | 最近跟世界上很多人一样，倒腾了不少 AI 相关的事情。 像我上一篇帖子里讲的，我感觉 AI 解放了很多像我这样的人。工作上、生活上，其实一直有很多想法，但精力已经不像二十多岁的时候那么好了，不可能总是坐在电脑前琢磨这些东西。AI 来了真是太好了，就像突然有了一堆不知疲倦的程序员，帮我实现那些靠谱或者… |
 | 2026-10-25 | [2026 年大模型这一年：时间线、关键事件与几点洞察](http://tubaozi.top/posts/2026/2026-llms-timeline/) | 基于 Simon Willison 的演讲《2026 in LLMs (so far)》整理：从 2025 年 11 月的拐点到 9 月的 GPT-6，按月梳理模型、Agent、安全事件，再谈几点我的理解。 |
 | 2026-10-25 | [都胡说八道了还又臭又长](https://www.hecaitou.com/2026/10/All-Filler-No-Fact.html) | 近两个月以来，我个人在阅读习惯上有了很大的改变，现在我已经不再读网上的文章。理由很简单，打开十次，里面有九次都是 AI 创作。 本来我对 AI 创作文章的态度很开放，觉得既然有了一种新工具，那么就要迎接人们广泛运用新工具的新时代。然而实践起来完全是另外一回事，请允许我稍微刻薄一点：有些人，不对，有很… |
-| 2026-10-25 | [≡ 018｜理性选择的幸福还幸福吗？](https://mobius.blog/25980.html) | 先回顾一下这周的莫比乌斯。 之前在完成“创作者”与“读者”之间的天然矛盾之后，留下了一个有关“权力”的话题，即 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
+| 2026-10-25 | [≡ 018｜理性选择的幸福还幸福吗？](https://mobius.blog/25980.html) | 先回顾一下这周的莫比乌斯。 之前在完成“创作者”与“读者”之间的天然矛盾之后，留下了一个有关“权力”的话题，即 […] |
 | 2026-10-25 | [Plants vs. Zombies updated](https://macsourceports.com/game/pvz) | The build of PvZ Portable for Plants vs. Zombies has been updated to version 0.2.6 of the project |
 | 2026-10-25 | [Agent 产品内「专家头像」生成实战记录](https://lrd.im/blog/2026-10-25) | 集团的 Agent 工具允许用户自己创建专家（智能体），而每一个专家都需要有一个头像。此时我想到了可以在流程内接入 AI 生图的能力。 |
+| 2026-10-25 | [2026年第43周](https://blog.sakoamc.com/posts/2643/) | 题记：二零二六年第四十三周，忙与闲的转换只在一瞬间，前一秒还准备晒个太阳散散步，下一秒就被突如其来的事情打回原形。 |
 | 2026-10-24 | [esp32 &#124; cyd &#124; DFPlayer Mini Mp3 模块加SD卡和8r0.5w喇叭](https://dsx2016.com/esp32-cyd-with-dfplayer-mini-mp3-module-sd-card-and-8%cf%89-5w-speaker/) | mp3模块 为了让esp32 cyd可以播放音乐，我买了一个DFPlayer Mini Mp3 模块加SD卡和... esp32 &#124; cyd &#124; DFPlayer Mini Mp3 模块加SD卡和8r0.5w喇叭 最先出现在 大师兄2016 。 |
 | 2026-10-24 | [emacs-将光标所在org-link内容插入为quote代码块](https://blog.prayhand13013.top/20261025T001535--emacs-将光标所在org-link内容插入为quote代码块__blog.html) |  |
 | 2026-10-24 | [emacs-利用elisp进行大小写中文和数字的转换](https://blog.prayhand13013.top/20261025T000705--emacs-利用elisp进行大小写中文和数字的转换__blog.html) |  |
+| 2026-10-24 | [国庆出行感受](http://www.uncoverman.com/national-day-trip.html) | 国庆假期，带家人自驾去了一趟山东烟台、青岛，四大一小，主要是看海景，听演唱会。分享一下感受： 1 、高速：担心路上会堵车，9.30 请假一天，早上 8 点出发，江浙沪一路自驾到山东烟台，1060 公里。除了长江大桥堵了一段，其他路段畅通。过程中多休息了一会，卡时间凌晨下高速，成功省下高速费。 2 、… |
 | 2026-10-24 | [堆栈溢出的一周](https://atpx.com/blog/week-of-stack-overflow/) | 懂归懂，失落归失落，好坏都得继续。 |
+| 2026-10-24 | [偷偷打赏的人](https://blog.solazy.me/20261024/) | 今天闲聊一个我之前没聊过的话题 |
 | 2026-10-24 | [每日计划 - 行动力基于清晰力](https://depp.wang/2026/daily-plan/) | 最近在微信读书上看了一本书，叫《认知觉醒》 ，作者周岭。 这本书写了一个观点，我觉得还是挺有启发性的。 这个观点说：读书其实不需要读完后将这本书总结一遍，而是去找一个最有感触的点，去思考、去行动、去改变。这可能是读书最有收获的一种方式。而我以前读完一本书后就会自己去整体总结一遍书中的内容，去输出一篇… |
 | 2026-10-24 | [AI 正在推动新一轮的工业革命](https://haoluobo.com/2026/10/the-second-industrial-revolution/) | 年初的时候写了一篇《AI将如何重塑这个世界》，现在半年过去，国务院办公厅发文称要「有效减缓人工智能应用就业替代 […] |
 | 2026-10-24 | [回了一趟国](https://cufezhusy.github.io/issue-26/) | 上周回了一趟国，看望了一下父母，也去看了看严严的父母。中东没法飞了，第一次飞国航走北京转机，好多年没来过首都国际机场了，真是恍如隔世。 这次回去，最直观的感受是，国内现在的生活条件确实很好。各种硬件设施已经相当完善，不少方面甚至比欧美更好，而且物价也便宜。 我们这次住了家乡最好的一家宾馆，淡季居然只… |
@@ -51,7 +61,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-10-24 | [这回我承认AI确实有用](https://www.hecaitou.com/2026/10/why-i-finally-admit-that-ai-is-genuinely-usef.html) | 看过那么多人设计了那么多种 AI 的用法，我终于见到一个大众真正需要，真正解决生活问题的 AI 产品：CleanYourTV。 它解决了一件大部分人每天见，每天烦，但是一直没办法的问题，那就是把你家的智能电视恢复到最朴素的样子，去掉各种电视机自带的广告，各种弹窗，各种各样的后台程序。 不需要用家有任… |
 | 2026-10-24 | [油管｜4k视频和POV视角](https://dsx2016.com/youtube-4k-videos-and-pov-perspective/) | pov视角 就是第一人称视角，一般是运动相机或者ai眼镜，或者是手持手机但是不拍自己，而是拍摄前方，自然的视频... 油管｜4k视频和POV视角 最先出现在 大师兄2016 。 |
 | 2026-10-24 | [GitLab CE 18.6.1 升级到 18.11.13 的过程记录](https://199604.com/3732) | GitLab CE 18.6.1 升级到 18.11.13 的过程记录 记录时间：2026-10-22 环境： […] |
-| 2026-10-24 | [“你是Gay”这句话真的能骂到男性吗？](https://mobius.blog/25969.html) | 虽然我并不是一个很喜欢聊对与错、高低级的人，但有些事情有明显的“层级”问题，比如认知、主体性，以及今天要聊的“ […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
+| 2026-10-24 | [“你是Gay”这句话真的能骂到男性吗？](https://mobius.blog/25969.html) | 虽然我并不是一个很喜欢聊对与错、高低级的人，但有些事情有明显的“层级”问题，比如认知、主体性，以及今天要聊的“ […] |
 | 2026-10-24 | [AI 越来越强，我们怎样重新安排工作和生活？](https://www.linggandianbo.com/ai-yue-lai-yue-qiang-wo-men-zen-yang-zhong-xin-an-pai-gong-zuo-he-sheng-huo/) | 从理解 AI 的变化、重新提出问题，到减少记录的负担，以及给朋友留一张餐桌。 |
 | 2026-10-24 | [观雪山赏彩林 川西理小路自驾游](https://krya.com/post/lixiaolu/) | 这个月因为工作出现断档，无事可做。看到川西的彩林非常漂亮，于是一个人从成都出发自驾穿越理小路，当天往返。路线是顺时针方向，从成都至小金，再到理县后返回成都，全程500多公里；高原山路崎岖，车道狭窄；平均时速只有50~60公里，开车就得花8个小时左右；中间的游玩时间稍微局促。 一个人旅游，自由自在，随… |
 | 2026-10-24 | [Memos #2026-10-23](https://blog.itaober.com/memos/memo_20261023012308_5u0kyj) | 09:25 真实世界播客： 沈清父母的冷漠 贤鱼把喝完的矿泉水瓶扔共享单车车筐 刘振东吃鸡开挂 19:26 LGTM！真不错！ |
@@ -62,7 +72,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-10-23 | [AI 早报 2026-10-24：10.24总结；Meta 宣布收购 Sundial，吸纳 AI 数据分析团队](https://www.jtxyh.com/daily/2026-10-24/) | 2026-10-24 AI 早报，共 10 条动态。AI 安全与研发投入是本期重点。Meta 数据负责人 Alex Schultz 于10月23日宣布，Sundial 联合创始人 Chandra Narayanan、Julie Zhuo 及部分团队成员携 AI 分析技术加入 Meta，Narayan… |
 | 2026-10-23 | [2007，1906室](https://www.tortorse.com/archives/room-1906-2007/) | 1906室 |
 | 2026-10-23 | [走大朝台我在想啥？二](https://1900.live/zou-da-zhao-tai-wo-zai-xiang-sha-er/) | null 昨天更新了前一篇没多久就有四五条博友的评论，这么久没更新这些博友们都在默默关注着我这个小小的孤岛让我有些感动，在这里诚恳的感谢大家，让我感受到了互联网、博客圈的温度。 所以趁着这股劲有还在索性今天把第二篇也写了，接回上文。 刚下车被山上的冷风一吹我差点没绷住哕了出来，为了保住面子，在路边排… |
-| 2026-10-23 | [Total Annihilation updated](https://macsourceports.com/game/totalannihilation) | The build of Open Annihilation for Total Annihilation has been updated to version v0.8.5 of the project |
 | 2026-10-23 | [越来越无法理解大佬的玩法了😂](https://versun.me/blog/tweet-2113566863565422625) | 郭宇 guoyu.eth 最近我和啵啵基本上都不用微信聊天了，现在都是我们的 Grok bot 之间在互相传递消息。比如说明天吃什么，还有关于怎么照顾家里的植物、杂货的采买等等。 越来越无法理解大佬的玩法了😂 |
 | 2026-10-23 | [293、霜降](https://1900.live/293-shuang-jiang/) | null 露气凝白，秋意渐深，天地在清肃与收藏之间，缓缓合拢一卷斑斓的长轴。 太阳行至黄经210°，霜降——秋之第六序，亦是深秋的终章。 霜降始霜，草木辞青。豺乃祭兽，将猎得的禽兽陈列如祭，天地以肃杀为序；草木黄落，枝头的叶片在风中旋舞，告别最后一抹丰茂；蛰虫咸俯，虫豸蜷伏土中，收声敛息，等待漫长的… |
 | 2026-10-23 | [免费替代 CleanMyMac：Mole CLI 在 Mac Mini 上的完整使用指南](https://www.evan.xin/5129/) | Mole（tw93/mole）是一个开源的 macOS 系统清理优化工具，功能对标 CleanMyMac、Ap […] |
@@ -73,7 +82,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-10-23 | [心里有光](https://www.hecaitou.com/2026/10/The-Light-Within.html) | 昨天我在回答读者什么是「心里有光」时，写了这样一段话： 「心里本来就有光，甚至可以说光明就是心的本体。要有光的意思，不是找寻来光，也不是擦拭出光，而是不被遮蔽，让它自然放光。」 这里我用到了「不是...而是...」句型，估计被系统判断为 AI 自动回复的垃圾留言，结果被阻拦了好一阵。我于是有些担心，… |
 | 2026-10-23 | [才发现 Zed 团队开发了个 ADE:](https://versun.me/blog/tweet-2113473548983636289) | 才发现 Zed 团队开发了个 ADE: Delta，目前处于 Public Beta 看起来依旧很简洁，审美在线 主要创新是为消灭传统 PR 而生的 DeltaDB： 它在 Git 底下加了一层 DeltaDB，除了记录文件改动外，还记录了生成这次提交的提示词和对话内容 重点是，它除了可以审查 Ag… |
 | 2026-10-23 | [部署Akvorado - 网络流日志收集分析系统](https://songxwn.com/akvorado-docker/) | Akvorado Docker 部署详细技术指南（含 Nginx 反向代理 + Basic Auth） Akvorado 是一款开源的网络流量采集、丰富与可视化系统，支持 NetFlow / IPFIX / sFlow。它会通过 SNMP 补充接口名称等信息，用 GeoIP 数据库补充地理信息，再经… |
-| 2026-10-23 | [失乐园里有什么？I](https://mobius.blog/25963.html) | 今天并不是在聊渡边淳一的《失乐园》。失乐园这个词，可以更早追溯到1667年约翰·弥尔顿的无韵诗《Paradis […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
+| 2026-10-23 | [失乐园里有什么？I](https://mobius.blog/25963.html) | 今天并不是在聊渡边淳一的《失乐园》。失乐园这个词，可以更早追溯到1667年约翰·弥尔顿的无韵诗《Paradis […] |
 | 2026-10-23 | [对不起 Vaultwarden(Bitw](https://versun.me/blog/tweet-2113447259371454848) | 1Password Today we announce 1Password for Agents platform, building with companies @Muse, SpaceX Super Intelligence Grok @Bot, @AnthropicAI’s @Claudea… |
 | 2026-10-23 | [科技爱好者周刊（第 416 期）：编程已经面目全非](http://www.ruanyifeng.com/blog/2026/10/weekly-issue-416.html) | 这里记录每周值得分享的科技内容，周五发布。 本杂志 开源 ，欢迎 投稿 。另有 《谁在招人》 服务，发布程序员招聘信息。合作请 邮件联系 （yifeng.ruan@gmail.com）。 封面图 本周启用的上海大歌剧院内部装修。（ via ） 编程已经面目全非 大多数人只看到，AI 改变了程序员这个… |
 | 2026-10-23 | [Memos #2026-10-22](https://blog.itaober.com/memos/memo_20261022032354_x9ve3c) | 11:27 时间的逝去，人的离开，记忆的回流，无可奈何。 如此契合现状。 |
@@ -101,7 +110,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-10-22 | [近况](https://blog.chen-di.com/archive/2026-10-22-jin-kuang/) | 最近生活过得挺平淡的，偶尔去健身房，总想通过给自己找点事做来让生活变得充实一些。 |
 | 2026-10-21 | [AI 早报 2026-10-22：10.22总结；法律 AI 公司 Legora 完成 5.5 亿美元 E 轮融资，估值 88 亿美元](https://www.jtxyh.com/daily/2026-10-22/) | 2026-10-22 AI 早报，共 19 条动态。本期重点是智能体产品的可用阶段、算力投入和企业落地。法律 AI 公司 Legora 10 月 21 日宣布完成 5.5 亿美元 E 轮融资，投后估值 88 亿美元，由 Atreides Management 领投，Baron… |
 | 2026-10-21 | [爱拯救之](https://www.geedea.pro/article/amour-en-sauve/) | 极客死亡计划现在运行在安装 OpenBSD 8.0 的服务器上，不是 Linux。 我在 第一百零一期周刊 因 Linux 如今也包含 LLM 生成的代码而感到沮丧，写道：“我用 Linux，不可能不用”——结果，我还真的可以不用。Linus Torvalds 最近还在 邮件列表 里回复一条我读起来… |
-| 2026-10-21 | [Quetoo updated](https://macsourceports.com/game/quetoo) | The build of Quetoo has been updated to version v1.0.133 of the project |
 | 2026-10-21 | [有梦不如做个超大号的](https://www.hecaitou.com/2026/10/if-youre-going-to-dream-make-it-supersized.html) | 有读者建议我，试试用 AI 改变生活，让它负责安排我每天的日程，小到做菜，大到日常事务，都交给 AI。 说实话，看到这个建议的时候我愣了一下。先是觉得这个想法有点绝，但又不是那么绝，因为隐隐约约之间有点熟悉，不够超凡脱俗。再想了一会儿，我琢磨过滋味来，好像上一次那么干的是那群在田纳西州摘棉花的黑人朋… |
 | 2026-10-21 | [我记得之前有看到过一个插件可以隐藏 AI](https://versun.me/blog/tweet-2112751575710228571) | 我记得之前有看到过一个插件可以隐藏 AI 留言的，是哪个来着，找不到了🥲 |
 | 2026-10-21 | [DeepSeek Harness 破甲 网络安全红队工具（dsh-purge）](https://www.cheshirex.com/11480.html) | dsh-purge原仓库是：https://github.com/YuJunZhiXue/dsh-purge […] |
