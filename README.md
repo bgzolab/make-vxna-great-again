@@ -41,7 +41,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-10-25 | [Vol.123 当智能体产出快于人：注意力瓶颈、可验证交付与成本边界如何重塑人机协作](https://liduos.com/weekly/the-weekly-gradient-123) | 本期内容聚焦智能体产出快于人后的注意力瓶颈，讨论数字员工接管协作、可验证交付与评估门槛，拆解多智能体架构与推理成本，并强调人仍需定义问题与标准。 |
 | 2026-10-25 | [2026 年大模型这一年：时间线、关键事件与几点洞察](http://tubaozi.top/posts/2026/2026-llms-timeline/) | 基于 Simon Willison 的演讲《2026 in LLMs (so far)》整理：从 2025 年 11 月的拐点到 9 月的 GPT-6，按月梳理模型、Agent、安全事件，再谈几点我的理解。 |
 | 2026-10-25 | [都胡说八道了还又臭又长](https://www.hecaitou.com/2026/10/All-Filler-No-Fact.html) | 近两个月以来，我个人在阅读习惯上有了很大的改变，现在我已经不再读网上的文章。理由很简单，打开十次，里面有九次都是 AI 创作。 本来我对 AI 创作文章的态度很开放，觉得既然有了一种新工具，那么就要迎接人们广泛运用新工具的新时代。然而实践起来完全是另外一回事，请允许我稍微刻薄一点：有些人，不对，有很… |
-| 2026-10-25 | [≡ 018｜理性选择的幸福还幸福吗？](https://mobius.blog/25980.html) | 先回顾一下这周的莫比乌斯。 之前在完成“创作者”与“读者”之间的天然矛盾之后，留下了一个有关“权力”的话题，即 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
+| 2026-10-25 | [≡ 018｜理性选择的幸福还幸福吗？](https://mobius.blog/25980.html) | 先回顾一下这周的莫比乌斯。 之前在完成“创作者”与“读者”之间的天然矛盾之后，留下了一个有关“权力”的话题，即 […] |
 | 2026-10-25 | [Plants vs. Zombies updated](https://macsourceports.com/game/pvz) | The build of PvZ Portable for Plants vs. Zombies has been updated to version 0.2.6 of the project |
 | 2026-10-25 | [放弃客户端控制权：从不可信客户端到服务端重构](https://corvo.myseu.cn/2026/10/25/2026-10-25-%E6%94%BE%E5%BC%83%E5%AE%A2%E6%88%B7%E7%AB%AF%E6%8E%A7%E5%88%B6%E6%9D%83/) | 把商业规则写进客户端再靠加密加壳去守，在 AI 时代已经走不通了。这篇长文分四部分：为什么本地代码永远不可信；代码商品化之后护城河去了哪里；形式合规为什么会失效；以及软件该怎么改造成零信任客户端加持续交付。 |
 | 2026-10-25 | [Agent 产品内「专家头像」生成实战记录](https://lrd.im/blog/2026-10-25) | 集团的 Agent 工具允许用户自己创建专家（智能体），而每一个专家都需要有一个头像。此时我想到了可以在流程内接入 AI 生图的能力。 |
@@ -64,7 +64,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-10-24 | [这回我承认AI确实有用](https://www.hecaitou.com/2026/10/why-i-finally-admit-that-ai-is-genuinely-usef.html) | 看过那么多人设计了那么多种 AI 的用法，我终于见到一个大众真正需要，真正解决生活问题的 AI 产品：CleanYourTV。 它解决了一件大部分人每天见，每天烦，但是一直没办法的问题，那就是把你家的智能电视恢复到最朴素的样子，去掉各种电视机自带的广告，各种弹窗，各种各样的后台程序。 不需要用家有任… |
 | 2026-10-24 | [油管｜4k视频和POV视角](https://dsx2016.com/youtube-4k-videos-and-pov-perspective/) | pov视角 就是第一人称视角，一般是运动相机或者ai眼镜，或者是手持手机但是不拍自己，而是拍摄前方，自然的视频... 油管｜4k视频和POV视角 最先出现在 大师兄2016 。 |
 | 2026-10-24 | [GitLab CE 18.6.1 升级到 18.11.13 的过程记录](https://199604.com/3732) | GitLab CE 18.6.1 升级到 18.11.13 的过程记录 记录时间：2026-10-22 环境： […] |
-| 2026-10-24 | [“你是Gay”这句话真的能骂到男性吗？](https://mobius.blog/25969.html) | 虽然我并不是一个很喜欢聊对与错、高低级的人，但有些事情有明显的“层级”问题，比如认知、主体性，以及今天要聊的“ […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
+| 2026-10-24 | [“你是Gay”这句话真的能骂到男性吗？](https://mobius.blog/25969.html) | 虽然我并不是一个很喜欢聊对与错、高低级的人，但有些事情有明显的“层级”问题，比如认知、主体性，以及今天要聊的“ […] |
 | 2026-10-24 | [AI 越来越强，我们怎样重新安排工作和生活？](https://www.linggandianbo.com/ai-yue-lai-yue-qiang-wo-men-zen-yang-zhong-xin-an-pai-gong-zuo-he-sheng-huo/) | 从理解 AI 的变化、重新提出问题，到减少记录的负担，以及给朋友留一张餐桌。 |
 | 2026-10-24 | [观雪山赏彩林 川西理小路自驾游](https://krya.com/post/lixiaolu/) | 这个月因为工作出现断档，无事可做。看到川西的彩林非常漂亮，于是一个人从成都出发自驾穿越理小路，当天往返。路线是顺时针方向，从成都至小金，再到理县后返回成都，全程500多公里；高原山路崎岖，车道狭窄；平均时速只有50~60公里，开车就得花8个小时左右；中间的游玩时间稍微局促。 一个人旅游，自由自在，随… |
 | 2026-10-24 | [Memos #2026-10-23](https://blog.itaober.com/memos/memo_20261023012308_5u0kyj) | 09:25 真实世界播客： 沈清父母的冷漠 贤鱼把喝完的矿泉水瓶扔共享单车车筐 刘振东吃鸡开挂 19:26 LGTM！真不错！ |
@@ -85,7 +85,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-10-23 | [心里有光](https://www.hecaitou.com/2026/10/The-Light-Within.html) | 昨天我在回答读者什么是「心里有光」时，写了这样一段话： 「心里本来就有光，甚至可以说光明就是心的本体。要有光的意思，不是找寻来光，也不是擦拭出光，而是不被遮蔽，让它自然放光。」 这里我用到了「不是...而是...」句型，估计被系统判断为 AI 自动回复的垃圾留言，结果被阻拦了好一阵。我于是有些担心，… |
 | 2026-10-23 | [才发现 Zed 团队开发了个 ADE:](https://versun.me/blog/tweet-2113473548983636289) | 才发现 Zed 团队开发了个 ADE: Delta，目前处于 Public Beta 看起来依旧很简洁，审美在线 主要创新是为消灭传统 PR 而生的 DeltaDB： 它在 Git 底下加了一层 DeltaDB，除了记录文件改动外，还记录了生成这次提交的提示词和对话内容 重点是，它除了可以审查 Ag… |
 | 2026-10-23 | [部署Akvorado - 网络流日志收集分析系统](https://songxwn.com/akvorado-docker/) | Akvorado Docker 部署详细技术指南（含 Nginx 反向代理 + Basic Auth） Akvorado 是一款开源的网络流量采集、丰富与可视化系统，支持 NetFlow / IPFIX / sFlow。它会通过 SNMP 补充接口名称等信息，用 GeoIP 数据库补充地理信息，再经… |
-| 2026-10-23 | [失乐园里有什么？I](https://mobius.blog/25963.html) | 今天并不是在聊渡边淳一的《失乐园》。失乐园这个词，可以更早追溯到1667年约翰·弥尔顿的无韵诗《Paradis […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
+| 2026-10-23 | [失乐园里有什么？I](https://mobius.blog/25963.html) | 今天并不是在聊渡边淳一的《失乐园》。失乐园这个词，可以更早追溯到1667年约翰·弥尔顿的无韵诗《Paradis […] |
 | 2026-10-23 | [对不起 Vaultwarden(Bitw](https://versun.me/blog/tweet-2113447259371454848) | 1Password Today we announce 1Password for Agents platform, building with companies @Muse, SpaceX Super Intelligence Grok @Bot, @AnthropicAI’s @Claudea… |
 | 2026-10-23 | [科技爱好者周刊（第 416 期）：编程已经面目全非](http://www.ruanyifeng.com/blog/2026/10/weekly-issue-416.html) | 这里记录每周值得分享的科技内容，周五发布。 本杂志 开源 ，欢迎 投稿 。另有 《谁在招人》 服务，发布程序员招聘信息。合作请 邮件联系 （yifeng.ruan@gmail.com）。 封面图 本周启用的上海大歌剧院内部装修。（ via ） 编程已经面目全非 大多数人只看到，AI 改变了程序员这个… |
 | 2026-10-23 | [Memos #2026-10-22](https://blog.itaober.com/memos/memo_20261022032354_x9ve3c) | 11:27 时间的逝去，人的离开，记忆的回流，无可奈何。 如此契合现状。 |
