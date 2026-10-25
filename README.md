@@ -27,6 +27,9 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-10-25 | [≡ 018｜理性选择的幸福还幸福吗？](https://mobius.blog/25980.html) | 先回顾一下这周的莫比乌斯。 之前在完成“创作者”与“读者”之间的天然矛盾之后，留下了一个有关“权力”的话题，即 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
+| 2026-10-25 | [Plants vs. Zombies updated](https://macsourceports.com/game/pvz) | The build of PvZ Portable for Plants vs. Zombies has been updated to version 0.2.6 of the project |
+| 2026-10-25 | [Agent 产品内「专家头像」生成实战记录](https://lrd.im/blog/2026-10-25) | 集团的 Agent 工具允许用户自己创建专家（智能体），而每一个专家都需要有一个头像。此时我想到了可以在流程内接入 AI 生图的能力。 |
 | 2026-10-24 | [esp32 &#124; cyd &#124; DFPlayer Mini Mp3 模块加SD卡和8r0.5w喇叭](https://dsx2016.com/esp32-cyd-with-dfplayer-mini-mp3-module-sd-card-and-8%cf%89-5w-speaker/) | mp3模块 为了让esp32 cyd可以播放音乐，我买了一个DFPlayer Mini Mp3 模块加SD卡和... esp32 &#124; cyd &#124; DFPlayer Mini Mp3 模块加SD卡和8r0.5w喇叭 最先出现在 大师兄2016 。 |
 | 2026-10-24 | [emacs-将光标所在org-link内容插入为quote代码块](https://blog.prayhand13013.top/20261025T001535--emacs-将光标所在org-link内容插入为quote代码块__blog.html) |  |
 | 2026-10-24 | [emacs-利用elisp进行大小写中文和数字的转换](https://blog.prayhand13013.top/20261025T000705--emacs-利用elisp进行大小写中文和数字的转换__blog.html) |  |
