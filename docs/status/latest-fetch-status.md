@@ -1,7 +1,7 @@
 ---
 title: Latest Fetch Status
-created: 2026-10-24T20:19:20Z
-modified: 2026-10-24T20:19:20Z
+created: 2026-10-25T00:08:06Z
+modified: 2026-10-25T00:08:06Z
 description: Latest source-level fetch result for the most recent execution.
 tags:
   - ai-notes
@@ -11,7 +11,7 @@ tags:
 
 # Latest Fetch Status
 
-Generated at: 2026-10-24T20:19:20Z
+Generated at: 2026-10-25T00:08:06Z
 
 Total sources: 527
 Successful: 395
@@ -121,11 +121,11 @@ Failed: 132
 | Failed | [#474] V2EX › 信也のブログ | [https://shinya.click/rss.xml](https://shinya.click/rss.xml) | [Origin](https://www.v2ex.com/xna/s/474) | 0 | Client error '404 Not Found' for url 'https://shinya.click/rss.xml' For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404 |
 | Failed | [#476] V2EX › 泽梦记 | [https://blog.100fails.com/rss.xml](https://blog.100fails.com/rss.xml) | [Origin](https://www.v2ex.com/xna/s/476) | 0 | [Errno -2] Name or service not known |
 | Failed | [#478] V2EX › FSpark | [https://fspark.me/feed](https://fspark.me/feed) | [Origin](https://www.v2ex.com/xna/s/478) | 0 | Client error '403 Forbidden' for url 'https://fspark.me/feed' For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403 |
-| Failed | [#485] V2EX › 从不说安全词 | [https://jt26wzz.com/rss.xml](https://jt26wzz.com/rss.xml) | [Origin](https://www.v2ex.com/xna/s/485) | 0 | _ssl.c:1063: The handshake operation timed out |
+| Failed | [#485] V2EX › 从不说安全词 | [https://jt26wzz.com/rss.xml](https://jt26wzz.com/rss.xml) | [Origin](https://www.v2ex.com/xna/s/485) | 0 | timed out |
 | Failed | [#498] V2EX › 重庆崽儿 Brand | [https://www.brandhuang.com/rss.xml](https://www.brandhuang.com/rss.xml) | [Origin](https://www.v2ex.com/xna/s/498) | 0 | Client error '403 Forbidden' for url 'https://www.brandhuang.com/rss.xml' For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403 |
 | Failed | [#4] V2EX › Airwolf Space | [https://airwolfspace.eth.limo/planet.json](https://airwolfspace.eth.limo/planet.json) | [Origin](https://www.v2ex.com/xna/s/4) | 0 | The read operation timed out |
 | Failed | [#507] V2EX › iyeslogo 壹手设计 | [https://www.iyeslogo.com/feed/](https://www.iyeslogo.com/feed/) | [Origin](https://www.v2ex.com/xna/s/507) | 0 | Client error '403 Forbidden' for url 'https://www.iyeslogo.com/feed/' For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403 |
-| Failed | [#508] V2EX › hekou 写字的地方 | [https://www.hekouwangyutian.com/atom.xml](https://www.hekouwangyutian.com/atom.xml) | [Origin](https://www.v2ex.com/xna/s/508) | 0 | [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.hekouwangyutian.com'. (_ssl.c:1081) |
+| Failed | [#508] V2EX › hekou 写字的地方 | [https://www.hekouwangyutian.com/atom.xml](https://www.hekouwangyutian.com/atom.xml) | [Origin](https://www.v2ex.com/xna/s/508) | 0 | [Errno 101] Network is unreachable |
 | Failed | [#50] V2EX › 码农明明桑 | [https://isming.me/index.xml](https://isming.me/index.xml) | [Origin](https://www.v2ex.com/xna/s/50) | 0 | Client error '403 Forbidden' for url 'https://isming.me/index.xml' For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403 |
 | Failed | [#513] V2EX › We Hack Studio | [https://gptkit.eth.limo/rss.xml](https://gptkit.eth.limo/rss.xml) | [Origin](https://www.v2ex.com/xna/s/513) | 0 | Client error '404 Not Found' for url 'https://gptkit.eth.limo/rss.xml' For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404 |
 | Failed | [#528] V2EX › 薇尔薇 | [https://vio.moe/rss.xml](https://vio.moe/rss.xml) | [Origin](https://www.v2ex.com/xna/s/528) | 0 | Client error '403 Forbidden' for url 'https://vio.moe/rss.xml' For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403 |
