@@ -27,6 +27,12 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-10-25 | [劳逸结合](https://www.lazydaily.cn/2026/10/25/cd172639-0d6d-4e1e-a145-55e89ffdbd6a/) | 这篇周记记录 2026-10-18 至 2026-10-25。 刚写了一篇长达三个月的月记。这篇周记简单总结最近一周。 紧接上篇月记。 正如上篇月记中所写，我给自己定下 |
+| 2026-10-25 | [终结竞争：从护城河到商业终局的实战指南](https://www.meettea.com/business-moat-endgame.html) | 从护城河到商业终局的实战指南：彼得·蒂尔框架 + AI 时代的商业重构 |
+| 2026-10-25 | [独立开发者的英国公司报税（2026）](https://www.meettea.com/uk-company-tax-2026.html) | 给独立开发者与小微企业的英国公司报税实战指南：CT600、年度账目、Dormant 零申报，从流水归类到提交全流程。 |
+| 2026-10-25 | [AI 时代，终于可以把那些不靠谱的想法也实现了](https://cufezhusy.github.io/issue-27/) | 最近跟世界上很多人一样，倒腾了不少 AI 相关的事情。 像我上一篇帖子里讲的，我感觉 AI 解放了很多像我这样的人。工作上、生活上，其实一直有很多想法，但精力已经不像二十多岁的时候那么好了，不可能总是坐在电脑前琢磨这些东西。AI 来了真是太好了，就像突然有了一堆不知疲倦的程序员，帮我实现那些靠谱或者… |
+| 2026-10-25 | [2026 年大模型这一年：时间线、关键事件与几点洞察](http://tubaozi.top/posts/2026/2026-llms-timeline/) | 基于 Simon Willison 的演讲《2026 in LLMs (so far)》整理：从 2025 年 11 月的拐点到 9 月的 GPT-6，按月梳理模型、Agent、安全事件，再谈几点我的理解。 |
+| 2026-10-25 | [都胡说八道了还又臭又长](https://www.hecaitou.com/2026/10/All-Filler-No-Fact.html) | 近两个月以来，我个人在阅读习惯上有了很大的改变，现在我已经不再读网上的文章。理由很简单，打开十次，里面有九次都是 AI 创作。 本来我对 AI 创作文章的态度很开放，觉得既然有了一种新工具，那么就要迎接人们广泛运用新工具的新时代。然而实践起来完全是另外一回事，请允许我稍微刻薄一点：有些人，不对，有很… |
 | 2026-10-25 | [≡ 018｜理性选择的幸福还幸福吗？](https://mobius.blog/25980.html) | 先回顾一下这周的莫比乌斯。 之前在完成“创作者”与“读者”之间的天然矛盾之后，留下了一个有关“权力”的话题，即 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-10-25 | [Plants vs. Zombies updated](https://macsourceports.com/game/pvz) | The build of PvZ Portable for Plants vs. Zombies has been updated to version 0.2.6 of the project |
 | 2026-10-25 | [Agent 产品内「专家头像」生成实战记录](https://lrd.im/blog/2026-10-25) | 集团的 Agent 工具允许用户自己创建专家（智能体），而每一个专家都需要有一个头像。此时我想到了可以在流程内接入 AI 生图的能力。 |
@@ -35,14 +41,14 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-10-24 | [emacs-利用elisp进行大小写中文和数字的转换](https://blog.prayhand13013.top/20261025T000705--emacs-利用elisp进行大小写中文和数字的转换__blog.html) |  |
 | 2026-10-24 | [堆栈溢出的一周](https://atpx.com/blog/week-of-stack-overflow/) | 懂归懂，失落归失落，好坏都得继续。 |
 | 2026-10-24 | [每日计划 - 行动力基于清晰力](https://depp.wang/2026/daily-plan/) | 最近在微信读书上看了一本书，叫《认知觉醒》 ，作者周岭。 这本书写了一个观点，我觉得还是挺有启发性的。 这个观点说：读书其实不需要读完后将这本书总结一遍，而是去找一个最有感触的点，去思考、去行动、去改变。这可能是读书最有收获的一种方式。而我以前读完一本书后就会自己去整体总结一遍书中的内容，去输出一篇… |
-| 2026-10-24 | [真正的工业革命，正在第二次发生](https://haoluobo.com/2026/10/the-second-industrial-revolution/) | 年初的时候写了一篇《AI将如何重塑这个世界》，现在半年过去，国务院办公厅发文称要「有效减缓人工智能应用就业替代 […] |
+| 2026-10-24 | [AI 正在推动新一轮的工业革命](https://haoluobo.com/2026/10/the-second-industrial-revolution/) | 年初的时候写了一篇《AI将如何重塑这个世界》，现在半年过去，国务院办公厅发文称要「有效减缓人工智能应用就业替代 […] |
 | 2026-10-24 | [回了一趟国](https://cufezhusy.github.io/issue-26/) | 上周回了一趟国，看望了一下父母，也去看了看严严的父母。中东没法飞了，第一次飞国航走北京转机，好多年没来过首都国际机场了，真是恍如隔世。 这次回去，最直观的感受是，国内现在的生活条件确实很好。各种硬件设施已经相当完善，不少方面甚至比欧美更好，而且物价也便宜。 我们这次住了家乡最好的一家宾馆，淡季居然只… |
 | 2026-10-24 | [遍历「所有」旋律](https://www.yvesx.com/archives/introducting-hertz-cloud) | 智慧生命的精华与本质，真的是技术所无法触及的吗？在刘慈欣的科幻小说《诗云》中，神级文明为了终结人类的艺术，穷举汉字的排列组合，写出了一切过去、现在和未来的诗歌。当我们讨论音乐创作，也经常有人提及... |
 | 2026-10-24 | [Saily eSIM 指南：出境流量、美国号码与优惠码](https://gugegt.com/20261024-saily-esim.html) | 出境旅行，落地能不能马上联网，决定了头半天顺不顺。Saily 的做法是出发前在 App 里买好流量套餐，落地自动联网，不用换卡，不用租 WiFi 盒子，回国也不用对着漫游账单心疼。Saily 是 Nord Security 旗下的公司，NordVPN、NordPass 都是它家的。 |
 | 2026-10-24 | [Lemmings updated](https://macsourceports.com/game/lemmings) | The build of Ultimate Lemmings for Lemmings has been updated to version v2.2.2 of the project |
 | 2026-10-24 | [Insaniquarium updated](https://macsourceports.com/game/insaniquarium) | The build of Insaniquarium Portable for Insaniquarium has been updated to version 0.6 of the project |
 | 2026-10-24 | [Memos: 主厨是餐饮的核心](https://blog.yasking.org/a/1792814826) | 周五同事请客去吃了一家东北菜，这家老店味道一直不错，在大众点评上已收录13年。早两年第一次去他家吃的炒腔骨，口感 … |
-| 2026-10-24 | [这回我承认AI的确实有用](https://www.hecaitou.com/2026/10/why-i-finally-admit-that-ai-is-genuinely-usef.html) | 看过那么多人设计了那么多种 AI 的用法，我终于见到一个大众真正需要，真正解决生活问题的 AI 产品：CleanYourTV。 它解决了一件大部分人每天见，每天烦，但是一直没办法的问题，那就是把你家的智能电视恢复到最朴素的样子，去掉各种电视机自带的广告，各种弹窗，各种各样的后台程序。 不需要用家有任… |
+| 2026-10-24 | [这回我承认AI确实有用](https://www.hecaitou.com/2026/10/why-i-finally-admit-that-ai-is-genuinely-usef.html) | 看过那么多人设计了那么多种 AI 的用法，我终于见到一个大众真正需要，真正解决生活问题的 AI 产品：CleanYourTV。 它解决了一件大部分人每天见，每天烦，但是一直没办法的问题，那就是把你家的智能电视恢复到最朴素的样子，去掉各种电视机自带的广告，各种弹窗，各种各样的后台程序。 不需要用家有任… |
 | 2026-10-24 | [油管｜4k视频和POV视角](https://dsx2016.com/youtube-4k-videos-and-pov-perspective/) | pov视角 就是第一人称视角，一般是运动相机或者ai眼镜，或者是手持手机但是不拍自己，而是拍摄前方，自然的视频... 油管｜4k视频和POV视角 最先出现在 大师兄2016 。 |
 | 2026-10-24 | [GitLab CE 18.6.1 升级到 18.11.13 的过程记录](https://199604.com/3732) | GitLab CE 18.6.1 升级到 18.11.13 的过程记录 记录时间：2026-10-22 环境： […] |
 | 2026-10-24 | [“你是Gay”这句话真的能骂到男性吗？](https://mobius.blog/25969.html) | 虽然我并不是一个很喜欢聊对与错、高低级的人，但有些事情有明显的“层级”问题，比如认知、主体性，以及今天要聊的“ […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
