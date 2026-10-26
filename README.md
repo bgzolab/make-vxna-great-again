@@ -27,6 +27,16 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-10-26 | [漫谈心底那份夜雨与深秋](https://blog.mfwt.top/index.php/archives/1679/) | 笔者一直有一个很想问自己的问题：为什么会选择『枫林灯语』这几个字作为站点名（甚至在正式建站前很久就已经存在了，所以至少不是一拍脑袋想出来的）。虽然在关于页里面，已经解释过会有『近乎于惆怅的宁静感... |
+| 2026-10-26 | [Everything is Harness： 从 Prompt Engineering 到 Context Engineering 再到 Harness Engineering](https://www.ixiqin.com/2026/10/26/harness-engineering/) | 在 Harness Engineering 这个概念逐渐流行甚至要过气之后，我终于理解了这个词背后的含义。作为 […] |
+| 2026-10-26 | [不及格](https://yipai.me/post/2555.html) | 下午语文老师在群里发消息，说听写声母，有 24 个同学全对，8个同学不合格。晚上回家天塌了，原来我儿子就是这 8 个人之中的一个。听写 21 个声母，他只写了 5 个。问题就是写的太慢，总想写成标准印刷体，说过很多次，优先完成，再考虑是否美观，毫无用处。其他作业也是类似，比如读拼音，错一个他就从头重… |
+| 2026-10-26 | [核合成](https://physnya.top/astro-physics/lesson-5-nuclear-synthesis/) | 核合成 超重核素一般在恒星中通过没有 Coulomb 势垒的中子俘获过程产生，分为慢中子俘获和快中子俘获两种过程，二者各自贡献了当今宇宙中超重核素的将近一半. 一个典型的中子俘获过程： 56 Fe + n → 57 Fe + n → 58 Fe + n → 59 Co + n → 60 Co → 6… |
+| 2026-10-26 | [超新星 & 中子星](https://physnya.top/compact-object/lesson-6-supernova-and-neutron-star/) | 在中国古代曾经观察到过好几次超新星的爆发事件. 中子星在观测上的最早确认是在 1960s，得益于射电望远镜的发达，发现脉冲星. 大质量恒星在生命晚期的结构类似洋葱，其不同元素形成不同层，而中心铁核只能通过电子简并压来维持，一旦中心到达 Chandrasekhar 极限就会进一步坍缩. 而下一个抵抗引… |
+| 2026-10-26 | [花 20 元，让实体卡手机也能用上 eSIM](https://depp.wang/2026/esim-euicc/) | 如果出国旅游想用 eSIM 流量套餐，但手机只有实体卡槽，可以试试小白卡。 它就是一张可以写入 eSIM 信息的实体卡，写好之后，像普通手机卡一样插进手机使用。小白卡和 9eSIM 这类实体卡，基本原理一样，都是把 eSIM 套餐装进卡里。卡本身不带流量，套餐需要另外购买。 拼多多搜索「eSIM 小… |
+| 2026-10-26 | [Quetoo updated](https://macsourceports.com/game/quetoo) | The build of Quetoo has been updated to version v1.0.136 of the project |
+| 2026-10-26 | [Total Annihilation updated](https://macsourceports.com/game/totalannihilation) | The build of Open Annihilation for Total Annihilation has been updated to version v0.8.6.1 of the project |
+| 2026-10-26 | [尝试每周四晚上在上海举办 Tab 星期四线下聚会](https://www.owenyoung.com/tab) | 从 10 月 29 日开始，我和 海涛 每周四晚上会在上海 706 办一个小型聚会，叫 Tab 星期四 。形式有点像线下版的 Hacker News 或 TIL （Today I Learned），每个人带一个这周想分享的 Tab，先分享 1–3 分钟，再交流 2 分钟。 时间是每周四 19:30–… |
+| 2026-10-26 | [野人编年史](http://imlane.zhanglintc.co/ye-ren-bian-nian-shi) | 野人编年史 野人创始人 徐队 ，群昵称Shogun。姓徐，称徐队，真野人队长，野人 抖音官号 持有者。 张队 ，群昵称张小不。江湖人称竹节虫，简称虫队。 熊队 ，群昵称熊嘎婆，称熊队。 野人CLUB游泳事业部 群主。 亮队 ，群昵称亮什么，称亮队，野人 小红书官号 持有者。 野人成员 野人群像 野人… |
 | 2026-10-26 | [演讲视频：Do you want to be a SRE?](https://www.kawabangga.com/posts/7443) | 上周在 NUS 做了一个分享，内容是 SRE 的工作内容和成长路线。下面是录制的视频。 涉及的数据和 inci […] Continue reading... 相关文章: SRE&Devops 每周分享 Issue #1 Opening SRE&Devops 每周分享 Issue #4 AWS La… |
 | 2026-10-26 | [GreenCloud绿云13周年促销活动](https://www.cheshirex.com/11523.html) | 重要通知：今年没有黑色星期五促销活动 我们希望尽早向大家完全公开透明，以免有人等待：GreenCloud 今年 […] |
 | 2026-10-26 | [2026.10.25](https://www.justzht.com/2026-10-25/) | Epoch 现在通过一个 Playdate API 兼容层可以原生运行在 Mac 和一些其他平台上了。主要开发重心还是在 Playdate 上（毕竟其他平台的性 |
@@ -34,19 +44,17 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-10-26 | [自己修脚](https://www.hecaitou.com/2026/10/The-Art-of-the-DIY-Pedicure.html) | 说起来很奇怪，我本身很少出门，也很少运动，但是脚底的老茧却会自顾自疯长，感觉是我的脚陷入了某种终日远足的狂野幻想之中。 两周前，我把除湿机收起来，换上加湿机开始过冬天。就在当晚，我的脚后跟就自动皲裂，效果堪比金刚石砂纸。睡觉翻身的时候，稍微交叉一下小腿，脚后跟只是轻轻蹭了一下，能把我从梦中直接惊醒，… |
 | 2026-10-26 | [AI时代如何看漫画](https://www.nodealpha.me/Software-ai-manga.html) | 在大AI时代，由于ChatGPT的加持，我的看漫画流程进一步进化了，主要分为 3 条路线： 下载漫画，走Komga加Koharia 在线漫画，走Suwayomi加Tsumiru 日文原版，走Saber-Translator自动翻译后接入2中的Suwayomi 下载漫画 以前的话，我是漫画下载、Kom… |
 | 2026-10-26 | [自用 ChatGPT/Codex 防御性编程/说话修正/PowerShell调用问题修正提示词分享](https://kenvix.com/post/codex-prompt/) | 受不了弱智的 ChatGPT/Codex 了，分享一些自用的提示词，主要用于防御性编程、说话修正、PowerShell调用问题修正等。 本文长期更新。上次更新时间：2026-10-26 12:25:50 另外致敬传奇暗改王 Tibo ，Codex 现在真实5小时额度和周额度的 Token 量有没有… |
-| 2026-10-26 | [野人编年史](http://imlane.zhanglintc.co/ye-ren-bian-nian-shi) | 野人编年史 野人创始人 徐队 ，群昵称Shogun。姓徐，称徐队，真野人队长，野人 抖音官号 持有者。 张队 ，群昵称张小不。江湖人称竹节虫，简称虫队。 熊队 ，群昵称熊嘎婆，称熊队。 野人CLUB游泳事业部 群主。 亮队 ，群昵称亮什么，称亮队，野人 小红书官号 持有者。 野人成员 野人群像 野人… |
 | 2026-10-26 | [第两百万字](https://mobius.blog/25986.html) | 想着今年博客起码得完成第两百万字，这个目标算是达成了。 好在到现在，已经没有人再私信问我“为什么要写这么多”。 […] |
 | 2026-10-26 | [Insaniquarium updated](https://macsourceports.com/game/insaniquarium) | The build of Insaniquarium Portable for Insaniquarium has been updated to version 0.7 of the project |
 | 2026-10-26 | [Memos #2026-10-25](https://blog.itaober.com/memos/memo_20261025095911_yayztl) | 18:06 耍了一天 Codex，小小感慨一下。 只有开发公司项目的时候，才在产出价值（也不好说）。而自己搞些乱七八糟的，只是沉浸在「我在创造」所带来的装模作样的满足感。 emm，情绪价值也是价值吧！ |
 | 2026-10-25 | [opencode go 套餐的 ds 限](https://versun.me/blog/tweet-2114498737032880374) | opencode go 套餐的 ds 限流也太频繁了吧，动不动429😆 下个月试一试 command 的套餐看看，再不行就上 ollama |
+| 2026-10-25 | [AI 早报 2026-10-26：Anthropic 公开递交 S-1，拟以“ANT”在纳斯达克上市](https://www.jtxyh.com/daily/2026-10-26/) | 2026-10-26 AI 早报，共 9 条动态。Anthropic 10月26日向美国证券交易委员会公开递交 S-1 注册文件，拟首次公开发行 A 类普通股，计划在纳斯达克全球精选市场以代码“ANT”上市。Itaú Unibanco 于 10 月 26 日签署协议，拟收购巴西 AI 初创公司 Ne… |
 | 2026-10-25 | [从 AI Passport，看一种 AI 变现的思路](https://depp.wang/2026/ai-passport/) | 前阵子在网上了解到一个 AI 小玩具，叫 AI 通行证（AI Passport），最近在京东上买了一个。 长这样： 它有一块小屏幕、麦克风、扬声器和实体按键。除了安装别人做好的玩法，也可以让 AI 帮自己写些小软件，装进去玩。 用下来，我觉得 FoloToy 对这个产品的设计和玩法挺有先见之明的。现… |
 | 2026-10-25 | [稳定的世界正在崩解](https://blog.oospace.com/posts/2026-10-25/) | 越来越没有耐心了，无论是个人，还是国家 |
 | 2026-10-25 | [「做个人」](https://blog.solazy.me/20261025/) | 今天这个选题是压了好一阵子的了，最近思考的很完备，索性写出来 |
 | 2026-10-25 | [秋天来了，让人想起1873年](https://cufezhusy.github.io/issue-28/) | 进入十月份，哥本哈根开始真正进入秋天，家附近的公园也渐渐变得金黄。 下周打算开始研究研究 always-on agent。 周末在家的时候，读完了 Liaquat Ahamed 的这本 1873: The First Great Depression and the Making of the Mo… |
 | 2026-10-25 | [劳逸结合](https://www.lazydaily.cn/2026/10/25/cd172639-0d6d-4e1e-a145-55e89ffdbd6a/) | 这篇周记记录 2026-10-18 至 2026-10-25。 刚写了一篇长达三个月的月记。这篇周记简单总结最近一周。 紧接上篇月记。 正如上篇月记中所写，我给自己定下 |
 | 2026-10-25 | [万能的推友们，有没有安卓手机同步苹果相册](https://versun.me/blog/tweet-2114318449128415320) | 万能的推友们，有没有安卓手机同步苹果相册的应用或方案呀😅 |
-| 2026-10-25 | [Quetoo updated](https://macsourceports.com/game/quetoo) | The build of Quetoo has been updated to version v1.0.134 of the project |
-| 2026-10-25 | [Total Annihilation updated](https://macsourceports.com/game/totalannihilation) | The build of Open Annihilation for Total Annihilation has been updated to version v0.8.6 of the project |
 | 2026-10-25 | [OpenShell supervisor 源码解剖：一个不信任任何人的进程](https://atbug.com/openshell-supervisor-internals-trust-nothing/) | TL;DR 读 OpenShell v0.1.5 源码：supervisor 如何用一张“不信任清单”撑起沙箱的全部安全边界，每条不信任都有 文件：行号 为证。 引言：教程里那些“魔法”的出处 上一篇 OpenShell 教程 留了一堆“它就是能做到”的现象：沙箱里 DNS 永远“解析成功”，拿到却… |
 | 2026-10-25 | [今年我在外面买咖啡，只花了21.90刀](https://www.ozexplorers.com/%E6%BE%B3%E6%B4%B2%E7%94%9F%E6%B4%BB/2026/10/25/why-i-rarely-buy-coffee-outside.html) | 今天，我翻了翻记账软件，无意间发现今年至今我只有四次在外面买咖啡的记录，一共花了21.90刀。而去年是265刀，前年是249刀。 我还是一个高度依赖咖啡的打工人，并没有戒咖啡。不过，公司有咖啡机，家里有胶囊机，每天都喝上一到两杯，只是很少再往咖啡店跑了。 前两年的数字相差不大，到了今年突然掉到只剩零… |
 | 2026-10-25 | [终结竞争：从护城河到商业终局的实战指南](https://www.meettea.com/business-moat-endgame.html) | 从护城河到商业终局的实战指南：彼得·蒂尔框架 + AI 时代的商业重构 |
@@ -83,7 +91,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-10-24 | [“你是Gay”这句话真的能骂到男性吗？](https://mobius.blog/25969.html) | 虽然我并不是一个很喜欢聊对与错、高低级的人，但有些事情有明显的“层级”问题，比如认知、主体性，以及今天要聊的“ […] |
 | 2026-10-24 | [AI 越来越强，我们怎样重新安排工作和生活？](https://www.linggandianbo.com/ai-yue-lai-yue-qiang-wo-men-zen-yang-zhong-xin-an-pai-gong-zuo-he-sheng-huo/) | 从理解 AI 的变化、重新提出问题，到减少记录的负担，以及给朋友留一张餐桌。 |
 | 2026-10-24 | [观雪山赏彩林 川西理小路自驾游](https://krya.com/post/lixiaolu/) | 这个月因为工作出现断档，无事可做。看到川西的彩林非常漂亮，于是一个人从成都出发自驾穿越理小路，当天往返。路线是顺时针方向，从成都至小金，再到理县后返回成都，全程500多公里；高原山路崎岖，车道狭窄；平均时速只有50~60公里，开车就得花8个小时左右；中间的游玩时间稍微局促。 一个人旅游，自由自在，随… |
-| 2026-10-24 | [Memos #2026-10-23](https://blog.itaober.com/memos/memo_20261023012308_5u0kyj) | 09:25 真实世界播客： 沈清父母的冷漠 贤鱼把喝完的矿泉水瓶扔共享单车车筐 刘振东吃鸡开挂 19:26 LGTM！真不错！ |
+| 2026-10-24 | [Memos #2026-10-23](https://blog.itaober.com/memos/memo_20261023012308_5u0kyj) | 09:25 播客中的真实事件： 沈清冷漠的父母 贤鱼把喝完的矿泉水瓶扔共享单车车筐 刘振东吃鸡开挂 19:26 LGTM！真不错！ |
 | 2026-10-24 | [Python 潮流周刊#172：3.15 的 JIT 终于见效、自由线程 Python 进入下一阶段](https://pythoncat.top/posts/2026-10-24-weekly/) | 分享了 12 篇文章，12 个开源项目，2 则热门讨论 |
 | 2026-10-23 | [Kimi Yes！！！！ 看起来和 op](https://versun.me/blog/tweet-2113772047168078142) | Kimi.ai Introducing Kimi K3.1 Pro: our most capable 3T-class open-weight model. 🔹 1M-token context, 2.8T total / 104B active params (MoE), Multimodal.… |
 | 2026-10-23 | [青甘行·下｜盐湖映翠，初见黄河](https://hux.ink/posts/qinggan-trip-04/) | 接 上篇｜祁连山色，张掖丹霞 及 中篇｜河西走廊，千年敦煌 ，本篇是旅程最后五天的见闻：从敦煌出发，穿越柴达木盆地，途经大柴旦、察尔汗和青海湖，最后回到西宁，经兰州踏上归途。 10 月 2 日｜穿过戈壁，遇见大柴旦翡翠湖 在敦煌连住三个晚上之后，10 月 2 日重新启程，前往青海大柴旦。今天要经过当… |
