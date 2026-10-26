@@ -37,6 +37,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-10-26 | [Total Annihilation updated](https://macsourceports.com/game/totalannihilation) | The build of Open Annihilation for Total Annihilation has been updated to version v0.8.6.1 of the project |
 | 2026-10-26 | [尝试每周四晚上在上海举办 Tab 星期四线下聚会](https://www.owenyoung.com/tab) | 从 10 月 29 日开始，我和 海涛 每周四晚上会在上海 706 办一个小型聚会，叫 Tab 星期四 。形式有点像线下版的 Hacker News 或 TIL （Today I Learned），每个人带一个这周想分享的 Tab，先分享 1–3 分钟，再交流 2 分钟。 时间是每周四 19:30–… |
 | 2026-10-26 | [野人编年史](http://imlane.zhanglintc.co/ye-ren-bian-nian-shi) | 野人编年史 野人创始人 徐队 ，群昵称Shogun。姓徐，称徐队，真野人队长，野人 抖音官号 持有者。 张队 ，群昵称张小不。江湖人称竹节虫，简称虫队。 熊队 ，群昵称熊嘎婆，称熊队。 野人CLUB游泳事业部 群主。 亮队 ，群昵称亮什么，称亮队，野人 小红书官号 持有者。 野人成员 野人群像 野人… |
+| 2026-10-26 | [17 分钟搞懂 ICT 核心概念：流动性、FVG、Power of 3 与订单块（视频笔记与中文图解）](https://blog.forecho.com/learn-every-ict-concept.html) | 引言 这篇是我看 Pro Trading School 的视频 Learn Every ICT Concept in 17 Minutes (Liquidity, FVG, Order Blocks & More) 后整理的笔记。视频大约 17 分钟，发布于 2025 年 6 月，讲的是 ICT（I… |
 | 2026-10-26 | [演讲视频：Do you want to be a SRE?](https://www.kawabangga.com/posts/7443) | 上周在 NUS 做了一个分享，内容是 SRE 的工作内容和成长路线。下面是录制的视频。 涉及的数据和 inci […] Continue reading... 相关文章: SRE&Devops 每周分享 Issue #1 Opening SRE&Devops 每周分享 Issue #4 AWS La… |
 | 2026-10-26 | [GreenCloud绿云13周年促销活动](https://www.cheshirex.com/11523.html) | 重要通知：今年没有黑色星期五促销活动 我们希望尽早向大家完全公开透明，以免有人等待：GreenCloud 今年 […] |
 | 2026-10-26 | [2026.10.25](https://www.justzht.com/2026-10-25/) | Epoch 现在通过一个 Playdate API 兼容层可以原生运行在 Mac 和一些其他平台上了。主要开发重心还是在 Playdate 上（毕竟其他平台的性 |
@@ -48,7 +49,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-10-26 | [Insaniquarium updated](https://macsourceports.com/game/insaniquarium) | The build of Insaniquarium Portable for Insaniquarium has been updated to version 0.7 of the project |
 | 2026-10-26 | [Memos #2026-10-25](https://blog.itaober.com/memos/memo_20261025095911_yayztl) | 18:06 耍了一天 Codex，小小感慨一下。 只有开发公司项目的时候，才在产出价值（也不好说）。而自己搞些乱七八糟的，只是沉浸在「我在创造」所带来的装模作样的满足感。 emm，情绪价值也是价值吧！ |
 | 2026-10-25 | [opencode go 套餐的 ds 限](https://versun.me/blog/tweet-2114498737032880374) | opencode go 套餐的 ds 限流也太频繁了吧，动不动429😆 下个月试一试 command 的套餐看看，再不行就上 ollama |
-| 2026-10-25 | [AI 早报 2026-10-26：Anthropic 公开递交 S-1，拟以“ANT”在纳斯达克上市](https://www.jtxyh.com/daily/2026-10-26/) | 2026-10-26 AI 早报，共 9 条动态。Anthropic 10月26日向美国证券交易委员会公开递交 S-1 注册文件，拟首次公开发行 A 类普通股，计划在纳斯达克全球精选市场以代码“ANT”上市。Itaú Unibanco 于 10 月 26 日签署协议，拟收购巴西 AI 初创公司 Ne… |
+| 2026-10-25 | [AI 早报 2026-10-26：10.26总结；Anthropic 公开递交 S-1，拟以“ANT”在纳斯达克上市](https://www.jtxyh.com/daily/2026-10-26/) | 2026-10-26 AI 早报，共 10 条动态。Anthropic 公开递交 S-1，拟以“ANT”在纳斯达克上市，发行数量与价格尚未确定，注册文件仍未生效。Anthropic 10月26日向美国证券交易委员会公开递交 S-1 注册文件，拟首次公开发行 A 类普通股，计划在纳斯达克全球精选市场以… |
 | 2026-10-25 | [从 AI Passport，看一种 AI 变现的思路](https://depp.wang/2026/ai-passport/) | 前阵子在网上了解到一个 AI 小玩具，叫 AI 通行证（AI Passport），最近在京东上买了一个。 长这样： 它有一块小屏幕、麦克风、扬声器和实体按键。除了安装别人做好的玩法，也可以让 AI 帮自己写些小软件，装进去玩。 用下来，我觉得 FoloToy 对这个产品的设计和玩法挺有先见之明的。现… |
 | 2026-10-25 | [稳定的世界正在崩解](https://blog.oospace.com/posts/2026-10-25/) | 越来越没有耐心了，无论是个人，还是国家 |
 | 2026-10-25 | [「做个人」](https://blog.solazy.me/20261025/) | 今天这个选题是压了好一阵子的了，最近思考的很完备，索性写出来 |

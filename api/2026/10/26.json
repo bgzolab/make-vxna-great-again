@@ -70,6 +70,13 @@
     "source_root_domain": "zhanglintc.co"
   },
   {
+    "title": "17 分钟搞懂 ICT 核心概念：流动性、FVG、Power of 3 与订单块（视频笔记与中文图解）",
+    "url": "https://blog.forecho.com/learn-every-ict-concept.html",
+    "date": "2026-10-26T09:00:00Z",
+    "description": "引言 这篇是我看 Pro Trading School 的视频 Learn Every ICT Concept in 17 Minutes (Liquidity, FVG, Order Blocks & More) 后整理的笔记。视频大约 17 分钟，发布于 2025 年 6 月，讲的是 ICT（Inner Circle Trader）/ SMC（Smart Money Concepts，聪明钱概念）里最常用的几个东西： 流动性（Liquidity）：买方流动性、卖方流动性 流动性陷阱（Liquidity Trap） 公允价值缺口（Fair Value Gap，FVG）和 4 个筛选技巧 Power of 3（三段式：盘整 → 操纵 → 扩张）的多空两种版本和交易方法 订单块（Order Block，OB）、它和支撑阻力的区别，以及有效订单块的 3 条规则 内容和截图都来自原视频，我按章节翻译整理，个别地方加了一点自己的理解。版权归原作者 Pro Trading School 所有。 1. 流动性：一切聪明钱概念的地基 视频把流动性定义为：图表上挂单（主要是止损单）扎堆的区域。机构很清",
+    "source_root_domain": "forecho.com"
+  },
+  {
     "title": "演讲视频：Do you want to be a SRE?",
     "url": "https://www.kawabangga.com/posts/7443",
     "date": "2026-10-26T08:09:23Z",
@@ -147,10 +154,10 @@
     "source_root_domain": "versun.me"
   },
   {
-    "title": "AI 早报 2026-10-26：Anthropic 公开递交 S-1，拟以“ANT”在纳斯达克上市",
+    "title": "AI 早报 2026-10-26：10.26总结；Anthropic 公开递交 S-1，拟以“ANT”在纳斯达克上市",
     "url": "https://www.jtxyh.com/daily/2026-10-26/",
     "date": "2026-10-25T16:00:00Z",
-    "description": "2026-10-26 AI 早报，共 9 条动态。Anthropic 10月26日向美国证券交易委员会公开递交 S-1 注册文件，拟首次公开发行 A 类普通股，计划在纳斯达克全球精选市场以代码“ANT”上市。Itaú Unibanco 于 10 月 26 日签署协议，拟收购巴西 AI 初创公司 NeoSpace…",
+    "description": "2026-10-26 AI 早报，共 10 条动态。Anthropic 公开递交 S-1，拟以“ANT”在纳斯达克上市，发行数量与价格尚未确定，注册文件仍未生效。Anthropic 10月26日向美国证券交易委员会公开递交 S-1 注册文件，拟首次公开发行 A 类普通股，计划在纳斯达克全球精选市场以代码“ANT”上市。",
     "source_root_domain": "jtxyh.com"
   },
   {
