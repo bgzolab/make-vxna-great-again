@@ -27,6 +27,13 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-10-26 | [演讲视频：Do you want to be a SRE?](https://www.kawabangga.com/posts/7443) | 上周在 NUS 做了一个分享，内容是 SRE 的工作内容和成长路线。下面是录制的视频。 涉及的数据和 inci […] Continue reading... 相关文章: SRE&Devops 每周分享 Issue #1 Opening SRE&Devops 每周分享 Issue #4 AWS La… |
+| 2026-10-26 | [GreenCloud绿云13周年促销活动](https://www.cheshirex.com/11523.html) | 重要通知：今年没有黑色星期五促销活动 我们希望尽早向大家完全公开透明，以免有人等待：GreenCloud 今年 […] |
+| 2026-10-26 | [2026.10.25](https://www.justzht.com/2026-10-25/) | Epoch 现在通过一个 Playdate API 兼容层可以原生运行在 Mac 和一些其他平台上了。主要开发重心还是在 Playdate 上（毕竟其他平台的性 |
+| 2026-10-26 | [声势浩大的知识产权盗窃](https://www.geedea.pro/article/the-great-theft/) | 之所以说「声势浩大」，是因为我成语储备不够，找不到「不要脸」的文雅说法。 蛛丝马迹 这几天我停用了 NetCup 的一台机子，换到了 SKRIME，装了 OpenBSD 系统愉快地玩了起来。结果，正好赶上 eMudhra 根证书密钥泄露 1 和 PHP2Shell 漏洞，于是赶紧在几台机器上更新 c… |
+| 2026-10-26 | [自己修脚](https://www.hecaitou.com/2026/10/The-Art-of-the-DIY-Pedicure.html) | 说起来很奇怪，我本身很少出门，也很少运动，但是脚底的老茧却会自顾自疯长，感觉是我的脚陷入了某种终日远足的狂野幻想之中。 两周前，我把除湿机收起来，换上加湿机开始过冬天。就在当晚，我的脚后跟就自动皲裂，效果堪比金刚石砂纸。睡觉翻身的时候，稍微交叉一下小腿，脚后跟只是轻轻蹭了一下，能把我从梦中直接惊醒，… |
+| 2026-10-26 | [AI时代如何看漫画](https://www.nodealpha.me/Software-ai-manga.html) | 在大AI时代，由于ChatGPT的加持，我的看漫画流程进一步进化了，主要分为 3 条路线： 下载漫画，走Komga加Koharia 在线漫画，走Suwayomi加Tsumiru 日文原版，走Saber-Translator自动翻译后接入2中的Suwayomi 下载漫画 以前的话，我是漫画下载、Kom… |
+| 2026-10-26 | [自用 ChatGPT/Codex 防御性编程/说话修正/PowerShell调用问题修正提示词分享](https://kenvix.com/post/codex-prompt/) | 受不了弱智的 ChatGPT/Codex 了，分享一些自用的提示词，主要用于防御性编程、说话修正、PowerShell调用问题修正等。 本文长期更新。上次更新时间：2026-10-26 12:25:50 另外致敬传奇暗改王 Tibo ，Codex 现在真实5小时额度和周额度的 Token 量有没有… |
 | 2026-10-26 | [野人编年史](http://imlane.zhanglintc.co/ye-ren-bian-nian-shi) | 野人编年史 野人创始人 徐队 ，群昵称Shogun。姓徐，称徐队，真野人队长，野人 抖音官号 持有者。 张队 ，群昵称张小不。江湖人称竹节虫，简称虫队。 熊队 ，群昵称熊嘎婆，称熊队。 野人CLUB游泳事业部 群主。 亮队 ，群昵称亮什么，称亮队，野人 小红书官号 持有者。 野人成员 野人群像 野人… |
 | 2026-10-26 | [第两百万字](https://mobius.blog/25986.html) | 想着今年博客起码得完成第两百万字，这个目标算是达成了。 好在到现在，已经没有人再私信问我“为什么要写这么多”。 […] |
 | 2026-10-26 | [Insaniquarium updated](https://macsourceports.com/game/insaniquarium) | The build of Insaniquarium Portable for Insaniquarium has been updated to version 0.7 of the project |
@@ -40,6 +47,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-10-25 | [万能的推友们，有没有安卓手机同步苹果相册](https://versun.me/blog/tweet-2114318449128415320) | 万能的推友们，有没有安卓手机同步苹果相册的应用或方案呀😅 |
 | 2026-10-25 | [Quetoo updated](https://macsourceports.com/game/quetoo) | The build of Quetoo has been updated to version v1.0.134 of the project |
 | 2026-10-25 | [Total Annihilation updated](https://macsourceports.com/game/totalannihilation) | The build of Open Annihilation for Total Annihilation has been updated to version v0.8.6 of the project |
+| 2026-10-25 | [OpenShell supervisor 源码解剖：一个不信任任何人的进程](https://atbug.com/openshell-supervisor-internals-trust-nothing/) | TL;DR 读 OpenShell v0.1.5 源码：supervisor 如何用一张“不信任清单”撑起沙箱的全部安全边界，每条不信任都有 文件：行号 为证。 引言：教程里那些“魔法”的出处 上一篇 OpenShell 教程 留了一堆“它就是能做到”的现象：沙箱里 DNS 永远“解析成功”，拿到却… |
 | 2026-10-25 | [今年我在外面买咖啡，只花了21.90刀](https://www.ozexplorers.com/%E6%BE%B3%E6%B4%B2%E7%94%9F%E6%B4%BB/2026/10/25/why-i-rarely-buy-coffee-outside.html) | 今天，我翻了翻记账软件，无意间发现今年至今我只有四次在外面买咖啡的记录，一共花了21.90刀。而去年是265刀，前年是249刀。 我还是一个高度依赖咖啡的打工人，并没有戒咖啡。不过，公司有咖啡机，家里有胶囊机，每天都喝上一到两杯，只是很少再往咖啡店跑了。 前两年的数字相差不大，到了今年突然掉到只剩零… |
 | 2026-10-25 | [终结竞争：从护城河到商业终局的实战指南](https://www.meettea.com/business-moat-endgame.html) | 从护城河到商业终局的实战指南：彼得·蒂尔框架 + AI 时代的商业重构 |
 | 2026-10-25 | [独立开发者的英国公司报税（2026）](https://www.meettea.com/uk-company-tax-2026.html) | 给独立开发者与小微企业的英国公司报税实战指南：CT600、年度账目、Dormant 零申报，从流水归类到提交全流程。 |
@@ -48,6 +56,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-10-25 | [Vol.123 当智能体产出快于人：注意力瓶颈、可验证交付与成本边界如何重塑人机协作](https://liduos.com/weekly/the-weekly-gradient-123) | 本期内容聚焦智能体产出快于人后的注意力瓶颈，讨论数字员工接管协作、可验证交付与评估门槛，拆解多智能体架构与推理成本，并强调人仍需定义问题与标准。 |
 | 2026-10-25 | [2026 年大模型这一年：时间线、关键事件与几点洞察](http://tubaozi.top/posts/2026/2026-llms-timeline/) | 基于 Simon Willison 的演讲《2026 in LLMs (so far)》整理：从 2025 年 11 月的拐点到 9 月的 GPT-6，按月梳理模型、Agent、安全事件，再谈几点我的理解。 |
 | 2026-10-25 | [都胡说八道了还又臭又长](https://www.hecaitou.com/2026/10/All-Filler-No-Fact.html) | 近两个月以来，我个人在阅读习惯上有了很大的改变，现在我已经不再读网上的文章。理由很简单，打开十次，里面有九次都是 AI 创作。 本来我对 AI 创作文章的态度很开放，觉得既然有了一种新工具，那么就要迎接人们广泛运用新工具的新时代。然而实践起来完全是另外一回事，请允许我稍微刻薄一点：有些人，不对，有很… |
+| 2026-10-25 | [OpenShell 实测：给 Coding Agent 一条看得见的边界](https://atbug.com/openshell-coding-agent-sandbox-pitfalls/) | TL;DR 在 M1 Mac 上把 OpenShell 从装到跑通第一个受控 Coding Agent 的完整路径，四个真实的坑各有根因和修法。 为什么 Agent 需要沙箱 Agent 越有用，越危险——这不是修辞，是结构性的。 OpenShell 文档里有一句立意，说得比大多数安全宣传都直白：… |
 | 2026-10-25 | [≡ 018｜理性选择的幸福还幸福吗？](https://mobius.blog/25980.html) | 先回顾一下这周的莫比乌斯。 之前在完成“创作者”与“读者”之间的天然矛盾之后，留下了一个有关“权力”的话题，即 […] |
 | 2026-10-25 | [Plants vs. Zombies updated](https://macsourceports.com/game/pvz) | The build of PvZ Portable for Plants vs. Zombies has been updated to version 0.2.6 of the project |
 | 2026-10-25 | [Weekly Issue-《功夫女足》](https://zdyxry.github.io/2026/10/25/Weekly-Issue-Kung-Fu-Soccer/) | 文章 技术 PingCAP TiDB Cloud Leaks Security Update – October 2026 Security Incident Report: Unauthorized Access to PingCAP Cloud Resources 不正アクセスによる情報漏洩に関… |

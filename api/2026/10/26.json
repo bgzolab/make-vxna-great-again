@@ -1,5 +1,54 @@
 [
   {
+    "title": "演讲视频：Do you want to be a SRE?",
+    "url": "https://www.kawabangga.com/posts/7443",
+    "date": "2026-10-26T08:09:23Z",
+    "description": "上周在 NUS 做了一个分享，内容是 SRE 的工作内容和成长路线。下面是录制的视频。 涉及的数据和 inci […] Continue reading... 相关文章: SRE&Devops 每周分享 Issue #1 Opening SRE&Devops 每周分享 Issue #4 AWS Layer",
+    "source_root_domain": "kawabangga.com"
+  },
+  {
+    "title": "GreenCloud绿云13周年促销活动",
+    "url": "https://www.cheshirex.com/11523.html",
+    "date": "2026-10-26T06:52:29Z",
+    "description": "重要通知：今年没有黑色星期五促销活动 我们希望尽早向大家完全公开透明，以免有人等待：GreenCloud 今年 […]",
+    "source_root_domain": "cheshirex.com"
+  },
+  {
+    "title": "2026.10.25",
+    "url": "https://www.justzht.com/2026-10-25/",
+    "date": "2026-10-26T06:07:07Z",
+    "description": "Epoch 现在通过一个 Playdate API 兼容层可以原生运行在 Mac 和一些其他平台上了。主要开发重心还是在 Playdate 上（毕竟其他平台的性",
+    "source_root_domain": "justzht.com"
+  },
+  {
+    "title": "声势浩大的知识产权盗窃",
+    "url": "https://www.geedea.pro/article/the-great-theft/",
+    "date": "2026-10-26T05:41:18Z",
+    "description": "之所以说「声势浩大」，是因为我成语储备不够，找不到「不要脸」的文雅说法。 蛛丝马迹 这几天我停用了 NetCup 的一台机子，换到了 SKRIME，装了 OpenBSD 系统愉快地玩了起来。结果，正好赶上 eMudhra 根证书密钥泄露 1 和 PHP2Shell 漏洞，于是赶紧在几台机器上更新 ca-certificates ，手动移除泄露的根证书。 然后我在其中一台机器上执行了 htop 。 “奇怪，我 VPS 上跑的服务 CPU 占用都应该很低才对，为什么现在涨到 60% 了？”当时的我光顾着四处更新证书和排查漏洞，便没有细想。再后来，我给那台新机子装上了 beszel-agent 配置监控和告警，瞟了一眼那台怪怪的机器——“我去，负载怎么红了？”从监控页面上来看，CPU 占用最高的容器是我的 Forgejo 实例。怪了，就算是我在编译软件， 那 CPU 早该爆满了 也应该是 Forgejo Runner 容器占用高才对。 前几天我的 Continuwuity 实例突然暴毙，数据库也挂了，还得运行紧急修复，当时发现磁盘已经写满了。当时以为是 Akkoma 数据库没清理，毕竟我联邦",
+    "source_root_domain": "geedea.pro"
+  },
+  {
+    "title": "自己修脚",
+    "url": "https://www.hecaitou.com/2026/10/The-Art-of-the-DIY-Pedicure.html",
+    "date": "2026-10-26T05:09:47Z",
+    "description": "说起来很奇怪，我本身很少出门，也很少运动，但是脚底的老茧却会自顾自疯长，感觉是我的脚陷入了某种终日远足的狂野幻想之中。 两周前，我把除湿机收起来，换上加湿机开始过冬天。就在当晚，我的脚后跟就自动皲裂，效果堪比金刚石砂纸。睡觉翻身的时候，稍微交叉一下小腿，脚后跟只是轻轻蹭了一下，能把我从梦中直接惊醒，感觉自己刚刚被大型捕食者舔了。 之前我都是去一家专业修脚店定期维护双脚，那里的每一位师傅都很喜欢我，因为有成就感。每次我斜倚在沙发上陷入半梦半醒之间，只要听到师傅一声满意的长叹，我就知道他马上要推我的脚，一定要让我起身看一眼，那一堆他削下来的成果。 现在那家店距离我变远了，我又懒得出门，于是就动了自己动手的念头。人就是这样的，看别人做事看得多了，就会很自然地认为「我会了」。不过我个人有个优点，那就是有自知之明，并不认为自己会了就真的能用师傅他们的那套工具。我还有个优点，那就是会上网买工具。 事情本身应该不复杂，我用不了纯手动的工具，难道我还用不了纯电动的工具？按照传统，我输入了「修脚神器」四个字，找寻时下最流行的电动工具。果然有，66 元就买了一整套电动磨脚器回来，而且还带着三个不同的磨头，",
+    "source_root_domain": "hecaitou.com"
+  },
+  {
+    "title": "AI时代如何看漫画",
+    "url": "https://www.nodealpha.me/Software-ai-manga.html",
+    "date": "2026-10-26T04:46:17Z",
+    "description": "在大AI时代，由于ChatGPT的加持，我的看漫画流程进一步进化了，主要分为 3 条路线： 下载漫画，走Komga加Koharia 在线漫画，走Suwayomi加Tsumiru 日文原版，走Saber-Translator自动翻译后接入2中的Suwayomi 下载漫画 以前的话，我是漫画下载、Komga 入库后在 Mihon 里边看。但痛点是Mihon的记录",
+    "source_root_domain": "nodealpha.me"
+  },
+  {
+    "title": "自用 ChatGPT/Codex 防御性编程/说话修正/PowerShell调用问题修正提示词分享",
+    "url": "https://kenvix.com/post/codex-prompt/",
+    "date": "2026-10-26T04:25:50Z",
+    "description": "受不了弱智的 ChatGPT/Codex 了，分享一些自用的提示词，主要用于防御性编程、说话修正、PowerShell调用问题修正等。 本文长期更新。上次更新时间：2026-10-26 12:25:50 另外致敬传奇暗改王 Tibo ，Codex 现在真实5小时额度和周额度的 Token 量有没有 Claude 的 1/5 都难说，6.1 Sol 降智到快和 Haiku 坐一桌了。",
+    "source_root_domain": "kenvix.com"
+  },
+  {
     "title": "野人编年史",
     "url": "http://imlane.zhanglintc.co/ye-ren-bian-nian-shi",
     "date": "2026-10-26T02:43:20Z",
@@ -91,6 +140,13 @@
     "source_root_domain": "macsourceports.com"
   },
   {
+    "title": "OpenShell supervisor 源码解剖：一个不信任任何人的进程",
+    "url": "https://atbug.com/openshell-supervisor-internals-trust-nothing/",
+    "date": "2026-10-25T11:00:00Z",
+    "description": "TL;DR 读 OpenShell v0.1.5 源码：supervisor 如何用一张“不信任清单”撑起沙箱的全部安全边界，每条不信任都有 文件：行号 为证。 引言：教程里那些“魔法”的出处 上一篇 OpenShell 教程 留了一堆“它就是能做到”的现象：沙箱里 DNS 永远“解析成功”，拿到却是 198.18 开头的假地址；越界的 POST 收到一个带规则名、带发起程序真身路径的 JSON 403；gateway 一重启，所有沙箱的 workload 整齐地死于同一条 SIGTERM 报错。教程解释了它们“是什么”，没解释“凭什么”。 这些现象背后是同一个进程：supervisor。它跑在沙箱边界之外的可信侧，Agent 的每一次 DNS 查询、每一条 TCP 连接、每一个 HTTP 请求、每一份凭证，都要经过它的手。官方架构文档给了它一句定位——“checks requests against policy, supplies credentials, resolves DNS, opens approved connections”——但读完文档你依然不知道它为什么敢说自己安",
+    "source_root_domain": "atbug.com"
+  },
+  {
     "title": "今年我在外面买咖啡，只花了21.90刀",
     "url": "https://www.ozexplorers.com/%E6%BE%B3%E6%B4%B2%E7%94%9F%E6%B4%BB/2026/10/25/why-i-rarely-buy-coffee-outside.html",
     "date": "2026-10-25T11:00:00Z",
@@ -145,6 +201,13 @@
     "date": "2026-10-25T05:03:26Z",
     "description": "近两个月以来，我个人在阅读习惯上有了很大的改变，现在我已经不再读网上的文章。理由很简单，打开十次，里面有九次都是 AI 创作。 本来我对 AI 创作文章的态度很开放，觉得既然有了一种新工具，那么就要迎接人们广泛运用新工具的新时代。然而实践起来完全是另外一回事，请允许我稍微刻薄一点：有些人，不对，有很多人其实不应该写文章的。之前他们写不出来，世界还算是清净。如今在 AI 的帮助下，他们可以随手完成各种长篇大论，而且迅速充斥网络世界，这简直就是一种人道灾难。 关于写作有一个简单事实：首先是自己脑子里得有想法，其次是这些想法经过了思考，最后才是用什么手法表现的问题。AI 创作的问题恰恰在于很多人根本没想法，但是 AI 却把这种毫无想法包装出一篇似模似样的文章来。 这还不是最糟糕的，AI 拥有学习能力，从很多营销文章那里学来了骗取人类注意力的手法，很容易就能用头几段把人骗进来。等再读几段醒过味来，发现这是 AI 创作，强力开头之后其实并没有真正的内容支撑，就会让我觉得很挫败，也很恶心。 如果是一天里偶然几次也就罢了，而现实是各家算法很青睐这种文章，会主动推荐，就导致我从早到晚随时随地会遇见，点",
     "source_root_domain": "hecaitou.com"
+  },
+  {
+    "title": "OpenShell 实测：给 Coding Agent 一条看得见的边界",
+    "url": "https://atbug.com/openshell-coding-agent-sandbox-pitfalls/",
+    "date": "2026-10-25T03:00:00Z",
+    "description": "TL;DR 在 M1 Mac 上把 OpenShell 从装到跑通第一个受控 Coding Agent 的完整路径，四个真实的坑各有根因和修法。 为什么 Agent 需要沙箱 Agent 越有用，越危险——这不是修辞，是结构性的。 OpenShell 文档里有一句立意，说得比大多数安全宣传都直白： AI agents are most useful when they can read files, install packages, call APIs, and use credentials. That same access can create material risk. Agent 要能干活，就得能读文件、装依赖、调 API、用凭证；而这四样东西，恰好就是攻击者想要的四样。翻译过来是一个能力悖论： 有用的访问和危险的访问是同一批访问 ，你没法只给前者不给后者——除非有一层策略在中间做区分。",
+    "source_root_domain": "atbug.com"
   },
   {
     "title": "≡ 018｜理性选择的幸福还幸福吗？",
@@ -320,6 +383,13 @@
     "date": "2026-10-24T01:00:00Z",
     "description": "从理解 AI 的变化、重新提出问题，到减少记录的负担，以及给朋友留一张餐桌。",
     "source_root_domain": "linggandianbo.com"
+  },
+  {
+    "title": "观雪山赏彩林 川西理小路自驾游",
+    "url": "https://krya.com/post/lixiaolu/",
+    "date": "2026-10-24T01:00:00Z",
+    "description": "这个月因为工作出现断档，无事可做。看到川西的彩林非常漂亮，于是一个人从成都出发自驾穿越理小路，当天往返。路线是顺时针方向，从成都至小金，再到理县后返回成都，全程500多公里；高原山路崎岖，车道狭窄；平均时速只有50~60公里，开车就得花8个小时左右；中间的游玩时间稍微局促。 一个人旅游，自由自在，随心所欲。收费的景区一概不进，饿了就在路边停车，露营烧火，煮点面泡点茶。除了大约100块钱过路费和200多块钱油费，没有一厘额外的开销。 如果是长续航纯电车，家充电价0.28元/度，能源费用可能更低。因为只要跑到中途的最高点，海拔3900米的理小隧道，剩下的240公里路程，最多20度电就能跑回成都；来自大自然的馈赠，电越开越多。 废话不多说了，直接上图吧。 巴朗山。这里是第一个高点；很多年前翻越巴朗山的时候，还没有隧道，只能走巴朗山垭口，海拔约4500米；路两边都是雪，寒风呼啸，非常的冷。现在有了隧道，方便多了。 大二普。看彩林的好地方，拍照很出片。 路边不知名小湖泊 理小隧道口 红石滩。开始我以为石头是因为含铁量高所以呈现红色；后来得知是因为一种只在高原生长的藻类附着在石头上，它的外层虾青素",
+    "source_root_domain": "krya.com"
   },
   {
     "title": "Memos #2026-10-23",
