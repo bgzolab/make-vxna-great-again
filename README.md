@@ -27,22 +27,30 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-10-26 | [野人编年史](http://imlane.zhanglintc.co/ye-ren-bian-nian-shi) | 野人编年史 野人创始人 徐队 ，群昵称Shogun。姓徐，称徐队，真野人队长，野人 抖音官号 持有者。 张队 ，群昵称张小不。江湖人称竹节虫，简称虫队。 熊队 ，群昵称熊嘎婆，称熊队。 野人CLUB游泳事业部 群主。 亮队 ，群昵称亮什么，称亮队，野人 小红书官号 持有者。 野人成员 野人群像 野人… |
+| 2026-10-26 | [第两百万字](https://mobius.blog/25986.html) | 想着今年博客起码得完成第两百万字，这个目标算是达成了。 好在到现在，已经没有人再私信问我“为什么要写这么多”。 […] |
+| 2026-10-26 | [Insaniquarium updated](https://macsourceports.com/game/insaniquarium) | The build of Insaniquarium Portable for Insaniquarium has been updated to version 0.7 of the project |
+| 2026-10-26 | [Memos #2026-10-25](https://blog.itaober.com/memos/memo_20261025095911_yayztl) | 18:06 耍了一天 Codex，小小感慨一下。 只有开发公司项目的时候，才在产出价值（也不好说）。而自己搞些乱七八糟的，只是沉浸在「我在创造」所带来的装模作样的满足感。 emm，情绪价值也是价值吧！ |
+| 2026-10-25 | [opencode go 套餐的 ds 限](https://versun.me/blog/tweet-2114498737032880374) | opencode go 套餐的 ds 限流也太频繁了吧，动不动429😆 下个月试一试 command 的套餐看看，再不行就上 ollama |
 | 2026-10-25 | [从 AI Passport，看一种 AI 变现的思路](https://depp.wang/2026/ai-passport/) | 前阵子在网上了解到一个 AI 小玩具，叫 AI 通行证（AI Passport），最近在京东上买了一个。 长这样： 它有一块小屏幕、麦克风、扬声器和实体按键。除了安装别人做好的玩法，也可以让 AI 帮自己写些小软件，装进去玩。 用下来，我觉得 FoloToy 对这个产品的设计和玩法挺有先见之明的。现… |
 | 2026-10-25 | [稳定的世界正在崩解](https://blog.oospace.com/posts/2026-10-25/) | 越来越没有耐心了，无论是个人，还是国家 |
 | 2026-10-25 | [「做个人」](https://blog.solazy.me/20261025/) | 今天这个选题是压了好一阵子的了，最近思考的很完备，索性写出来 |
 | 2026-10-25 | [秋天来了，让人想起1873年](https://cufezhusy.github.io/issue-28/) | 进入十月份，哥本哈根开始真正进入秋天，家附近的公园也渐渐变得金黄。 下周打算开始研究研究 always-on agent。 周末在家的时候，读完了 Liaquat Ahamed 的这本 1873: The First Great Depression and the Making of the Mo… |
 | 2026-10-25 | [劳逸结合](https://www.lazydaily.cn/2026/10/25/cd172639-0d6d-4e1e-a145-55e89ffdbd6a/) | 这篇周记记录 2026-10-18 至 2026-10-25。 刚写了一篇长达三个月的月记。这篇周记简单总结最近一周。 紧接上篇月记。 正如上篇月记中所写，我给自己定下 |
+| 2026-10-25 | [万能的推友们，有没有安卓手机同步苹果相册](https://versun.me/blog/tweet-2114318449128415320) | 万能的推友们，有没有安卓手机同步苹果相册的应用或方案呀😅 |
 | 2026-10-25 | [Quetoo updated](https://macsourceports.com/game/quetoo) | The build of Quetoo has been updated to version v1.0.134 of the project |
 | 2026-10-25 | [Total Annihilation updated](https://macsourceports.com/game/totalannihilation) | The build of Open Annihilation for Total Annihilation has been updated to version v0.8.6 of the project |
 | 2026-10-25 | [今年我在外面买咖啡，只花了21.90刀](https://www.ozexplorers.com/%E6%BE%B3%E6%B4%B2%E7%94%9F%E6%B4%BB/2026/10/25/why-i-rarely-buy-coffee-outside.html) | 今天，我翻了翻记账软件，无意间发现今年至今我只有四次在外面买咖啡的记录，一共花了21.90刀。而去年是265刀，前年是249刀。 我还是一个高度依赖咖啡的打工人，并没有戒咖啡。不过，公司有咖啡机，家里有胶囊机，每天都喝上一到两杯，只是很少再往咖啡店跑了。 前两年的数字相差不大，到了今年突然掉到只剩零… |
 | 2026-10-25 | [终结竞争：从护城河到商业终局的实战指南](https://www.meettea.com/business-moat-endgame.html) | 从护城河到商业终局的实战指南：彼得·蒂尔框架 + AI 时代的商业重构 |
 | 2026-10-25 | [独立开发者的英国公司报税（2026）](https://www.meettea.com/uk-company-tax-2026.html) | 给独立开发者与小微企业的英国公司报税实战指南：CT600、年度账目、Dormant 零申报，从流水归类到提交全流程。 |
 | 2026-10-25 | [AI 时代，终于可以把那些不靠谱的想法也实现了](https://cufezhusy.github.io/issue-27/) | 最近跟世界上很多人一样，倒腾了不少 AI 相关的事情。 像我上一篇帖子里讲的，我感觉 AI 解放了很多像我这样的人。工作上、生活上，其实一直有很多想法，但精力已经不像二十多岁的时候那么好了，不可能总是坐在电脑前琢磨这些东西。AI 来了真是太好了，就像突然有了一堆不知疲倦的程序员，帮我实现那些靠谱或者… |
+| 2026-10-25 | [软考中项终于考完了，不知道能不能过，有点](https://versun.me/blog/tweet-2114269496672436334) | 软考中项终于考完了，不知道能不能过，有点忐忑，这几个月备考实在太累了😄😭 |
 | 2026-10-25 | [Vol.123 当智能体产出快于人：注意力瓶颈、可验证交付与成本边界如何重塑人机协作](https://liduos.com/weekly/the-weekly-gradient-123) | 本期内容聚焦智能体产出快于人后的注意力瓶颈，讨论数字员工接管协作、可验证交付与评估门槛，拆解多智能体架构与推理成本，并强调人仍需定义问题与标准。 |
 | 2026-10-25 | [2026 年大模型这一年：时间线、关键事件与几点洞察](http://tubaozi.top/posts/2026/2026-llms-timeline/) | 基于 Simon Willison 的演讲《2026 in LLMs (so far)》整理：从 2025 年 11 月的拐点到 9 月的 GPT-6，按月梳理模型、Agent、安全事件，再谈几点我的理解。 |
 | 2026-10-25 | [都胡说八道了还又臭又长](https://www.hecaitou.com/2026/10/All-Filler-No-Fact.html) | 近两个月以来，我个人在阅读习惯上有了很大的改变，现在我已经不再读网上的文章。理由很简单，打开十次，里面有九次都是 AI 创作。 本来我对 AI 创作文章的态度很开放，觉得既然有了一种新工具，那么就要迎接人们广泛运用新工具的新时代。然而实践起来完全是另外一回事，请允许我稍微刻薄一点：有些人，不对，有很… |
 | 2026-10-25 | [≡ 018｜理性选择的幸福还幸福吗？](https://mobius.blog/25980.html) | 先回顾一下这周的莫比乌斯。 之前在完成“创作者”与“读者”之间的天然矛盾之后，留下了一个有关“权力”的话题，即 […] |
 | 2026-10-25 | [Plants vs. Zombies updated](https://macsourceports.com/game/pvz) | The build of PvZ Portable for Plants vs. Zombies has been updated to version 0.2.6 of the project |
+| 2026-10-25 | [Weekly Issue-《功夫女足》](https://zdyxry.github.io/2026/10/25/Weekly-Issue-Kung-Fu-Soccer/) | 文章 技术 PingCAP TiDB Cloud Leaks Security Update – October 2026 Security Incident Report: Unauthorized Access to PingCAP Cloud Resources 不正アクセスによる情報漏洩に関… |
 | 2026-10-25 | [放弃客户端控制权：从不可信客户端到服务端重构](https://corvo.myseu.cn/2026/10/25/2026-10-25-%E6%94%BE%E5%BC%83%E5%AE%A2%E6%88%B7%E7%AB%AF%E6%8E%A7%E5%88%B6%E6%9D%83/) | 把商业规则写进客户端再靠加密加壳去守，在 AI 时代已经走不通了。这篇长文分四部分：为什么本地代码永远不可信；代码商品化之后护城河去了哪里；形式合规为什么会失效；以及软件该怎么改造成零信任客户端加持续交付。 |
 | 2026-10-25 | [Agent 产品内「专家头像」生成实战记录](https://lrd.im/blog/2026-10-25) | 集团的 Agent 工具允许用户自己创建专家（智能体），而每一个专家都需要有一个头像。此时我想到了可以在流程内接入 AI 生图的能力。 |
 | 2026-10-25 | [2026年第43周](https://blog.sakoamc.com/posts/2643/) | 题记：二零二六年第四十三周，忙与闲的转换只在一瞬间，前一秒还准备晒个太阳散散步，下一秒就被突如其来的事情打回原形。 |
@@ -59,7 +67,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-10-24 | [遍历「所有」旋律](https://www.yvesx.com/archives/introducting-hertz-cloud) | 智慧生命的精华与本质，真的是技术所无法触及的吗？在刘慈欣的科幻小说《诗云》中，神级文明为了终结人类的艺术，穷举汉字的排列组合，写出了一切过去、现在和未来的诗歌。当我们讨论音乐创作，也经常有人提及... |
 | 2026-10-24 | [Saily eSIM 指南：出境流量、美国号码与优惠码](https://gugegt.com/20261024-saily-esim.html) | 出境旅行，落地能不能马上联网，决定了头半天顺不顺。Saily 的做法是出发前在 App 里买好流量套餐，落地自动联网，不用换卡，不用租 WiFi 盒子，回国也不用对着漫游账单心疼。Saily 是 Nord Security 旗下的公司，NordVPN、NordPass 都是它家的。 |
 | 2026-10-24 | [Lemmings updated](https://macsourceports.com/game/lemmings) | The build of Ultimate Lemmings for Lemmings has been updated to version v2.2.2 of the project |
-| 2026-10-24 | [Insaniquarium updated](https://macsourceports.com/game/insaniquarium) | The build of Insaniquarium Portable for Insaniquarium has been updated to version 0.6 of the project |
 | 2026-10-24 | [Memos: 主厨是餐饮的核心](https://blog.yasking.org/a/1792814826) | 周五同事请客去吃了一家东北菜，这家老店味道一直不错，在大众点评上已收录13年。早两年第一次去他家吃的炒腔骨，口感 … |
 | 2026-10-24 | [这回我承认AI确实有用](https://www.hecaitou.com/2026/10/why-i-finally-admit-that-ai-is-genuinely-usef.html) | 看过那么多人设计了那么多种 AI 的用法，我终于见到一个大众真正需要，真正解决生活问题的 AI 产品：CleanYourTV。 它解决了一件大部分人每天见，每天烦，但是一直没办法的问题，那就是把你家的智能电视恢复到最朴素的样子，去掉各种电视机自带的广告，各种弹窗，各种各样的后台程序。 不需要用家有任… |
 | 2026-10-24 | [油管｜4k视频和POV视角](https://dsx2016.com/youtube-4k-videos-and-pov-perspective/) | pov视角 就是第一人称视角，一般是运动相机或者ai眼镜，或者是手持手机但是不拍自己，而是拍摄前方，自然的视频... 油管｜4k视频和POV视角 最先出现在 大师兄2016 。 |
@@ -79,7 +86,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-10-23 | [293、霜降](https://1900.live/293-shuang-jiang/) | null 露气凝白，秋意渐深，天地在清肃与收藏之间，缓缓合拢一卷斑斓的长轴。 太阳行至黄经210°，霜降——秋之第六序，亦是深秋的终章。 霜降始霜，草木辞青。豺乃祭兽，将猎得的禽兽陈列如祭，天地以肃杀为序；草木黄落，枝头的叶片在风中旋舞，告别最后一抹丰茂；蛰虫咸俯，虫豸蜷伏土中，收声敛息，等待漫长的… |
 | 2026-10-23 | [免费替代 CleanMyMac：Mole CLI 在 Mac Mini 上的完整使用指南](https://www.evan.xin/5129/) | Mole（tw93/mole）是一个开源的 macOS 系统清理优化工具，功能对标 CleanMyMac、Ap […] |
 | 2026-10-23 | [青甘行·中｜河西走廊，千年敦煌](https://hux.ink/posts/qinggan-trip-03/) | 接 上篇｜祁连山色，张掖丹霞 ，本篇记录 9 月 29 日至 10 月 1 日的三日见闻：从酒泉出发，途经嘉峪关、瓜州，一路向西抵达敦煌，在这里停留了两天。 9 月 29 日｜一个人的嘉峪关，以及漫长的敦煌之路 原本今天只安排了金塔胡杨林，之后便继续前往敦煌。不过前一天晚上查地图时，我发现嘉峪关距离… |
-| 2026-10-23 | [野人编年史](http://imlane.zhanglintc.co/ye-ren-bian-nian-shi) | 野人编年史 野人创始人 徐队 ，群昵称Shogun。姓徐，称徐队，真野人队长，野人 抖音官号 持有者。 张队 ，群昵称张小不。江湖人称竹节虫，简称虫队。 熊队 ，群昵称熊嘎婆，称熊队。 野人CLUB游泳事业部 群主。 亮队 ，群昵称亮什么，称亮队，野人 小红书官号 持有者。 野人声明 从 泳往直前… |
 | 2026-10-23 | [为什么有人不怕把事做砸](https://blog.solazy.me/20261023/) | 今天想接着昨天讲得继续来聊…… |
 | 2026-10-23 | [移除了 webmention 功能](https://kaix.in/2026/1023/) | 开始关注 webmention 协议至少是在 2019 年以前了，2021 年我用 go 语言 写了个小工具 来实现它，大概也算是第一批运用这个协议的中文博客站点。不过几个月前我彻底移除了这个功能。 个中缘由有点复杂，隐私原因算是其中最容易想到也最古怪的部分。这就顺便要提到 fediverse 或者… |
 | 2026-10-23 | [心里有光](https://www.hecaitou.com/2026/10/The-Light-Within.html) | 昨天我在回答读者什么是「心里有光」时，写了这样一段话： 「心里本来就有光，甚至可以说光明就是心的本体。要有光的意思，不是找寻来光，也不是擦拭出光，而是不被遮蔽，让它自然放光。」 这里我用到了「不是...而是...」句型，估计被系统判断为 AI 自动回复的垃圾留言，结果被阻拦了好一阵。我于是有些担心，… |
@@ -154,24 +160,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-10-19 | [告假](https://mobius.blog/25944.html) | 以前听过一个有些悲伤的笑话——甚至有点过时。 一个专栏作家突然想休息，就在自己每周固定栏目的内容里，写了一篇“ […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 | 2026-10-19 | [ES集群分片打满导致Red与日志链路中断排障](https://199604.com/3727) | ES集群分片打满导致Red与日志链路中断排障 记录时间：2026-10-17（2026-10-19 更新 4. […] |
 | 2026-10-19 | [话语权与主体叙事权](https://blog.oospace.com/posts/2026-10-19/) | 话语权决定能被听到的权利，叙事权决定叙事主题 |
-| 2026-10-18 | [在大A能做全天候吗？10年真实回报大曝光](https://corvo.myseu.cn/2026/10/18/2026-10-18-%E5%9C%A8%E5%A4%A7A%E8%83%BD%E5%81%9A%E5%85%A8%E5%A4%A9%E5%80%99%E5%90%97-10%E5%B9%B4%E7%9C%9F%E5%AE%9E%E5%9B%9E%E6%8A%A5%E5%A4%A7%E6%9B%9D%E5%85%89/) | 用2016年1月至2026年9月的A股场内ETF映射样本，对比固收加、全天候与全球成长组合的收益、回撤和持有体验。 |
-| 2026-10-18 | [AI 早报 2026-10-19：10.19总结；美国公开 DeepSeek 联邦民用机构排除令，原命令发布于7月24日](https://www.jtxyh.com/daily/2026-10-19/) | 2026-10-19 AI 早报，共 14 条动态。本期关注AI落地所需的资金、数据和合规条件。10月19日公开的美国《联邦公报》文件附有国土安全部第2026-01号排除和移除令，原始发布日期为7月24日，公告定于10月20日刊登。Motive 10月19日推出 Agents，现已向客户提供。 |
-| 2026-10-18 | [周记 – Oct 18](https://zhangke.space/%e5%91%a8%e8%ae%b0-oct-18/?utm_source=rss&utm_medium=rss&utm_campaign=%25e5%2591%25a8%25e8%25ae%25b0-oct-18) | 本周去了两次健身房，骑车上班一次，爬楼梯一次，运动量应该是够了。可惜健身房淋浴间装修到月底，最近没办法骑车上班 […] The post 周记 – Oct 18 first appeared on 张可的博客 . |
-| 2026-10-18 | [周末流水账 1018](https://blog.solazy.me/20261018/) | 今天是一个久违的放松周日 |
-| 2026-10-18 | [Toots 441 2026 Oct.11 - Oct.17](https://z.arlmy.me/posts/MastodonArchives/2026/MastodonTootsArchives_20261017/) | 「蔑视你的思想吧。」 |
-| 2026-10-18 | [最近惦念 20261002](https://z.arlmy.me/posts/TILs/thoughts/20261002_Recently/) | 「人类概念达咩。」 |
-| 2026-10-18 | [我的 knowledge mem 从 0](https://versun.me/blog/tweet-2111816758743154972) | 我的 knowledge mem 从 0.10.103 一路回滚到了 0.10.99 才没出问题。。。。 不升级了，我还是等11月重构后的全新版本吧😂 |
-| 2026-10-18 | [油管｜短视频和长视频的对比](https://dsx2016.com/comparing-youtube-short-form-and-long-form-videos/) | 短视频 越是尝试剪辑视频之类的工作，越是觉得应该优先短视频 短视频从前期的拍摄到后期的剪辑，以及上传的网络带宽... 油管｜短视频和长视频的对比 最先出现在 大师兄2016 。 |
-| 2026-10-18 | [emacs-保存ediff结果为带字符级高亮的src-block](https://blog.prayhand13013.top/20261018T185247--emacs-保存ediff结果为带字符级高亮的src-block__blog.html) |  |
-| 2026-10-18 | [What’s next for the indie web?](https://www.geedea.pro/en/article/weepinbell/) | I have been blogging in English for some time, but this is my first time participating in an indie web conversation. So I think I should introduce mys… |
-| 2026-10-18 | [第十届网络社会年会（新加坡场）｜Dylan Reibling：将临的网络？电影制作、Web3与网络化社会的未来](https://caa-ins.org/archives/13481) | 文 / 迪伦·雷比林（Dylan Reibling）翻译 / 井俱进校对 / 叶云鹤 感谢温教授的精彩演讲。接下来换我发言，恐怕就没那么有深度了。 这实际上是我的第二次 PowerPoint 演示。第一次是在上海。所以如果现在看起来有些粗糙，你们就知道原因了。不过，非常感谢你们邀请我来这里。 我在上… |
-| 2026-10-18 | [箱根之旅](https://www.wikimoe.com/post/b-tn3backb) | 2026年10月11日到12日，天气晴，今天我们去箱根！ 在群里的小伙伴们可能已经知道了。 我最近交往了对象。 这次的箱根之旅就是她在得知我居然还没去过箱根后，制定的旅游计划。 真的非常感谢呢！ 小田急 山之酒店 小田急山之酒店坐落于日本箱根芦之湖畔，前身为三菱岩崎家族的私人别墅，是一家历史悠久、充… |
-| 2026-10-18 | [Coffee Break Clojure, Transducer](https://www.geedea.pro/article/clj8/) | 在第三期《 只用圆括号怎么够？ 》里，我讲到了 reduce 。 先来简单复习一下： reduce 最少接收两个参数，形如 (reduce f coll) ，其中 f 是接收两个参数的函数，形如 (f x y) ； reduce 遍历 coll 中的每个元素，先对前两个元素求 (f a1 a2) ，… |
-| 2026-10-18 | [Tutti 这次改版好彻底啊，一时还接受](https://versun.me/blog/tweet-2111654409495097610) | Tutti 这次改版好彻底啊，一时还接受不了，变化太大了 不过探索了几分钟，感觉比 v1 条理更清晰了，整体界面更像一个工作台。 有几个改动我很喜欢： - 创作单独出来了，之前写稿要点进去每个活动，太麻烦了，这下独立出来，统一在一个地方写 - 添加了群聊功能，之前每次对活动有问题都没地方问，这下有群… |
-| 2026-10-18 | [梳理下我目前的订阅 1. Antigra](https://versun.me/blog/tweet-2111638445294772704) | 梳理下我目前的订阅 1. Antigravity 是咸鱼7块一年的 Pro，主要用 gemini 3.8 flash 2. Claude 官方订阅的 Pro，apple store月付 3. Devin 也是官方订阅的 Pro，月付 接下来会取消 Devin 的订阅，准备使用 deepseek v4… |
-| 2026-10-18 | [≡ 017｜代价论与选择的自由](https://mobius.blog/25924.html) | 先回顾本周的莫比乌斯。 秀肌肉是最直观的对抗，但如果对方不接招，难免就会沦为秀肌肉的“泼妇”。有趣的不是谁输谁 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
-| 2026-10-18 | [刚看了 Will Larson 的新文章](https://versun.me/blog/tweet-2111609371885289876) | 刚看了 Will Larson 的新文章，讲 AI 时代 PR 爆炸的问题 他们的解法简单粗暴：少于 1000 行、AI review 机器人没报 p1/p2、作者在这个服务里合过 10 个以上 PR、不碰共享库和钱，满足条件就直接交给 AI 审查批准 重点是，这个 AI 只进行批准，不会拒绝或者评… |
-| 2026-10-18 | [2026年第41、42周](https://blog.sakoamc.com/posts/264142/) | 题记：二零二六年第四十一、四十二周，时间过得又快又慢。时间，更多的被分配到了什么地方呢？ |
 
 ## Vibe Coding
 
