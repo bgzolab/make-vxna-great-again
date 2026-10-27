@@ -27,12 +27,16 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-10-27 | [2026年Spaceship 优惠码](https://www.evan.xin/5133/) | 2026 年 10 月目前可用的 Spaceship 优惠码（域名为准，第三方网站整理的代码可能在个别地区失效 […] |
+| 2026-10-27 | [Memos #2026-10-26](https://blog.itaober.com/memos/memo_20261026151853_mlotcf) | 23:20 沐上树梢融入得很好，听感和谐。 本期最佳梗：粉都不是南宁，是墨西哥！ |
+| 2026-10-26 | [认知不易，循环反馈](https://usmacd.com/cn/knowledge_and_feedback/) | 前段时间看到一段话： 普通人通常在35岁至40岁才会明白社会运行的真相和逻辑，但这时的人们正好被钉在生活的十字架上无力挣扎。而上层阶级出生的人，在20几岁时就已经通透，而且还不用考虑过多的试错成本，因那是一种传承，用几代人的智慧浇灌出来的。人生最大的浪费不是金钱的浪费，而是时间的浪费，认知的迟到。… |
 | 2026-10-26 | [漫谈心底那份夜雨与深秋](https://blog.mfwt.top/index.php/archives/1679/) | 笔者一直有一个很想问自己的问题：为什么会选择『枫林灯语』这几个字作为站点名（甚至在正式建站前很久就已经存在了，所以至少不是一拍脑袋想出来的）。虽然在关于页里面，已经解释过会有『近乎于惆怅的宁静感... |
 | 2026-10-26 | [Everything is Harness： 从 Prompt Engineering 到 Context Engineering 再到 Harness Engineering](https://www.ixiqin.com/2026/10/26/harness-engineering/) | 在 Harness Engineering 这个概念逐渐流行甚至要过气之后，我终于理解了这个词背后的含义。作为 […] |
 | 2026-10-26 | [不及格](https://yipai.me/post/2555.html) | 下午语文老师在群里发消息，说听写声母，有 24 个同学全对，8个同学不合格。晚上回家天塌了，原来我儿子就是这 8 个人之中的一个。听写 21 个声母，他只写了 5 个。问题就是写的太慢，总想写成标准印刷体，说过很多次，优先完成，再考虑是否美观，毫无用处。其他作业也是类似，比如读拼音，错一个他就从头重… |
 | 2026-10-26 | [核合成](https://physnya.top/astro-physics/lesson-5-nuclear-synthesis/) | 核合成 超重核素一般在恒星中通过没有 Coulomb 势垒的中子俘获过程产生，分为慢中子俘获和快中子俘获两种过程，二者各自贡献了当今宇宙中超重核素的将近一半. 一个典型的中子俘获过程： 56 Fe + n → 57 Fe + n → 58 Fe + n → 59 Co + n → 60 Co → 6… |
 | 2026-10-26 | [超新星 & 中子星](https://physnya.top/compact-object/lesson-6-supernova-and-neutron-star/) | 在中国古代曾经观察到过好几次超新星的爆发事件. 中子星在观测上的最早确认是在 1960s，得益于射电望远镜的发达，发现脉冲星. 大质量恒星在生命晚期的结构类似洋葱，其不同元素形成不同层，而中心铁核只能通过电子简并压来维持，一旦中心到达 Chandrasekhar 极限就会进一步坍缩. 而下一个抵抗引… |
 | 2026-10-26 | [花 20 元，让实体卡手机也能用上 eSIM](https://depp.wang/2026/esim-euicc/) | 如果出国旅游想用 eSIM 流量套餐，但手机只有实体卡槽，可以试试小白卡。 它就是一张可以写入 eSIM 信息的实体卡，写好之后，像普通手机卡一样插进手机使用。小白卡和 9eSIM 这类实体卡，基本原理一样，都是把 eSIM 套餐装进卡里。卡本身不带流量，套餐需要另外购买。 拼多多搜索「eSIM 小… |
+| 2026-10-26 | [Kimi 开创历史，只重置25%，看来是](https://versun.me/blog/tweet-2114704741187850425) | Kimi.ai We're sorry for the rate limits and unnecessary quota consumption on the K3.1 Pro subscription plan. These were our issues, and we should have… |
 | 2026-10-26 | [Quetoo updated](https://macsourceports.com/game/quetoo) | The build of Quetoo has been updated to version v1.0.136 of the project |
 | 2026-10-26 | [Total Annihilation updated](https://macsourceports.com/game/totalannihilation) | The build of Open Annihilation for Total Annihilation has been updated to version v0.8.6.1 of the project |
 | 2026-10-26 | [尝试每周四晚上在上海举办 Tab 星期四线下聚会](https://www.owenyoung.com/tab) | 从 10 月 29 日开始，我和 海涛 每周四晚上会在上海 706 办一个小型聚会，叫 Tab 星期四 。形式有点像线下版的 Hacker News 或 TIL （Today I Learned），每个人带一个这周想分享的 Tab，先分享 1–3 分钟，再交流 2 分钟。 时间是每周四 19:30–… |
@@ -45,6 +49,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-10-26 | [自己修脚](https://www.hecaitou.com/2026/10/The-Art-of-the-DIY-Pedicure.html) | 说起来很奇怪，我本身很少出门，也很少运动，但是脚底的老茧却会自顾自疯长，感觉是我的脚陷入了某种终日远足的狂野幻想之中。 两周前，我把除湿机收起来，换上加湿机开始过冬天。就在当晚，我的脚后跟就自动皲裂，效果堪比金刚石砂纸。睡觉翻身的时候，稍微交叉一下小腿，脚后跟只是轻轻蹭了一下，能把我从梦中直接惊醒，… |
 | 2026-10-26 | [AI时代如何看漫画](https://www.nodealpha.me/Software-ai-manga.html) | 在大AI时代，由于ChatGPT的加持，我的看漫画流程进一步进化了，主要分为 3 条路线： 下载漫画，走Komga加Koharia 在线漫画，走Suwayomi加Tsumiru 日文原版，走Saber-Translator自动翻译后接入2中的Suwayomi 下载漫画 以前的话，我是漫画下载、Kom… |
 | 2026-10-26 | [自用 ChatGPT/Codex 防御性编程/说话修正/PowerShell调用问题修正提示词分享](https://kenvix.com/post/codex-prompt/) | 受不了弱智的 ChatGPT/Codex 了，分享一些自用的提示词，主要用于防御性编程、说话修正、PowerShell调用问题修正等。 本文长期更新。上次更新时间：2026-10-26 12:25:50 另外致敬传奇暗改王 Tibo ，Codex 现在真实5小时额度和周额度的 Token 量有没有… |
+| 2026-10-26 | [零信任的下一站是进程：OpenShell supervisor 的对照与超越](https://atbug.com/openshell-supervisor-zero-trust-process/) | TL;DR 对照 NIST SP 800-207 逐条读 OpenShell supervisor 源码：这是一份零信任的教科书实现，且把信任主体推到了进程。 一条写了五年的零信任线 去年底写 《AuthZen 工作组：打造统一的授权模型交互标准》 的时候，重新梳理了一遍 XACML 的授权模型：P… |
 | 2026-10-26 | [第两百万字](https://mobius.blog/25986.html) | 想着今年博客起码得完成第两百万字，这个目标算是达成了。 好在到现在，已经没有人再私信问我“为什么要写这么多”。 […] |
 | 2026-10-26 | [Insaniquarium updated](https://macsourceports.com/game/insaniquarium) | The build of Insaniquarium Portable for Insaniquarium has been updated to version 0.7 of the project |
 | 2026-10-26 | [Memos #2026-10-25](https://blog.itaober.com/memos/memo_20261025095911_yayztl) | 18:06 耍了一天 Codex，小小感慨一下。 只有开发公司项目的时候，才在产出价值（也不好说）。而自己搞些乱七八糟的，只是沉浸在「我在创造」所带来的装模作样的满足感。 emm，情绪价值也是价值吧！ |
@@ -163,21 +168,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-10-20 | [一种培养收纳习惯的有效方式](https://www.hecaitou.com/2026/10/an-effective-way-to-build-a-tidying-habit.html) | 按照稍微宽松一点的标准来说，我现在算是有收拾家的习惯了。不时会主动归置归置物品，整理整理各处台面，完全背离了我之前四十多年的天性。 我天性喜欢乱丢乱放随手扔，多年来被无数人无数次挽救过。但是没有用，举再多名人的例子，我也总是能找出无数名人反例，他们垃圾堆一样的书桌，他们无处下脚的书房，诸如此类。 感… |
 | 2026-10-20 | [有订阅 Google AI Ultra](https://versun.me/blog/tweet-2112358811810005352) | 有订阅 Google AI Ultra 的吗，如果只用Gemini 4 Argon的话，额度相比只用 Opus 5.5 的 Claude max 5x 哪个更多呀 |
 | 2026-10-20 | [处决童年的自己 I](https://mobius.blog/25949.html) | 周末的咖啡厅，带孩子出来玩的人变得多起来。比如此时此刻，在我的视野里，就有两个推着婴儿车来咖啡厅休息的家庭，他 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
-| 2026-10-19 | [“The Visitor”](https://lachaise.xyz/2026/visitor/) | 10 月 4 日 ：看了个电影叫 Man på drift，电影的英语是叫 The Visitor。之所以想看这个电影，是因为瑞典人写的影评里说，这部片子有种「蔡明亮的味道」。 对白是立陶宛语，字幕是瑞典语。整个放映厅里有三个人，一个中年女性，一个老年女性，还有我。看了不到半小时，老年女性开始打呼噜… |
-| 2026-10-19 | [广义相对论的观测效应](https://physnya.top/compact-object/lesson-5-general-relativity-effect/) | 广义相对论的可观测效应 我们的核心讨论是，什么时候必须用广义相对论. 狭义相对论效应回顾 光速不变原理. 这引入了 Lorentz 因子， γ = 1 1 − v 2 / c 2 \gamma = \frac{1}{\sqrt{1-v^2/c^2}} γ = 1 − v 2 / c 2 ​ 1 ​… |
-| 2026-10-19 | [AI 早报 2026-10-20：10.20总结；DeepSeek 开源 DeepInfer，首版支持 V4.1 Flash 离线推理](https://www.jtxyh.com/daily/2026-10-20/) | 2026-10-20 AI 早报，共 25 条动态。本期的重点是推理部署、智能体权限和实际应用。DeepSeek 开源推理框架 DeepInfer，采用 Apache 2.0 许可。路透社 10 月 20 日援引知情人士报道，字节跳动、阿里巴巴和腾讯订购了超过 300 万块英伟达 RTX PRO 5… |
-| 2026-10-19 | [R#124 前人的树](https://blog.sakanano.moe/journals/random_124) | 2026.10.13 ~ 2026.10.19 |
-| 2026-10-19 | [失职与无助](https://blog.solazy.me/20261019/) | 今天晚上和同事吃饭，聊到了一个有趣的话题…… |
-| 2026-10-19 | [2026 阅读](https://z.arlmy.me/posts/YearlyBooks/YearlyBooks_2026/) | 「2026 年阅读短评备份。」 |
-| 2026-10-19 | [Ambermoon updated](https://macsourceports.com/game/ambermoon) | The build of Ambermoon.net for Ambermoon has been updated to version v1.14.2 of the project |
-| 2026-10-19 | [Splatterlight updated](https://macsourceports.com/sourceport/spatterlight) | The build of Splatterlight for the Infocom series of games has been updated to version v1.5.5 of the project\n\nhttps://macsourceports.com/sourceport/… |
-| 2026-10-19 | [恒星结构](https://physnya.top/astro-physics/lesson-4-star-structure/) | 恒星形成的 Jeans 判据：根据前面所讨论，常密度的球形气体云的引力势能为 Ω = − 3 5 G M 2 R \Omega=-\frac{3}{5}\frac{GM^2}{R} Ω = − 5 3 ​ R G M 2 ​ |
-| 2026-10-19 | [[翻译] 如何更有野心：给带着模型干活的人的教程](http://tubaozi.top/posts/2026/how-to-be-more-ambitious/) | Anthropic 的 Felix Rieseberg 把「用 AI 要有野心」拆成速度、高度、深度、广度四个方向，每个方向都给了能直接照做的具体手法。 |
-| 2026-10-19 | [迷失在丰富里](https://www.hecaitou.com/2026/10/Lost-in-Abundance.html) | 我家里买重复的东西有很多。当然可以简单解释为记忆力下降，但我自己对此有另外的想法，那就是我根本记不住我究竟拥有多少样东西。于是，曾经拥有的经历就变成了重新购买的理由---我依稀记得这样东西很好，值得拥有一件。于是我多了很多两本同样的书，两盘一样的 CD。 以前的生活不是这样的，记得我四岁的时候和我父… |
-| 2026-10-19 | [Memos: 博客新增 ‘内推岗位’ 页面](https://blog.yasking.org/a/1792373571) | 博客添加内推岗位页面： /jobs 职位包含设计、产品、技术、市场四大类，20+ 个急招岗位。 均有实际招聘需求，并非为了完成招聘指标 … |
-| 2026-10-19 | [告假](https://mobius.blog/25944.html) | 以前听过一个有些悲伤的笑话——甚至有点过时。 一个专栏作家突然想休息，就在自己每周固定栏目的内容里，写了一篇“ […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
-| 2026-10-19 | [ES集群分片打满导致Red与日志链路中断排障](https://199604.com/3727) | ES集群分片打满导致Red与日志链路中断排障 记录时间：2026-10-17（2026-10-19 更新 4. […] |
-| 2026-10-19 | [话语权与主体叙事权](https://blog.oospace.com/posts/2026-10-19/) | 话语权决定能被听到的权利，叙事权决定叙事主题 |
 
 ## Vibe Coding
 
