@@ -27,10 +27,16 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-10-27 | [野人编年史](http://imlane.zhanglintc.co/ye-ren-bian-nian-shi) | 野人编年史 野人创始人 徐队 ，群昵称Shogun。姓徐，称徐队，真野人队长，野人 抖音官号 持有者。 张队 ，群昵称张小不。江湖人称竹节虫，简称虫队。 熊队 ，群昵称熊嘎婆，称熊队。 野人CLUB游泳事业部 群主。 亮队 ，群昵称亮什么，称亮队，野人 小红书官号 持有者。 野人成员 野人群像 野人… |
+| 2026-10-27 | [谁说普通人了](https://www.hecaitou.com/2026/10/who-said-anything-about-ordinary-people.html) | 我说网络上充斥着 AI 写的文章，有人看到之后说：和菜头三个月前还支持 AI 辅助创作文章，没想到三个月之后态度就 180° 大反转。 看，这就是个很好的例子，有 AI 没 AI，阅读理解能力救不了就是救不了。 很多人想写文章，要写文章，但是写不出来，用 AI 帮忙这种事情，我为什么不支持？很多人那… |
+| 2026-10-27 | [赴美的前前后后](https://www.jackpu.com/fu-mei-de-qian-qian-hou-hou/) | 在经历了 大事件 后没多久，自己收到了赴美的邀约。 这个大概是人生最为纠结但却无关得失的事情，如同此时此刻，我觉得裁员再一次发生也是一件有失有得的事情。 我后续可以写一些较为详细的篇章来阐述一些细节，今天还是按照时间线写写前前后后发生的事情。 在 大事件 篇章后，自己没过多久收到赴美的工作 relo… |
+| 2026-10-27 | [程序会导致双标？](https://mobius.blog/26002.html) | 何为程序？就比如最近闹得沸沸扬扬的“星巴克取消第三空间”的话题——星巴克开始取消原本对外公开开放的免费第三空间 […] |
 | 2026-10-27 | [2026年Spaceship 优惠码](https://www.evan.xin/5133/) | 2026 年 10 月目前可用的 Spaceship 优惠码（域名为准，第三方网站整理的代码可能在个别地区失效 […] |
 | 2026-10-27 | [Memos #2026-10-26](https://blog.itaober.com/memos/memo_20261026151853_mlotcf) | 23:20 沐上树梢融入得很好，听感和谐。 本期最佳梗：粉都不是南宁，是墨西哥！ |
+| 2026-10-26 | [2026翻墙协议对比](https://elmagnifico.tech/2026/10/27/VPN-Compare/) | Foreword 26.10.26，昨天刚好切换协议的uuid，测试的时候还全是好的，刚测完就接近全挂了。查了半天还以为是我改的有问题，仔细一看都是端口被封了，看起来和之前遇到封禁的或者阻断非常相似。 没想到用了这么久的xray+vless+reality 也要下线了吗，翻了一下帖子，似乎都遇到了这… |
 | 2026-10-26 | [认知不易，循环反馈](https://usmacd.com/cn/knowledge_and_feedback/) | 前段时间看到一段话： 普通人通常在35岁至40岁才会明白社会运行的真相和逻辑，但这时的人们正好被钉在生活的十字架上无力挣扎。而上层阶级出生的人，在20几岁时就已经通透，而且还不用考虑过多的试错成本，因那是一种传承，用几代人的智慧浇灌出来的。人生最大的浪费不是金钱的浪费，而是时间的浪费，认知的迟到。… |
 | 2026-10-26 | [漫谈心底那份夜雨与深秋](https://blog.mfwt.top/index.php/archives/1679/) | 笔者一直有一个很想问自己的问题：为什么会选择『枫林灯语』这几个字作为站点名（甚至在正式建站前很久就已经存在了，所以至少不是一拍脑袋想出来的）。虽然在关于页里面，已经解释过会有『近乎于惆怅的宁静感... |
+| 2026-10-26 | [R#125 AgentHelm](https://blog.sakanano.moe/journals/random_125) | 2026.10.20 ~ 2026.10.26 |
 | 2026-10-26 | [Everything is Harness： 从 Prompt Engineering 到 Context Engineering 再到 Harness Engineering](https://www.ixiqin.com/2026/10/26/harness-engineering/) | 在 Harness Engineering 这个概念逐渐流行甚至要过气之后，我终于理解了这个词背后的含义。作为 […] |
 | 2026-10-26 | [不及格](https://yipai.me/post/2555.html) | 下午语文老师在群里发消息，说听写声母，有 24 个同学全对，8个同学不合格。晚上回家天塌了，原来我儿子就是这 8 个人之中的一个。听写 21 个声母，他只写了 5 个。问题就是写的太慢，总想写成标准印刷体，说过很多次，优先完成，再考虑是否美观，毫无用处。其他作业也是类似，比如读拼音，错一个他就从头重… |
 | 2026-10-26 | [核合成](https://physnya.top/astro-physics/lesson-5-nuclear-synthesis/) | 核合成 超重核素一般在恒星中通过没有 Coulomb 势垒的中子俘获过程产生，分为慢中子俘获和快中子俘获两种过程，二者各自贡献了当今宇宙中超重核素的将近一半. 一个典型的中子俘获过程： 56 Fe + n → 57 Fe + n → 58 Fe + n → 59 Co + n → 60 Co → 6… |
@@ -40,8 +46,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-10-26 | [Quetoo updated](https://macsourceports.com/game/quetoo) | The build of Quetoo has been updated to version v1.0.136 of the project |
 | 2026-10-26 | [Total Annihilation updated](https://macsourceports.com/game/totalannihilation) | The build of Open Annihilation for Total Annihilation has been updated to version v0.8.6.1 of the project |
 | 2026-10-26 | [尝试每周四晚上在上海举办 Tab 星期四线下聚会](https://www.owenyoung.com/tab) | 从 10 月 29 日开始，我和 海涛 每周四晚上会在上海 706 办一个小型聚会，叫 Tab 星期四 。形式有点像线下版的 Hacker News 或 TIL （Today I Learned），每个人带一个这周想分享的 Tab，先分享 1–3 分钟，再交流 2 分钟。 时间是每周四 19:30–… |
-| 2026-10-26 | [野人编年史](http://imlane.zhanglintc.co/ye-ren-bian-nian-shi) | 野人编年史 野人创始人 徐队 ，群昵称Shogun。姓徐，称徐队，真野人队长，野人 抖音官号 持有者。 张队 ，群昵称张小不。江湖人称竹节虫，简称虫队。 熊队 ，群昵称熊嘎婆，称熊队。 野人CLUB游泳事业部 群主。 亮队 ，群昵称亮什么，称亮队，野人 小红书官号 持有者。 野人成员 野人群像 野人… |
-| 2026-10-26 | [17 分钟搞懂 ICT 核心概念：流动性、FVG、Power of 3 与订单块（视频笔记与中文图解）](https://blog.forecho.com/learn-every-ict-concept.html) | 引言 这篇是我看 Pro Trading School 的视频 Learn Every ICT Concept in 17 Minutes (Liquidity, FVG, Order Blocks & More) 后整理的笔记。视频大约 17 分钟，发布于 2025 年 6 月，讲的是 ICT（I… |
+| 2026-10-26 | [ICT 核心概念笔记：流动性、FVG、Power of 3 与订单块（视频与逐图说明）](https://blog.forecho.com/learn-every-ict-concept.html) | 引言 这篇是我看 Pro Trading School 的视频 Learn Every ICT Concept in 17 Minutes (Liquidity, FVG, Order Blocks & More) 后整理的笔记。视频发布于 2025 年 6 月 7 日，全长约 17 分半，依次讲流… |
 | 2026-10-26 | [演讲视频：Do you want to be a SRE?](https://www.kawabangga.com/posts/7443) | 上周在 NUS 做了一个分享，内容是 SRE 的工作内容和成长路线。下面是录制的视频。 涉及的数据和 inci […] Continue reading... 相关文章: SRE&Devops 每周分享 Issue #1 Opening SRE&Devops 每周分享 Issue #4 AWS La… |
 | 2026-10-26 | [GreenCloud绿云13周年促销活动](https://www.cheshirex.com/11523.html) | 重要通知：今年没有黑色星期五促销活动 我们希望尽早向大家完全公开透明，以免有人等待：GreenCloud 今年 […] |
 | 2026-10-26 | [2026.10.25](https://www.justzht.com/2026-10-25/) | Epoch 现在通过一个 Playdate API 兼容层可以原生运行在 Mac 和一些其他平台上了。主要开发重心还是在 Playdate 上（毕竟其他平台的性 |
