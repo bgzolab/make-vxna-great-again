@@ -27,26 +27,34 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-10-27 | [复制 DerivedData 根本没用：用 worktree 池让 Xcode 告别冷编译](https://blog.tomyail.com/ios-git-worktree-xcode-deriveddata-optimization/) | 我让多个 AI Agent 各用一个 Git Worktree 开发 iOS 项目，结果 Xcode 的 DerivedData 占了 94 GB，每个新目录都要冷编译。记录我试过的三种做法：DerivedData 放进项目、用 Worktrunk 复制缓存、固定几个 worktree 换分支。最后… |
+| 2026-10-27 | [用 DashPlayer 看美剧学英语](https://depp.wang/2026/dashplayer/) | 最近在用 DashPlayer 看《绝命毒师》学英语，体验下来觉得还可以，推荐给也想用本地视频、音频学英语的朋友。软件开源免费，可以控制字幕显示，也方便反复听一句台词。 它支持 Windows 和 Mac，我自己用的是 Mac，下面就按我在 Mac 上的使用方式来写。 先到 官方下载页面 ，展开 A… |
+| 2026-10-27 | [Memos: 土木工程专业’冷‘到如此](https://blog.yasking.org/a/1793099535) | 这周末参加好友婚礼，聊起土木工程。某排名靠前的985高校，土木专业今年本科只招了 8 个人，早些年却有一百大几十、接近两百 … |
+| 2026-10-27 | [Lemmings updated](https://macsourceports.com/game/lemmings) | The build of Ultimate Lemmings for Lemmings has been updated to version v2.3 of the project |
 | 2026-10-27 | [野人编年史](http://imlane.zhanglintc.co/ye-ren-bian-nian-shi) | 野人编年史 野人创始人 徐队 ，群昵称Shogun。姓徐，称徐队，真野人队长，野人 抖音官号 持有者。 张队 ，群昵称张小不。江湖人称竹节虫，简称虫队。 熊队 ，群昵称熊嘎婆，称熊队。 野人CLUB游泳事业部 群主。 亮队 ，群昵称亮什么，称亮队，野人 小红书官号 持有者。 野人成员 野人群像 野人… |
 | 2026-10-27 | [谁说普通人了](https://www.hecaitou.com/2026/10/who-said-anything-about-ordinary-people.html) | 我说网络上充斥着 AI 写的文章，有人看到之后说：和菜头三个月前还支持 AI 辅助创作文章，没想到三个月之后态度就 180° 大反转。 看，这就是个很好的例子，有 AI 没 AI，阅读理解能力救不了就是救不了。 很多人想写文章，要写文章，但是写不出来，用 AI 帮忙这种事情，我为什么不支持？很多人那… |
 | 2026-10-27 | [赴美的前前后后](https://www.jackpu.com/fu-mei-de-qian-qian-hou-hou/) | 在经历了 大事件 后没多久，自己收到了赴美的邀约。 这个大概是人生最为纠结但却无关得失的事情，如同此时此刻，我觉得裁员再一次发生也是一件有失有得的事情。 我后续可以写一些较为详细的篇章来阐述一些细节，今天还是按照时间线写写前前后后发生的事情。 在 大事件 篇章后，自己没过多久收到赴美的工作 relo… |
 | 2026-10-27 | [程序会导致双标？](https://mobius.blog/26002.html) | 何为程序？就比如最近闹得沸沸扬扬的“星巴克取消第三空间”的话题——星巴克开始取消原本对外公开开放的免费第三空间 […] |
 | 2026-10-27 | [2026年Spaceship 优惠码](https://www.evan.xin/5133/) | 2026 年 10 月目前可用的 Spaceship 优惠码（域名为准，第三方网站整理的代码可能在个别地区失效 […] |
 | 2026-10-27 | [Memos #2026-10-26](https://blog.itaober.com/memos/memo_20261026151853_mlotcf) | 23:20 沐上树梢融入得很好，听感和谐。 本期最佳梗：粉都不是南宁，是墨西哥！ |
+| 2026-10-26 | [让 Dot 和 Lody 组成一个 AI 协作团队：从任务派发到验收的实践](https://ghyghoo8.github.io/2026/10/27/2026-10-27-%E8%AE%A9Dot%E5%92%8CLody%E7%BB%84%E6%88%90%E4%B8%80%E4%B8%AAAI%E5%8D%8F%E4%BD%9C%E5%9B%A2%E9%98%9F/) | 当一个任务需要查资料、改代码、跨机器执行，再把结果交回来验收时，问题很快就不只是“让哪个 AI 来做”。任务发给了谁？它在哪台机器上工作？另一位执行者看到的是不是同一份资料？回报里的“完成”，究竟代表会话结束，还是成果已经通过验收？ 这篇文章记录我们围绕 Dot、Codex Cloud 和 Lody… |
 | 2026-10-26 | [2026翻墙协议对比](https://elmagnifico.tech/2026/10/27/VPN-Compare/) | Foreword 26.10.26，昨天刚好切换协议的uuid，测试的时候还全是好的，刚测完就接近全挂了。查了半天还以为是我改的有问题，仔细一看都是端口被封了，看起来和之前遇到封禁的或者阻断非常相似。 没想到用了这么久的xray+vless+reality 也要下线了吗，翻了一下帖子，似乎都遇到了这… |
+| 2026-10-26 | [Atomic habits](https://blog.bensontech.dev/posts/atomic-habits/) | One method to help us control habits which left me great impression while I read atomic habits is that we can separate devices/space with difference u… |
 | 2026-10-26 | [认知不易，循环反馈](https://usmacd.com/cn/knowledge_and_feedback/) | 前段时间看到一段话： 普通人通常在35岁至40岁才会明白社会运行的真相和逻辑，但这时的人们正好被钉在生活的十字架上无力挣扎。而上层阶级出生的人，在20几岁时就已经通透，而且还不用考虑过多的试错成本，因那是一种传承，用几代人的智慧浇灌出来的。人生最大的浪费不是金钱的浪费，而是时间的浪费，认知的迟到。… |
 | 2026-10-26 | [漫谈心底那份夜雨与深秋](https://blog.mfwt.top/index.php/archives/1679/) | 笔者一直有一个很想问自己的问题：为什么会选择『枫林灯语』这几个字作为站点名（甚至在正式建站前很久就已经存在了，所以至少不是一拍脑袋想出来的）。虽然在关于页里面，已经解释过会有『近乎于惆怅的宁静感... |
 | 2026-10-26 | [R#125 AgentHelm](https://blog.sakanano.moe/journals/random_125) | 2026.10.20 ~ 2026.10.26 |
 | 2026-10-26 | [Everything is Harness： 从 Prompt Engineering 到 Context Engineering 再到 Harness Engineering](https://www.ixiqin.com/2026/10/26/harness-engineering/) | 在 Harness Engineering 这个概念逐渐流行甚至要过气之后，我终于理解了这个词背后的含义。作为 […] |
+| 2026-10-26 | [SFC 游戏：洛克人七代（Rockman 7）](https://springwood.me/sfc-rockman-7/) | （摘要）画面很漂亮，可惜倒数第二个 boss 太痛苦了 |
+| 2026-10-26 | [在职场舒适地做自己](https://blog.solazy.me/20261026/) | 今天继续聊职场话题 |
 | 2026-10-26 | [不及格](https://yipai.me/post/2555.html) | 下午语文老师在群里发消息，说听写声母，有 24 个同学全对，8个同学不合格。晚上回家天塌了，原来我儿子就是这 8 个人之中的一个。听写 21 个声母，他只写了 5 个。问题就是写的太慢，总想写成标准印刷体，说过很多次，优先完成，再考虑是否美观，毫无用处。其他作业也是类似，比如读拼音，错一个他就从头重… |
 | 2026-10-26 | [核合成](https://physnya.top/astro-physics/lesson-5-nuclear-synthesis/) | 核合成 超重核素一般在恒星中通过没有 Coulomb 势垒的中子俘获过程产生，分为慢中子俘获和快中子俘获两种过程，二者各自贡献了当今宇宙中超重核素的将近一半. 一个典型的中子俘获过程： 56 Fe + n → 57 Fe + n → 58 Fe + n → 59 Co + n → 60 Co → 6… |
 | 2026-10-26 | [超新星 & 中子星](https://physnya.top/compact-object/lesson-6-supernova-and-neutron-star/) | 在中国古代曾经观察到过好几次超新星的爆发事件. 中子星在观测上的最早确认是在 1960s，得益于射电望远镜的发达，发现脉冲星. 大质量恒星在生命晚期的结构类似洋葱，其不同元素形成不同层，而中心铁核只能通过电子简并压来维持，一旦中心到达 Chandrasekhar 极限就会进一步坍缩. 而下一个抵抗引… |
-| 2026-10-26 | [花 20 元，让实体卡手机也能用上 eSIM](https://depp.wang/2026/esim-euicc/) | 如果出国旅游想用 eSIM 流量套餐，但手机只有实体卡槽，可以试试小白卡。 它就是一张可以写入 eSIM 信息的实体卡，写好之后，像普通手机卡一样插进手机使用。小白卡和 9eSIM 这类实体卡，基本原理一样，都是把 eSIM 套餐装进卡里。卡本身不带流量，套餐需要另外购买。 拼多多搜索「eSIM 小… |
+| 2026-10-26 | [花 20 元，让实体卡手机也能用上 eSIM](https://depp.wang/2026/esim-euicc/) | 如果像出国旅游想用 eSIM 流量套餐，但手机只有实体卡槽，可以试试小白卡。 它就是一张可以写入 eSIM 信息的实体卡，写好之后，像普通手机卡一样插进手机使用。小白卡和 9eSIM 这类实体卡，基本原理一样，都是把 eSIM 套餐装进卡里。卡本身不带流量，套餐需要另外购买。 拼多多搜索「eSIM… |
 | 2026-10-26 | [Kimi 开创历史，只重置25%，看来是](https://versun.me/blog/tweet-2114704741187850425) | Kimi.ai We're sorry for the rate limits and unnecessary quota consumption on the K3.1 Pro subscription plan. These were our issues, and we should have… |
 | 2026-10-26 | [Quetoo updated](https://macsourceports.com/game/quetoo) | The build of Quetoo has been updated to version v1.0.136 of the project |
 | 2026-10-26 | [Total Annihilation updated](https://macsourceports.com/game/totalannihilation) | The build of Open Annihilation for Total Annihilation has been updated to version v0.8.6.1 of the project |
 | 2026-10-26 | [尝试每周四晚上在上海举办 Tab 星期四线下聚会](https://www.owenyoung.com/tab) | 从 10 月 29 日开始，我和 海涛 每周四晚上会在上海 706 办一个小型聚会，叫 Tab 星期四 。形式有点像线下版的 Hacker News 或 TIL （Today I Learned），每个人带一个这周想分享的 Tab，先分享 1–3 分钟，再交流 2 分钟。 时间是每周四 19:30–… |
-| 2026-10-26 | [ICT 核心概念笔记：流动性、FVG、Power of 3 与订单块（视频与逐图说明）](https://blog.forecho.com/learn-every-ict-concept.html) | 引言 这篇是我看 Pro Trading School 的视频 Learn Every ICT Concept in 17 Minutes (Liquidity, FVG, Order Blocks & More) 后整理的笔记。视频发布于 2025 年 6 月 7 日，全长约 17 分半，依次讲流… |
+| 2026-10-26 | [ICT 核心概念笔记：流动性、FVG、Power of 3 与订单块](https://blog.forecho.com/learn-every-ict-concept.html) | 引言 这篇是我看 Pro Trading School 的视频 Learn Every ICT Concept in 17 Minutes (Liquidity, FVG, Order Blocks & More) 后整理的笔记。视频发布于 2025 年 6 月 7 日，全长约 17 分半，依次讲流… |
 | 2026-10-26 | [演讲视频：Do you want to be a SRE?](https://www.kawabangga.com/posts/7443) | 上周在 NUS 做了一个分享，内容是 SRE 的工作内容和成长路线。下面是录制的视频。 涉及的数据和 inci […] Continue reading... 相关文章: SRE&Devops 每周分享 Issue #1 Opening SRE&Devops 每周分享 Issue #4 AWS La… |
 | 2026-10-26 | [GreenCloud绿云13周年促销活动](https://www.cheshirex.com/11523.html) | 重要通知：今年没有黑色星期五促销活动 我们希望尽早向大家完全公开透明，以免有人等待：GreenCloud 今年 […] |
 | 2026-10-26 | [2026.10.25](https://www.justzht.com/2026-10-25/) | Epoch 现在通过一个 Playdate API 兼容层可以原生运行在 Mac 和一些其他平台上了。主要开发重心还是在 Playdate 上（毕竟其他平台的性 |
@@ -94,7 +102,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-10-24 | [回了一趟国](https://cufezhusy.github.io/issue-26/) | 上周回了一趟国，看望了一下父母，也去看了看严严的父母。中东没法飞了，第一次飞国航走北京转机，好多年没来过首都国际机场了，真是恍如隔世。 这次回去，最直观的感受是，国内现在的生活条件确实很好。各种硬件设施已经相当完善，不少方面甚至比欧美更好，而且物价也便宜。 我们这次住了家乡最好的一家宾馆，淡季居然只… |
 | 2026-10-24 | [遍历「所有」旋律](https://www.yvesx.com/archives/introducting-hertz-cloud) | 智慧生命的精华与本质，真的是技术所无法触及的吗？在刘慈欣的科幻小说《诗云》中，神级文明为了终结人类的艺术，穷举汉字的排列组合，写出了一切过去、现在和未来的诗歌。当我们讨论音乐创作，也经常有人提及... |
 | 2026-10-24 | [Saily eSIM 指南：出境流量、美国号码与优惠码](https://gugegt.com/20261024-saily-esim.html) | 出境旅行，落地能不能马上联网，决定了头半天顺不顺。Saily 的做法是出发前在 App 里买好流量套餐，落地自动联网，不用换卡，不用租 WiFi 盒子，回国也不用对着漫游账单心疼。Saily 是 Nord Security 旗下的公司，NordVPN、NordPass 都是它家的。 |
-| 2026-10-24 | [Lemmings updated](https://macsourceports.com/game/lemmings) | The build of Ultimate Lemmings for Lemmings has been updated to version v2.2.2 of the project |
 | 2026-10-24 | [Memos: 主厨是餐饮的核心](https://blog.yasking.org/a/1792814826) | 周五同事请客去吃了一家东北菜，这家老店味道一直不错，在大众点评上已收录13年。早两年第一次去他家吃的炒腔骨，口感 … |
 | 2026-10-24 | [这回我承认AI确实有用](https://www.hecaitou.com/2026/10/why-i-finally-admit-that-ai-is-genuinely-usef.html) | 看过那么多人设计了那么多种 AI 的用法，我终于见到一个大众真正需要，真正解决生活问题的 AI 产品：CleanYourTV。 它解决了一件大部分人每天见，每天烦，但是一直没办法的问题，那就是把你家的智能电视恢复到最朴素的样子，去掉各种电视机自带的广告，各种弹窗，各种各样的后台程序。 不需要用家有任… |
 | 2026-10-24 | [油管｜4k视频和POV视角](https://dsx2016.com/youtube-4k-videos-and-pov-perspective/) | pov视角 就是第一人称视角，一般是运动相机或者ai眼镜，或者是手持手机但是不拍自己，而是拍摄前方，自然的视频... 油管｜4k视频和POV视角 最先出现在 大师兄2016 。 |

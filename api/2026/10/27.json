@@ -1,5 +1,33 @@
 [
   {
+    "title": "复制 DerivedData 根本没用：用 worktree 池让 Xcode 告别冷编译",
+    "url": "https://blog.tomyail.com/ios-git-worktree-xcode-deriveddata-optimization/",
+    "date": "2026-10-27T16:33:18Z",
+    "description": "我让多个 AI Agent 各用一个 Git Worktree 开发 iOS 项目，结果 Xcode 的 DerivedData 占了 94 GB，每个新目录都要冷编译。记录我试过的三种做法：DerivedData 放进项目、用 Worktrunk 复制缓存、固定几个 worktree 换分支。最后一种在我的项目上把换任务后的编译从 82 秒降到 26 秒。",
+    "source_root_domain": "tomyail.com"
+  },
+  {
+    "title": "用 DashPlayer 看美剧学英语",
+    "url": "https://depp.wang/2026/dashplayer/",
+    "date": "2026-10-27T15:09:27Z",
+    "description": "最近在用 DashPlayer 看《绝命毒师》学英语，体验下来觉得还可以，推荐给也想用本地视频、音频学英语的朋友。软件开源免费，可以控制字幕显示，也方便反复听一句台词。 它支持 Windows 和 Mac，我自己用的是 Mac，下面就按我在 Mac 上的使用方式来写。 先到 官方下载页面 ，展开 Assets，找到适合自己电脑的安装包。Mac 下载以 .dmg 结尾的文件，M 系列芯片选 arm64 ，Intel 芯片选 x64 ，不要下载 Source code，那是源代码。下载后打开，把 DashPlayer 拖进 Applications 文件夹就可以了。 安装说明",
+    "source_root_domain": "depp.wang"
+  },
+  {
+    "title": "Memos: 土木工程专业’冷‘到如此",
+    "url": "https://blog.yasking.org/a/1793099535",
+    "date": "2026-10-27T11:12:15Z",
+    "description": "这周末参加好友婚礼，聊起土木工程。某排名靠前的985高校，土木专业今年本科只招了 8 个人，早些年却有一百大几十、接近两百 …",
+    "source_root_domain": "yasking.org"
+  },
+  {
+    "title": "Lemmings updated",
+    "url": "https://macsourceports.com/game/lemmings",
+    "date": "2026-10-27T11:00:48Z",
+    "description": "The build of Ultimate Lemmings for Lemmings has been updated to version v2.3 of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
     "title": "野人编年史",
     "url": "http://imlane.zhanglintc.co/ye-ren-bian-nian-shi",
     "date": "2026-10-27T07:02:20Z",
@@ -42,11 +70,25 @@
     "source_root_domain": "itaober.com"
   },
   {
+    "title": "让 Dot 和 Lody 组成一个 AI 协作团队：从任务派发到验收的实践",
+    "url": "https://ghyghoo8.github.io/2026/10/27/2026-10-27-%E8%AE%A9Dot%E5%92%8CLody%E7%BB%84%E6%88%90%E4%B8%80%E4%B8%AAAI%E5%8D%8F%E4%BD%9C%E5%9B%A2%E9%98%9F/",
+    "date": "2026-10-26T16:00:00Z",
+    "description": "当一个任务需要查资料、改代码、跨机器执行，再把结果交回来验收时，问题很快就不只是“让哪个 AI 来做”。任务发给了谁？它在哪台机器上工作？另一位执行者看到的是不是同一份资料？回报里的“完成”，究竟代表会话结束，还是成果已经通过验收？ 这篇文章记录我们围绕 Dot、Codex Cloud 和 Lody 建立的一套协作方法：由 Dot 对接目标和协调任务，开发任务在明确的执行环境中推进，需要跨节点协作时借助 Lody，最后沿原任务回传证据、复核成果。文中也会用一次真实的远端交接实践说明，为什么“任务结束”和“业务完成”必须分开看。 这是一套针对我们当前工作方式总结的实践，不是平台默认自动提供的组织架构。不同环节分别验证；文末会说明已经做到哪里，以及哪些链路仍需补证据。",
+    "source_root_domain": "ghyghoo8.github.io"
+  },
+  {
     "title": "2026翻墙协议对比",
     "url": "https://elmagnifico.tech/2026/10/27/VPN-Compare/",
     "date": "2026-10-26T16:00:00Z",
     "description": "Foreword 26.10.26，昨天刚好切换协议的uuid，测试的时候还全是好的，刚测完就接近全挂了。查了半天还以为是我改的有问题，仔细一看都是端口被封了，看起来和之前遇到封禁的或者阻断非常相似。 没想到用了这么久的xray+vless+reality 也要下线了吗，翻了一下帖子，似乎都遇到了这个情况 https://v2ex.com/t/1251991 reality还是顶了好久的，距离上一次折腾过了2年，之前无论大小会议，都不会有啥问题，正常使用，没想到这次9个vps，挂了8个，只有一个是我自己的网站，没挂。 协议对比 协议 这里比较的是协议设计和使用条件，不是这次封锁的存活率；目前没有足够的多地区、跨运营商测试，能给这些协议排出一个可靠的抗封锁名次。 协议或组合 底层传输 域名与证书 主要特点 使用限制 Shadowsocks AEAD TCP / UDP 不需要域名和证书 预共享密钥加密，开销较小，客户端覆盖广 裸流量呈随机字节，不能 HTTPS 伪装；不同实现的防探测处理有差异 Shadowsocks 2022 TCP / UDP 不需要域名和证书 更新密钥派生、强制完整",
     "source_root_domain": "elmagnifico.tech"
+  },
+  {
+    "title": "Atomic habits",
+    "url": "https://blog.bensontech.dev/posts/atomic-habits/",
+    "date": "2026-10-26T16:00:00Z",
+    "description": "One method to help us control habits which left me great impression while I read atomic habits is that we can separate devices/space with difference usage. For example, we can have a dedicated Phone for entertainment, another one for daily work. We have a dedicated space/room for reading, a dedicated chair for listening podcast. The Phone nowdays are basically oppsite, at least for me. I use my Phone for everything, work, gathering information, chat with families. So, it’s almost all of my life.",
+    "source_root_domain": "informal.top"
   },
   {
     "title": "认知不易，循环反馈",
@@ -77,6 +119,20 @@
     "source_root_domain": "ixiqin.com"
   },
   {
+    "title": "SFC 游戏：洛克人七代（Rockman 7）",
+    "url": "https://springwood.me/sfc-rockman-7/",
+    "date": "2026-10-26T15:00:00Z",
+    "description": "（摘要）画面很漂亮，可惜倒数第二个 boss 太痛苦了",
+    "source_root_domain": "springwood.me"
+  },
+  {
+    "title": "在职场舒适地做自己",
+    "url": "https://blog.solazy.me/20261026/",
+    "date": "2026-10-26T15:00:00Z",
+    "description": "今天继续聊职场话题",
+    "source_root_domain": "solazy.me"
+  },
+  {
     "title": "不及格",
     "url": "https://yipai.me/post/2555.html",
     "date": "2026-10-26T14:29:01Z",
@@ -101,7 +157,7 @@
     "title": "花 20 元，让实体卡手机也能用上 eSIM",
     "url": "https://depp.wang/2026/esim-euicc/",
     "date": "2026-10-26T13:18:27Z",
-    "description": "如果出国旅游想用 eSIM 流量套餐，但手机只有实体卡槽，可以试试小白卡。 它就是一张可以写入 eSIM 信息的实体卡，写好之后，像普通手机卡一样插进手机使用。小白卡和 9eSIM 这类实体卡，基本原理一样，都是把 eSIM 套餐装进卡里。卡本身不带流量，套餐需要另外购买。 拼多多搜索「eSIM 小白卡」或「eUICC 实体卡」就能找到，我当时买的价格大概 20 元。买之前确认支持 EasyEUICC，以及能保存多少个套餐。只是旅游时用，没必要追求大容量。",
+    "description": "如果像出国旅游想用 eSIM 流量套餐，但手机只有实体卡槽，可以试试小白卡。 它就是一张可以写入 eSIM 信息的实体卡，写好之后，像普通手机卡一样插进手机使用。小白卡和 9eSIM 这类实体卡，基本原理一样，都是把 eSIM 套餐装进卡里。卡本身不带流量，套餐需要另外购买。 拼多多搜索「eSIM 小白卡」或「eUICC 实体卡」就能找到，我当时买的价格大概 20 元。买之前确认支持 EasyEUICC，以及能保存多少个套餐。只是旅游时用，没必要追求大容量。",
     "source_root_domain": "depp.wang"
   },
   {
@@ -133,7 +189,7 @@
     "source_root_domain": "owenyoung.com"
   },
   {
-    "title": "ICT 核心概念笔记：流动性、FVG、Power of 3 与订单块（视频与逐图说明）",
+    "title": "ICT 核心概念笔记：流动性、FVG、Power of 3 与订单块",
     "url": "https://blog.forecho.com/learn-every-ict-concept.html",
     "date": "2026-10-26T09:00:00Z",
     "description": "引言 这篇是我看 Pro Trading School 的视频 Learn Every ICT Concept in 17 Minutes (Liquidity, FVG, Order Blocks & More) 后整理的笔记。视频发布于 2025 年 6 月 7 日，全长约 17 分半，依次讲流动性、流动性陷阱、公允价值缺口（FVG）、Power of 3 和订单块（OB）。 这些概念放在一起，可以帮助我们按顺序看一张图：哪里可能集中着止损单，价格有没有扫过那里，随后是否出现结构突破，回调时又该关注哪一片区域。我按这个顺序整理正文，每张截图下面都写了中文读图说明，时间链接可以直接跳回原视频。 这里保留视频作者的策略规则，同时把我的补充说明单独标出。「聪明钱吸筹」「机构猎取止损」属于 ICT / SMC 对价格行为的解释；K 线能直接展示的是价格、区间和突破，具体参与者及其订单需要其他数据佐证。文中的规则用于理解这套方法，收益和胜率仍需独立回测。 截图取自原视频，版权归 Pro Trading School 所有。 1. 流动性与两种常见陷阱 视频里的「流动性」主要指图表上 可能集中",
