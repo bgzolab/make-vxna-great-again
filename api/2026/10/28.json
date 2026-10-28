@@ -1,5 +1,12 @@
 [
   {
+    "title": "像维护软件一样维护效率系统",
+    "url": "https://www.geedea.pro/article/note-dev/",
+    "date": "2026-10-28T15:49:02Z",
+    "description": "标题可能会让人误以为我要介绍精密复杂的 PKM 体系，但实际上我 我不混“知识管理圈” 很久了。我想我数次安装和卸载 Emacs，仍然用 Neovim 写代码和写文， 一部分 原因是 Org Mode 对我毫无吸引力，甚至有可能会害了我 1 。 好的软件不 总 是精巧复杂的，甚至大部分时候是简单的，或者说清晰明了，而且可拓展、可组合，在需要的时候不会因其形式或接口而派不上用场。比方说 grep 作为命令行工具，可以搜文件里的文本、可以搜目录里的文件名、可以搜终端历史里输入过的命令，也可以很轻易地集成到其他软件里搜别的东西。 这其实也不是我想谈的重点。实际上，即便是 grep 这样小巧简明的软件，在某些情况下也难以施展拳脚，比如面对完全不了解命令行界面的用户时。对他们而言，Raycast 和 Vicinae 等全局搜索框可能更好用，按下 ⌘ + 空格 就可以搜索应用、文件和各种快捷命令并执行。把两个关联不大的软件放在一起比较可能不恰当，但至少能证明我下面要抛出的观点： 好的软件应该是符合需求的软件。 想象你年迈的奶奶一点也看不清楚手机上的小字，而你却在一旁抱怨软件开发者没能统一设计语言，",
+    "source_root_domain": "geedea.pro"
+  },
+  {
     "title": "Vibe Coding for TV：开源了一个电视投屏接收器",
     "url": "https://atbug.com/vibe-coding-for-tv-leancast/",
     "date": "2026-10-28T13:00:00Z",
@@ -75,6 +82,13 @@
     "date": "2026-10-27T16:33:18Z",
     "description": "我让多个 AI Agent 各用一个 Git Worktree 开发 iOS 项目，结果 Xcode 的 DerivedData 占了 94 GB，每个新目录都要冷编译。记录我试过的三种做法：DerivedData 放进项目、用 Worktrunk 复制缓存、固定几个 worktree 换分支。最后一种在我的项目上把换任务后的编译从 82 秒降到 26 秒。",
     "source_root_domain": "tomyail.com"
+  },
+  {
+    "title": "AI 早报 2026-10-28：Circuit Mind 推出电路验证智能体 AVE，披露合计 2500 万美元融资",
+    "url": "https://www.jtxyh.com/daily/2026-10-28/",
+    "date": "2026-10-27T16:00:00Z",
+    "description": "2026-10-28 AI 早报，共 24 条动态。Circuit Mind 于 10 月 28 日推出 AVE，使用 AI 智能体对照元件数据手册与企业设计规则检查电路设计。达索系统10月28日宣布，将 ArisGlobal 与 BIOVIA、MEDIDATA 整合，建设连接药物研发与患者结果的 AI…",
+    "source_root_domain": "jtxyh.com"
   },
   {
     "title": "HY2协议部署",

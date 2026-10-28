@@ -27,6 +27,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-10-28 | [像维护软件一样维护效率系统](https://www.geedea.pro/article/note-dev/) | 标题可能会让人误以为我要介绍精密复杂的 PKM 体系，但实际上我 我不混“知识管理圈” 很久了。我想我数次安装和卸载 Emacs，仍然用 Neovim 写代码和写文， 一部分 原因是 Org Mode 对我毫无吸引力，甚至有可能会害了我 1 。 好的软件不 总 是精巧复杂的，甚至大部分时候是简单的，… |
 | 2026-10-28 | [Vibe Coding for TV：开源了一个电视投屏接收器](https://atbug.com/vibe-coding-for-tv-leancast/) | TL;DR 一台 32 位的旧 Fire TV，一个晚上：系统精简出 1.9GB 存储，再从零写出一个 5MB 的开源投屏接收器，90 个单元测试和真机 E2E 全绿。 背景 几年前陆续买过两台外贸电视。所谓外贸电视，就是国内厂商给国外品牌代工的产品——我买的两台，一台是给 ONN 代工的；另一台就… |
 | 2026-10-28 | [Quetoo updated](https://macsourceports.com/game/quetoo) | The build of Quetoo has been updated to version v1.0.138 of the project |
 | 2026-10-28 | [远程工作不要居家](https://smallyu.net/2026/10/28/%E8%BF%9C%E7%A8%8B%E5%B7%A5%E4%BD%9C%E4%B8%8D%E8%A6%81%E5%B1%85%E5%AE%B6/) | 由于行业的特殊性质，我已经远程工作超过 3 年时间，期间至少换过 3 次工作，而每一次的新工作也都是远程形式。很多人觉得远程工作是一种 “福利”、“好处”，想尽办法想找远程工作，我实在不理解他们。 当然今天要说的是另外一件事情，3 年前我写《<a |
@@ -38,6 +39,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-10-28 | [双向奔赴的厌恶](https://mobius.blog/26006.html) | 我很相信动物直觉的，比如在狗公园时，特别是当我很厌烦一只狗时，多半也会因此厌烦这个狗的狗主人。而且狗本身也可以 […] |
 | 2026-10-28 | [三亚之旅](https://www.iarthit.com/posts/2026/10/28/%E4%B8%89%E4%BA%9A%E4%B9%8B%E6%97%85.html) | 旅行和一位女性朋友一起去三亚玩了5天，下面是我自己做的攻略，大家可以做参考。一共花费大概6000左右 |
 | 2026-10-27 | [复制 DerivedData 根本没用：用 worktree 池让 Xcode 告别冷编译](https://blog.tomyail.com/ios-git-worktree-xcode-deriveddata-optimization/) | 我让多个 AI Agent 各用一个 Git Worktree 开发 iOS 项目，结果 Xcode 的 DerivedData 占了 94 GB，每个新目录都要冷编译。记录我试过的三种做法：DerivedData 放进项目、用 Worktrunk 复制缓存、固定几个 worktree 换分支。最后… |
+| 2026-10-27 | [AI 早报 2026-10-28：Circuit Mind 推出电路验证智能体 AVE，披露合计 2500 万美元融资](https://www.jtxyh.com/daily/2026-10-28/) | 2026-10-28 AI 早报，共 24 条动态。Circuit Mind 于 10 月 28 日推出 AVE，使用 AI 智能体对照元件数据手册与企业设计规则检查电路设计。达索系统10月28日宣布，将 ArisGlobal 与 BIOVIA、MEDIDATA 整合，建设连接药物研发与患者结果的… |
 | 2026-10-27 | [HY2协议部署](https://elmagnifico.tech/2026/10/28/HY2/) | Foreword 前面选择了HY2，这里部署测试一下效果，看看是不是能扛过封锁，能在接下来的日子里继续用2年。 Sing-box 还是先用233boy的脚本，用了这么久有感情了 bash sing-box script v1.0 by 233boy Usage: sing-box [options]… |
 | 2026-10-27 | [用 DashPlayer 看美剧学英语](https://depp.wang/2026/dashplayer/) | 最近在用 DashPlayer 看《绝命毒师》学英语，体验下来觉得还可以，推荐给也想用本地视频、音频学英语的朋友。软件开源免费，可以控制字幕显示，也方便反复听一句台词。 它支持 Windows 和 Mac，我自己用的是 Mac，下面就按我在 Mac 上的使用方式来写。 先到 官方下载页面 ，展开 A… |
 | 2026-10-27 | [Memos: 土木工程专业’冷‘到如此](https://blog.yasking.org/a/1793099535) | 这周末参加好友婚礼，聊起土木工程。某排名靠前的985高校，土木专业今年本科只招了 8 个人，早些年却有一百大几十、接近两百 … |
