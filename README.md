@@ -31,10 +31,12 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-10-27 | [用 DashPlayer 看美剧学英语](https://depp.wang/2026/dashplayer/) | 最近在用 DashPlayer 看《绝命毒师》学英语，体验下来觉得还可以，推荐给也想用本地视频、音频学英语的朋友。软件开源免费，可以控制字幕显示，也方便反复听一句台词。 它支持 Windows 和 Mac，我自己用的是 Mac，下面就按我在 Mac 上的使用方式来写。 先到 官方下载页面 ，展开 A… |
 | 2026-10-27 | [Memos: 土木工程专业’冷‘到如此](https://blog.yasking.org/a/1793099535) | 这周末参加好友婚礼，聊起土木工程。某排名靠前的985高校，土木专业今年本科只招了 8 个人，早些年却有一百大几十、接近两百 … |
 | 2026-10-27 | [Lemmings updated](https://macsourceports.com/game/lemmings) | The build of Ultimate Lemmings for Lemmings has been updated to version v2.3 of the project |
+| 2026-10-27 | [一个 nmem 实例给家里多人用、互相隔](https://versun.me/blog/tweet-2114982211581853959) | 一个 nmem 实例给家里多人用、互相隔离，目前有没有推荐的做法呀，按 space 隔离的话，没办法关掉 owner 的资料，还是会有污染的情况，或许每个 space 配自己的 Owner 资料是不是会更好些 @wey_gu |
 | 2026-10-27 | [野人编年史](http://imlane.zhanglintc.co/ye-ren-bian-nian-shi) | 野人编年史 野人创始人 徐队 ，群昵称Shogun。姓徐，称徐队，真野人队长，野人 抖音官号 持有者。 张队 ，群昵称张小不。江湖人称竹节虫，简称虫队。 熊队 ，群昵称熊嘎婆，称熊队。 野人CLUB游泳事业部 群主。 亮队 ，群昵称亮什么，称亮队，野人 小红书官号 持有者。 野人成员 野人群像 野人… |
 | 2026-10-27 | [谁说普通人了](https://www.hecaitou.com/2026/10/who-said-anything-about-ordinary-people.html) | 我说网络上充斥着 AI 写的文章，有人看到之后说：和菜头三个月前还支持 AI 辅助创作文章，没想到三个月之后态度就 180° 大反转。 看，这就是个很好的例子，有 AI 没 AI，阅读理解能力救不了就是救不了。 很多人想写文章，要写文章，但是写不出来，用 AI 帮忙这种事情，我为什么不支持？很多人那… |
-| 2026-10-27 | [赴美的前前后后](https://www.jackpu.com/fu-mei-de-qian-qian-hou-hou/) | 在经历了 大事件 后没多久，自己收到了赴美的邀约。 这个大概是人生最为纠结但却无关得失的事情，如同此时此刻，我觉得裁员再一次发生也是一件有失有得的事情。 我后续可以写一些较为详细的篇章来阐述一些细节，今天还是按照时间线写写前前后后发生的事情。 在 大事件 篇章后，自己没过多久收到赴美的工作 relo… |
+| 2026-10-27 | [赴美的前前后后](https://www.jackpu.com/fu-mei-de-qian-qian-hou-hou/) | 在经历了 《大事件》 后没多久，自己收到了赴美的邀约。 这个大概是人生最为纠结但却无关得失的事情，如同此时此刻，我觉得裁员再一次发生也是一件有失有得的事情。后续可以写一些较为详细的篇章来阐述一些细节，今天还是按照时间线写写前前后后发生的事情。 起点 在 《大事件》 篇章后，自己没过多久收到赴美的工作… |
 | 2026-10-27 | [程序会导致双标？](https://mobius.blog/26002.html) | 何为程序？就比如最近闹得沸沸扬扬的“星巴克取消第三空间”的话题——星巴克开始取消原本对外公开开放的免费第三空间 […] |
+| 2026-10-27 | [OpenAI 到底在干嘛？ 2026下半](https://versun.me/blog/tweet-2114886286582657444) | OpenAI GPT-6.1 Terra: delivering fast and capable computer use at a lower price. GPT-6.1 Terra understands what’s on screen, takes action across apps,… |
 | 2026-10-27 | [2026年Spaceship 优惠码](https://www.evan.xin/5133/) | 2026 年 10 月目前可用的 Spaceship 优惠码（域名为准，第三方网站整理的代码可能在个别地区失效 […] |
 | 2026-10-27 | [Memos #2026-10-26](https://blog.itaober.com/memos/memo_20261026151853_mlotcf) | 23:20 沐上树梢融入得很好，听感和谐。 本期最佳梗：粉都不是南宁，是墨西哥！ |
 | 2026-10-26 | [让 Dot 和 Lody 组成一个 AI 协作团队：从任务派发到验收的实践](https://ghyghoo8.github.io/2026/10/27/2026-10-27-%E8%AE%A9Dot%E5%92%8CLody%E7%BB%84%E6%88%90%E4%B8%80%E4%B8%AAAI%E5%8D%8F%E4%BD%9C%E5%9B%A2%E9%98%9F/) | 当一个任务需要查资料、改代码、跨机器执行，再把结果交回来验收时，问题很快就不只是“让哪个 AI 来做”。任务发给了谁？它在哪台机器上工作？另一位执行者看到的是不是同一份资料？回报里的“完成”，究竟代表会话结束，还是成果已经通过验收？ 这篇文章记录我们围绕 Dot、Codex Cloud 和 Lody… |
@@ -163,24 +165,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-10-21 | [兄弟们！我发现这个搭配，非常适合 her](https://versun.me/blog/tweet-2112715157080346959) | 兄弟们！我发现这个搭配，非常适合 hermes： 使用 moa 模式！ deepseek v4.1 flash 做为参考模型，发挥短平快的绝佳单兵能力，快速出思路 gemini 3.8 flash 做为聚合模型，上下文大且不怎么退化，容错强，多轮循环稳定，执行后总结说人话！ 而且这2个额度都管够！！… |
 | 2026-10-21 | [不仅支持皮衣厂，还支持遥遥领先 Deep](https://versun.me/blog/tweet-2112711314464489487) | DeepSeek 🚀 Introducing DeepInfer, our in-house inference framework, now fully open source! Powering DeepSeek-V4.1-Flash at scale with high throughput… |
 | 2026-10-21 | [独立游戏简评 Vol.6](https://bluepika.life/blog/indie-game-notes-6) | 这期只聊两个游戏，刚好它们都是幸存者 Like 游戏，先给出我的评价，它们在幸存者这类型游戏上都做了一些新的尝试，并且都带给我了不少快乐，我认为这两款独立游戏都值得推荐，另外这次也将会从 Cora 的视角来看看这两款游戏的体验怎么样。 球比伦战记 这是今年某一周里 Nintendo Online 的… |
-| 2026-10-20 | [啸风山庄](https://www.geedea.pro/library/2026/wuthering-heights/) | 《啸风山庄》是经典英国文学 Wuthering Heights 的新译本，译者是赖慈芸。这本在大陆更常见的译名是《呼啸山庄》，在台湾的译名是《咆哮山庄》，译者本人是台湾师范大学翻译研究所教授，可以说这个新译本统一了两岸的译名。书中还附上《啸风山庄》的翻译简史，读起来蛮有趣。曾经 Wuthering… |
-| 2026-10-20 | [入蜀记 day512 刚需与服从性](https://z.arlmy.me/posts/BBBPandINSW/INSW-deep/INSW_512/) | 「刚需与服从性。」 |
-| 2026-10-20 | [入蜀记 day511 二手文章、小饭骨、乱花争放](https://z.arlmy.me/posts/BBBPandINSW/INSW-deep/INSW_511/) | 「二手文章、小饭骨、乱花争放。」 |
-| 2026-10-20 | [AI 早报 2026-10-21：10.21总结；英伟达发布 OpenShell 参考架构：给企业智能体上“三道锁”](https://www.jtxyh.com/daily/2026-10-21/) | 2026-10-21 AI 早报，共 39 条动态。本期重点是企业 AI 的部署与控制。英伟达10月21日在柏林 GTC 大会上发布 OpenShell 参考架构，把开源 OpenShell 安全运行时扩展成全栈智能体基础设施：模型跑在 Vera Rubin 系统上，智能体支架和工具调用跑在 Ver… |
-| 2026-10-20 | [初探优化器（一）：从SGD到SOAP-Muon](https://mer.dev/posts/optimizers-revisited-1/) | 初探优化器系列的第一篇，整理一下我对已有优化器工作的理解。 |
-| 2026-10-20 | [入蜀记 day510 二姐、没有根的演奏者、足火水仙、我去哪儿](https://z.arlmy.me/posts/BBBPandINSW/INSW-deep/INSW_510/) | 「二姐、没有根的演奏者、足火水仙、我去哪儿。」 |
-| 2026-10-20 | [入蜀记 day509 未完成的文本、无数个世界、止疼药](https://z.arlmy.me/posts/BBBPandINSW/INSW-deep/INSW_509/) | 「未完成的文本、无数个世界、止疼药。」 |
-| 2026-10-20 | [入蜀记 day508 Teste先生](https://z.arlmy.me/posts/BBBPandINSW/INSW-deep/INSW_508/) | 「Teste先生。」 |
-| 2026-10-20 | [「听不懂话」的销售](https://blog.solazy.me/20261020/) | 又是今天的一个真实事件引发的一段思考 |
-| 2026-10-20 | [日本高中生物（基础部分）](https://springwood.me/jp-highschool-biology-1/) | （摘要）我在读高中时、书上说催化剂又称触媒。但是我从来没听人这么叫过。现在才发现原来中文的“催化剂”在日语里叫做「触媒」。 |
-| 2026-10-20 | [油管｜web网站和固件下载](https://dsx2016.com/youtube-website-and-firmware-downloads/) | 固件产品 有时候油管视频作为吃饭或者睡觉背景音 有时候油管视频主要是教程和资源类 有时候油管视频是信息，娱乐，... 油管｜web网站和固件下载 最先出现在 大师兄2016 。 |
-| 2026-10-20 | [免费域名接入 Cloudflare 的一个小技巧](https://www.gaojinan.com/free-subdomain-cloudflare-double-hyphen.html) | 免费域名想接入 CF，可以试试在申请的时候把名字写成 xx--example，也就是第 3、4 位用两个半角横线。例如下面这种格式（仅作示例）：ab--myblog.freedomain.kgc... |
-| 2026-10-20 | [有用上 oppo 的 ai 心力球吗，感](https://versun.me/blog/tweet-2112428444089045498) | 有用上 oppo 的 ai 心力球吗，感觉怎么样 老早就有类似的想法了，当初是想用大疆的 mic mini 2s 搭配 hermes 来实现，不过一直拖到现在。。 |
-| 2026-10-20 | [Google AI Pro 学生羊毛：Google AI Pro + YouTube Premium 两年半](https://www.gaojinan.com/google-ai-pro-student-benefit-youtube-premium.html) | 最近 Google 的学生优惠又更新了。符合条件的账号可以先领 12 个月 Google AI Pro 免费试用；如果账号所在地区还能订阅 Google AI Pro + YouTube Pre... |
-| 2026-10-20 | [a16z推出社交网络 Cosign：背书有多重要？](https://wenfeixiang.com/2026/10/cosign-by-a16z/) | 在9月底的一次播客上，美国知名风投机构 a16z 的 4位合伙人：Erik Torenberg 与 Josh […] |
-| 2026-10-20 | [一种培养收纳习惯的有效方式](https://www.hecaitou.com/2026/10/an-effective-way-to-build-a-tidying-habit.html) | 按照稍微宽松一点的标准来说，我现在算是有收拾家的习惯了。不时会主动归置归置物品，整理整理各处台面，完全背离了我之前四十多年的天性。 我天性喜欢乱丢乱放随手扔，多年来被无数人无数次挽救过。但是没有用，举再多名人的例子，我也总是能找出无数名人反例，他们垃圾堆一样的书桌，他们无处下脚的书房，诸如此类。 感… |
-| 2026-10-20 | [有订阅 Google AI Ultra](https://versun.me/blog/tweet-2112358811810005352) | 有订阅 Google AI Ultra 的吗，如果只用Gemini 4 Argon的话，额度相比只用 Opus 5.5 的 Claude max 5x 哪个更多呀 |
-| 2026-10-20 | [处决童年的自己 I](https://mobius.blog/25949.html) | 周末的咖啡厅，带孩子出来玩的人变得多起来。比如此时此刻，在我的视野里，就有两个推着婴儿车来咖啡厅休息的家庭，他 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
 
 ## Vibe Coding
 

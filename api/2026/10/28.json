@@ -1,0 +1,296 @@
+[
+  {
+    "title": "复制 DerivedData 根本没用：用 worktree 池让 Xcode 告别冷编译",
+    "url": "https://blog.tomyail.com/ios-git-worktree-xcode-deriveddata-optimization/",
+    "date": "2026-10-27T16:33:18Z",
+    "description": "我让多个 AI Agent 各用一个 Git Worktree 开发 iOS 项目，结果 Xcode 的 DerivedData 占了 94 GB，每个新目录都要冷编译。记录我试过的三种做法：DerivedData 放进项目、用 Worktrunk 复制缓存、固定几个 worktree 换分支。最后一种在我的项目上把换任务后的编译从 82 秒降到 26 秒。",
+    "source_root_domain": "tomyail.com"
+  },
+  {
+    "title": "用 DashPlayer 看美剧学英语",
+    "url": "https://depp.wang/2026/dashplayer/",
+    "date": "2026-10-27T15:09:27Z",
+    "description": "最近在用 DashPlayer 看《绝命毒师》学英语，体验下来觉得还可以，推荐给也想用本地视频、音频学英语的朋友。软件开源免费，可以控制字幕显示，也方便反复听一句台词。 它支持 Windows 和 Mac，我自己用的是 Mac，下面就按我在 Mac 上的使用方式来写。 先到 官方下载页面 ，展开 Assets，找到适合自己电脑的安装包。Mac 下载以 .dmg 结尾的文件，M 系列芯片选 arm64 ，Intel 芯片选 x64 ，不要下载 Source code，那是源代码。下载后打开，把 DashPlayer 拖进 Applications 文件夹就可以了。 安装说明 。",
+    "source_root_domain": "depp.wang"
+  },
+  {
+    "title": "Memos: 土木工程专业’冷‘到如此",
+    "url": "https://blog.yasking.org/a/1793099535",
+    "date": "2026-10-27T11:12:15Z",
+    "description": "这周末参加好友婚礼，聊起土木工程。某排名靠前的985高校，土木专业今年本科只招了 8 个人，早些年却有一百大几十、接近两百 …",
+    "source_root_domain": "yasking.org"
+  },
+  {
+    "title": "Lemmings updated",
+    "url": "https://macsourceports.com/game/lemmings",
+    "date": "2026-10-27T11:00:48Z",
+    "description": "The build of Ultimate Lemmings for Lemmings has been updated to version v2.3 of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "一个 nmem 实例给家里多人用、互相隔",
+    "url": "https://versun.me/blog/tweet-2114982211581853959",
+    "date": "2026-10-27T07:27:08Z",
+    "description": "一个 nmem 实例给家里多人用、互相隔离，目前有没有推荐的做法呀，按 space 隔离的话，没办法关掉 owner 的资料，还是会有污染的情况，或许每个 space 配自己的 Owner 资料是不是会更好些 @wey_gu",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "野人编年史",
+    "url": "http://imlane.zhanglintc.co/ye-ren-bian-nian-shi",
+    "date": "2026-10-27T07:02:20Z",
+    "description": "野人编年史 野人创始人 徐队 ，群昵称Shogun。姓徐，称徐队，真野人队长，野人 抖音官号 持有者。 张队 ，群昵称张小不。江湖人称竹节虫，简称虫队。 熊队 ，群昵称熊嘎婆，称熊队。 野人CLUB游泳事业部 群主。 亮队 ，群昵称亮什么，称亮队，野人 小红书官号 持有者。 野人成员 野人群像 野人声明 从 泳往直前 过来加入的朋友： 野人 在加入 泳往直前 之前就已成立，我们不是另起炉灶，我们也不搞分裂主义，我们永远欢迎 泳往直前 成员加入 野人 。 从小红书、抖音，或者其他途径加入的朋友： 欢迎加入 野人 ，也永远欢迎 野人 的成员随时加入 泳往直前 。 加入 野人 需要认可 野人 ，对组织有认可感、归属感。 野人 创始人均为业余爱好者，但是无论是新手还是高手，都希望大家互相尊重、互相帮助，一起快乐玩水。若参加户外活动请务必正确佩戴跟屁虫，不盲目下水。务必注意自我防护，安全责任自负。 2024年 6月 徐队带张队第一次下凤溪沱。 亮队不时参与凤溪沱游江活动。 10月 熊队正式加入，并介绍徐队、张队加入 大竹林冬泳队 。 徐队、张队、熊队日常于 大竹林冬泳基地 进行户外游泳，队伍初具",
+    "source_root_domain": "zhanglintc.co"
+  },
+  {
+    "title": "谁说普通人了",
+    "url": "https://www.hecaitou.com/2026/10/who-said-anything-about-ordinary-people.html",
+    "date": "2026-10-27T04:49:53Z",
+    "description": "我说网络上充斥着 AI 写的文章，有人看到之后说：和菜头三个月前还支持 AI 辅助创作文章，没想到三个月之后态度就 180° 大反转。 看，这就是个很好的例子，有 AI 没 AI，阅读理解能力救不了就是救不了。 很多人想写文章，要写文章，但是写不出来，用 AI 帮忙这种事情，我为什么不支持？很多人那么写出来了，发出来了，他们自身并没有把 AI 文章推送到我面前的能力。那么，是谁推的？谁应该对此负责？ 我说网络充斥着 AI 写的文章，算法也乐意推荐---根据这个说法，我的态度是批评普通人用 AI 写文章？我是归因于普通人？还是说我认为平台以及平台的算法有问题，需要批评？ 今天还和朋友讨论，为什么中文世界的 AI 回答起问题来总是一惊一乍，从头到尾都是浓郁的说书感？大家的共识是基础语料库就有问题，抓取来的各种网络热文在一开始就是垃圾。在这个地基上发展起来的模型，输出内容的时候就是那种味道，因为审美和智力都败坏了。 而我向朋友特别提到一点，文本质量本身很重要，因为人类发展的是 AI，是某种智能。而智能是有门槛的，需要训练 AI 的思考能力，分析能力。相对而言，选择那些热文训练，训练出来的结果",
+    "source_root_domain": "hecaitou.com"
+  },
+  {
+    "title": "赴美的前前后后",
+    "url": "https://www.jackpu.com/fu-mei-de-qian-qian-hou-hou/",
+    "date": "2026-10-27T04:13:52Z",
+    "description": "在经历了 《大事件》 后没多久，自己收到了赴美的邀约。 这个大概是人生最为纠结但却无关得失的事情，如同此时此刻，我觉得裁员再一次发生也是一件有失有得的事情。后续可以写一些较为详细的篇章来阐述一些细节，今天还是按照时间线写写前前后后发生的事情。 起点 在 《大事件》 篇章后，自己没过多久收到赴美的工作 relocate 的选项确认，相比去年底赴美参加线下会议，我明白这一次会完完全全不一样的体验。 自己整个五月份都在和家里人纠结是否该去，在眼前的无非就是接着这份工作，换个地方工作，而另外一个选项就是不久后领赔偿告别这份工作。而自己的家人，可以跟着或者不跟着，这是另外一个选项。 匆匆忙忙 五月底确认了全家赴美的决定，开始准备资料准备签证。当这个决定确认之后，对于自己以及家人，未来会完全是另外一种生活。我们大概预测过，消费的压力，语言的困境，杂七杂八的琐事等等。我原本想和妻子录制一期视频，在出发美国前，记录对未来生活的或者美国生活的预测，可惜后续时间赶依然忘记这一出。 虽然签证的资料非常多，各式各样的表格，照片，证件，好在现在 AI 时代，这些都是非常容易的事情。我记得五月底我们提交了表格，然",
+    "source_root_domain": "jackpu.com"
+  },
+  {
+    "title": "程序会导致双标？",
+    "url": "https://mobius.blog/26002.html",
+    "date": "2026-10-27T03:46:58Z",
+    "description": "何为程序？就比如最近闹得沸沸扬扬的“星巴克取消第三空间”的话题——星巴克开始取消原本对外公开开放的免费第三空间 […]",
+    "source_root_domain": "mobius.blog"
+  },
+  {
+    "title": "OpenAI 到底在干嘛？ 2026下半",
+    "url": "https://versun.me/blog/tweet-2114886286582657444",
+    "date": "2026-10-27T01:05:58Z",
+    "description": "OpenAI GPT-6.1 Terra: delivering fast and capable computer use at a lower price. GPT-6.1 Terra understands what’s on screen, takes action across apps, writes naturally, and is a more capable model for your whole workday with the efficiency to take on more OpenAI 到底在干嘛？ 2026下半年最让人困惑的2个公司：OpenAI 和 Kimi 最悲催的公司：智谱 最惊喜的公司：Google、DeepSeek 最渣的公司：A/",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "2026年Spaceship 优惠码",
+    "url": "https://www.evan.xin/5133/",
+    "date": "2026-10-27T00:52:34Z",
+    "description": "2026 年 10 月目前可用的 Spaceship 优惠码（域名为准，第三方网站整理的代码可能在个别地区失效 […]",
+    "source_root_domain": "evan.xin"
+  },
+  {
+    "title": "Memos #2026-10-26",
+    "url": "https://blog.itaober.com/memos/memo_20261026151853_mlotcf",
+    "date": "2026-10-27T00:00:00Z",
+    "description": "23:20 沐上树梢融入得很好，听感和谐。 本期最佳梗：粉都不是南宁，是墨西哥！",
+    "source_root_domain": "itaober.com"
+  },
+  {
+    "title": "让 Dot 和 Lody 组成一个 AI 协作团队：从任务派发到验收的实践",
+    "url": "https://ghyghoo8.github.io/2026/10/27/2026-10-27-%E8%AE%A9Dot%E5%92%8CLody%E7%BB%84%E6%88%90%E4%B8%80%E4%B8%AAAI%E5%8D%8F%E4%BD%9C%E5%9B%A2%E9%98%9F/",
+    "date": "2026-10-26T16:00:00Z",
+    "description": "当一个任务需要查资料、改代码、跨机器执行，再把结果交回来验收时，问题很快就不只是“让哪个 AI 来做”。任务发给了谁？它在哪台机器上工作？另一位执行者看到的是不是同一份资料？回报里的“完成”，究竟代表会话结束，还是成果已经通过验收？ 这篇文章记录我们围绕 Dot、Codex Cloud 和 Lody 建立的一套协作方法：由 Dot 对接目标和协调任务，开发任务在明确的执行环境中推进，需要跨节点协作时借助 Lody，最后沿原任务回传证据、复核成果。文中也会用一次真实的远端交接实践说明，为什么“任务结束”和“业务完成”必须分开看。 这是一套针对我们当前工作方式总结的实践，不是平台默认自动提供的组织架构。不同环节分别验证；文末会说明已经做到哪里，以及哪些链路仍需补证据。",
+    "source_root_domain": "ghyghoo8.github.io"
+  },
+  {
+    "title": "AI 早报 2026-10-27：Guidewire 拟以17亿美元现金收购保险AI软件公司 hyperexponential",
+    "url": "https://www.jtxyh.com/daily/2026-10-27/",
+    "date": "2026-10-26T16:00:00Z",
+    "description": "2026-10-27 AI 早报，共 9 条动态。Guidewire 10月27日宣布签署收购协议，基础现金对价为17亿美元，另有最高4亿美元的款项取决于经常性收入目标。IBM 在10月27日的 TechXchange 公告中介绍了 watsonx Orchestrate 的新管理能力：从 Amazon…",
+    "source_root_domain": "jtxyh.com"
+  },
+  {
+    "title": "2026翻墙协议对比",
+    "url": "https://elmagnifico.tech/2026/10/27/VPN-Compare/",
+    "date": "2026-10-26T16:00:00Z",
+    "description": "Foreword 26.10.26，昨天刚好切换协议的uuid，测试的时候还全是好的，刚测完就接近全挂了。查了半天还以为是我改的有问题，仔细一看都是端口被封了，看起来和之前遇到封禁的或者阻断非常相似。 没想到用了这么久的xray+vless+reality 也要下线了吗，翻了一下帖子，似乎都遇到了这个情况 https://v2ex.com/t/1251991 reality还是顶了好久的，距离上一次折腾过了2年，之前无论大小会议，都不会有啥问题，正常使用，没想到这次9个vps，挂了8个，只有一个是我自己的网站，没挂。 协议对比 协议 这里比较的是协议设计和使用条件，不是这次封锁的存活率；目前没有足够的多地区、跨运营商测试，能给这些协议排出一个可靠的抗封锁名次。 协议或组合 底层传输 域名与证书 主要特点 使用限制 Shadowsocks AEAD TCP / UDP 不需要域名和证书 预共享密钥加密，开销较小，客户端覆盖广 裸流量呈随机字节，不能 HTTPS 伪装；不同实现的防探测处理有差异 Shadowsocks 2022 TCP / UDP 不需要域名和证书 更新密钥派生、强制完整",
+    "source_root_domain": "elmagnifico.tech"
+  },
+  {
+    "title": "Atomic habits",
+    "url": "https://blog.bensontech.dev/posts/atomic-habits/",
+    "date": "2026-10-26T16:00:00Z",
+    "description": "One method to help us control habits which left me great impression while I read atomic habits is that we can separate devices/space with difference usage. For example, we can have a dedicated Phone for entertainment, another one for daily work. We have a dedicated space/room for reading, a dedicated chair for listening podcast. The Phone nowdays are basically oppsite, at least for me. I use my Phone for everything, work, gathering information, chat with families. So, it’s almost all of my life.",
+    "source_root_domain": "informal.top"
+  },
+  {
+    "title": "认知不易，循环反馈",
+    "url": "https://usmacd.com/cn/knowledge_and_feedback/",
+    "date": "2026-10-26T16:00:00Z",
+    "description": "前段时间看到一段话： 普通人通常在35岁至40岁才会明白社会运行的真相和逻辑，但这时的人们正好被钉在生活的十字架上无力挣扎。而上层阶级出生的人，在20几岁时就已经通透，而且还不用考虑过多的试错成本，因那是一种传承，用几代人的智慧浇灌出来的。人生最大的浪费不是金钱的浪费，而是时间的浪费，认知的迟到。 当我看到这段",
+    "source_root_domain": "usmacd.com"
+  },
+  {
+    "title": "漫谈心底那份夜雨与深秋",
+    "url": "https://blog.mfwt.top/index.php/archives/1679/",
+    "date": "2026-10-26T15:57:00Z",
+    "description": "笔者一直有一个很想问自己的问题：为什么会选择『枫林灯语』这几个字作为站点名（甚至在正式建站前很久就已经存在了，所以至少不是一拍脑袋想出来的）。虽然在关于页里面，已经解释过会有『近乎于惆怅的宁静感...",
+    "source_root_domain": "mfwt.top"
+  },
+  {
+    "title": "R#125 AgentHelm",
+    "url": "https://blog.sakanano.moe/journals/random_125",
+    "date": "2026-10-26T15:30:00Z",
+    "description": "2026.10.20 ~ 2026.10.26",
+    "source_root_domain": "sakanano.moe"
+  },
+  {
+    "title": "Everything is Harness： 从 Prompt Engineering 到 Context Engineering 再到 Harness Engineering",
+    "url": "https://www.ixiqin.com/2026/10/26/harness-engineering/",
+    "date": "2026-10-26T15:14:58Z",
+    "description": "在 Harness Engineering 这个概念逐渐流行甚至要过气之后，我终于理解了这个词背后的含义。作为 […]",
+    "source_root_domain": "ixiqin.com"
+  },
+  {
+    "title": "SFC 游戏：洛克人七代（Rockman 7）",
+    "url": "https://springwood.me/sfc-rockman-7/",
+    "date": "2026-10-26T15:00:00Z",
+    "description": "（摘要）画面很漂亮，可惜倒数第二个 boss 太痛苦了",
+    "source_root_domain": "springwood.me"
+  },
+  {
+    "title": "在职场舒适地做自己",
+    "url": "https://blog.solazy.me/20261026/",
+    "date": "2026-10-26T15:00:00Z",
+    "description": "今天继续聊职场话题",
+    "source_root_domain": "solazy.me"
+  },
+  {
+    "title": "不及格",
+    "url": "https://yipai.me/post/2555.html",
+    "date": "2026-10-26T14:29:01Z",
+    "description": "下午语文老师在群里发消息，说听写声母，有 24 个同学全对，8个同学不合格。晚上回家天塌了，原来我儿子就是这 8 个人之中的一个。听写 21 个声母，他只写了 5 个。问题就是写的太慢，总想写成标准印刷体，说过很多次，优先完成，再考虑是否美观，毫无用处。其他作业也是类似，比如读拼音，错一个他就从头重新开始，一晚上都读不完。说可以只读读错的那个，没用，不听。一",
+    "source_root_domain": "yipai.me"
+  },
+  {
+    "title": "核合成",
+    "url": "https://physnya.top/astro-physics/lesson-5-nuclear-synthesis/",
+    "date": "2026-10-26T14:12:28Z",
+    "description": "核合成 超重核素一般在恒星中通过没有 Coulomb 势垒的中子俘获过程产生，分为慢中子俘获和快中子俘获两种过程，二者各自贡献了当今宇宙中超重核素的将近一半. 一个典型的中子俘获过程： 56 Fe + n → 57 Fe + n → 58 Fe + n → 59 Co + n → 60 Co → 60 Ni ^{56}\\text{Fe}+\\text{n}\\to{}^{57}\\text{Fe}+\\text{n}\\to{}^{58}\\text{Fe}+\\text{n}\\to{}^{59}\\text{Co}+\\text{n}\\to{}^{60}\\text{Co}\\to{}^{60}\\text{Ni} 56 Fe + n → 57 Fe + n → 58 Fe + n → 59 Co + n → 60 Co → 60 Ni",
+    "source_root_domain": "physnya.top"
+  },
+  {
+    "title": "超新星 & 中子星",
+    "url": "https://physnya.top/compact-object/lesson-6-supernova-and-neutron-star/",
+    "date": "2026-10-26T14:12:28Z",
+    "description": "在中国古代曾经观察到过好几次超新星的爆发事件. 中子星在观测上的最早确认是在 1960s，得益于射电望远镜的发达，发现脉冲星. 大质量恒星在生命晚期的结构类似洋葱，其不同元素形成不同层，而中心铁核只能通过电子简并压来维持，一旦中心到达 Chandrasekhar 极限就会进一步坍缩. 而下一个抵抗引力的压力只能是中子简并压. 同样，算出中子简并压为 P = p F 5 15 π 2 m n h 3 = ℏ 2 ( 3 π 2 ) 2 / 3 5 m n ⋅ n e 5 / 3 ∝ ρ 5 / 3 , non-relativistic P = c p F 4 12 π 2 h 3 = ℏ c ( 3 π 2 ) 1 / 3 4 ⋅ n e 4 / 3 ∝ ρ 4 / 3 , relativistic \\begin{aligned} &P = \\frac{pF^5}{15\\pi^2mnh^3} = \\frac{\\hbar^2(3\\pi^2)^{2/3}}{5mn}\\cdot ne^{5/3}\\propto \\rho^{5/3},\\quad \\text{non-relativistic}\\\\",
+    "source_root_domain": "physnya.top"
+  },
+  {
+    "title": "花 20 元，让实体卡手机也能用上 eSIM",
+    "url": "https://depp.wang/2026/esim-euicc/",
+    "date": "2026-10-26T13:18:27Z",
+    "description": "如果像出国旅游想用 eSIM 流量套餐，但手机只有实体卡槽，可以试试小白卡。 它就是一张可以写入 eSIM 信息的实体卡，写好之后，像普通手机卡一样插进手机使用。小白卡和 9eSIM 这类实体卡，基本原理一样，都是把 eSIM 套餐装进卡里。卡本身不带流量，套餐需要另外购买。 拼多多搜索「eSIM 小白卡」或「eUICC 实体卡」就能找到，我当时买的价格大概 20 元。买之前确认支持 EasyEUICC，以及能保存多少个套餐。只是旅游时用，没必要追求大容量。",
+    "source_root_domain": "depp.wang"
+  },
+  {
+    "title": "Kimi 开创历史，只重置25%，看来是",
+    "url": "https://versun.me/blog/tweet-2114704741187850425",
+    "date": "2026-10-26T13:04:34Z",
+    "description": "Kimi.ai We're sorry for the rate limits and unnecessary quota consumption on the K3.1 Pro subscription plan. These were our issues, and we should have fixed them sooner. Today, every subscriber on every plan gets a one-time usage reset, restoring 25% of the Kimi 开创历史，只重置25%，看来是真缺卡😂😂",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "Quetoo updated",
+    "url": "https://macsourceports.com/game/quetoo",
+    "date": "2026-10-26T11:00:45Z",
+    "description": "The build of Quetoo has been updated to version v1.0.136 of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "Total Annihilation updated",
+    "url": "https://macsourceports.com/game/totalannihilation",
+    "date": "2026-10-26T11:00:44Z",
+    "description": "The build of Open Annihilation for Total Annihilation has been updated to version v0.8.6.1 of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "尝试每周四晚上在上海举办 Tab 星期四线下聚会",
+    "url": "https://www.owenyoung.com/tab",
+    "date": "2026-10-26T10:42:21Z",
+    "description": "从 10 月 29 日开始，我和 海涛 每周四晚上会在上海 706 办一个小型聚会，叫 Tab 星期四 。形式有点像线下版的 Hacker News 或 TIL （Today I Learned），每个人带一个这周想分享的 Tab，先分享 1–3 分钟，再交流 2 分钟。 时间是每周四 19:30–21:30，地点在上海 706（长宁区延安西路迎龙大厦 1 号楼 9 楼），最多 20 人。感兴趣的话可以在 这里 报名，这周来不了的朋友可以先加入 活动通知群 。完整的活动介绍在文末。 这篇文章主要是趁现在还记得清楚，想把发起这个活动的经过记录一下。",
+    "source_root_domain": "owenyoung.com"
+  },
+  {
+    "title": "ICT 核心概念笔记：流动性、FVG、Power of 3 与订单块",
+    "url": "https://blog.forecho.com/learn-every-ict-concept.html",
+    "date": "2026-10-26T09:00:00Z",
+    "description": "引言 这篇是我看 Pro Trading School 的视频 Learn Every ICT Concept in 17 Minutes (Liquidity, FVG, Order Blocks & More) 后整理的笔记。视频发布于 2025 年 6 月 7 日，全长约 17 分半，依次讲流动性、流动性陷阱、公允价值缺口（FVG）、Power of 3 和订单块（OB）。 这些概念放在一起，可以帮助我们按顺序看一张图：哪里可能集中着止损单，价格有没有扫过那里，随后是否出现结构突破，回调时又该关注哪一片区域。我按这个顺序整理正文，每张截图下面都写了中文读图说明，时间链接可以直接跳回原视频。 这里保留视频作者的策略规则，同时把我的补充说明单独标出。「聪明钱吸筹」「机构猎取止损」属于 ICT / SMC 对价格行为的解释；K 线能直接展示的是价格、区间和突破，具体参与者及其订单需要其他数据佐证。文中的规则用于理解这套方法，收益和胜率仍需独立回测。 截图取自原视频，版权归 Pro Trading School 所有。 1. 流动性与两种常见陷阱 视频里的「流动性」主要指图表上 可能集中",
+    "source_root_domain": "forecho.com"
+  },
+  {
+    "title": "演讲视频：Do you want to be a SRE?",
+    "url": "https://www.kawabangga.com/posts/7443",
+    "date": "2026-10-26T08:09:23Z",
+    "description": "上周在 NUS 做了一个分享，内容是 SRE 的工作内容和成长路线。下面是录制的视频。 涉及的数据和 inci […] Continue reading... 相关文章: SRE&Devops 每周分享 Issue #1 Opening SRE&Devops 每周分享 Issue #4 AWS Layer",
+    "source_root_domain": "kawabangga.com"
+  },
+  {
+    "title": "GreenCloud绿云13周年促销活动",
+    "url": "https://www.cheshirex.com/11523.html",
+    "date": "2026-10-26T06:52:29Z",
+    "description": "重要通知：今年没有黑色星期五促销活动 我们希望尽早向大家完全公开透明，以免有人等待：GreenCloud 今年 […]",
+    "source_root_domain": "cheshirex.com"
+  },
+  {
+    "title": "2026.10.25",
+    "url": "https://www.justzht.com/2026-10-25/",
+    "date": "2026-10-26T06:07:07Z",
+    "description": "Epoch 现在通过一个 Playdate API 兼容层可以原生运行在 Mac 和一些其他平台上了。主要开发重心还是在 Playdate 上（毕竟其他平台的性",
+    "source_root_domain": "justzht.com"
+  },
+  {
+    "title": "声势浩大的知识产权盗窃",
+    "url": "https://www.geedea.pro/article/the-great-theft/",
+    "date": "2026-10-26T05:41:18Z",
+    "description": "之所以说「声势浩大」，是因为我成语储备不够，找不到「不要脸」的文雅说法。 蛛丝马迹 这几天我停用了 NetCup 的一台机子，换到了 SKRIME，装了 OpenBSD 系统愉快地玩了起来。结果，正好赶上 eMudhra 根证书密钥泄露 1 和 PHP2Shell 漏洞，于是赶紧在几台机器上更新 ca-certificates ，手动移除泄露的根证书。 然后我在其中一台机器上执行了 htop 。 “奇怪，我 VPS 上跑的服务 CPU 占用都应该很低才对，为什么现在涨到 60% 了？”当时的我光顾着四处更新证书和排查漏洞，便没有细想。再后来，我给那台新机子装上了 beszel-agent 配置监控和告警，瞟了一眼那台怪怪的机器——“我去，负载怎么红了？”从监控页面上来看，CPU 占用最高的容器是我的 Forgejo 实例。怪了，就算是我在编译软件， 那 CPU 早该爆满了 也应该是 Forgejo Runner 容器占用高才对。 前几天我的 Continuwuity 实例突然暴毙，数据库也挂了，还得运行紧急修复，当时发现磁盘已经写满了。当时以为是 Akkoma 数据库没清理，毕竟我联邦",
+    "source_root_domain": "geedea.pro"
+  },
+  {
+    "title": "自己修脚",
+    "url": "https://www.hecaitou.com/2026/10/The-Art-of-the-DIY-Pedicure.html",
+    "date": "2026-10-26T05:09:47Z",
+    "description": "说起来很奇怪，我本身很少出门，也很少运动，但是脚底的老茧却会自顾自疯长，感觉是我的脚陷入了某种终日远足的狂野幻想之中。 两周前，我把除湿机收起来，换上加湿机开始过冬天。就在当晚，我的脚后跟就自动皲裂，效果堪比金刚石砂纸。睡觉翻身的时候，稍微交叉一下小腿，脚后跟只是轻轻蹭了一下，能把我从梦中直接惊醒，感觉自己刚刚被大型捕食者舔了。 之前我都是去一家专业修脚店定期维护双脚，那里的每一位师傅都很喜欢我，因为有成就感。每次我斜倚在沙发上陷入半梦半醒之间，只要听到师傅一声满意的长叹，我就知道他马上要推我的脚，一定要让我起身看一眼，那一堆他削下来的成果。 现在那家店距离我变远了，我又懒得出门，于是就动了自己动手的念头。人就是这样的，看别人做事看得多了，就会很自然地认为「我会了」。不过我个人有个优点，那就是有自知之明，并不认为自己会了就真的能用师傅他们的那套工具。我还有个优点，那就是会上网买工具。 事情本身应该不复杂，我用不了纯手动的工具，难道我还用不了纯电动的工具？按照传统，我输入了「修脚神器」四个字，找寻时下最流行的电动工具。果然有，66 元就买了一整套电动磨脚器回来，而且还带着三个不同的磨头，",
+    "source_root_domain": "hecaitou.com"
+  },
+  {
+    "title": "AI时代如何看漫画",
+    "url": "https://www.nodealpha.me/Software-ai-manga.html",
+    "date": "2026-10-26T04:46:17Z",
+    "description": "在大AI时代，由于ChatGPT的加持，我的看漫画流程进一步进化了，主要分为 3 条路线： 下载漫画，走Komga加Koharia 在线漫画，走Suwayomi加Tsumiru 日文原版，走Saber-Translator自动翻译后接入2中的Suwayomi 下载漫画 以前的话，我是漫画下载、Komga 入库后在 Mihon 里边看。但痛点是Mihon的记录",
+    "source_root_domain": "nodealpha.me"
+  },
+  {
+    "title": "自用 ChatGPT/Codex 防御性编程/说话修正/PowerShell调用问题修正提示词分享",
+    "url": "https://kenvix.com/post/codex-prompt/",
+    "date": "2026-10-26T04:25:50Z",
+    "description": "受不了弱智的 ChatGPT/Codex 了，分享一些自用的提示词，主要用于防御性编程、说话修正、PowerShell调用问题修正等。 本文长期更新。上次更新时间：2026-10-26 12:25:50 另外致敬传奇暗改王 Tibo ，Codex 现在真实5小时额度和周额度的 Token 量有没有 Claude 的 1/5 都难说，6.1 Sol 降智到快和 Haiku 坐一桌了。",
+    "source_root_domain": "kenvix.com"
+  },
+  {
+    "title": "零信任的下一站是进程：OpenShell supervisor 的对照与超越",
+    "url": "https://atbug.com/openshell-supervisor-zero-trust-process/",
+    "date": "2026-10-26T04:00:00Z",
+    "description": "TL;DR 对照 NIST SP 800-207 逐条读 OpenShell supervisor 源码：这是一份零信任的教科书实现，且把信任主体推到了进程。 一条写了五年的零信任线 去年底写 《AuthZen 工作组：打造统一的授权模型交互标准》 的时候，重新梳理了一遍 XACML 的授权模型：PEP 拦截请求、PDP 对照策略决策、PIP 补充属性、PAP 管理策略——这套 2013 年标准化的四组件模型，到今天还是几乎所有授权系统的骨架。 更早的 2022 年，还写过一篇 SPIFFE 和 SPIRE ——workload 身份的标准与实现，是读《Solving the Bottom Turtle》时的总结与思考。零信任最热的那两年，也翻译过一批当时流行的文章： 云上细粒度访问管理的参考架构 （2021）——VPN 和堡垒主机的三不足，以及理想架构的三原则 《BeyondCorp Part III: The Access Proxy》解读 （2022）——Google 访问代理的认证、授权与集中日志 零信任对 Kubernetes 意味着什么 与 在 Kubernetes 上实施",
+    "source_root_domain": "atbug.com"
+  },
+  {
+    "title": "第两百万字",
+    "url": "https://mobius.blog/25986.html",
+    "date": "2026-10-26T02:08:15Z",
+    "description": "想着今年博客起码得完成第两百万字，这个目标算是达成了。 好在到现在，已经没有人再私信问我“为什么要写这么多”。 […]",
+    "source_root_domain": "mobius.blog"
+  },
+  {
+    "title": "Insaniquarium updated",
+    "url": "https://macsourceports.com/game/insaniquarium",
+    "date": "2026-10-26T00:03:22Z",
+    "description": "The build of Insaniquarium Portable for Insaniquarium has been updated to version 0.7 of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "Memos #2026-10-25",
+    "url": "https://blog.itaober.com/memos/memo_20261025095911_yayztl",
+    "date": "2026-10-26T00:00:00Z",
+    "description": "18:06 耍了一天 Codex，小小感慨一下。 只有开发公司项目的时候，才在产出价值（也不好说）。而自己搞些乱七八糟的，只是沉浸在「我在创造」所带来的装模作样的满足感。 emm，情绪价值也是价值吧！",
+    "source_root_domain": "itaober.com"
+  }
+]
