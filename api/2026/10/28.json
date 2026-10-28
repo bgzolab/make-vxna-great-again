@@ -1,5 +1,40 @@
 [
   {
+    "title": "Vibe Coding for TV：开源了一个电视投屏接收器",
+    "url": "https://atbug.com/vibe-coding-for-tv-leancast/",
+    "date": "2026-10-28T13:00:00Z",
+    "description": "TL;DR 一台 32 位的旧 Fire TV，一个晚上：系统精简出 1.9GB 存储，再从零写出一个 5MB 的开源投屏接收器，90 个单元测试和真机 E2E 全绿。 背景 几年前陆续买过两台外贸电视。所谓外贸电视，就是国内厂商给国外品牌代工的产品——我买的两台，一台是给 ONN 代工的；另一台就是今天要聊的这台 Amazon Fire TV，由 TCL 给 Amazon 代工，OEM 型号里的 SCBC_431PB-R 对应 43 寸 4K 面板。 配置放几年前还算能打：联发科 MT7632，四核 Cortex-A55，1.6GB 内存外加 400MB swap，支持 4K 和 HDR。系统是 Fire OS 7.7.1.7，基于 Android 9（SDK 28）。当年国产电视还满屏开机广告的时候，Fire OS 已经是 Amazon 自家的内容推荐，外加 Netflix、Disney+ 这些海外流媒体，观感干净不少。",
+    "source_root_domain": "atbug.com"
+  },
+  {
+    "title": "Quetoo updated",
+    "url": "https://macsourceports.com/game/quetoo",
+    "date": "2026-10-28T11:00:41Z",
+    "description": "The build of Quetoo has been updated to version v1.0.138 of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "远程工作不要居家",
+    "url": "https://smallyu.net/2026/10/28/%E8%BF%9C%E7%A8%8B%E5%B7%A5%E4%BD%9C%E4%B8%8D%E8%A6%81%E5%B1%85%E5%AE%B6/",
+    "date": "2026-10-28T10:34:16Z",
+    "description": "由于行业的特殊性质，我已经远程工作超过 3 年时间，期间至少换过 3 次工作，而每一次的新工作也都是远程形式。很多人觉得远程工作是一种 “福利”、“好处”，想尽办法想找远程工作，我实在不理解他们。 当然今天要说的是另外一件事情，3 年前我写《<a",
+    "source_root_domain": "smallyu.net"
+  },
+  {
+    "title": "免费域名怎么接入 Cloudflare Workers：用 SaaS 自定义主机名借道",
+    "url": "https://www.gaojinan.com/free-domain-cloudflare-saas-custom-hostname.html",
+    "date": "2026-10-28T09:09:12Z",
+    "description": "手里要是有个免费二级域名，想拿它跑 Cloudflare Workers 或 Pages，多半会卡在第一步：域名本身不在 Cloudflare 托管，常规的加站点、绑自定义域名那套走不通。硬接的...",
+    "source_root_domain": "gaojinan.com"
+  },
+  {
+    "title": "野人编年史",
+    "url": "http://imlane.zhanglintc.co/ye-ren-bian-nian-shi",
+    "date": "2026-10-28T08:55:07Z",
+    "description": "野人编年史 野人创始人 徐队 ，群昵称Shogun。姓徐，称徐队，真野人队长，野人 抖音官号 持有者。 张队 ，群昵称张小不。江湖人称竹节虫，简称虫队，野人 微信公众号 持有者。 熊队 ，群昵称熊嘎婆，称熊队。 野人CLUB游泳事业部 群主。 亮队 ，群昵称亮什么，称亮队，野人 小红书官号 持有者。 野人成员 野人群像 野人声明 从 泳往直前 过来加入的朋友： 野人 在加入 泳往直前 之前就已成立，我们不是另起炉灶，我们也不搞分裂主义，我们永远欢迎 泳往直前 成员加入 野人 。 从小红书、抖音，或者其他途径加入的朋友： 欢迎加入 野人 ，也永远欢迎 野人 的成员随时加入 泳往直前 。 加入 野人 需要认可 野人 ，对组织有认可感、归属感。 野人 创始人均为业余爱好者，但是无论是新手还是高手，都希望大家互相尊重、互相帮助，一起快乐玩水。若参加户外活动请务必正确佩戴跟屁虫，不盲目下水。务必注意自我防护，安全责任自负。 2024年 6月 徐队带张队第一次下凤溪沱。 亮队不时参与凤溪沱游江活动。 10月 熊队正式加入，并介绍徐队、张队加入 大竹林冬泳队 。 徐队、张队、熊队日常于 大竹林冬泳基",
+    "source_root_domain": "zhanglintc.co"
+  },
+  {
     "title": "笔记：C++ IO 加速与 freopen 顺序无关",
     "url": "https://blog.mxdyeah.com/post/cpp-io-sync-freopen-order-independent",
     "date": "2026-10-28T06:48:58Z",
@@ -26,6 +61,13 @@
     "date": "2026-10-28T02:03:52Z",
     "description": "我很相信动物直觉的，比如在狗公园时，特别是当我很厌烦一只狗时，多半也会因此厌烦这个狗的狗主人。而且狗本身也可以 […]",
     "source_root_domain": "mobius.blog"
+  },
+  {
+    "title": "三亚之旅",
+    "url": "https://www.iarthit.com/posts/2026/10/28/%E4%B8%89%E4%BA%9A%E4%B9%8B%E6%97%85.html",
+    "date": "2026-10-28T00:00:00Z",
+    "description": "旅行和一位女性朋友一起去三亚玩了5天，下面是我自己做的攻略，大家可以做参考。一共花费大概6000左右",
+    "source_root_domain": "iarthit.com"
   },
   {
     "title": "复制 DerivedData 根本没用：用 worktree 池让 Xcode 告别冷编译",
@@ -82,13 +124,6 @@
     "date": "2026-10-27T07:27:08Z",
     "description": "一个 nmem 实例给家里多人用、互相隔离，目前有没有推荐的做法呀，按 space 隔离的话，没办法关掉 owner 的资料，还是会有污染的情况，或许每个 space 配自己的 Owner 资料是不是会更好些 @wey_gu",
     "source_root_domain": "versun.me"
-  },
-  {
-    "title": "野人编年史",
-    "url": "http://imlane.zhanglintc.co/ye-ren-bian-nian-shi",
-    "date": "2026-10-27T07:02:20Z",
-    "description": "野人编年史 野人创始人 徐队 ，群昵称Shogun。姓徐，称徐队，真野人队长，野人 抖音官号 持有者。 张队 ，群昵称张小不。江湖人称竹节虫，简称虫队。 熊队 ，群昵称熊嘎婆，称熊队。 野人CLUB游泳事业部 群主。 亮队 ，群昵称亮什么，称亮队，野人 小红书官号 持有者。 野人成员 野人群像 野人声明 从 泳往直前 过来加入的朋友： 野人 在加入 泳往直前 之前就已成立，我们不是另起炉灶，我们也不搞分裂主义，我们永远欢迎 泳往直前 成员加入 野人 。 从小红书、抖音，或者其他途径加入的朋友： 欢迎加入 野人 ，也永远欢迎 野人 的成员随时加入 泳往直前 。 加入 野人 需要认可 野人 ，对组织有认可感、归属感。 野人 创始人均为业余爱好者，但是无论是新手还是高手，都希望大家互相尊重、互相帮助，一起快乐玩水。若参加户外活动请务必正确佩戴跟屁虫，不盲目下水。务必注意自我防护，安全责任自负。 2024年 6月 徐队带张队第一次下凤溪沱。 亮队不时参与凤溪沱游江活动。 10月 熊队正式加入，并介绍徐队、张队加入 大竹林冬泳队 。 徐队、张队、熊队日常于 大竹林冬泳基地 进行户外游泳，队伍初具",
-    "source_root_domain": "zhanglintc.co"
   },
   {
     "title": "谁说普通人了",
@@ -252,13 +287,6 @@
     "source_root_domain": "versun.me"
   },
   {
-    "title": "Quetoo updated",
-    "url": "https://macsourceports.com/game/quetoo",
-    "date": "2026-10-26T11:00:45Z",
-    "description": "The build of Quetoo has been updated to version v1.0.136 of the project",
-    "source_root_domain": "macsourceports.com"
-  },
-  {
     "title": "Total Annihilation updated",
     "url": "https://macsourceports.com/game/totalannihilation",
     "date": "2026-10-26T11:00:44Z",
@@ -276,7 +304,7 @@
     "title": "ICT 核心概念笔记：流动性、FVG、Power of 3 与订单块",
     "url": "https://blog.forecho.com/learn-every-ict-concept.html",
     "date": "2026-10-26T09:00:00Z",
-    "description": "引言 这篇是我看 Pro Trading School 的视频 Learn Every ICT Concept in 17 Minutes (Liquidity, FVG, Order Blocks & More) 后整理的笔记。视频发布于 2025 年 6 月 7 日，全长约 17 分半，依次讲流动性、流动性陷阱、公允价值缺口（FVG）、Power of 3 和订单块（OB）。 这些概念放在一起，可以帮助我们按顺序看一张图：哪里可能集中着止损单，价格有没有扫过那里，随后是否出现结构突破，回调时又该关注哪一片区域。我按这个顺序整理正文，每张截图下面都写了中文读图说明，时间链接可以直接跳回原视频。 这里保留视频作者的策略规则，同时把我的补充说明单独标出。「聪明钱吸筹」「机构猎取止损」属于 ICT / SMC 对价格行为的解释；K 线能直接展示的是价格、区间和突破，具体参与者及其订单需要其他数据佐证。文中的规则用于理解这套方法，收益和胜率仍需独立回测。 截图取自原视频，版权归 Pro Trading School 所有。 1. 流动性与两种常见陷阱 视频里的「流动性」主要指图表上 可能集中",
+    "description": "引言 这篇是我看 Pro Trading School 的视频 Learn Every ICT Concept in 17 Minutes (Liquidity, FVG, Order Blocks & More) 整理的笔记。视频全长 17 分半，把 ICT / SMC 体系里最核心的四个词：流动性（Liquidity）、公允价值缺口（FVG）、Power of 3（PO3）和订单块（Order Block），用一套非常连贯的读图逻辑串了起来。 很多讲 ICT 的内容容易搞得神乎其神，好像机构无所不能在图表后面算计每个人。抛开那些拟人化的叙事，从纯粹的价格行为来看，这套东西其实给了一套清晰的看盘顺序：先看哪里的止损单最密集（流动性），再看价格有没有假突破去扫这些单子（扫荡与诱导），随后有没有走出大实体的剧烈推进（失衡与结构突破），最后在价格首次回调时去哪里找入场位置（FVG 或订单块）。 我按视频讲解的顺序把概念、画法和作者给出的过滤条件梳理出来。文中的配图全部截自原视频，版权归原作者 Pro Trading School 所有。 1. 流动性与两种常见陷阱 在 ICT 的语境里，「",
     "source_root_domain": "forecho.com"
   },
   {

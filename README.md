@@ -27,10 +27,16 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-10-28 | [Vibe Coding for TV：开源了一个电视投屏接收器](https://atbug.com/vibe-coding-for-tv-leancast/) | TL;DR 一台 32 位的旧 Fire TV，一个晚上：系统精简出 1.9GB 存储，再从零写出一个 5MB 的开源投屏接收器，90 个单元测试和真机 E2E 全绿。 背景 几年前陆续买过两台外贸电视。所谓外贸电视，就是国内厂商给国外品牌代工的产品——我买的两台，一台是给 ONN 代工的；另一台就… |
+| 2026-10-28 | [Quetoo updated](https://macsourceports.com/game/quetoo) | The build of Quetoo has been updated to version v1.0.138 of the project |
+| 2026-10-28 | [远程工作不要居家](https://smallyu.net/2026/10/28/%E8%BF%9C%E7%A8%8B%E5%B7%A5%E4%BD%9C%E4%B8%8D%E8%A6%81%E5%B1%85%E5%AE%B6/) | 由于行业的特殊性质，我已经远程工作超过 3 年时间，期间至少换过 3 次工作，而每一次的新工作也都是远程形式。很多人觉得远程工作是一种 “福利”、“好处”，想尽办法想找远程工作，我实在不理解他们。 当然今天要说的是另外一件事情，3 年前我写《<a |
+| 2026-10-28 | [免费域名怎么接入 Cloudflare Workers：用 SaaS 自定义主机名借道](https://www.gaojinan.com/free-domain-cloudflare-saas-custom-hostname.html) | 手里要是有个免费二级域名，想拿它跑 Cloudflare Workers 或 Pages，多半会卡在第一步：域名本身不在 Cloudflare 托管，常规的加站点、绑自定义域名那套走不通。硬接的... |
+| 2026-10-28 | [野人编年史](http://imlane.zhanglintc.co/ye-ren-bian-nian-shi) | 野人编年史 野人创始人 徐队 ，群昵称Shogun。姓徐，称徐队，真野人队长，野人 抖音官号 持有者。 张队 ，群昵称张小不。江湖人称竹节虫，简称虫队，野人 微信公众号 持有者。 熊队 ，群昵称熊嘎婆，称熊队。 野人CLUB游泳事业部 群主。 亮队 ，群昵称亮什么，称亮队，野人 小红书官号 持有者。… |
 | 2026-10-28 | [笔记：C++ IO 加速与 freopen 顺序无关](https://blog.mxdyeah.com/post/cpp-io-sync-freopen-order-independent) | 最近在备考 CSP-S2，做如下笔记：ios::syncwithstdio、cin.tie、cout.tie 和 freopen 顺序无关。甚至可以交错书写（但不建议）：ios::sync_... |
 | 2026-10-28 | [人有瑕疵](https://www.hecaitou.com/2026/10/human-imperfection.html) | 是人就会有瑕疵，近乎完美的东西的确存在，但人看多了会觉得「没人味」，说的就是无瑕疵。 AI 绘画不是不好，大部分人画不到 AI 的水平，但这种好却很容易让人感到厌倦，因为从画面中看不出挣扎、犹豫、思考，总是一挥而就，每一笔刚好都朝着完成的方向。 AI 作文也不是不好，它的文字水平远超人类的 75 分… |
 | 2026-10-28 | [Linveo 2026 年英特尔 VPS 促销](https://www.cheshirex.com/11532.html) | 之前博主发过 Linveo 相关的活动，自己也用过几台VPS。使用体验不错，当时跑挖矿脚本一直高占用资源没出现 […] |
 | 2026-10-28 | [双向奔赴的厌恶](https://mobius.blog/26006.html) | 我很相信动物直觉的，比如在狗公园时，特别是当我很厌烦一只狗时，多半也会因此厌烦这个狗的狗主人。而且狗本身也可以 […] |
+| 2026-10-28 | [三亚之旅](https://www.iarthit.com/posts/2026/10/28/%E4%B8%89%E4%BA%9A%E4%B9%8B%E6%97%85.html) | 旅行和一位女性朋友一起去三亚玩了5天，下面是我自己做的攻略，大家可以做参考。一共花费大概6000左右 |
 | 2026-10-27 | [复制 DerivedData 根本没用：用 worktree 池让 Xcode 告别冷编译](https://blog.tomyail.com/ios-git-worktree-xcode-deriveddata-optimization/) | 我让多个 AI Agent 各用一个 Git Worktree 开发 iOS 项目，结果 Xcode 的 DerivedData 占了 94 GB，每个新目录都要冷编译。记录我试过的三种做法：DerivedData 放进项目、用 Worktrunk 复制缓存、固定几个 worktree 换分支。最后… |
 | 2026-10-27 | [HY2协议部署](https://elmagnifico.tech/2026/10/28/HY2/) | Foreword 前面选择了HY2，这里部署测试一下效果，看看是不是能扛过封锁，能在接下来的日子里继续用2年。 Sing-box 还是先用233boy的脚本，用了这么久有感情了 bash sing-box script v1.0 by 233boy Usage: sing-box [options]… |
 | 2026-10-27 | [用 DashPlayer 看美剧学英语](https://depp.wang/2026/dashplayer/) | 最近在用 DashPlayer 看《绝命毒师》学英语，体验下来觉得还可以，推荐给也想用本地视频、音频学英语的朋友。软件开源免费，可以控制字幕显示，也方便反复听一句台词。 它支持 Windows 和 Mac，我自己用的是 Mac，下面就按我在 Mac 上的使用方式来写。 先到 官方下载页面 ，展开 A… |
@@ -39,7 +45,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-10-27 | [When the Namespace Dropdown in the Argo Rollouts Dashboard Disappeared](https://www.bboy.app/2026/10/27/when-the-namespace-dropdown-in-the-argo-rollouts-dashboard-disappeared/) | Introduction In the Argo Rollouts dashboard, the NAMESPACE field had turned from a dropdown into a disabled input box. All I could see was the default… |
 | 2026-10-27 | [记一次ArgoRollouts Dashboard的namespace下拉框消失](https://www.bboy.app/2026/10/27/%E8%AE%B0%E4%B8%80%E6%AC%A1argorollouts-dashboard%E7%9A%84namespace%E4%B8%8B%E6%8B%89%E6%A1%86%E6%B6%88%E5%A4%B1/) | 简介 Argo Rollouts 的 Dashboard 页面里，NAMESPACE 那个位置从下拉框变成了一个禁用的输入框，只能看到默认的 namespace，没法切到别的地方看 rollout。翻源码、查权限、开调试日志折腾了一圈，最后发现凶手是一个 rollout 的资源字段写错了类型，导致整… |
 | 2026-10-27 | [一个 nmem 实例给家里多人用、互相隔](https://versun.me/blog/tweet-2114982211581853959) | 一个 nmem 实例给家里多人用、互相隔离，目前有没有推荐的做法呀，按 space 隔离的话，没办法关掉 owner 的资料，还是会有污染的情况，或许每个 space 配自己的 Owner 资料是不是会更好些 @wey_gu |
-| 2026-10-27 | [野人编年史](http://imlane.zhanglintc.co/ye-ren-bian-nian-shi) | 野人编年史 野人创始人 徐队 ，群昵称Shogun。姓徐，称徐队，真野人队长，野人 抖音官号 持有者。 张队 ，群昵称张小不。江湖人称竹节虫，简称虫队。 熊队 ，群昵称熊嘎婆，称熊队。 野人CLUB游泳事业部 群主。 亮队 ，群昵称亮什么，称亮队，野人 小红书官号 持有者。 野人成员 野人群像 野人… |
 | 2026-10-27 | [谁说普通人了](https://www.hecaitou.com/2026/10/who-said-anything-about-ordinary-people.html) | 我说网络上充斥着 AI 写的文章，有人看到之后说：和菜头三个月前还支持 AI 辅助创作文章，没想到三个月之后态度就 180° 大反转。 看，这就是个很好的例子，有 AI 没 AI，阅读理解能力救不了就是救不了。 很多人想写文章，要写文章，但是写不出来，用 AI 帮忙这种事情，我为什么不支持？很多人那… |
 | 2026-10-27 | [赴美的前前后后](https://www.jackpu.com/fu-mei-de-qian-qian-hou-hou/) | 在经历了 《大事件》 后没多久，自己收到了赴美的邀约。 这个大概是人生最为纠结但却无关得失的事情，如同此时此刻，我觉得裁员再一次发生也是一件有失有得的事情。后续可以写一些较为详细的篇章来阐述一些细节，今天还是按照时间线写写前前后后发生的事情。 起点 在 《大事件》 篇章后，自己没过多久收到赴美的工作… |
 | 2026-10-27 | [程序会导致双标？](https://mobius.blog/26002.html) | 何为程序？就比如最近闹得沸沸扬扬的“星巴克取消第三空间”的话题——星巴克开始取消原本对外公开开放的免费第三空间 […] |
@@ -63,10 +68,9 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-10-26 | [超新星 & 中子星](https://physnya.top/compact-object/lesson-6-supernova-and-neutron-star/) | 在中国古代曾经观察到过好几次超新星的爆发事件. 中子星在观测上的最早确认是在 1960s，得益于射电望远镜的发达，发现脉冲星. 大质量恒星在生命晚期的结构类似洋葱，其不同元素形成不同层，而中心铁核只能通过电子简并压来维持，一旦中心到达 Chandrasekhar 极限就会进一步坍缩. 而下一个抵抗引… |
 | 2026-10-26 | [花 20 元，让实体卡手机也能用上 eSIM](https://depp.wang/2026/esim-euicc/) | 如果像出国旅游想用 eSIM 流量套餐，但手机只有实体卡槽，可以试试小白卡。 它就是一张可以写入 eSIM 信息的实体卡，写好之后，像普通手机卡一样插进手机使用。小白卡和 9eSIM 这类实体卡，基本原理一样，都是把 eSIM 套餐装进卡里。卡本身不带流量，套餐需要另外购买。 拼多多搜索「eSIM… |
 | 2026-10-26 | [Kimi 开创历史，只重置25%，看来是](https://versun.me/blog/tweet-2114704741187850425) | Kimi.ai We're sorry for the rate limits and unnecessary quota consumption on the K3.1 Pro subscription plan. These were our issues, and we should have… |
-| 2026-10-26 | [Quetoo updated](https://macsourceports.com/game/quetoo) | The build of Quetoo has been updated to version v1.0.136 of the project |
 | 2026-10-26 | [Total Annihilation updated](https://macsourceports.com/game/totalannihilation) | The build of Open Annihilation for Total Annihilation has been updated to version v0.8.6.1 of the project |
 | 2026-10-26 | [尝试每周四晚上在上海举办 Tab 星期四线下聚会](https://www.owenyoung.com/tab) | 从 10 月 29 日开始，我和 海涛 每周四晚上会在上海 706 办一个小型聚会，叫 Tab 星期四 。形式有点像线下版的 Hacker News 或 TIL （Today I Learned），每个人带一个这周想分享的 Tab，先分享 1–3 分钟，再交流 2 分钟。 时间是每周四 19:30–… |
-| 2026-10-26 | [ICT 核心概念笔记：流动性、FVG、Power of 3 与订单块](https://blog.forecho.com/learn-every-ict-concept.html) | 引言 这篇是我看 Pro Trading School 的视频 Learn Every ICT Concept in 17 Minutes (Liquidity, FVG, Order Blocks & More) 后整理的笔记。视频发布于 2025 年 6 月 7 日，全长约 17 分半，依次讲流… |
+| 2026-10-26 | [ICT 核心概念笔记：流动性、FVG、Power of 3 与订单块](https://blog.forecho.com/learn-every-ict-concept.html) | 引言 这篇是我看 Pro Trading School 的视频 Learn Every ICT Concept in 17 Minutes (Liquidity, FVG, Order Blocks & More) 整理的笔记。视频全长 17 分半，把 ICT / SMC 体系里最核心的四个词：流动… |
 | 2026-10-26 | [演讲视频：Do you want to be a SRE?](https://www.kawabangga.com/posts/7443) | 上周在 NUS 做了一个分享，内容是 SRE 的工作内容和成长路线。下面是录制的视频。 涉及的数据和 inci […] Continue reading... 相关文章: SRE&Devops 每周分享 Issue #1 Opening SRE&Devops 每周分享 Issue #4 AWS La… |
 | 2026-10-26 | [GreenCloud绿云13周年促销活动](https://www.cheshirex.com/11523.html) | 重要通知：今年没有黑色星期五促销活动 我们希望尽早向大家完全公开透明，以免有人等待：GreenCloud 今年 […] |
 | 2026-10-26 | [2026.10.25](https://www.justzht.com/2026-10-25/) | Epoch 现在通过一个 Playdate API 兼容层可以原生运行在 Mac 和一些其他平台上了。主要开发重心还是在 Playdate 上（毕竟其他平台的性 |
