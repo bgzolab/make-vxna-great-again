@@ -1,10 +1,45 @@
 [
   {
+    "title": "笔记：C++ IO 加速与 freopen 顺序无关",
+    "url": "https://blog.mxdyeah.com/post/cpp-io-sync-freopen-order-independent",
+    "date": "2026-10-28T06:48:58Z",
+    "description": "最近在备考 CSP-S2，做如下笔记：ios::syncwithstdio、cin.tie、cout.tie 和 freopen 顺序无关。甚至可以交错书写（但不建议）：ios::sync_...",
+    "source_root_domain": "mxdyeah.com"
+  },
+  {
+    "title": "人有瑕疵",
+    "url": "https://www.hecaitou.com/2026/10/human-imperfection.html",
+    "date": "2026-10-28T04:33:53Z",
+    "description": "是人就会有瑕疵，近乎完美的东西的确存在，但人看多了会觉得「没人味」，说的就是无瑕疵。 AI 绘画不是不好，大部分人画不到 AI 的水平，但这种好却很容易让人感到厌倦，因为从画面中看不出挣扎、犹豫、思考，总是一挥而就，每一笔刚好都朝着完成的方向。 AI 作文也不是不好，它的文字水平远超人类的 75 分，比一般人写的作文顺滑多了，严整多了，几乎挑不出什么文法上的错误来，然而正是这一点让人觉得恐怖。四平八稳，滴水不漏，这就是最大的漏洞---不像是人。 人不是这样。我自己写文章的时候很清楚，某几句话写得并不好，某些字写错了。后者我可以用机器检查修改，但是前者我却未必会动手，而是要保持一点生涩，一点古怪，最好让人读到的时候不得不停顿一下。有时候写得好、写得顺滑、写得正确，反而就失去了停顿的那一下。而在我看来，读者停那一下很重要。 小时候看古人书法作品，发现居然会有错别字，而且在上面涂抹打叉，重新补一个上去。当时不是很理解：为什么不能认真一点，写一篇工工整整，没有补丁的作品呢？后来我终于理解，作品上的一团墨迹或者一个叉，说明曾经有个活人面对着这张纸，在那个字上停顿一下，做了修改。这个人已经死去百年",
+    "source_root_domain": "hecaitou.com"
+  },
+  {
+    "title": "Linveo 2026 年英特尔 VPS 促销",
+    "url": "https://www.cheshirex.com/11532.html",
+    "date": "2026-10-28T02:29:48Z",
+    "description": "之前博主发过 Linveo 相关的活动，自己也用过几台VPS。使用体验不错，当时跑挖矿脚本一直高占用资源没出现 […]",
+    "source_root_domain": "cheshirex.com"
+  },
+  {
+    "title": "双向奔赴的厌恶",
+    "url": "https://mobius.blog/26006.html",
+    "date": "2026-10-28T02:03:52Z",
+    "description": "我很相信动物直觉的，比如在狗公园时，特别是当我很厌烦一只狗时，多半也会因此厌烦这个狗的狗主人。而且狗本身也可以 […]",
+    "source_root_domain": "mobius.blog"
+  },
+  {
     "title": "复制 DerivedData 根本没用：用 worktree 池让 Xcode 告别冷编译",
     "url": "https://blog.tomyail.com/ios-git-worktree-xcode-deriveddata-optimization/",
     "date": "2026-10-27T16:33:18Z",
     "description": "我让多个 AI Agent 各用一个 Git Worktree 开发 iOS 项目，结果 Xcode 的 DerivedData 占了 94 GB，每个新目录都要冷编译。记录我试过的三种做法：DerivedData 放进项目、用 Worktrunk 复制缓存、固定几个 worktree 换分支。最后一种在我的项目上把换任务后的编译从 82 秒降到 26 秒。",
     "source_root_domain": "tomyail.com"
+  },
+  {
+    "title": "HY2协议部署",
+    "url": "https://elmagnifico.tech/2026/10/28/HY2/",
+    "date": "2026-10-27T16:00:00Z",
+    "description": "Foreword 前面选择了HY2，这里部署测试一下效果，看看是不是能扛过封锁，能在接下来的日子里继续用2年。 Sing-box 还是先用233boy的脚本，用了这么久有感情了 bash sing-box script v1.0 by 233boy Usage: sing-box [options]... [args]... 基本: v, version 显示当前版本 ip 返回当前主机的 IP pbk 同等于 sing-box generate reality-keypair get-port 返回一个可用的端口 ss2022 返回一个可用于 Shadowsocks 2022 的密码 一般: a, add [protocol] [args... | auto] 添加配置 c, change [name] [option] [args... | auto] 更改配置 d, del [name] 删除配置 i, info [name] 查看配置 qr [name] 二维码信息 url [name] URL 信息 log 查看日志 更改: full [name] [...] 更改多个参数 ",
+    "source_root_domain": "elmagnifico.tech"
   },
   {
     "title": "用 DashPlayer 看美剧学英语",
@@ -26,6 +61,20 @@
     "date": "2026-10-27T11:00:48Z",
     "description": "The build of Ultimate Lemmings for Lemmings has been updated to version v2.3 of the project",
     "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "When the Namespace Dropdown in the Argo Rollouts Dashboard Disappeared",
+    "url": "https://www.bboy.app/2026/10/27/when-the-namespace-dropdown-in-the-argo-rollouts-dashboard-disappeared/",
+    "date": "2026-10-27T10:20:00Z",
+    "description": "Introduction In the Argo Rollouts dashboard, the NAMESPACE field had turned from a dropdown into a disabled input box. All I could see was the default namespace, and there was no way to switch somewhere else and look at other rollouts. I went through the source code, checked permissions, turned on debug logs, and after all that the culprit turned out to be a single rollout that had the wrong type in one resource field, which made the whole cluster-wide list fail to decode. Let me write down how ",
+    "source_root_domain": "bboy.app"
+  },
+  {
+    "title": "记一次ArgoRollouts Dashboard的namespace下拉框消失",
+    "url": "https://www.bboy.app/2026/10/27/%E8%AE%B0%E4%B8%80%E6%AC%A1argorollouts-dashboard%E7%9A%84namespace%E4%B8%8B%E6%8B%89%E6%A1%86%E6%B6%88%E5%A4%B1/",
+    "date": "2026-10-27T10:20:00Z",
+    "description": "简介 Argo Rollouts 的 Dashboard 页面里，NAMESPACE 那个位置从下拉框变成了一个禁用的输入框，只能看到默认的 namespace，没法切到别的地方看 rollout。翻源码、查权限、开调试日志折腾了一圈，最后发现凶手是一个 rollout 的资源字段写错了类型，导致整个集群级的列表解码失败。这篇记录一下排查过程。",
+    "source_root_domain": "bboy.app"
   },
   {
     "title": "一个 nmem 实例给家里多人用、互相隔",
@@ -84,10 +133,24 @@
     "source_root_domain": "itaober.com"
   },
   {
-    "title": "让 Dot 和 Lody 组成一个 AI 协作团队：从任务派发到验收的实践",
+    "title": "20261026的胡言乱语",
+    "url": "https://www.bboy.app/2026/10/26/20261026%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/",
+    "date": "2026-10-26T16:38:00Z",
+    "description": "简介 欢迎关注我的频道，不时发送垃圾消息 https://t.me/bboyapp 或者关注我的 twitter https://twitter.com/bboysoulcn",
+    "source_root_domain": "bboy.app"
+  },
+  {
+    "title": "Random Thoughts - 20261026",
+    "url": "https://www.bboy.app/2026/10/26/random-thoughts-20261026/",
+    "date": "2026-10-26T16:38:00Z",
+    "description": "Introduction Welcome to follow my channel, where I occasionally share random messages https://t.me/bboyapp Or follow me on Twitter https://twitter.com/bboysoulcn",
+    "source_root_domain": "bboy.app"
+  },
+  {
+    "title": "让 Dot 来派活：我的 Lody 多 Agent 协作实践",
     "url": "https://ghyghoo8.github.io/2026/10/27/2026-10-27-%E8%AE%A9Dot%E5%92%8CLody%E7%BB%84%E6%88%90%E4%B8%80%E4%B8%AAAI%E5%8D%8F%E4%BD%9C%E5%9B%A2%E9%98%9F/",
     "date": "2026-10-26T16:00:00Z",
-    "description": "当一个任务需要查资料、改代码、跨机器执行，再把结果交回来验收时，问题很快就不只是“让哪个 AI 来做”。任务发给了谁？它在哪台机器上工作？另一位执行者看到的是不是同一份资料？回报里的“完成”，究竟代表会话结束，还是成果已经通过验收？ 这篇文章记录我们围绕 Dot、Codex Cloud 和 Lody 建立的一套协作方法：由 Dot 对接目标和协调任务，开发任务在明确的执行环境中推进，需要跨节点协作时借助 Lody，最后沿原任务回传证据、复核成果。文中也会用一次真实的远端交接实践说明，为什么“任务结束”和“业务完成”必须分开看。 这是一套针对我们当前工作方式总结的实践，不是平台默认自动提供的组织架构。不同环节分别验证；文末会说明已经做到哪里，以及哪些链路仍需补证据。",
+    "description": "同时用几个 AI 做事，很容易遇到一个问题：它们各自都能干活，连接它们的人却一直是自己。 把需求复制给写代码的 Agent，再把结果交给另一个 Agent 审查；这边缺资料，过去补一下；那边卡住了，再回来问一句。窗口开得越来越多，自己也越来越像一个负责转发消息的项目经理。 最近，我在尝试用 Dot + Lody 接过这部分工作。核心做法很直接： 在 Dot 自己的云端执行环境中安装并使用 Lody CLI，让 Dot 能联系已有机器上的 Agent、派发任务、查看进展，再把结果带回来。 这篇文章聊聊我为什么这样搭配，以及接通工具之后，怎样让几个 Agent 真正接得上彼此的工作。",
     "source_root_domain": "ghyghoo8.github.io"
   },
   {
