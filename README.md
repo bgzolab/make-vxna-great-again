@@ -27,6 +27,9 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-10-29 | [《工资外收入：不要再单次、廉价地出卖你的时间》书摘](https://www.ixiqin.com/2026/10/29/gongziwaishouru-booknote/) | 这本书似乎是微信读书单独出版的，很简短，内容相对浅薄，适合职场新人读。 2 时间的瓶颈 问题也正出在这里。对于 […] |
+| 2026-10-29 | [Quetoo updated](https://macsourceports.com/game/quetoo) | The build of Quetoo has been updated to version v1.0.139 of the project |
+| 2026-10-29 | [游戏](https://www.kawabangga.com/posts/7446) | 一起去上班路上： 欣：你喜欢玩什么游戏？ 我：啥？ 欣：我同事聊起来游戏，他们问我你玩什么游戏。 我：那一定是 […] Continue reading... |
 | 2026-10-29 | [群晖NAS被勒索攻击](https://hux.ink/posts/synology-attack/) | 我的群晖 NAS 昨晚遭到了勒索软件攻击，所有文件被加密上锁。 发现中招的经过 今天早上到公司后，有个念头闪过，想发条 Memo，便习惯性地打开 Memos 网页。没想到看到的不是熟悉的输入框和记录列表，而是一个全新的账号注册页面，提示创建站点管理员。昨天还用得好好的，怎么突然变成了初始化状态？起初… |
 | 2026-10-29 | [讨论失眠会传染](https://www.hecaitou.com/2026/10/rule-1-of-insomnia-dont-talk-about-insomnia.html) | 事实再一次雄辩地证明：讨论失眠会导致失眠。昨晚，在幸运地恢复了一个多月良好睡眠之后，我朋友找我探讨失眠问题。讨论完毕，我上床睡觉，他继续熬鹰，结果一晚上我都没睡踏实，5 点之后每半小时醒来一次。 失眠是个很复杂的问题，相关的因素太多，正常情况下一个人很难锁定真实原因。但是，就我个人的经验而言，每次和… |
 | 2026-10-29 | [使用Cloudflare的Worker来扩展安全规则并自动拉黑IP](https://www.cheshirex.com/11550.html) | Cloudflare免费版套餐安全规则只能设置5条，很多人会感觉不够用。昨天研究Cloudflare自动拉黑I […] |
@@ -37,7 +40,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-10-28 | [BepInEx Mod入门](https://elmagnifico.tech/2026/10/29/BepInEx-Mod/) | Foreword 上一篇把龙窟破坏者的 Wiki 做出来了，还没想过弄 mod。人家好歹全程联网，mod 听起来就不合适。 没想到你不做就有别人做，还是 AI 做的。看了一眼，基本全是生成的，东西也能用。那就顺着 BepInEx 把mod的执行流程弄清楚。 BepInEx BepInEx 是 Uni… |
 | 2026-10-28 | [像维护软件一样维护效率系统](https://www.geedea.pro/article/note-dev/) | 标题可能会让人误以为我要介绍精密复杂的 PKM 体系，但实际上我 我不混“知识管理圈” 很久了。我想我数次安装和卸载 Emacs，仍然用 Neovim 写代码和写文， 一部分 原因是 Org Mode 对我毫无吸引力，甚至有可能会害了我 1 。 好的软件不 总 是精巧复杂的，甚至大部分时候是简单的，… |
 | 2026-10-28 | [Vibe Coding for TV：开源了一个电视投屏接收器](https://atbug.com/vibe-coding-for-tv-leancast/) | TL;DR 一台 32 位的旧 Fire TV，一个晚上：系统精简出 1.9GB 存储，再从零写出一个 5MB 的开源投屏接收器，90 个单元测试和真机 E2E 全绿。 背景 几年前陆续买过两台外贸电视。所谓外贸电视，就是国内厂商给国外品牌代工的产品——我买的两台，一台是给 ONN 代工的；另一台就… |
-| 2026-10-28 | [Quetoo updated](https://macsourceports.com/game/quetoo) | The build of Quetoo has been updated to version v1.0.138 of the project |
 | 2026-10-28 | [远程工作不要居家](https://smallyu.net/2026/10/28/%E8%BF%9C%E7%A8%8B%E5%B7%A5%E4%BD%9C%E4%B8%8D%E8%A6%81%E5%B1%85%E5%AE%B6/) | 由于行业的特殊性质，我已经远程工作超过 3 年时间，期间至少换过 3 次工作，而每一次的新工作也都是远程形式。很多人觉得远程工作是一种 “福利”、“好处”，想尽办法想找远程工作，我实在不理解他们。 当然今天要说的是另外一件事情，3 年前我写《<a |
 | 2026-10-28 | [免费域名怎么接入 Cloudflare Workers：用 SaaS 自定义主机名借道](https://www.gaojinan.com/free-domain-cloudflare-saas-custom-hostname.html) | 手里要是有个免费二级域名，想拿它跑 Cloudflare Workers 或 Pages，多半会卡在第一步：域名本身不在 Cloudflare 托管，常规的加站点、绑自定义域名那套走不通。硬接的... |
 | 2026-10-28 | [野人编年史](http://imlane.zhanglintc.co/ye-ren-bian-nian-shi) | 野人编年史 野人创始人 徐队 ，群昵称Shogun。姓徐，称徐队，真野人队长，野人 抖音官号 持有者。 张队 ，群昵称张小不。江湖人称竹节虫，简称虫队，野人 微信公众号 持有者。 熊队 ，群昵称熊嘎婆，称熊队。 野人CLUB游泳事业部 群主。 亮队 ，群昵称亮什么，称亮队，野人 小红书官号 持有者。… |

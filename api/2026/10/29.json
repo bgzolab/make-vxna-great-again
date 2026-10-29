@@ -1,5 +1,26 @@
 [
   {
+    "title": "《工资外收入：不要再单次、廉价地出卖你的时间》书摘",
+    "url": "https://www.ixiqin.com/2026/10/29/gongziwaishouru-booknote/",
+    "date": "2026-10-29T15:11:11Z",
+    "description": "这本书似乎是微信读书单独出版的，很简短，内容相对浅薄，适合职场新人读。 2 时间的瓶颈 问题也正出在这里。对于 […]",
+    "source_root_domain": "ixiqin.com"
+  },
+  {
+    "title": "Quetoo updated",
+    "url": "https://macsourceports.com/game/quetoo",
+    "date": "2026-10-29T11:00:42Z",
+    "description": "The build of Quetoo has been updated to version v1.0.139 of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "游戏",
+    "url": "https://www.kawabangga.com/posts/7446",
+    "date": "2026-10-29T10:37:24Z",
+    "description": "一起去上班路上： 欣：你喜欢玩什么游戏？ 我：啥？ 欣：我同事聊起来游戏，他们问我你玩什么游戏。 我：那一定是 […] Continue reading...",
+    "source_root_domain": "kawabangga.com"
+  },
+  {
     "title": "群晖NAS被勒索攻击",
     "url": "https://hux.ink/posts/synology-attack/",
     "date": "2026-10-29T06:43:39Z",
@@ -68,13 +89,6 @@
     "date": "2026-10-28T13:00:00Z",
     "description": "TL;DR 一台 32 位的旧 Fire TV，一个晚上：系统精简出 1.9GB 存储，再从零写出一个 5MB 的开源投屏接收器，90 个单元测试和真机 E2E 全绿。 背景 几年前陆续买过两台外贸电视。所谓外贸电视，就是国内厂商给国外品牌代工的产品——我买的两台，一台是给 ONN 代工的；另一台就是今天要聊的这台 Amazon Fire TV，由 TCL 给 Amazon 代工，OEM 型号里的 SCBC_431PB-R 对应 43 寸 4K 面板。 配置放几年前还算能打：联发科 MT7632，四核 Cortex-A55，1.6GB 内存外加 400MB swap，支持 4K 和 HDR。系统是 Fire OS 7.7.1.7，基于 Android 9（SDK 28）。当年国产电视还满屏开机广告的时候，Fire OS 已经是 Amazon 自家的内容推荐，外加 Netflix、Disney+ 这些海外流媒体，观感干净不少。",
     "source_root_domain": "atbug.com"
-  },
-  {
-    "title": "Quetoo updated",
-    "url": "https://macsourceports.com/game/quetoo",
-    "date": "2026-10-28T11:00:41Z",
-    "description": "The build of Quetoo has been updated to version v1.0.138 of the project",
-    "source_root_domain": "macsourceports.com"
   },
   {
     "title": "远程工作不要居家",
