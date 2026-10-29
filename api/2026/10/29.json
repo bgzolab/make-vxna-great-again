@@ -1,5 +1,19 @@
 [
   {
+    "title": "学习周刊-总第287期-2026年第44周",
+    "url": "https://wiki.eryajf.net/pages/f7ca02/",
+    "date": "2026-10-29T23:10:23Z",
+    "description": "如要阅读全文，点击标题跳转。 学习周刊-总第287期 | ashell | AtlasOS | tinyauth | BonsAI | Yield | Claudesk | tabularis",
+    "source_root_domain": "eryajf.net"
+  },
+  {
+    "title": "k8s集群-CoreDNS配置踩坑",
+    "url": "https://199604.com/3735",
+    "date": "2026-10-29T15:25:50Z",
+    "description": "k8s集群-CoreDNS配置踩坑 记录时间：2026-10-28 环境：K8s 1.28.15 二进制部署集 […]",
+    "source_root_domain": "199604.com"
+  },
+  {
     "title": "《工资外收入：不要再单次、廉价地出卖你的时间》书摘",
     "url": "https://www.ixiqin.com/2026/10/29/gongziwaishouru-booknote/",
     "date": "2026-10-29T15:11:11Z",
@@ -68,6 +82,13 @@
     "date": "2026-10-29T01:43:07Z",
     "description": "10/29 09:04 工作又很忙了，上周末rui回南昌，吃顿饭的功夫，不知怎么被怂恿着就买了票，跟着一块到台 … Continue reading \"小小逃离\"",
     "source_root_domain": "yovey.me"
+  },
+  {
+    "title": "AI 早报 2026-10-29：韩国芯片商 FuriosaAI 完成 6.2 亿美元 D 轮融资，投后估值 29 亿美元",
+    "url": "https://www.jtxyh.com/daily/2026-10-29/",
+    "date": "2026-10-28T16:00:00Z",
+    "description": "2026-10-29 AI 早报，共 25 条动态。韩国 AI 芯片初创 FuriosaAI 10 月 28 日宣布完成 6.2 亿美元（约 8200 亿韩元）D 轮融资，投后估值约 29 亿美元，约为上一轮 7.35 亿美元的近四倍。三星电子 10 月 29 日公布第三季度业绩：营业利润增至上年同期的近九倍，达到…",
+    "source_root_domain": "jtxyh.com"
   },
   {
     "title": "BepInEx Mod入门",

@@ -27,6 +27,8 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-10-29 | [学习周刊-总第287期-2026年第44周](https://wiki.eryajf.net/pages/f7ca02/) | 如要阅读全文，点击标题跳转。 学习周刊-总第287期 &#124; ashell &#124; AtlasOS &#124; tinyauth &#124; BonsAI &#124; Yield &#124; Claudesk &#124; tabularis |
+| 2026-10-29 | [k8s集群-CoreDNS配置踩坑](https://199604.com/3735) | k8s集群-CoreDNS配置踩坑 记录时间：2026-10-28 环境：K8s 1.28.15 二进制部署集 […] |
 | 2026-10-29 | [《工资外收入：不要再单次、廉价地出卖你的时间》书摘](https://www.ixiqin.com/2026/10/29/gongziwaishouru-booknote/) | 这本书似乎是微信读书单独出版的，很简短，内容相对浅薄，适合职场新人读。 2 时间的瓶颈 问题也正出在这里。对于 […] |
 | 2026-10-29 | [Quetoo updated](https://macsourceports.com/game/quetoo) | The build of Quetoo has been updated to version v1.0.139 of the project |
 | 2026-10-29 | [游戏](https://www.kawabangga.com/posts/7446) | 一起去上班路上： 欣：你喜欢玩什么游戏？ 我：啥？ 欣：我同事聊起来游戏，他们问我你玩什么游戏。 我：那一定是 […] Continue reading... |
@@ -37,6 +39,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-10-29 | [失乐园里有什么？II](https://mobius.blog/26011.html) | 既然准备正式开始“他人即地狱”这个话题，首先还是要聊聊它的定义。 “他人即地狱”出自法国存在主义哲学家让-保罗 […] |
 | 2026-10-29 | [Memos: 当下软件开发的效率瓶颈](https://blog.yasking.org/a/1793239872) | 近期感受： 各岗位都在拥抱 AI，以提升自身效率、实现局部最优；但需求传递、前后端联调、交付验收的沟通链路成本仍然存在 … |
 | 2026-10-29 | [小小逃离](https://yovey.me/%e5%b0%8f%e5%b0%8f%e9%80%83%e7%a6%bb/) | 10/29 09:04 工作又很忙了，上周末rui回南昌，吃顿饭的功夫，不知怎么被怂恿着就买了票，跟着一块到台 … Continue reading "小小逃离" |
+| 2026-10-28 | [AI 早报 2026-10-29：韩国芯片商 FuriosaAI 完成 6.2 亿美元 D 轮融资，投后估值 29 亿美元](https://www.jtxyh.com/daily/2026-10-29/) | 2026-10-29 AI 早报，共 25 条动态。韩国 AI 芯片初创 FuriosaAI 10 月 28 日宣布完成 6.2 亿美元（约 8200 亿韩元）D 轮融资，投后估值约 29 亿美元，约为上一轮 7.35 亿美元的近四倍。三星电子 10 月 29 日公布第三季度业绩：营业利润增至上年同… |
 | 2026-10-28 | [BepInEx Mod入门](https://elmagnifico.tech/2026/10/29/BepInEx-Mod/) | Foreword 上一篇把龙窟破坏者的 Wiki 做出来了，还没想过弄 mod。人家好歹全程联网，mod 听起来就不合适。 没想到你不做就有别人做，还是 AI 做的。看了一眼，基本全是生成的，东西也能用。那就顺着 BepInEx 把mod的执行流程弄清楚。 BepInEx BepInEx 是 Uni… |
 | 2026-10-28 | [像维护软件一样维护效率系统](https://www.geedea.pro/article/note-dev/) | 标题可能会让人误以为我要介绍精密复杂的 PKM 体系，但实际上我 我不混“知识管理圈” 很久了。我想我数次安装和卸载 Emacs，仍然用 Neovim 写代码和写文， 一部分 原因是 Org Mode 对我毫无吸引力，甚至有可能会害了我 1 。 好的软件不 总 是精巧复杂的，甚至大部分时候是简单的，… |
 | 2026-10-28 | [Vibe Coding for TV：开源了一个电视投屏接收器](https://atbug.com/vibe-coding-for-tv-leancast/) | TL;DR 一台 32 位的旧 Fire TV，一个晚上：系统精简出 1.9GB 存储，再从零写出一个 5MB 的开源投屏接收器，90 个单元测试和真机 E2E 全绿。 背景 几年前陆续买过两台外贸电视。所谓外贸电视，就是国内厂商给国外品牌代工的产品——我买的两台，一台是给 ONN 代工的；另一台就… |
