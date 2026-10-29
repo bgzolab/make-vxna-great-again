@@ -27,6 +27,14 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-10-29 | [群晖NAS被勒索攻击](https://hux.ink/posts/synology-attack/) | 我的群晖 NAS 昨晚遭到了勒索软件攻击，所有文件被加密上锁。 发现中招的经过 今天早上到公司后，有个念头闪过，想发条 Memo，便习惯性地打开 Memos 网页。没想到看到的不是熟悉的输入框和记录列表，而是一个全新的账号注册页面，提示创建站点管理员。昨天还用得好好的，怎么突然变成了初始化状态？起初… |
+| 2026-10-29 | [讨论失眠会传染](https://www.hecaitou.com/2026/10/rule-1-of-insomnia-dont-talk-about-insomnia.html) | 事实再一次雄辩地证明：讨论失眠会导致失眠。昨晚，在幸运地恢复了一个多月良好睡眠之后，我朋友找我探讨失眠问题。讨论完毕，我上床睡觉，他继续熬鹰，结果一晚上我都没睡踏实，5 点之后每半小时醒来一次。 失眠是个很复杂的问题，相关的因素太多，正常情况下一个人很难锁定真实原因。但是，就我个人的经验而言，每次和… |
+| 2026-10-29 | [使用Cloudflare的Worker来扩展安全规则并自动拉黑IP](https://www.cheshirex.com/11550.html) | Cloudflare免费版套餐安全规则只能设置5条，很多人会感觉不够用。昨天研究Cloudflare自动拉黑I […] |
+| 2026-10-29 | [人民币结算与定价权](https://blog.oospace.com/posts/2026-10-29/) | AI泡沫一定程度上破了，但是并非没有未来了 |
+| 2026-10-29 | [失乐园里有什么？II](https://mobius.blog/26011.html) | 既然准备正式开始“他人即地狱”这个话题，首先还是要聊聊它的定义。 “他人即地狱”出自法国存在主义哲学家让-保罗 […] |
+| 2026-10-29 | [Memos: 当下软件开发的效率瓶颈](https://blog.yasking.org/a/1793239872) | 近期感受： 各岗位都在拥抱 AI，以提升自身效率、实现局部最优；但需求传递、前后端联调、交付验收的沟通链路成本仍然存在 … |
+| 2026-10-29 | [小小逃离](https://yovey.me/%e5%b0%8f%e5%b0%8f%e9%80%83%e7%a6%bb/) | 10/29 09:04 工作又很忙了，上周末rui回南昌，吃顿饭的功夫，不知怎么被怂恿着就买了票，跟着一块到台 … Continue reading "小小逃离" |
+| 2026-10-28 | [BepInEx Mod入门](https://elmagnifico.tech/2026/10/29/BepInEx-Mod/) | Foreword 上一篇把龙窟破坏者的 Wiki 做出来了，还没想过弄 mod。人家好歹全程联网，mod 听起来就不合适。 没想到你不做就有别人做，还是 AI 做的。看了一眼，基本全是生成的，东西也能用。那就顺着 BepInEx 把mod的执行流程弄清楚。 BepInEx BepInEx 是 Uni… |
 | 2026-10-28 | [像维护软件一样维护效率系统](https://www.geedea.pro/article/note-dev/) | 标题可能会让人误以为我要介绍精密复杂的 PKM 体系，但实际上我 我不混“知识管理圈” 很久了。我想我数次安装和卸载 Emacs，仍然用 Neovim 写代码和写文， 一部分 原因是 Org Mode 对我毫无吸引力，甚至有可能会害了我 1 。 好的软件不 总 是精巧复杂的，甚至大部分时候是简单的，… |
 | 2026-10-28 | [Vibe Coding for TV：开源了一个电视投屏接收器](https://atbug.com/vibe-coding-for-tv-leancast/) | TL;DR 一台 32 位的旧 Fire TV，一个晚上：系统精简出 1.9GB 存储，再从零写出一个 5MB 的开源投屏接收器，90 个单元测试和真机 E2E 全绿。 背景 几年前陆续买过两台外贸电视。所谓外贸电视，就是国内厂商给国外品牌代工的产品——我买的两台，一台是给 ONN 代工的；另一台就… |
 | 2026-10-28 | [Quetoo updated](https://macsourceports.com/game/quetoo) | The build of Quetoo has been updated to version v1.0.138 of the project |
@@ -42,6 +50,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-10-27 | [AI 早报 2026-10-28：Circuit Mind 推出电路验证智能体 AVE，披露合计 2500 万美元融资](https://www.jtxyh.com/daily/2026-10-28/) | 2026-10-28 AI 早报，共 24 条动态。Circuit Mind 于 10 月 28 日推出 AVE，使用 AI 智能体对照元件数据手册与企业设计规则检查电路设计。达索系统10月28日宣布，将 ArisGlobal 与 BIOVIA、MEDIDATA 整合，建设连接药物研发与患者结果的… |
 | 2026-10-27 | [HY2协议部署](https://elmagnifico.tech/2026/10/28/HY2/) | Foreword 前面选择了HY2，这里部署测试一下效果，看看是不是能扛过封锁，能在接下来的日子里继续用2年。 Sing-box 还是先用233boy的脚本，用了这么久有感情了 bash sing-box script v1.0 by 233boy Usage: sing-box [options]… |
 | 2026-10-27 | [用 DashPlayer 看美剧学英语](https://depp.wang/2026/dashplayer/) | 最近在用 DashPlayer 看《绝命毒师》学英语，体验下来觉得还可以，推荐给也想用本地视频、音频学英语的朋友。软件开源免费，可以控制字幕显示，也方便反复听一句台词。 它支持 Windows 和 Mac，我自己用的是 Mac，下面就按我在 Mac 上的使用方式来写。 先到 官方下载页面 ，展开 A… |
+| 2026-10-27 | [那些偷偷变瘦的人](https://blog.solazy.me/20261027/) | 这两天刷手机，连续看到好几个以前以「丰满」或者「微胖」作为个人标签的明星，在短短两三个月内迅速瘦脱了相。 如果你平时稍微留心过体态管理，一眼就能看出这种瘦法不对劲。真正靠有氧和力量训练一点点减下来的人，皮肉是紧致的，气色也撑得住；但这批突然瘦下来的明星，往往伴随着极其明显的面部松弛，法令纹和脸颊上的… |
 | 2026-10-27 | [Memos: 土木工程专业’冷‘到如此](https://blog.yasking.org/a/1793099535) | 这周末参加好友婚礼，聊起土木工程。某排名靠前的985高校，土木专业今年本科只招了 8 个人，早些年却有一百大几十、接近两百 … |
 | 2026-10-27 | [Lemmings updated](https://macsourceports.com/game/lemmings) | The build of Ultimate Lemmings for Lemmings has been updated to version v2.3 of the project |
 | 2026-10-27 | [When the Namespace Dropdown in the Argo Rollouts Dashboard Disappeared](https://www.bboy.app/2026/10/27/when-the-namespace-dropdown-in-the-argo-rollouts-dashboard-disappeared/) | Introduction In the Argo Rollouts dashboard, the NAMESPACE field had turned from a dropdown into a disabled input box. All I could see was the default… |
