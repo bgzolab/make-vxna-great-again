@@ -170,16 +170,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-10-22 | [我把用了很久的终端配置整理成了 Dotgraft](https://rokcso.com/p/dotgraft-macos-terminal-setup/) | 我每天大部分时间都在终端里，写代码、跑测试、看日志，一天要开很多次。这套配置在自己机器上用了很久，后来整理成了 Dotgraft，组合是 Ghostty + Starship + zsh。 我不会写 shell 脚本，也没认真研究过 dotfiles，能留下来靠的是每次换电脑把同一批文件再抄一遍，抄… |
 | 2026-10-22 | [php2shell: 一条请求，让全球 70% 互联网被迫下线](https://blog.ensonyan.com/it/3504.html) | TL;DR 细节 10 月 21 日（周三），PHP 安全团队发布通告，措辞罕见地直接： “If […] |
 | 2026-10-22 | [近况](https://blog.chen-di.com/archive/2026-10-22-jin-kuang/) | 最近生活过得挺平淡的，偶尔去健身房，总想通过给自己找点事做来让生活变得充实一些。 |
-| 2026-10-21 | [AI 早报 2026-10-22：10.22总结；法律 AI 公司 Legora 完成 5.5 亿美元 E 轮融资，估值 88 亿美元](https://www.jtxyh.com/daily/2026-10-22/) | 2026-10-22 AI 早报，共 19 条动态。本期重点是智能体产品的可用阶段、算力投入和企业落地。法律 AI 公司 Legora 10 月 21 日宣布完成 5.5 亿美元 E 轮融资，投后估值 88 亿美元，由 Atreides Management 领投，Baron… |
-| 2026-10-21 | [爱拯救之](https://www.geedea.pro/article/amour-en-sauve/) | 极客死亡计划现在运行在安装 OpenBSD 8.0 的服务器上，不是 Linux。 我在 第一百零一期周刊 因 Linux 如今也包含 LLM 生成的代码而感到沮丧，写道：“我用 Linux，不可能不用”——结果，我还真的可以不用。Linus Torvalds 最近还在 邮件列表 里回复一条我读起来… |
-| 2026-10-21 | [有梦不如做个超大号的](https://www.hecaitou.com/2026/10/if-youre-going-to-dream-make-it-supersized.html) | 有读者建议我，试试用 AI 改变生活，让它负责安排我每天的日程，小到做菜，大到日常事务，都交给 AI。 说实话，看到这个建议的时候我愣了一下。先是觉得这个想法有点绝，但又不是那么绝，因为隐隐约约之间有点熟悉，不够超凡脱俗。再想了一会儿，我琢磨过滋味来，好像上一次那么干的是那群在田纳西州摘棉花的黑人朋… |
-| 2026-10-21 | [我记得之前有看到过一个插件可以隐藏 AI](https://versun.me/blog/tweet-2112751575710228571) | 我记得之前有看到过一个插件可以隐藏 AI 留言的，是哪个来着，找不到了🥲 |
-| 2026-10-21 | [DeepSeek Harness 破甲 网络安全红队工具（dsh-purge）](https://www.cheshirex.com/11480.html) | dsh-purge原仓库是：https://github.com/YuJunZhiXue/dsh-purge […] |
-| 2026-10-21 | [我为小说忙：（六）我们需要 OCR](https://blog.mfwt.top/index.php/archives/1589/) | 严格来说，本文算是番外篇，因为插件的主体部分已经开发完毕。但光有插件肯定是不够的，我们还需要内容。对于《如果瓷杯从未冷透》来说，由于一开始就是电子版，直接复制粘贴就行，但另外一本，《触碰：晨晓之... |
-| 2026-10-21 | [处决童年的自己 II](https://mobius.blog/25955.html) | 这个系列并不是单纯回顾自己的童年，而是前几天一个朋友给我留言。 虽然他在留言里用了一句“这些故事告诉你，希望能 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
-| 2026-10-21 | [兄弟们！我发现这个搭配，非常适合 her](https://versun.me/blog/tweet-2112715157080346959) | 兄弟们！我发现这个搭配，非常适合 hermes： 使用 moa 模式！ deepseek v4.1 flash 做为参考模型，发挥短平快的绝佳单兵能力，快速出思路 gemini 3.8 flash 做为聚合模型，上下文大且不怎么退化，容错强，多轮循环稳定，执行后总结说人话！ 而且这2个额度都管够！！… |
-| 2026-10-21 | [不仅支持皮衣厂，还支持遥遥领先 Deep](https://versun.me/blog/tweet-2112711314464489487) | DeepSeek 🚀 Introducing DeepInfer, our in-house inference framework, now fully open source! Powering DeepSeek-V4.1-Flash at scale with high throughput… |
-| 2026-10-21 | [独立游戏简评 Vol.6](https://bluepika.life/blog/indie-game-notes-6) | 这期只聊两个游戏，刚好它们都是幸存者 Like 游戏，先给出我的评价，它们在幸存者这类型游戏上都做了一些新的尝试，并且都带给我了不少快乐，我认为这两款独立游戏都值得推荐，另外这次也将会从 Cora 的视角来看看这两款游戏的体验怎么样。 球比伦战记 这是今年某一周里 Nintendo Online 的… |
 
 ## Vibe Coding
 

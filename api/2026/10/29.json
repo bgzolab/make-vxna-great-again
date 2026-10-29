@@ -1,0 +1,184 @@
+[
+  {
+    "title": "像维护软件一样维护效率系统",
+    "url": "https://www.geedea.pro/article/note-dev/",
+    "date": "2026-10-28T15:49:02Z",
+    "description": "标题可能会让人误以为我要介绍精密复杂的 PKM 体系，但实际上我 我不混“知识管理圈” 很久了。我想我数次安装和卸载 Emacs，仍然用 Neovim 写代码和写文， 一部分 原因是 Org Mode 对我毫无吸引力，甚至有可能会害了我 1 。 好的软件不 总 是精巧复杂的，甚至大部分时候是简单的，或者说清晰明了，而且可拓展、可组合，在需要的时候不会因其形式或接口而派不上用场。比方说 grep 作为命令行工具，可以搜文件里的文本、可以搜目录里的文件名、可以搜终端历史里输入过的命令，也可以很轻易地集成到其他软件里搜别的东西。 这其实也不是我想谈的重点。实际上，即便是 grep 这样小巧简明的软件，在某些情况下也难以施展拳脚，比如面对完全不了解命令行界面的用户时。对他们而言，Raycast 和 Vicinae 等全局搜索框可能更好用，按下 ⌘ + 空格 就可以搜索应用、文件和各种快捷命令并执行。把两个关联不大的软件放在一起比较可能不恰当，但至少能证明我下面要抛出的观点： 好的软件应该是符合需求的软件。 想象你年迈的奶奶一点也看不清楚手机上的小字，而你却在一旁抱怨软件开发者没能统一设计语言，",
+    "source_root_domain": "geedea.pro"
+  },
+  {
+    "title": "Vibe Coding for TV：开源了一个电视投屏接收器",
+    "url": "https://atbug.com/vibe-coding-for-tv-leancast/",
+    "date": "2026-10-28T13:00:00Z",
+    "description": "TL;DR 一台 32 位的旧 Fire TV，一个晚上：系统精简出 1.9GB 存储，再从零写出一个 5MB 的开源投屏接收器，90 个单元测试和真机 E2E 全绿。 背景 几年前陆续买过两台外贸电视。所谓外贸电视，就是国内厂商给国外品牌代工的产品——我买的两台，一台是给 ONN 代工的；另一台就是今天要聊的这台 Amazon Fire TV，由 TCL 给 Amazon 代工，OEM 型号里的 SCBC_431PB-R 对应 43 寸 4K 面板。 配置放几年前还算能打：联发科 MT7632，四核 Cortex-A55，1.6GB 内存外加 400MB swap，支持 4K 和 HDR。系统是 Fire OS 7.7.1.7，基于 Android 9（SDK 28）。当年国产电视还满屏开机广告的时候，Fire OS 已经是 Amazon 自家的内容推荐，外加 Netflix、Disney+ 这些海外流媒体，观感干净不少。",
+    "source_root_domain": "atbug.com"
+  },
+  {
+    "title": "Quetoo updated",
+    "url": "https://macsourceports.com/game/quetoo",
+    "date": "2026-10-28T11:00:41Z",
+    "description": "The build of Quetoo has been updated to version v1.0.138 of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "远程工作不要居家",
+    "url": "https://smallyu.net/2026/10/28/%E8%BF%9C%E7%A8%8B%E5%B7%A5%E4%BD%9C%E4%B8%8D%E8%A6%81%E5%B1%85%E5%AE%B6/",
+    "date": "2026-10-28T10:34:16Z",
+    "description": "由于行业的特殊性质，我已经远程工作超过 3 年时间，期间至少换过 3 次工作，而每一次的新工作也都是远程形式。很多人觉得远程工作是一种 “福利”、“好处”，想尽办法想找远程工作，我实在不理解他们。 当然今天要说的是另外一件事情，3 年前我写《<a",
+    "source_root_domain": "smallyu.net"
+  },
+  {
+    "title": "免费域名怎么接入 Cloudflare Workers：用 SaaS 自定义主机名借道",
+    "url": "https://www.gaojinan.com/free-domain-cloudflare-saas-custom-hostname.html",
+    "date": "2026-10-28T09:09:12Z",
+    "description": "手里要是有个免费二级域名，想拿它跑 Cloudflare Workers 或 Pages，多半会卡在第一步：域名本身不在 Cloudflare 托管，常规的加站点、绑自定义域名那套走不通。硬接的...",
+    "source_root_domain": "gaojinan.com"
+  },
+  {
+    "title": "野人编年史",
+    "url": "http://imlane.zhanglintc.co/ye-ren-bian-nian-shi",
+    "date": "2026-10-28T08:55:07Z",
+    "description": "野人编年史 野人创始人 徐队 ，群昵称Shogun。姓徐，称徐队，真野人队长，野人 抖音官号 持有者。 张队 ，群昵称张小不。江湖人称竹节虫，简称虫队，野人 微信公众号 持有者。 熊队 ，群昵称熊嘎婆，称熊队。 野人CLUB游泳事业部 群主。 亮队 ，群昵称亮什么，称亮队，野人 小红书官号 持有者。 野人成员 野人群像 野人声明 从 泳往直前 过来加入的朋友： 野人 在加入 泳往直前 之前就已成立，我们不是另起炉灶，我们也不搞分裂主义，我们永远欢迎 泳往直前 成员加入 野人 。 从小红书、抖音，或者其他途径加入的朋友： 欢迎加入 野人 ，也永远欢迎 野人 的成员随时加入 泳往直前 。 加入 野人 需要认可 野人 ，对组织有认可感、归属感。 野人 创始人均为业余爱好者，但是无论是新手还是高手，都希望大家互相尊重、互相帮助，一起快乐玩水。若参加户外活动请务必正确佩戴跟屁虫，不盲目下水。务必注意自我防护，安全责任自负。 2024年 6月 徐队带张队第一次下凤溪沱。 亮队不时参与凤溪沱游江活动。 10月 熊队正式加入，并介绍徐队、张队加入 大竹林冬泳队 。 徐队、张队、熊队日常于 大竹林冬泳基",
+    "source_root_domain": "zhanglintc.co"
+  },
+  {
+    "title": "笔记：C++ IO 加速与 freopen 顺序无关",
+    "url": "https://blog.mxdyeah.com/post/cpp-io-sync-freopen-order-independent",
+    "date": "2026-10-28T06:48:58Z",
+    "description": "最近在备考 CSP-S2，做如下笔记：ios::syncwithstdio、cin.tie、cout.tie 和 freopen 顺序无关。甚至可以交错书写（但不建议）：ios::sync_...",
+    "source_root_domain": "mxdyeah.com"
+  },
+  {
+    "title": "人有瑕疵",
+    "url": "https://www.hecaitou.com/2026/10/human-imperfection.html",
+    "date": "2026-10-28T04:33:53Z",
+    "description": "是人就会有瑕疵，近乎完美的东西的确存在，但人看多了会觉得「没人味」，说的就是无瑕疵。 AI 绘画不是不好，大部分人画不到 AI 的水平，但这种好却很容易让人感到厌倦，因为从画面中看不出挣扎、犹豫、思考，总是一挥而就，每一笔刚好都朝着完成的方向。 AI 作文也不是不好，它的文字水平远超人类的 75 分，比一般人写的作文顺滑多了，严整多了，几乎挑不出什么文法上的错误来，然而正是这一点让人觉得恐怖。四平八稳，滴水不漏，这就是最大的漏洞---不像是人。 人不是这样。我自己写文章的时候很清楚，某几句话写得并不好，某些字写错了。后者我可以用机器检查修改，但是前者我却未必会动手，而是要保持一点生涩，一点古怪，最好让人读到的时候不得不停顿一下。有时候写得好、写得顺滑、写得正确，反而就失去了停顿的那一下。而在我看来，读者停那一下很重要。 小时候看古人书法作品，发现居然会有错别字，而且在上面涂抹打叉，重新补一个上去。当时不是很理解：为什么不能认真一点，写一篇工工整整，没有补丁的作品呢？后来我终于理解，作品上的一团墨迹或者一个叉，说明曾经有个活人面对着这张纸，在那个字上停顿一下，做了修改。这个人已经死去百年",
+    "source_root_domain": "hecaitou.com"
+  },
+  {
+    "title": "Linveo 2026 年英特尔 VPS 促销",
+    "url": "https://www.cheshirex.com/11532.html",
+    "date": "2026-10-28T02:29:48Z",
+    "description": "之前博主发过 Linveo 相关的活动，自己也用过几台VPS。使用体验不错，当时跑挖矿脚本一直高占用资源没出现 […]",
+    "source_root_domain": "cheshirex.com"
+  },
+  {
+    "title": "双向奔赴的厌恶",
+    "url": "https://mobius.blog/26006.html",
+    "date": "2026-10-28T02:03:52Z",
+    "description": "我很相信动物直觉的，比如在狗公园时，特别是当我很厌烦一只狗时，多半也会因此厌烦这个狗的狗主人。而且狗本身也可以 […]",
+    "source_root_domain": "mobius.blog"
+  },
+  {
+    "title": "三亚之旅",
+    "url": "https://www.iarthit.com/posts/2026/10/28/%E4%B8%89%E4%BA%9A%E4%B9%8B%E6%97%85.html",
+    "date": "2026-10-28T00:00:00Z",
+    "description": "旅行和一位女性朋友一起去三亚玩了5天，下面是我自己做的攻略，大家可以做参考。一共花费大概6000左右",
+    "source_root_domain": "iarthit.com"
+  },
+  {
+    "title": "复制 DerivedData 根本没用：用 worktree 池让 Xcode 告别冷编译",
+    "url": "https://blog.tomyail.com/ios-git-worktree-xcode-deriveddata-optimization/",
+    "date": "2026-10-27T16:33:18Z",
+    "description": "我让多个 AI Agent 各用一个 Git Worktree 开发 iOS 项目，结果 Xcode 的 DerivedData 占了 94 GB，每个新目录都要冷编译。记录我试过的三种做法：DerivedData 放进项目、用 Worktrunk 复制缓存、固定几个 worktree 换分支。最后一种在我的项目上把换任务后的编译从 82 秒降到 26 秒。",
+    "source_root_domain": "tomyail.com"
+  },
+  {
+    "title": "AI 早报 2026-10-28：Circuit Mind 推出电路验证智能体 AVE，披露合计 2500 万美元融资",
+    "url": "https://www.jtxyh.com/daily/2026-10-28/",
+    "date": "2026-10-27T16:00:00Z",
+    "description": "2026-10-28 AI 早报，共 24 条动态。Circuit Mind 于 10 月 28 日推出 AVE，使用 AI 智能体对照元件数据手册与企业设计规则检查电路设计。达索系统10月28日宣布，将 ArisGlobal 与 BIOVIA、MEDIDATA 整合，建设连接药物研发与患者结果的 AI…",
+    "source_root_domain": "jtxyh.com"
+  },
+  {
+    "title": "HY2协议部署",
+    "url": "https://elmagnifico.tech/2026/10/28/HY2/",
+    "date": "2026-10-27T16:00:00Z",
+    "description": "Foreword 前面选择了HY2，这里部署测试一下效果，看看是不是能扛过封锁，能在接下来的日子里继续用2年。 Sing-box 还是先用233boy的脚本，用了这么久有感情了 bash sing-box script v1.0 by 233boy Usage: sing-box [options]... [args]... 基本: v, version 显示当前版本 ip 返回当前主机的 IP pbk 同等于 sing-box generate reality-keypair get-port 返回一个可用的端口 ss2022 返回一个可用于 Shadowsocks 2022 的密码 一般: a, add [protocol] [args... | auto] 添加配置 c, change [name] [option] [args... | auto] 更改配置 d, del [name] 删除配置 i, info [name] 查看配置 qr [name] 二维码信息 url [name] URL 信息 log 查看日志 更改: full [name] [...] 更改多个参数 ",
+    "source_root_domain": "elmagnifico.tech"
+  },
+  {
+    "title": "用 DashPlayer 看美剧学英语",
+    "url": "https://depp.wang/2026/dashplayer/",
+    "date": "2026-10-27T15:09:27Z",
+    "description": "最近在用 DashPlayer 看《绝命毒师》学英语，体验下来觉得还可以，推荐给也想用本地视频、音频学英语的朋友。软件开源免费，可以控制字幕显示，也方便反复听一句台词。 它支持 Windows 和 Mac，我自己用的是 Mac，下面就按我在 Mac 上的使用方式来写。 先到 官方下载页面 ，展开 Assets，找到适合自己电脑的安装包。Mac 下载以 .dmg 结尾的文件，M 系列芯片选 arm64 ，Intel 芯片选 x64 ，不要下载 Source code，那是源代码。下载后打开，把 DashPlayer 拖进 Applications 文件夹就可以了。 安装说明 。",
+    "source_root_domain": "depp.wang"
+  },
+  {
+    "title": "Memos: 土木工程专业’冷‘到如此",
+    "url": "https://blog.yasking.org/a/1793099535",
+    "date": "2026-10-27T11:12:15Z",
+    "description": "这周末参加好友婚礼，聊起土木工程。某排名靠前的985高校，土木专业今年本科只招了 8 个人，早些年却有一百大几十、接近两百 …",
+    "source_root_domain": "yasking.org"
+  },
+  {
+    "title": "Lemmings updated",
+    "url": "https://macsourceports.com/game/lemmings",
+    "date": "2026-10-27T11:00:48Z",
+    "description": "The build of Ultimate Lemmings for Lemmings has been updated to version v2.3 of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "When the Namespace Dropdown in the Argo Rollouts Dashboard Disappeared",
+    "url": "https://www.bboy.app/2026/10/27/when-the-namespace-dropdown-in-the-argo-rollouts-dashboard-disappeared/",
+    "date": "2026-10-27T10:20:00Z",
+    "description": "Introduction In the Argo Rollouts dashboard, the NAMESPACE field had turned from a dropdown into a disabled input box. All I could see was the default namespace, and there was no way to switch somewhere else and look at other rollouts. I went through the source code, checked permissions, turned on debug logs, and after all that the culprit turned out to be a single rollout that had the wrong type in one resource field, which made the whole cluster-wide list fail to decode. Let me write down how ",
+    "source_root_domain": "bboy.app"
+  },
+  {
+    "title": "记一次ArgoRollouts Dashboard的namespace下拉框消失",
+    "url": "https://www.bboy.app/2026/10/27/%E8%AE%B0%E4%B8%80%E6%AC%A1argorollouts-dashboard%E7%9A%84namespace%E4%B8%8B%E6%8B%89%E6%A1%86%E6%B6%88%E5%A4%B1/",
+    "date": "2026-10-27T10:20:00Z",
+    "description": "简介 Argo Rollouts 的 Dashboard 页面里，NAMESPACE 那个位置从下拉框变成了一个禁用的输入框，只能看到默认的 namespace，没法切到别的地方看 rollout。翻源码、查权限、开调试日志折腾了一圈，最后发现凶手是一个 rollout 的资源字段写错了类型，导致整个集群级的列表解码失败。这篇记录一下排查过程。",
+    "source_root_domain": "bboy.app"
+  },
+  {
+    "title": "一个 nmem 实例给家里多人用、互相隔",
+    "url": "https://versun.me/blog/tweet-2114982211581853959",
+    "date": "2026-10-27T07:27:08Z",
+    "description": "一个 nmem 实例给家里多人用、互相隔离，目前有没有推荐的做法呀，按 space 隔离的话，没办法关掉 owner 的资料，还是会有污染的情况，或许每个 space 配自己的 Owner 资料是不是会更好些 @wey_gu",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "谁说普通人了",
+    "url": "https://www.hecaitou.com/2026/10/who-said-anything-about-ordinary-people.html",
+    "date": "2026-10-27T04:49:53Z",
+    "description": "我说网络上充斥着 AI 写的文章，有人看到之后说：和菜头三个月前还支持 AI 辅助创作文章，没想到三个月之后态度就 180° 大反转。 看，这就是个很好的例子，有 AI 没 AI，阅读理解能力救不了就是救不了。 很多人想写文章，要写文章，但是写不出来，用 AI 帮忙这种事情，我为什么不支持？很多人那么写出来了，发出来了，他们自身并没有把 AI 文章推送到我面前的能力。那么，是谁推的？谁应该对此负责？ 我说网络充斥着 AI 写的文章，算法也乐意推荐---根据这个说法，我的态度是批评普通人用 AI 写文章？我是归因于普通人？还是说我认为平台以及平台的算法有问题，需要批评？ 今天还和朋友讨论，为什么中文世界的 AI 回答起问题来总是一惊一乍，从头到尾都是浓郁的说书感？大家的共识是基础语料库就有问题，抓取来的各种网络热文在一开始就是垃圾。在这个地基上发展起来的模型，输出内容的时候就是那种味道，因为审美和智力都败坏了。 而我向朋友特别提到一点，文本质量本身很重要，因为人类发展的是 AI，是某种智能。而智能是有门槛的，需要训练 AI 的思考能力，分析能力。相对而言，选择那些热文训练，训练出来的结果",
+    "source_root_domain": "hecaitou.com"
+  },
+  {
+    "title": "赴美的前前后后",
+    "url": "https://www.jackpu.com/fu-mei-de-qian-qian-hou-hou/",
+    "date": "2026-10-27T04:13:52Z",
+    "description": "在经历了 《大事件》 后没多久，自己收到了赴美的邀约。 这个大概是人生最为纠结但却无关得失的事情，如同此时此刻，我觉得裁员再一次发生也是一件有失有得的事情。后续可以写一些较为详细的篇章来阐述一些细节，今天还是按照时间线写写前前后后发生的事情。 起点 在 《大事件》 篇章后，自己没过多久收到赴美的工作 relocate 的选项确认，相比去年底赴美参加线下会议，我明白这一次会完完全全不一样的体验。 自己整个五月份都在和家里人纠结是否该去，在眼前的无非就是接着这份工作，换个地方工作，而另外一个选项就是不久后领赔偿告别这份工作。而自己的家人，可以跟着或者不跟着，这是另外一个选项。 匆匆忙忙 五月底确认了全家赴美的决定，开始准备资料准备签证。当这个决定确认之后，对于自己以及家人，未来会完全是另外一种生活。我们大概预测过，消费的压力，语言的困境，杂七杂八的琐事等等。我原本想和妻子录制一期视频，在出发美国前，记录对未来生活的或者美国生活的预测，可惜后续时间赶依然忘记这一出。 虽然签证的资料非常多，各式各样的表格，照片，证件，好在现在 AI 时代，这些都是非常容易的事情。我记得五月底我们提交了表格，然",
+    "source_root_domain": "jackpu.com"
+  },
+  {
+    "title": "程序会导致双标？",
+    "url": "https://mobius.blog/26002.html",
+    "date": "2026-10-27T03:46:58Z",
+    "description": "何为程序？就比如最近闹得沸沸扬扬的“星巴克取消第三空间”的话题——星巴克开始取消原本对外公开开放的免费第三空间 […]",
+    "source_root_domain": "mobius.blog"
+  },
+  {
+    "title": "OpenAI 到底在干嘛？ 2026下半",
+    "url": "https://versun.me/blog/tweet-2114886286582657444",
+    "date": "2026-10-27T01:05:58Z",
+    "description": "OpenAI GPT-6.1 Terra: delivering fast and capable computer use at a lower price. GPT-6.1 Terra understands what’s on screen, takes action across apps, writes naturally, and is a more capable model for your whole workday with the efficiency to take on more OpenAI 到底在干嘛？ 2026下半年最让人困惑的2个公司：OpenAI 和 Kimi 最悲催的公司：智谱 最惊喜的公司：Google、DeepSeek 最渣的公司：A/",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "2026年Spaceship 优惠码",
+    "url": "https://www.evan.xin/5133/",
+    "date": "2026-10-27T00:52:34Z",
+    "description": "2026 年 10 月目前可用的 Spaceship 优惠码（域名为准，第三方网站整理的代码可能在个别地区失效 […]",
+    "source_root_domain": "evan.xin"
+  },
+  {
+    "title": "Memos #2026-10-26",
+    "url": "https://blog.itaober.com/memos/memo_20261026151853_mlotcf",
+    "date": "2026-10-27T00:00:00Z",
+    "description": "23:20 沐上树梢融入得很好，听感和谐。 本期最佳梗：粉都不是南宁，是墨西哥！",
+    "source_root_domain": "itaober.com"
+  }
+]
