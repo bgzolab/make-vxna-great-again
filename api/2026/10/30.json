@@ -1,5 +1,82 @@
 [
   {
+    "title": "2021",
+    "url": "https://wcowin.work/blog/archive/2021/",
+    "date": "2026-10-30T07:56:17Z",
+    "description": "2021",
+    "source_root_domain": "wcowin.work"
+  },
+  {
+    "title": "2022",
+    "url": "https://wcowin.work/blog/archive/2022/",
+    "date": "2026-10-30T07:56:17Z",
+    "description": "2022",
+    "source_root_domain": "wcowin.work"
+  },
+  {
+    "title": "2023",
+    "url": "https://wcowin.work/blog/archive/2023/",
+    "date": "2026-10-30T07:56:17Z",
+    "description": "2023",
+    "source_root_domain": "wcowin.work"
+  },
+  {
+    "title": "2024",
+    "url": "https://wcowin.work/blog/archive/2024/",
+    "date": "2026-10-30T07:56:17Z",
+    "description": "2024",
+    "source_root_domain": "wcowin.work"
+  },
+  {
+    "title": "2025",
+    "url": "https://wcowin.work/blog/archive/2025/",
+    "date": "2026-10-30T07:56:17Z",
+    "description": "2025",
+    "source_root_domain": "wcowin.work"
+  },
+  {
+    "title": "2026",
+    "url": "https://wcowin.work/blog/archive/2026/",
+    "date": "2026-10-30T07:56:17Z",
+    "description": "2026",
+    "source_root_domain": "wcowin.work"
+  },
+  {
+    "title": "Hello World",
+    "url": "https://wcowin.work/blog/category/hello-world/",
+    "date": "2026-10-30T07:56:17Z",
+    "description": "Hello World",
+    "source_root_domain": "wcowin.work"
+  },
+  {
+    "title": "网站更新记录",
+    "url": "https://wcowin.work/blog/category/%E7%BD%91%E7%AB%99%E6%9B%B4%E6%96%B0%E8%AE%B0%E5%BD%95/",
+    "date": "2026-10-30T07:56:17Z",
+    "description": "网站更新记录",
+    "source_root_domain": "wcowin.work"
+  },
+  {
+    "title": "MyBlog",
+    "url": "https://wcowin.work/blog/page/2/",
+    "date": "2026-10-30T07:56:17Z",
+    "description": "MyBlog",
+    "source_root_domain": "wcowin.work"
+  },
+  {
+    "title": "你当然应该去做视频",
+    "url": "https://www.hecaitou.com/2026/10/of-course-you-should-pivot-to-video.html",
+    "date": "2026-10-30T04:49:41Z",
+    "description": "我又建议一位朋友从文字创作转去做视频，去发挥自己的形象和口才特长，不要再留恋文字创作这种方式，不要再留恋昔日在这个领域的荣光。当时我的原话是：「当铁达尼号下沉的时候，是不是头等舱乘客没有任何意义」。 记得美团王兴在很多年前私下画过一张图，最上方的横坐标上写了文字、图片、音频、视频，向下延展的纵坐标则是网络有史以来对应的各种产品。他的意思是说，从横向来看，总是从文字开始，终于视频；从纵向来看，总是从长内容开始，逐渐演化为短内容。 按照他那张演进图的推测，互联网内容产品已经推进到了右下角，终局早就出现。就在那个角落里，才有最多的人，最多的关注，最多的活力。 所以，任何人只要向我诉说文字创作的艰难现状，我都建议他们转去做视频。时代的潮流如此，个人逆水游泳几乎无望。就像是有了微博之后，人们就不再写博客，800 字文章转成 140 字短句。硬要坚持写也可以，但不要指望还能和过去一样，还有那么多人愿意阅读。过去的意思，就是再也回不去了。 沈世钧很清楚这一点，顾曼桢也一样。 当然，如果就是把文字创作当做是一种个人爱好，每天不会为了算法推荐不推荐而牵肠挂肚，那我会鼓励这样的人继续写下去。因为这种写法不",
+    "source_root_domain": "hecaitou.com"
+  },
+  {
+    "title": "读书笔记有人看吗？",
+    "url": "https://mobius.blog/26015.html",
+    "date": "2026-10-30T02:21:35Z",
+    "description": "一个朋友在看完《什么值得写？》后，留言道： 如果在博客上写读书笔记，会有人看吗？ 我本来想先回一句“没有”，但 […]",
+    "source_root_domain": "mobius.blog"
+  },
+  {
     "title": "Pensieve: 2610",
     "url": "https://xiaket.github.io/2026/pensieve-2610.html",
     "date": "2026-10-30T00:41:00Z",
@@ -40,6 +117,13 @@
     "date": "2026-10-29T23:10:23Z",
     "description": "如要阅读全文，点击标题跳转。 学习周刊-总第287期 | ashell | AtlasOS | tinyauth | BonsAI | Yield | Claudesk | tabularis",
     "source_root_domain": "eryajf.net"
+  },
+  {
+    "title": "AI对抗与逆向",
+    "url": "https://elmagnifico.tech/2026/10/30/AI-Cheat/",
+    "date": "2026-10-29T16:00:00Z",
+    "description": "Foreword 最近干的事情刚好和AI、逆向、反编译有关系，也刚好遇到了很多以前作为门槛的东西，在AI时代突然就什么都不是了，安全一下就下降了很多，不得不把很多设计做得更复杂了。 龙窟破坏者 先以最近玩的游戏为例，龙窟破坏者目前是demo，本身是联网的，而且作为一个含有PVP内容的游戏，本身服务端验证机制都是完善的。至少游戏内你要改数值，秒杀、飞天、瞬移什么的还是比较困难的，任何操作都有本地模拟和服务端模拟，二者同步才能继续，否则就给你踢了。 但是游戏并不是什么都做验证的，特别是显示端，就类似以前的web前端。 web前端基本是透明的，你想要接口，想要破开混淆，看到具体的内容，以前就很容易，现在有了AI就更容易了，分分钟就能拿到你的接口参数，然后就能重写一套新的或者模拟web等操作直接完成对应的功能。 但是到客户端、比如C#的、C++的、Unity的、UE的，这些就有点麻烦了，很多逆向第一件事是反汇编，在以前你还得用专业的工具，专门去跟踪代码，一行行读。现在AI直接逆向，读汇编的速度大概是以前几千倍，所以现在的客户端如果没有更牛逼的保护，基本就是以前的web，都是纯白给了。虽然逆向读",
+    "source_root_domain": "elmagnifico.tech"
   },
   {
     "title": "k8s集群-CoreDNS配置踩坑",

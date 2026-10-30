@@ -27,12 +27,24 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-10-30 | [2021](https://wcowin.work/blog/archive/2021/) | 2021 |
+| 2026-10-30 | [2022](https://wcowin.work/blog/archive/2022/) | 2022 |
+| 2026-10-30 | [2023](https://wcowin.work/blog/archive/2023/) | 2023 |
+| 2026-10-30 | [2024](https://wcowin.work/blog/archive/2024/) | 2024 |
+| 2026-10-30 | [2025](https://wcowin.work/blog/archive/2025/) | 2025 |
+| 2026-10-30 | [2026](https://wcowin.work/blog/archive/2026/) | 2026 |
+| 2026-10-30 | [Hello World](https://wcowin.work/blog/category/hello-world/) | Hello World |
+| 2026-10-30 | [网站更新记录](https://wcowin.work/blog/category/%E7%BD%91%E7%AB%99%E6%9B%B4%E6%96%B0%E8%AE%B0%E5%BD%95/) | 网站更新记录 |
+| 2026-10-30 | [MyBlog](https://wcowin.work/blog/page/2/) | MyBlog |
+| 2026-10-30 | [你当然应该去做视频](https://www.hecaitou.com/2026/10/of-course-you-should-pivot-to-video.html) | 我又建议一位朋友从文字创作转去做视频，去发挥自己的形象和口才特长，不要再留恋文字创作这种方式，不要再留恋昔日在这个领域的荣光。当时我的原话是：「当铁达尼号下沉的时候，是不是头等舱乘客没有任何意义」。 记得美团王兴在很多年前私下画过一张图，最上方的横坐标上写了文字、图片、音频、视频，向下延展的纵坐标则… |
+| 2026-10-30 | [读书笔记有人看吗？](https://mobius.blog/26015.html) | 一个朋友在看完《什么值得写？》后，留言道： 如果在博客上写读书笔记，会有人看吗？ 我本来想先回一句“没有”，但 […] |
 | 2026-10-30 | [Pensieve: 2610](https://xiaket.github.io/2026/pensieve-2610.html) | 所读所观所玩 |
 | 2026-10-30 | [向云端｜西南自驾11 - 布依](https://blog.ops-coffee.com/r/2026-southwest-road-trip-11-longjing.html) |  |
 | 2026-10-30 | [科技爱好者周刊（第 417 期）：不要让 AI 代表你](http://www.ruanyifeng.com/blog/2026/10/weekly-issue-417.html) | 这里记录每周值得分享的科技内容，周五发布。 本杂志 开源 ，欢迎 投稿 。另有 《谁在招人》 服务，发布程序员招聘信息。合作请 邮件联系 （yifeng.ruan@gmail.com）。 封面图 四川宜宾市的青少年发展中心，建筑中庭的透光屋顶象征一个万花筒，会有不断变化的日光效果。（ via ） 不… |
 | 2026-10-30 | [效率提高了，我反而更TM忙](https://www.linggandianbo.com/xiao-lu-ti-gao-liao-wo-fan-er-geng-tmmang/) | 灵感电波 #139｜更便宜的智能，更忙碌的人，还有变了味的巧克力 |
 | 2026-10-29 | [美国油价涨了，但对美国人来说还是便宜](https://depp.wang/2026/us-gas-prices/) | 因为美国-伊朗战争，美国油价今年涨了不少。 AAA 的数据 ，2 月 26 日普通汽油全国均价还是每加仑 2.98 美元，到 10 月 29 日 已经是 4.23 美元，涨了约 42%。换成我们习惯的升，大约是从每升 0.79 美元涨到了 1.12 美元。 涨幅确实不小，但我觉得，要看美国人加油到底… |
 | 2026-10-29 | [学习周刊-总第287期-2026年第44周](https://wiki.eryajf.net/pages/f7ca02/) | 如要阅读全文，点击标题跳转。 学习周刊-总第287期 &#124; ashell &#124; AtlasOS &#124; tinyauth &#124; BonsAI &#124; Yield &#124; Claudesk &#124; tabularis |
+| 2026-10-29 | [AI对抗与逆向](https://elmagnifico.tech/2026/10/30/AI-Cheat/) | Foreword 最近干的事情刚好和AI、逆向、反编译有关系，也刚好遇到了很多以前作为门槛的东西，在AI时代突然就什么都不是了，安全一下就下降了很多，不得不把很多设计做得更复杂了。 龙窟破坏者 先以最近玩的游戏为例，龙窟破坏者目前是demo，本身是联网的，而且作为一个含有PVP内容的游戏，本身服务端… |
 | 2026-10-29 | [k8s集群-CoreDNS配置踩坑](https://199604.com/3735) | k8s集群-CoreDNS配置踩坑 记录时间：2026-10-28 环境：K8s 1.28.15 二进制部署集 […] |
 | 2026-10-29 | [《工资外收入：不要再单次、廉价地出卖你的时间》书摘](https://www.ixiqin.com/2026/10/29/gongziwaishouru-booknote/) | 这本书似乎是微信读书单独出版的，很简短，内容相对浅薄，适合职场新人读。 2 时间的瓶颈 问题也正出在这里。对于 […] |
 | 2026-10-29 | [Quetoo updated](https://macsourceports.com/game/quetoo) | The build of Quetoo has been updated to version v1.0.139 of the project |
