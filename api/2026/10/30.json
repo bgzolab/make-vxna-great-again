@@ -7,6 +7,20 @@
     "source_root_domain": "penghh.fun"
   },
   {
+    "title": "如何优雅地优雅退出？",
+    "url": "https://www.geedea.pro/article/functional-shutdown/",
+    "date": "2026-10-30T17:36:54Z",
+    "description": "写程序的时候会自然地关注如何启动系统中的各个组件，但很少关心如何关停。这和内存分配一样，使用高层编程语言（甚至是自然语言）编程的程序员们早已习惯垃圾回收机制，从不手动分配和释放内存。 不需要极佳的性能，确实没必要用 C 或者 Zig 等低层语言直接操作内存，但在高层语言里，仍有不少资源需要手动管理，系统中有些部分是成熟的框架也不一定会考虑到的。比方说，一些异步程序可能在共享内存区域或消息队列里存了尚未保存的数据，如果直接退出，这里面的数据就丢失了。 让程序监听并响应中断信号，在收到信号之后处理尚未释放的资源和尚未完成的请求，然后主动退出，这种做法一般叫优雅退出（graceful shutdown）。Java 的 Spring 框架就会在接收到信号的时候自动优雅退出，首先它会停止接收新的请求，然后处理完剩下的请求，最后停止进程。 我本来想看看 Spring 是怎么实现优雅退出的，结果只翻到了一大堆接口和抽象类（我第一次知道接口还能继承接口，而且可以多继承，Java 稳定发挥），我懒得去找实现类了，所以就直接开写吧。 中断是外部事件 程序运行时， main 的入口位置会被写入 程序计数器 ",
+    "source_root_domain": "geedea.pro"
+  },
+  {
+    "title": "折腾桌面",
+    "url": "https://yipai.me/post/2556.html",
+    "date": "2026-10-30T17:10:00Z",
+    "description": "因为儿子要我换个跟他一样颜色的桌子，所以买了一样颜色的升降桌。没想到一发不可收拾，重构了桌面环境。先上成果：再记录一些设备及更新的原因：一、电脑因为 Mac mini 涨价，之前 9000 块卖掉了 M4 的 Mac mini。现在 M6 Mac mini 降价，又没忍住 7100 买回了 M6 + 24G + 512G 的 Mac mini。二、升降桌之前",
+    "source_root_domain": "yipai.me"
+  },
+  {
     "title": "《关键时刻行动手册》01 遇到困境怎么办？",
     "url": "https://blog.brmys.cn/4-Archives/%E8%AF%AD%E9%9B%80%E7%9F%A5%E8%AF%86%E5%BA%93-2025.08.22/%E8%8B%8F%E8%8B%8F%E7%9A%84%E8%BE%93%E5%87%BA%E3%80%90Output%E3%80%91/002-%E8%AF%BE%E7%A8%8B%E7%AC%94%E8%AE%B0/002-%E5%90%B4%E5%86%9B%E6%9D%A5%E4%BF%A12/%E3%80%8A%E5%85%B3%E9%94%AE%E6%97%B6%E5%88%BB%E8%A1%8C%E5%8A%A8%E6%89%8B%E5%86%8C%E3%80%8B01-%E9%81%87%E5%88%B0%E5%9B%B0%E5%A2%83%E6%80%8E%E4%B9%88%E5%8A%9E%EF%BC%9F",
     "date": "2026-10-30T16:26:30Z",
@@ -322,10 +336,10 @@
     "source_root_domain": "eryajf.net"
   },
   {
-    "title": "AI 早报 2026-10-30：Agility Robotics 预计通过 SPAC 合并募资 4.65 亿美元，11 月 5…",
+    "title": "AI 早报 2026-10-30：Agility Robotics 预计募资4.65亿美元，拟11月5日挂牌",
     "url": "https://www.jtxyh.com/daily/2026-10-30/",
     "date": "2026-10-29T16:00:00Z",
-    "description": "2026-10-30 AI 早报，共 29 条动态。人形机器人公司 Agility Robotics 与 Churchill Capital Corp XI 于 10 月 30 日联合宣布，赎回截止后，本次合并及相关融资的毛募资预计约 4.65 亿美元（交易费用前）。",
+    "description": "2026-10-30 AI 早报，共 25 条动态。人形机器人公司 Agility Robotics 与 Churchill Capital Corp XI 于 10 月 30 日联合宣布，赎回截止后，本次合并及相关融资的毛募资预计约 4.65 亿美元（交易费用前）。",
     "source_root_domain": "jtxyh.com"
   },
   {
