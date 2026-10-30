@@ -27,16 +27,23 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-10-30 | [Pensieve: 2610](https://xiaket.github.io/2026/pensieve-2610.html) | 所读所观所玩 |
+| 2026-10-30 | [向云端｜西南自驾11 - 布依](https://blog.ops-coffee.com/r/2026-southwest-road-trip-11-longjing.html) |  |
+| 2026-10-30 | [科技爱好者周刊（第 417 期）：不要让 AI 代表你](http://www.ruanyifeng.com/blog/2026/10/weekly-issue-417.html) | 这里记录每周值得分享的科技内容，周五发布。 本杂志 开源 ，欢迎 投稿 。另有 《谁在招人》 服务，发布程序员招聘信息。合作请 邮件联系 （yifeng.ruan@gmail.com）。 封面图 四川宜宾市的青少年发展中心，建筑中庭的透光屋顶象征一个万花筒，会有不断变化的日光效果。（ via ） 不… |
+| 2026-10-30 | [效率提高了，我反而更TM忙](https://www.linggandianbo.com/xiao-lu-ti-gao-liao-wo-fan-er-geng-tmmang/) | 灵感电波 #139｜更便宜的智能，更忙碌的人，还有变了味的巧克力 |
+| 2026-10-29 | [美国油价涨了，但对美国人来说还是便宜](https://depp.wang/2026/us-gas-prices/) | 因为美国-伊朗战争，美国油价今年涨了不少。 AAA 的数据 ，2 月 26 日普通汽油全国均价还是每加仑 2.98 美元，到 10 月 29 日 已经是 4.23 美元，涨了约 42%。换成我们习惯的升，大约是从每升 0.79 美元涨到了 1.12 美元。 涨幅确实不小，但我觉得，要看美国人加油到底… |
 | 2026-10-29 | [学习周刊-总第287期-2026年第44周](https://wiki.eryajf.net/pages/f7ca02/) | 如要阅读全文，点击标题跳转。 学习周刊-总第287期 &#124; ashell &#124; AtlasOS &#124; tinyauth &#124; BonsAI &#124; Yield &#124; Claudesk &#124; tabularis |
 | 2026-10-29 | [k8s集群-CoreDNS配置踩坑](https://199604.com/3735) | k8s集群-CoreDNS配置踩坑 记录时间：2026-10-28 环境：K8s 1.28.15 二进制部署集 […] |
 | 2026-10-29 | [《工资外收入：不要再单次、廉价地出卖你的时间》书摘](https://www.ixiqin.com/2026/10/29/gongziwaishouru-booknote/) | 这本书似乎是微信读书单独出版的，很简短，内容相对浅薄，适合职场新人读。 2 时间的瓶颈 问题也正出在这里。对于 […] |
 | 2026-10-29 | [Quetoo updated](https://macsourceports.com/game/quetoo) | The build of Quetoo has been updated to version v1.0.139 of the project |
 | 2026-10-29 | [游戏](https://www.kawabangga.com/posts/7446) | 一起去上班路上： 欣：你喜欢玩什么游戏？ 我：啥？ 欣：我同事聊起来游戏，他们问我你玩什么游戏。 我：那一定是 […] Continue reading... |
 | 2026-10-29 | [群晖NAS被勒索攻击](https://hux.ink/posts/synology-attack/) | 我的群晖 NAS 昨晚遭到了勒索软件攻击，所有文件被加密上锁。 发现中招的经过 今天早上到公司后，有个念头闪过，想发条 Memo，便习惯性地打开 Memos 网页。没想到看到的不是熟悉的输入框和记录列表，而是一个全新的账号注册页面，提示创建站点管理员。昨天还用得好好的，怎么突然变成了初始化状态？起初… |
+| 2026-10-29 | [一言不合就自己搞，真羡慕，太牛批了](https://versun.me/blog/tweet-2115692277096177702) | 卡比卡比 现在的 AI 浏览器，个人用起来都没有特别顺手的，于是我自己写了一个，叫 Kaze，日语里是风的意思。内嵌的AI它的操作就像风一样的丝滑&不会干扰你。 Github: https://github.com/jackwener/Kaze 欢迎大家star关注。通过issue反馈问题。 项目主… |
 | 2026-10-29 | [讨论失眠会传染](https://www.hecaitou.com/2026/10/rule-1-of-insomnia-dont-talk-about-insomnia.html) | 事实再一次雄辩地证明：讨论失眠会导致失眠。昨晚，在幸运地恢复了一个多月良好睡眠之后，我朋友找我探讨失眠问题。讨论完毕，我上床睡觉，他继续熬鹰，结果一晚上我都没睡踏实，5 点之后每半小时醒来一次。 失眠是个很复杂的问题，相关的因素太多，正常情况下一个人很难锁定真实原因。但是，就我个人的经验而言，每次和… |
 | 2026-10-29 | [使用Cloudflare的Worker来扩展安全规则并自动拉黑IP](https://www.cheshirex.com/11550.html) | Cloudflare免费版套餐安全规则只能设置5条，很多人会感觉不够用。昨天研究Cloudflare自动拉黑I […] |
 | 2026-10-29 | [人民币结算与定价权](https://blog.oospace.com/posts/2026-10-29/) | AI泡沫一定程度上破了，但是并非没有未来了 |
 | 2026-10-29 | [失乐园里有什么？II](https://mobius.blog/26011.html) | 既然准备正式开始“他人即地狱”这个话题，首先还是要聊聊它的定义。 “他人即地狱”出自法国存在主义哲学家让-保罗 […] |
+| 2026-10-29 | [哈咯 @StartLuxAI 你家的 a](https://versun.me/blog/tweet-2115633816111030695) | 哈咯 @StartLuxAI 你家的 api 页面记得改下 logo 啥的，目前显示是new api🤣 |
 | 2026-10-29 | [Memos: 当下软件开发的效率瓶颈](https://blog.yasking.org/a/1793239872) | 近期感受： 各岗位都在拥抱 AI，以提升自身效率、实现局部最优；但需求传递、前后端联调、交付验收的沟通链路成本仍然存在 … |
 | 2026-10-29 | [小小逃离](https://yovey.me/%e5%b0%8f%e5%b0%8f%e9%80%83%e7%a6%bb/) | 10/29 09:04 工作又很忙了，上周末rui回南昌，吃顿饭的功夫，不知怎么被怂恿着就买了票，跟着一块到台 … Continue reading "小小逃离" |
 | 2026-10-28 | [AI 早报 2026-10-29：韩国芯片商 FuriosaAI 完成 6.2 亿美元 D 轮融资，投后估值 29 亿美元](https://www.jtxyh.com/daily/2026-10-29/) | 2026-10-29 AI 早报，共 25 条动态。韩国 AI 芯片初创 FuriosaAI 10 月 28 日宣布完成 6.2 亿美元（约 8200 亿韩元）D 轮融资，投后估值约 29 亿美元，约为上一轮 7.35 亿美元的近四倍。三星电子 10 月 29 日公布第三季度业绩：营业利润增至上年同… |
@@ -162,28 +169,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-10-23 | [对不起 Vaultwarden(Bitw](https://versun.me/blog/tweet-2113447259371454848) | 1Password Today we announce 1Password for Agents platform, building with companies @Muse, SpaceX Super Intelligence Grok @Bot, @AnthropicAI’s @Claudea… |
 | 2026-10-23 | [科技爱好者周刊（第 416 期）：编程已经面目全非](http://www.ruanyifeng.com/blog/2026/10/weekly-issue-416.html) | 这里记录每周值得分享的科技内容，周五发布。 本杂志 开源 ，欢迎 投稿 。另有 《谁在招人》 服务，发布程序员招聘信息。合作请 邮件联系 （yifeng.ruan@gmail.com）。 封面图 本周启用的上海大歌剧院内部装修。（ via ） 编程已经面目全非 大多数人只看到，AI 改变了程序员这个… |
 | 2026-10-23 | [Memos #2026-10-22](https://blog.itaober.com/memos/memo_20261022032354_x9ve3c) | 11:27 时间的逝去，人的离开，记忆的回流，无可奈何。 如此契合现状。 |
-| 2026-10-22 | [记一次在MacBook上瞎折腾YubiKey把自己锁在外面的救援](https://www.boris1993.com/macos-recover-from-required-pin-to-enable-touch-id.html) | 前两天拿着YubiKey瞎折腾玩，给我的MacBook配上了用它登录，配完了又担心将来忘了这件事给自己找麻烦，于是又解绑了。尽管当时用 sc_auth list 确认了账户已经没有绑定的智能卡，但刚刚打开电脑的时候，却发现macOS要我输入PIN来启用Touch ID。在反复试了好几个我确定正确的P… |
-| 2026-10-22 | [New Release: Quake 4](https://macsourceports.com/game/quake4) | Slowly but surely we're getting all the Quake games on the site. Quake 4 is the fourth installment in the Quake series, and just to keep things weird… |
-| 2026-10-22 | [PHP2Shell 这次，服务器也没能幸免](https://blog.mxdyeah.com/post/php2shell-server-incident) | 这几天 PHP 圈的氛围，用一个词形容就是：赛跑。一边是 PHP 安全团队赶着发布补丁，另一边是拿到漏洞细节的人开始研究 PoC，还有人甚至不需要现成的 PoC，照着公开的信息就能自己动手。对维... |
-| 2026-10-22 | [【剧透】赛博朋克: 边缘行者 第二季 观后感](https://7gugu.com/index.php/2026/10/23/%e8%b5%9b%e5%8d%9a%e6%9c%8b%e5%85%8b-%e8%be%b9%e7%bc%98%e8%a1%8c%e8%80%85-%e7%ac%ac%e4%ba%8c%e5%ad%a3/) | Netflix就是厚道，一次性放10集，爽看。剧情也没Threads上说的那么糟糕，当然也没第一季马丁内斯那么 … 继续阅读 “【剧透】赛博朋克: 边缘行者 第二季 观后感” |
-| 2026-10-22 | [我留起了胡子](https://tianheg.co/posts/growing-a-beard/) | 我留起了胡子 23 Oct, 2026 我留起了胡子 让它野蛮生长 在鼻子与嘴唇之间的上唇区 有了一撇一捺 我拍了胡子的照片 人中的位置没有胡子 从那里到两边嘴角处胡子是浓密的 我看起来不一样了 以前的我 尽可能刮干净胡子 觉得这代表了我对生活的态度 时间久了 干净的脸庞似乎代表了我的状态 可是，我… |
-| 2026-10-22 | [AI 早报 2026-10-23：10.23总结；Anthropic 与英国 AISI 复盘智能体越权：明确目标是真人，仍未阻止攻击](https://www.jtxyh.com/daily/2026-10-23/) | 2026-10-23 AI 早报，共 13 条动态。智能体的运行环境、开放标准与安全边界是本期重点。Anthropic 于台北时间10月23日21:40发布分析，与英国 AI 安全研究所（AISI）当天的独立报告共同复盘7月发生、8月已披露的测试事件，并非新发生的攻击。 |
-| 2026-10-22 | [QuietSearch:支持 Kagi 和 DeepSeek API 的轻量搜索界面](https://anotherdayu.com/quietsearch-kagi-deepseek-api/) | 引 最近做了一个满足个人需求的小工具 QuietSearch ，是一个可以部署在 Cloudflare 上的轻量搜索界面，支持接入 Kagi 和 DeepSeek 的搜索 API。 在设置中选择引擎、填入自己的 API Key，就可以搜索。配置 DeepSeek Key 后，在问题末尾加上 ？ ，还… |
-| 2026-10-22 | [睡得着觉的人](https://blog.solazy.me/20261022/) | 最近对一句话深有感触…… |
-| 2026-10-22 | [Nginx1.31.7编译原生GeoIP模块并写入JSON访问日志](https://199604.com/3730) | Nginx1.31.7编译原生GeoIP模块并写入JSON访问日志 记录时间：2026-10-21 环境：RH […] |
-| 2026-10-22 | [云和梯田畲乡自驾4天4夜](https://victor42.eth.limo/post/yunhe-terraces-she-township-self-driving-tour/) | 畲族文化、山岭梯田与瓯江古村。 照片相册： 查看本篇相册 旅行攻略： 获取攻略文档 稻谷金黄、秋意正浓，周五晚杭州出发，驱车300多公里来到丽水，带家人奔赴一场山野度假。 由于是自驾，活动范围比较大，不是单城玩法。行程涉及景宁县、云和县、丽水莲都区三地，且目的地离各区县的城区都有一段距离，非自驾难以… |
-| 2026-10-22 | [哈哈，好可爱，黄仁勋在 GTC 上和 @](https://versun.me/blog/tweet-2113168136505786723) | Nous Research Jensen closed his GTC Berlin 2026 keynote with this Hermes Agent demo as the finale. He introduced it by saying the way to build an agen… |
-| 2026-10-22 | [青甘行·上｜祁连山色，张掖丹霞](https://hux.ink/posts/qinggan-trip-02/) | 序曲 ：前路未知，满怀期待 9 月 24 日，临出发前，我写了一篇 序曲短记 ，末尾写道：“前路未知，满怀期待，最美风景在路上。” 彼时行李已经收拾妥当，接下来十三天的行程也基本安排好了，只等出门赶高铁。虽然提前在网上看过一些攻略和照片，对即将经过的地方有初步了解，但毕竟是第一次去大西北，真正会遇见… |
-| 2026-10-22 | [AI Infra：大型定量模型（LQM）研究](https://luweiqing.com/resources/AI-Infra-LQM.html) | 2026年10月20日，Gartner正式发布《2027年十大战略技术趋势》，将大型定量模型（Large Quantitative Models，简称 LQM）列为首项趋势。当AI的聚光灯从“能... |
-| 2026-10-22 | [人书俱老](https://www.hecaitou.com/2026/10/when-the-writer-and-the-work-mature-together.html) | 前几天是鲁迅先生逝世 90 周年，他在小朋友中间的影响力还有那么大么？不好说。当初我家书架上有他的作品集，很多人家也有，理所应当的样子，今天还是如此么？ 金庸在世的时候，国人已经发展出了「金学」，认为他写的武侠小说是难以逾越的文学高峰。但我问过很多 00 后小朋友，提起这个名字他们都是一脸茫然，除非… |
-| 2026-10-22 | [走大朝台我在想啥？一](https://1900.live/zou-da-zhao-tai-wo-zai-xiang-sha-yi/) | null 规划 国庆假期前夕，琢磨着走川西方向安排个一两天的行程看看秋景彩林，候选的地方也定了好几个，奈何那段时间四川天气多以雨天为主，想来去了也是大雾弥漫或者湿答答的，全然不会是我预想中的体验。 而且还联想起上次去龙华山雨天徒步，凌晨3点出发进山，淅沥的小雨让陡峭的徒步路线泥泞非常，几乎走两步就滑… |
-| 2026-10-22 | [2026.10.21](https://www.justzht.com/2026-10-21/) | 昨天下了班和 huaxia 会和开去 SJ 南边看了 American Psycho 重映，就是 sigma face meme 出处的那个电影。老电影了，和 Fight Club 一样，都或多或少 |
-| 2026-10-22 | [受PHP漏洞影响近期多台服务器将会进行升级操作，可能造成部分服务中断](https://www.cheshirex.com/11498.html) | 受PHP漏洞影响近期多台服务器将会进行升级操作，可能造成部分服务中断 目前本站大部分宝塔面板用的 […] |
-| 2026-10-22 | [拧螺丝](https://mobius.blog/25959.html) | 安装猫架、拧螺丝的时候，想起了一个“常识”——不过我至今不觉得这是一个“常识”，可能只是一个在记忆里被保存然后 […] —— 感谢订阅 莫比乌斯 ，如你有任何疑问、观点交流，请前往 创作者频道 ，或 私信 联系。 |
-| 2026-10-22 | [其实用户要的是确定性，如果改为模型组合，](https://versun.me/blog/tweet-2113089740534861879) | 忒修斯的船板 用户即使知道auto便宜十倍 也还是会主动去按那个opus 甚至sonnet 甚至xxx flash 而不是auto 你知道是为什么吗？ https://twitter.com/ivanhzhao/status/2112946746225766716 其实用户要的是确定性，如果改为模型… |
-| 2026-10-22 | [我把用了很久的终端配置整理成了 Dotgraft](https://rokcso.com/p/dotgraft-macos-terminal-setup/) | 我每天大部分时间都在终端里，写代码、跑测试、看日志，一天要开很多次。这套配置在自己机器上用了很久，后来整理成了 Dotgraft，组合是 Ghostty + Starship + zsh。 我不会写 shell 脚本，也没认真研究过 dotfiles，能留下来靠的是每次换电脑把同一批文件再抄一遍，抄… |
-| 2026-10-22 | [php2shell: 一条请求，让全球 70% 互联网被迫下线](https://blog.ensonyan.com/it/3504.html) | TL;DR 细节 10 月 21 日（周三），PHP 安全团队发布通告，措辞罕见地直接： “If […] |
-| 2026-10-22 | [近况](https://blog.chen-di.com/archive/2026-10-22-jin-kuang/) | 最近生活过得挺平淡的，偶尔去健身房，总想通过给自己找点事做来让生活变得充实一些。 |
 
 ## Vibe Coding
 
