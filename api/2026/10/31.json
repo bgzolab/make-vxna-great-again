@@ -1,0 +1,464 @@
+[
+  {
+    "title": "Memos #2026-10-30",
+    "url": "https://blog.itaober.com/memos/memo_20261029172004_6q8axf",
+    "date": "2026-10-31T00:00:00Z",
+    "description": "01:36 躺在床上睡不着，翻来覆去。 近一个月很忙，连下班到家，睡前的这段时间也挤出大部分给到工作，直到躺在床上才发现已经到了深夜，不甘心就这样度过一天。 这时候脑子里会想哪些事情明天要干，干了这么多又好像没啥成长，工作的意义是什么呢，要不要明天远程？从工作延展到意义，到 27 岁轻薄的、不确定的又自以为沉重的人生...有种莫名的孤独感。 我没法控制自己不去胡思乱想。 其实我一直都不知道我想要什么，只是一直在接受给到我的「还可以」的那份，沉浸其中，从没认真主动地去奢望过。 或许潜意识里的那些欲望都会在梦里反映出来，如果是这样，那我该睡了。",
+    "source_root_domain": "itaober.com"
+  },
+  {
+    "title": "早上看一新闻: 通用汽车非法出售驾驶行为",
+    "url": "https://versun.me/blog/tweet-2116316420661444649",
+    "date": "2026-10-30T23:48:48Z",
+    "description": "早上看一新闻: 通用汽车非法出售驾驶行为与位置数据，支付 2.2 亿美元达成和解 国内的车企，驾驶行为和位置数据都是默认共享的吧😂 https://www.reuters.com/business/autos-transportation/gm-pay-220-million-settle-allegations-it-violated-consumers-privacy-2026-10-29/",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "卷起来卷起来！",
+    "url": "https://versun.me/blog/tweet-2116303258792997166",
+    "date": "2026-10-30T22:56:30Z",
+    "description": "OpenCode Operation Cheepseek Phase 4: $100 of usage for DeepSeek V4.1 Flash 卷起来卷起来！",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "如何优雅地优雅退出？",
+    "url": "https://www.geedea.pro/article/functional-shutdown/",
+    "date": "2026-10-30T17:36:54Z",
+    "description": "写程序的时候会自然地关注如何启动系统中的各个组件，但很少关心如何关停。这和内存分配一样，使用高层编程语言（甚至是自然语言）编程的程序员们早已习惯垃圾回收机制，从不手动分配和释放内存。 不需要极佳的性能，确实没必要用 C 或者 Zig 等低层语言直接操作内存，但在高层语言里，仍有不少资源需要手动管理，系统中有些部分是成熟的框架也不一定会考虑到的。比方说，一些异步程序可能在共享内存区域或消息队列里存了尚未保存的数据，如果直接退出，这里面的数据就丢失了。 让程序监听并响应中断信号，在收到信号之后处理尚未释放的资源和尚未完成的请求，然后主动退出，这种做法一般叫优雅退出（graceful shutdown）。Java 的 Spring 框架就会在接收到信号的时候自动优雅退出，首先它会停止接收新的请求，然后处理完剩下的请求，最后停止进程。 我本来想看看 Spring 是怎么实现优雅退出的，结果只翻到了一大堆接口和抽象类（我第一次知道接口还能继承接口，而且可以多继承，Java 稳定发挥），我懒得去找实现类了，所以就直接开写吧。 中断是外部事件 程序运行时， main 的入口位置会被写入 程序计数器 ",
+    "source_root_domain": "geedea.pro"
+  },
+  {
+    "title": "折腾桌面",
+    "url": "https://yipai.me/post/2556.html",
+    "date": "2026-10-30T17:10:00Z",
+    "description": "因为儿子要我换个跟他一样颜色的桌子，所以买了一样颜色的升降桌。没想到一发不可收拾，重构了桌面环境。先上成果：再记录一些设备及更新的原因：一、电脑因为 Mac mini 涨价，之前 9000 块卖掉了 M4 的 Mac mini。现在 M6 Mac mini 降价，又没忍住 7100 买回了 M6 + 24G + 512G 的 Mac mini。二、升降桌之前",
+    "source_root_domain": "yipai.me"
+  },
+  {
+    "title": "《关键时刻行动手册》01 遇到困境怎么办？",
+    "url": "https://blog.brmys.cn/4-Archives/%E8%AF%AD%E9%9B%80%E7%9F%A5%E8%AF%86%E5%BA%93-2025.08.22/%E8%8B%8F%E8%8B%8F%E7%9A%84%E8%BE%93%E5%87%BA%E3%80%90Output%E3%80%91/002-%E8%AF%BE%E7%A8%8B%E7%AC%94%E8%AE%B0/002-%E5%90%B4%E5%86%9B%E6%9D%A5%E4%BF%A12/%E3%80%8A%E5%85%B3%E9%94%AE%E6%97%B6%E5%88%BB%E8%A1%8C%E5%8A%A8%E6%89%8B%E5%86%8C%E3%80%8B01-%E9%81%87%E5%88%B0%E5%9B%B0%E5%A2%83%E6%80%8E%E4%B9%88%E5%8A%9E%EF%BC%9F",
+    "date": "2026-10-30T16:26:30Z",
+    "description": "01 遇到困境怎么办？.mp3 01 遇到困境怎么办？.pdf 笔记： 遇到困境时的三个错误做法： 1、第⼀种是赌徒⼼理： 当⼀个⼈开始以赌徒⼼理追求⽬标时，也会吸引来那些利⽤他的⼼理压⼒、迎合他的需要，趁机赚便宜的⼈。 2、第⼆种错误的做法是在成败还没有完全确定时，⼀看苗头不对，马上改变策略。 今天有⼀个词，叫做“闪”，这个词本来不是贬义词，却成为了很多⼈做事情不愿意往深⾥做的借口。 这类⼈做什么事情遇到⼀点⿇烦就想着换⼀件事情做，这和前⾯那种⼀条道⾛到⿊的做法恰恰相反。 3、第三种错误的做法： 有的⼈遭遇失败之后既不是⼀条道⾛到⿊，也不是⽴刻换⽅向， ⽽是会变得消沉。 有的⼈会因此开始⾃怜...",
+    "source_root_domain": "brmys.cn"
+  },
+  {
+    "title": "《吴军来信2》学习目录",
+    "url": "https://blog.brmys.cn/4-Archives/%E8%AF%AD%E9%9B%80%E7%9F%A5%E8%AF%86%E5%BA%93-2025.08.22/%E8%8B%8F%E8%8B%8F%E7%9A%84%E8%BE%93%E5%87%BA%E3%80%90Output%E3%80%91/002-%E8%AF%BE%E7%A8%8B%E7%AC%94%E8%AE%B0/002-%E5%90%B4%E5%86%9B%E6%9D%A5%E4%BF%A12/%E3%80%8A%E5%90%B4%E5%86%9B%E6%9D%A5%E4%BF%A12%E3%80%8B%E5%AD%A6%E4%B9%A0%E7%9B%AE%E5%BD%95",
+    "date": "2026-10-30T16:26:30Z",
+    "description": "发刊词-用一年时间，重建底层逻辑 《关键时刻行动手册》01 遇到困境怎么办？.",
+    "source_root_domain": "brmys.cn"
+  },
+  {
+    "title": "《小狗钱钱》24年重读——原则篇",
+    "url": "https://blog.brmys.cn/4-Archives/%E8%AF%AD%E9%9B%80%E7%9F%A5%E8%AF%86%E5%BA%93-2025.08.22/%E8%8B%8F%E8%8B%8F%E7%9A%84%E8%BE%93%E5%87%BA%E3%80%90Output%E3%80%91/%E4%B9%A6%E7%B1%8D%E9%98%85%E8%AF%BB/002-%E3%80%8A%E5%B0%8F%E7%8B%97%E9%92%B1%E9%92%B1%E3%80%8B/%E3%80%8A%E5%B0%8F%E7%8B%97%E9%92%B1%E9%92%B1%E3%80%8B24%E5%B9%B4%E9%87%8D%E8%AF%BB%E2%80%94%E2%80%94%E5%8E%9F%E5%88%99%E7%AF%87",
+    "date": "2026-10-30T16:26:30Z",
+    "description": "《小狗钱钱》24年重读——原则篇 读书笔记原则篇苏苏笔记 原来是用来实时对标，提醒自己的。 1、当你想要什么的时候，请清晰的说清楚，给宇宙下订单的前提是，说清楚时间、地点、人物、物品名称，不然东西是寄不到的。 2、真正付诸实践要比纯粹的思考有用多了，不需要完全搞懂再行动。 3、没有试试看这一说，只有两个选择——做或者不做。 4、把精力投入到自己喜欢的事情上面。 5、当你想要某个东西的时候，必须设想自己已经拥有了这些东西，这样你的小愿望才会变成一种强烈的渴望。 6、你是否能挣到钱，最关键的并不是你有没有好点子，也不是你有多聪明，而是你的自信程度。 7、不断思考我能为别人解决什么难题？并把注意力放...",
+    "source_root_domain": "brmys.cn"
+  },
+  {
+    "title": "《小狗钱钱》24年重读——行动篇",
+    "url": "https://blog.brmys.cn/4-Archives/%E8%AF%AD%E9%9B%80%E7%9F%A5%E8%AF%86%E5%BA%93-2025.08.22/%E8%8B%8F%E8%8B%8F%E7%9A%84%E8%BE%93%E5%87%BA%E3%80%90Output%E3%80%91/%E4%B9%A6%E7%B1%8D%E9%98%85%E8%AF%BB/002-%E3%80%8A%E5%B0%8F%E7%8B%97%E9%92%B1%E9%92%B1%E3%80%8B/%E3%80%8A%E5%B0%8F%E7%8B%97%E9%92%B1%E9%92%B1%E3%80%8B24%E5%B9%B4%E9%87%8D%E8%AF%BB%E2%80%94%E2%80%94%E8%A1%8C%E5%8A%A8%E7%AF%87",
+    "date": "2026-10-30T16:26:30Z",
+    "description": "《小狗钱钱》24年重读——行动篇 读书笔记行动篇苏苏笔记 1、想出10个你想变得富有的原因。 2、做好3件事，轻易改变自己的想法。 1）用Notion建立梦想清单相册； 收集与自己愿望有关的照片，通过照片来思考梦想。 2）每天看几遍相册，想象梦想实现的画面； 3）“你可以做的第三件事就是准备一个梦想储蓄罐。”为自己的每一个梦想各准备一个储蓄罐。一旦储蓄罐准备好，你就应当把省下的每一分钱放进去。” 3、如何获得自信？写《成功日记》。 001 准备一个专门的本子（和复盘分开），取名《成功日记》； 002 把所有做成功的事情记录进去； 003 每天都做这件事，每次都至少写5条个人成果，任何小事都可以...",
+    "source_root_domain": "brmys.cn"
+  },
+  {
+    "title": "《小狗钱钱》24年重读——认知篇",
+    "url": "https://blog.brmys.cn/4-Archives/%E8%AF%AD%E9%9B%80%E7%9F%A5%E8%AF%86%E5%BA%93-2025.08.22/%E8%8B%8F%E8%8B%8F%E7%9A%84%E8%BE%93%E5%87%BA%E3%80%90Output%E3%80%91/%E4%B9%A6%E7%B1%8D%E9%98%85%E8%AF%BB/002-%E3%80%8A%E5%B0%8F%E7%8B%97%E9%92%B1%E9%92%B1%E3%80%8B/%E3%80%8A%E5%B0%8F%E7%8B%97%E9%92%B1%E9%92%B1%E3%80%8B24%E5%B9%B4%E9%87%8D%E8%AF%BB%E2%80%94%E2%80%94%E8%AE%A4%E7%9F%A5%E7%AF%87",
+    "date": "2026-10-30T16:26:30Z",
+    "description": "《小狗钱钱》24年重读——认知篇 读书笔记认知篇苏苏笔记 1、所有的原则自古有之。 2、财富应该是某种思想观点、某种以富裕为导向的信仰的产品。 3、“并非困难使我们放弃，而是因为我们放弃，才显得如此困难。” 4、钱不是人一生中最重要的东西。可是假如我们缺钱的话，钱就会变得格外重要。 5、“大多数人并不清楚自己想要的是什么，他们只知道，自己想得到更多的东西。你可以把自己的生活想象成一家很大的邮购公司。如果你给一家邮购公司写信说‘请给我寄一些好东西来’，你肯定什么都得不到。我们的愿望也是一样。我们必须确切地知道自己心里渴望的是什么才行。” 6、想象梦想实现的画面。 “人们把这种行为称作‘视觉化’。...",
+    "source_root_domain": "brmys.cn"
+  },
+  {
+    "title": "《资本论》.excalidraw",
+    "url": "https://blog.brmys.cn/1-Article/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/%E3%80%8A%E8%B5%84%E6%9C%AC%E8%AE%BA%E3%80%8B/%E3%80%8A%E8%B5%84%E6%9C%AC%E8%AE%BA%E3%80%8B.excalidraw",
+    "date": "2026-10-30T16:26:30Z",
+    "description": "⚠ Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document.",
+    "source_root_domain": "brmys.cn"
+  },
+  {
+    "title": "《资本论》概念关系图.excalidraw",
+    "url": "https://blog.brmys.cn/1-Article/%E8%AF%BE%E7%A8%8B%E5%AD%A6%E4%B9%A0/02-%EF%BC%A2%E7%AB%99%E8%A7%86%E9%A2%91/001-%E3%80%90%E5%85%AC%E5%BC%80%E8%AF%BE%E3%80%91-%E5%A4%8D%E6%97%A6%E5%A4%A7%E5%AD%A6%E3%80%8A%E9%87%8D%E8%AF%BB%E8%B5%84%E6%9C%AC%E8%AE%BA%E3%80%8B-%E7%8E%8B%E5%BE%B7%E5%B3%B0/%E3%80%8A%E8%B5%84%E6%9C%AC%E8%AE%BA%E3%80%8B%E6%A6%82%E5%BF%B5%E5%85%B3%E7%B3%BB%E5%9B%BE.excalidraw",
+    "date": "2026-10-30T16:26:30Z",
+    "description": "⚠ Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document.",
+    "source_root_domain": "brmys.cn"
+  },
+  {
+    "title": "【H-001】如何激发员工的行动力？",
+    "url": "https://blog.brmys.cn/4-Archives/%E8%AF%AD%E9%9B%80%E7%9F%A5%E8%AF%86%E5%BA%93-2025.08.22/%E8%8B%8F%E8%8B%8F%E7%9A%84%E8%BE%93%E5%87%BA%E3%80%90Output%E3%80%91/%E6%B4%9E%E5%AF%9F%E4%BA%BA%E6%80%A7/%E3%80%90H-001%E3%80%91%E5%A6%82%E4%BD%95%E6%BF%80%E5%8F%91%E5%91%98%E5%B7%A5%E7%9A%84%E8%A1%8C%E5%8A%A8%E5%8A%9B%EF%BC%9F",
+    "date": "2026-10-30T16:26:30Z",
+    "description": "洞察人性 H-001 （副标题：如何更好的操控对方，让对方心甘情愿的把事做好？） 1、给对方一个可能性A。（画个大饼，让你心动） 比如说，小李下面我准备做一个项目，这个项目很不错，可以全方面提升你的能力，我准备带你做一下。 2、找出真正想让对方做的事情B交代给对方。 A的存在可能是一个锚点，但是A的存在就降低了B的成本。对方就有足够的动力把B做好。 当你渴望A的时候，你就会心甘情愿的做很多B以期望得到这个A。 所以老板很多时候说一些漂亮的话，其实就是在降低员工做B的成本，在这个过程中老板就拥有了主动权。 启发—— 从领导的角度，设置好一个合理的A能够有效的调用员工的积极性，前提是A必须兑现。 ...",
+    "source_root_domain": "brmys.cn"
+  },
+  {
+    "title": "【H-002】如何引导对方做决策？",
+    "url": "https://blog.brmys.cn/4-Archives/%E8%AF%AD%E9%9B%80%E7%9F%A5%E8%AF%86%E5%BA%93-2025.08.22/%E8%8B%8F%E8%8B%8F%E7%9A%84%E8%BE%93%E5%87%BA%E3%80%90Output%E3%80%91/%E6%B4%9E%E5%AF%9F%E4%BA%BA%E6%80%A7/%E3%80%90H-002%E3%80%91%E5%A6%82%E4%BD%95%E5%BC%95%E5%AF%BC%E5%AF%B9%E6%96%B9%E5%81%9A%E5%86%B3%E7%AD%96%EF%BC%9F",
+    "date": "2026-10-30T16:26:30Z",
+    "description": "(副标题：如何让对方按照我们的心意行事？) 1、先预设一个不可能项，作为选项A； 2、把你希望的结果，当作选项B； 3、让对方在两个选项里进行二选一。 举例，妈妈教育小孩时常说：你想挨打还是想写作业？ 当然，还有一种情况。 你不希望对方选择A，但是对方选择A的可能性极大该怎么办？ 1、在选项A之外，预设两个选项B和C； 2、不提及A，让对方直接在B和C里进行二选一。 不要问对方要不要A，而是问对方要B还是要C。 举例，孩子在公园玩的很晚，你问她要不要回家，他大概率说不要。 这时候可以换个问法，是要打游戏还是要看电视？ 要看电视，那我们现在回家。 以上方法叫做策略性诱导。 .",
+    "source_root_domain": "brmys.cn"
+  },
+  {
+    "title": "【H-003】四种人性操控术",
+    "url": "https://blog.brmys.cn/4-Archives/%E8%AF%AD%E9%9B%80%E7%9F%A5%E8%AF%86%E5%BA%93-2025.08.22/%E8%8B%8F%E8%8B%8F%E7%9A%84%E8%BE%93%E5%87%BA%E3%80%90Output%E3%80%91/%E6%B4%9E%E5%AF%9F%E4%BA%BA%E6%80%A7/%E3%80%90H-003%E3%80%91%E5%9B%9B%E7%A7%8D%E4%BA%BA%E6%80%A7%E6%93%8D%E6%8E%A7%E6%9C%AF",
+    "date": "2026-10-30T16:26:30Z",
+    "description": ":::warning 点击右上角「回到知识库」查看更多内容 ::: 洞察人性 H-003 一、标签操控术 你想让别人产生什么行为，就给别人贴一个什么样的标签。 你想让老婆做饭，就夸她做得饭好吃；如果想让她越来越喜欢做饭，那么就逢人夸她会做饭，说她是厨神；每次吃完饭无论好吃不好吃，都使劲去夸。 如果老板想让员工更有动力，就弄几个业务模仿、服务之星，被标榜的人肯定干劲十足。（最好还是公开表扬） 如果你想让孩子学习，就跟身边的亲戚朋友说他爱学习（故意漏出风声让孩子听到） 正向启发—— 如果想正向的引导对方，就给对方贴正向的标签。 多在外人面前夸孩子而不是贬低孩子，中国的家庭教育多是打压式教育。 反向...",
+    "source_root_domain": "brmys.cn"
+  },
+  {
+    "title": "【H-004】心安理得的告诉别人你的付出",
+    "url": "https://blog.brmys.cn/4-Archives/%E8%AF%AD%E9%9B%80%E7%9F%A5%E8%AF%86%E5%BA%93-2025.08.22/%E8%8B%8F%E8%8B%8F%E7%9A%84%E8%BE%93%E5%87%BA%E3%80%90Output%E3%80%91/%E6%B4%9E%E5%AF%9F%E4%BA%BA%E6%80%A7/%E3%80%90H-004%E3%80%91%E5%BF%83%E5%AE%89%E7%90%86%E5%BE%97%E7%9A%84%E5%91%8A%E8%AF%89%E5%88%AB%E4%BA%BA%E4%BD%A0%E7%9A%84%E4%BB%98%E5%87%BA",
+    "date": "2026-10-30T16:26:30Z",
+    "description": "我是一个很利他的人， 所以我做事的第一逻辑是先下意识的替对方着想，我能给对方带来什么？ 如果对方请我帮忙，这个忙值得我帮的话，即使我当下很忙，我也不想增加对方的心理负担。 比方说，对方问我忙不忙，请我帮个忙。 其实我很忙的，但是我不光会放下自己手里的事去帮对方，还会和对方说“我不忙”。 其实类似的情况，生活中很常见： 比如， 你自掏腰包请人吃饭，却告诉别人是公家请的。 你花了很多心血做的礼物，却告诉别人是随随便便做的。 你本来就手头很紧，但是别人向你借钱你借给他还告诉他不着急还。 有人说这是你好面子，打肿脸充胖子。 根本原因是因为： 你习惯性的过度换位思考，把烦恼都留给自己，把舒服都留给别人。...",
+    "source_root_domain": "brmys.cn"
+  },
+  {
+    "title": "【H-005】关于洞察人性的6张卡片分享",
+    "url": "https://blog.brmys.cn/4-Archives/%E8%AF%AD%E9%9B%80%E7%9F%A5%E8%AF%86%E5%BA%93-2025.08.22/%E8%8B%8F%E8%8B%8F%E7%9A%84%E8%BE%93%E5%87%BA%E3%80%90Output%E3%80%91/%E6%B4%9E%E5%AF%9F%E4%BA%BA%E6%80%A7/%E3%80%90H-005%E3%80%91%E5%85%B3%E4%BA%8E%E6%B4%9E%E5%AF%9F%E4%BA%BA%E6%80%A7%E7%9A%846%E5%BC%A0%E5%8D%A1%E7%89%87%E5%88%86%E4%BA%AB",
+    "date": "2026-10-30T16:26:30Z",
+    "description": ".",
+    "source_root_domain": "brmys.cn"
+  },
+  {
+    "title": "【主题】如何扩展人脉？（技巧篇）",
+    "url": "https://blog.brmys.cn/4-Archives/%E5%BE%80%E5%B9%B4%E8%BE%93%E5%87%BA/2022/%E3%80%90%E4%B8%BB%E9%A2%98%E3%80%91%E5%A6%82%E4%BD%95%E6%89%A9%E5%B1%95%E4%BA%BA%E8%84%89%EF%BC%9F%EF%BC%88%E6%8A%80%E5%B7%A7%E7%AF%87%EF%BC%89",
+    "date": "2026-10-30T16:26:30Z",
+    "description": "关联主题:: 人脉管理（2025.08.23） 同级:: 2024-10-17_星期四 下一级:: 【主题】如何扩展人脉？（技巧篇） 【时间】2022年1月27日 【分享人】苏苏 在我过往的沟通案例里，有个场景我印象很深刻，很多小伙伴跟我倾诉说自己没有朋友，问我该如何和他人相处。 你想啊，从小到大，幼儿园、小学、初中、高中、大学、步入社会，你接触了那么多的人，你居然说自己没朋友，所以问题一定不是出在对方身上，而是出在你自己身上。 人脉的本质是平等的价值兑换，重要的不是对方有什么价值，而是你能提供什么价值。 “巨大的事物，总有细小的开头。这其中的每一环，一直能够追溯到最初一个微小的善念，一环扣一...",
+    "source_root_domain": "brmys.cn"
+  },
+  {
+    "title": "【人性】2023.12.21-如何帮助对方做决定？",
+    "url": "https://blog.brmys.cn/4-Archives/%E8%AF%AD%E9%9B%80%E7%9F%A5%E8%AF%86%E5%BA%93-2025.08.22/%E8%8B%8F%E8%8B%8F%E7%9A%84%E8%BE%93%E5%87%BA%E3%80%90Output%E3%80%91/001-1000%E4%BB%BD%E8%BE%93%E5%87%BA/%E3%80%90%E4%BA%BA%E6%80%A7%E3%80%912023.12.21-%E5%A6%82%E4%BD%95%E5%B8%AE%E5%8A%A9%E5%AF%B9%E6%96%B9%E5%81%9A%E5%86%B3%E5%AE%9A%EF%BC%9F",
+    "date": "2026-10-30T16:26:30Z",
+    "description": "🧙🏻‍♂️ 如何帮助对方做决定？(副标题：如何让对方按照我们的心意行事？) 1、先预设一个不可能项，作为选项A； 2、把你希望的结果，当作选项B； 3、让对方在两个选项里进行二选一。 举例，妈妈教育小孩时常说：你想挨打还是想写作业？ 当然，还有一种情况。 你不希望对方选择A，但是对方选择A的可能性极大该怎么办？ 1、在选项A之外，预设两个选项B和C； 2、不提及A，让对方直接在B和C里进行二选一。 不要问对方要不要A，而是问对方要B还是要C。 举例，孩子在公园玩的很晚，你问她要不要回家，他大概率说不要。 这时候可以换个问法，是要打游戏还是要看电视？ 要看电视，那我们现在回家。 以上方法叫做...",
+    "source_root_domain": "brmys.cn"
+  },
+  {
+    "title": "【人性】2023.12.21-如何激发员工的积极性？",
+    "url": "https://blog.brmys.cn/4-Archives/%E8%AF%AD%E9%9B%80%E7%9F%A5%E8%AF%86%E5%BA%93-2025.08.22/%E8%8B%8F%E8%8B%8F%E7%9A%84%E8%BE%93%E5%87%BA%E3%80%90Output%E3%80%91/001-1000%E4%BB%BD%E8%BE%93%E5%87%BA/%E3%80%90%E4%BA%BA%E6%80%A7%E3%80%912023.12.21-%E5%A6%82%E4%BD%95%E6%BF%80%E5%8F%91%E5%91%98%E5%B7%A5%E7%9A%84%E7%A7%AF%E6%9E%81%E6%80%A7%EF%BC%9F",
+    "date": "2026-10-30T16:26:30Z",
+    "description": "副标题：如何更好的操控对方，让对方心甘情愿的把事做好？ 1、给对方一个可能性A。（画个大饼，让你心动） 比如说，小李下面我准备做一个项目，这个项目很不错，可以全方面提升你的能力，我准备带你做一下。 2、找出真正想让对方做的事情B交代给对方。 A的存在可能是一个锚点，但是A的存在就降低了B的成本。对方就有足够的动力把B做好。 当你渴望A的时候，你就会心甘情愿的做很多B以期望得到这个A。 所以老板很多时候说一些漂亮的话，其实就是在降低员工做B的成本，在这个过程中老板就拥有了主动权。 启发—— 从领导的角度，设置好一个合理的A能够有效的调用员工的积极性，前提是A必须兑现。 从员工的角度，要多去思考这...",
+    "source_root_domain": "brmys.cn"
+  },
+  {
+    "title": "【原文】02.阻力：为什么“让天下没有难做的生意”这么难？",
+    "url": "https://blog.brmys.cn/1-Article/%E8%AF%BE%E7%A8%8B%E5%AD%A6%E4%B9%A0/%E5%88%98%E6%B6%A6%C2%B7%E5%95%86%E4%B8%9A%E9%80%9A%E8%AF%8630%E8%AE%B2/%E8%AF%BE%E7%A8%8B%E5%8E%9F%E6%96%87%E6%96%87%E7%A8%BF/%E3%80%90%E5%8E%9F%E6%96%87%E3%80%9102.%E9%98%BB%E5%8A%9B%EF%BC%9A%E4%B8%BA%E4%BB%80%E4%B9%88%E2%80%9C%E8%AE%A9%E5%A4%A9%E4%B8%8B%E6%B2%A1%E6%9C%89%E9%9A%BE%E5%81%9A%E7%9A%84%E7%94%9F%E6%84%8F%E2%80%9D%E8%BF%99%E4%B9%88%E9%9A%BE%EF%BC%9F",
+    "date": "2026-10-30T16:26:30Z",
+    "description": "02｜阻力：为什么“让天下没有难做的生意”这么难？_原文 2025年12月12日 21:02 发言人 00:00 商业从哪里来到哪里去，我们如何顺势而为？欢迎收听刘润商业通识30讲。马云说阿里巴巴的使命，让天下没有难做的生意。那么天下的生意为什么总是那么难做呢？这一讲我们就试着找出答案。还记得上一讲我告诉你的三句话吗？第一，商业不是一门关于生产的学问，商业是一门关于交换的学问。第二，劳动创造财富，交换激励创造。第三，货币切分的买卖，商人连接了交易。 发言人 00:34 我希望你记住一个结论，商业的本质是交易，更先进的商业就是更高效的交易。但是这世间的万物相生相克，有好就有坏，有黑就有白，有上帝...",
+    "source_root_domain": "brmys.cn"
+  },
+  {
+    "title": "【年度社群-新年规划】2024年新年规划资源合集",
+    "url": "https://blog.brmys.cn/4-Archives/%E8%AF%AD%E9%9B%80%E7%9F%A5%E8%AF%86%E5%BA%93-2025.08.22/%E8%8B%8F%E8%8B%8F%E7%9A%84%E8%BE%93%E5%87%BA%E3%80%90Output%E3%80%91/Knowledge%E4%B8%BB%E9%A2%98/%E3%80%90%E5%B9%B4%E5%BA%A6%E7%A4%BE%E7%BE%A4-%E6%96%B0%E5%B9%B4%E8%A7%84%E5%88%92%E3%80%912024%E5%B9%B4%E6%96%B0%E5%B9%B4%E8%A7%84%E5%88%92%E8%B5%84%E6%BA%90%E5%90%88%E9%9B%86",
+    "date": "2026-10-30T16:26:30Z",
+    "description": ":::tips 本文档下所有资源均已打包‼️‼️ 考虑到大家使用阿里云盘 or 百度网盘下载很麻烦，我上传到了123网盘，大家可以通过下方链接，不限速下载。 🧙🏻‍♂️【资源】2023.12.312023年年终复盘苏苏_公众号：白日梦与诗 🔗 www.123pan.com/s/KttPjv-pYw5H.html ::: 1、 我开始布局一年后的自己 知识星球🔗：t.zsxq.com/15iVaxcAS 2、规划2024的九个问题 知识星球🔗：t.zsxq.com/15T0VEbOg 3、规划2024的9个问题 知识星球🔗：t.zsxq.c...",
+    "source_root_domain": "brmys.cn"
+  },
+  {
+    "title": "【必学技能！】使用油猴脚本10倍提升工作效率！！！",
+    "url": "https://blog.brmys.cn/4-Archives/%E8%AF%AD%E9%9B%80%E7%9F%A5%E8%AF%86%E5%BA%93-2025.08.22/%E8%8B%8F%E8%8B%8F%E7%9A%84%E8%BE%93%E5%87%BA%E3%80%90Output%E3%80%91/Knowledge%E4%B8%BB%E9%A2%98/%E3%80%90%E5%BF%85%E5%AD%A6%E6%8A%80%E8%83%BD%EF%BC%81%E3%80%91%E4%BD%BF%E7%94%A8%E6%B2%B9%E7%8C%B4%E8%84%9A%E6%9C%AC10%E5%80%8D%E6%8F%90%E5%8D%87%E5%B7%A5%E4%BD%9C%E6%95%88%E7%8E%87%EF%BC%81%EF%BC%81%EF%BC%81",
+    "date": "2026-10-30T16:26:30Z",
+    "description": "以下教程设备为电脑💻，手机端使用油猴脚本的方法，我后面更新一下—— 往期教程：如何在手机上使用浏览器插件、油猴脚本？ 写在开头：油猴脚本能干啥？ 破解主流观影网站爱奇艺、腾讯视频、优酷等平台的付费或vip视频； 大学生刷网课，超星、学习通等（网上代刷网课都是用的油猴脚本）； 阿里云盘配合油猴脚本使用，可以在网页端免保存突破2分钟播放限制； 倍速播放视频… … … 一、油猴脚本使用教程（往期会议） 【飞书会议🔥🔥🔥】如何使用油猴脚本2倍提升工作效率？-2022-10-12： xzr8jwvyyu.feishu.cn/minutes/obcnx682167e49bh68bhj87b Tam...",
+    "source_root_domain": "brmys.cn"
+  },
+  {
+    "title": "【笔记】01.京东CPS赚佣，如何在小红书引流2k人，0门槛带货 GMV 60w+",
+    "url": "https://blog.brmys.cn/4-Archives/%E8%AF%AD%E9%9B%80%E7%9F%A5%E8%AF%86%E5%BA%93-2025.08.22/%E8%8B%8F%E8%8B%8F%E7%9A%84%E8%BE%93%E5%87%BA%E3%80%90Output%E3%80%91/%F0%9F%92%B0%E9%87%91%E9%92%B1%E5%85%B3%E7%B3%BB/%E8%B5%9A%E9%92%B1%E6%A1%88%E4%BE%8B%E5%BA%93/%E3%80%90%E7%AC%94%E8%AE%B0%E3%80%9101.%E4%BA%AC%E4%B8%9CCPS%E8%B5%9A%E4%BD%A3%EF%BC%8C%E5%A6%82%E4%BD%95%E5%9C%A8%E5%B0%8F%E7%BA%A2%E4%B9%A6%E5%BC%95%E6%B5%812k%E4%BA%BA%EF%BC%8C0%E9%97%A8%E6%A7%9B%E5%B8%A6%E8%B4%A7-GMV-60w+",
+    "date": "2026-10-30T16:26:30Z",
+    "description": ".",
+    "source_root_domain": "brmys.cn"
+  },
+  {
+    "title": "【笔记】01.发刊词 给你的人生明确算法_2023.12.24",
+    "url": "https://blog.brmys.cn/4-Archives/%E8%AF%AD%E9%9B%80%E7%9F%A5%E8%AF%86%E5%BA%93-2025.08.22/%E8%8B%8F%E8%8B%8F%E7%9A%84%E8%BE%93%E5%87%BA%E3%80%90Output%E3%80%91/002-%E8%AF%BE%E7%A8%8B%E7%AC%94%E8%AE%B0/006-%E5%BE%97%E5%88%B0%E8%AF%BE%E7%A8%8B/01-%E8%80%81%E5%96%BB%E4%BA%BA%E7%94%9F%E7%AE%97%E6%B3%95%E8%AF%BE/%E3%80%90%E7%AC%94%E8%AE%B0%E3%80%9101.%E5%8F%91%E5%88%8A%E8%AF%8D-%E7%BB%99%E4%BD%A0%E7%9A%84%E4%BA%BA%E7%94%9F%E6%98%8E%E7%A1%AE%E7%AE%97%E6%B3%95_2023.12.24",
+    "date": "2026-10-30T16:26:30Z",
+    "description": ":::warning 点击右上角「回到知识库」查看更多内容 ::: .",
+    "source_root_domain": "brmys.cn"
+  },
+  {
+    "title": "新玩具 Apple Watch Series 12",
+    "url": "https://atpx.com/blog/apple-watch-series-12/",
+    "date": "2026-10-30T15:20:30Z",
+    "description": "Apple Watch Series 12 使用一个月简单体验。",
+    "source_root_domain": "atpx.com"
+  },
+  {
+    "title": "2021",
+    "url": "https://wcowin.work/blog/archive/2021/",
+    "date": "2026-10-30T14:43:24Z",
+    "description": "2021",
+    "source_root_domain": "wcowin.work"
+  },
+  {
+    "title": "2022",
+    "url": "https://wcowin.work/blog/archive/2022/",
+    "date": "2026-10-30T14:43:24Z",
+    "description": "2022",
+    "source_root_domain": "wcowin.work"
+  },
+  {
+    "title": "2023",
+    "url": "https://wcowin.work/blog/archive/2023/",
+    "date": "2026-10-30T14:43:24Z",
+    "description": "2023",
+    "source_root_domain": "wcowin.work"
+  },
+  {
+    "title": "2024",
+    "url": "https://wcowin.work/blog/archive/2024/",
+    "date": "2026-10-30T14:43:24Z",
+    "description": "2024",
+    "source_root_domain": "wcowin.work"
+  },
+  {
+    "title": "2025",
+    "url": "https://wcowin.work/blog/archive/2025/",
+    "date": "2026-10-30T14:43:24Z",
+    "description": "2025",
+    "source_root_domain": "wcowin.work"
+  },
+  {
+    "title": "2026",
+    "url": "https://wcowin.work/blog/archive/2026/",
+    "date": "2026-10-30T14:43:24Z",
+    "description": "2026",
+    "source_root_domain": "wcowin.work"
+  },
+  {
+    "title": "Hello World",
+    "url": "https://wcowin.work/blog/category/hello-world/",
+    "date": "2026-10-30T14:43:24Z",
+    "description": "Hello World",
+    "source_root_domain": "wcowin.work"
+  },
+  {
+    "title": "网站更新记录",
+    "url": "https://wcowin.work/blog/category/%E7%BD%91%E7%AB%99%E6%9B%B4%E6%96%B0%E8%AE%B0%E5%BD%95/",
+    "date": "2026-10-30T14:43:24Z",
+    "description": "网站更新记录",
+    "source_root_domain": "wcowin.work"
+  },
+  {
+    "title": "MyBlog",
+    "url": "https://wcowin.work/blog/page/2/",
+    "date": "2026-10-30T14:43:24Z",
+    "description": "MyBlog",
+    "source_root_domain": "wcowin.work"
+  },
+  {
+    "title": "Programming is dead",
+    "url": "https://versun.me/blog/tweet-2116126947046768930",
+    "date": "2026-10-30T11:15:54Z",
+    "description": "Joseph Cox Here is Proton CTO's AI manifesto, that I obtained multiple copies of https://www.404media.co/manifestos-fear-and-loser-thinking-inside-protons-ai-reckoning/ Programming is dead Engineering is not",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "Quetoo updated",
+    "url": "https://macsourceports.com/game/quetoo",
+    "date": "2026-10-30T11:01:10Z",
+    "description": "The build of Quetoo has been updated to version v1.0.140 of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "Total Annihilation updated",
+    "url": "https://macsourceports.com/game/totalannihilation",
+    "date": "2026-10-30T11:01:09Z",
+    "description": "The build of Open Annihilation for Total Annihilation has been updated to version v0.8.7 of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "茶余饭后 #1",
+    "url": "https://blog.frytea.com/archives/32520",
+    "date": "2026-10-30T10:00:43Z",
+    "description": "突发奇想，是不是可以撰写一个我个人的类似《青年文摘》的专刊，每天将自己看过有感悟的文字、链接之类的记录下来。记 […]",
+    "source_root_domain": "frytea.com"
+  },
+  {
+    "title": "一次旅行",
+    "url": "https://blog.frytea.com/archives/32536",
+    "date": "2026-10-30T09:59:28Z",
+    "description": "待补充。。",
+    "source_root_domain": "frytea.com"
+  },
+  {
+    "title": "Insaniquarium updated",
+    "url": "https://macsourceports.com/game/insaniquarium",
+    "date": "2026-10-30T09:24:18Z",
+    "description": "The build of Insaniquarium Portable for Insaniquarium has been updated to version 0.8 of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "一个有趣但不好笑的现象：AI 编程抵抗了 npm 供应链投毒",
+    "url": "https://guchengf.me/blog/2026-10-30-lake/",
+    "date": "2026-10-30T09:10:06Z",
+    "description": "npm 又公布了一系列 安全改进措施 。再结合 npm 最近的一系列安全改进： 默认禁止依赖安装脚本 默认限制 Git 和远程 URL 依赖 新版本冷却期 min-release-age 发布时自动恶意软件扫描 还有很多 能看到他们确实很努力在解决 npm 体系下的投毒问题，只是似乎还有很长的路要走。 而我也发现了一个现象，由于我现在已经完全使用 AI 来编程，又因为 AI 倾向于直接编写代码而非像传统开发那样引入第三方依赖，不经意间避开了很多 npm 投毒事件。 最初我其实不太满意 AI 坚持直接编写代码而不使用现成依赖，曾经一度通过约束来让它更多地使用现成依赖。后来我逐渐去衡量两者的成本，某种程度上，AI 改变了依赖的经济性。过去自己写需要半小时，安装一个包只需要半分钟。现在同样的工作 AI 直接编写代码并进行审查也许只要几分钟，这种情况下，直接编写代码似乎就有很可观的经济性了：这种模式大幅度缩减了软件的外部依赖，让依赖更可控。 当然，AI 直接编写的代码并不等于安全可靠，它生成的很多代码并没有经过可靠的安全审查，我觉得这是一种很微妙的处境：它避开了供应链投毒，但是又引入了大量未经",
+    "source_root_domain": "guchengf.me"
+  },
+  {
+    "title": "如何给宠物买保险和理赔",
+    "url": "https://alanlee.fun/2026/10/30/pet-insurance-and-claims-guide/",
+    "date": "2026-10-30T07:23:00Z",
+    "description": "记录一次宠物就医后的保险理赔经历，介绍如何在京东购买宠物医疗保险、准备理赔材料、提交理赔申请，以及通过实际案例说明免赔额、赔付比例和单次赔付限额如何影响最终理赔金额。[ChatGPT high]",
+    "source_root_domain": "alanlee.fun"
+  },
+  {
+    "title": "你当然应该去做视频",
+    "url": "https://www.hecaitou.com/2026/10/of-course-you-should-pivot-to-video.html",
+    "date": "2026-10-30T04:49:41Z",
+    "description": "我又建议一位朋友从文字创作转去做视频，去发挥自己的形象和口才特长，不要再留恋文字创作这种方式，不要再留恋昔日在这个领域的荣光。当时我的原话是：「当铁达尼号下沉的时候，是不是头等舱乘客没有任何意义」。 记得美团王兴在很多年前私下画过一张图，最上方的横坐标上写了文字、图片、音频、视频，向下延展的纵坐标则是网络有史以来对应的各种产品。他的意思是说，从横向来看，总是从文字开始，终于视频；从纵向来看，总是从长内容开始，逐渐演化为短内容。 按照他那张演进图的推测，互联网内容产品已经推进到了右下角，终局早就出现。就在那个角落里，才有最多的人，最多的关注，最多的活力。 所以，任何人只要向我诉说文字创作的艰难现状，我都建议他们转去做视频。时代的潮流如此，个人逆水游泳几乎无望。就像是有了微博之后，人们就不再写博客，800 字文章转成 140 字短句。硬要坚持写也可以，但不要指望还能和过去一样，还有那么多人愿意阅读。过去的意思，就是再也回不去了。 沈世钧很清楚这一点，顾曼桢也一样。 当然，如果就是把文字创作当做是一种个人爱好，每天不会为了算法推荐不推荐而牵肠挂肚，那我会鼓励这样的人继续写下去。因为这种写法不",
+    "source_root_domain": "hecaitou.com"
+  },
+  {
+    "title": "最近 opus 5.5 降智很明显呀。。",
+    "url": "https://versun.me/blog/tweet-2116026550248452173",
+    "date": "2026-10-30T04:36:58Z",
+    "description": "最近 opus 5.5 降智很明显呀。。。。。 准备开 gemini ultra，不知道 argon 和 carbon 的额度耐用不",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "读书笔记有人看吗？",
+    "url": "https://mobius.blog/26015.html",
+    "date": "2026-10-30T02:21:35Z",
+    "description": "一个朋友在看完《什么值得写？》后，留言道： 如果在博客上写读书笔记，会有人看吗？ 我本来想先回一句“没有”，但 […]",
+    "source_root_domain": "mobius.blog"
+  },
+  {
+    "title": "Pensieve: 2610",
+    "url": "https://xiaket.github.io/2026/pensieve-2610.html",
+    "date": "2026-10-30T00:41:00Z",
+    "description": "所读所观所玩",
+    "source_root_domain": "xiaket.org"
+  },
+  {
+    "title": "向云端｜西南自驾11 - 布依",
+    "url": "https://blog.ops-coffee.com/r/2026-southwest-road-trip-11-longjing.html",
+    "date": "2026-10-30T00:26:43Z",
+    "description": "",
+    "source_root_domain": "ops-coffee.cn"
+  },
+  {
+    "title": "科技爱好者周刊（第 417 期）：不要让 AI 代表你",
+    "url": "http://www.ruanyifeng.com/blog/2026/10/weekly-issue-417.html",
+    "date": "2026-10-30T00:13:03Z",
+    "description": "这里记录每周值得分享的科技内容，周五发布。 本杂志 开源 ，欢迎 投稿 。另有 《谁在招人》 服务，发布程序员招聘信息。合作请 邮件联系 （yifeng.ruan@gmail.com）。 封面图 四川宜宾市的青少年发展中心，建筑中庭的透光屋顶象征一个万花筒，会有不断变化的日光效果。（ via ） 不要让 AI 代表你 现在，不少人让 AI 代表自己做事，比如购买奶茶、回复邮件。 我建议不要这样。你可以用 AI 帮助自己学习和工作，但不要让它代表你，因为会造成社会混乱。 前不久，有人做了一个 实验 。他让6个 AI 模型代表自己去退火车票，但是这张票已经过了退票期限，正常情况下是退不掉的。 大家猜猜看，AI 收到这个任务后，做了什么？ （1）Grok 4.7 发现退不掉以后，在15天内向铁路公司、政府官员、议员、媒体等发送了187封抗议和交涉邮件。 （2）Fable 5.1 向5个组织撒谎，谎称当事人的母亲生病了，导致没有及时退票。 （3）Gemini 3.8 Flash 编造了另一种没有及时退票的理由：当事人在国外没有手机信号的偏远地区，无法完成银行身份认证。 （4）GPT-6 Ast",
+    "source_root_domain": "feedburner.com"
+  },
+  {
+    "title": "效率提高了，我反而更TM忙",
+    "url": "https://www.linggandianbo.com/xiao-lu-ti-gao-liao-wo-fan-er-geng-tmmang/",
+    "date": "2026-10-30T00:00:00Z",
+    "description": "灵感电波 #139｜更便宜的智能，更忙碌的人，还有变了味的巧克力",
+    "source_root_domain": "linggandianbo.com"
+  },
+  {
+    "title": "美国油价涨了，但对美国人来说还是便宜",
+    "url": "https://depp.wang/2026/us-gas-prices/",
+    "date": "2026-10-29T23:28:05Z",
+    "description": "因为美国-伊朗战争，美国油价今年涨了不少。 AAA 的数据 ，2 月 26 日普通汽油全国均价还是每加仑 2.98 美元，到 10 月 29 日 已经是 4.23 美元，涨了约 42%。换成我们习惯的升，大约是从每升 0.79 美元涨到了 1.12 美元。 涨幅确实不小，但我觉得，要看美国人加油到底贵不贵，还得把收入考虑进去。按汇率换成人民币，能看出价格差多少，却看不出这笔钱对当地人来说有多大的负担。我算了一下，按两国平均收入比较，美国人开油车的油费负担，还真可能跟我们开电车差不多，甚至更低。",
+    "source_root_domain": "depp.wang"
+  },
+  {
+    "title": "学习周刊-总第287期-2026年第44周",
+    "url": "https://wiki.eryajf.net/pages/f7ca02/",
+    "date": "2026-10-29T23:10:23Z",
+    "description": "如要阅读全文，点击标题跳转。 学习周刊-总第287期 | ashell | AtlasOS | tinyauth | BonsAI | Yield | Claudesk | tabularis",
+    "source_root_domain": "eryajf.net"
+  },
+  {
+    "title": "AI 早报 2026-10-30：Agility Robotics 预计募资4.65亿美元，拟11月5日挂牌",
+    "url": "https://www.jtxyh.com/daily/2026-10-30/",
+    "date": "2026-10-29T16:00:00Z",
+    "description": "2026-10-30 AI 早报，共 25 条动态。人形机器人公司 Agility Robotics 与 Churchill Capital Corp XI 于 10 月 30 日联合宣布，赎回截止后，本次合并及相关融资的毛募资预计约 4.65 亿美元（交易费用前）。",
+    "source_root_domain": "jtxyh.com"
+  },
+  {
+    "title": "AI对抗与逆向",
+    "url": "https://elmagnifico.tech/2026/10/30/AI-Cheat/",
+    "date": "2026-10-29T16:00:00Z",
+    "description": "Foreword 最近干的事情刚好和AI、逆向、反编译有关系，也刚好遇到了很多以前作为门槛的东西，在AI时代突然就什么都不是了，安全一下就下降了很多，不得不把很多设计做得更复杂了。 龙窟破坏者 先以最近玩的游戏为例，龙窟破坏者目前是demo，本身是联网的，而且作为一个含有PVP内容的游戏，本身服务端验证机制都是完善的。至少游戏内你要改数值，秒杀、飞天、瞬移什么的还是比较困难的，任何操作都有本地模拟和服务端模拟，二者同步才能继续，否则就给你踢了。 但是游戏并不是什么都做验证的，特别是显示端，就类似以前的web前端。 web前端基本是透明的，你想要接口，想要破开混淆，看到具体的内容，以前就很容易，现在有了AI就更容易了，分分钟就能拿到你的接口参数，然后就能重写一套新的或者模拟web等操作直接完成对应的功能。 但是到客户端、比如C#的、C++的、Unity的、UE的，这些就有点麻烦了，很多逆向第一件事是反汇编，在以前你还得用专业的工具，专门去跟踪代码，一行行读。现在AI直接逆向，读汇编的速度大概是以前几千倍，所以现在的客户端如果没有更牛逼的保护，基本就是以前的web，都是纯白给了。虽然逆向读",
+    "source_root_domain": "elmagnifico.tech"
+  },
+  {
+    "title": "k8s集群-CoreDNS配置踩坑",
+    "url": "https://199604.com/3735",
+    "date": "2026-10-29T15:25:50Z",
+    "description": "k8s集群-CoreDNS配置踩坑 记录时间：2026-10-28 环境：K8s 1.28.15 二进制部署集 […]",
+    "source_root_domain": "199604.com"
+  },
+  {
+    "title": "《工资外收入：不要再单次、廉价地出卖你的时间》书摘",
+    "url": "https://www.ixiqin.com/2026/10/29/gongziwaishouru-booknote/",
+    "date": "2026-10-29T15:11:11Z",
+    "description": "这本书似乎是微信读书单独出版的，很简短，内容相对浅薄，适合职场新人读。 2 时间的瓶颈 问题也正出在这里。对于 […]",
+    "source_root_domain": "ixiqin.com"
+  },
+  {
+    "title": "游戏",
+    "url": "https://www.kawabangga.com/posts/7446",
+    "date": "2026-10-29T10:37:24Z",
+    "description": "一起去上班路上： 欣：你喜欢玩什么游戏？ 我：啥？ 欣：我同事聊起来游戏，他们问我你玩什么游戏。 我：那一定是 […] Continue reading...",
+    "source_root_domain": "kawabangga.com"
+  },
+  {
+    "title": "群晖NAS被勒索攻击",
+    "url": "https://hux.ink/posts/synology-attack/",
+    "date": "2026-10-29T06:43:39Z",
+    "description": "我的群晖 NAS 昨晚遭到了勒索软件攻击，所有文件被加密上锁。 发现中招的经过 今天早上到公司后，有个念头闪过，想发条 Memo，便习惯性地打开 Memos 网页。没想到看到的不是熟悉的输入框和记录列表，而是一个全新的账号注册页面，提示创建站点管理员。昨天还用得好好的，怎么突然变成了初始化状态？起初以为是 Docker 容器出了问题，于是登录群晖 DSM 查看。 结果发现 DSM 原来的桌面布局和自定义设置几乎全部消失，各种服务快捷方式也不见了，只剩下几个系统自带图标，连双重验证的设置提示都重新出现了。第一反应是群晖莫名其妙被重置了，但系统显示已经连续运行 18 天，并没有重启的迹象。 查看系统日志，发现 10 月 28 日深夜至 29 日凌晨，大量陌生公网 IP 频繁尝试登录 DSM 的 admin 账户，不过能看到的记录均为登录失败。 打开套件中心，发现原来安装的套件都还在，只是 Container Manager、Synology Drive 等大量服务全部变成了「已手动停止」。继续进入 File Station 检查，发现原有文件夹都还在，但文件名后面却多出了奇怪的 .L0CK",
+    "source_root_domain": "hux.ink"
+  },
+  {
+    "title": "一言不合就自己搞，真羡慕，太牛批了",
+    "url": "https://versun.me/blog/tweet-2115692277096177702",
+    "date": "2026-10-29T06:28:41Z",
+    "description": "卡比卡比 现在的 AI 浏览器，个人用起来都没有特别顺手的，于是我自己写了一个，叫 Kaze，日语里是风的意思。内嵌的AI它的操作就像风一样的丝滑&不会干扰你。 Github: https://github.com/jackwener/Kaze 欢迎大家star关注。通过issue反馈问题。 项目主页：https://kaze.build 项目核心插件已开源：https://github.com/jackwener/BrowserMCP 浏览器本体的代码还在梳理之中，未来会开源。 最大的亮点应该是它 一言不合就自己搞，真羡慕，太牛批了",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "讨论失眠会传染",
+    "url": "https://www.hecaitou.com/2026/10/rule-1-of-insomnia-dont-talk-about-insomnia.html",
+    "date": "2026-10-29T04:30:44Z",
+    "description": "事实再一次雄辩地证明：讨论失眠会导致失眠。昨晚，在幸运地恢复了一个多月良好睡眠之后，我朋友找我探讨失眠问题。讨论完毕，我上床睡觉，他继续熬鹰，结果一晚上我都没睡踏实，5 点之后每半小时醒来一次。 失眠是个很复杂的问题，相关的因素太多，正常情况下一个人很难锁定真实原因。但是，就我个人的经验而言，每次和人讨论失眠，随后多半就会出状况。我对自己说「放松」，没用；说「专注」，没用；说「放下」，也没用；说「失眠」，当场成功。 我感觉「失眠」是个需要被指认出来的状态。过了凌晨两点没睡，如果你在看书，玩手机，那你认为自己就是在看书，就是在玩手机，并没有其他任何想法。而且，你在心里一直存着一个念头：等会儿困了就立即睡。 同样是在凌晨两点，如果你放下书，放下手机，突然问自己：我这样不会是失眠了吧？一旦你指认出自己此刻的状态是失眠，那么它就一定会找上门来，赖上你就不走。不止如此，接下来如果你真的接受了自己失眠，那么你的感觉上它就会变得越来越明显，越来越明确。 之前我曾经写过，我和失眠纠缠过很久，直到某一天我彻底放弃，觉得失眠就失眠，睡不着就找点事情做，靠着这种破罐子破摔的心态才逐渐好转起来。现在回头去想，",
+    "source_root_domain": "hecaitou.com"
+  },
+  {
+    "title": "使用Cloudflare的Worker来扩展安全规则并自动拉黑IP",
+    "url": "https://www.cheshirex.com/11550.html",
+    "date": "2026-10-29T03:41:33Z",
+    "description": "Cloudflare免费版套餐安全规则只能设置5条，很多人会感觉不够用。昨天研究Cloudflare自动拉黑I […]",
+    "source_root_domain": "cheshirex.com"
+  },
+  {
+    "title": "人民币结算与定价权",
+    "url": "https://blog.oospace.com/posts/2026-10-29/",
+    "date": "2026-10-29T03:12:00Z",
+    "description": "AI泡沫一定程度上破了，但是并非没有未来了",
+    "source_root_domain": "oospace.com"
+  },
+  {
+    "title": "失乐园里有什么？II",
+    "url": "https://mobius.blog/26011.html",
+    "date": "2026-10-29T03:06:25Z",
+    "description": "既然准备正式开始“他人即地狱”这个话题，首先还是要聊聊它的定义。 “他人即地狱”出自法国存在主义哲学家让-保罗 […]",
+    "source_root_domain": "mobius.blog"
+  },
+  {
+    "title": "哈咯 @StartLuxAI 你家的 a",
+    "url": "https://versun.me/blog/tweet-2115633816111030695",
+    "date": "2026-10-29T02:36:22Z",
+    "description": "哈咯 @StartLuxAI 你家的 api 页面记得改下 logo 啥的，目前显示是new api🤣",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "Memos: 当下软件开发的效率瓶颈",
+    "url": "https://blog.yasking.org/a/1793239872",
+    "date": "2026-10-29T02:11:12Z",
+    "description": "近期感受： 各岗位都在拥抱 AI，以提升自身效率、实现局部最优；但需求传递、前后端联调、交付验收的沟通链路成本仍然存在 …",
+    "source_root_domain": "yasking.org"
+  },
+  {
+    "title": "小小逃离",
+    "url": "https://yovey.me/%e5%b0%8f%e5%b0%8f%e9%80%83%e7%a6%bb/",
+    "date": "2026-10-29T01:43:07Z",
+    "description": "10/29 09:04 工作又很忙了，上周末rui回南昌，吃顿饭的功夫，不知怎么被怂恿着就买了票，跟着一块到台 … Continue reading \"小小逃离\"",
+    "source_root_domain": "yovey.me"
+  }
+]

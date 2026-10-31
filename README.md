@@ -27,6 +27,9 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-10-31 | [Memos #2026-10-30](https://blog.itaober.com/memos/memo_20261029172004_6q8axf) | 01:36 躺在床上睡不着，翻来覆去。 近一个月很忙，连下班到家，睡前的这段时间也挤出大部分给到工作，直到躺在床上才发现已经到了深夜，不甘心就这样度过一天。 这时候脑子里会想哪些事情明天要干，干了这么多又好像没啥成长，工作的意义是什么呢，要不要明天远程？从工作延展到意义，到 27 岁轻薄的、不确定的… |
+| 2026-10-30 | [早上看一新闻: 通用汽车非法出售驾驶行为](https://versun.me/blog/tweet-2116316420661444649) | 早上看一新闻: 通用汽车非法出售驾驶行为与位置数据，支付 2.2 亿美元达成和解 国内的车企，驾驶行为和位置数据都是默认共享的吧😂 https://www.reuters.com/business/autos-transportation/gm-pay-220-million-settle-alle… |
+| 2026-10-30 | [卷起来卷起来！](https://versun.me/blog/tweet-2116303258792997166) | OpenCode Operation Cheepseek Phase 4: $100 of usage for DeepSeek V4.1 Flash 卷起来卷起来！ |
 | 2026-10-30 | [AI 生成的文档一键转为可分享网页！这个 AI 工具太夯了【效率工具指南】](https://penghh.fun/2026/10/30/2026-10-30-livepage/) | <script src=" |
 | 2026-10-30 | [如何优雅地优雅退出？](https://www.geedea.pro/article/functional-shutdown/) | 写程序的时候会自然地关注如何启动系统中的各个组件，但很少关心如何关停。这和内存分配一样，使用高层编程语言（甚至是自然语言）编程的程序员们早已习惯垃圾回收机制，从不手动分配和释放内存。 不需要极佳的性能，确实没必要用 C 或者 Zig 等低层语言直接操作内存，但在高层语言里，仍有不少资源需要手动管理，… |
 | 2026-10-30 | [折腾桌面](https://yipai.me/post/2556.html) | 因为儿子要我换个跟他一样颜色的桌子，所以买了一样颜色的升降桌。没想到一发不可收拾，重构了桌面环境。先上成果：再记录一些设备及更新的原因：一、电脑因为 Mac mini 涨价，之前 9000 块卖掉了 M4 的 Mac mini。现在 M6 Mac mini 降价，又没忍住 7100 买回了 M6 +… |
@@ -60,6 +63,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-10-30 | [Hello World](https://wcowin.work/blog/category/hello-world/) | Hello World |
 | 2026-10-30 | [网站更新记录](https://wcowin.work/blog/category/%E7%BD%91%E7%AB%99%E6%9B%B4%E6%96%B0%E8%AE%B0%E5%BD%95/) | 网站更新记录 |
 | 2026-10-30 | [MyBlog](https://wcowin.work/blog/page/2/) | MyBlog |
+| 2026-10-30 | [Programming is dead](https://versun.me/blog/tweet-2116126947046768930) | Joseph Cox Here is Proton CTO's AI manifesto, that I obtained multiple copies of https://www.404media.co/manifestos-fear-and-loser-thinking-inside-pro… |
 | 2026-10-30 | [Quetoo updated](https://macsourceports.com/game/quetoo) | The build of Quetoo has been updated to version v1.0.140 of the project |
 | 2026-10-30 | [Total Annihilation updated](https://macsourceports.com/game/totalannihilation) | The build of Open Annihilation for Total Annihilation has been updated to version v0.8.7 of the project |
 | 2026-10-30 | [茶余饭后 #1](https://blog.frytea.com/archives/32520) | 突发奇想，是不是可以撰写一个我个人的类似《青年文摘》的专刊，每天将自己看过有感悟的文字、链接之类的记录下来。记 […] |
@@ -68,6 +72,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-10-30 | [一个有趣但不好笑的现象：AI 编程抵抗了 npm 供应链投毒](https://guchengf.me/blog/2026-10-30-lake/) | npm 又公布了一系列 安全改进措施 。再结合 npm 最近的一系列安全改进： 默认禁止依赖安装脚本 默认限制 Git 和远程 URL 依赖 新版本冷却期 min-release-age 发布时自动恶意软件扫描 还有很多 能看到他们确实很努力在解决 npm 体系下的投毒问题，只是似乎还有很长的路要走… |
 | 2026-10-30 | [如何给宠物买保险和理赔](https://alanlee.fun/2026/10/30/pet-insurance-and-claims-guide/) | 记录一次宠物就医后的保险理赔经历，介绍如何在京东购买宠物医疗保险、准备理赔材料、提交理赔申请，以及通过实际案例说明免赔额、赔付比例和单次赔付限额如何影响最终理赔金额。[ChatGPT high] |
 | 2026-10-30 | [你当然应该去做视频](https://www.hecaitou.com/2026/10/of-course-you-should-pivot-to-video.html) | 我又建议一位朋友从文字创作转去做视频，去发挥自己的形象和口才特长，不要再留恋文字创作这种方式，不要再留恋昔日在这个领域的荣光。当时我的原话是：「当铁达尼号下沉的时候，是不是头等舱乘客没有任何意义」。 记得美团王兴在很多年前私下画过一张图，最上方的横坐标上写了文字、图片、音频、视频，向下延展的纵坐标则… |
+| 2026-10-30 | [最近 opus 5.5 降智很明显呀。。](https://versun.me/blog/tweet-2116026550248452173) | 最近 opus 5.5 降智很明显呀。。。。。 准备开 gemini ultra，不知道 argon 和 carbon 的额度耐用不 |
 | 2026-10-30 | [读书笔记有人看吗？](https://mobius.blog/26015.html) | 一个朋友在看完《什么值得写？》后，留言道： 如果在博客上写读书笔记，会有人看吗？ 我本来想先回一句“没有”，但 […] |
 | 2026-10-30 | [Pensieve: 2610](https://xiaket.github.io/2026/pensieve-2610.html) | 所读所观所玩 |
 | 2026-10-30 | [向云端｜西南自驾11 - 布依](https://blog.ops-coffee.com/r/2026-southwest-road-trip-11-longjing.html) |  |
@@ -191,25 +196,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-10-24 | [观雪山赏彩林 川西理小路自驾游](https://krya.com/post/lixiaolu/) | 这个月因为工作出现断档，无事可做。看到川西的彩林非常漂亮，于是一个人从成都出发自驾穿越理小路，当天往返。路线是顺时针方向，从成都至小金，再到理县后返回成都，全程500多公里；高原山路崎岖，车道狭窄；平均时速只有50~60公里，开车就得花8个小时左右；中间的游玩时间稍微局促。 一个人旅游，自由自在，随… |
 | 2026-10-24 | [Memos #2026-10-23](https://blog.itaober.com/memos/memo_20261023012308_5u0kyj) | 09:25 播客中的真实事件： 沈清冷漠的父母 贤鱼把喝完的矿泉水瓶扔共享单车车筐 刘振东吃鸡开挂 19:26 LGTM！真不错！ |
 | 2026-10-24 | [Python 潮流周刊#172：3.15 的 JIT 终于见效、自由线程 Python 进入下一阶段](https://pythoncat.top/posts/2026-10-24-weekly/) | 分享了 12 篇文章，12 个开源项目，2 则热门讨论 |
-| 2026-10-23 | [Kimi Yes！！！！ 看起来和 op](https://versun.me/blog/tweet-2113772047168078142) | Kimi.ai Introducing Kimi K3.1 Pro: our most capable 3T-class open-weight model. 🔹 1M-token context, 2.8T total / 104B active params (MoE), Multimodal.… |
-| 2026-10-23 | [青甘行·下｜盐湖映翠，初见黄河](https://hux.ink/posts/qinggan-trip-04/) | 接 上篇｜祁连山色，张掖丹霞 及 中篇｜河西走廊，千年敦煌 ，本篇是旅程最后五天的见闻：从敦煌出发，穿越柴达木盆地，途经大柴旦、察尔汗和青海湖，最后回到西宁，经兰州踏上归途。 10 月 2 日｜穿过戈壁，遇见大柴旦翡翠湖 在敦煌连住三个晚上之后，10 月 2 日重新启程，前往青海大柴旦。今天要经过当… |
-| 2026-10-23 | [OSC 7501：让程序自己告诉终端它在干什么](http://tubaozi.top/posts/2026/osc-7501-program-status/) | Ghostty 作者 Mitchell Hashimoto 提出的终端转义序列 OSC 7501（Program Status Protocol）：程序通过 pty 直接上报空闲、运行、等待、完成、失败等状态，不用再靠解析屏幕去猜。文末补充 Kero 终端的支持情况。 |
-| 2026-10-23 | [AI 早报 2026-10-24：10.24总结；Meta 宣布收购 Sundial，吸纳 AI 数据分析团队](https://www.jtxyh.com/daily/2026-10-24/) | 2026-10-24 AI 早报，共 10 条动态。AI 安全与研发投入是本期重点。Meta 数据负责人 Alex Schultz 于10月23日宣布，Sundial 联合创始人 Chandra Narayanan、Julie Zhuo 及部分团队成员携 AI 分析技术加入 Meta，Narayan… |
-| 2026-10-23 | [2007，1906室](https://www.tortorse.com/archives/room-1906-2007/) | 1906室 |
-| 2026-10-23 | [走大朝台我在想啥？二](https://1900.live/zou-da-zhao-tai-wo-zai-xiang-sha-er/) | null 昨天更新了前一篇没多久就有四五条博友的评论，这么久没更新这些博友们都在默默关注着我这个小小的孤岛让我有些感动，在这里诚恳的感谢大家，让我感受到了互联网、博客圈的温度。 所以趁着这股劲有还在索性今天把第二篇也写了，接回上文。 刚下车被山上的冷风一吹我差点没绷住哕了出来，为了保住面子，在路边排… |
-| 2026-10-23 | [越来越无法理解大佬的玩法了😂](https://versun.me/blog/tweet-2113566863565422625) | 郭宇 guoyu.eth 最近我和啵啵基本上都不用微信聊天了，现在都是我们的 Grok bot 之间在互相传递消息。比如说明天吃什么，还有关于怎么照顾家里的植物、杂货的采买等等。 越来越无法理解大佬的玩法了😂 |
-| 2026-10-23 | [293、霜降](https://1900.live/293-shuang-jiang/) | null 露气凝白，秋意渐深，天地在清肃与收藏之间，缓缓合拢一卷斑斓的长轴。 太阳行至黄经210°，霜降——秋之第六序，亦是深秋的终章。 霜降始霜，草木辞青。豺乃祭兽，将猎得的禽兽陈列如祭，天地以肃杀为序；草木黄落，枝头的叶片在风中旋舞，告别最后一抹丰茂；蛰虫咸俯，虫豸蜷伏土中，收声敛息，等待漫长的… |
-| 2026-10-23 | [免费替代 CleanMyMac：Mole CLI 在 Mac Mini 上的完整使用指南](https://www.evan.xin/5129/) | Mole（tw93/mole）是一个开源的 macOS 系统清理优化工具，功能对标 CleanMyMac、Ap […] |
-| 2026-10-23 | [青甘行·中｜河西走廊，千年敦煌](https://hux.ink/posts/qinggan-trip-03/) | 接 上篇｜祁连山色，张掖丹霞 ，本篇记录 9 月 29 日至 10 月 1 日的三日见闻：从酒泉出发，途经嘉峪关、瓜州，一路向西抵达敦煌，在这里停留了两天。 9 月 29 日｜一个人的嘉峪关，以及漫长的敦煌之路 原本今天只安排了金塔胡杨林，之后便继续前往敦煌。不过前一天晚上查地图时，我发现嘉峪关距离… |
-| 2026-10-23 | [为什么有人不怕把事做砸](https://blog.solazy.me/20261023/) | 今天想接着昨天讲得继续来聊…… |
-| 2026-10-23 | [移除了 webmention 功能](https://kaix.in/2026/1023/) | 开始关注 webmention 协议至少是在 2019 年以前了，2021 年我用 go 语言 写了个小工具 来实现它，大概也算是第一批运用这个协议的中文博客站点。不过几个月前我彻底移除了这个功能。 个中缘由有点复杂，隐私原因算是其中最容易想到也最古怪的部分。这就顺便要提到 fediverse 或者… |
-| 2026-10-23 | [心里有光](https://www.hecaitou.com/2026/10/The-Light-Within.html) | 昨天我在回答读者什么是「心里有光」时，写了这样一段话： 「心里本来就有光，甚至可以说光明就是心的本体。要有光的意思，不是找寻来光，也不是擦拭出光，而是不被遮蔽，让它自然放光。」 这里我用到了「不是...而是...」句型，估计被系统判断为 AI 自动回复的垃圾留言，结果被阻拦了好一阵。我于是有些担心，… |
-| 2026-10-23 | [才发现 Zed 团队开发了个 ADE:](https://versun.me/blog/tweet-2113473548983636289) | 才发现 Zed 团队开发了个 ADE: Delta，目前处于 Public Beta 看起来依旧很简洁，审美在线 主要创新是为消灭传统 PR 而生的 DeltaDB： 它在 Git 底下加了一层 DeltaDB，除了记录文件改动外，还记录了生成这次提交的提示词和对话内容 重点是，它除了可以审查 Ag… |
-| 2026-10-23 | [部署Akvorado - 网络流日志收集分析系统](https://songxwn.com/akvorado-docker/) | Akvorado Docker 部署详细技术指南（含 Nginx 反向代理 + Basic Auth） Akvorado 是一款开源的网络流量采集、丰富与可视化系统，支持 NetFlow / IPFIX / sFlow。它会通过 SNMP 补充接口名称等信息，用 GeoIP 数据库补充地理信息，再经… |
-| 2026-10-23 | [失乐园里有什么？I](https://mobius.blog/25963.html) | 今天并不是在聊渡边淳一的《失乐园》。失乐园这个词，可以更早追溯到1667年约翰·弥尔顿的无韵诗《Paradis […] |
-| 2026-10-23 | [对不起 Vaultwarden(Bitw](https://versun.me/blog/tweet-2113447259371454848) | 1Password Today we announce 1Password for Agents platform, building with companies @Muse, SpaceX Super Intelligence Grok @Bot, @AnthropicAI’s @Claudea… |
-| 2026-10-23 | [科技爱好者周刊（第 416 期）：编程已经面目全非](http://www.ruanyifeng.com/blog/2026/10/weekly-issue-416.html) | 这里记录每周值得分享的科技内容，周五发布。 本杂志 开源 ，欢迎 投稿 。另有 《谁在招人》 服务，发布程序员招聘信息。合作请 邮件联系 （yifeng.ruan@gmail.com）。 封面图 本周启用的上海大歌剧院内部装修。（ via ） 编程已经面目全非 大多数人只看到，AI 改变了程序员这个… |
-| 2026-10-23 | [Memos #2026-10-22](https://blog.itaober.com/memos/memo_20261022032354_x9ve3c) | 11:27 时间的逝去，人的离开，记忆的回流，无可奈何。 如此契合现状。 |
 
 ## Vibe Coding
 
