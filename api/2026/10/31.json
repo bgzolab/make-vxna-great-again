@@ -1,5 +1,40 @@
 [
   {
+    "title": "独生子女的合作VS.在短视频下的成长",
+    "url": "https://www.hecaitou.com/2026/10/the-only-child-panic-vs-the-short-video-panic.html",
+    "date": "2026-10-31T04:42:36Z",
+    "description": "有读者留言说自己很担心：「我女儿现在已经处于文化垃圾包围圈中，除了能陪她每晚读书，聊天，还能做点什么，让她晚一点陷入其中？」 当时我的冷血回答只有四个字：「停止担心。」 这是正确的屁话，因为担心这种事情不是在前面加上「停止」两个字，或者一个禁止的念头，它就能停止的。但这么回答省字数，如果要完整展开回答的话，大概是下面这样的： 我记得在 90 年代末到新世纪初，有一段时间媒体在很严肃地讨论一个问题---独生子女在没有哥哥姐姐弟弟妹妹的家庭里长大，从来没有学过谦让、照顾、合作等等技能，将来到社会上工作，他们怎么可能和其他人合作？ 不能说这种担忧是杞人忧天。我在今天的确观察到很多案例，如果夫妻或者情侣之中有一方是独生子女，一般会很难理解伴侣照顾自家兄弟姐妹的行为。说话的时候逻辑有点像是洋人：你是成人，他们也是成人，你有你的生活，他们有他们的生活，你能照顾自己，他们为什么不能照顾自己，不能好好过自己的生活？ 共同经历了三五七年的一个人，责问对方为什么对一个共同成长了二三十年的人背负了特别的情感和义务，这就是生命中完全缺失某种体验带来的共情障碍。 当时报纸上有一个回答让我记忆深刻，它大概的论点是",
+    "source_root_domain": "hecaitou.com"
+  },
+  {
+    "title": "CSP-J 2026 第二轮 个人做题记录 题解？",
+    "url": "https://blog.mxdyeah.com/post/csp-j-2026-round-2",
+    "date": "2026-10-31T04:30:00Z",
+    "description": "洛谷民间自测数据 100分[CSP-J 2026] 旅游 / travel#include using namespace std;int side(c...",
+    "source_root_domain": "mxdyeah.com"
+  },
+  {
+    "title": "2008，没什么搞不定的",
+    "url": "https://www.tortorse.com/archives/nothing-we-couldnt-handle-2008/",
+    "date": "2026-10-31T03:24:00Z",
+    "description": "2008，没什么搞不定的",
+    "source_root_domain": "tortorse.com"
+  },
+  {
+    "title": "Codex 我最喜欢的两个功能",
+    "url": "https://depp.wang/2026/codex-two-features/",
+    "date": "2026-10-31T01:59:33Z",
+    "description": "平时我主要用 Codex 写代码，最近也越来越多地用它写文章、整理想法。用下来，我最喜欢两个功能：实时语音对话，以及 Chrome 里的 ChatGPT 浏览器扩展。 一个方便我把想法说清楚，另一个帮我省掉浏览器里繁琐的手动操作。 先简单说一下这几个名字。 ChatGPT 是 OpenAI 推出的 AI 助手，有网页版和 App 版。 Codex 则更偏向处理工作任务和写代码。 Codex 有 CLI 版本和 App 版本。App 版本集成在 ChatGPT App 里，CLI 版本是在电脑终端里使用的。",
+    "source_root_domain": "depp.wang"
+  },
+  {
+    "title": "早安～",
+    "url": "https://sigge.cn/2026/10/31/452ad475-6848-43e9-8369-e34d35837b84",
+    "date": "2026-10-31T01:33:52Z",
+    "description": "早安～",
+    "source_root_domain": "sigge.cn"
+  },
+  {
     "title": "Memos #2026-10-30",
     "url": "https://blog.itaober.com/memos/memo_20261029172004_6q8axf",
     "date": "2026-10-31T00:00:00Z",
@@ -19,6 +54,13 @@
     "date": "2026-10-30T22:56:30Z",
     "description": "OpenCode Operation Cheepseek Phase 4: $100 of usage for DeepSeek V4.1 Flash 卷起来卷起来！",
     "source_root_domain": "versun.me"
+  },
+  {
+    "title": "AI 生成的文档一键转为可分享网页！这个 AI 工具太夯了【效率工具指南】",
+    "url": "https://penghh.fun/2026/10/30/2026-10-30-livepage/",
+    "date": "2026-10-30T18:41:00Z",
+    "description": "<script src=\"",
+    "source_root_domain": "penghh.fun"
   },
   {
     "title": "如何优雅地优雅退出？",
@@ -180,6 +222,13 @@
     "date": "2026-10-30T15:20:30Z",
     "description": "Apple Watch Series 12 使用一个月简单体验。",
     "source_root_domain": "atpx.com"
+  },
+  {
+    "title": "一通或许不存在的电话",
+    "url": "https://blog.solazy.me/20261030/",
+    "date": "2026-10-30T15:00:00Z",
+    "description": "今天吃到了一个自己的瓜，分享一下",
+    "source_root_domain": "solazy.me"
   },
   {
     "title": "2021",
@@ -390,6 +439,13 @@
     "date": "2026-10-29T15:11:11Z",
     "description": "这本书似乎是微信读书单独出版的，很简短，内容相对浅薄，适合职场新人读。 2 时间的瓶颈 问题也正出在这里。对于 […]",
     "source_root_domain": "ixiqin.com"
+  },
+  {
+    "title": "支持消费入座",
+    "url": "https://blog.solazy.me/20261029/",
+    "date": "2026-10-29T15:00:00Z",
+    "description": "才发现星巴克的「消费入座」新规我还没有评头论足过……",
+    "source_root_domain": "solazy.me"
   },
   {
     "title": "游戏",

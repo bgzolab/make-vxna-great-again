@@ -27,6 +27,11 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-10-31 | [独生子女的合作VS.在短视频下的成长](https://www.hecaitou.com/2026/10/the-only-child-panic-vs-the-short-video-panic.html) | 有读者留言说自己很担心：「我女儿现在已经处于文化垃圾包围圈中，除了能陪她每晚读书，聊天，还能做点什么，让她晚一点陷入其中？」 当时我的冷血回答只有四个字：「停止担心。」 这是正确的屁话，因为担心这种事情不是在前面加上「停止」两个字，或者一个禁止的念头，它就能停止的。但这么回答省字数，如果要完整展开回… |
+| 2026-10-31 | [CSP-J 2026 第二轮 个人做题记录 题解？](https://blog.mxdyeah.com/post/csp-j-2026-round-2) | 洛谷民间自测数据 100分[CSP-J 2026] 旅游 / travel#include using namespace std;int side(c... |
+| 2026-10-31 | [2008，没什么搞不定的](https://www.tortorse.com/archives/nothing-we-couldnt-handle-2008/) | 2008，没什么搞不定的 |
+| 2026-10-31 | [Codex 我最喜欢的两个功能](https://depp.wang/2026/codex-two-features/) | 平时我主要用 Codex 写代码，最近也越来越多地用它写文章、整理想法。用下来，我最喜欢两个功能：实时语音对话，以及 Chrome 里的 ChatGPT 浏览器扩展。 一个方便我把想法说清楚，另一个帮我省掉浏览器里繁琐的手动操作。 先简单说一下这几个名字。 ChatGPT 是 OpenAI 推出的… |
+| 2026-10-31 | [早安～](https://sigge.cn/2026/10/31/452ad475-6848-43e9-8369-e34d35837b84) | 早安～ |
 | 2026-10-31 | [Memos #2026-10-30](https://blog.itaober.com/memos/memo_20261029172004_6q8axf) | 01:36 躺在床上睡不着，翻来覆去。 近一个月很忙，连下班到家，睡前的这段时间也挤出大部分给到工作，直到躺在床上才发现已经到了深夜，不甘心就这样度过一天。 这时候脑子里会想哪些事情明天要干，干了这么多又好像没啥成长，工作的意义是什么呢，要不要明天远程？从工作延展到意义，到 27 岁轻薄的、不确定的… |
 | 2026-10-30 | [早上看一新闻: 通用汽车非法出售驾驶行为](https://versun.me/blog/tweet-2116316420661444649) | 早上看一新闻: 通用汽车非法出售驾驶行为与位置数据，支付 2.2 亿美元达成和解 国内的车企，驾驶行为和位置数据都是默认共享的吧😂 https://www.reuters.com/business/autos-transportation/gm-pay-220-million-settle-alle… |
 | 2026-10-30 | [卷起来卷起来！](https://versun.me/blog/tweet-2116303258792997166) | OpenCode Operation Cheepseek Phase 4: $100 of usage for DeepSeek V4.1 Flash 卷起来卷起来！ |
@@ -54,6 +59,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-10-30 | [【笔记】01.京东CPS赚佣，如何在小红书引流2k人，0门槛带货 GMV 60w+](https://blog.brmys.cn/4-Archives/%E8%AF%AD%E9%9B%80%E7%9F%A5%E8%AF%86%E5%BA%93-2025.08.22/%E8%8B%8F%E8%8B%8F%E7%9A%84%E8%BE%93%E5%87%BA%E3%80%90Output%E3%80%91/%F0%9F%92%B0%E9%87%91%E9%92%B1%E5%85%B3%E7%B3%BB/%E8%B5%9A%E9%92%B1%E6%A1%88%E4%BE%8B%E5%BA%93/%E3%80%90%E7%AC%94%E8%AE%B0%E3%80%9101.%E4%BA%AC%E4%B8%9CCPS%E8%B5%9A%E4%BD%A3%EF%BC%8C%E5%A6%82%E4%BD%95%E5%9C%A8%E5%B0%8F%E7%BA%A2%E4%B9%A6%E5%BC%95%E6%B5%812k%E4%BA%BA%EF%BC%8C0%E9%97%A8%E6%A7%9B%E5%B8%A6%E8%B4%A7-GMV-60w+) | . |
 | 2026-10-30 | [【笔记】01.发刊词 给你的人生明确算法_2023.12.24](https://blog.brmys.cn/4-Archives/%E8%AF%AD%E9%9B%80%E7%9F%A5%E8%AF%86%E5%BA%93-2025.08.22/%E8%8B%8F%E8%8B%8F%E7%9A%84%E8%BE%93%E5%87%BA%E3%80%90Output%E3%80%91/002-%E8%AF%BE%E7%A8%8B%E7%AC%94%E8%AE%B0/006-%E5%BE%97%E5%88%B0%E8%AF%BE%E7%A8%8B/01-%E8%80%81%E5%96%BB%E4%BA%BA%E7%94%9F%E7%AE%97%E6%B3%95%E8%AF%BE/%E3%80%90%E7%AC%94%E8%AE%B0%E3%80%9101.%E5%8F%91%E5%88%8A%E8%AF%8D-%E7%BB%99%E4%BD%A0%E7%9A%84%E4%BA%BA%E7%94%9F%E6%98%8E%E7%A1%AE%E7%AE%97%E6%B3%95_2023.12.24) | :::warning 点击右上角「回到知识库」查看更多内容 ::: . |
 | 2026-10-30 | [新玩具 Apple Watch Series 12](https://atpx.com/blog/apple-watch-series-12/) | Apple Watch Series 12 使用一个月简单体验。 |
+| 2026-10-30 | [一通或许不存在的电话](https://blog.solazy.me/20261030/) | 今天吃到了一个自己的瓜，分享一下 |
 | 2026-10-30 | [2021](https://wcowin.work/blog/archive/2021/) | 2021 |
 | 2026-10-30 | [2022](https://wcowin.work/blog/archive/2022/) | 2022 |
 | 2026-10-30 | [2023](https://wcowin.work/blog/archive/2023/) | 2023 |
@@ -84,6 +90,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-10-29 | [AI对抗与逆向](https://elmagnifico.tech/2026/10/30/AI-Cheat/) | Foreword 最近干的事情刚好和AI、逆向、反编译有关系，也刚好遇到了很多以前作为门槛的东西，在AI时代突然就什么都不是了，安全一下就下降了很多，不得不把很多设计做得更复杂了。 龙窟破坏者 先以最近玩的游戏为例，龙窟破坏者目前是demo，本身是联网的，而且作为一个含有PVP内容的游戏，本身服务端… |
 | 2026-10-29 | [k8s集群-CoreDNS配置踩坑](https://199604.com/3735) | k8s集群-CoreDNS配置踩坑 记录时间：2026-10-28 环境：K8s 1.28.15 二进制部署集 […] |
 | 2026-10-29 | [《工资外收入：不要再单次、廉价地出卖你的时间》书摘](https://www.ixiqin.com/2026/10/29/gongziwaishouru-booknote/) | 这本书似乎是微信读书单独出版的，很简短，内容相对浅薄，适合职场新人读。 2 时间的瓶颈 问题也正出在这里。对于 […] |
+| 2026-10-29 | [支持消费入座](https://blog.solazy.me/20261029/) | 才发现星巴克的「消费入座」新规我还没有评头论足过…… |
 | 2026-10-29 | [游戏](https://www.kawabangga.com/posts/7446) | 一起去上班路上： 欣：你喜欢玩什么游戏？ 我：啥？ 欣：我同事聊起来游戏，他们问我你玩什么游戏。 我：那一定是 […] Continue reading... |
 | 2026-10-29 | [群晖NAS被勒索攻击](https://hux.ink/posts/synology-attack/) | 我的群晖 NAS 昨晚遭到了勒索软件攻击，所有文件被加密上锁。 发现中招的经过 今天早上到公司后，有个念头闪过，想发条 Memo，便习惯性地打开 Memos 网页。没想到看到的不是熟悉的输入框和记录列表，而是一个全新的账号注册页面，提示创建站点管理员。昨天还用得好好的，怎么突然变成了初始化状态？起初… |
 | 2026-10-29 | [一言不合就自己搞，真羡慕，太牛批了](https://versun.me/blog/tweet-2115692277096177702) | 卡比卡比 现在的 AI 浏览器，个人用起来都没有特别顺手的，于是我自己写了一个，叫 Kaze，日语里是风的意思。内嵌的AI它的操作就像风一样的丝滑&不会干扰你。 Github: https://github.com/jackwener/Kaze 欢迎大家star关注。通过issue反馈问题。 项目主… |
