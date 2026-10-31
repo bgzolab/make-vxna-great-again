@@ -27,6 +27,11 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-10-31 | [终结竞争：从护城河到商业终局的实战指南](https://www.meettea.com/business-moat-endgame.html) | 从护城河到商业终局的实战指南：彼得·蒂尔框架 + AI 时代的商业重构 |
+| 2026-10-31 | [独立开发者的英国公司报税（2026）](https://www.meettea.com/uk-company-tax-2026.html) | 给独立开发者与小微企业的英国公司报税实战指南：CT600、年度账目、Dormant 零申报，从流水归类到提交全流程。 |
+| 2026-10-31 | [本来想在周五再抖个机灵](https://cufezhusy.github.io/issue-29/) | 这周金融市场不太平静。 继上周的黑色星期五之后，周一大家觉得穆迪没有下调法国的评级，说明风暴已经过去了，于是市场又开始 Risk On。 从周一到周四，市场基本都是这个节奏。上周五的时候，我抖了一个机灵，给 team 发了一个交易计划。结果从周一到周四，市场走势居然都如这个计划所料。本来的打算是，如… |
+| 2026-10-31 | [关于压缩的各种探索](https://mabbs.github.io/2026/11/01/compress.html) | 压缩……在消除冗余的同时，又创造了新的混乱？ |
+| 2026-10-31 | [AI 开始让我们忘记什么是软件工程](https://smallyu.net/2026/10/31/AI%E5%BC%80%E5%A7%8B%E8%AE%A9%E6%88%91%E4%BB%AC%E5%BF%98%E8%AE%B0%E4%BB%80%E4%B9%88%E6%98%AF%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B/) | 最近几天，我在做一个费率套利机会扫描的项目。 我来描述一下最近几天干了什么： 10月28日，在 Vultr 上创建了一个 2v4G |
 | 2026-10-31 | [气球](https://mobius.blog/26023.html) | 在狗公园给小狗布置万圣节的拍照布景，在给气球打气的当下，想起了一些童年回忆。 那时候的除夕夜，我最期待的不是一 […] |
 | 2026-10-31 | [Quetoo updated](https://macsourceports.com/game/quetoo) | The build of Quetoo has been updated to version v1.0.141 of the project |
 | 2026-10-31 | [独生子女的合作VS.在短视频下的成长](https://www.hecaitou.com/2026/10/the-only-child-panic-vs-the-short-video-panic.html) | 有读者留言说自己很担心：「我女儿现在已经处于文化垃圾包围圈中，除了能陪她每晚读书，聊天，还能做点什么，让她晚一点陷入其中？」 当时我的冷血回答只有四个字：「停止担心。」 这是正确的屁话，因为担心这种事情不是在前面加上「停止」两个字，或者一个禁止的念头，它就能停止的。但这么回答省字数，如果要完整展开回… |
@@ -35,6 +40,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-10-31 | [Codex 我最喜欢的两个功能](https://depp.wang/2026/codex-two-features/) | 平时我主要用 Codex 写代码，最近也越来越多地用它写文章、整理想法。用下来，我最喜欢两个功能：实时语音对话，以及 Chrome 里的 ChatGPT 浏览器扩展。 一个方便我把想法说清楚，另一个帮我省掉浏览器里繁琐的手动操作。 先简单说一下这几个名字。 ChatGPT 是 OpenAI 推出的… |
 | 2026-10-31 | [早安～](https://sigge.cn/2026/10/31/452ad475-6848-43e9-8369-e34d35837b84) | 早安～ |
 | 2026-10-31 | [Memos #2026-10-30](https://blog.itaober.com/memos/memo_20261029172004_6q8axf) | 01:36 躺在床上睡不着，翻来覆去。 近一个月很忙，连下班到家，睡前的这段时间也挤出大部分给到工作，直到躺在床上才发现已经到了深夜，不甘心就这样度过一天。 这时候脑子里会想哪些事情明天要干，干了这么多又好像没啥成长，工作的意义是什么呢，要不要明天远程？从工作延展到意义，到 27 岁轻薄的、不确定的… |
+| 2026-10-31 | [Python 潮流周刊#173：Guido 保荐的 PEP 823 拟给 3.16 加 ?. 与 ?[]](https://pythoncat.top/posts/2026-10-31-weekly/) | 分享了 12 篇文章，12 个开源项目，2 则热门讨论 |
 | 2026-10-30 | [早上看一新闻: 通用汽车非法出售驾驶行为](https://versun.me/blog/tweet-2116316420661444649) | 早上看一新闻: 通用汽车非法出售驾驶行为与位置数据，支付 2.2 亿美元达成和解 国内的车企，驾驶行为和位置数据都是默认共享的吧😂 https://www.reuters.com/business/autos-transportation/gm-pay-220-million-settle-alle… |
 | 2026-10-30 | [卷起来卷起来！](https://versun.me/blog/tweet-2116303258792997166) | OpenCode Operation Cheepseek Phase 4: $100 of usage for DeepSeek V4.1 Flash 卷起来卷起来！ |
 | 2026-10-30 | [AI 生成的文档一键转为可分享网页！这个 AI 工具太夯了【效率工具指南】](https://penghh.fun/2026/10/30/2026-10-30-livepage/) | <script src=" |
@@ -60,6 +66,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-10-30 | [【必学技能！】使用油猴脚本10倍提升工作效率！！！](https://blog.brmys.cn/4-Archives/%E8%AF%AD%E9%9B%80%E7%9F%A5%E8%AF%86%E5%BA%93-2025.08.22/%E8%8B%8F%E8%8B%8F%E7%9A%84%E8%BE%93%E5%87%BA%E3%80%90Output%E3%80%91/Knowledge%E4%B8%BB%E9%A2%98/%E3%80%90%E5%BF%85%E5%AD%A6%E6%8A%80%E8%83%BD%EF%BC%81%E3%80%91%E4%BD%BF%E7%94%A8%E6%B2%B9%E7%8C%B4%E8%84%9A%E6%9C%AC10%E5%80%8D%E6%8F%90%E5%8D%87%E5%B7%A5%E4%BD%9C%E6%95%88%E7%8E%87%EF%BC%81%EF%BC%81%EF%BC%81) | 以下教程设备为电脑💻，手机端使用油猴脚本的方法，我后面更新一下—— 往期教程：如何在手机上使用浏览器插件、油猴脚本？ 写在开头：油猴脚本能干啥？ 破解主流观影网站爱奇艺、腾讯视频、优酷等平台的付费或vip视频； 大学生刷网课，超星、学习通等（网上代刷网课都是用的油猴脚本）； 阿里云盘配合油猴脚本使用… |
 | 2026-10-30 | [【笔记】01.京东CPS赚佣，如何在小红书引流2k人，0门槛带货 GMV 60w+](https://blog.brmys.cn/4-Archives/%E8%AF%AD%E9%9B%80%E7%9F%A5%E8%AF%86%E5%BA%93-2025.08.22/%E8%8B%8F%E8%8B%8F%E7%9A%84%E8%BE%93%E5%87%BA%E3%80%90Output%E3%80%91/%F0%9F%92%B0%E9%87%91%E9%92%B1%E5%85%B3%E7%B3%BB/%E8%B5%9A%E9%92%B1%E6%A1%88%E4%BE%8B%E5%BA%93/%E3%80%90%E7%AC%94%E8%AE%B0%E3%80%9101.%E4%BA%AC%E4%B8%9CCPS%E8%B5%9A%E4%BD%A3%EF%BC%8C%E5%A6%82%E4%BD%95%E5%9C%A8%E5%B0%8F%E7%BA%A2%E4%B9%A6%E5%BC%95%E6%B5%812k%E4%BA%BA%EF%BC%8C0%E9%97%A8%E6%A7%9B%E5%B8%A6%E8%B4%A7-GMV-60w+) | . |
 | 2026-10-30 | [【笔记】01.发刊词 给你的人生明确算法_2023.12.24](https://blog.brmys.cn/4-Archives/%E8%AF%AD%E9%9B%80%E7%9F%A5%E8%AF%86%E5%BA%93-2025.08.22/%E8%8B%8F%E8%8B%8F%E7%9A%84%E8%BE%93%E5%87%BA%E3%80%90Output%E3%80%91/002-%E8%AF%BE%E7%A8%8B%E7%AC%94%E8%AE%B0/006-%E5%BE%97%E5%88%B0%E8%AF%BE%E7%A8%8B/01-%E8%80%81%E5%96%BB%E4%BA%BA%E7%94%9F%E7%AE%97%E6%B3%95%E8%AF%BE/%E3%80%90%E7%AC%94%E8%AE%B0%E3%80%9101.%E5%8F%91%E5%88%8A%E8%AF%8D-%E7%BB%99%E4%BD%A0%E7%9A%84%E4%BA%BA%E7%94%9F%E6%98%8E%E7%A1%AE%E7%AE%97%E6%B3%95_2023.12.24) | :::warning 点击右上角「回到知识库」查看更多内容 ::: . |
+| 2026-10-30 | [AI 早报 2026-10-31：报道：OpenAI 将融资目标下调至约200亿美元，寻求1.25万亿美元估值](https://www.jtxyh.com/daily/2026-10-31/) | 2026-10-31 AI 早报，共 7 条动态。据《金融时报》报道，路透社10月30日转引，OpenAI 将本轮融资目标下调100亿美元至约200亿美元，寻求的估值从约1.4万亿美元调至1.25万亿美元。快手10月30日港交所公告称，北京可灵本轮融资已完成，实缴总额为198.0184亿元人民币，按… |
 | 2026-10-30 | [新玩具 Apple Watch Series 12](https://atpx.com/blog/apple-watch-series-12/) | Apple Watch Series 12 使用一个月简单体验。 |
 | 2026-10-30 | [一通或许不存在的电话](https://blog.solazy.me/20261030/) | 今天吃到了一个自己的瓜，分享一下 |
 | 2026-10-30 | [2021](https://wcowin.work/blog/archive/2021/) | 2021 |
@@ -169,8 +176,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-10-25 | [万能的推友们，有没有安卓手机同步苹果相册](https://versun.me/blog/tweet-2114318449128415320) | 万能的推友们，有没有安卓手机同步苹果相册的应用或方案呀😅 |
 | 2026-10-25 | [OpenShell supervisor 源码解剖：一个不信任任何人的进程](https://atbug.com/openshell-supervisor-internals-trust-nothing/) | TL;DR 读 OpenShell v0.1.5 源码：supervisor 如何用一张“不信任清单”撑起沙箱的全部安全边界，每条不信任都有 文件：行号 为证。 引言：教程里那些“魔法”的出处 上一篇 OpenShell 教程 留了一堆“它就是能做到”的现象：沙箱里 DNS 永远“解析成功”，拿到却… |
 | 2026-10-25 | [今年我在外面买咖啡，只花了21.90刀](https://www.ozexplorers.com/%E6%BE%B3%E6%B4%B2%E7%94%9F%E6%B4%BB/2026/10/25/why-i-rarely-buy-coffee-outside.html) | 今天，我翻了翻记账软件，无意间发现今年至今我只有四次在外面买咖啡的记录，一共花了21.90刀。而去年是265刀，前年是249刀。 我还是一个高度依赖咖啡的打工人，并没有戒咖啡。不过，公司有咖啡机，家里有胶囊机，每天都喝上一到两杯，只是很少再往咖啡店跑了。 前两年的数字相差不大，到了今年突然掉到只剩零… |
-| 2026-10-25 | [终结竞争：从护城河到商业终局的实战指南](https://www.meettea.com/business-moat-endgame.html) | 从护城河到商业终局的实战指南：彼得·蒂尔框架 + AI 时代的商业重构 |
-| 2026-10-25 | [独立开发者的英国公司报税（2026）](https://www.meettea.com/uk-company-tax-2026.html) | 给独立开发者与小微企业的英国公司报税实战指南：CT600、年度账目、Dormant 零申报，从流水归类到提交全流程。 |
 | 2026-10-25 | [AI 时代，终于可以把那些不靠谱的想法也实现了](https://cufezhusy.github.io/issue-27/) | 最近跟世界上很多人一样，倒腾了不少 AI 相关的事情。 像我上一篇帖子里讲的，我感觉 AI 解放了很多像我这样的人。工作上、生活上，其实一直有很多想法，但精力已经不像二十多岁的时候那么好了，不可能总是坐在电脑前琢磨这些东西。AI 来了真是太好了，就像突然有了一堆不知疲倦的程序员，帮我实现那些靠谱或者… |
 | 2026-10-25 | [软考中项终于考完了，不知道能不能过，有点](https://versun.me/blog/tweet-2114269496672436334) | 软考中项终于考完了，不知道能不能过，有点忐忑，这几个月备考实在太累了😄😭 |
 | 2026-10-25 | [Vol.123 当智能体产出快于人：注意力瓶颈、可验证交付与成本边界如何重塑人机协作](https://liduos.com/weekly/the-weekly-gradient-123) | 本期内容聚焦智能体产出快于人后的注意力瓶颈，讨论数字员工接管协作、可验证交付与评估门槛，拆解多智能体架构与推理成本，并强调人仍需定义问题与标准。 |
