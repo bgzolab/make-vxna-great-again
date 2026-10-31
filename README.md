@@ -27,6 +27,8 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-10-31 | [气球](https://mobius.blog/26023.html) | 在狗公园给小狗布置万圣节的拍照布景，在给气球打气的当下，想起了一些童年回忆。 那时候的除夕夜，我最期待的不是一 […] |
+| 2026-10-31 | [Quetoo updated](https://macsourceports.com/game/quetoo) | The build of Quetoo has been updated to version v1.0.141 of the project |
 | 2026-10-31 | [独生子女的合作VS.在短视频下的成长](https://www.hecaitou.com/2026/10/the-only-child-panic-vs-the-short-video-panic.html) | 有读者留言说自己很担心：「我女儿现在已经处于文化垃圾包围圈中，除了能陪她每晚读书，聊天，还能做点什么，让她晚一点陷入其中？」 当时我的冷血回答只有四个字：「停止担心。」 这是正确的屁话，因为担心这种事情不是在前面加上「停止」两个字，或者一个禁止的念头，它就能停止的。但这么回答省字数，如果要完整展开回… |
 | 2026-10-31 | [CSP-J 2026 第二轮 个人做题记录 题解？](https://blog.mxdyeah.com/post/csp-j-2026-round-2) | 洛谷民间自测数据 100分[CSP-J 2026] 旅游 / travel#include using namespace std;int side(c... |
 | 2026-10-31 | [2008，没什么搞不定的](https://www.tortorse.com/archives/nothing-we-couldnt-handle-2008/) | 2008，没什么搞不定的 |
@@ -70,7 +72,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-10-30 | [网站更新记录](https://wcowin.work/blog/category/%E7%BD%91%E7%AB%99%E6%9B%B4%E6%96%B0%E8%AE%B0%E5%BD%95/) | 网站更新记录 |
 | 2026-10-30 | [MyBlog](https://wcowin.work/blog/page/2/) | MyBlog |
 | 2026-10-30 | [Programming is dead](https://versun.me/blog/tweet-2116126947046768930) | Joseph Cox Here is Proton CTO's AI manifesto, that I obtained multiple copies of https://www.404media.co/manifestos-fear-and-loser-thinking-inside-pro… |
-| 2026-10-30 | [Quetoo updated](https://macsourceports.com/game/quetoo) | The build of Quetoo has been updated to version v1.0.140 of the project |
 | 2026-10-30 | [Total Annihilation updated](https://macsourceports.com/game/totalannihilation) | The build of Open Annihilation for Total Annihilation has been updated to version v0.8.7 of the project |
 | 2026-10-30 | [茶余饭后 #1](https://blog.frytea.com/archives/32520) | 突发奇想，是不是可以撰写一个我个人的类似《青年文摘》的专刊，每天将自己看过有感悟的文字、链接之类的记录下来。记 […] |
 | 2026-10-30 | [一次旅行](https://blog.frytea.com/archives/32536) | 待补充。。 |
