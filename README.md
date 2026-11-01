@@ -27,6 +27,8 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-11-01 | [腾讯云技术架构联盟活动笔记——“云峰论剑” 聊聊当前的前沿研究/产品/实践案例](https://blog.frytea.com/archives/32544) | “云峰论剑” 聊聊当前的前沿研究/产品/实践案例 腾讯云架构同盟活动，以下是我参加本次活动的笔记。活动收获很多 […] |
+| 2026-11-01 | [分享一下近期爆火的AI人脸、姿势、服装素材库](https://www.liesauer.net/blog/post/1047.html) | 只贴原站，那些靠着AI一键汉化的站就不贴出来了，如果需要可以自行去 GitHub 根据关键词去搜汉化站。 请留意遵守每个素材库的版权、使用限制。 |
 | 2026-10-31 | [终结竞争：从护城河到商业终局的实战指南](https://www.meettea.com/business-moat-endgame.html) | 从护城河到商业终局的实战指南：彼得·蒂尔框架 + AI 时代的商业重构 |
 | 2026-10-31 | [独立开发者的英国公司报税（2026）](https://www.meettea.com/uk-company-tax-2026.html) | 给独立开发者与小微企业的英国公司报税实战指南：CT600、年度账目、Dormant 零申报，从流水归类到提交全流程。 |
 | 2026-10-31 | [本来想在周五再抖个机灵](https://cufezhusy.github.io/issue-29/) | 这周金融市场不太平静。 继上周的黑色星期五之后，周一大家觉得穆迪没有下调法国的评级，说明风暴已经过去了，于是市场又开始 Risk On。 从周一到周四，市场基本都是这个节奏。上周五的时候，我抖了一个机灵，给 team 发了一个交易计划。结果从周一到周四，市场走势居然都如这个计划所料。本来的打算是，如… |
@@ -34,10 +36,12 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-10-31 | [AI 开始让我们忘记什么是软件工程](https://smallyu.net/2026/10/31/AI%E5%BC%80%E5%A7%8B%E8%AE%A9%E6%88%91%E4%BB%AC%E5%BF%98%E8%AE%B0%E4%BB%80%E4%B9%88%E6%98%AF%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B/) | 最近几天，我在做一个费率套利机会扫描的项目。 我来描述一下最近几天干了什么： 10月28日，在 Vultr 上创建了一个 2v4G |
 | 2026-10-31 | [气球](https://mobius.blog/26023.html) | 在狗公园给小狗布置万圣节的拍照布景，在给气球打气的当下，想起了一些童年回忆。 那时候的除夕夜，我最期待的不是一 […] |
 | 2026-10-31 | [Quetoo updated](https://macsourceports.com/game/quetoo) | The build of Quetoo has been updated to version v1.0.141 of the project |
+| 2026-10-31 | [这个可以看你的推文被限流的情况，挺方便的](https://versun.me/blog/tweet-2116467415261528291) | X Open Source Under the Hood now shows you which posts received a visibility-limiting label, making it easier to see what’s affected: https://x.com/i/… |
 | 2026-10-31 | [独生子女的合作VS.在短视频下的成长](https://www.hecaitou.com/2026/10/the-only-child-panic-vs-the-short-video-panic.html) | 有读者留言说自己很担心：「我女儿现在已经处于文化垃圾包围圈中，除了能陪她每晚读书，聊天，还能做点什么，让她晚一点陷入其中？」 当时我的冷血回答只有四个字：「停止担心。」 这是正确的屁话，因为担心这种事情不是在前面加上「停止」两个字，或者一个禁止的念头，它就能停止的。但这么回答省字数，如果要完整展开回… |
 | 2026-10-31 | [CSP-J 2026 第二轮 个人做题记录 题解？](https://blog.mxdyeah.com/post/csp-j-2026-round-2) | 洛谷民间自测数据 100分[CSP-J 2026] 旅游 / travel#include using namespace std;int side(c... |
 | 2026-10-31 | [2008，没什么搞不定的](https://www.tortorse.com/archives/nothing-we-couldnt-handle-2008/) | 2008，没什么搞不定的 |
 | 2026-10-31 | [Codex 我最喜欢的两个功能](https://depp.wang/2026/codex-two-features/) | 平时我主要用 Codex 写代码，最近也越来越多地用它写文章、整理想法。用下来，我最喜欢两个功能：实时语音对话，以及 Chrome 里的 ChatGPT 浏览器扩展。 一个方便我把想法说清楚，另一个帮我省掉浏览器里繁琐的手动操作。 先简单说一下这几个名字。 ChatGPT 是 OpenAI 推出的… |
+| 2026-10-31 | [opencode前脚刚提到100刀，co](https://versun.me/blog/tweet-2116345089392079189) | Command Code GOAT just made $100 credits PERMANENT On $10/mo 🐐 plan DeepSeek V4.1 Flash 1017: $100 usage GLM 5.3 Flash: $100 usage GLM Flash casually… |
 | 2026-10-31 | [早安～](https://sigge.cn/2026/10/31/452ad475-6848-43e9-8369-e34d35837b84) | 早安～ |
 | 2026-10-31 | [Memos #2026-10-30](https://blog.itaober.com/memos/memo_20261029172004_6q8axf) | 01:36 躺在床上睡不着，翻来覆去。 近一个月很忙，连下班到家，睡前的这段时间也挤出大部分给到工作，直到躺在床上才发现已经到了深夜，不甘心就这样度过一天。 这时候脑子里会想哪些事情明天要干，干了这么多又好像没啥成长，工作的意义是什么呢，要不要明天远程？从工作延展到意义，到 27 岁轻薄的、不确定的… |
 | 2026-10-31 | [Python 潮流周刊#173：Guido 保荐的 PEP 823 拟给 3.16 加 ?. 与 ?[]](https://pythoncat.top/posts/2026-10-31-weekly/) | 分享了 12 篇文章，12 个开源项目，2 则热门讨论 |
@@ -188,27 +192,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-10-25 | [放弃客户端控制权：从不可信客户端到服务端重构](https://corvo.myseu.cn/2026/10/25/2026-10-25-%E6%94%BE%E5%BC%83%E5%AE%A2%E6%88%B7%E7%AB%AF%E6%8E%A7%E5%88%B6%E6%9D%83/) | 把商业规则写进客户端再靠加密加壳去守，在 AI 时代已经走不通了。这篇长文分四部分：为什么本地代码永远不可信；代码商品化之后护城河去了哪里；形式合规为什么会失效；以及软件该怎么改造成零信任客户端加持续交付。 |
 | 2026-10-25 | [Agent 产品内「专家头像」生成实战记录](https://lrd.im/blog/2026-10-25) | 集团的 Agent 工具允许用户自己创建专家（智能体），而每一个专家都需要有一个头像。此时我想到了可以在流程内接入 AI 生图的能力。 |
 | 2026-10-25 | [2026年第43周](https://blog.sakoamc.com/posts/2643/) | 题记：二零二六年第四十三周，忙与闲的转换只在一瞬间，前一秒还准备晒个太阳散散步，下一秒就被突如其来的事情打回原形。 |
-| 2026-10-24 | [esp32 &#124; cyd &#124; DFPlayer Mini Mp3 模块加SD卡和8r0.5w喇叭](https://dsx2016.com/esp32-cyd-with-dfplayer-mini-mp3-module-sd-card-and-8%cf%89-5w-speaker/) | mp3模块 为了让esp32 cyd可以播放音乐，我买了一个DFPlayer Mini Mp3 模块加SD卡和... esp32 &#124; cyd &#124; DFPlayer Mini Mp3 模块加SD卡和8r0.5w喇叭 最先出现在 大师兄2016 。 |
-| 2026-10-24 | [emacs-将光标所在org-link内容插入为quote代码块](https://blog.prayhand13013.top/20261025T001535--emacs-将光标所在org-link内容插入为quote代码块__blog.html) |  |
-| 2026-10-24 | [emacs-利用elisp进行大小写中文和数字的转换](https://blog.prayhand13013.top/20261025T000705--emacs-利用elisp进行大小写中文和数字的转换__blog.html) |  |
-| 2026-10-24 | [国庆出行感受](http://www.uncoverman.com/national-day-trip.html) | 国庆假期，带家人自驾去了一趟山东烟台、青岛，四大一小，主要是看海景，听演唱会。分享一下感受： 1 、高速：担心路上会堵车，9.30 请假一天，早上 8 点出发，江浙沪一路自驾到山东烟台，1060 公里。除了长江大桥堵了一段，其他路段畅通。过程中多休息了一会，卡时间凌晨下高速，成功省下高速费。 2 、… |
-| 2026-10-24 | [AI 早报 2026-10-25：10.25总结；马来西亚总理称孙正义拟投500亿美元，布局AI与数据中心](https://www.jtxyh.com/daily/2026-10-25/) | 2026-10-25 AI 早报，共 6 条动态。本期关注模型部署、AI基础设施与使用边界。据彭博社报道，马来西亚总理安瓦尔10月24日表示，孙正义已选定古晋、砂拉越及马来半岛的地点，拟投入500亿美元发展AI、新技术和数据中心。美联社10月25日报道，哈萨克斯坦6月加入美国主导的 Pax… |
-| 2026-10-24 | [堆栈溢出的一周](https://atpx.com/blog/week-of-stack-overflow/) | 懂归懂，失落归失落，好坏都得继续。 |
-| 2026-10-24 | [偷偷打赏的人](https://blog.solazy.me/20261024/) | 今天闲聊一个我之前没聊过的话题 |
-| 2026-10-24 | [每日计划 - 行动力基于清晰力](https://depp.wang/2026/daily-plan/) | 最近在微信读书上看了一本书，叫《认知觉醒》 ，作者周岭。 这本书写了一个观点，我觉得还是挺有启发性的。 这个观点说：读书其实不需要读完后将这本书总结一遍，而是去找一个最有感触的点，去思考、去行动、去改变。这可能是读书最有收获的一种方式。而我以前读完一本书后就会自己去整体总结一遍书中的内容，去输出一篇… |
-| 2026-10-24 | [AI 正在推动新一轮的工业革命](https://haoluobo.com/2026/10/the-second-industrial-revolution/) | 年初的时候写了一篇《AI将如何重塑这个世界》，现在半年过去，国务院办公厅发文称要「有效减缓人工智能应用就业替代 […] |
-| 2026-10-24 | [回了一趟国](https://cufezhusy.github.io/issue-26/) | 上周回了一趟国，看望了一下父母，也去看了看严严的父母。中东没法飞了，第一次飞国航走北京转机，好多年没来过首都国际机场了，真是恍如隔世。 这次回去，最直观的感受是，国内现在的生活条件确实很好。各种硬件设施已经相当完善，不少方面甚至比欧美更好，而且物价也便宜。 我们这次住了家乡最好的一家宾馆，淡季居然只… |
-| 2026-10-24 | [遍历「所有」旋律](https://www.yvesx.com/archives/introducting-hertz-cloud) | 智慧生命的精华与本质，真的是技术所无法触及的吗？在刘慈欣的科幻小说《诗云》中，神级文明为了终结人类的艺术，穷举汉字的排列组合，写出了一切过去、现在和未来的诗歌。当我们讨论音乐创作，也经常有人提及... |
-| 2026-10-24 | [Saily eSIM 指南：出境流量、美国号码与优惠码](https://gugegt.com/20261024-saily-esim.html) | 出境旅行，落地能不能马上联网，决定了头半天顺不顺。Saily 的做法是出发前在 App 里买好流量套餐，落地自动联网，不用换卡，不用租 WiFi 盒子，回国也不用对着漫游账单心疼。Saily 是 Nord Security 旗下的公司，NordVPN、NordPass 都是它家的。 |
-| 2026-10-24 | [Memos: 主厨是餐饮的核心](https://blog.yasking.org/a/1792814826) | 周五同事请客去吃了一家东北菜，这家老店味道一直不错，在大众点评上已收录13年。早两年第一次去他家吃的炒腔骨，口感 … |
-| 2026-10-24 | [这回我承认AI确实有用](https://www.hecaitou.com/2026/10/why-i-finally-admit-that-ai-is-genuinely-usef.html) | 看过那么多人设计了那么多种 AI 的用法，我终于见到一个大众真正需要，真正解决生活问题的 AI 产品：CleanYourTV。 它解决了一件大部分人每天见，每天烦，但是一直没办法的问题，那就是把你家的智能电视恢复到最朴素的样子，去掉各种电视机自带的广告，各种弹窗，各种各样的后台程序。 不需要用家有任… |
-| 2026-10-24 | [油管｜4k视频和POV视角](https://dsx2016.com/youtube-4k-videos-and-pov-perspective/) | pov视角 就是第一人称视角，一般是运动相机或者ai眼镜，或者是手持手机但是不拍自己，而是拍摄前方，自然的视频... 油管｜4k视频和POV视角 最先出现在 大师兄2016 。 |
-| 2026-10-24 | [GitLab CE 18.6.1 升级到 18.11.13 的过程记录](https://199604.com/3732) | GitLab CE 18.6.1 升级到 18.11.13 的过程记录 记录时间：2026-10-22 环境： […] |
-| 2026-10-24 | [“你是Gay”这句话真的能骂到男性吗？](https://mobius.blog/25969.html) | 虽然我并不是一个很喜欢聊对与错、高低级的人，但有些事情有明显的“层级”问题，比如认知、主体性，以及今天要聊的“ […] |
-| 2026-10-24 | [AI 越来越强，我们怎样重新安排工作和生活？](https://www.linggandianbo.com/ai-yue-lai-yue-qiang-wo-men-zen-yang-zhong-xin-an-pai-gong-zuo-he-sheng-huo/) | 从理解 AI 的变化、重新提出问题，到减少记录的负担，以及给朋友留一张餐桌。 |
-| 2026-10-24 | [观雪山赏彩林 川西理小路自驾游](https://krya.com/post/lixiaolu/) | 这个月因为工作出现断档，无事可做。看到川西的彩林非常漂亮，于是一个人从成都出发自驾穿越理小路，当天往返。路线是顺时针方向，从成都至小金，再到理县后返回成都，全程500多公里；高原山路崎岖，车道狭窄；平均时速只有50~60公里，开车就得花8个小时左右；中间的游玩时间稍微局促。 一个人旅游，自由自在，随… |
-| 2026-10-24 | [Memos #2026-10-23](https://blog.itaober.com/memos/memo_20261023012308_5u0kyj) | 09:25 播客中的真实事件： 沈清冷漠的父母 贤鱼把喝完的矿泉水瓶扔共享单车车筐 刘振东吃鸡开挂 19:26 LGTM！真不错！ |
-| 2026-10-24 | [Python 潮流周刊#172：3.15 的 JIT 终于见效、自由线程 Python 进入下一阶段](https://pythoncat.top/posts/2026-10-24-weekly/) | 分享了 12 篇文章，12 个开源项目，2 则热门讨论 |
 
 ## Vibe Coding
 
