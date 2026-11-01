@@ -27,15 +27,36 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-11-01 | [esp32 cyd mosfet开关模块和接线端子 冷压端子 测试usb led灯](https://dsx2016.com/esp32-cyd-mosfet-switch-module-terminal-blocks-crimp-terminals-and-a-usb-powered-led-light-for-testing/) | 安全问题 本期主要记录使用继电器或者mosfet开关模块，可能会遇到的一些安全问题 我买的继电器可以正常工作，... esp32 cyd mosfet开关模块和接线端子 冷压端子 测试usb led灯 最先出现在 大师兄2016 。 |
+| 2026-11-01 | [esp32cam使用esphome结合home assistant设置电动自动车充电器绿灯检测](https://dsx2016.com/using-esp32-cam-with-esphome-and-home-assistant-to-detect-the-green-light-on-an-electric-vehicle-charger/) | 充电器绿灯检测 充电器红灯指示灯，表示充电中，绿灯表示已充满，没亮代表已断电 电动自行车绿灯充满后，建议不要一... esp32cam使用esphome结合home assistant设置电动自动车充电器绿灯检测 最先出现在 大师兄2016 。 |
+| 2026-11-01 | [Lemmings updated](https://macsourceports.com/game/lemmings) | The build of Ultimate Lemmings for Lemmings has been updated to version v2.4 of the project |
+| 2026-11-01 | [Quetoo updated](https://macsourceports.com/game/quetoo) | The build of Quetoo has been updated to version v1.0.142 of the project |
+| 2026-11-01 | [RollerCoaster Tycoon 2 updated](https://macsourceports.com/game/rct2) | The build of OpenRCT2 for RollerCoaster Tycoon 2 has been updated to version v0.5.7 of the project |
+| 2026-11-01 | [Total Annihilation updated](https://macsourceports.com/game/totalannihilation) | The build of Open Annihilation for Total Annihilation has been updated to version v0.8.11 of the project |
+| 2026-11-01 | [2021](https://wcowin.work/blog/archive/2021/) | 2021 |
+| 2026-11-01 | [2022](https://wcowin.work/blog/archive/2022/) | 2022 |
+| 2026-11-01 | [2023](https://wcowin.work/blog/archive/2023/) | 2023 |
+| 2026-11-01 | [2024](https://wcowin.work/blog/archive/2024/) | 2024 |
+| 2026-11-01 | [2025](https://wcowin.work/blog/archive/2025/) | 2025 |
+| 2026-11-01 | [2026](https://wcowin.work/blog/archive/2026/) | 2026 |
+| 2026-11-01 | [Hello World](https://wcowin.work/blog/category/hello-world/) | Hello World |
+| 2026-11-01 | [网站更新记录](https://wcowin.work/blog/category/%E7%BD%91%E7%AB%99%E6%9B%B4%E6%96%B0%E8%AE%B0%E5%BD%95/) | 网站更新记录 |
+| 2026-11-01 | [MyBlog](https://wcowin.work/blog/page/2/) | MyBlog |
+| 2026-11-01 | [给 Ghostty 写了个 Alfred workflow：检索所有 Tab 和分屏](https://atbug.com/alfred-ghostty/) | TL;DR gt 搜 Ghostty 全部分屏、回车直达；go 直接开目录。附选型、踩坑与测试全记录。 背景 Alfred 的 Mega Powerpack 是我十多年前买的，很可能也是我在 macOS 上付费的第一个 App。买断制是我很喜欢的模式——尤其是在订阅制比比皆是的今天。 Ghostty… |
+| 2026-11-01 | [≡ 019｜后悔式内伤](https://mobius.blog/26028.html) | 先回顾一下这周的莫比乌斯。 多少字，对我而言不是“里程碑”，而是“我走到了这里，然后继续走下去”的路标。对我而 […] |
+| 2026-11-01 | [蓝战非的脸却浮现在心头](https://www.hecaitou.com/2026/11/why-an-influencers-face-is-haunting-my-meditation.html) | 有一种冥想要求在心里想一个固定对象，比如说想象面前有一颗珠子，一盏烛光，或者就是一个小木块。把注意力轻柔地缠绕上去，然后自己慢慢安静下来。 不会很顺利，虽然只是那么简单的一件事情，想要稳定地观察却很难，不时就会分心，不时就会有念头、声音、图像自动跳出来打断你的专注。比如说昨天晚上，我面前就反复闪现网… |
 | 2026-11-01 | [腾讯云技术架构联盟活动笔记——“云峰论剑” 聊聊当前的前沿研究/产品/实践案例](https://blog.frytea.com/archives/32544) | “云峰论剑” 聊聊当前的前沿研究/产品/实践案例 腾讯云架构同盟活动，以下是我参加本次活动的笔记。活动收获很多 […] |
 | 2026-11-01 | [分享一下近期爆火的AI人脸、姿势、服装素材库](https://www.liesauer.net/blog/post/1047.html) | 只贴原站，那些靠着AI一键汉化的站就不贴出来了，如果需要可以自行去 GitHub 根据关键词去搜汉化站。 请留意遵守每个素材库的版权、使用限制。 |
+| 2026-11-01 | [借助 Loop 串联云端与本地的 AI 开发流程](https://ro.yikzero.com/blog/loop-cloud-local/) | 我做了一个叫 Loop 的桌面应用，把 Cursor 云端 Agent、本地 Codex 和我自己的验收串成一个循环，直到 PR 合并 |
+| 2026-11-01 | [2026年第44周](https://blog.sakoamc.com/posts/2644/) | 题记：二零二六年第四十四周，十一月好呀~我宣布今后的每个周末都要远离工作，善待自己。 |
 | 2026-10-31 | [终结竞争：从护城河到商业终局的实战指南](https://www.meettea.com/business-moat-endgame.html) | 从护城河到商业终局的实战指南：彼得·蒂尔框架 + AI 时代的商业重构 |
 | 2026-10-31 | [独立开发者的英国公司报税（2026）](https://www.meettea.com/uk-company-tax-2026.html) | 给独立开发者与小微企业的英国公司报税实战指南：CT600、年度账目、Dormant 零申报，从流水归类到提交全流程。 |
 | 2026-10-31 | [本来想在周五再抖个机灵](https://cufezhusy.github.io/issue-29/) | 这周金融市场不太平静。 继上周的黑色星期五之后，周一大家觉得穆迪没有下调法国的评级，说明风暴已经过去了，于是市场又开始 Risk On。 从周一到周四，市场基本都是这个节奏。上周五的时候，我抖了一个机灵，给 team 发了一个交易计划。结果从周一到周四，市场走势居然都如这个计划所料。本来的打算是，如… |
 | 2026-10-31 | [关于压缩的各种探索](https://mabbs.github.io/2026/11/01/compress.html) | 压缩……在消除冗余的同时，又创造了新的混乱？ |
+| 2026-10-31 | [西澳之行](https://rickgwei.com/posts/western-australia-trip/) | 打算国庆假期去澳洲见女票就提前办理了签证，好在出发的前两周终于下签了，索性便赶紧订上机票期待我的第一次出国旅行。写完这个博客后还是非常想念澳洲的自然风光，真的久久无法忘怀，人还是要多出去走走，之前老想着出去玩有点浪费钱。今年开始后不断对户外探索后才知道自己身体的极限，知道自己的身体是在不断衰老的，不… |
 | 2026-10-31 | [AI 开始让我们忘记什么是软件工程](https://smallyu.net/2026/10/31/AI%E5%BC%80%E5%A7%8B%E8%AE%A9%E6%88%91%E4%BB%AC%E5%BF%98%E8%AE%B0%E4%BB%80%E4%B9%88%E6%98%AF%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B/) | 最近几天，我在做一个费率套利机会扫描的项目。 我来描述一下最近几天干了什么： 10月28日，在 Vultr 上创建了一个 2v4G |
+| 2026-10-31 | [高德地图的赛博造林](https://blog.solazy.me/20261031/) | 今天体验了一下高德地图的新功能 |
 | 2026-10-31 | [气球](https://mobius.blog/26023.html) | 在狗公园给小狗布置万圣节的拍照布景，在给气球打气的当下，想起了一些童年回忆。 那时候的除夕夜，我最期待的不是一 […] |
-| 2026-10-31 | [Quetoo updated](https://macsourceports.com/game/quetoo) | The build of Quetoo has been updated to version v1.0.141 of the project |
 | 2026-10-31 | [这个可以看你的推文被限流的情况，挺方便的](https://versun.me/blog/tweet-2116467415261528291) | X Open Source Under the Hood now shows you which posts received a visibility-limiting label, making it easier to see what’s affected: https://x.com/i/… |
 | 2026-10-31 | [独生子女的合作VS.在短视频下的成长](https://www.hecaitou.com/2026/10/the-only-child-panic-vs-the-short-video-panic.html) | 有读者留言说自己很担心：「我女儿现在已经处于文化垃圾包围圈中，除了能陪她每晚读书，聊天，还能做点什么，让她晚一点陷入其中？」 当时我的冷血回答只有四个字：「停止担心。」 这是正确的屁话，因为担心这种事情不是在前面加上「停止」两个字，或者一个禁止的念头，它就能停止的。但这么回答省字数，如果要完整展开回… |
 | 2026-10-31 | [CSP-J 2026 第二轮 个人做题记录 题解？](https://blog.mxdyeah.com/post/csp-j-2026-round-2) | 洛谷民间自测数据 100分[CSP-J 2026] 旅游 / travel#include using namespace std;int side(c... |
@@ -73,17 +94,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-10-30 | [AI 早报 2026-10-31：报道：OpenAI 将融资目标下调至约200亿美元，寻求1.25万亿美元估值](https://www.jtxyh.com/daily/2026-10-31/) | 2026-10-31 AI 早报，共 7 条动态。据《金融时报》报道，路透社10月30日转引，OpenAI 将本轮融资目标下调100亿美元至约200亿美元，寻求的估值从约1.4万亿美元调至1.25万亿美元。快手10月30日港交所公告称，北京可灵本轮融资已完成，实缴总额为198.0184亿元人民币，按… |
 | 2026-10-30 | [新玩具 Apple Watch Series 12](https://atpx.com/blog/apple-watch-series-12/) | Apple Watch Series 12 使用一个月简单体验。 |
 | 2026-10-30 | [一通或许不存在的电话](https://blog.solazy.me/20261030/) | 今天吃到了一个自己的瓜，分享一下 |
-| 2026-10-30 | [2021](https://wcowin.work/blog/archive/2021/) | 2021 |
-| 2026-10-30 | [2022](https://wcowin.work/blog/archive/2022/) | 2022 |
-| 2026-10-30 | [2023](https://wcowin.work/blog/archive/2023/) | 2023 |
-| 2026-10-30 | [2024](https://wcowin.work/blog/archive/2024/) | 2024 |
-| 2026-10-30 | [2025](https://wcowin.work/blog/archive/2025/) | 2025 |
-| 2026-10-30 | [2026](https://wcowin.work/blog/archive/2026/) | 2026 |
-| 2026-10-30 | [Hello World](https://wcowin.work/blog/category/hello-world/) | Hello World |
-| 2026-10-30 | [网站更新记录](https://wcowin.work/blog/category/%E7%BD%91%E7%AB%99%E6%9B%B4%E6%96%B0%E8%AE%B0%E5%BD%95/) | 网站更新记录 |
-| 2026-10-30 | [MyBlog](https://wcowin.work/blog/page/2/) | MyBlog |
 | 2026-10-30 | [Programming is dead](https://versun.me/blog/tweet-2116126947046768930) | Joseph Cox Here is Proton CTO's AI manifesto, that I obtained multiple copies of https://www.404media.co/manifestos-fear-and-loser-thinking-inside-pro… |
-| 2026-10-30 | [Total Annihilation updated](https://macsourceports.com/game/totalannihilation) | The build of Open Annihilation for Total Annihilation has been updated to version v0.8.7 of the project |
 | 2026-10-30 | [茶余饭后 #1](https://blog.frytea.com/archives/32520) | 突发奇想，是不是可以撰写一个我个人的类似《青年文摘》的专刊，每天将自己看过有感悟的文字、链接之类的记录下来。记 […] |
 | 2026-10-30 | [一次旅行](https://blog.frytea.com/archives/32536) | 待补充。。 |
 | 2026-10-30 | [Insaniquarium updated](https://macsourceports.com/game/insaniquarium) | The build of Insaniquarium Portable for Insaniquarium has been updated to version 0.8 of the project |
@@ -131,7 +142,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-10-27 | [用 DashPlayer 看美剧学英语](https://depp.wang/2026/dashplayer/) | 最近在用 DashPlayer 看《绝命毒师》学英语，体验下来觉得还可以，推荐给也想用本地视频、音频学英语的朋友。软件开源免费，可以控制字幕显示，也方便反复听一句台词。 它支持 Windows 和 Mac，我自己用的是 Mac，下面就按我在 Mac 上的使用方式来写。 先到 官方下载页面 ，展开 A… |
 | 2026-10-27 | [那些偷偷变瘦的人](https://blog.solazy.me/20261027/) | 这两天刷手机，连续看到好几个以前以「丰满」或者「微胖」作为个人标签的明星，在短短两三个月内迅速瘦脱了相。 如果你平时稍微留心过体态管理，一眼就能看出这种瘦法不对劲。真正靠有氧和力量训练一点点减下来的人，皮肉是紧致的，气色也撑得住；但这批突然瘦下来的明星，往往伴随着极其明显的面部松弛，法令纹和脸颊上的… |
 | 2026-10-27 | [Memos: 土木工程专业’冷‘到如此](https://blog.yasking.org/a/1793099535) | 这周末参加好友婚礼，聊起土木工程。某排名靠前的985高校，土木专业今年本科只招了 8 个人，早些年却有一百大几十、接近两百 … |
-| 2026-10-27 | [Lemmings updated](https://macsourceports.com/game/lemmings) | The build of Ultimate Lemmings for Lemmings has been updated to version v2.3 of the project |
 | 2026-10-27 | [When the Namespace Dropdown in the Argo Rollouts Dashboard Disappeared](https://www.bboy.app/2026/10/27/when-the-namespace-dropdown-in-the-argo-rollouts-dashboard-disappeared/) | Introduction In the Argo Rollouts dashboard, the NAMESPACE field had turned from a dropdown into a disabled input box. All I could see was the default… |
 | 2026-10-27 | [记一次ArgoRollouts Dashboard的namespace下拉框消失](https://www.bboy.app/2026/10/27/%E8%AE%B0%E4%B8%80%E6%AC%A1argorollouts-dashboard%E7%9A%84namespace%E4%B8%8B%E6%8B%89%E6%A1%86%E6%B6%88%E5%A4%B1/) | 简介 Argo Rollouts 的 Dashboard 页面里，NAMESPACE 那个位置从下拉框变成了一个禁用的输入框，只能看到默认的 namespace，没法切到别的地方看 rollout。翻源码、查权限、开调试日志折腾了一圈，最后发现凶手是一个 rollout 的资源字段写错了类型，导致整… |
 | 2026-10-27 | [一个 nmem 实例给家里多人用、互相隔](https://versun.me/blog/tweet-2114982211581853959) | 一个 nmem 实例给家里多人用、互相隔离，目前有没有推荐的做法呀，按 space 隔离的话，没办法关掉 owner 的资料，还是会有污染的情况，或许每个 space 配自己的 Owner 资料是不是会更好些 @wey_gu |
