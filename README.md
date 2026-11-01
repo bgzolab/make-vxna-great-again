@@ -27,6 +27,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-11-01 | [一代版本一代神](https://www.gtdstudy.com/posts/2026-11-01-new-version-new-god/) | 朋友，我最近在看 AI 短剧，你有看吗？我以研究的心态看了一点：《归墟》描述一个被黑雨侵蚀的，所有生物包括人类都开始大规模变异的末日世界。《妖怪衙门》则讲述了一个妖怪与人类共存的世界，围绕乌有乡的衙门所发生的故事。 抛开 AI 生成画面所产生的油腻感之外，这两个短剧让我能够追得下去，还在于它们的剧本… |
 | 2026-11-01 | [esp32 cyd mosfet开关模块和接线端子 冷压端子 测试usb led灯](https://dsx2016.com/esp32-cyd-mosfet-switch-module-terminal-blocks-crimp-terminals-and-a-usb-powered-led-light-for-testing/) | 安全问题 本期主要记录使用继电器或者mosfet开关模块，可能会遇到的一些安全问题 我买的继电器可以正常工作，... esp32 cyd mosfet开关模块和接线端子 冷压端子 测试usb led灯 最先出现在 大师兄2016 。 |
 | 2026-11-01 | [esp32cam使用esphome结合home assistant设置电动自动车充电器绿灯检测](https://dsx2016.com/using-esp32-cam-with-esphome-and-home-assistant-to-detect-the-green-light-on-an-electric-vehicle-charger/) | 充电器绿灯检测 充电器红灯指示灯，表示充电中，绿灯表示已充满，没亮代表已断电 电动自行车绿灯充满后，建议不要一... esp32cam使用esphome结合home assistant设置电动自动车充电器绿灯检测 最先出现在 大师兄2016 。 |
 | 2026-11-01 | [Lemmings updated](https://macsourceports.com/game/lemmings) | The build of Ultimate Lemmings for Lemmings has been updated to version v2.4 of the project |
@@ -43,6 +44,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-11-01 | [网站更新记录](https://wcowin.work/blog/category/%E7%BD%91%E7%AB%99%E6%9B%B4%E6%96%B0%E8%AE%B0%E5%BD%95/) | 网站更新记录 |
 | 2026-11-01 | [MyBlog](https://wcowin.work/blog/page/2/) | MyBlog |
 | 2026-11-01 | [给 Ghostty 写了个 Alfred workflow：检索所有 Tab 和分屏](https://atbug.com/alfred-ghostty/) | TL;DR gt 搜 Ghostty 全部分屏、回车直达；go 直接开目录。附选型、踩坑与测试全记录。 背景 Alfred 的 Mega Powerpack 是我十多年前买的，很可能也是我在 macOS 上付费的第一个 App。买断制是我很喜欢的模式——尤其是在订阅制比比皆是的今天。 Ghostty… |
+| 2026-11-01 | [Vol.124 慢一步的价值：在智能体流程中保留理解、验证、独立判断与成本边界](https://liduos.com/weekly/the-weekly-gradient-124) | 本期内容围绕“慢一步的价值”，讨论在模型部署、智能体执行、性能优化与成本核算中，如何减少无效等待，同时为理解、参与、独立判断和结果验证保留空间。 |
 | 2026-11-01 | [≡ 019｜后悔式内伤](https://mobius.blog/26028.html) | 先回顾一下这周的莫比乌斯。 多少字，对我而言不是“里程碑”，而是“我走到了这里，然后继续走下去”的路标。对我而 […] |
 | 2026-11-01 | [蓝战非的脸却浮现在心头](https://www.hecaitou.com/2026/11/why-an-influencers-face-is-haunting-my-meditation.html) | 有一种冥想要求在心里想一个固定对象，比如说想象面前有一颗珠子，一盏烛光，或者就是一个小木块。把注意力轻柔地缠绕上去，然后自己慢慢安静下来。 不会很顺利，虽然只是那么简单的一件事情，想要稳定地观察却很难，不时就会分心，不时就会有念头、声音、图像自动跳出来打断你的专注。比如说昨天晚上，我面前就反复闪现网… |
 | 2026-11-01 | [腾讯云技术架构联盟活动笔记——“云峰论剑” 聊聊当前的前沿研究/产品/实践案例](https://blog.frytea.com/archives/32544) | “云峰论剑” 聊聊当前的前沿研究/产品/实践案例 腾讯云架构同盟活动，以下是我参加本次活动的笔记。活动收获很多 […] |

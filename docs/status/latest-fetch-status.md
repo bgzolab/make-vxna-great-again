@@ -1,7 +1,7 @@
 ---
 title: Latest Fetch Status
-created: 2026-11-01T18:53:02Z
-modified: 2026-11-01T18:53:02Z
+created: 2026-11-01T23:29:57Z
+modified: 2026-11-01T23:29:57Z
 description: Latest source-level fetch result for the most recent execution.
 tags:
   - ai-notes
@@ -11,7 +11,7 @@ tags:
 
 # Latest Fetch Status
 
-Generated at: 2026-11-01T18:53:02Z
+Generated at: 2026-11-01T23:29:57Z
 
 Total sources: 532
 Successful: 401
@@ -324,7 +324,7 @@ Failed: 131
 | Success | [#356] V2EX › 紅楓吟 | [https://honmaple.me/atom.xml](https://honmaple.me/atom.xml) | [Origin](https://www.v2ex.com/xna/s/356) | 10 | - |
 | Success | [#357] V2EX › 我的笔记 | [https://blog.196000.xyz/atom.xml](https://blog.196000.xyz/atom.xml) | [Origin](https://www.v2ex.com/xna/s/357) | 20 | - |
 | Success | [#358] V2EX › Devzhi's Blog | [https://www.devzhi.com/feeds](https://www.devzhi.com/feeds) | [Origin](https://www.v2ex.com/xna/s/358) | 28 | - |
-| Success | [#359] V2EX › Space Looming | [https://www.gtdstudy.com/index.xml](https://www.gtdstudy.com/index.xml) | [Origin](https://www.v2ex.com/xna/s/359) | 8 | - |
+| Success | [#359] V2EX › Space Looming | [https://www.gtdstudy.com/index.xml](https://www.gtdstudy.com/index.xml) | [Origin](https://www.v2ex.com/xna/s/359) | 9 | - |
 | Success | [#360] V2EX › 希仁之拥 | [https://blog.keepchen.com/feed](https://blog.keepchen.com/feed) | [Origin](https://www.v2ex.com/xna/s/360) | 85 | - |
 | Success | [#361] V2EX › Cufezhusy's Blog | [https://cufezhusy.github.io/rss.xml](https://cufezhusy.github.io/rss.xml) | [Origin](https://www.v2ex.com/xna/s/361) | 28 | - |
 | Success | [#362] V2EX › radishzz's blog | [https://radishzz.cc/atom.xml](https://radishzz.cc/atom.xml) | [Origin](https://www.v2ex.com/xna/s/362) | 4 | - |
@@ -429,7 +429,7 @@ Failed: 131
 | Success | [#48] V2EX › Kenvix's Blog | [https://kenvix.com/rss.xml](https://kenvix.com/rss.xml) | [Origin](https://www.v2ex.com/xna/s/48) | 70 | - |
 | Success | [#492] V2EX › 灵感电波 | [https://www.linggandianbo.com/tag/newsletter/rss/](https://www.linggandianbo.com/tag/newsletter/rss/) | [Origin](https://www.v2ex.com/xna/s/492) | 15 | - |
 | Success | [#494] V2EX › 5had0w | [https://www.5had0w.com/atom.xml](https://www.5had0w.com/atom.xml) | [Origin](https://www.v2ex.com/xna/s/494) | 20 | - |
-| Success | [#495] V2EX › 莫尔索 | [https://liduos.com/atom.xml](https://liduos.com/atom.xml) | [Origin](https://www.v2ex.com/xna/s/495) | 144 | - |
+| Success | [#495] V2EX › 莫尔索 | [https://liduos.com/atom.xml](https://liduos.com/atom.xml) | [Origin](https://www.v2ex.com/xna/s/495) | 145 | - |
 | Success | [#496] V2EX › Deepzz | [https://deepzz.com/rss.html](https://deepzz.com/rss.html) | [Origin](https://www.v2ex.com/xna/s/496) | 20 | - |
 | Success | [#497] V2EX › Tomyail 的记忆现场 | [https://blog.tomyail.com/atom.xml](https://blog.tomyail.com/atom.xml) | [Origin](https://www.v2ex.com/xna/s/497) | 30 | - |
 | Success | [#498] V2EX › 重庆崽儿 Brand | [https://www.brandhuang.com/rss.xml](https://www.brandhuang.com/rss.xml) | [Origin](https://www.v2ex.com/xna/s/498) | 10 | - |

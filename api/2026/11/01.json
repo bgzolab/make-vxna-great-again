@@ -1,5 +1,12 @@
 [
   {
+    "title": "一代版本一代神",
+    "url": "https://www.gtdstudy.com/posts/2026-11-01-new-version-new-god/",
+    "date": "2026-11-01T23:18:34Z",
+    "description": "朋友，我最近在看 AI 短剧，你有看吗？我以研究的心态看了一点：《归墟》描述一个被黑雨侵蚀的，所有生物包括人类都开始大规模变异的末日世界。《妖怪衙门》则讲述了一个妖怪与人类共存的世界，围绕乌有乡的衙门所发生的故事。 抛开 AI 生成画面所产生的油腻感之外，这两个短剧让我能够追得下去，还在于它们的剧本十分精彩。我喜欢《归墟》是因为它的设定环环相扣，十分缜密，为了交代黑雨对生物的影响，故事里安排主角主动感染黑雨，并由他以第一人称视角来阐述这种感染的后果，显然要比直接用旁白来描述，更令人感到有说服力。播放量高达 40 亿的 AI 短剧《持械入宋》，其内容风评甚 …",
+    "source_root_domain": "gtdstudy.com"
+  },
+  {
     "title": "esp32 cyd mosfet开关模块和接线端子 冷压端子 测试usb led灯",
     "url": "https://dsx2016.com/esp32-cyd-mosfet-switch-module-terminal-blocks-crimp-terminals-and-a-usb-powered-led-light-for-testing/",
     "date": "2026-11-01T12:25:56Z",
@@ -110,6 +117,13 @@
     "date": "2026-11-01T08:00:00Z",
     "description": "TL;DR gt 搜 Ghostty 全部分屏、回车直达；go 直接开目录。附选型、踩坑与测试全记录。 背景 Alfred 的 Mega Powerpack 是我十多年前买的，很可能也是我在 macOS 上付费的第一个 App。买断制是我很喜欢的模式——尤其是在订阅制比比皆是的今天。 Ghostty 是 AI coding agent 出现之后，接替了用了十多年的 iTerm2 ——iTerm2 的 TUI 在 agent 长时间运行时会卡顿掉帧，实在扛不住。 Ghostty 占着我日常很长的时间，其中一块最近被 DeepSeek Harness 分走了。但工作中照样开着 N 个 Tab 和分屏，同时跑着多个 task。task 一多，切换、查找就成了麻烦事：上下文切换本来就已经很耗脑力了，再搭上一个“找 terminal”，实在不划算。 其实之前也考虑过给 Ghostty 写个 Alfred workflow，但受 Ghostty 本身的限制，实现起来太麻烦，一直搁着。正好 Ghostty 1.4.0 的发布把门槛降下来不少，于是就有了今天的 alfred-ghostty 。",
     "source_root_domain": "atbug.com"
+  },
+  {
+    "title": "Vol.124 慢一步的价值：在智能体流程中保留理解、验证、独立判断与成本边界",
+    "url": "https://liduos.com/weekly/the-weekly-gradient-124",
+    "date": "2026-11-01T08:00:00Z",
+    "description": "本期内容围绕“慢一步的价值”，讨论在模型部署、智能体执行、性能优化与成本核算中，如何减少无效等待，同时为理解、参与、独立判断和结果验证保留空间。",
+    "source_root_domain": "liduos.com"
   },
   {
     "title": "≡ 019｜后悔式内伤",
