@@ -54,6 +54,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-10-31 | [本来想在周五再抖个机灵](https://cufezhusy.github.io/issue-29/) | 这周金融市场不太平静。 继上周的黑色星期五之后，周一大家觉得穆迪没有下调法国的评级，说明风暴已经过去了，于是市场又开始 Risk On。 从周一到周四，市场基本都是这个节奏。上周五的时候，我抖了一个机灵，给 team 发了一个交易计划。结果从周一到周四，市场走势居然都如这个计划所料。本来的打算是，如… |
 | 2026-10-31 | [关于压缩的各种探索](https://mabbs.github.io/2026/11/01/compress.html) | 压缩……在消除冗余的同时，又创造了新的混乱？ |
 | 2026-10-31 | [西澳之行](https://rickgwei.com/posts/western-australia-trip/) | 打算国庆假期去澳洲见女票就提前办理了签证，好在出发的前两周终于下签了，索性便赶紧订上机票期待我的第一次出国旅行。写完这个博客后还是非常想念澳洲的自然风光，真的久久无法忘怀，人还是要多出去走走，之前老想着出去玩有点浪费钱。今年开始后不断对户外探索后才知道自己身体的极限，知道自己的身体是在不断衰老的，不… |
+| 2026-10-31 | [AI 早报 2026-11-01：沙特阿美完成对 HUMAIN 的 49% 入股：2026 年注资约 26 亿美元，PIF 保留 51%](https://www.jtxyh.com/daily/2026-11-01/) | 2026-11-01 AI 早报，共 5 条动态。11 月 1 日，沙特公共投资基金（PIF）与沙特阿美宣布完成交易：沙特阿美通过全资子公司收购沙特国家 AI 公司 HUMAIN 49% 的股份，PIF 保留 51%。据 IT之家 10 月 31 日报道，DeepSeek Harness… |
 | 2026-10-31 | [AI 开始让我们忘记什么是软件工程](https://smallyu.net/2026/10/31/AI%E5%BC%80%E5%A7%8B%E8%AE%A9%E6%88%91%E4%BB%AC%E5%BF%98%E8%AE%B0%E4%BB%80%E4%B9%88%E6%98%AF%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B/) | 最近几天，我在做一个费率套利机会扫描的项目。 我来描述一下最近几天干了什么： 10月28日，在 Vultr 上创建了一个 2v4G |
 | 2026-10-31 | [高德地图的赛博造林](https://blog.solazy.me/20261031/) | 今天体验了一下高德地图的新功能 |
 | 2026-10-31 | [气球](https://mobius.blog/26023.html) | 在狗公园给小狗布置万圣节的拍照布景，在给气球打气的当下，想起了一些童年回忆。 那时候的除夕夜，我最期待的不是一 […] |
@@ -99,6 +100,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-10-30 | [一次旅行](https://blog.frytea.com/archives/32536) | 待补充。。 |
 | 2026-10-30 | [Insaniquarium updated](https://macsourceports.com/game/insaniquarium) | The build of Insaniquarium Portable for Insaniquarium has been updated to version 0.8 of the project |
 | 2026-10-30 | [一个有趣但不好笑的现象：AI 编程抵抗了 npm 供应链投毒](https://guchengf.me/blog/2026-10-30-lake/) | npm 又公布了一系列 安全改进措施 。再结合 npm 最近的一系列安全改进： 默认禁止依赖安装脚本 默认限制 Git 和远程 URL 依赖 新版本冷却期 min-release-age 发布时自动恶意软件扫描 还有很多 能看到他们确实很努力在解决 npm 体系下的投毒问题，只是似乎还有很长的路要走… |
+| 2026-10-30 | [一个在网页上进行长截图和图片拼接的网站](https://blog.prayhand13013.top/20261030T161939--一个在网页上进行长截图和图片拼接的网站__blog.html) |  |
 | 2026-10-30 | [如何给宠物买保险和理赔](https://alanlee.fun/2026/10/30/pet-insurance-and-claims-guide/) | 记录一次宠物就医后的保险理赔经历，介绍如何在京东购买宠物医疗保险、准备理赔材料、提交理赔申请，以及通过实际案例说明免赔额、赔付比例和单次赔付限额如何影响最终理赔金额。[ChatGPT high] |
 | 2026-10-30 | [你当然应该去做视频](https://www.hecaitou.com/2026/10/of-course-you-should-pivot-to-video.html) | 我又建议一位朋友从文字创作转去做视频，去发挥自己的形象和口才特长，不要再留恋文字创作这种方式，不要再留恋昔日在这个领域的荣光。当时我的原话是：「当铁达尼号下沉的时候，是不是头等舱乘客没有任何意义」。 记得美团王兴在很多年前私下画过一张图，最上方的横坐标上写了文字、图片、音频、视频，向下延展的纵坐标则… |
 | 2026-10-30 | [最近 opus 5.5 降智很明显呀。。](https://versun.me/blog/tweet-2116026550248452173) | 最近 opus 5.5 降智很明显呀。。。。。 准备开 gemini ultra，不知道 argon 和 carbon 的额度耐用不 |
