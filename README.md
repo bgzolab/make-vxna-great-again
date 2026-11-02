@@ -27,10 +27,12 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-11-02 | [R#126 滴————](https://blog.sakanano.moe/journals/random_126) | 2026.10.27 ~ 2026.11.2 |
 | 2026-11-02 | [瞎扯谈](http://soap09.cn/articles/2026/11/02/1793627893103.html) |  |
 | 2026-11-02 | [Total Annihilation updated](https://macsourceports.com/game/totalannihilation) | The build of Open Annihilation for Total Annihilation has been updated to version v0.8.14 of the project |
 | 2026-11-02 | [esp32 cyd mosfet开关模块 结合home assistant 云养鱼 油管无人直播](https://dsx2016.com/esp32-cyd-mosfet-switching-module-integrated-with-home-assistant-for-remote-fish-keeping-and-automated-youtube-live-streaming/) | 无人直播 昨天找推拉式电磁铁，准备尝试蓝牙无线DIY老式门锁开关，但是没有找到 早上起来就没有继续折腾的性质，... esp32 cyd mosfet开关模块 结合home assistant 云养鱼 油管无人直播 最先出现在 大师兄2016 。 |
 | 2026-11-02 | [走大朝台我在想啥？三](https://1900.live/zou-da-zhao-tai-wo-zai-xiang-sha-san/) | null 头一晚虽然很累，但是睡的很晚，客栈老板提供的这个房间里的床是硬板床，中途醒来好几次，很是折磨。 但是第二天依旧早早就起来了，客栈也没有早餐提供，不过即便提供我也不太想吃，和徐哥洗漱完商量了一下，一人在小卖部买了一桶泡面对付对付得了，要求已经降的非常低了。 因为我们离第二天的徒步起点很远，同… |
+| 2026-11-02 | [2026.9 投资收入以及目前的策略](https://www.p1gd0g.cc/blog/117/) |  |
 | 2026-11-02 | [Might and Magic VII: For Blood and Honor updated](https://macsourceports.com/game/mightandmagic7) | The build of OpenEnroth for Might and Magic VII: For Blood and Honor has been updated to the latest code of the project |
 | 2026-11-02 | [Vite 打包产物在旧版手机 Edge/WebView 样式丢失排查与降级修复](https://blog.rustfisher.com/Web/vite-legacy-webview-style-loss-fix/) | 现象 在开发 webtools 时，用电脑浏览器和新版手机 |
 | 2026-11-02 | [从看得懂到听得懂：我为什么做了 LearnBit](https://lililib.github.io/Learnbit%20%E5%BC%80%E5%8F%91%E6%97%A5%E5%BF%97/) | 我背过很多单词，词汇量还是不错的，也就是说，英文文章我基本能看懂意思，遇到不认识的单词也能八九不离十地猜出大意。 考研过程中，我英文阅读题满分，但是听力特别差，可以说是完全听不懂。虽然没有考核口语，但是我知道口语多半也没戏。 前些日子想进外企，为 |
@@ -59,12 +61,14 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-11-01 | [大脑充血 Vol.102](https://www.geedea.pro/weekly/102/) | 夜里无星，竟然也看不到月亮，或许是城市的灯光和厚重的云层遮住了光。我驱车行使在城市外围的一条偏远公路上，路上没有灯，连像样的沥青路都没有，只有混杂着泥土和杂草的石板。车子一路颠簸，我开得很小心，车灯只能照到前方不过三四米的距离。虽说小心，但我开得并不慢。 “能赶到吗？”我在上路之前在地图上反复确认路… |
 | 2026-11-01 | [一代版本一代神](https://www.gtdstudy.com/posts/2026-11-01-new-version-new-god/) | 朋友，我最近在看 AI 短剧，你有看吗？我以研究的心态看了一点：《归墟》描述一个被黑雨侵蚀的，所有生物包括人类都开始大规模变异的末日世界。《妖怪衙门》则讲述了一个妖怪与人类共存的世界，围绕乌有乡的衙门所发生的故事。 抛开 AI 生成画面所产生的油腻感之外，这两个短剧让我能够追得下去，还在于它们的剧本… |
 | 2026-11-01 | [我喜欢一个人](https://tianheg.co/posts/i-like-living-alone/) | 我喜欢一个人 02 Nov, 2026 昨天休息，我度过了完美的一天 一个人在电脑前 一边看小说 一边让AI帮我写程序 那种将爱好外包给AI的感觉其实并不好受 所以，我刻意地不让AI写 自己手动输入 果然是漏洞百出 但还是感觉到久违的乐趣所在 一种无所事事的感觉，弥漫我的心 知道该做什么，但是不做… |
+| 2026-11-01 | [AI 早报 2026-11-02：Tempus 三季度数据与应用收入增33%，上调全年营收指引](https://www.jtxyh.com/daily/2026-11-02/) | 2026-11-02 AI 早报，共 9 条动态。Tempus 11月2日公布，截至9月30日的第三季度营收为4.115亿美元，同比增长23%；其中数据与应用业务收入1.081亿美元，增长33%。美满电子与 Lumentum 11月2日宣布达成最终协议，美满将以全股票方式收购 Lumentum。 |
 | 2026-11-01 | [写在万圣节](https://blog.solazy.me/20261101/) | 现在为什么都要过万圣节了？ |
 | 2026-11-01 | [esp32 cyd mosfet开关模块和接线端子 冷压端子 测试usb led灯](https://dsx2016.com/esp32-cyd-mosfet-switch-module-terminal-blocks-crimp-terminals-and-a-usb-powered-led-light-for-testing/) | 安全问题 本期主要记录使用继电器或者mosfet开关模块，可能会遇到的一些安全问题 我买的继电器可以正常工作，... esp32 cyd mosfet开关模块和接线端子 冷压端子 测试usb led灯 最先出现在 大师兄2016 。 |
 | 2026-11-01 | [esp32cam使用esphome结合home assistant设置电动自动车充电器绿灯检测](https://dsx2016.com/using-esp32-cam-with-esphome-and-home-assistant-to-detect-the-green-light-on-an-electric-vehicle-charger/) | 充电器绿灯检测 充电器红灯指示灯，表示充电中，绿灯表示已充满，没亮代表已断电 电动自行车绿灯充满后，建议不要一... esp32cam使用esphome结合home assistant设置电动自动车充电器绿灯检测 最先出现在 大师兄2016 。 |
 | 2026-11-01 | [Lemmings updated](https://macsourceports.com/game/lemmings) | The build of Ultimate Lemmings for Lemmings has been updated to version v2.4 of the project |
 | 2026-11-01 | [Quetoo updated](https://macsourceports.com/game/quetoo) | The build of Quetoo has been updated to version v1.0.142 of the project |
 | 2026-11-01 | [RollerCoaster Tycoon 2 updated](https://macsourceports.com/game/rct2) | The build of OpenRCT2 for RollerCoaster Tycoon 2 has been updated to version v0.5.7 of the project |
+| 2026-11-01 | [可能是 SOTA 的像素图修复开源方案](https://outtascope.com/zh/writing/pixel-art-restoration/) | 从网格还原到颜色选取，记录 Xprite Auto 的像素图修复方案与评测。 |
 | 2026-11-01 | [越来越多人发现 gemini argon](https://versun.me/blog/tweet-2116850592526291114) | Eugene Cheah - AI builder @ 🇸🇬&#124;🇺🇸 will join: argon > astra/opus for me so far in ways that are "not benchmarked" - does not need emotional manipulatio… |
 | 2026-11-01 | [哈哈，我也是这样，一次性全身心投入进去，](https://versun.me/blog/tweet-2116849651387437339) | soda 我之前痛经的时候会刷红果短剧转移注意力，看了一百多部彻底看麻了。从此回归正常的信息摄入，反而比以前更爱看纸质书和更高质量的信息了。 感觉自己可以对某个不良事物上瘾一段时间，只要这个瘾过完了，这个诱惑就再也没法让我提起兴趣了。 对不良诱惑说all in！ https://twitter.co… |
 | 2026-11-01 | [给 Ghostty 写了个 Alfred workflow：检索所有 Tab 和分屏](https://atbug.com/alfred-ghostty/) | TL;DR gt 搜 Ghostty 全部分屏、回车直达；go 直接开目录。附选型、踩坑与测试全记录。 背景 Alfred 的 Mega Powerpack 是我十多年前买的，很可能也是我在 macOS 上付费的第一个 App。买断制是我很喜欢的模式——尤其是在订阅制比比皆是的今天。 Ghostty… |
@@ -85,6 +89,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-10-31 | [AI 开始让我们忘记什么是软件工程](https://smallyu.net/2026/10/31/AI%E5%BC%80%E5%A7%8B%E8%AE%A9%E6%88%91%E4%BB%AC%E5%BF%98%E8%AE%B0%E4%BB%80%E4%B9%88%E6%98%AF%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B/) | 最近几天，我在做一个费率套利机会扫描的项目。 我来描述一下最近几天干了什么： 10月28日，在 Vultr 上创建了一个 2v4G |
 | 2026-10-31 | [高德地图的赛博造林](https://blog.solazy.me/20261031/) | 今天体验了一下高德地图的新功能 |
 | 2026-10-31 | [气球](https://mobius.blog/26023.html) | 在狗公园给小狗布置万圣节的拍照布景，在给气球打气的当下，想起了一些童年回忆。 那时候的除夕夜，我最期待的不是一 […] |
+| 2026-10-31 | [1bit 里的银色](https://outtascope.com/zh/writing/silver-with-one-bit/) | 这块银色金属板只用了两种颜色，为什么仍像金属？ |
 | 2026-10-31 | [这个可以看你的推文被限流的情况，挺方便的](https://versun.me/blog/tweet-2116467415261528291) | X Open Source Under the Hood now shows you which posts received a visibility-limiting label, making it easier to see what’s affected: https://x.com/i/… |
 | 2026-10-31 | [入蜀记 day525 渐变的金黄、空心面、变装皇后、自省、爱之梦](https://z.arlmy.me/posts/BBBPandINSW/INSW-deep/INSW_525/) | 「渐变的金黄、空心面、变装皇后、自省、爱之梦。」 |
 | 2026-10-31 | [独生子女的合作VS.在短视频下的成长](https://www.hecaitou.com/2026/10/the-only-child-panic-vs-the-short-video-panic.html) | 有读者留言说自己很担心：「我女儿现在已经处于文化垃圾包围圈中，除了能陪她每晚读书，聊天，还能做点什么，让她晚一点陷入其中？」 当时我的冷血回答只有四个字：「停止担心。」 这是正确的屁话，因为担心这种事情不是在前面加上「停止」两个字，或者一个禁止的念头，它就能停止的。但这么回答省字数，如果要完整展开回… |
