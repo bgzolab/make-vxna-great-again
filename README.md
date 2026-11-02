@@ -27,13 +27,27 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-11-02 | [Might and Magic VII: For Blood and Honor updated](https://macsourceports.com/game/mightandmagic7) | The build of OpenEnroth for Might and Magic VII: For Blood and Honor has been updated to the latest code of the project |
+| 2026-11-02 | [周记 3，写代码就像装家具](https://zhangke.space/%e5%91%a8%e8%ae%b0-3%ef%bc%8c%e5%86%99%e4%bb%a3%e7%a0%81%e5%b0%b1%e5%83%8f%e8%a3%85%e5%ae%b6%e5%85%b7/?utm_source=rss&utm_medium=rss&utm_campaign=%25e5%2591%25a8%25e8%25ae%25b0-3%25ef%25bc%258c%25e5%2586%2599%25e4%25bb%25a3%25e7%25a0%2581%25e5%25b0%25b1%25e5%2583%258f%25e8%25a3%2585%25e5%25ae%25b6%25e5%2585%25b7) | 最近两周太忙了，上周都没写周记，忙的原因是因为最近开了个新坑，是一个桌面端的开发者工具，也是因为自己平时工作经 […] The post 周记 3，写代码就像装家具 first appeared on 张可的博客 . |
+| 2026-11-02 | [Xash3D FWGS updated](https://macsourceports.com/sourceport/xash3d-fwgs) | The build of Xash3D FWGS for the Half-Life series of games has been updated to the latest code of the project\n\nhttps://macsourceports.com/sourceport… |
+| 2026-11-02 | [年化 15% 的投资组合，每天看一次，赢面只有 53%](https://koukyo.site/posts/observation-frequency-noise/) | 大一开始投资，每天刷支付宝看涨跌，焦虑得不行。看随机游走的傻瓜这本书才意识到，年化15%的稳定组合每天看也有九成噪音 |
+| 2026-11-02 | [乐园](https://mobius.blog/26034.html) | 既然聊到了童年，那就继续聊下去。 另一个有关童年的趣事，其实被我伪装成了一个“观察”。 最近我一直在聊“接手” […] |
+| 2026-11-02 | [最近惦念 20261017](https://z.arlmy.me/posts/TILs/thoughts/20261017_Recently/) | 「娇气点就娇气点。」 |
+| 2026-11-02 | [Toots 443 2026 Oct.25 - Oct.31](https://z.arlmy.me/posts/MastodonArchives/2026/MastodonTootsArchives_20261031/) | 「活到两百岁好了。」 |
+| 2026-11-02 | [Toots 442 2026 Oct.18 - Oct.24](https://z.arlmy.me/posts/MastodonArchives/2026/MastodonTootsArchives_20261024/) | 「相识恨晚熟人局。」 |
+| 2026-11-02 | [AI 科普系列（一）：什么是词向量](https://depp.wang/2026/what-are-word-vectors/) | 平时用 AI，经常会看到「词向量」「嵌入」「向量化」这些词。大模型处理文字要用到它们，给自己的 Obsidian 做知识库，也会遇到向量化这一步。 准备写几篇 AI 相关的科普文章，第一篇先分享一下词向量：文字怎么变成一串数字，这串数字又有什么用。用电脑硬件举个例子，会更容易理解。 拿我比较熟悉的电… |
+| 2026-11-01 | [大脑充血 Vol.102](https://www.geedea.pro/weekly/102/) | 夜里无星，竟然也看不到月亮，或许是城市的灯光和厚重的云层遮住了光。我驱车行使在城市外围的一条偏远公路上，路上没有灯，连像样的沥青路都没有，只有混杂着泥土和杂草的石板。车子一路颠簸，我开得很小心，车灯只能照到前方不过三四米的距离。虽说小心，但我开得并不慢。 “能赶到吗？”我在上路之前在地图上反复确认路… |
 | 2026-11-01 | [一代版本一代神](https://www.gtdstudy.com/posts/2026-11-01-new-version-new-god/) | 朋友，我最近在看 AI 短剧，你有看吗？我以研究的心态看了一点：《归墟》描述一个被黑雨侵蚀的，所有生物包括人类都开始大规模变异的末日世界。《妖怪衙门》则讲述了一个妖怪与人类共存的世界，围绕乌有乡的衙门所发生的故事。 抛开 AI 生成画面所产生的油腻感之外，这两个短剧让我能够追得下去，还在于它们的剧本… |
+| 2026-11-01 | [我喜欢一个人](https://tianheg.co/posts/i-like-living-alone/) | 我喜欢一个人 02 Nov, 2026 昨天休息，我度过了完美的一天 一个人在电脑前 一边看小说 一边让AI帮我写程序 那种将爱好外包给AI的感觉其实并不好受 所以，我刻意地不让AI写 自己手动输入 果然是漏洞百出 但还是感觉到久违的乐趣所在 一种无所事事的感觉，弥漫我的心 知道该做什么，但是不做… |
+| 2026-11-01 | [写在万圣节](https://blog.solazy.me/20261101/) | 现在为什么都要过万圣节了？ |
 | 2026-11-01 | [esp32 cyd mosfet开关模块和接线端子 冷压端子 测试usb led灯](https://dsx2016.com/esp32-cyd-mosfet-switch-module-terminal-blocks-crimp-terminals-and-a-usb-powered-led-light-for-testing/) | 安全问题 本期主要记录使用继电器或者mosfet开关模块，可能会遇到的一些安全问题 我买的继电器可以正常工作，... esp32 cyd mosfet开关模块和接线端子 冷压端子 测试usb led灯 最先出现在 大师兄2016 。 |
 | 2026-11-01 | [esp32cam使用esphome结合home assistant设置电动自动车充电器绿灯检测](https://dsx2016.com/using-esp32-cam-with-esphome-and-home-assistant-to-detect-the-green-light-on-an-electric-vehicle-charger/) | 充电器绿灯检测 充电器红灯指示灯，表示充电中，绿灯表示已充满，没亮代表已断电 电动自行车绿灯充满后，建议不要一... esp32cam使用esphome结合home assistant设置电动自动车充电器绿灯检测 最先出现在 大师兄2016 。 |
 | 2026-11-01 | [Lemmings updated](https://macsourceports.com/game/lemmings) | The build of Ultimate Lemmings for Lemmings has been updated to version v2.4 of the project |
 | 2026-11-01 | [Quetoo updated](https://macsourceports.com/game/quetoo) | The build of Quetoo has been updated to version v1.0.142 of the project |
 | 2026-11-01 | [RollerCoaster Tycoon 2 updated](https://macsourceports.com/game/rct2) | The build of OpenRCT2 for RollerCoaster Tycoon 2 has been updated to version v0.5.7 of the project |
 | 2026-11-01 | [Total Annihilation updated](https://macsourceports.com/game/totalannihilation) | The build of Open Annihilation for Total Annihilation has been updated to version v0.8.11 of the project |
+| 2026-11-01 | [越来越多人发现 gemini argon](https://versun.me/blog/tweet-2116850592526291114) | Eugene Cheah - AI builder @ 🇸🇬&#124;🇺🇸 will join: argon > astra/opus for me so far in ways that are "not benchmarked" - does not need emotional manipulatio… |
+| 2026-11-01 | [哈哈，我也是这样，一次性全身心投入进去，](https://versun.me/blog/tweet-2116849651387437339) | soda 我之前痛经的时候会刷红果短剧转移注意力，看了一百多部彻底看麻了。从此回归正常的信息摄入，反而比以前更爱看纸质书和更高质量的信息了。 感觉自己可以对某个不良事物上瘾一段时间，只要这个瘾过完了，这个诱惑就再也没法让我提起兴趣了。 对不良诱惑说all in！ https://twitter.co… |
 | 2026-11-01 | [2021](https://wcowin.work/blog/archive/2021/) | 2021 |
 | 2026-11-01 | [2022](https://wcowin.work/blog/archive/2022/) | 2022 |
 | 2026-11-01 | [2023](https://wcowin.work/blog/archive/2023/) | 2023 |
@@ -49,6 +63,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-11-01 | [蓝战非的脸却浮现在心头](https://www.hecaitou.com/2026/11/why-an-influencers-face-is-haunting-my-meditation.html) | 有一种冥想要求在心里想一个固定对象，比如说想象面前有一颗珠子，一盏烛光，或者就是一个小木块。把注意力轻柔地缠绕上去，然后自己慢慢安静下来。 不会很顺利，虽然只是那么简单的一件事情，想要稳定地观察却很难，不时就会分心，不时就会有念头、声音、图像自动跳出来打断你的专注。比如说昨天晚上，我面前就反复闪现网… |
 | 2026-11-01 | [腾讯云技术架构联盟活动笔记——“云峰论剑” 聊聊当前的前沿研究/产品/实践案例](https://blog.frytea.com/archives/32544) | “云峰论剑” 聊聊当前的前沿研究/产品/实践案例 腾讯云架构同盟活动，以下是我参加本次活动的笔记。活动收获很多 […] |
 | 2026-11-01 | [分享一下近期爆火的AI人脸、姿势、服装素材库](https://www.liesauer.net/blog/post/1047.html) | 只贴原站，那些靠着AI一键汉化的站就不贴出来了，如果需要可以自行去 GitHub 根据关键词去搜汉化站。 请留意遵守每个素材库的版权、使用限制。 |
+| 2026-11-01 | [Weekly Issue-《何以为战》](https://zdyxry.github.io/2026/11/01/Weekly-Issue-Why-War/) | 文章 技术 GitHub - tinkerbell/captain: In-memory Operating System Installation Environment for Executing Tinkerbell Workflows based on systemd Tinkerbell… |
 | 2026-11-01 | [借助 Loop 串联云端与本地的 AI 开发流程](https://ro.yikzero.com/blog/loop-cloud-local/) | 我做了一个叫 Loop 的桌面应用，把 Cursor 云端 Agent、本地 Codex 和我自己的验收串成一个循环，直到 PR 合并 |
 | 2026-11-01 | [2026年第44周](https://blog.sakoamc.com/posts/2644/) | 题记：二零二六年第四十四周，十一月好呀~我宣布今后的每个周末都要远离工作，善待自己。 |
 | 2026-10-31 | [终结竞争：从护城河到商业终局的实战指南](https://www.meettea.com/business-moat-endgame.html) | 从护城河到商业终局的实战指南：彼得·蒂尔框架 + AI 时代的商业重构 |
@@ -61,6 +76,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-10-31 | [高德地图的赛博造林](https://blog.solazy.me/20261031/) | 今天体验了一下高德地图的新功能 |
 | 2026-10-31 | [气球](https://mobius.blog/26023.html) | 在狗公园给小狗布置万圣节的拍照布景，在给气球打气的当下，想起了一些童年回忆。 那时候的除夕夜，我最期待的不是一 […] |
 | 2026-10-31 | [这个可以看你的推文被限流的情况，挺方便的](https://versun.me/blog/tweet-2116467415261528291) | X Open Source Under the Hood now shows you which posts received a visibility-limiting label, making it easier to see what’s affected: https://x.com/i/… |
+| 2026-10-31 | [入蜀记 day525 渐变的金黄、空心面、变装皇后、自省、爱之梦](https://z.arlmy.me/posts/BBBPandINSW/INSW-deep/INSW_525/) | 「渐变的金黄、空心面、变装皇后、自省、爱之梦。」 |
 | 2026-10-31 | [独生子女的合作VS.在短视频下的成长](https://www.hecaitou.com/2026/10/the-only-child-panic-vs-the-short-video-panic.html) | 有读者留言说自己很担心：「我女儿现在已经处于文化垃圾包围圈中，除了能陪她每晚读书，聊天，还能做点什么，让她晚一点陷入其中？」 当时我的冷血回答只有四个字：「停止担心。」 这是正确的屁话，因为担心这种事情不是在前面加上「停止」两个字，或者一个禁止的念头，它就能停止的。但这么回答省字数，如果要完整展开回… |
 | 2026-10-31 | [CSP-J 2026 第二轮 个人做题记录 题解？](https://blog.mxdyeah.com/post/csp-j-2026-round-2) | 洛谷民间自测数据 100分[CSP-J 2026] 旅游 / travel#include using namespace std;int side(c... |
 | 2026-10-31 | [2008，没什么搞不定的](https://www.tortorse.com/archives/nothing-we-couldnt-handle-2008/) | 2008，没什么搞不定的 |
@@ -184,28 +200,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-10-26 | [零信任的下一站是进程：OpenShell supervisor 的对照与超越](https://atbug.com/openshell-supervisor-zero-trust-process/) | TL;DR 对照 NIST SP 800-207 逐条读 OpenShell supervisor 源码：这是一份零信任的教科书实现，且把信任主体推到了进程。 一条写了五年的零信任线 去年底写 《AuthZen 工作组：打造统一的授权模型交互标准》 的时候，重新梳理了一遍 XACML 的授权模型：P… |
 | 2026-10-26 | [第两百万字](https://mobius.blog/25986.html) | 想着今年博客起码得完成第两百万字，这个目标算是达成了。 好在到现在，已经没有人再私信问我“为什么要写这么多”。 […] |
 | 2026-10-26 | [Memos #2026-10-25](https://blog.itaober.com/memos/memo_20261025095911_yayztl) | 18:06 耍了一天 Codex，小小感慨一下。 只有开发公司项目的时候，才在产出价值（也不好说）。而自己搞些乱七八糟的，只是沉浸在「我在创造」所带来的装模作样的满足感。 emm，情绪价值也是价值吧！ |
-| 2026-10-25 | [opencode go 套餐的 ds 限](https://versun.me/blog/tweet-2114498737032880374) | opencode go 套餐的 ds 限流也太频繁了吧，动不动429😆 下个月试一试 command 的套餐看看，再不行就上 ollama |
-| 2026-10-25 | [AI 早报 2026-10-26：10.26总结；Anthropic 公开递交 S-1，拟以“ANT”在纳斯达克上市](https://www.jtxyh.com/daily/2026-10-26/) | 2026-10-26 AI 早报，共 10 条动态。Anthropic 公开递交 S-1，拟以“ANT”在纳斯达克上市，发行数量与价格尚未确定，注册文件仍未生效。Anthropic 10月26日向美国证券交易委员会公开递交 S-1 注册文件，拟首次公开发行 A 类普通股，计划在纳斯达克全球精选市场以… |
-| 2026-10-25 | [从 AI Passport，看一种 AI 变现的思路](https://depp.wang/2026/ai-passport/) | 前阵子在网上了解到一个 AI 小玩具，叫 AI 通行证（AI Passport），最近在京东上买了一个。 长这样： 它有一块小屏幕、麦克风、扬声器和实体按键。除了安装别人做好的玩法，也可以让 AI 帮自己写些小软件，装进去玩。 用下来，我觉得 FoloToy 对这个产品的设计和玩法挺有先见之明的。现… |
-| 2026-10-25 | [稳定的世界正在崩解](https://blog.oospace.com/posts/2026-10-25/) | 越来越没有耐心了，无论是个人，还是国家 |
-| 2026-10-25 | [「做个人」](https://blog.solazy.me/20261025/) | 今天这个选题是压了好一阵子的了，最近思考的很完备，索性写出来 |
-| 2026-10-25 | [秋天来了，让人想起1873年](https://cufezhusy.github.io/issue-28/) | 进入十月份，哥本哈根开始真正进入秋天，家附近的公园也渐渐变得金黄。 下周打算开始研究研究 always-on agent。 周末在家的时候，读完了 Liaquat Ahamed 的这本 1873: The First Great Depression and the Making of the Mo… |
-| 2026-10-25 | [劳逸结合](https://www.lazydaily.cn/2026/10/25/cd172639-0d6d-4e1e-a145-55e89ffdbd6a/) | 这篇周记记录 2026-10-18 至 2026-10-25。 刚写了一篇长达三个月的月记。这篇周记简单总结最近一周。 紧接上篇月记。 正如上篇月记中所写，我给自己定下 |
-| 2026-10-25 | [万能的推友们，有没有安卓手机同步苹果相册](https://versun.me/blog/tweet-2114318449128415320) | 万能的推友们，有没有安卓手机同步苹果相册的应用或方案呀😅 |
-| 2026-10-25 | [OpenShell supervisor 源码解剖：一个不信任任何人的进程](https://atbug.com/openshell-supervisor-internals-trust-nothing/) | TL;DR 读 OpenShell v0.1.5 源码：supervisor 如何用一张“不信任清单”撑起沙箱的全部安全边界，每条不信任都有 文件：行号 为证。 引言：教程里那些“魔法”的出处 上一篇 OpenShell 教程 留了一堆“它就是能做到”的现象：沙箱里 DNS 永远“解析成功”，拿到却… |
-| 2026-10-25 | [今年我在外面买咖啡，只花了21.90刀](https://www.ozexplorers.com/%E6%BE%B3%E6%B4%B2%E7%94%9F%E6%B4%BB/2026/10/25/why-i-rarely-buy-coffee-outside.html) | 今天，我翻了翻记账软件，无意间发现今年至今我只有四次在外面买咖啡的记录，一共花了21.90刀。而去年是265刀，前年是249刀。 我还是一个高度依赖咖啡的打工人，并没有戒咖啡。不过，公司有咖啡机，家里有胶囊机，每天都喝上一到两杯，只是很少再往咖啡店跑了。 前两年的数字相差不大，到了今年突然掉到只剩零… |
-| 2026-10-25 | [AI 时代，终于可以把那些不靠谱的想法也实现了](https://cufezhusy.github.io/issue-27/) | 最近跟世界上很多人一样，倒腾了不少 AI 相关的事情。 像我上一篇帖子里讲的，我感觉 AI 解放了很多像我这样的人。工作上、生活上，其实一直有很多想法，但精力已经不像二十多岁的时候那么好了，不可能总是坐在电脑前琢磨这些东西。AI 来了真是太好了，就像突然有了一堆不知疲倦的程序员，帮我实现那些靠谱或者… |
-| 2026-10-25 | [软考中项终于考完了，不知道能不能过，有点](https://versun.me/blog/tweet-2114269496672436334) | 软考中项终于考完了，不知道能不能过，有点忐忑，这几个月备考实在太累了😄😭 |
-| 2026-10-25 | [Vol.123 当智能体产出快于人：注意力瓶颈、可验证交付与成本边界如何重塑人机协作](https://liduos.com/weekly/the-weekly-gradient-123) | 本期内容聚焦智能体产出快于人后的注意力瓶颈，讨论数字员工接管协作、可验证交付与评估门槛，拆解多智能体架构与推理成本，并强调人仍需定义问题与标准。 |
-| 2026-10-25 | [2026 年大模型这一年：时间线、关键事件与几点洞察](http://tubaozi.top/posts/2026/2026-llms-timeline/) | 基于 Simon Willison 的演讲《2026 in LLMs (so far)》整理：从 2025 年 11 月的拐点到 9 月的 GPT-6，按月梳理模型、Agent、安全事件，再谈几点我的理解。 |
-| 2026-10-25 | [都胡说八道了还又臭又长](https://www.hecaitou.com/2026/10/All-Filler-No-Fact.html) | 近两个月以来，我个人在阅读习惯上有了很大的改变，现在我已经不再读网上的文章。理由很简单，打开十次，里面有九次都是 AI 创作。 本来我对 AI 创作文章的态度很开放，觉得既然有了一种新工具，那么就要迎接人们广泛运用新工具的新时代。然而实践起来完全是另外一回事，请允许我稍微刻薄一点：有些人，不对，有很… |
-| 2026-10-25 | [OpenShell 实测：给 Coding Agent 一条看得见的边界](https://atbug.com/openshell-coding-agent-sandbox-pitfalls/) | TL;DR 在 M1 Mac 上把 OpenShell 从装到跑通第一个受控 Coding Agent 的完整路径，四个真实的坑各有根因和修法。 为什么 Agent 需要沙箱 Agent 越有用，越危险——这不是修辞，是结构性的。 OpenShell 文档里有一句立意，说得比大多数安全宣传都直白：… |
-| 2026-10-25 | [≡ 018｜理性选择的幸福还幸福吗？](https://mobius.blog/25980.html) | 先回顾一下这周的莫比乌斯。 之前在完成“创作者”与“读者”之间的天然矛盾之后，留下了一个有关“权力”的话题，即 […] |
-| 2026-10-25 | [Plants vs. Zombies updated](https://macsourceports.com/game/pvz) | The build of PvZ Portable for Plants vs. Zombies has been updated to version 0.2.6 of the project |
-| 2026-10-25 | [Weekly Issue-《功夫女足》](https://zdyxry.github.io/2026/10/25/Weekly-Issue-Kung-Fu-Soccer/) | 文章 技术 PingCAP TiDB Cloud Leaks Security Update – October 2026 Security Incident Report: Unauthorized Access to PingCAP Cloud Resources 不正アクセスによる情報漏洩に関… |
-| 2026-10-25 | [放弃客户端控制权：从不可信客户端到服务端重构](https://corvo.myseu.cn/2026/10/25/2026-10-25-%E6%94%BE%E5%BC%83%E5%AE%A2%E6%88%B7%E7%AB%AF%E6%8E%A7%E5%88%B6%E6%9D%83/) | 把商业规则写进客户端再靠加密加壳去守，在 AI 时代已经走不通了。这篇长文分四部分：为什么本地代码永远不可信；代码商品化之后护城河去了哪里；形式合规为什么会失效；以及软件该怎么改造成零信任客户端加持续交付。 |
-| 2026-10-25 | [Agent 产品内「专家头像」生成实战记录](https://lrd.im/blog/2026-10-25) | 集团的 Agent 工具允许用户自己创建专家（智能体），而每一个专家都需要有一个头像。此时我想到了可以在流程内接入 AI 生图的能力。 |
-| 2026-10-25 | [2026年第43周](https://blog.sakoamc.com/posts/2643/) | 题记：二零二六年第四十三周，忙与闲的转换只在一瞬间，前一秒还准备晒个太阳散散步，下一秒就被突如其来的事情打回原形。 |
 
 ## Vibe Coding
 
