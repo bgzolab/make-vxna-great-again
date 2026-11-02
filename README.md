@@ -27,7 +27,27 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-11-02 | [瞎扯谈](http://soap09.cn/articles/2026/11/02/1793627893103.html) |  |
+| 2026-11-02 | [Total Annihilation updated](https://macsourceports.com/game/totalannihilation) | The build of Open Annihilation for Total Annihilation has been updated to version v0.8.14 of the project |
+| 2026-11-02 | [esp32 cyd mosfet开关模块 结合home assistant 云养鱼 油管无人直播](https://dsx2016.com/esp32-cyd-mosfet-switching-module-integrated-with-home-assistant-for-remote-fish-keeping-and-automated-youtube-live-streaming/) | 无人直播 昨天找推拉式电磁铁，准备尝试蓝牙无线DIY老式门锁开关，但是没有找到 早上起来就没有继续折腾的性质，... esp32 cyd mosfet开关模块 结合home assistant 云养鱼 油管无人直播 最先出现在 大师兄2016 。 |
+| 2026-11-02 | [走大朝台我在想啥？三](https://1900.live/zou-da-zhao-tai-wo-zai-xiang-sha-san/) | null 头一晚虽然很累，但是睡的很晚，客栈老板提供的这个房间里的床是硬板床，中途醒来好几次，很是折磨。 但是第二天依旧早早就起来了，客栈也没有早餐提供，不过即便提供我也不太想吃，和徐哥洗漱完商量了一下，一人在小卖部买了一桶泡面对付对付得了，要求已经降的非常低了。 因为我们离第二天的徒步起点很远，同… |
 | 2026-11-02 | [Might and Magic VII: For Blood and Honor updated](https://macsourceports.com/game/mightandmagic7) | The build of OpenEnroth for Might and Magic VII: For Blood and Honor has been updated to the latest code of the project |
+| 2026-11-02 | [Vite 打包产物在旧版手机 Edge/WebView 样式丢失排查与降级修复](https://blog.rustfisher.com/Web/vite-legacy-webview-style-loss-fix/) | 现象 在开发 webtools 时，用电脑浏览器和新版手机 |
+| 2026-11-02 | [从看得懂到听得懂：我为什么做了 LearnBit](https://lililib.github.io/Learnbit%20%E5%BC%80%E5%8F%91%E6%97%A5%E5%BF%97/) | 我背过很多单词，词汇量还是不错的，也就是说，英文文章我基本能看懂意思，遇到不认识的单词也能八九不离十地猜出大意。 考研过程中，我英文阅读题满分，但是听力特别差，可以说是完全听不懂。虽然没有考核口语，但是我知道口语多半也没戏。 前些日子想进外企，为 |
+| 2026-11-02 | [辐射转移与多方模型](https://physnya.top/astro-physics/lesson-6-polytropic-model/) | 辐射转移方程 用 S ν = j ν / k ν S\nu=j\nu/k_\nu S ν ​ = j ν ​ / k ν ​ 描述介质发射和吸收系数之比，称为源函数， |
+| 2026-11-02 | [2026.11.1](https://www.justzht.com/2026-11-1/) | 十月结束了。 肇事逃逸的事情结束了，保险公司最后付清了所有我在诉讼里要求的金额。我得知支票寄出的消息后 |
+| 2026-11-02 | [2021](https://wcowin.work/blog/archive/2021/) | 2021 |
+| 2026-11-02 | [2022](https://wcowin.work/blog/archive/2022/) | 2022 |
+| 2026-11-02 | [2023](https://wcowin.work/blog/archive/2023/) | 2023 |
+| 2026-11-02 | [2024](https://wcowin.work/blog/archive/2024/) | 2024 |
+| 2026-11-02 | [2025](https://wcowin.work/blog/archive/2025/) | 2025 |
+| 2026-11-02 | [2026](https://wcowin.work/blog/archive/2026/) | 2026 |
+| 2026-11-02 | [Hello World](https://wcowin.work/blog/category/hello-world/) | Hello World |
+| 2026-11-02 | [网站更新记录](https://wcowin.work/blog/category/%E7%BD%91%E7%AB%99%E6%9B%B4%E6%96%B0%E8%AE%B0%E5%BD%95/) | 网站更新记录 |
+| 2026-11-02 | [MyBlog](https://wcowin.work/blog/page/2/) | MyBlog |
+| 2026-11-02 | [关于 Personal Agent 商业化的冷思考](https://versun.me/blog/thoughts-on-personal-agent) | 最近 Bot 赛道异常火热。从大厂的 Meta Muse、OpenAI Dot、Grok Bot、Claude Duet，到社区里五花八门的开源项目，让人眼花缭乱，不过出于隐私顾虑，加上我自己搭建的 Hermes Agent 用起来一直很顺手，这些热门产品我其实一个都没碰过。 直到上周，老婆让我也给… |
+| 2026-11-02 | [ber，打哪儿来的「知识」？](https://www.hecaitou.com/2026/11/blog-post.html) | 我注意到已经有读者在留言里向其他人给出减肥建议：土豆煮好放冰箱冷藏，用它替代米饭日常食用，一个月可以减 XX 斤....... 一点不意外，类似的内容最近我在网上频繁撞见。各种 App 里不时就会蹦出「凉土豆」、「冷土豆 」字样，我睡觉了都能梦见满天土豆在飞。不信的话，你可以回忆一下，去年到今年上半… |
+| 2026-11-02 | [青萍空气检测仪改造记：用 AI 给它加个新页面](https://liudon.com/posts/qingping-cgs1-custom-qml-page/) | 前言 最近看到不少人用 AI 折腾旧硬件，各种玩法看得我也有点手痒。 突然想到家里有一台闲置了好久的青萍空气检测仪，官方系统也很久没有更新过了，正好拿来折腾一下。 |
 | 2026-11-02 | [周记 3，写代码就像装家具](https://zhangke.space/%e5%91%a8%e8%ae%b0-3%ef%bc%8c%e5%86%99%e4%bb%a3%e7%a0%81%e5%b0%b1%e5%83%8f%e8%a3%85%e5%ae%b6%e5%85%b7/?utm_source=rss&utm_medium=rss&utm_campaign=%25e5%2591%25a8%25e8%25ae%25b0-3%25ef%25bc%258c%25e5%2586%2599%25e4%25bb%25a3%25e7%25a0%2581%25e5%25b0%25b1%25e5%2583%258f%25e8%25a3%2585%25e5%25ae%25b6%25e5%2585%25b7) | 最近两周太忙了，上周都没写周记，忙的原因是因为最近开了个新坑，是一个桌面端的开发者工具，也是因为自己平时工作经 […] The post 周记 3，写代码就像装家具 first appeared on 张可的博客 . |
 | 2026-11-02 | [Xash3D FWGS updated](https://macsourceports.com/sourceport/xash3d-fwgs) | The build of Xash3D FWGS for the Half-Life series of games has been updated to the latest code of the project\n\nhttps://macsourceports.com/sourceport… |
 | 2026-11-02 | [年化 15% 的投资组合，每天看一次，赢面只有 53%](https://koukyo.site/posts/observation-frequency-noise/) | 大一开始投资，每天刷支付宝看涨跌，焦虑得不行。看随机游走的傻瓜这本书才意识到，年化15%的稳定组合每天看也有九成噪音 |
@@ -45,18 +65,8 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-11-01 | [Lemmings updated](https://macsourceports.com/game/lemmings) | The build of Ultimate Lemmings for Lemmings has been updated to version v2.4 of the project |
 | 2026-11-01 | [Quetoo updated](https://macsourceports.com/game/quetoo) | The build of Quetoo has been updated to version v1.0.142 of the project |
 | 2026-11-01 | [RollerCoaster Tycoon 2 updated](https://macsourceports.com/game/rct2) | The build of OpenRCT2 for RollerCoaster Tycoon 2 has been updated to version v0.5.7 of the project |
-| 2026-11-01 | [Total Annihilation updated](https://macsourceports.com/game/totalannihilation) | The build of Open Annihilation for Total Annihilation has been updated to version v0.8.11 of the project |
 | 2026-11-01 | [越来越多人发现 gemini argon](https://versun.me/blog/tweet-2116850592526291114) | Eugene Cheah - AI builder @ 🇸🇬&#124;🇺🇸 will join: argon > astra/opus for me so far in ways that are "not benchmarked" - does not need emotional manipulatio… |
 | 2026-11-01 | [哈哈，我也是这样，一次性全身心投入进去，](https://versun.me/blog/tweet-2116849651387437339) | soda 我之前痛经的时候会刷红果短剧转移注意力，看了一百多部彻底看麻了。从此回归正常的信息摄入，反而比以前更爱看纸质书和更高质量的信息了。 感觉自己可以对某个不良事物上瘾一段时间，只要这个瘾过完了，这个诱惑就再也没法让我提起兴趣了。 对不良诱惑说all in！ https://twitter.co… |
-| 2026-11-01 | [2021](https://wcowin.work/blog/archive/2021/) | 2021 |
-| 2026-11-01 | [2022](https://wcowin.work/blog/archive/2022/) | 2022 |
-| 2026-11-01 | [2023](https://wcowin.work/blog/archive/2023/) | 2023 |
-| 2026-11-01 | [2024](https://wcowin.work/blog/archive/2024/) | 2024 |
-| 2026-11-01 | [2025](https://wcowin.work/blog/archive/2025/) | 2025 |
-| 2026-11-01 | [2026](https://wcowin.work/blog/archive/2026/) | 2026 |
-| 2026-11-01 | [Hello World](https://wcowin.work/blog/category/hello-world/) | Hello World |
-| 2026-11-01 | [网站更新记录](https://wcowin.work/blog/category/%E7%BD%91%E7%AB%99%E6%9B%B4%E6%96%B0%E8%AE%B0%E5%BD%95/) | 网站更新记录 |
-| 2026-11-01 | [MyBlog](https://wcowin.work/blog/page/2/) | MyBlog |
 | 2026-11-01 | [给 Ghostty 写了个 Alfred workflow：检索所有 Tab 和分屏](https://atbug.com/alfred-ghostty/) | TL;DR gt 搜 Ghostty 全部分屏、回车直达；go 直接开目录。附选型、踩坑与测试全记录。 背景 Alfred 的 Mega Powerpack 是我十多年前买的，很可能也是我在 macOS 上付费的第一个 App。买断制是我很喜欢的模式——尤其是在订阅制比比皆是的今天。 Ghostty… |
 | 2026-11-01 | [Vol.124 慢一步的价值：在智能体流程中保留理解、验证、独立判断与成本边界](https://liduos.com/weekly/the-weekly-gradient-124) | 本期内容围绕“慢一步的价值”，讨论在模型部署、智能体执行、性能优化与成本核算中，如何减少无效等待，同时为理解、参与、独立判断和结果验证保留空间。 |
 | 2026-11-01 | [≡ 019｜后悔式内伤](https://mobius.blog/26028.html) | 先回顾一下这周的莫比乌斯。 多少字，对我而言不是“里程碑”，而是“我走到了这里，然后继续走下去”的路标。对我而 […] |

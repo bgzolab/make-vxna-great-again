@@ -1,10 +1,150 @@
 [
   {
+    "title": "瞎扯谈",
+    "url": "http://soap09.cn/articles/2026/11/02/1793627893103.html",
+    "date": "2026-11-02T13:58:13Z",
+    "description": "",
+    "source_root_domain": "soap09.cn"
+  },
+  {
+    "title": "Total Annihilation updated",
+    "url": "https://macsourceports.com/game/totalannihilation",
+    "date": "2026-11-02T12:01:54Z",
+    "description": "The build of Open Annihilation for Total Annihilation has been updated to version v0.8.14 of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "esp32 cyd mosfet开关模块 结合home assistant 云养鱼 油管无人直播",
+    "url": "https://dsx2016.com/esp32-cyd-mosfet-switching-module-integrated-with-home-assistant-for-remote-fish-keeping-and-automated-youtube-live-streaming/",
+    "date": "2026-11-02T11:14:43Z",
+    "description": "无人直播 昨天找推拉式电磁铁，准备尝试蓝牙无线DIY老式门锁开关，但是没有找到 早上起来就没有继续折腾的性质，... esp32 cyd mosfet开关模块 结合home assistant 云养鱼 油管无人直播 最先出现在 大师兄2016 。",
+    "source_root_domain": "dsx2016.com"
+  },
+  {
+    "title": "走大朝台我在想啥？三",
+    "url": "https://1900.live/zou-da-zhao-tai-wo-zai-xiang-sha-san/",
+    "date": "2026-11-02T10:36:30Z",
+    "description": "null 头一晚虽然很累，但是睡的很晚，客栈老板提供的这个房间里的床是硬板床，中途醒来好几次，很是折磨。 但是第二天依旧早早就起来了，客栈也没有早餐提供，不过即便提供我也不太想吃，和徐哥洗漱完商量了一下，一人在小卖部买了一桶泡面对付对付得了，要求已经降的非常低了。 因为我们离第二天的徒步起点很远，同住客栈的其他驴友们都是选择让老板送去徒步起点，等辣条起来后我们三个合计了一下打算也座车过去得了，费用好像是5还是10元来着，我有点忘记了（后来路上遇到其他驴友才知道他们祝的基本上都是免费送的，这里再次碎碎念一句奸商）。 吃完早饭就出发了，其实路程也就一两公里，路上能看到不少坚持选择走过去的驴友。公路在一个宽阔的山谷里，路两旁都是挺拔的小白杨，不过叶子几乎都掉光了，旁边是一条干枯河流，河床上形状各异的石头星罗密布，两旁山不高，树叶在阳光更金黄了几分。 很快便到了起点，下车后明显感觉到温差，空气也冷的很，出发点非常热闹，人头涌动，当地的村民在旁边支起了不少卖补给的小摊，路上不断有新的车辆接送着驴友，带起尘土纷飞，好一个热闹景象。 我们三个状态都还不错，徐哥依旧和昨天无二的打扮，引得路过的驴友纷纷",
+    "source_root_domain": "1900.live"
+  },
+  {
     "title": "Might and Magic VII: For Blood and Honor updated",
     "url": "https://macsourceports.com/game/mightandmagic7",
-    "date": "2026-11-02T03:23:02Z",
+    "date": "2026-11-02T09:11:52Z",
     "description": "The build of OpenEnroth for Might and Magic VII: For Blood and Honor has been updated to the latest code of the project",
     "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "Vite 打包产物在旧版手机 Edge/WebView 样式丢失排查与降级修复",
+    "url": "https://blog.rustfisher.com/Web/vite-legacy-webview-style-loss-fix/",
+    "date": "2026-11-02T08:57:01Z",
+    "description": "现象 在开发 webtools 时，用电脑浏览器和新版手机",
+    "source_root_domain": "rustfisher.com"
+  },
+  {
+    "title": "从看得懂到听得懂：我为什么做了 LearnBit",
+    "url": "https://lililib.github.io/Learnbit%20%E5%BC%80%E5%8F%91%E6%97%A5%E5%BF%97/",
+    "date": "2026-11-02T07:47:30Z",
+    "description": "我背过很多单词，词汇量还是不错的，也就是说，英文文章我基本能看懂意思，遇到不认识的单词也能八九不离十地猜出大意。 考研过程中，我英文阅读题满分，但是听力特别差，可以说是完全听不懂。虽然没有考核口语，但是我知道口语多半也没戏。 前些日子想进外企，为",
+    "source_root_domain": "lililib.github.io"
+  },
+  {
+    "title": "辐射转移与多方模型",
+    "url": "https://physnya.top/astro-physics/lesson-6-polytropic-model/",
+    "date": "2026-11-02T07:09:59Z",
+    "description": "辐射转移方程 用 S ν = j ν / k ν S\\nu=j\\nu/k_\\nu S ν ​ = j ν ​ / k ν ​ 描述介质发射和吸收系数之比，称为源函数，",
+    "source_root_domain": "physnya.top"
+  },
+  {
+    "title": "2026.11.1",
+    "url": "https://www.justzht.com/2026-11-1/",
+    "date": "2026-11-02T06:53:38Z",
+    "description": "十月结束了。 肇事逃逸的事情结束了，保险公司最后付清了所有我在诉讼里要求的金额。我得知支票寄出的消息后",
+    "source_root_domain": "justzht.com"
+  },
+  {
+    "title": "2021",
+    "url": "https://wcowin.work/blog/archive/2021/",
+    "date": "2026-11-02T05:28:23Z",
+    "description": "2021",
+    "source_root_domain": "wcowin.work"
+  },
+  {
+    "title": "2022",
+    "url": "https://wcowin.work/blog/archive/2022/",
+    "date": "2026-11-02T05:28:23Z",
+    "description": "2022",
+    "source_root_domain": "wcowin.work"
+  },
+  {
+    "title": "2023",
+    "url": "https://wcowin.work/blog/archive/2023/",
+    "date": "2026-11-02T05:28:23Z",
+    "description": "2023",
+    "source_root_domain": "wcowin.work"
+  },
+  {
+    "title": "2024",
+    "url": "https://wcowin.work/blog/archive/2024/",
+    "date": "2026-11-02T05:28:23Z",
+    "description": "2024",
+    "source_root_domain": "wcowin.work"
+  },
+  {
+    "title": "2025",
+    "url": "https://wcowin.work/blog/archive/2025/",
+    "date": "2026-11-02T05:28:23Z",
+    "description": "2025",
+    "source_root_domain": "wcowin.work"
+  },
+  {
+    "title": "2026",
+    "url": "https://wcowin.work/blog/archive/2026/",
+    "date": "2026-11-02T05:28:23Z",
+    "description": "2026",
+    "source_root_domain": "wcowin.work"
+  },
+  {
+    "title": "Hello World",
+    "url": "https://wcowin.work/blog/category/hello-world/",
+    "date": "2026-11-02T05:28:23Z",
+    "description": "Hello World",
+    "source_root_domain": "wcowin.work"
+  },
+  {
+    "title": "网站更新记录",
+    "url": "https://wcowin.work/blog/category/%E7%BD%91%E7%AB%99%E6%9B%B4%E6%96%B0%E8%AE%B0%E5%BD%95/",
+    "date": "2026-11-02T05:28:23Z",
+    "description": "网站更新记录",
+    "source_root_domain": "wcowin.work"
+  },
+  {
+    "title": "MyBlog",
+    "url": "https://wcowin.work/blog/page/2/",
+    "date": "2026-11-02T05:28:23Z",
+    "description": "MyBlog",
+    "source_root_domain": "wcowin.work"
+  },
+  {
+    "title": "关于 Personal Agent 商业化的冷思考",
+    "url": "https://versun.me/blog/thoughts-on-personal-agent",
+    "date": "2026-11-02T04:20:00Z",
+    "description": "最近 Bot 赛道异常火热。从大厂的 Meta Muse、OpenAI Dot、Grok Bot、Claude Duet，到社区里五花八门的开源项目，让人眼花缭乱，不过出于隐私顾虑，加上我自己搭建的 Hermes Agent 用起来一直很顺手，这些热门产品我其实一个都没碰过。 直到上周，老婆让我也给她弄一个 Bot，我在 Hermes 上给她开了个独立 Profile...",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "ber，打哪儿来的「知识」？",
+    "url": "https://www.hecaitou.com/2026/11/blog-post.html",
+    "date": "2026-11-02T04:19:22Z",
+    "description": "我注意到已经有读者在留言里向其他人给出减肥建议：土豆煮好放冰箱冷藏，用它替代米饭日常食用，一个月可以减 XX 斤....... 一点不意外，类似的内容最近我在网上频繁撞见。各种 App 里不时就会蹦出「凉土豆」、「冷土豆 」字样，我睡觉了都能梦见满天土豆在飞。不信的话，你可以回忆一下，去年到今年上半年，关于土豆的话术还是「你永远也不知道吃一斤凉土豆能帮你吸收多少脂肪」，应该都见过吧？ 那我要问了：怎么判断这位读者的行为？他是在传播知识，传播信息，还是不知不觉中变成了人形广告板？ 如果暂时无法确定答案的话，我还有另外一个例子： 前阵子我写文章谈自己修脚的事，里面提到我的脚后跟到冬天会皲裂。结果，N 个读者跑来留言：你这个根本不是干裂，而是一种真菌感染。当时我耐心地逐一回复他们：还是要少看广告。 为什么？ 因为我在网上看太多了，就像是大合唱一样，到哪里都能看到「不是脚皮，而是脚气」的所谓「科普帖」，然后无一例外在留言区置顶一条脚气水的购买链接。「科普帖」里的角色经常换，一会儿是资深皮肤科医生，一会儿是医科大学生，但都在洗脑：这不是，而是...... 不觉得奇怪么？一个网友从来没有拿过营养师",
+    "source_root_domain": "hecaitou.com"
+  },
+  {
+    "title": "青萍空气检测仪改造记：用 AI 给它加个新页面",
+    "url": "https://liudon.com/posts/qingping-cgs1-custom-qml-page/",
+    "date": "2026-11-02T03:39:38Z",
+    "description": "前言 最近看到不少人用 AI 折腾旧硬件，各种玩法看得我也有点手痒。 突然想到家里有一台闲置了好久的青萍空气检测仪，官方系统也很久没有更新过了，正好拿来折腾一下。",
+    "source_root_domain": "liudon.com"
   },
   {
     "title": "周记 3，写代码就像装家具",
@@ -126,13 +266,6 @@
     "source_root_domain": "macsourceports.com"
   },
   {
-    "title": "Total Annihilation updated",
-    "url": "https://macsourceports.com/game/totalannihilation",
-    "date": "2026-11-01T12:02:01Z",
-    "description": "The build of Open Annihilation for Total Annihilation has been updated to version v0.8.11 of the project",
-    "source_root_domain": "macsourceports.com"
-  },
-  {
     "title": "越来越多人发现 gemini argon",
     "url": "https://versun.me/blog/tweet-2116850592526291114",
     "date": "2026-11-01T11:11:25Z",
@@ -145,69 +278,6 @@
     "date": "2026-11-01T11:07:40Z",
     "description": "soda 我之前痛经的时候会刷红果短剧转移注意力，看了一百多部彻底看麻了。从此回归正常的信息摄入，反而比以前更爱看纸质书和更高质量的信息了。 感觉自己可以对某个不良事物上瘾一段时间，只要这个瘾过完了，这个诱惑就再也没法让我提起兴趣了。 对不良诱惑说all in！ https://twitter.com/istdrc/status/2116782971617517905 哈哈，我也是这样，一次性全身心投入进去，看到腻为止",
     "source_root_domain": "versun.me"
-  },
-  {
-    "title": "2021",
-    "url": "https://wcowin.work/blog/archive/2021/",
-    "date": "2026-11-01T08:31:07Z",
-    "description": "2021",
-    "source_root_domain": "wcowin.work"
-  },
-  {
-    "title": "2022",
-    "url": "https://wcowin.work/blog/archive/2022/",
-    "date": "2026-11-01T08:31:07Z",
-    "description": "2022",
-    "source_root_domain": "wcowin.work"
-  },
-  {
-    "title": "2023",
-    "url": "https://wcowin.work/blog/archive/2023/",
-    "date": "2026-11-01T08:31:07Z",
-    "description": "2023",
-    "source_root_domain": "wcowin.work"
-  },
-  {
-    "title": "2024",
-    "url": "https://wcowin.work/blog/archive/2024/",
-    "date": "2026-11-01T08:31:07Z",
-    "description": "2024",
-    "source_root_domain": "wcowin.work"
-  },
-  {
-    "title": "2025",
-    "url": "https://wcowin.work/blog/archive/2025/",
-    "date": "2026-11-01T08:31:07Z",
-    "description": "2025",
-    "source_root_domain": "wcowin.work"
-  },
-  {
-    "title": "2026",
-    "url": "https://wcowin.work/blog/archive/2026/",
-    "date": "2026-11-01T08:31:07Z",
-    "description": "2026",
-    "source_root_domain": "wcowin.work"
-  },
-  {
-    "title": "Hello World",
-    "url": "https://wcowin.work/blog/category/hello-world/",
-    "date": "2026-11-01T08:31:07Z",
-    "description": "Hello World",
-    "source_root_domain": "wcowin.work"
-  },
-  {
-    "title": "网站更新记录",
-    "url": "https://wcowin.work/blog/category/%E7%BD%91%E7%AB%99%E6%9B%B4%E6%96%B0%E8%AE%B0%E5%BD%95/",
-    "date": "2026-11-01T08:31:07Z",
-    "description": "网站更新记录",
-    "source_root_domain": "wcowin.work"
-  },
-  {
-    "title": "MyBlog",
-    "url": "https://wcowin.work/blog/page/2/",
-    "date": "2026-11-01T08:31:07Z",
-    "description": "MyBlog",
-    "source_root_domain": "wcowin.work"
   },
   {
     "title": "给 Ghostty 写了个 Alfred workflow：检索所有 Tab 和分屏",
