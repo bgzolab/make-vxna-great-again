@@ -1,5 +1,33 @@
 [
   {
+    "title": "我为什么更喜欢 BSD 风格的许可证",
+    "url": "https://blog.mxdyeah.com/post/why-i-prefer-bsd-licenses",
+    "date": "2026-11-03T18:20:00Z",
+    "description": "最近在整理自己的代码仓库，重新研究了一遍开源许可证。刚好 又想水一篇文章 （不是），谈一下，我为什么更喜欢 BSD 风格的许可证，以及为什么觉得 GPL 是一种“邪恶”。当然我这里没有说 GPL...",
+    "source_root_domain": "mxdyeah.com"
+  },
+  {
+    "title": "Coffee Break Clojure, Test",
+    "url": "https://www.geedea.pro/article/clj9/",
+    "date": "2026-11-03T15:58:29Z",
+    "description": "假设有函数 pair-sum ，把输入的数字划分为两个一对，然后对每个对求和，返回和组成的序列： ( defn pair-sum [ & nums ] ( ->> nums ( partition 2 ) ( map ( partial apply + )))) 系统运行一段时间后有人反馈了 Bug，复现方式如下： ( pair-sum 3 2 1 4 5 3 5 ) ;; => (5 5 8) 输入上述用例，函数只返回了前六个数字组成的三个对的和，最后一个 5 被丢弃了。经过判断，这的确是个 Bug，解决方案是让落单的输入单独作为和返回。 你当然可以修完 Bug 之后一走了之，但试想一下：之后的贡献者在看到这段代码的时候，会不会对「落单的输入怎么处理」这件事情产生不同的想法？他会不会认为修复后的版本反而是个 Bug？ 当然可以在文档和 Issues 里留档，但不是所有人都会把所有文档资料扫一遍再改代码的，忽略注释也没有代价。有没有办法让代码的行为被修改之后，就立刻报错提醒修改者「这里不该这么改」？ Testing, Testing, 1, 2, 3 标准库 clojure.test ",
+    "source_root_domain": "geedea.pro"
+  },
+  {
+    "title": "PHP2Shell 漏洞（CVE-2026-109618、CVE-2026-109619）临时缓解记录",
+    "url": "https://199604.com/3738",
+    "date": "2026-11-03T14:51:43Z",
+    "description": "PHP2Shell 漏洞（CVE-2026-109618、CVE-2026-109619）临时缓解记录 记录时 […]",
+    "source_root_domain": "199604.com"
+  },
+  {
+    "title": "DeepSeek Super Agent 很热闹，但我认为 AI 已经进入瓶颈期",
+    "url": "https://www.tortorse.com/archives/deepseek-super-agent-and-ai-bottleneck/",
+    "date": "2026-11-03T13:56:19Z",
+    "description": "DeepSeek Super Agent 很热闹，但我认为 AI 已经进入瓶颈期",
+    "source_root_domain": "tortorse.com"
+  },
+  {
     "title": "esp32 mosfet开关模块 冷压端子 正负极接线",
     "url": "https://dsx2016.com/esp32-mosfet-switching-module-cold-pressed-terminals-positive-negative-terminal-wiring/",
     "date": "2026-11-03T13:22:48Z",

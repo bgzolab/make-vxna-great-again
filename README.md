@@ -27,6 +27,10 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-11-03 | [我为什么更喜欢 BSD 风格的许可证](https://blog.mxdyeah.com/post/why-i-prefer-bsd-licenses) | 最近在整理自己的代码仓库，重新研究了一遍开源许可证。刚好 又想水一篇文章 （不是），谈一下，我为什么更喜欢 BSD 风格的许可证，以及为什么觉得 GPL 是一种“邪恶”。当然我这里没有说 GPL... |
+| 2026-11-03 | [Coffee Break Clojure, Test](https://www.geedea.pro/article/clj9/) | 假设有函数 pair-sum ，把输入的数字划分为两个一对，然后对每个对求和，返回和组成的序列： ( defn pair-sum [ & nums ] ( ->> nums ( partition 2 ) ( map ( partial apply + )))) 系统运行一段时间后有人反馈了 Bug… |
+| 2026-11-03 | [PHP2Shell 漏洞（CVE-2026-109618、CVE-2026-109619）临时缓解记录](https://199604.com/3738) | PHP2Shell 漏洞（CVE-2026-109618、CVE-2026-109619）临时缓解记录 记录时 […] |
+| 2026-11-03 | [DeepSeek Super Agent 很热闹，但我认为 AI 已经进入瓶颈期](https://www.tortorse.com/archives/deepseek-super-agent-and-ai-bottleneck/) | DeepSeek Super Agent 很热闹，但我认为 AI 已经进入瓶颈期 |
 | 2026-11-03 | [esp32 mosfet开关模块 冷压端子 正负极接线](https://dsx2016.com/esp32-mosfet-switching-module-cold-pressed-terminals-positive-negative-terminal-wiring/) | 开关模块 ai推荐给我mosfet开关模块，适合频繁开关的5v usb设备 了解到有IRF520模块，MOS管... esp32 mosfet开关模块 冷压端子 正负极接线 最先出现在 大师兄2016 。 |
 | 2026-11-03 | [FreeSpace 2 updated](https://macsourceports.com/game/freespace2) | The build of FreeSpace 2 Source Code Project for FreeSpace 2 has been updated to version 26.2.0 of the project |
 | 2026-11-03 | [Ambermoon updated](https://macsourceports.com/game/ambermoon) | The build of Ambermoon.net for Ambermoon has been updated to version v1.15.0 of the project |
