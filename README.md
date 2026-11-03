@@ -27,9 +27,21 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-11-03 | [[译] 如何在一天内改变人生](https://blog.itaober.com/posts/post) | 原文：Dan Koe 《How to fix your entire life in 1 day》 在 X 经常刷到这篇文章的推荐，也收藏了许久，一直都没开始阅读。近期状态有些低迷，体重也没控制住，很多方向都没有想清楚，似乎一切都糟透了。得做些改变啊，就想到了这篇文章。 本文为译文，保留作者的第一人… |
+| 2026-11-03 | [减重的段位](https://www.hecaitou.com/2026/11/the-tiers-of-weight-loss.html) | 如果有人上来就跟你说，只吃某种食物，或者只做某种运动，一个月就能减多少斤云云，那这个人在减重领域就是纯废铁级。如果更进一步，甚至宣称无需多少努力就能达成，那这个人会继续下降至铝皮级。 这些方法可能是有效的，但有效期很短，而身体伤害却可能很深远。此外，这些方法在人年轻的时候可能是有效的，等到代谢开始下… |
+| 2026-11-03 | [Memos: 长期友谊的坚实基础](https://blog.yasking.org/a/1793670397) | 拥有共同珍视的青春年少记忆； 可触及的当下交集与共同话题； 对于今后关系维系和发展的默契与意愿； 反之则是往事不 … |
+| 2026-11-03 | [让座 II](https://mobius.blog/26039.html) | 没错，这个系列还在继续，依旧是在咖啡厅码字的当下，观察到的“不得不停下手中的事情，开始认真记录”的事情。 两个 […] |
+| 2026-11-03 | [【译】如何用一天重整你的整个人生 — Dan Koe](https://moreality.net/posts/27347/) | Dan Koe《How to fix your entire life in 1 day》完整中译：七个关于身份认同、行为改变与目标的想法，以及一天的反思练习。保留英文标题和核心原句对照。 |
+| 2026-11-03 | [我对批判性思维的理解](https://depp.wang/2026/critical-thinking/) | 以前听过苏德超在一席的演讲 《咱们食堂的菜不好吃》 ，讲的是批判性思考。听完以后，一直想写一下自己对批判性思维的理解，但一直没有动笔，今天终于写了。 最开始，我觉得批判性思维可能更接近辩证性思维，看一个事情不能只看一面。不过，顺着演讲里的例子拆下来，我对批判性思维慢慢有了更具体的理解。 比如别人说了… |
+| 2026-11-03 | [Memos #2026-11-02](https://blog.itaober.com/memos/memo_20261102013435_lzys9z) | 09:37 任何嘉宾来，都会被得体的风格带偏。 21:02 正好今天学到一个新词： Status Game（地位游戏） ，指围绕社会地位、排名和声望展开的竞争与博弈。 身处社会之中，似乎很难完全摆脱对名利的追逐、对他人的比较，以及对外界认可的渴望。结合近期身边人的一些状态，也有了些感触。 人在社会，… |
+| 2026-11-02 | [浙大这是要步港大的后尘吗 扒了下代码，移](https://versun.me/blog/tweet-2117389058901254646) | meng shao 浙大团队发表了一份开源个人 Agent 系统报告，以 Meta Muse 为对照，定义「个人 Agent」该长什么样，还开源了他们的 nanoMuse 论文在这：https://huggingface.co/papers/2610.08699 项目在这：https://nanom… |
+| 2026-11-02 | [从多个 AI 窗口到一个协作团队：我的 Herdr + SSH 分层架构实践](https://ghyghoo8.github.io/2026/11/03/2026-11-03-%E4%BB%8E%E5%A4%9A%E4%B8%AAAI%E7%AA%97%E5%8F%A3%E5%88%B0%E5%8D%8F%E4%BD%9C%E5%9B%A2%E9%98%9F-Herdr%E4%B8%8ESSH%E5%88%86%E5%B1%82%E6%9E%B6%E6%9E%84%E5%AE%9E%E8%B7%B5/) | 同时让几个 AI 帮忙，最先忙起来的，往往是自己。 一个窗口写代码，一个窗口查资料，另一个窗口检查结果。我们在中间复制需求、补充背景、追问进度，还要记住哪个版本才是最新的。AI 越开越多，自己却越来越像一个消息转发员。 最近，我把这套协作方式重新梳理了一遍： 由 Dot 统一沟通目标，各项目 Lea… |
 | 2026-11-02 | [R#126 滴————](https://blog.sakanano.moe/journals/random_126) | 2026.10.27 ~ 2026.11.2 |
+| 2026-11-02 | [我的差旅打车法则](https://blog.solazy.me/20261102/) | 最近打车变得多了起来 |
 | 2026-11-02 | [瞎扯谈](http://soap09.cn/articles/2026/11/02/1793627893103.html) |  |
 | 2026-11-02 | [Total Annihilation updated](https://macsourceports.com/game/totalannihilation) | The build of Open Annihilation for Total Annihilation has been updated to version v0.8.14 of the project |
+| 2026-11-02 | [好，这就去重新下载，记不清这是我第几次重](https://versun.me/blog/tweet-2117220385947279712) | yetone 第一轮测试，我就是将原推里的屏幕截图分别给了它们，让它们找到该壁纸的最高清版本，结果如下（图片也按文字的顺序展示各个 Agent 的结果）： 1. Grok bot：用最快的速度找到了推特上的原图，但大小只有 736×736，直接返回给我结束了。 2. Muse：找了好久好久，翻了很多… |
+| 2026-11-02 | [红果是不是来推做推广了，我都卸载好久了，](https://versun.me/blog/tweet-2117219191476420657) | yihong0618 如果只推荐一个短剧我也推荐《拉黑遇真爱》 https://twitter.com/xuanwo/status/2116861654843740282 红果是不是来推做推广了，我都卸载好久了，今天又下载回来了，脑洞真大！好看 |
 | 2026-11-02 | [esp32 cyd mosfet开关模块 结合home assistant 云养鱼 油管无人直播](https://dsx2016.com/esp32-cyd-mosfet-switching-module-integrated-with-home-assistant-for-remote-fish-keeping-and-automated-youtube-live-streaming/) | 无人直播 昨天找推拉式电磁铁，准备尝试蓝牙无线DIY老式门锁开关，但是没有找到 早上起来就没有继续折腾的性质，... esp32 cyd mosfet开关模块 结合home assistant 云养鱼 油管无人直播 最先出现在 大师兄2016 。 |
 | 2026-11-02 | [走大朝台我在想啥？三](https://1900.live/zou-da-zhao-tai-wo-zai-xiang-sha-san/) | null 头一晚虽然很累，但是睡的很晚，客栈老板提供的这个房间里的床是硬板床，中途醒来好几次，很是折磨。 但是第二天依旧早早就起来了，客栈也没有早餐提供，不过即便提供我也不太想吃，和徐哥洗漱完商量了一下，一人在小卖部买了一桶泡面对付对付得了，要求已经降的非常低了。 因为我们离第二天的徒步起点很远，同… |
 | 2026-11-02 | [2026.9 投资收入以及目前的策略](https://www.p1gd0g.cc/blog/117/) |  |
@@ -47,10 +59,13 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-11-02 | [Hello World](https://wcowin.work/blog/category/hello-world/) | Hello World |
 | 2026-11-02 | [网站更新记录](https://wcowin.work/blog/category/%E7%BD%91%E7%AB%99%E6%9B%B4%E6%96%B0%E8%AE%B0%E5%BD%95/) | 网站更新记录 |
 | 2026-11-02 | [MyBlog](https://wcowin.work/blog/page/2/) | MyBlog |
+| 2026-11-02 | [关于 Personal Agent 商业](https://versun.me/blog/tweet-2117123682544083354) | 关于 Personal Agent 商业化的冷思考 最近 Bot 赛道异常火热。从大厂的 Meta Muse、OpenAI Dot、Grok Bot、Claude Duet，到社区里五花八门的开源项目，让人眼花缭乱，不过出于隐私顾虑，加上我自己搭建的 Hermes Agent 用起来一直很顺手，这些… |
 | 2026-11-02 | [关于 Personal Agent 商业化的冷思考](https://versun.me/blog/thoughts-on-personal-agent) | 最近 Bot 赛道异常火热。从大厂的 Meta Muse、OpenAI Dot、Grok Bot、Claude Duet，到社区里五花八门的开源项目，让人眼花缭乱，不过出于隐私顾虑，加上我自己搭建的 Hermes Agent 用起来一直很顺手，这些热门产品我其实一个都没碰过。 直到上周，老婆让我也给… |
 | 2026-11-02 | [ber，打哪儿来的「知识」？](https://www.hecaitou.com/2026/11/blog-post.html) | 我注意到已经有读者在留言里向其他人给出减肥建议：土豆煮好放冰箱冷藏，用它替代米饭日常食用，一个月可以减 XX 斤....... 一点不意外，类似的内容最近我在网上频繁撞见。各种 App 里不时就会蹦出「凉土豆」、「冷土豆 」字样，我睡觉了都能梦见满天土豆在飞。不信的话，你可以回忆一下，去年到今年上半… |
 | 2026-11-02 | [青萍空气检测仪改造记：用 AI 给它加个新页面](https://liudon.com/posts/qingping-cgs1-custom-qml-page/) | 前言 最近看到不少人用 AI 折腾旧硬件，各种玩法看得我也有点手痒。 突然想到家里有一台闲置了好久的青萍空气检测仪，官方系统也很久没有更新过了，正好拿来折腾一下。 |
+| 2026-11-02 | [Gemini Argon 的文学能力太牛](https://versun.me/blog/tweet-2117093426831499284) | Gemini Argon 的文学能力太牛了，2倍 Gemini 3.8 flash，3倍 opus 5.5，毫不夸张 |
 | 2026-11-02 | [周记 3，写代码就像装家具](https://zhangke.space/%e5%91%a8%e8%ae%b0-3%ef%bc%8c%e5%86%99%e4%bb%a3%e7%a0%81%e5%b0%b1%e5%83%8f%e8%a3%85%e5%ae%b6%e5%85%b7/?utm_source=rss&utm_medium=rss&utm_campaign=%25e5%2591%25a8%25e8%25ae%25b0-3%25ef%25bc%258c%25e5%2586%2599%25e4%25bb%25a3%25e7%25a0%2581%25e5%25b0%25b1%25e5%2583%258f%25e8%25a3%2585%25e5%25ae%25b6%25e5%2585%25b7) | 最近两周太忙了，上周都没写周记，忙的原因是因为最近开了个新坑，是一个桌面端的开发者工具，也是因为自己平时工作经 […] The post 周记 3，写代码就像装家具 first appeared on 张可的博客 . |
+| 2026-11-02 | [现在的 Bot/Agent 起手就是一个](https://versun.me/blog/tweet-2117090915265487179) | 现在的 Bot/Agent 起手就是一个聊天框 没人觉得这种交互方式非常低效吗 |
 | 2026-11-02 | [Xash3D FWGS updated](https://macsourceports.com/sourceport/xash3d-fwgs) | The build of Xash3D FWGS for the Half-Life series of games has been updated to the latest code of the project\n\nhttps://macsourceports.com/sourceport… |
 | 2026-11-02 | [年化 15% 的投资组合，每天看一次，赢面只有 53%](https://koukyo.site/posts/observation-frequency-noise/) | 大一开始投资，每天刷支付宝看涨跌，焦虑得不行。看随机游走的傻瓜这本书才意识到，年化15%的稳定组合每天看也有九成噪音 |
 | 2026-11-02 | [乐园](https://mobius.blog/26034.html) | 既然聊到了童年，那就继续聊下去。 另一个有关童年的趣事，其实被我伪装成了一个“观察”。 最近我一直在聊“接手” […] |
@@ -186,35 +201,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-10-27 | [OpenAI 到底在干嘛？ 2026下半](https://versun.me/blog/tweet-2114886286582657444) | OpenAI GPT-6.1 Terra: delivering fast and capable computer use at a lower price. GPT-6.1 Terra understands what’s on screen, takes action across apps,… |
 | 2026-10-27 | [2026年Spaceship 优惠码](https://www.evan.xin/5133/) | 2026 年 10 月目前可用的 Spaceship 优惠码（域名为准，第三方网站整理的代码可能在个别地区失效 […] |
 | 2026-10-27 | [Memos #2026-10-26](https://blog.itaober.com/memos/memo_20261026151853_mlotcf) | 23:20 沐上树梢融入得很好，听感和谐。 本期最佳梗：粉都不是南宁，是墨西哥！ |
-| 2026-10-26 | [20261026的胡言乱语](https://www.bboy.app/2026/10/26/20261026%E7%9A%84%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/) | 简介 欢迎关注我的频道，不时发送垃圾消息 https://t.me/bboyapp 或者关注我的 twitter https://twitter.com/bboysoulcn |
-| 2026-10-26 | [Random Thoughts - 20261026](https://www.bboy.app/2026/10/26/random-thoughts-20261026/) | Introduction Welcome to follow my channel, where I occasionally share random messages https://t.me/bboyapp Or follow me on Twitter https://twitter.com… |
-| 2026-10-26 | [让 Dot 来派活：我的 Lody 多 Agent 协作实践](https://ghyghoo8.github.io/2026/10/27/2026-10-27-%E8%AE%A9Dot%E5%92%8CLody%E7%BB%84%E6%88%90%E4%B8%80%E4%B8%AAAI%E5%8D%8F%E4%BD%9C%E5%9B%A2%E9%98%9F/) | 同时用几个 AI 做事，很容易遇到一个问题：它们各自都能干活，连接它们的人却一直是自己。 把需求复制给写代码的 Agent，再把结果交给另一个 Agent 审查；这边缺资料，过去补一下；那边卡住了，再回来问一句。窗口开得越来越多，自己也越来越像一个负责转发消息的项目经理。 最近，我在尝试用 Dot… |
-| 2026-10-26 | [AI 早报 2026-10-27：Guidewire 拟以17亿美元现金收购保险AI软件公司 hyperexponential](https://www.jtxyh.com/daily/2026-10-27/) | 2026-10-27 AI 早报，共 9 条动态。Guidewire 10月27日宣布签署收购协议，基础现金对价为17亿美元，另有最高4亿美元的款项取决于经常性收入目标。IBM 在10月27日的 TechXchange 公告中介绍了 watsonx Orchestrate 的新管理能力：从 Amaz… |
-| 2026-10-26 | [2026翻墙协议对比](https://elmagnifico.tech/2026/10/27/VPN-Compare/) | Foreword 26.10.26，昨天刚好切换协议的uuid，测试的时候还全是好的，刚测完就接近全挂了。查了半天还以为是我改的有问题，仔细一看都是端口被封了，看起来和之前遇到封禁的或者阻断非常相似。 没想到用了这么久的xray+vless+reality 也要下线了吗，翻了一下帖子，似乎都遇到了这… |
-| 2026-10-26 | [Atomic habits](https://blog.bensontech.dev/posts/atomic-habits/) | One method to help us control habits which left me great impression while I read atomic habits is that we can separate devices/space with difference u… |
-| 2026-10-26 | [认知不易，循环反馈](https://usmacd.com/cn/knowledge_and_feedback/) | 前段时间看到一段话： 普通人通常在35岁至40岁才会明白社会运行的真相和逻辑，但这时的人们正好被钉在生活的十字架上无力挣扎。而上层阶级出生的人，在20几岁时就已经通透，而且还不用考虑过多的试错成本，因那是一种传承，用几代人的智慧浇灌出来的。人生最大的浪费不是金钱的浪费，而是时间的浪费，认知的迟到。… |
-| 2026-10-26 | [漫谈心底那份夜雨与深秋](https://blog.mfwt.top/index.php/archives/1679/) | 笔者一直有一个很想问自己的问题：为什么会选择『枫林灯语』这几个字作为站点名（甚至在正式建站前很久就已经存在了，所以至少不是一拍脑袋想出来的）。虽然在关于页里面，已经解释过会有『近乎于惆怅的宁静感... |
-| 2026-10-26 | [R#125 AgentHelm](https://blog.sakanano.moe/journals/random_125) | 2026.10.20 ~ 2026.10.26 |
-| 2026-10-26 | [Everything is Harness： 从 Prompt Engineering 到 Context Engineering 再到 Harness Engineering](https://www.ixiqin.com/2026/10/26/harness-engineering/) | 在 Harness Engineering 这个概念逐渐流行甚至要过气之后，我终于理解了这个词背后的含义。作为 […] |
-| 2026-10-26 | [SFC 游戏：洛克人七代（Rockman 7）](https://springwood.me/sfc-rockman-7/) | （摘要）画面很漂亮，可惜倒数第二个 boss 太痛苦了 |
-| 2026-10-26 | [在职场舒适地做自己](https://blog.solazy.me/20261026/) | 今天继续聊职场话题 |
-| 2026-10-26 | [不及格](https://yipai.me/post/2555.html) | 下午语文老师在群里发消息，说听写声母，有 24 个同学全对，8个同学不合格。晚上回家天塌了，原来我儿子就是这 8 个人之中的一个。听写 21 个声母，他只写了 5 个。问题就是写的太慢，总想写成标准印刷体，说过很多次，优先完成，再考虑是否美观，毫无用处。其他作业也是类似，比如读拼音，错一个他就从头重… |
-| 2026-10-26 | [核合成](https://physnya.top/astro-physics/lesson-5-nuclear-synthesis/) | 核合成 超重核素一般在恒星中通过没有 Coulomb 势垒的中子俘获过程产生，分为慢中子俘获和快中子俘获两种过程，二者各自贡献了当今宇宙中超重核素的将近一半. 一个典型的中子俘获过程： 56 Fe + n → 57 Fe + n → 58 Fe + n → 59 Co + n → 60 Co → 6… |
-| 2026-10-26 | [超新星 & 中子星](https://physnya.top/compact-object/lesson-6-supernova-and-neutron-star/) | 在中国古代曾经观察到过好几次超新星的爆发事件. 中子星在观测上的最早确认是在 1960s，得益于射电望远镜的发达，发现脉冲星. 大质量恒星在生命晚期的结构类似洋葱，其不同元素形成不同层，而中心铁核只能通过电子简并压来维持，一旦中心到达 Chandrasekhar 极限就会进一步坍缩. 而下一个抵抗引… |
-| 2026-10-26 | [花 20 元，让实体卡手机也能用上 eSIM](https://depp.wang/2026/esim-euicc/) | 如果像出国旅游想用 eSIM 流量套餐，但手机只有实体卡槽，可以试试小白卡。 它就是一张可以写入 eSIM 信息的实体卡，写好之后，像普通手机卡一样插进手机使用。小白卡和 9eSIM 这类实体卡，基本原理一样，都是把 eSIM 套餐装进卡里。卡本身不带流量，套餐需要另外购买。 拼多多搜索「eSIM… |
-| 2026-10-26 | [Kimi 开创历史，只重置25%，看来是](https://versun.me/blog/tweet-2114704741187850425) | Kimi.ai We're sorry for the rate limits and unnecessary quota consumption on the K3.1 Pro subscription plan. These were our issues, and we should have… |
-| 2026-10-26 | [尝试每周四晚上在上海举办 Tab 星期四线下聚会](https://www.owenyoung.com/tab) | 从 10 月 29 日开始，我和 海涛 每周四晚上会在上海 706 办一个小型聚会，叫 Tab 星期四 。形式有点像线下版的 Hacker News 或 TIL （Today I Learned），每个人带一个这周想分享的 Tab，先分享 1–3 分钟，再交流 2 分钟。 时间是每周四 19:30–… |
-| 2026-10-26 | [ICT 核心概念笔记：流动性、FVG、Power of 3 与订单块](https://blog.forecho.com/learn-every-ict-concept.html) | 引言 这篇是我看 Pro Trading School 的视频 Learn Every ICT Concept in 17 Minutes (Liquidity, FVG, Order Blocks & More) 整理的笔记。视频全长 17 分半，把 ICT / SMC 体系里最核心的四个词：流动… |
-| 2026-10-26 | [演讲视频：Do you want to be a SRE?](https://www.kawabangga.com/posts/7443) | 上周在 NUS 做了一个分享，内容是 SRE 的工作内容和成长路线。下面是录制的视频。 涉及的数据和 inci […] Continue reading... 相关文章: SRE&Devops 每周分享 Issue #1 Opening SRE&Devops 每周分享 Issue #4 AWS La… |
-| 2026-10-26 | [GreenCloud绿云13周年促销活动](https://www.cheshirex.com/11523.html) | 重要通知：今年没有黑色星期五促销活动 我们希望尽早向大家完全公开透明，以免有人等待：GreenCloud 今年 […] |
-| 2026-10-26 | [2026.10.25](https://www.justzht.com/2026-10-25/) | Epoch 现在通过一个 Playdate API 兼容层可以原生运行在 Mac 和一些其他平台上了。主要开发重心还是在 Playdate 上（毕竟其他平台的性 |
-| 2026-10-26 | [声势浩大的知识产权盗窃](https://www.geedea.pro/article/the-great-theft/) | 之所以说「声势浩大」，是因为我成语储备不够，找不到「不要脸」的文雅说法。 蛛丝马迹 这几天我停用了 NetCup 的一台机子，换到了 SKRIME，装了 OpenBSD 系统愉快地玩了起来。结果，正好赶上 eMudhra 根证书密钥泄露 1 和 PHP2Shell 漏洞，于是赶紧在几台机器上更新 c… |
-| 2026-10-26 | [自己修脚](https://www.hecaitou.com/2026/10/The-Art-of-the-DIY-Pedicure.html) | 说起来很奇怪，我本身很少出门，也很少运动，但是脚底的老茧却会自顾自疯长，感觉是我的脚陷入了某种终日远足的狂野幻想之中。 两周前，我把除湿机收起来，换上加湿机开始过冬天。就在当晚，我的脚后跟就自动皲裂，效果堪比金刚石砂纸。睡觉翻身的时候，稍微交叉一下小腿，脚后跟只是轻轻蹭了一下，能把我从梦中直接惊醒，… |
-| 2026-10-26 | [AI时代如何看漫画](https://www.nodealpha.me/Software-ai-manga.html) | 在大AI时代，由于ChatGPT的加持，我的看漫画流程进一步进化了，主要分为 3 条路线： 下载漫画，走Komga加Koharia 在线漫画，走Suwayomi加Tsumiru 日文原版，走Saber-Translator自动翻译后接入2中的Suwayomi 下载漫画 以前的话，我是漫画下载、Kom… |
-| 2026-10-26 | [自用 ChatGPT/Codex 防御性编程/说话修正/PowerShell调用问题修正提示词分享](https://kenvix.com/post/codex-prompt/) | 受不了弱智的 ChatGPT/Codex 了，分享一些自用的提示词，主要用于防御性编程、说话修正、PowerShell调用问题修正等。 本文长期更新。上次更新时间：2026-10-26 12:25:50 另外致敬传奇暗改王 Tibo ，Codex 现在真实5小时额度和周额度的 Token 量有没有… |
-| 2026-10-26 | [零信任的下一站是进程：OpenShell supervisor 的对照与超越](https://atbug.com/openshell-supervisor-zero-trust-process/) | TL;DR 对照 NIST SP 800-207 逐条读 OpenShell supervisor 源码：这是一份零信任的教科书实现，且把信任主体推到了进程。 一条写了五年的零信任线 去年底写 《AuthZen 工作组：打造统一的授权模型交互标准》 的时候，重新梳理了一遍 XACML 的授权模型：P… |
-| 2026-10-26 | [第两百万字](https://mobius.blog/25986.html) | 想着今年博客起码得完成第两百万字，这个目标算是达成了。 好在到现在，已经没有人再私信问我“为什么要写这么多”。 […] |
-| 2026-10-26 | [Memos #2026-10-25](https://blog.itaober.com/memos/memo_20261025095911_yayztl) | 18:06 耍了一天 Codex，小小感慨一下。 只有开发公司项目的时候，才在产出价值（也不好说）。而自己搞些乱七八糟的，只是沉浸在「我在创造」所带来的装模作样的满足感。 emm，情绪价值也是价值吧！ |
 
 ## Vibe Coding
 
