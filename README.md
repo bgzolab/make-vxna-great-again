@@ -27,15 +27,26 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-11-03 | [esp32 mosfet开关模块 冷压端子 正负极接线](https://dsx2016.com/esp32-mosfet-switching-module-cold-pressed-terminals-positive-negative-terminal-wiring/) | 开关模块 ai推荐给我mosfet开关模块，适合频繁开关的5v usb设备 了解到有IRF520模块，MOS管... esp32 mosfet开关模块 冷压端子 正负极接线 最先出现在 大师兄2016 。 |
+| 2026-11-03 | [FreeSpace 2 updated](https://macsourceports.com/game/freespace2) | The build of FreeSpace 2 Source Code Project for FreeSpace 2 has been updated to version 26.2.0 of the project |
+| 2026-11-03 | [Ambermoon updated](https://macsourceports.com/game/ambermoon) | The build of Ambermoon.net for Ambermoon has been updated to version v1.15.0 of the project |
+| 2026-11-03 | [esp32 mosfet开关模块 正负极和电源输入输出](https://dsx2016.com/esp32-mosfet-switch-module-positive-negative-terminals-and-power-input-output/) | 注意事项 不要弄反正负极！！！ 不要弄反电源输入和电源输出！！！ 任何一个反了，都有可能烧毁模块或者引起短路之... esp32 mosfet开关模块 正负极和电源输入输出 最先出现在 大师兄2016 。 |
 | 2026-11-03 | [[译] 如何在一天内改变人生](https://blog.itaober.com/posts/post) | 原文：Dan Koe 《How to fix your entire life in 1 day》 在 X 经常刷到这篇文章的推荐，也收藏了许久，一直都没开始阅读。近期状态有些低迷，体重也没控制住，很多方向都没有想清楚，似乎一切都糟透了。得做些改变啊，就想到了这篇文章。 本文为译文，保留作者的第一人… |
+| 2026-11-03 | [Xash3D FWGS updated](https://macsourceports.com/sourceport/xash3d-fwgs) | The build of Xash3D FWGS for the Half-Life series of games has been updated to the latest code of the project\n\nhttps://macsourceports.com/sourceport… |
+| 2026-11-03 | [第十届网络社会年会（新加坡场）｜何炳胜：面向链上智能的图学习：生命周期追踪、欺诈检测与套利洞察](https://caa-ins.org/archives/13511) | 文 / 何炳胜翻译 / 李易扬校对 / 周蓬岸 听了迪伦和勇刚的演讲后，我感到自己的内容可能技术性过强了，但还是努力确保今天每个人都能有所收获，会尽量把内容讲得更通俗易懂。首先要说明的是，你们可能会问，我为什么会开展这项研究？ 实际上，这项研究早在十年前就开始了，因为我们发现链上数据非常有趣，在我看… |
+| 2026-11-03 | [多卡共享权益包](https://hux.ink/posts/sb-dianxin/) | 上个月无意间在小红书看到一篇帖子，博主分享自己办理了「多卡共享权益包 - 50 GB（2023 春促）」这个套餐包。我去电信资费专区搜了一下，发现确实有，深圳地区 99 元及以上套餐就可以加装。我现在用的是另一款多卡共享权益包，每增加一张副卡只能多 20 GB 流量。现在主副卡一共 5 张，套餐基础… |
+| 2026-11-03 | [esp32：如何把2.54mm杜邦线针脚剥线](https://dsx2016.com/how-to-strip-the-insulation-from-2-54mm-dupont-connector-pins-for-an-esp32/) | 继电器或者焊接 一般esp32上面的排针和针脚是使用2.54mm的杜邦线，对应的传感器模块也是 比杜邦线更方便... esp32：如何把2.54mm杜邦线针脚剥线 最先出现在 大师兄2016 。 |
 | 2026-11-03 | [减重的段位](https://www.hecaitou.com/2026/11/the-tiers-of-weight-loss.html) | 如果有人上来就跟你说，只吃某种食物，或者只做某种运动，一个月就能减多少斤云云，那这个人在减重领域就是纯废铁级。如果更进一步，甚至宣称无需多少努力就能达成，那这个人会继续下降至铝皮级。 这些方法可能是有效的，但有效期很短，而身体伤害却可能很深远。此外，这些方法在人年轻的时候可能是有效的，等到代谢开始下… |
+| 2026-11-03 | [普鲁斯特问卷 2026](https://z.arlmy.me/posts/Questionnaire/ProustQuestionnaire_2026/) | 「2026 年度普鲁斯特问卷。」 |
+| 2026-11-03 | [青萍空气检测仪改造记：展示 AI 订阅额度](https://liudon.com/posts/qingping-cgs1-ai-quota-display/) | 前言 上一篇 青萍空气检测仪改造记：用 AI 给它加个新页面 把改造流程跑通了，这一篇来讲讲具体的实践：展示 AI 订阅额度。 先上效果图： |
 | 2026-11-03 | [Memos: 长期友谊的坚实基础](https://blog.yasking.org/a/1793670397) | 拥有共同珍视的青春年少记忆； 可触及的当下交集与共同话题； 对于今后关系维系和发展的默契与意愿； 反之则是往事不 … |
 | 2026-11-03 | [让座 II](https://mobius.blog/26039.html) | 没错，这个系列还在继续，依旧是在咖啡厅码字的当下，观察到的“不得不停下手中的事情，开始认真记录”的事情。 两个 […] |
 | 2026-11-03 | [【译】如何用一天重整你的整个人生 — Dan Koe](https://moreality.net/posts/27347/) | Dan Koe《How to fix your entire life in 1 day》完整中译：七个关于身份认同、行为改变与目标的想法，以及一天的反思练习。保留英文标题和核心原句对照。 |
 | 2026-11-03 | [我对批判性思维的理解](https://depp.wang/2026/critical-thinking/) | 以前听过苏德超在一席的演讲 《咱们食堂的菜不好吃》 ，讲的是批判性思考。听完以后，一直想写一下自己对批判性思维的理解，但一直没有动笔，今天终于写了。 最开始，我觉得批判性思维可能更接近辩证性思维，看一个事情不能只看一面。不过，顺着演讲里的例子拆下来，我对批判性思维慢慢有了更具体的理解。 比如别人说了… |
 | 2026-11-03 | [Memos #2026-11-02](https://blog.itaober.com/memos/memo_20261102013435_lzys9z) | 09:37 任何嘉宾来，都会被得体的风格带偏。 21:02 正好今天学到一个新词： Status Game（地位游戏） ，指围绕社会地位、排名和声望展开的竞争与博弈。 身处社会之中，似乎很难完全摆脱对名利的追逐、对他人的比较，以及对外界认可的渴望。结合近期身边人的一些状态，也有了些感触。 人在社会，… |
+| 2026-11-03 | [购入一副新耳机](https://blog.chen-di.com/archive/gou-ru-yi-fu-xin-er-ji/) | 新买的耳机使用体验还不错，虽然价格便宜，但音质和舒适度都让我满意。 |
 | 2026-11-02 | [浙大这是要步港大的后尘吗 扒了下代码，移](https://versun.me/blog/tweet-2117389058901254646) | meng shao 浙大团队发表了一份开源个人 Agent 系统报告，以 Meta Muse 为对照，定义「个人 Agent」该长什么样，还开源了他们的 nanoMuse 论文在这：https://huggingface.co/papers/2610.08699 项目在这：https://nanom… |
-| 2026-11-02 | [从多个 AI 窗口到一个协作团队：我的 Herdr + SSH 分层架构实践](https://ghyghoo8.github.io/2026/11/03/2026-11-03-%E4%BB%8E%E5%A4%9A%E4%B8%AAAI%E7%AA%97%E5%8F%A3%E5%88%B0%E5%8D%8F%E4%BD%9C%E5%9B%A2%E9%98%9F-Herdr%E4%B8%8ESSH%E5%88%86%E5%B1%82%E6%9E%B6%E6%9E%84%E5%AE%9E%E8%B7%B5/) | 同时让几个 AI 帮忙，最先忙起来的，往往是自己。 一个窗口写代码，一个窗口查资料，另一个窗口检查结果。我们在中间复制需求、补充背景、追问进度，还要记住哪个版本才是最新的。AI 越开越多，自己却越来越像一个消息转发员。 最近，我把这套协作方式重新梳理了一遍： 由 Dot 统一沟通目标，各项目 Lea… |
+| 2026-11-02 | [从多个 AI 窗口到一个协作团队：我的 Herdr + SSH 分层架构实践](https://ghyghoo8.github.io/2026/11/03/2026-11-03-%E4%BB%8E%E5%A4%9A%E4%B8%AAAI%E7%AA%97%E5%8F%A3%E5%88%B0%E5%8D%8F%E4%BD%9C%E5%9B%A2%E9%98%9F-Herdr%E4%B8%8ESSH%E5%88%86%E5%B1%82%E6%9E%B6%E6%9E%84%E5%AE%9E%E8%B7%B5/) | “报名页已经能打开了，演示视频现在可以录吗？”这是个进度问题。最了解页面是否定稿的人是项目负责人；如果 AI 收到问题就重新生成页面，反而多做了一份没人要的工作。 所以，我给多 Agent 团队加了一项分工： 云端Dot 接需求，Mac 协调员找人并跟进，项目负责人作判断，需要动手时才交给 Work… |
 | 2026-11-02 | [R#126 滴————](https://blog.sakanano.moe/journals/random_126) | 2026.10.27 ~ 2026.11.2 |
 | 2026-11-02 | [我的差旅打车法则](https://blog.solazy.me/20261102/) | 最近打车变得多了起来 |
 | 2026-11-02 | [瞎扯谈](http://soap09.cn/articles/2026/11/02/1793627893103.html) |  |
@@ -66,7 +77,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-11-02 | [Gemini Argon 的文学能力太牛](https://versun.me/blog/tweet-2117093426831499284) | Gemini Argon 的文学能力太牛了，2倍 Gemini 3.8 flash，3倍 opus 5.5，毫不夸张 |
 | 2026-11-02 | [周记 3，写代码就像装家具](https://zhangke.space/%e5%91%a8%e8%ae%b0-3%ef%bc%8c%e5%86%99%e4%bb%a3%e7%a0%81%e5%b0%b1%e5%83%8f%e8%a3%85%e5%ae%b6%e5%85%b7/?utm_source=rss&utm_medium=rss&utm_campaign=%25e5%2591%25a8%25e8%25ae%25b0-3%25ef%25bc%258c%25e5%2586%2599%25e4%25bb%25a3%25e7%25a0%2581%25e5%25b0%25b1%25e5%2583%258f%25e8%25a3%2585%25e5%25ae%25b6%25e5%2585%25b7) | 最近两周太忙了，上周都没写周记，忙的原因是因为最近开了个新坑，是一个桌面端的开发者工具，也是因为自己平时工作经 […] The post 周记 3，写代码就像装家具 first appeared on 张可的博客 . |
 | 2026-11-02 | [现在的 Bot/Agent 起手就是一个](https://versun.me/blog/tweet-2117090915265487179) | 现在的 Bot/Agent 起手就是一个聊天框 没人觉得这种交互方式非常低效吗 |
-| 2026-11-02 | [Xash3D FWGS updated](https://macsourceports.com/sourceport/xash3d-fwgs) | The build of Xash3D FWGS for the Half-Life series of games has been updated to the latest code of the project\n\nhttps://macsourceports.com/sourceport… |
 | 2026-11-02 | [年化 15% 的投资组合，每天看一次，赢面只有 53%](https://koukyo.site/posts/observation-frequency-noise/) | 大一开始投资，每天刷支付宝看涨跌，焦虑得不行。看随机游走的傻瓜这本书才意识到，年化15%的稳定组合每天看也有九成噪音 |
 | 2026-11-02 | [乐园](https://mobius.blog/26034.html) | 既然聊到了童年，那就继续聊下去。 另一个有关童年的趣事，其实被我伪装成了一个“观察”。 最近我一直在聊“接手” […] |
 | 2026-11-02 | [最近惦念 20261017](https://z.arlmy.me/posts/TILs/thoughts/20261017_Recently/) | 「娇气点就娇气点。」 |
