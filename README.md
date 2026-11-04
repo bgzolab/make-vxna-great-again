@@ -27,15 +27,21 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-11-04 | [别试图期待人性会给予正反馈](https://mobius.blog/26051.html) | 遛狗时，目睹了两个小男孩的争吵，他们因为一个玩具吵了起来。其中一个大人抱起了自己的孩子，嘴上说着要让着弟弟，但 […] |
+| 2026-11-04 | [AI 彻底改变了程序员这个职业](https://depp.wang/2026/ai-changes-programming/) | 最近有位学计算机的表弟在找实习，跟我说实习生的工作特别不好找。这让我有点感慨，我还是比较幸运，没有在这个时代毕业。如果我现在毕业，我觉得自己一样找不到工作。 我觉得 AI 编程已经彻底改变了程序员这个职业。 现在做开发，很多具体的代码都可以交给 AI 来写了，简单的工作更是如此。程序员自己更多要做的… |
+| 2026-11-03 | [Star Wars: Dark Forces updated](https://macsourceports.com/game/swdf) | The build of The Force Engine for Star Wars: Dark Forces has been updated to version v.1.30.000 of the project |
 | 2026-11-03 | [我为什么更喜欢 BSD 风格的许可证](https://blog.mxdyeah.com/post/why-i-prefer-bsd-licenses) | 最近在整理自己的代码仓库，重新研究了一遍开源许可证。刚好 又想水一篇文章 （不是），谈一下，我为什么更喜欢 BSD 风格的许可证，以及为什么觉得 GPL 是一种“邪恶”。当然我这里没有说 GPL... |
 | 2026-11-03 | [Coffee Break Clojure, Test](https://www.geedea.pro/article/clj9/) | 假设有函数 pair-sum ，把输入的数字划分为两个一对，然后对每个对求和，返回和组成的序列： ( defn pair-sum [ & nums ] ( ->> nums ( partition 2 ) ( map ( partial apply + )))) 系统运行一段时间后有人反馈了 Bug… |
 | 2026-11-03 | [PHP2Shell 漏洞（CVE-2026-109618、CVE-2026-109619）临时缓解记录](https://199604.com/3738) | PHP2Shell 漏洞（CVE-2026-109618、CVE-2026-109619）临时缓解记录 记录时 […] |
+| 2026-11-03 | [经过近一个月的使用，我把 hermes](https://versun.me/blog/tweet-2117618742079484288) | 经过近一个月的使用，我把 hermes 的默认模型，从 gemini 3.8 flash 改回到 opus 5.5 了， gemini 太阿谀奉承了，一点自己的主见没有， 好几次差点坏了事，还是 opus 靠谱，虽然说话难听了点 🤣 |
 | 2026-11-03 | [DeepSeek Super Agent 很热闹，但我认为 AI 已经进入瓶颈期](https://www.tortorse.com/archives/deepseek-super-agent-and-ai-bottleneck/) | DeepSeek Super Agent 很热闹，但我认为 AI 已经进入瓶颈期 |
 | 2026-11-03 | [esp32 mosfet开关模块 冷压端子 正负极接线](https://dsx2016.com/esp32-mosfet-switching-module-cold-pressed-terminals-positive-negative-terminal-wiring/) | 开关模块 ai推荐给我mosfet开关模块，适合频繁开关的5v usb设备 了解到有IRF520模块，MOS管... esp32 mosfet开关模块 冷压端子 正负极接线 最先出现在 大师兄2016 。 |
 | 2026-11-03 | [FreeSpace 2 updated](https://macsourceports.com/game/freespace2) | The build of FreeSpace 2 Source Code Project for FreeSpace 2 has been updated to version 26.2.0 of the project |
 | 2026-11-03 | [Ambermoon updated](https://macsourceports.com/game/ambermoon) | The build of Ambermoon.net for Ambermoon has been updated to version v1.15.0 of the project |
 | 2026-11-03 | [esp32 mosfet开关模块 正负极和电源输入输出](https://dsx2016.com/esp32-mosfet-switch-module-positive-negative-terminals-and-power-input-output/) | 注意事项 不要弄反正负极！！！ 不要弄反电源输入和电源输出！！！ 任何一个反了，都有可能烧毁模块或者引起短路之... esp32 mosfet开关模块 正负极和电源输入输出 最先出现在 大师兄2016 。 |
 | 2026-11-03 | [[译] 如何在一天内改变人生](https://blog.itaober.com/posts/post) | 原文：Dan Koe 《How to fix your entire life in 1 day》 在 X 经常刷到这篇文章的推荐，也收藏了许久，一直都没开始阅读。近期状态有些低迷，体重也没控制住，很多方向都没有想清楚，似乎一切都糟透了。得做些改变啊，就想到了这篇文章。 本文为译文，保留作者的第一人… |
+| 2026-11-03 | [最后还是没开gemini ultra，而](https://versun.me/blog/tweet-2117562356192702909) | Versun 最近 opus 5.5 降智很明显呀。。。。。 准备开 gemini ultra，不知道 argon 和 carbon 的额度耐用不 最后还是没开gemini ultra，而是再开了个claude pro， 因为 opus 编码更稳定可控些， 至于argon，我目前只在jio套餐的网页… |
+| 2026-11-03 | [好玩！！等忙完这段时间我也去！](https://versun.me/blog/tweet-2117559147336253509) | Owen 上周我们在上海办了 Tab 星期四第一期，现场氛围是我自己最想参加的那种聚会，所以想坚持每周都能聚一下！这周四的报名开始了，欢迎来玩！ 活动名字灵感来自浏览器的标签页（Tab），形式有点像线下版的 Hacker News 或 TIL（Today I Learned），人数最多 20 人，要… |
 | 2026-11-03 | [Xash3D FWGS updated](https://macsourceports.com/sourceport/xash3d-fwgs) | The build of Xash3D FWGS for the Half-Life series of games has been updated to the latest code of the project\n\nhttps://macsourceports.com/sourceport… |
 | 2026-11-03 | [第十届网络社会年会（新加坡场）｜何炳胜：面向链上智能的图学习：生命周期追踪、欺诈检测与套利洞察](https://caa-ins.org/archives/13511) | 文 / 何炳胜翻译 / 李易扬校对 / 周蓬岸 听了迪伦和勇刚的演讲后，我感到自己的内容可能技术性过强了，但还是努力确保今天每个人都能有所收获，会尽量把内容讲得更通俗易懂。首先要说明的是，你们可能会问，我为什么会开展这项研究？ 实际上，这项研究早在十年前就开始了，因为我们发现链上数据非常有趣，在我看… |
 | 2026-11-03 | [多卡共享权益包](https://hux.ink/posts/sb-dianxin/) | 上个月无意间在小红书看到一篇帖子，博主分享自己办理了「多卡共享权益包 - 50 GB（2023 春促）」这个套餐包。我去电信资费专区搜了一下，发现确实有，深圳地区 99 元及以上套餐就可以加装。我现在用的是另一款多卡共享权益包，每增加一张副卡只能多 20 GB 流量。现在主副卡一共 5 张，套餐基础… |
@@ -43,14 +49,19 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-11-03 | [减重的段位](https://www.hecaitou.com/2026/11/the-tiers-of-weight-loss.html) | 如果有人上来就跟你说，只吃某种食物，或者只做某种运动，一个月就能减多少斤云云，那这个人在减重领域就是纯废铁级。如果更进一步，甚至宣称无需多少努力就能达成，那这个人会继续下降至铝皮级。 这些方法可能是有效的，但有效期很短，而身体伤害却可能很深远。此外，这些方法在人年轻的时候可能是有效的，等到代谢开始下… |
 | 2026-11-03 | [普鲁斯特问卷 2026](https://z.arlmy.me/posts/Questionnaire/ProustQuestionnaire_2026/) | 「2026 年度普鲁斯特问卷。」 |
 | 2026-11-03 | [青萍空气检测仪改造记：展示 AI 订阅额度](https://liudon.com/posts/qingping-cgs1-ai-quota-display/) | 前言 上一篇 青萍空气检测仪改造记：用 AI 给它加个新页面 把改造流程跑通了，这一篇来讲讲具体的实践：展示 AI 订阅额度。 先上效果图： |
+| 2026-11-03 | [我想买点 claude 和 openai](https://versun.me/blog/tweet-2117459317914026146) | 我想买点 claude 和 openai 的股票，你觉得有必要吗🤡 |
+| 2026-11-03 | [我的第二个 claude 账户，用安卓手](https://versun.me/blog/tweet-2117434214325035480) | 我的第二个 claude 账户，用安卓手机注册账户， 然后 free 套餐养了一周，今天用 google play 付款 pro 弹KYC 用中国护照秒过，目前正常使用 |
 | 2026-11-03 | [Memos: 长期友谊的坚实基础](https://blog.yasking.org/a/1793670397) | 拥有共同珍视的青春年少记忆； 可触及的当下交集与共同话题； 对于今后关系维系和发展的默契与意愿； 反之则是往事不 … |
 | 2026-11-03 | [让座 II](https://mobius.blog/26039.html) | 没错，这个系列还在继续，依旧是在咖啡厅码字的当下，观察到的“不得不停下手中的事情，开始认真记录”的事情。 两个 […] |
 | 2026-11-03 | [【译】如何用一天重整你的整个人生 — Dan Koe](https://moreality.net/posts/27347/) | Dan Koe《How to fix your entire life in 1 day》完整中译：七个关于身份认同、行为改变与目标的想法，以及一天的反思练习。保留英文标题和核心原句对照。 |
+| 2026-11-03 | [刚刚回顾了之前收集的各种 OpenCla](https://versun.me/blog/tweet-2117425682980671727) | 刚刚回顾了之前收集的各种 OpenClaw 的变体项目 发现好多当初看好的项目基本都不更新了 比如当初最寄予厚望的 spacebot，最后一次发版是6个月前 mimiclaw，8个月前 tinyagi，8个月前 zeptoclaw，7个月前 ironclaw，2个月前 nanoclaw，1个月前 m… |
 | 2026-11-03 | [我对批判性思维的理解](https://depp.wang/2026/critical-thinking/) | 以前听过苏德超在一席的演讲 《咱们食堂的菜不好吃》 ，讲的是批判性思考。听完以后，一直想写一下自己对批判性思维的理解，但一直没有动笔，今天终于写了。 最开始，我觉得批判性思维可能更接近辩证性思维，看一个事情不能只看一面。不过，顺着演讲里的例子拆下来，我对批判性思维慢慢有了更具体的理解。 比如别人说了… |
 | 2026-11-03 | [Memos #2026-11-02](https://blog.itaober.com/memos/memo_20261102013435_lzys9z) | 09:37 任何嘉宾来，都会被得体的风格带偏。 21:02 正好今天学到一个新词： Status Game（地位游戏） ，指围绕社会地位、排名和声望展开的竞争与博弈。 身处社会之中，似乎很难完全摆脱对名利的追逐、对他人的比较，以及对外界认可的渴望。结合近期身边人的一些状态，也有了些感触。 人在社会，… |
 | 2026-11-03 | [购入一副新耳机](https://blog.chen-di.com/archive/gou-ru-yi-fu-xin-er-ji/) | 新买的耳机使用体验还不错，虽然价格便宜，但音质和舒适度都让我满意。 |
 | 2026-11-02 | [浙大这是要步港大的后尘吗 扒了下代码，移](https://versun.me/blog/tweet-2117389058901254646) | meng shao 浙大团队发表了一份开源个人 Agent 系统报告，以 Meta Muse 为对照，定义「个人 Agent」该长什么样，还开源了他们的 nanoMuse 论文在这：https://huggingface.co/papers/2610.08699 项目在这：https://nanom… |
 | 2026-11-02 | [从多个 AI 窗口到一个协作团队：我的 Herdr + SSH 分层架构实践](https://ghyghoo8.github.io/2026/11/03/2026-11-03-%E4%BB%8E%E5%A4%9A%E4%B8%AAAI%E7%AA%97%E5%8F%A3%E5%88%B0%E5%8D%8F%E4%BD%9C%E5%9B%A2%E9%98%9F-Herdr%E4%B8%8ESSH%E5%88%86%E5%B1%82%E6%9E%B6%E6%9E%84%E5%AE%9E%E8%B7%B5/) | “报名页已经能打开了，演示视频现在可以录吗？”这是个进度问题。最了解页面是否定稿的人是项目负责人；如果 AI 收到问题就重新生成页面，反而多做了一份没人要的工作。 所以，我给多 Agent 团队加了一项分工： 云端Dot 接需求，Mac 协调员找人并跟进，项目负责人作判断，需要动手时才交给 Work… |
+| 2026-11-02 | [AI 早报 2026-11-03：Anthropic 修订招股书：未来模型或很快达到其 AI 研发加速阈值](https://www.jtxyh.com/daily/2026-11-03/) | 2026-11-03 AI 早报，共 12 条动态。Anthropic 11 月 2 日提交的修订版招股书称，用 AI 加速研发可能使模型能力进步快于安全、对齐和安保措施的跟进。11 月 2 日，美团发布面向长程智能体任务的原生多模态模型 LongCat-2.5，总参数 1.6 万亿，每个 toke… |
+| 2026-11-02 | [AI in the content ecosystem](https://blog.bensontech.dev/posts/AI-in-content-ecosystem/) | AI will have a huge impact on the content ecosystem. In fact, it already has Media Look back at the IT revolution on the content ecosystem. Before the… |
 | 2026-11-02 | [R#126 滴————](https://blog.sakanano.moe/journals/random_126) | 2026.10.27 ~ 2026.11.2 |
 | 2026-11-02 | [我的差旅打车法则](https://blog.solazy.me/20261102/) | 最近打车变得多了起来 |
 | 2026-11-02 | [瞎扯谈](http://soap09.cn/articles/2026/11/02/1793627893103.html) |  |
@@ -200,21 +211,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-10-28 | [Linveo 2026 年英特尔 VPS 促销](https://www.cheshirex.com/11532.html) | 之前博主发过 Linveo 相关的活动，自己也用过几台VPS。使用体验不错，当时跑挖矿脚本一直高占用资源没出现 […] |
 | 2026-10-28 | [双向奔赴的厌恶](https://mobius.blog/26006.html) | 我很相信动物直觉的，比如在狗公园时，特别是当我很厌烦一只狗时，多半也会因此厌烦这个狗的狗主人。而且狗本身也可以 […] |
 | 2026-10-28 | [三亚之旅](https://www.iarthit.com/posts/2026/10/28/%E4%B8%89%E4%BA%9A%E4%B9%8B%E6%97%85.html) | 旅行和一位女性朋友一起去三亚玩了5天，下面是我自己做的攻略，大家可以做参考。一共花费大概6000左右 |
-| 2026-10-27 | [复制 DerivedData 根本没用：用 worktree 池让 Xcode 告别冷编译](https://blog.tomyail.com/ios-git-worktree-xcode-deriveddata-optimization/) | 我让多个 AI Agent 各用一个 Git Worktree 开发 iOS 项目，结果 Xcode 的 DerivedData 占了 94 GB，每个新目录都要冷编译。记录我试过的三种做法：DerivedData 放进项目、用 Worktrunk 复制缓存、固定几个 worktree 换分支。最后… |
-| 2026-10-27 | [AI 早报 2026-10-28：Circuit Mind 推出电路验证智能体 AVE，披露合计 2500 万美元融资](https://www.jtxyh.com/daily/2026-10-28/) | 2026-10-28 AI 早报，共 24 条动态。Circuit Mind 于 10 月 28 日推出 AVE，使用 AI 智能体对照元件数据手册与企业设计规则检查电路设计。达索系统10月28日宣布，将 ArisGlobal 与 BIOVIA、MEDIDATA 整合，建设连接药物研发与患者结果的… |
-| 2026-10-27 | [HY2协议部署](https://elmagnifico.tech/2026/10/28/HY2/) | Foreword 前面选择了HY2，这里部署测试一下效果，看看是不是能扛过封锁，能在接下来的日子里继续用2年。 Sing-box 还是先用233boy的脚本，用了这么久有感情了 bash sing-box script v1.0 by 233boy Usage: sing-box [options]… |
-| 2026-10-27 | [用 DashPlayer 看美剧学英语](https://depp.wang/2026/dashplayer/) | 最近在用 DashPlayer 看《绝命毒师》学英语，体验下来觉得还可以，推荐给也想用本地视频、音频学英语的朋友。软件开源免费，可以控制字幕显示，也方便反复听一句台词。 它支持 Windows 和 Mac，我自己用的是 Mac，下面就按我在 Mac 上的使用方式来写。 先到 官方下载页面 ，展开 A… |
-| 2026-10-27 | [那些偷偷变瘦的人](https://blog.solazy.me/20261027/) | 这两天刷手机，连续看到好几个以前以「丰满」或者「微胖」作为个人标签的明星，在短短两三个月内迅速瘦脱了相。 如果你平时稍微留心过体态管理，一眼就能看出这种瘦法不对劲。真正靠有氧和力量训练一点点减下来的人，皮肉是紧致的，气色也撑得住；但这批突然瘦下来的明星，往往伴随着极其明显的面部松弛，法令纹和脸颊上的… |
-| 2026-10-27 | [Memos: 土木工程专业’冷‘到如此](https://blog.yasking.org/a/1793099535) | 这周末参加好友婚礼，聊起土木工程。某排名靠前的985高校，土木专业今年本科只招了 8 个人，早些年却有一百大几十、接近两百 … |
-| 2026-10-27 | [When the Namespace Dropdown in the Argo Rollouts Dashboard Disappeared](https://www.bboy.app/2026/10/27/when-the-namespace-dropdown-in-the-argo-rollouts-dashboard-disappeared/) | Introduction In the Argo Rollouts dashboard, the NAMESPACE field had turned from a dropdown into a disabled input box. All I could see was the default… |
-| 2026-10-27 | [记一次ArgoRollouts Dashboard的namespace下拉框消失](https://www.bboy.app/2026/10/27/%E8%AE%B0%E4%B8%80%E6%AC%A1argorollouts-dashboard%E7%9A%84namespace%E4%B8%8B%E6%8B%89%E6%A1%86%E6%B6%88%E5%A4%B1/) | 简介 Argo Rollouts 的 Dashboard 页面里，NAMESPACE 那个位置从下拉框变成了一个禁用的输入框，只能看到默认的 namespace，没法切到别的地方看 rollout。翻源码、查权限、开调试日志折腾了一圈，最后发现凶手是一个 rollout 的资源字段写错了类型，导致整… |
-| 2026-10-27 | [一个 nmem 实例给家里多人用、互相隔](https://versun.me/blog/tweet-2114982211581853959) | 一个 nmem 实例给家里多人用、互相隔离，目前有没有推荐的做法呀，按 space 隔离的话，没办法关掉 owner 的资料，还是会有污染的情况，或许每个 space 配自己的 Owner 资料是不是会更好些 @wey_gu |
-| 2026-10-27 | [谁说普通人了](https://www.hecaitou.com/2026/10/who-said-anything-about-ordinary-people.html) | 我说网络上充斥着 AI 写的文章，有人看到之后说：和菜头三个月前还支持 AI 辅助创作文章，没想到三个月之后态度就 180° 大反转。 看，这就是个很好的例子，有 AI 没 AI，阅读理解能力救不了就是救不了。 很多人想写文章，要写文章，但是写不出来，用 AI 帮忙这种事情，我为什么不支持？很多人那… |
-| 2026-10-27 | [赴美的前前后后](https://www.jackpu.com/fu-mei-de-qian-qian-hou-hou/) | 在经历了 《大事件》 后没多久，自己收到了赴美的邀约。 这个大概是人生最为纠结但却无关得失的事情，如同此时此刻，我觉得裁员再一次发生也是一件有失有得的事情。后续可以写一些较为详细的篇章来阐述一些细节，今天还是按照时间线写写前前后后发生的事情。 起点 在 《大事件》 篇章后，自己没过多久收到赴美的工作… |
-| 2026-10-27 | [程序会导致双标？](https://mobius.blog/26002.html) | 何为程序？就比如最近闹得沸沸扬扬的“星巴克取消第三空间”的话题——星巴克开始取消原本对外公开开放的免费第三空间 […] |
-| 2026-10-27 | [OpenAI 到底在干嘛？ 2026下半](https://versun.me/blog/tweet-2114886286582657444) | OpenAI GPT-6.1 Terra: delivering fast and capable computer use at a lower price. GPT-6.1 Terra understands what’s on screen, takes action across apps,… |
-| 2026-10-27 | [2026年Spaceship 优惠码](https://www.evan.xin/5133/) | 2026 年 10 月目前可用的 Spaceship 优惠码（域名为准，第三方网站整理的代码可能在个别地区失效 […] |
-| 2026-10-27 | [Memos #2026-10-26](https://blog.itaober.com/memos/memo_20261026151853_mlotcf) | 23:20 沐上树梢融入得很好，听感和谐。 本期最佳梗：粉都不是南宁，是墨西哥！ |
 
 ## Vibe Coding
 

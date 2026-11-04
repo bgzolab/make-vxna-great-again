@@ -1,0 +1,478 @@
+[
+  {
+    "title": "别试图期待人性会给予正反馈",
+    "url": "https://mobius.blog/26051.html",
+    "date": "2026-11-04T01:30:00Z",
+    "description": "遛狗时，目睹了两个小男孩的争吵，他们因为一个玩具吵了起来。其中一个大人抱起了自己的孩子，嘴上说着要让着弟弟，但 […]",
+    "source_root_domain": "mobius.blog"
+  },
+  {
+    "title": "AI 彻底改变了程序员这个职业",
+    "url": "https://depp.wang/2026/ai-changes-programming/",
+    "date": "2026-11-04T00:05:31Z",
+    "description": "最近有位学计算机的表弟在找实习，跟我说实习生的工作特别不好找。这让我有点感慨，我还是比较幸运，没有在这个时代毕业。如果我现在毕业，我觉得自己一样找不到工作。 我觉得 AI 编程已经彻底改变了程序员这个职业。 现在做开发，很多具体的代码都可以交给 AI 来写了，简单的工作更是如此。程序员自己更多要做的是，确保方案没有问题，跟别人沟通方案，再把实现推进下去。工作正在越来越多地转向面向人，理解业务、沟通和推进占的分量越来越大。",
+    "source_root_domain": "depp.wang"
+  },
+  {
+    "title": "Star Wars: Dark Forces updated",
+    "url": "https://macsourceports.com/game/swdf",
+    "date": "2026-11-03T21:11:44Z",
+    "description": "The build of The Force Engine for Star Wars: Dark Forces has been updated to version v.1.30.000 of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "我为什么更喜欢 BSD 风格的许可证",
+    "url": "https://blog.mxdyeah.com/post/why-i-prefer-bsd-licenses",
+    "date": "2026-11-03T18:20:00Z",
+    "description": "最近在整理自己的代码仓库，重新研究了一遍开源许可证。刚好 又想水一篇文章 （不是），谈一下，我为什么更喜欢 BSD 风格的许可证，以及为什么觉得 GPL 是一种“邪恶”。当然我这里没有说 GPL...",
+    "source_root_domain": "mxdyeah.com"
+  },
+  {
+    "title": "Coffee Break Clojure, Test",
+    "url": "https://www.geedea.pro/article/clj9/",
+    "date": "2026-11-03T15:58:29Z",
+    "description": "假设有函数 pair-sum ，把输入的数字划分为两个一对，然后对每个对求和，返回和组成的序列： ( defn pair-sum [ & nums ] ( ->> nums ( partition 2 ) ( map ( partial apply + )))) 系统运行一段时间后有人反馈了 Bug，复现方式如下： ( pair-sum 3 2 1 4 5 3 5 ) ;; => (5 5 8) 输入上述用例，函数只返回了前六个数字组成的三个对的和，最后一个 5 被丢弃了。经过判断，这的确是个 Bug，解决方案是让落单的输入单独作为和返回。 你当然可以修完 Bug 之后一走了之，但试想一下：之后的贡献者在看到这段代码的时候，会不会对「落单的输入怎么处理」这件事情产生不同的想法？他会不会认为修复后的版本反而是个 Bug？ 当然可以在文档和 Issues 里留档，但不是所有人都会把所有文档资料扫一遍再改代码的，忽略注释也没有代价。有没有办法让代码的行为被修改之后，就立刻报错提醒修改者「这里不该这么改」？ Testing, Testing, 1, 2, 3 标准库 clojure.test ",
+    "source_root_domain": "geedea.pro"
+  },
+  {
+    "title": "PHP2Shell 漏洞（CVE-2026-109618、CVE-2026-109619）临时缓解记录",
+    "url": "https://199604.com/3738",
+    "date": "2026-11-03T14:51:43Z",
+    "description": "PHP2Shell 漏洞（CVE-2026-109618、CVE-2026-109619）临时缓解记录 记录时 […]",
+    "source_root_domain": "199604.com"
+  },
+  {
+    "title": "经过近一个月的使用，我把 hermes",
+    "url": "https://versun.me/blog/tweet-2117618742079484288",
+    "date": "2026-11-03T14:03:46Z",
+    "description": "经过近一个月的使用，我把 hermes 的默认模型，从 gemini 3.8 flash 改回到 opus 5.5 了， gemini 太阿谀奉承了，一点自己的主见没有， 好几次差点坏了事，还是 opus 靠谱，虽然说话难听了点 🤣",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "DeepSeek Super Agent 很热闹，但我认为 AI 已经进入瓶颈期",
+    "url": "https://www.tortorse.com/archives/deepseek-super-agent-and-ai-bottleneck/",
+    "date": "2026-11-03T13:56:19Z",
+    "description": "DeepSeek Super Agent 很热闹，但我认为 AI 已经进入瓶颈期",
+    "source_root_domain": "tortorse.com"
+  },
+  {
+    "title": "esp32 mosfet开关模块 冷压端子 正负极接线",
+    "url": "https://dsx2016.com/esp32-mosfet-switching-module-cold-pressed-terminals-positive-negative-terminal-wiring/",
+    "date": "2026-11-03T13:22:48Z",
+    "description": "开关模块 ai推荐给我mosfet开关模块，适合频繁开关的5v usb设备 了解到有IRF520模块，MOS管... esp32 mosfet开关模块 冷压端子 正负极接线 最先出现在 大师兄2016 。",
+    "source_root_domain": "dsx2016.com"
+  },
+  {
+    "title": "FreeSpace 2 updated",
+    "url": "https://macsourceports.com/game/freespace2",
+    "date": "2026-11-03T12:00:43Z",
+    "description": "The build of FreeSpace 2 Source Code Project for FreeSpace 2 has been updated to version 26.2.0 of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "Ambermoon updated",
+    "url": "https://macsourceports.com/game/ambermoon",
+    "date": "2026-11-03T12:00:42Z",
+    "description": "The build of Ambermoon.net for Ambermoon has been updated to version v1.15.0 of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "esp32 mosfet开关模块 正负极和电源输入输出",
+    "url": "https://dsx2016.com/esp32-mosfet-switch-module-positive-negative-terminals-and-power-input-output/",
+    "date": "2026-11-03T11:41:35Z",
+    "description": "注意事项 不要弄反正负极！！！ 不要弄反电源输入和电源输出！！！ 任何一个反了，都有可能烧毁模块或者引起短路之... esp32 mosfet开关模块 正负极和电源输入输出 最先出现在 大师兄2016 。",
+    "source_root_domain": "dsx2016.com"
+  },
+  {
+    "title": "[译] 如何在一天内改变人生",
+    "url": "https://blog.itaober.com/posts/post",
+    "date": "2026-11-03T11:38:57Z",
+    "description": "原文：Dan Koe 《How to fix your entire life in 1 day》 在 X 经常刷到这篇文章的推荐，也收藏了许久，一直都没开始阅读。近期状态有些低迷，体重也没控制住，很多方向都没有想清楚，似乎一切都糟透了。得做些改变啊，就想到了这篇文章。 本文为译文，保留作者的第一人称，表达上做了些微调整。 如果你跟我有点像，大概也觉得新年计划这东西挺没意思的。 因为大多数人从一开始，就用错了改变生活的方法。别人都在立新年计划，自己也跟着立，仿佛这样就有了某种意义。说到底，还是在跟别人比较，想证明点什么。但真正的改变，远不止告诉自己「今年要更自律、更高效」这么简单。 如果你也是这样，我并不是想批评你。我写东西有时候会有点刻薄，但我放弃过的目标，比真正完成的多十倍。我觉得大多数人都是如此。只是，人们一次次想改变生活，最后又几乎一次次失败，这也是事实。 虽然我觉得新年计划没什么意思，但认真想想自己到底讨厌现在生活的哪些部分，再朝着更好的方向走，总归是值得的。后面我们会聊到。 不管你是想创业、改善身材，还是想冒点险，过一种更有意义的生活，我都希望你能坚持下去，别过两周就放弃。",
+    "source_root_domain": "itaober.com"
+  },
+  {
+    "title": "最后还是没开gemini ultra，而",
+    "url": "https://versun.me/blog/tweet-2117562356192702909",
+    "date": "2026-11-03T10:19:42Z",
+    "description": "Versun 最近 opus 5.5 降智很明显呀。。。。。 准备开 gemini ultra，不知道 argon 和 carbon 的额度耐用不 最后还是没开gemini ultra，而是再开了个claude pro， 因为 opus 编码更稳定可控些， 至于argon，我目前只在jio套餐的网页上用，润色文章，探讨想法啥的",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "好玩！！等忙完这段时间我也去！",
+    "url": "https://versun.me/blog/tweet-2117559147336253509",
+    "date": "2026-11-03T10:06:57Z",
+    "description": "Owen 上周我们在上海办了 Tab 星期四第一期，现场氛围是我自己最想参加的那种聚会，所以想坚持每周都能聚一下！这周四的报名开始了，欢迎来玩！ 活动名字灵感来自浏览器的标签页（Tab），形式有点像线下版的 Hacker News 或 TIL（Today I Learned），人数最多 20 人，要求每人都要做一个简短的分享。 好玩！！等忙完这段时间我也去！",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "Xash3D FWGS updated",
+    "url": "https://macsourceports.com/sourceport/xash3d-fwgs",
+    "date": "2026-11-03T09:05:37Z",
+    "description": "The build of Xash3D FWGS for the Half-Life series of games has been updated to the latest code of the project\\n\\nhttps://macsourceports.com/sourceport/xash3d-fwgs\\n\\n#macgaming #retrogaming #macOS #xash3d-fwgs #gaming #apple #m1 #m2 #m3 #applesilicon\\n\\n",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "第十届网络社会年会（新加坡场）｜何炳胜：面向链上智能的图学习：生命周期追踪、欺诈检测与套利洞察",
+    "url": "https://caa-ins.org/archives/13511",
+    "date": "2026-11-03T08:01:29Z",
+    "description": "文 / 何炳胜翻译 / 李易扬校对 / 周蓬岸 听了迪伦和勇刚的演讲后，我感到自己的内容可能技术性过强了，但还是努力确保今天每个人都能有所收获，会尽量把内容讲得更通俗易懂。首先要说明的是，你们可能会问，我为什么会开展这项研究？ 实际上，这项研究早在十年前就开始了，因为我们发现链上数据非常有趣，在我看来，不同钱包之间、不同用户之间的所有交互都可以在链上找到。但问题在于，当数据量如此庞大，包括交互、交易、兑换，以及不同的项目时，您可以想想看，CoinMarketCap上究竟有多少种加密货币？我认为，它们的总量超过了10000种。这是一个充满活力的生态系统，拥有大量可供分析的数据。 我们对不同用户之间的交互尤其感兴趣，也想明白每个项目，或每种加密货币是如何随着时间推移而演变的。一个项目何时会蓬勃发展，何时走向成熟，何时会走向衰落？这都是我们尝试去理解的内容。 当我们查看数据时，便能够发现这类现象，因为这正是 Web3 项目的本质所在，所以我想，自己无需解释它们产生的原因。总体上，我们用一种名为“图”（graph）的数据结构来捕捉不同用户、不同钱包之间的关系。在计算机领域，“图”是一种非常标准",
+    "source_root_domain": "caa-ins.org"
+  },
+  {
+    "title": "多卡共享权益包",
+    "url": "https://hux.ink/posts/sb-dianxin/",
+    "date": "2026-11-03T07:51:03Z",
+    "description": "上个月无意间在小红书看到一篇帖子，博主分享自己办理了「多卡共享权益包 - 50 GB（2023 春促）」这个套餐包。我去电信资费专区搜了一下，发现确实有，深圳地区 99 元及以上套餐就可以加装。我现在用的是另一款多卡共享权益包，每增加一张副卡只能多 20 GB 流量。现在主副卡一共 5 张，套餐基础流量 60 GB 加 4 张副卡累积多 80 GB，总共是 140 GB 流量，家里四个人一起用，苦流量不够用久矣。而这个新的权益包，每张副卡可以增加 50 GB，如果能换过去，每个月就可以多出 120 GB 流量。 于是我打了 10000 号，说想把现在的多卡共享权益包切换成这一款。线上客服查了一下，确认确实有这个权益包，但告诉我不符合办理条件，说这个权益包不能单独加装，只能随营销活动办理，如果要改，就需要连主套餐一起变更。我说别人都已经改成功了，为什么我这里不能改？客服说帮我登记反馈，24 小时内会有工作人员回电。 几个小时后，电信的人打电话过来，来来回回还是那些车轱辘话，核心就是不能单独办理。我说那我要去投诉，他说他就是投诉的回电，问我还要上哪投诉，我说你管我。 线上办理这条路基本算是",
+    "source_root_domain": "hux.ink"
+  },
+  {
+    "title": "esp32：如何把2.54mm杜邦线针脚剥线",
+    "url": "https://dsx2016.com/how-to-strip-the-insulation-from-2-54mm-dupont-connector-pins-for-an-esp32/",
+    "date": "2026-11-03T07:46:25Z",
+    "description": "继电器或者焊接 一般esp32上面的排针和针脚是使用2.54mm的杜邦线，对应的传感器模块也是 比杜邦线更方便... esp32：如何把2.54mm杜邦线针脚剥线 最先出现在 大师兄2016 。",
+    "source_root_domain": "dsx2016.com"
+  },
+  {
+    "title": "减重的段位",
+    "url": "https://www.hecaitou.com/2026/11/the-tiers-of-weight-loss.html",
+    "date": "2026-11-03T04:58:21Z",
+    "description": "如果有人上来就跟你说，只吃某种食物，或者只做某种运动，一个月就能减多少斤云云，那这个人在减重领域就是纯废铁级。如果更进一步，甚至宣称无需多少努力就能达成，那这个人会继续下降至铝皮级。 这些方法可能是有效的，但有效期很短，而身体伤害却可能很深远。此外，这些方法在人年轻的时候可能是有效的，等到代谢开始下降就不灵了。但它们也是最受人们欢迎的，因为人们最喜欢简单轻松的方案，要竭力避免辛苦，避免思考。 如果有人对你说需要制定个锻炼计划，制定个饮食计划，严格执行三个月试试看，那这个人可以算是青铜级。他起码知道不存在简单方案，知道真正做到需要调整饮食结构，需要安排日常锻炼。在这个段位，已经有一些理论出现，比如说著名的「热量缺口理论」，人要看着卡路里吃，看着卡路里锻炼。 这些方法肯定是有效的，问题在于很难坚持。计划这种东西，制定出来最容易得到的结果就是放弃。人自身很复杂，短期执行计划是可以的，但是长期维系下去需要别的理由。 如果有人对你说别想太多，一切都围绕你容易做到，乐于去做这两点，试出适合你的锻炼方式、频次、强度，找出你喜欢的膳食搭配，兼顾热量、营养和口感，那么这个人应该是白银级。而且他还多半会补",
+    "source_root_domain": "hecaitou.com"
+  },
+  {
+    "title": "普鲁斯特问卷 2026",
+    "url": "https://z.arlmy.me/posts/Questionnaire/ProustQuestionnaire_2026/",
+    "date": "2026-11-03T04:25:09Z",
+    "description": "「2026 年度普鲁斯特问卷。」",
+    "source_root_domain": "arlmy.me"
+  },
+  {
+    "title": "青萍空气检测仪改造记：展示 AI 订阅额度",
+    "url": "https://liudon.com/posts/qingping-cgs1-ai-quota-display/",
+    "date": "2026-11-03T04:00:00Z",
+    "description": "前言 上一篇 青萍空气检测仪改造记：用 AI 给它加个新页面 把改造流程跑通了，这一篇来讲讲具体的实践：展示 AI 订阅额度。 先上效果图：",
+    "source_root_domain": "liudon.com"
+  },
+  {
+    "title": "我想买点 claude 和 openai",
+    "url": "https://versun.me/blog/tweet-2117459317914026146",
+    "date": "2026-11-03T03:30:16Z",
+    "description": "我想买点 claude 和 openai 的股票，你觉得有必要吗🤡",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "我的第二个 claude 账户，用安卓手",
+    "url": "https://versun.me/blog/tweet-2117434214325035480",
+    "date": "2026-11-03T01:50:31Z",
+    "description": "我的第二个 claude 账户，用安卓手机注册账户， 然后 free 套餐养了一周，今天用 google play 付款 pro 弹KYC 用中国护照秒过，目前正常使用",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "Memos: 长期友谊的坚实基础",
+    "url": "https://blog.yasking.org/a/1793670397",
+    "date": "2026-11-03T01:46:37Z",
+    "description": "拥有共同珍视的青春年少记忆； 可触及的当下交集与共同话题； 对于今后关系维系和发展的默契与意愿； 反之则是往事不 …",
+    "source_root_domain": "yasking.org"
+  },
+  {
+    "title": "让座 II",
+    "url": "https://mobius.blog/26039.html",
+    "date": "2026-11-03T01:30:00Z",
+    "description": "没错，这个系列还在继续，依旧是在咖啡厅码字的当下，观察到的“不得不停下手中的事情，开始认真记录”的事情。 两个 […]",
+    "source_root_domain": "mobius.blog"
+  },
+  {
+    "title": "【译】如何用一天重整你的整个人生 — Dan Koe",
+    "url": "https://moreality.net/posts/27347/",
+    "date": "2026-11-03T01:18:00Z",
+    "description": "Dan Koe《How to fix your entire life in 1 day》完整中译：七个关于身份认同、行为改变与目标的想法，以及一天的反思练习。保留英文标题和核心原句对照。",
+    "source_root_domain": "moreality.net"
+  },
+  {
+    "title": "刚刚回顾了之前收集的各种 OpenCla",
+    "url": "https://versun.me/blog/tweet-2117425682980671727",
+    "date": "2026-11-03T01:16:37Z",
+    "description": "刚刚回顾了之前收集的各种 OpenClaw 的变体项目 发现好多当初看好的项目基本都不更新了 比如当初最寄予厚望的 spacebot，最后一次发版是6个月前 mimiclaw，8个月前 tinyagi，8个月前 zeptoclaw，7个月前 ironclaw，2个月前 nanoclaw，1个月前 moltis，上周 zeroclaw，上周 nanobot，上周 agent-zero，昨天 openclaw，4天前",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "我对批判性思维的理解",
+    "url": "https://depp.wang/2026/critical-thinking/",
+    "date": "2026-11-03T00:17:01Z",
+    "description": "以前听过苏德超在一席的演讲 《咱们食堂的菜不好吃》 ，讲的是批判性思考。听完以后，一直想写一下自己对批判性思维的理解，但一直没有动笔，今天终于写了。 最开始，我觉得批判性思维可能更接近辩证性思维，看一个事情不能只看一面。不过，顺着演讲里的例子拆下来，我对批判性思维慢慢有了更具体的理解。 比如别人说了一句话，我怎么判断这句话有没有道理？自己有了一个想法，又怎么知道这个想法是否合理？ 演讲里讲了一种比较简单的方法，叫批判性思考的「三板斧」：问题、立场、支持。 我更习惯把它理解成「问题、答案、理由」 ，这样对我来说更直白一点。就是说，他在回答什么问题，他给出的答案是什么，他凭什么这么说。",
+    "source_root_domain": "depp.wang"
+  },
+  {
+    "title": "Memos #2026-11-02",
+    "url": "https://blog.itaober.com/memos/memo_20261102013435_lzys9z",
+    "date": "2026-11-03T00:00:00Z",
+    "description": "09:37 任何嘉宾来，都会被得体的风格带偏。 21:02 正好今天学到一个新词： Status Game（地位游戏） ，指围绕社会地位、排名和声望展开的竞争与博弈。 身处社会之中，似乎很难完全摆脱对名利的追逐、对他人的比较，以及对外界认可的渴望。结合近期身边人的一些状态，也有了些感触。 人在社会，身不由己，能做好自己已是难得。",
+    "source_root_domain": "itaober.com"
+  },
+  {
+    "title": "购入一副新耳机",
+    "url": "https://blog.chen-di.com/archive/gou-ru-yi-fu-xin-er-ji/",
+    "date": "2026-11-03T00:00:00Z",
+    "description": "新买的耳机使用体验还不错，虽然价格便宜，但音质和舒适度都让我满意。",
+    "source_root_domain": "chen-di.com"
+  },
+  {
+    "title": "浙大这是要步港大的后尘吗 扒了下代码，移",
+    "url": "https://versun.me/blog/tweet-2117389058901254646",
+    "date": "2026-11-02T22:51:05Z",
+    "description": "meng shao 浙大团队发表了一份开源个人 Agent 系统报告，以 Meta Muse 为对照，定义「个人 Agent」该长什么样，还开源了他们的 nanoMuse 论文在这：https://huggingface.co/papers/2610.08699 项目在这：https://nanomuse.cn/ 浙大这是要步港大的后尘吗 扒了下代码，移动端套了 OpenMinis 的壳，桌面端套了 Deepseek harness 的壳，computer use 用的字节的 tars desktop 然后就号称 划时代全平台个人 Agent？？？？ 呵呵，谁用谁傻逼",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "从多个 AI 窗口到一个协作团队：我的 Herdr + SSH 分层架构实践",
+    "url": "https://ghyghoo8.github.io/2026/11/03/2026-11-03-%E4%BB%8E%E5%A4%9A%E4%B8%AAAI%E7%AA%97%E5%8F%A3%E5%88%B0%E5%8D%8F%E4%BD%9C%E5%9B%A2%E9%98%9F-Herdr%E4%B8%8ESSH%E5%88%86%E5%B1%82%E6%9E%B6%E6%9E%84%E5%AE%9E%E8%B7%B5/",
+    "date": "2026-11-02T16:00:00Z",
+    "description": "“报名页已经能打开了，演示视频现在可以录吗？”这是个进度问题。最了解页面是否定稿的人是项目负责人；如果 AI 收到问题就重新生成页面，反而多做了一份没人要的工作。 所以，我给多 Agent 团队加了一项分工： 云端Dot 接需求，Mac 协调员找人并跟进，项目负责人作判断，需要动手时才交给 Worker（执行者）。",
+    "source_root_domain": "ghyghoo8.github.io"
+  },
+  {
+    "title": "AI 早报 2026-11-03：Anthropic 修订招股书：未来模型或很快达到其 AI 研发加速阈值",
+    "url": "https://www.jtxyh.com/daily/2026-11-03/",
+    "date": "2026-11-02T16:00:00Z",
+    "description": "2026-11-03 AI 早报，共 12 条动态。Anthropic 11 月 2 日提交的修订版招股书称，用 AI 加速研发可能使模型能力进步快于安全、对齐和安保措施的跟进。11 月 2 日，美团发布面向长程智能体任务的原生多模态模型 LongCat-2.5，总参数 1.6 万亿，每个 token 激活约…",
+    "source_root_domain": "jtxyh.com"
+  },
+  {
+    "title": "AI in the content ecosystem",
+    "url": "https://blog.bensontech.dev/posts/AI-in-content-ecosystem/",
+    "date": "2026-11-02T16:00:00Z",
+    "description": "AI will have a huge impact on the content ecosystem. In fact, it already has Media Look back at the IT revolution on the content ecosystem. Before the personal computer was invented and became popular, we only read books and magazine produced by professional writers and editors. With the social media platforms in IT era, we also absorb lots of information generated from common users. This information are not formal and accurate enough, but it’s the essential part of all content we get everyday. ",
+    "source_root_domain": "informal.top"
+  },
+  {
+    "title": "R#126 滴————",
+    "url": "https://blog.sakanano.moe/journals/random_126",
+    "date": "2026-11-02T15:50:00Z",
+    "description": "2026.10.27 ~ 2026.11.2",
+    "source_root_domain": "sakanano.moe"
+  },
+  {
+    "title": "我的差旅打车法则",
+    "url": "https://blog.solazy.me/20261102/",
+    "date": "2026-11-02T15:00:00Z",
+    "description": "最近打车变得多了起来",
+    "source_root_domain": "solazy.me"
+  },
+  {
+    "title": "瞎扯谈",
+    "url": "http://soap09.cn/articles/2026/11/02/1793627893103.html",
+    "date": "2026-11-02T13:58:13Z",
+    "description": "",
+    "source_root_domain": "soap09.cn"
+  },
+  {
+    "title": "Total Annihilation updated",
+    "url": "https://macsourceports.com/game/totalannihilation",
+    "date": "2026-11-02T12:01:54Z",
+    "description": "The build of Open Annihilation for Total Annihilation has been updated to version v0.8.14 of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "好，这就去重新下载，记不清这是我第几次重",
+    "url": "https://versun.me/blog/tweet-2117220385947279712",
+    "date": "2026-11-02T11:40:50Z",
+    "description": "yetone 第一轮测试，我就是将原推里的屏幕截图分别给了它们，让它们找到该壁纸的最高清版本，结果如下（图片也按文字的顺序展示各个 Agent 的结果）： 1. Grok bot：用最快的速度找到了推特上的原图，但大小只有 736×736，直接返回给我结束了。 2. Muse：找了好久好久，翻了很多网页让我确认了很多 permission 之后最终还是返回那张 736×736 的图片。并且它表示它其实知道网上有一张 1024x1024 的图片，但实在是下载不下来。 3. Cue：直接没找到，放弃了。甚至还怪 好，这就去重新下载，记不清这是我第几次重新下载 alma 了😂",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "红果是不是来推做推广了，我都卸载好久了，",
+    "url": "https://versun.me/blog/tweet-2117219191476420657",
+    "date": "2026-11-02T11:36:05Z",
+    "description": "yihong0618 如果只推荐一个短剧我也推荐《拉黑遇真爱》 https://twitter.com/xuanwo/status/2116861654843740282 红果是不是来推做推广了，我都卸载好久了，今天又下载回来了，脑洞真大！好看",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "esp32 cyd mosfet开关模块 结合home assistant 云养鱼 油管无人直播",
+    "url": "https://dsx2016.com/esp32-cyd-mosfet-switching-module-integrated-with-home-assistant-for-remote-fish-keeping-and-automated-youtube-live-streaming/",
+    "date": "2026-11-02T11:14:43Z",
+    "description": "无人直播 昨天找推拉式电磁铁，准备尝试蓝牙无线DIY老式门锁开关，但是没有找到 早上起来就没有继续折腾的性质，... esp32 cyd mosfet开关模块 结合home assistant 云养鱼 油管无人直播 最先出现在 大师兄2016 。",
+    "source_root_domain": "dsx2016.com"
+  },
+  {
+    "title": "走大朝台我在想啥？三",
+    "url": "https://1900.live/zou-da-zhao-tai-wo-zai-xiang-sha-san/",
+    "date": "2026-11-02T10:36:30Z",
+    "description": "null 头一晚虽然很累，但是睡的很晚，客栈老板提供的这个房间里的床是硬板床，中途醒来好几次，很是折磨。 但是第二天依旧早早就起来了，客栈也没有早餐提供，不过即便提供我也不太想吃，和徐哥洗漱完商量了一下，一人在小卖部买了一桶泡面对付对付得了，要求已经降的非常低了。 因为我们离第二天的徒步起点很远，同住客栈的其他驴友们都是选择让老板送去徒步起点，等辣条起来后我们三个合计了一下打算也座车过去得了，费用好像是5还是10元来着，我有点忘记了（后来路上遇到其他驴友才知道他们祝的基本上都是免费送的，这里再次碎碎念一句奸商）。 吃完早饭就出发了，其实路程也就一两公里，路上能看到不少坚持选择走过去的驴友。公路在一个宽阔的山谷里，路两旁都是挺拔的小白杨，不过叶子几乎都掉光了，旁边是一条干枯河流，河床上形状各异的石头星罗密布，两旁山不高，树叶在阳光更金黄了几分。 很快便到了起点，下车后明显感觉到温差，空气也冷的很，出发点非常热闹，人头涌动，当地的村民在旁边支起了不少卖补给的小摊，路上不断有新的车辆接送着驴友，带起尘土纷飞，好一个热闹景象。 我们三个状态都还不错，徐哥依旧和昨天无二的打扮，引得路过的驴友纷纷",
+    "source_root_domain": "1900.live"
+  },
+  {
+    "title": "2026.9 投资收入以及目前的策略",
+    "url": "https://www.p1gd0g.cc/blog/117/",
+    "date": "2026-11-02T09:20:47Z",
+    "description": "",
+    "source_root_domain": "p1gd0g.cc"
+  },
+  {
+    "title": "Might and Magic VII: For Blood and Honor updated",
+    "url": "https://macsourceports.com/game/mightandmagic7",
+    "date": "2026-11-02T09:11:52Z",
+    "description": "The build of OpenEnroth for Might and Magic VII: For Blood and Honor has been updated to the latest code of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "Vite 打包产物在旧版手机 Edge/WebView 样式丢失排查与降级修复",
+    "url": "https://blog.rustfisher.com/Web/vite-legacy-webview-style-loss-fix/",
+    "date": "2026-11-02T08:57:01Z",
+    "description": "现象 在开发 webtools 时，用电脑浏览器和新版手机",
+    "source_root_domain": "rustfisher.com"
+  },
+  {
+    "title": "从看得懂到听得懂：我为什么做了 LearnBit",
+    "url": "https://lililib.github.io/Learnbit%20%E5%BC%80%E5%8F%91%E6%97%A5%E5%BF%97/",
+    "date": "2026-11-02T07:20:30Z",
+    "description": "我背过很多单词，词汇量还是不错的，也就是说，英文文章我基本能看懂意思，遇到不认识的单词也能八九不离十地猜出大意。 考研过程中，我英文阅读题满分，但是听力特别差，可以说是完全听不懂。虽然没有考核口语，但是我知道口语多半也没戏。 前些日子想进外企，为",
+    "source_root_domain": "lililib.github.io"
+  },
+  {
+    "title": "辐射转移与多方模型",
+    "url": "https://physnya.top/astro-physics/lesson-6-polytropic-model/",
+    "date": "2026-11-02T07:09:59Z",
+    "description": "辐射转移方程 用 S ν = j ν / k ν S\\nu=j\\nu/k_\\nu S ν ​ = j ν ​ / k ν ​ 描述介质发射和吸收系数之比，称为源函数，",
+    "source_root_domain": "physnya.top"
+  },
+  {
+    "title": "2026.11.1",
+    "url": "https://www.justzht.com/2026-11-1/",
+    "date": "2026-11-02T06:53:38Z",
+    "description": "十月结束了。 肇事逃逸的事情结束了，保险公司最后付清了所有我在诉讼里要求的金额。我得知支票寄出的消息后",
+    "source_root_domain": "justzht.com"
+  },
+  {
+    "title": "2021",
+    "url": "https://wcowin.work/blog/archive/2021/",
+    "date": "2026-11-02T05:28:23Z",
+    "description": "2021",
+    "source_root_domain": "wcowin.work"
+  },
+  {
+    "title": "2022",
+    "url": "https://wcowin.work/blog/archive/2022/",
+    "date": "2026-11-02T05:28:23Z",
+    "description": "2022",
+    "source_root_domain": "wcowin.work"
+  },
+  {
+    "title": "2023",
+    "url": "https://wcowin.work/blog/archive/2023/",
+    "date": "2026-11-02T05:28:23Z",
+    "description": "2023",
+    "source_root_domain": "wcowin.work"
+  },
+  {
+    "title": "2024",
+    "url": "https://wcowin.work/blog/archive/2024/",
+    "date": "2026-11-02T05:28:23Z",
+    "description": "2024",
+    "source_root_domain": "wcowin.work"
+  },
+  {
+    "title": "2025",
+    "url": "https://wcowin.work/blog/archive/2025/",
+    "date": "2026-11-02T05:28:23Z",
+    "description": "2025",
+    "source_root_domain": "wcowin.work"
+  },
+  {
+    "title": "2026",
+    "url": "https://wcowin.work/blog/archive/2026/",
+    "date": "2026-11-02T05:28:23Z",
+    "description": "2026",
+    "source_root_domain": "wcowin.work"
+  },
+  {
+    "title": "Hello World",
+    "url": "https://wcowin.work/blog/category/hello-world/",
+    "date": "2026-11-02T05:28:23Z",
+    "description": "Hello World",
+    "source_root_domain": "wcowin.work"
+  },
+  {
+    "title": "网站更新记录",
+    "url": "https://wcowin.work/blog/category/%E7%BD%91%E7%AB%99%E6%9B%B4%E6%96%B0%E8%AE%B0%E5%BD%95/",
+    "date": "2026-11-02T05:28:23Z",
+    "description": "网站更新记录",
+    "source_root_domain": "wcowin.work"
+  },
+  {
+    "title": "MyBlog",
+    "url": "https://wcowin.work/blog/page/2/",
+    "date": "2026-11-02T05:28:23Z",
+    "description": "MyBlog",
+    "source_root_domain": "wcowin.work"
+  },
+  {
+    "title": "关于 Personal Agent 商业",
+    "url": "https://versun.me/blog/tweet-2117123682544083354",
+    "date": "2026-11-02T05:16:34Z",
+    "description": "关于 Personal Agent 商业化的冷思考 最近 Bot 赛道异常火热。从大厂的 Meta Muse、OpenAI Dot、Grok Bot、Claude Duet，到社区里五花八门的开源项目，让人眼花缭乱，不过出于隐私顾虑，加上我自己搭建的 Hermes Agent 用起来一直很顺手，这些热门产品我其实一个都没碰过。 直到上周，老婆让我也给她弄一个 Bot，我在 Hermes 上给她开了个独立 Profile 并绑定了微信，但因为她完全没有 Agent 的使用经验，对“上下文”、“会话”这些概念一无所知，体验相当割裂。当我试图跟她解释这些底层逻辑时，她直接吐槽道： “这么麻烦，看起来你的 Bot 很笨呐。用起来还得懂这么多概念，我可不想记一堆 Slash 命令，就不能像跟人聊天一样直接聊吗？为什么不能让 Bot 来适应我？” 这句话让我瞬间醍醐灌顶：C 端 Bot 真正的价值，恰恰是抹平技术概念，让毫无背景的普通人也能开箱即用。 出于程序员的本能，我立刻萌生了一个念头：把我在 Hermes 上跑通的所有工作流打包成一个“全能型 Personal Agent”产品，说不定还能靠",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "ber，打哪儿来的「知识」？",
+    "url": "https://www.hecaitou.com/2026/11/blog-post.html",
+    "date": "2026-11-02T04:19:22Z",
+    "description": "我注意到已经有读者在留言里向其他人给出减肥建议：土豆煮好放冰箱冷藏，用它替代米饭日常食用，一个月可以减 XX 斤....... 一点不意外，类似的内容最近我在网上频繁撞见。各种 App 里不时就会蹦出「凉土豆」、「冷土豆 」字样，我睡觉了都能梦见满天土豆在飞。不信的话，你可以回忆一下，去年到今年上半年，关于土豆的话术还是「你永远也不知道吃一斤凉土豆能帮你吸收多少脂肪」，应该都见过吧？ 那我要问了：怎么判断这位读者的行为？他是在传播知识，传播信息，还是不知不觉中变成了人形广告板？ 如果暂时无法确定答案的话，我还有另外一个例子： 前阵子我写文章谈自己修脚的事，里面提到我的脚后跟到冬天会皲裂。结果，N 个读者跑来留言：你这个根本不是干裂，而是一种真菌感染。当时我耐心地逐一回复他们：还是要少看广告。 为什么？ 因为我在网上看太多了，就像是大合唱一样，到哪里都能看到「不是脚皮，而是脚气」的所谓「科普帖」，然后无一例外在留言区置顶一条脚气水的购买链接。「科普帖」里的角色经常换，一会儿是资深皮肤科医生，一会儿是医科大学生，但都在洗脑：这不是，而是...... 不觉得奇怪么？一个网友从来没有拿过营养师",
+    "source_root_domain": "hecaitou.com"
+  },
+  {
+    "title": "青萍空气检测仪改造记：用 AI 给它加个新页面",
+    "url": "https://liudon.com/posts/qingping-cgs1-custom-qml-page/",
+    "date": "2026-11-02T03:39:38Z",
+    "description": "前言 最近看到不少人用 AI 折腾旧硬件，各种玩法看得我也有点手痒。 突然想到家里有一台闲置了好久的青萍空气检测仪，官方系统也很久没有更新过了，正好拿来折腾一下。",
+    "source_root_domain": "liudon.com"
+  },
+  {
+    "title": "周记 3，写代码就像装家具",
+    "url": "https://zhangke.space/%e5%91%a8%e8%ae%b0-3%ef%bc%8c%e5%86%99%e4%bb%a3%e7%a0%81%e5%b0%b1%e5%83%8f%e8%a3%85%e5%ae%b6%e5%85%b7/?utm_source=rss&utm_medium=rss&utm_campaign=%25e5%2591%25a8%25e8%25ae%25b0-3%25ef%25bc%258c%25e5%2586%2599%25e4%25bb%25a3%25e7%25a0%2581%25e5%25b0%25b1%25e5%2583%258f%25e8%25a3%2585%25e5%25ae%25b6%25e5%2585%25b7",
+    "date": "2026-11-02T03:12:33Z",
+    "description": "最近两周太忙了，上周都没写周记，忙的原因是因为最近开了个新坑，是一个桌面端的开发者工具，也是因为自己平时工作经 […] The post 周记 3，写代码就像装家具 first appeared on 张可的博客 .",
+    "source_root_domain": "zhangke.space"
+  },
+  {
+    "title": "年化 15% 的投资组合，每天看一次，赢面只有 53%",
+    "url": "https://koukyo.site/posts/observation-frequency-noise/",
+    "date": "2026-11-02T02:00:00Z",
+    "description": "大一开始投资，每天刷支付宝看涨跌，焦虑得不行。看随机游走的傻瓜这本书才意识到，年化15%的稳定组合每天看也有九成噪音",
+    "source_root_domain": "koukyo.site"
+  },
+  {
+    "title": "乐园",
+    "url": "https://mobius.blog/26034.html",
+    "date": "2026-11-02T01:30:00Z",
+    "description": "既然聊到了童年，那就继续聊下去。 另一个有关童年的趣事，其实被我伪装成了一个“观察”。 最近我一直在聊“接手” […]",
+    "source_root_domain": "mobius.blog"
+  },
+  {
+    "title": "最近惦念 20261017",
+    "url": "https://z.arlmy.me/posts/TILs/thoughts/20261017_Recently/",
+    "date": "2026-11-02T01:00:27Z",
+    "description": "「娇气点就娇气点。」",
+    "source_root_domain": "arlmy.me"
+  },
+  {
+    "title": "Toots 443 2026 Oct.25 - Oct.31",
+    "url": "https://z.arlmy.me/posts/MastodonArchives/2026/MastodonTootsArchives_20261031/",
+    "date": "2026-11-02T00:59:27Z",
+    "description": "「活到两百岁好了。」",
+    "source_root_domain": "arlmy.me"
+  },
+  {
+    "title": "Toots 442 2026 Oct.18 - Oct.24",
+    "url": "https://z.arlmy.me/posts/MastodonArchives/2026/MastodonTootsArchives_20261024/",
+    "date": "2026-11-02T00:56:27Z",
+    "description": "「相识恨晚熟人局。」",
+    "source_root_domain": "arlmy.me"
+  },
+  {
+    "title": "AI 科普系列（一）：什么是词向量",
+    "url": "https://depp.wang/2026/what-are-word-vectors/",
+    "date": "2026-11-02T00:46:03Z",
+    "description": "平时用 AI，经常会看到「词向量」「嵌入」「向量化」这些词。大模型处理文字要用到它们，给自己的 Obsidian 做知识库，也会遇到向量化这一步。 准备写几篇 AI 相关的科普文章，第一篇先分享一下词向量：文字怎么变成一串数字，这串数字又有什么用。用电脑硬件举个例子，会更容易理解。 拿我比较熟悉的电脑硬件举例。机械硬盘、固态硬盘、内存，都可以存数据，但它们的特点不一样。先选两个方面来描述：断电后能不能保留数据，以及读写速度。",
+    "source_root_domain": "depp.wang"
+  }
+]
