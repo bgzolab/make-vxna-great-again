@@ -27,8 +27,13 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-11-04 | [关于人们如何识别一篇文章是否由 AI 创作的](https://mobius.blog/26064.html) | 最近发现一个有趣的现象——越来越多的人开始通过文章的写作习惯来判断作者是否使用了 AI。 比如，喜欢使用引号强 […] |
+| 2026-11-04 | [循环模式吃饭](https://www.hecaitou.com/2026/11/eating-on-loop-mode.html) | 我曾经整月连续吃同样的菜单，同一家店，每次都是一份希腊沙拉，再加两个煎蛋。不是刻意如此，只是到了点餐时实在不知道点什么，想着「不如和昨天一样吧」，然后就那么顺理成章地一路点了下去。 这有点像什么？像是每天上班，打开音乐播放软件，然后选中一首歌，进入单曲循环模式，然后一个月天天都如此。 之前我看别人晒… |
+| 2026-11-04 | [New Release: The Operative: No One Lives Forever](https://macsourceports.com/game/nolf1) | And now we have the first No One Lives Forever game on modern Macs again. The Operative: No One Lives Forever is the first in the series that I believ… |
+| 2026-11-04 | [无用命途：搞笑版《爱情买卖》，模糊版《农广天地》](https://blog.mfwt.top/index.php/archives/1715/) | 《无用命途》，专门用来记录一些无用（甚至无厘头的）想法，每个想法后会附带一点内容，用来介绍和这个想法（及其衍生的）有关的东西。每周最多更新一次，但不保证周更，主要看想法的活跃度如何。11月，按A... |
 | 2026-11-04 | [别试图期待人性会给予正反馈](https://mobius.blog/26051.html) | 遛狗时，目睹了两个小男孩的争吵，他们因为一个玩具吵了起来。其中一个大人抱起了自己的孩子，嘴上说着要让着弟弟，但 […] |
 | 2026-11-04 | [AI 彻底改变了程序员这个职业](https://depp.wang/2026/ai-changes-programming/) | 最近有位学计算机的表弟在找实习，跟我说实习生的工作特别不好找。这让我有点感慨，我还是比较幸运，没有在这个时代毕业。如果我现在毕业，我觉得自己一样找不到工作。 我觉得 AI 编程已经彻底改变了程序员这个职业。 现在做开发，很多具体的代码都可以交给 AI 来写了，简单的工作更是如此。程序员自己更多要做的… |
+| 2026-11-04 | [DeepSeek Super-agent 的架构设计与运行机制](https://www.mengke.me/blog/202611/DeepSeek_Super-agent) | 同时用多个 Coding Agent 时，瓶颈很快从「Agent 干活」变成「人管会话」。本文拆解 DeepSeek Super-agent 的设计：Router/Worker 双层架构、Trigger 两阶段过滤、Thread 订阅与直通、上下文组织与链式召回、投机执行、异步全双工、计算与执行环境… |
 | 2026-11-03 | [Star Wars: Dark Forces updated](https://macsourceports.com/game/swdf) | The build of The Force Engine for Star Wars: Dark Forces has been updated to version v.1.30.000 of the project |
 | 2026-11-03 | [我为什么更喜欢 BSD 风格的许可证](https://blog.mxdyeah.com/post/why-i-prefer-bsd-licenses) | 最近在整理自己的代码仓库，重新研究了一遍开源许可证。刚好 又想水一篇文章 （不是），谈一下，我为什么更喜欢 BSD 风格的许可证，以及为什么觉得 GPL 是一种“邪恶”。当然我这里没有说 GPL... |
 | 2026-11-03 | [Coffee Break Clojure, Test](https://www.geedea.pro/article/clj9/) | 假设有函数 pair-sum ，把输入的数字划分为两个一对，然后对每个对求和，返回和组成的序列： ( defn pair-sum [ & nums ] ( ->> nums ( partition 2 ) ( map ( partial apply + )))) 系统运行一段时间后有人反馈了 Bug… |
