@@ -1,5 +1,33 @@
 [
   {
+    "title": "esp32 mosfet开关 电源输入方式",
+    "url": "https://dsx2016.com/esp32-mosfet-switch-power-input-method/",
+    "date": "2026-11-04T13:15:00Z",
+    "description": "电源输入方式 之前只买了一个带有dc充电口和接线端子输出方式的锂电池，方便配合继电器开关 这个锂电池提供5v输... esp32 mosfet开关 电源输入方式 最先出现在 大师兄2016 。",
+    "source_root_domain": "dsx2016.com"
+  },
+  {
+    "title": "Unreal Tournament 2004 updated",
+    "url": "https://macsourceports.com/game/unrealtournament2004",
+    "date": "2026-11-04T12:41:01Z",
+    "description": "The build of UT2004 for Unreal Tournament 2004 has been updated to version 3374-rc3 of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "Lemmings updated",
+    "url": "https://macsourceports.com/game/lemmings",
+    "date": "2026-11-04T12:41:00Z",
+    "description": "The build of Ultimate Lemmings for Lemmings has been updated to version v2.4.1 of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "Ambermoon updated",
+    "url": "https://macsourceports.com/game/ambermoon",
+    "date": "2026-11-04T12:40:59Z",
+    "description": "The build of Ambermoon.net for Ambermoon has been updated to version v1.15.1 of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
     "title": "关于人们如何识别一篇文章是否由 AI 创作的",
     "url": "https://mobius.blog/26064.html",
     "date": "2026-11-04T06:30:00Z",
@@ -63,11 +91,25 @@
     "source_root_domain": "mxdyeah.com"
   },
   {
+    "title": "AI 早报 2026-11-04：Meta 定价发行150亿美元债券，今年资本开支最高1450亿美元",
+    "url": "https://www.jtxyh.com/daily/2026-11-04/",
+    "date": "2026-11-03T16:00:00Z",
+    "description": "2026-11-04 AI 早报，共 14 条动态。Meta 11月3日为五期美元债定价，发行规模150亿美元。CrowdStrike 11月4日宣布，基于 SafeMind 的 Agentic Adversary Emulation 向部分客户开放早期访问，客户可通过 Project QuiltWorks…",
+    "source_root_domain": "jtxyh.com"
+  },
+  {
     "title": "Coffee Break Clojure, Test",
     "url": "https://www.geedea.pro/article/clj9/",
     "date": "2026-11-03T15:58:29Z",
     "description": "假设有函数 pair-sum ，把输入的数字划分为两个一对，然后对每个对求和，返回和组成的序列： ( defn pair-sum [ & nums ] ( ->> nums ( partition 2 ) ( map ( partial apply + )))) 系统运行一段时间后有人反馈了 Bug，复现方式如下： ( pair-sum 3 2 1 4 5 3 5 ) ;; => (5 5 8) 输入上述用例，函数只返回了前六个数字组成的三个对的和，最后一个 5 被丢弃了。经过判断，这的确是个 Bug，解决方案是让落单的输入单独作为和返回。 你当然可以修完 Bug 之后一走了之，但试想一下：之后的贡献者在看到这段代码的时候，会不会对「落单的输入怎么处理」这件事情产生不同的想法？他会不会认为修复后的版本反而是个 Bug？ 当然可以在文档和 Issues 里留档，但不是所有人都会把所有文档资料扫一遍再改代码的，忽略注释也没有代价。有没有办法让代码的行为被修改之后，就立刻报错提醒修改者「这里不该这么改」？ Testing, Testing, 1, 2, 3 标准库 clojure.test ",
     "source_root_domain": "geedea.pro"
+  },
+  {
+    "title": "别让自己变成祥林嫂",
+    "url": "https://blog.solazy.me/20261103/",
+    "date": "2026-11-03T15:00:00Z",
+    "description": "怎么办，我现在越来越冷血，越来越提供不了情绪价值了",
+    "source_root_domain": "solazy.me"
   },
   {
     "title": "PHP2Shell 漏洞（CVE-2026-109618、CVE-2026-109619）临时缓解记录",
@@ -102,13 +144,6 @@
     "url": "https://macsourceports.com/game/freespace2",
     "date": "2026-11-03T12:00:43Z",
     "description": "The build of FreeSpace 2 Source Code Project for FreeSpace 2 has been updated to version 26.2.0 of the project",
-    "source_root_domain": "macsourceports.com"
-  },
-  {
-    "title": "Ambermoon updated",
-    "url": "https://macsourceports.com/game/ambermoon",
-    "date": "2026-11-03T12:00:42Z",
-    "description": "The build of Ambermoon.net for Ambermoon has been updated to version v1.15.0 of the project",
     "source_root_domain": "macsourceports.com"
   },
   {

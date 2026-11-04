@@ -27,6 +27,10 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-11-04 | [esp32 mosfet开关 电源输入方式](https://dsx2016.com/esp32-mosfet-switch-power-input-method/) | 电源输入方式 之前只买了一个带有dc充电口和接线端子输出方式的锂电池，方便配合继电器开关 这个锂电池提供5v输... esp32 mosfet开关 电源输入方式 最先出现在 大师兄2016 。 |
+| 2026-11-04 | [Unreal Tournament 2004 updated](https://macsourceports.com/game/unrealtournament2004) | The build of UT2004 for Unreal Tournament 2004 has been updated to version 3374-rc3 of the project |
+| 2026-11-04 | [Lemmings updated](https://macsourceports.com/game/lemmings) | The build of Ultimate Lemmings for Lemmings has been updated to version v2.4.1 of the project |
+| 2026-11-04 | [Ambermoon updated](https://macsourceports.com/game/ambermoon) | The build of Ambermoon.net for Ambermoon has been updated to version v1.15.1 of the project |
 | 2026-11-04 | [关于人们如何识别一篇文章是否由 AI 创作的](https://mobius.blog/26064.html) | 最近发现一个有趣的现象——越来越多的人开始通过文章的写作习惯来判断作者是否使用了 AI。 比如，喜欢使用引号强 […] |
 | 2026-11-04 | [循环模式吃饭](https://www.hecaitou.com/2026/11/eating-on-loop-mode.html) | 我曾经整月连续吃同样的菜单，同一家店，每次都是一份希腊沙拉，再加两个煎蛋。不是刻意如此，只是到了点餐时实在不知道点什么，想着「不如和昨天一样吧」，然后就那么顺理成章地一路点了下去。 这有点像什么？像是每天上班，打开音乐播放软件，然后选中一首歌，进入单曲循环模式，然后一个月天天都如此。 之前我看别人晒… |
 | 2026-11-04 | [New Release: The Operative: No One Lives Forever](https://macsourceports.com/game/nolf1) | And now we have the first No One Lives Forever game on modern Macs again. The Operative: No One Lives Forever is the first in the series that I believ… |
@@ -36,13 +40,14 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-11-04 | [DeepSeek Super-agent 的架构设计与运行机制](https://www.mengke.me/blog/202611/DeepSeek_Super-agent) | 同时用多个 Coding Agent 时，瓶颈很快从「Agent 干活」变成「人管会话」。本文拆解 DeepSeek Super-agent 的设计：Router/Worker 双层架构、Trigger 两阶段过滤、Thread 订阅与直通、上下文组织与链式召回、投机执行、异步全双工、计算与执行环境… |
 | 2026-11-03 | [Star Wars: Dark Forces updated](https://macsourceports.com/game/swdf) | The build of The Force Engine for Star Wars: Dark Forces has been updated to version v.1.30.000 of the project |
 | 2026-11-03 | [我为什么更喜欢 BSD 风格的许可证](https://blog.mxdyeah.com/post/why-i-prefer-bsd-licenses) | 最近在整理自己的代码仓库，重新研究了一遍开源许可证。刚好 又想水一篇文章 （不是），谈一下，我为什么更喜欢 BSD 风格的许可证，以及为什么觉得 GPL 是一种“邪恶”。当然我这里没有说 GPL... |
+| 2026-11-03 | [AI 早报 2026-11-04：Meta 定价发行150亿美元债券，今年资本开支最高1450亿美元](https://www.jtxyh.com/daily/2026-11-04/) | 2026-11-04 AI 早报，共 14 条动态。Meta 11月3日为五期美元债定价，发行规模150亿美元。CrowdStrike 11月4日宣布，基于 SafeMind 的 Agentic Adversary Emulation 向部分客户开放早期访问，客户可通过 Project QuiltW… |
 | 2026-11-03 | [Coffee Break Clojure, Test](https://www.geedea.pro/article/clj9/) | 假设有函数 pair-sum ，把输入的数字划分为两个一对，然后对每个对求和，返回和组成的序列： ( defn pair-sum [ & nums ] ( ->> nums ( partition 2 ) ( map ( partial apply + )))) 系统运行一段时间后有人反馈了 Bug… |
+| 2026-11-03 | [别让自己变成祥林嫂](https://blog.solazy.me/20261103/) | 怎么办，我现在越来越冷血，越来越提供不了情绪价值了 |
 | 2026-11-03 | [PHP2Shell 漏洞（CVE-2026-109618、CVE-2026-109619）临时缓解记录](https://199604.com/3738) | PHP2Shell 漏洞（CVE-2026-109618、CVE-2026-109619）临时缓解记录 记录时 […] |
 | 2026-11-03 | [经过近一个月的使用，我把 hermes](https://versun.me/blog/tweet-2117618742079484288) | 经过近一个月的使用，我把 hermes 的默认模型，从 gemini 3.8 flash 改回到 opus 5.5 了， gemini 太阿谀奉承了，一点自己的主见没有， 好几次差点坏了事，还是 opus 靠谱，虽然说话难听了点 🤣 |
 | 2026-11-03 | [DeepSeek Super Agent 很热闹，但我认为 AI 已经进入瓶颈期](https://www.tortorse.com/archives/deepseek-super-agent-and-ai-bottleneck/) | DeepSeek Super Agent 很热闹，但我认为 AI 已经进入瓶颈期 |
 | 2026-11-03 | [esp32 mosfet开关模块 冷压端子 正负极接线](https://dsx2016.com/esp32-mosfet-switching-module-cold-pressed-terminals-positive-negative-terminal-wiring/) | 开关模块 ai推荐给我mosfet开关模块，适合频繁开关的5v usb设备 了解到有IRF520模块，MOS管... esp32 mosfet开关模块 冷压端子 正负极接线 最先出现在 大师兄2016 。 |
 | 2026-11-03 | [FreeSpace 2 updated](https://macsourceports.com/game/freespace2) | The build of FreeSpace 2 Source Code Project for FreeSpace 2 has been updated to version 26.2.0 of the project |
-| 2026-11-03 | [Ambermoon updated](https://macsourceports.com/game/ambermoon) | The build of Ambermoon.net for Ambermoon has been updated to version v1.15.0 of the project |
 | 2026-11-03 | [esp32 mosfet开关模块 正负极和电源输入输出](https://dsx2016.com/esp32-mosfet-switch-module-positive-negative-terminals-and-power-input-output/) | 注意事项 不要弄反正负极！！！ 不要弄反电源输入和电源输出！！！ 任何一个反了，都有可能烧毁模块或者引起短路之... esp32 mosfet开关模块 正负极和电源输入输出 最先出现在 大师兄2016 。 |
 | 2026-11-03 | [[译] 如何在一天内改变人生](https://blog.itaober.com/posts/post) | 原文：Dan Koe 《How to fix your entire life in 1 day》 在 X 经常刷到这篇文章的推荐，也收藏了许久，一直都没开始阅读。近期状态有些低迷，体重也没控制住，很多方向都没有想清楚，似乎一切都糟透了。得做些改变啊，就想到了这篇文章。 本文为译文，保留作者的第一人… |
 | 2026-11-03 | [最后还是没开gemini ultra，而](https://versun.me/blog/tweet-2117562356192702909) | Versun 最近 opus 5.5 降智很明显呀。。。。。 准备开 gemini ultra，不知道 argon 和 carbon 的额度耐用不 最后还是没开gemini ultra，而是再开了个claude pro， 因为 opus 编码更稳定可控些， 至于argon，我目前只在jio套餐的网页… |
@@ -110,7 +115,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-11-01 | [写在万圣节](https://blog.solazy.me/20261101/) | 现在为什么都要过万圣节了？ |
 | 2026-11-01 | [esp32 cyd mosfet开关模块和接线端子 冷压端子 测试usb led灯](https://dsx2016.com/esp32-cyd-mosfet-switch-module-terminal-blocks-crimp-terminals-and-a-usb-powered-led-light-for-testing/) | 安全问题 本期主要记录使用继电器或者mosfet开关模块，可能会遇到的一些安全问题 我买的继电器可以正常工作，... esp32 cyd mosfet开关模块和接线端子 冷压端子 测试usb led灯 最先出现在 大师兄2016 。 |
 | 2026-11-01 | [esp32cam使用esphome结合home assistant设置电动自动车充电器绿灯检测](https://dsx2016.com/using-esp32-cam-with-esphome-and-home-assistant-to-detect-the-green-light-on-an-electric-vehicle-charger/) | 充电器绿灯检测 充电器红灯指示灯，表示充电中，绿灯表示已充满，没亮代表已断电 电动自行车绿灯充满后，建议不要一... esp32cam使用esphome结合home assistant设置电动自动车充电器绿灯检测 最先出现在 大师兄2016 。 |
-| 2026-11-01 | [Lemmings updated](https://macsourceports.com/game/lemmings) | The build of Ultimate Lemmings for Lemmings has been updated to version v2.4 of the project |
 | 2026-11-01 | [Quetoo updated](https://macsourceports.com/game/quetoo) | The build of Quetoo has been updated to version v1.0.142 of the project |
 | 2026-11-01 | [RollerCoaster Tycoon 2 updated](https://macsourceports.com/game/rct2) | The build of OpenRCT2 for RollerCoaster Tycoon 2 has been updated to version v0.5.7 of the project |
 | 2026-11-01 | [可能是 SOTA 的像素图修复开源方案](https://outtascope.com/zh/writing/pixel-art-restoration/) | 从网格还原到颜色选取，记录 Xprite Auto 的像素图修复方案与评测。 |
