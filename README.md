@@ -27,6 +27,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-11-04 | [Quake III: Arena updated](https://macsourceports.com/game/quake3arena) | The build of ioquake3 for Quake III: Arena has been updated to the latest code of the project |
 | 2026-11-04 | [esp32 mosfet开关 电源输入方式](https://dsx2016.com/esp32-mosfet-switch-power-input-method/) | 电源输入方式 之前只买了一个带有dc充电口和接线端子输出方式的锂电池，方便配合继电器开关 这个锂电池提供5v输... esp32 mosfet开关 电源输入方式 最先出现在 大师兄2016 。 |
 | 2026-11-04 | [Unreal Tournament 2004 updated](https://macsourceports.com/game/unrealtournament2004) | The build of UT2004 for Unreal Tournament 2004 has been updated to version 3374-rc3 of the project |
 | 2026-11-04 | [Lemmings updated](https://macsourceports.com/game/lemmings) | The build of Ultimate Lemmings for Lemmings has been updated to version v2.4.1 of the project |

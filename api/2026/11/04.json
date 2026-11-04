@@ -1,5 +1,12 @@
 [
   {
+    "title": "Quake III: Arena updated",
+    "url": "https://macsourceports.com/game/quake3arena",
+    "date": "2026-11-04T21:51:32Z",
+    "description": "The build of ioquake3 for Quake III: Arena has been updated to the latest code of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
     "title": "esp32 mosfet开关 电源输入方式",
     "url": "https://dsx2016.com/esp32-mosfet-switch-power-input-method/",
     "date": "2026-11-04T13:15:00Z",
