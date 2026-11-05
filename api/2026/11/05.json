@@ -1,5 +1,75 @@
 [
   {
+    "title": "Next.js 图片优化完全指南",
+    "url": "https://ravelloh.com/posts/nextjs-image-optimization-complete-guide",
+    "date": "2026-11-05T13:29:54Z",
+    "description": "Next.js 全生命周期图片优化与架构实践指南。梳理了现代化 Web 应用中“上传优化”（服务端利用 Sharp 进行格式校验、EXIF 转向、WebP 转码与尺寸限制）与“访问优化”（结合 组件与 Next.js Image Optimizer 实现按需裁剪、响应式分发）的双层优化体系；同时提供了基于 App Router 的 Route Handler 最小实现示例，并深入分析了元信息存储设计、HTTP 长期缓存策略、大文件直传流程与软删除安全机制。",
+    "source_root_domain": "ravelloh.com"
+  },
+  {
+    "title": "Lemmings updated",
+    "url": "https://macsourceports.com/game/lemmings",
+    "date": "2026-11-05T12:00:38Z",
+    "description": "The build of Ultimate Lemmings for Lemmings has been updated to version v2.4.2 of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "The Operative: No One Lives Forever updated",
+    "url": "https://macsourceports.com/game/nolf1",
+    "date": "2026-11-05T12:00:37Z",
+    "description": "The build of NOLF1 for Mac for The Operative: No One Lives Forever has been updated to version 0.5.2 of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "esp32：使用esp32cam结合万向双头夹正式开始电动自行车充电检测",
+    "url": "https://dsx2016.com/using-an-esp32-cam-paired-with-a-universal-dual-head-clamp-we-are-officially-beginning-the-process-of-monitoring-electric-bicycle-charging/",
+    "date": "2026-11-05T10:20:01Z",
+    "description": "万向双头夹 前几天到了一个万向夹，但是是磁吸底座，需要有铁的物质 经过测试，在置物架上的铁片上可以有一定吸力，... esp32：使用esp32cam结合万向双头夹正式开始电动自行车充电检测 最先出现在 大师兄2016 。",
+    "source_root_domain": "dsx2016.com"
+  },
+  {
+    "title": "剑流德钟，三把壶排排队",
+    "url": "https://gugegt.com/20261105-jianliu-dezhong.html",
+    "date": "2026-11-05T09:35:00Z",
+    "description": "三把壶排排队，拍了四张照片。 都是德钟，都是剑流，出自同一位老师。年份不同，泥料不同，用的年头也不同。",
+    "source_root_domain": "gugegt.com"
+  },
+  {
+    "title": "Might and Magic VII: For Blood and Honor updated",
+    "url": "https://macsourceports.com/game/mightandmagic7",
+    "date": "2026-11-05T09:10:49Z",
+    "description": "The build of OpenEnroth for Might and Magic VII: For Blood and Honor has been updated to the latest code of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "Xash3D FWGS updated",
+    "url": "https://macsourceports.com/sourceport/xash3d-fwgs",
+    "date": "2026-11-05T09:03:29Z",
+    "description": "The build of Xash3D FWGS for the Half-Life series of games has been updated to the latest code of the project\\n\\nhttps://macsourceports.com/sourceport/xash3d-fwgs\\n\\n#macgaming #retrogaming #macOS #xash3d-fwgs #gaming #apple #m1 #m2 #m3 #applesilicon\\n\\n",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "Quake III: Arena updated",
+    "url": "https://macsourceports.com/game/quake3arena",
+    "date": "2026-11-05T09:01:56Z",
+    "description": "The build of ioquake3 for Quake III: Arena has been updated to the latest code of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "小米手机无root通过ADB卸载SystemHelper程序",
+    "url": "https://www.cheshirex.com/11613.html",
+    "date": "2026-11-05T07:47:44Z",
+    "description": "现在手机想要解BL锁或者root都比较难，最近关于SystemHelper程序的讨论比较多。下面说下怎么无ro […]",
+    "source_root_domain": "cheshirex.com"
+  },
+  {
+    "title": "tcpdump 抓包与 Wireshark 分析实战指南",
+    "url": "https://blog.rustfisher.com/Network/tcpdump-wireshark-use/",
+    "date": "2026-11-05T07:30:00Z",
+    "description": "实际项目中，我们常常会遇到各种扑朔迷离的网络通信问题。在 VoIP、SIP 语音呼叫或 WebRTC 音视频对讲中，对端提示“未检测到按键（DTMF）”或出现音频卡顿、杂音，难以确认 RTP/UDP 报文是否完整到达。面对自研的私有二进制协议或 IoT 设备通信，抓不到明文",
+    "source_root_domain": "rustfisher.com"
+  },
+  {
     "title": "剪映要会员，它全免费：这款开源 Mac 剪辑软件我留下来了",
     "url": "https://www.evan.xin/5139/",
     "date": "2026-11-05T05:06:07Z",
@@ -10,7 +80,7 @@
     "title": "听到别人的声音",
     "url": "https://kaix.in/2026/1105/",
     "date": "2026-11-05T04:00:04Z",
-    "description": "许多人都会羡慕影视作品里那些异能者吧——能听懂兽语的话，生活该多么有趣，至少绝不会无聊；随便走走，就能听到猫咪们在聊张家长李家短，或者那些不为人知的小秘密说不定天上的飞鸟、路过的狗，都能随口说出。 不过仔细想想，何必懂的兽语呢，只是我们越来越沉浸在自己的世界，沉浸在手里的那块屏幕或者耳机中千里之外的声音，身边的、耳边的声音却被忽略和屏蔽掉了而已。楼下邻居摆的花，为什么昨天还在左边今天却挪到了右边？菜市场摆摊儿的大娘们，从清晨到中午，不忙的时候都会谈些什么？当然，不必也不该事事打探，但所谓生活趣味，所谓去除无聊，找回对具体的人的热情与好奇，潜入生活其中，或许就是自然会收获的吧。 fin. 激赏 ！ 来信 。",
+    "description": "许多人都会羡慕影视作品里那些异能者吧——能听懂兽语的话，生活该多么有趣，至少绝不会无聊；随便走走，就能听到猫咪们在聊张家长李家短，或者那些不为人知的小秘密说不定天上的飞鸟、路过的狗，都能随口说出。 不过仔细想想，何必懂得兽语呢，只是我们越来越沉浸在自己的世界，沉浸在手里的那块屏幕或者耳机中千里之外的声音，身边的、耳边的声音却被忽略和屏蔽掉了而已。楼下邻居摆的花，为什么昨天还在左边今天却挪到了右边？菜市场摆摊儿的大娘们，从清晨到中午，不忙的时候都会谈些什么？当然，不必也不该事事打探，但所谓生活趣味，所谓去除无聊，找回对具体的人的热情与好奇，潜入生活其中，或许就是自然会收获的吧。 fin. 激赏 ！ 来信 。",
     "source_root_domain": "kaix.in"
   },
   {
@@ -35,11 +105,18 @@
     "source_root_domain": "livingwithfcs.org"
   },
   {
-    "title": "Quake III: Arena updated",
-    "url": "https://macsourceports.com/game/quake3arena",
-    "date": "2026-11-04T21:51:32Z",
-    "description": "The build of ioquake3 for Quake III: Arena has been updated to the latest code of the project",
-    "source_root_domain": "macsourceports.com"
+    "title": "记一次报警和Web入侵对抗",
+    "url": "https://elmagnifico.tech/2026/11/05/Web-Safe-Confrontation/",
+    "date": "2026-11-04T16:00:00Z",
+    "description": "Foreword 万万没想到，有一天得代表公司报警，实际体验并不好，很多事情即使在今天，科技这么发达，服务这么健全，也是难以处理的。 报警 事由是我们服务上的资源被爬了，还是我们做了反爬处理的情况下，被强行爬了。涉及数量比较大，实际经济价值巨大，大概能吃3-10年左右的牢饭。 之前也报过其他的警，不过都是个人的事情，出警也都贼快。没想到这次报警，第一次打电话，110直接不通，强行给我挂了。第二次打才接通，说明事由以后就等待出警。 出警倒是都很快，说明问题，然后就带我去派出所了。派出所刚好就在我家旁边，第一次正式进派出所，还有点新奇。进门要先登记、搜身，然后才给开门进到警务大厅。 个人代表公司报警，首先需要法人授权书，营业执照，然后还需要说明事由、当前情况、造成的经济损失、诉求等等，这些内容需要公司盖章。这部分材料肯定第一次去是没有的，再加上这个是网安相关内容，派出所根本没有这方面能力，还得网安支队来处理，他们只是走流程转交而已。 民警给了我需要提交的资料清单，我去准备。当天就弄好了，但是已经晚上12点了，他说还要做笔录，可能做完就两三点了，建议我明天再来。好嘛，那就明天再来。 还好网警",
+    "source_root_domain": "elmagnifico.tech"
+  },
+  {
+    "title": "长沙出差半周流水",
+    "url": "https://blog.solazy.me/20261104/",
+    "date": "2026-11-04T15:30:00Z",
+    "description": "主要晒晒这两天的吃食",
+    "source_root_domain": "solazy.me"
   },
   {
     "title": "esp32 mosfet开关 电源输入方式",
@@ -63,13 +140,6 @@
     "source_root_domain": "macsourceports.com"
   },
   {
-    "title": "Lemmings updated",
-    "url": "https://macsourceports.com/game/lemmings",
-    "date": "2026-11-04T12:41:00Z",
-    "description": "The build of Ultimate Lemmings for Lemmings has been updated to version v2.4.1 of the project",
-    "source_root_domain": "macsourceports.com"
-  },
-  {
     "title": "Ambermoon updated",
     "url": "https://macsourceports.com/game/ambermoon",
     "date": "2026-11-04T12:40:59Z",
@@ -89,13 +159,6 @@
     "date": "2026-11-04T04:38:22Z",
     "description": "我曾经整月连续吃同样的菜单，同一家店，每次都是一份希腊沙拉，再加两个煎蛋。不是刻意如此，只是到了点餐时实在不知道点什么，想着「不如和昨天一样吧」，然后就那么顺理成章地一路点了下去。 这有点像什么？像是每天上班，打开音乐播放软件，然后选中一首歌，进入单曲循环模式，然后一个月天天都如此。 之前我看别人晒照片，内容是每天的餐食，那些健身的人拍出来的照片是绿油油的一片，每一张中间夹杂着一点点惨白---那是白水煮的鸡胸肉。当时我觉得这种日子我过不了，三天时间肯定就会放弃。 但等我偶然进入了这种循环模式，开始每天吃一样的饭，似乎这件事情也没有我想象中那么困难。不是说沙拉很美味，那种东西夏天吃还好，冬天送来冰凉的一大份，一边吃一边会感觉到蔬菜不断试图从嗓子眼里往外蹦。只不过我没有那么在意，不会想着换一种美味来替代。相对而言，从下单到开吃不超过 30 分钟，出品常年稳定可靠，这对于我而言要更重要一些。 今年不再吃沙拉，下定决心开始自己做饭，很快就又进入了相同模式。以上个月为例，有 20 多天我都是在两道菜之间选择：要么是一份牛丸配一公斤蔬菜，要么是一份排骨配一公斤蔬菜。主要烹饪方式是水煮，牛丸简单一些",
     "source_root_domain": "hecaitou.com"
-  },
-  {
-    "title": "New Release: The Operative: No One Lives Forever",
-    "url": "https://macsourceports.com/game/nolf1",
-    "date": "2026-11-04T03:23:01Z",
-    "description": "And now we have the first No One Lives Forever game on modern Macs again. The Operative: No One Lives Forever is the first in the series that I believe was supposed to be…",
-    "source_root_domain": "macsourceports.com"
   },
   {
     "title": "无用命途：搞笑版《爱情买卖》，模糊版《农广天地》",
@@ -222,13 +285,6 @@
     "date": "2026-11-03T10:06:57Z",
     "description": "Owen 上周我们在上海办了 Tab 星期四第一期，现场氛围是我自己最想参加的那种聚会，所以想坚持每周都能聚一下！这周四的报名开始了，欢迎来玩！ 活动名字灵感来自浏览器的标签页（Tab），形式有点像线下版的 Hacker News 或 TIL（Today I Learned），人数最多 20 人，要求每人都要做一个简短的分享。 好玩！！等忙完这段时间我也去！",
     "source_root_domain": "versun.me"
-  },
-  {
-    "title": "Xash3D FWGS updated",
-    "url": "https://macsourceports.com/sourceport/xash3d-fwgs",
-    "date": "2026-11-03T09:05:37Z",
-    "description": "The build of Xash3D FWGS for the Half-Life series of games has been updated to the latest code of the project\\n\\nhttps://macsourceports.com/sourceport/xash3d-fwgs\\n\\n#macgaming #retrogaming #macOS #xash3d-fwgs #gaming #apple #m1 #m2 #m3 #applesilicon\\n\\n",
-    "source_root_domain": "macsourceports.com"
   },
   {
     "title": "第十届网络社会年会（新加坡场）｜何炳胜：面向链上智能的图学习：生命周期追踪、欺诈检测与套利洞察",

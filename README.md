@@ -27,20 +27,29 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-11-05 | [Next.js 图片优化完全指南](https://ravelloh.com/posts/nextjs-image-optimization-complete-guide) | Next.js 全生命周期图片优化与架构实践指南。梳理了现代化 Web 应用中“上传优化”（服务端利用 Sharp 进行格式校验、EXIF 转向、WebP 转码与尺寸限制）与“访问优化”（结合 组件与 Next.js Image Optimizer 实现按需裁剪、响应式分发）的双层优化体系；同时提供… |
+| 2026-11-05 | [Lemmings updated](https://macsourceports.com/game/lemmings) | The build of Ultimate Lemmings for Lemmings has been updated to version v2.4.2 of the project |
+| 2026-11-05 | [The Operative: No One Lives Forever updated](https://macsourceports.com/game/nolf1) | The build of NOLF1 for Mac for The Operative: No One Lives Forever has been updated to version 0.5.2 of the project |
+| 2026-11-05 | [esp32：使用esp32cam结合万向双头夹正式开始电动自行车充电检测](https://dsx2016.com/using-an-esp32-cam-paired-with-a-universal-dual-head-clamp-we-are-officially-beginning-the-process-of-monitoring-electric-bicycle-charging/) | 万向双头夹 前几天到了一个万向夹，但是是磁吸底座，需要有铁的物质 经过测试，在置物架上的铁片上可以有一定吸力，... esp32：使用esp32cam结合万向双头夹正式开始电动自行车充电检测 最先出现在 大师兄2016 。 |
+| 2026-11-05 | [剑流德钟，三把壶排排队](https://gugegt.com/20261105-jianliu-dezhong.html) | 三把壶排排队，拍了四张照片。 都是德钟，都是剑流，出自同一位老师。年份不同，泥料不同，用的年头也不同。 |
+| 2026-11-05 | [Might and Magic VII: For Blood and Honor updated](https://macsourceports.com/game/mightandmagic7) | The build of OpenEnroth for Might and Magic VII: For Blood and Honor has been updated to the latest code of the project |
+| 2026-11-05 | [Xash3D FWGS updated](https://macsourceports.com/sourceport/xash3d-fwgs) | The build of Xash3D FWGS for the Half-Life series of games has been updated to the latest code of the project\n\nhttps://macsourceports.com/sourceport… |
+| 2026-11-05 | [Quake III: Arena updated](https://macsourceports.com/game/quake3arena) | The build of ioquake3 for Quake III: Arena has been updated to the latest code of the project |
+| 2026-11-05 | [小米手机无root通过ADB卸载SystemHelper程序](https://www.cheshirex.com/11613.html) | 现在手机想要解BL锁或者root都比较难，最近关于SystemHelper程序的讨论比较多。下面说下怎么无ro […] |
+| 2026-11-05 | [tcpdump 抓包与 Wireshark 分析实战指南](https://blog.rustfisher.com/Network/tcpdump-wireshark-use/) | 实际项目中，我们常常会遇到各种扑朔迷离的网络通信问题。在 VoIP、SIP 语音呼叫或 WebRTC 音视频对讲中，对端提示“未检测到按键（DTMF）”或出现音频卡顿、杂音，难以确认 RTP/UDP 报文是否完整到达。面对自研的私有二进制协议或 IoT 设备通信，抓不到明文 |
 | 2026-11-05 | [剪映要会员，它全免费：这款开源 Mac 剪辑软件我留下来了](https://www.evan.xin/5139/) | 剪映够好用，但它的边界也很清楚：账号要登录、导出要会员、成片带水印。对只是偶尔剪个 vlog、录屏、素材拼接的 […] |
-| 2026-11-05 | [听到别人的声音](https://kaix.in/2026/1105/) | 许多人都会羡慕影视作品里那些异能者吧——能听懂兽语的话，生活该多么有趣，至少绝不会无聊；随便走走，就能听到猫咪们在聊张家长李家短，或者那些不为人知的小秘密说不定天上的飞鸟、路过的狗，都能随口说出。 不过仔细想想，何必懂的兽语呢，只是我们越来越沉浸在自己的世界，沉浸在手里的那块屏幕或者耳机中千里之外的… |
+| 2026-11-05 | [听到别人的声音](https://kaix.in/2026/1105/) | 许多人都会羡慕影视作品里那些异能者吧——能听懂兽语的话，生活该多么有趣，至少绝不会无聊；随便走走，就能听到猫咪们在聊张家长李家短，或者那些不为人知的小秘密说不定天上的飞鸟、路过的狗，都能随口说出。 不过仔细想想，何必懂得兽语呢，只是我们越来越沉浸在自己的世界，沉浸在手里的那块屏幕或者耳机中千里之外的… |
 | 2026-11-05 | [生日快乐，和菜头先生（2026）](https://www.hecaitou.com/2026/11/happy-birthday-to-mr-he-caitou-2026.html) | 今天是我五十一岁生日，一个我当初觉得无比遥远且畏惧的年纪。真到了五十岁的那一刻，其实没什么特别的事情发生。但就像是钟表上的分针，从整点向前转动了第一格，然后「咔嗒」一声停下，会有那么一瞬间的空白，一瞬间的真空，我现在就在那里头。 这一岁过得并不算平顺，精神上也反复经历沉郁甚至黑暗期。幸运的是，朋友们… |
 | 2026-11-05 | [关于乌合之众](https://mobius.blog/26070.html) | 前段时间，一个朋友和我聊天，聊起他在办公室被排挤的话题，而排挤的原因非常无聊——其实是他休假了一段时间，而他回 […] |
 | 2026-11-04 | [2026 年九月 读人工智能，护眼 3 本](https://conge.livingwithfcs.org/2026/11/04/reading-summary/) | 引子 引子 如果想要靠读书了解大模型的话，2023年前的书恐怕都不值得读了。很可惜，我这次读的两本，都没有覆盖大模型。 话说回来，大模型的算法上，开始可以从这两本书找到其家谱的。大语言模型的底层是基于深度神经网络的算法。此两本书对了解大语言模型出现线的人工智能算法版图，还是很有用处的。但大语言模型，… |
-| 2026-11-04 | [Quake III: Arena updated](https://macsourceports.com/game/quake3arena) | The build of ioquake3 for Quake III: Arena has been updated to the latest code of the project |
+| 2026-11-04 | [记一次报警和Web入侵对抗](https://elmagnifico.tech/2026/11/05/Web-Safe-Confrontation/) | Foreword 万万没想到，有一天得代表公司报警，实际体验并不好，很多事情即使在今天，科技这么发达，服务这么健全，也是难以处理的。 报警 事由是我们服务上的资源被爬了，还是我们做了反爬处理的情况下，被强行爬了。涉及数量比较大，实际经济价值巨大，大概能吃3-10年左右的牢饭。 之前也报过其他的警，不… |
+| 2026-11-04 | [长沙出差半周流水](https://blog.solazy.me/20261104/) | 主要晒晒这两天的吃食 |
 | 2026-11-04 | [esp32 mosfet开关 电源输入方式](https://dsx2016.com/esp32-mosfet-switch-power-input-method/) | 电源输入方式 之前只买了一个带有dc充电口和接线端子输出方式的锂电池，方便配合继电器开关 这个锂电池提供5v输... esp32 mosfet开关 电源输入方式 最先出现在 大师兄2016 。 |
 | 2026-11-04 | [给主流模型配个职位: Claude Op](https://versun.me/blog/tweet-2117963662698934514) | 给主流模型配个职位: Claude Opus 5.5：总经理 GPT-6 Astra：首席安全官 Claude Sonnet 5.5：技术总监 Gemini 4 Argon：顾问 Kimi K3.1：工程部经理 Grok 4.7：运营总监 Gemini 3.8 Flash：行政 DeepSeek V… |
 | 2026-11-04 | [Unreal Tournament 2004 updated](https://macsourceports.com/game/unrealtournament2004) | The build of UT2004 for Unreal Tournament 2004 has been updated to version 3374-rc3 of the project |
-| 2026-11-04 | [Lemmings updated](https://macsourceports.com/game/lemmings) | The build of Ultimate Lemmings for Lemmings has been updated to version v2.4.1 of the project |
 | 2026-11-04 | [Ambermoon updated](https://macsourceports.com/game/ambermoon) | The build of Ambermoon.net for Ambermoon has been updated to version v1.15.1 of the project |
 | 2026-11-04 | [关于人们如何识别一篇文章是否由 AI 创作的](https://mobius.blog/26064.html) | 最近发现一个有趣的现象——越来越多的人开始通过文章的写作习惯来判断作者是否使用了 AI。 比如，喜欢使用引号强 […] |
 | 2026-11-04 | [循环模式吃饭](https://www.hecaitou.com/2026/11/eating-on-loop-mode.html) | 我曾经整月连续吃同样的菜单，同一家店，每次都是一份希腊沙拉，再加两个煎蛋。不是刻意如此，只是到了点餐时实在不知道点什么，想着「不如和昨天一样吧」，然后就那么顺理成章地一路点了下去。 这有点像什么？像是每天上班，打开音乐播放软件，然后选中一首歌，进入单曲循环模式，然后一个月天天都如此。 之前我看别人晒… |
-| 2026-11-04 | [New Release: The Operative: No One Lives Forever](https://macsourceports.com/game/nolf1) | And now we have the first No One Lives Forever game on modern Macs again. The Operative: No One Lives Forever is the first in the series that I believ… |
 | 2026-11-04 | [无用命途：搞笑版《爱情买卖》，模糊版《农广天地》](https://blog.mfwt.top/index.php/archives/1715/) | 《无用命途》，专门用来记录一些无用（甚至无厘头的）想法，每个想法后会附带一点内容，用来介绍和这个想法（及其衍生的）有关的东西。每周最多更新一次，但不保证周更，主要看想法的活跃度如何。11月，按A... |
 | 2026-11-04 | [别试图期待人性会给予正反馈](https://mobius.blog/26051.html) | 遛狗时，目睹了两个小男孩的争吵，他们因为一个玩具吵了起来。其中一个大人抱起了自己的孩子，嘴上说着要让着弟弟，但 […] |
 | 2026-11-04 | [AI 彻底改变了程序员这个职业](https://depp.wang/2026/ai-changes-programming/) | 最近有位学计算机的表弟在找实习，跟我说实习生的工作特别不好找。这让我有点感慨，我还是比较幸运，没有在这个时代毕业。如果我现在毕业，我觉得自己一样找不到工作。 我觉得 AI 编程已经彻底改变了程序员这个职业。 现在做开发，很多具体的代码都可以交给 AI 来写了，简单的工作更是如此。程序员自己更多要做的… |
@@ -59,7 +68,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-11-03 | [[译] 如何在一天内改变人生](https://blog.itaober.com/posts/post) | 原文：Dan Koe 《How to fix your entire life in 1 day》 在 X 经常刷到这篇文章的推荐，也收藏了许久，一直都没开始阅读。近期状态有些低迷，体重也没控制住，很多方向都没有想清楚，似乎一切都糟透了。得做些改变啊，就想到了这篇文章。 本文为译文，保留作者的第一人… |
 | 2026-11-03 | [最后还是没开gemini ultra，而](https://versun.me/blog/tweet-2117562356192702909) | Versun 最近 opus 5.5 降智很明显呀。。。。。 准备开 gemini ultra，不知道 argon 和 carbon 的额度耐用不 最后还是没开gemini ultra，而是再开了个claude pro， 因为 opus 编码更稳定可控些， 至于argon，我目前只在jio套餐的网页… |
 | 2026-11-03 | [好玩！！等忙完这段时间我也去！](https://versun.me/blog/tweet-2117559147336253509) | Owen 上周我们在上海办了 Tab 星期四第一期，现场氛围是我自己最想参加的那种聚会，所以想坚持每周都能聚一下！这周四的报名开始了，欢迎来玩！ 活动名字灵感来自浏览器的标签页（Tab），形式有点像线下版的 Hacker News 或 TIL（Today I Learned），人数最多 20 人，要… |
-| 2026-11-03 | [Xash3D FWGS updated](https://macsourceports.com/sourceport/xash3d-fwgs) | The build of Xash3D FWGS for the Half-Life series of games has been updated to the latest code of the project\n\nhttps://macsourceports.com/sourceport… |
 | 2026-11-03 | [第十届网络社会年会（新加坡场）｜何炳胜：面向链上智能的图学习：生命周期追踪、欺诈检测与套利洞察](https://caa-ins.org/archives/13511) | 文 / 何炳胜翻译 / 李易扬校对 / 周蓬岸 听了迪伦和勇刚的演讲后，我感到自己的内容可能技术性过强了，但还是努力确保今天每个人都能有所收获，会尽量把内容讲得更通俗易懂。首先要说明的是，你们可能会问，我为什么会开展这项研究？ 实际上，这项研究早在十年前就开始了，因为我们发现链上数据非常有趣，在我看… |
 | 2026-11-03 | [多卡共享权益包](https://hux.ink/posts/sb-dianxin/) | 上个月无意间在小红书看到一篇帖子，博主分享自己办理了「多卡共享权益包 - 50 GB（2023 春促）」这个套餐包。我去电信资费专区搜了一下，发现确实有，深圳地区 99 元及以上套餐就可以加装。我现在用的是另一款多卡共享权益包，每增加一张副卡只能多 20 GB 流量。现在主副卡一共 5 张，套餐基础… |
 | 2026-11-03 | [esp32：如何把2.54mm杜邦线针脚剥线](https://dsx2016.com/how-to-strip-the-insulation-from-2-54mm-dupont-connector-pins-for-an-esp32/) | 继电器或者焊接 一般esp32上面的排针和针脚是使用2.54mm的杜邦线，对应的传感器模块也是 比杜邦线更方便... esp32：如何把2.54mm杜邦线针脚剥线 最先出现在 大师兄2016 。 |
@@ -88,7 +96,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-11-02 | [esp32 cyd mosfet开关模块 结合home assistant 云养鱼 油管无人直播](https://dsx2016.com/esp32-cyd-mosfet-switching-module-integrated-with-home-assistant-for-remote-fish-keeping-and-automated-youtube-live-streaming/) | 无人直播 昨天找推拉式电磁铁，准备尝试蓝牙无线DIY老式门锁开关，但是没有找到 早上起来就没有继续折腾的性质，... esp32 cyd mosfet开关模块 结合home assistant 云养鱼 油管无人直播 最先出现在 大师兄2016 。 |
 | 2026-11-02 | [走大朝台我在想啥？三](https://1900.live/zou-da-zhao-tai-wo-zai-xiang-sha-san/) | null 头一晚虽然很累，但是睡的很晚，客栈老板提供的这个房间里的床是硬板床，中途醒来好几次，很是折磨。 但是第二天依旧早早就起来了，客栈也没有早餐提供，不过即便提供我也不太想吃，和徐哥洗漱完商量了一下，一人在小卖部买了一桶泡面对付对付得了，要求已经降的非常低了。 因为我们离第二天的徒步起点很远，同… |
 | 2026-11-02 | [2026.9 投资收入以及目前的策略](https://www.p1gd0g.cc/blog/117/) |  |
-| 2026-11-02 | [Might and Magic VII: For Blood and Honor updated](https://macsourceports.com/game/mightandmagic7) | The build of OpenEnroth for Might and Magic VII: For Blood and Honor has been updated to the latest code of the project |
 | 2026-11-02 | [Vite 打包产物在旧版手机 Edge/WebView 样式丢失排查与降级修复](https://blog.rustfisher.com/Web/vite-legacy-webview-style-loss-fix/) | 现象 在开发 webtools 时，用电脑浏览器和新版手机 |
 | 2026-11-02 | [从看得懂到听得懂：我为什么做了 LearnBit](https://lililib.github.io/Learnbit%20%E5%BC%80%E5%8F%91%E6%97%A5%E5%BF%97/) | 我背过很多单词，词汇量还是不错的，也就是说，英文文章我基本能看懂意思，遇到不认识的单词也能八九不离十地猜出大意。 考研过程中，我英文阅读题满分，但是听力特别差，可以说是完全听不懂。虽然没有考核口语，但是我知道口语多半也没戏。 前些日子想进外企，为 |
 | 2026-11-02 | [辐射转移与多方模型](https://physnya.top/astro-physics/lesson-6-polytropic-model/) | 辐射转移方程 用 S ν = j ν / k ν S\nu=j\nu/k_\nu S ν ​ = j ν ​ / k ν ​ 描述介质发射和吸收系数之比，称为源函数， |
