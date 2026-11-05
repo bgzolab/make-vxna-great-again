@@ -27,6 +27,10 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-11-05 | [学习周刊-总第288期-2026年第45周](https://wiki.eryajf.net/pages/164dd2/) | 如要阅读全文，点击标题跳转。 学习周刊-总第288期 &#124; itops-agent-platform &#124; oxideterm &#124; codux &#124; CloseUp &#124; BetterCmdTab &#124; agentsview &#124; kkRepo |
+| 2026-11-05 | [esp32:cyd使用ld2420毫米波雷达人体检测联动home assistant灯开关](https://dsx2016.com/using-an-esp32-cyd-and-an-ld2420-millimeter-wave-radar-sensor-for-human-presence-detection-to-control-lights-in-home-assistant/) | 人体检测 一直有个比较实际的需求，就是比如厨房，厕所的灯，人来灯亮，人走灯延迟一会自动熄灭 一来是人来灯亮，不... esp32:cyd使用ld2420毫米波雷达人体检测联动home assistant灯开关 最先出现在 大师兄2016 。 |
+| 2026-11-05 | [麒麟 v10 系统部署Angie与铜锁国密双栈验证](https://199604.com/3740) | 麒麟V10部署Angie与铜锁国密双栈验证 记录时间：2026-11-05 环境：Kylin V10 SP3 […] |
+| 2026-11-05 | [一键清理所有高科技水印工具 「蒸矢」for macOS](https://blog.est.im/2026/stdout-41) | V站看到 警告！分享淘宝截图可能给你带来危险 于是有个很久的 idea 终于得到实施了。 https://github.com/est/Distill-SVG 把蒸馏成矢量图 SVG ，简称 蒸矢 😃 市面上有很多AI辅助把照片转SVG的，但其实矢量图不适合拿来做这事。GUI这类大量色块的截图倒是非… |
 | 2026-11-05 | [Next.js 图片优化完全指南](https://ravelloh.com/posts/nextjs-image-optimization-complete-guide) | Next.js 全生命周期图片优化与架构实践指南。梳理了现代化 Web 应用中“上传优化”（服务端利用 Sharp 进行格式校验、EXIF 转向、WebP 转码与尺寸限制）与“访问优化”（结合 组件与 Next.js Image Optimizer 实现按需裁剪、响应式分发）的双层优化体系；同时提供… |
 | 2026-11-05 | [Lemmings updated](https://macsourceports.com/game/lemmings) | The build of Ultimate Lemmings for Lemmings has been updated to version v2.4.2 of the project |
 | 2026-11-05 | [The Operative: No One Lives Forever updated](https://macsourceports.com/game/nolf1) | The build of NOLF1 for Mac for The Operative: No One Lives Forever has been updated to version 0.5.2 of the project |
@@ -41,7 +45,10 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-11-05 | [听到别人的声音](https://kaix.in/2026/1105/) | 许多人都会羡慕影视作品里那些异能者吧——能听懂兽语的话，生活该多么有趣，至少绝不会无聊；随便走走，就能听到猫咪们在聊张家长李家短，或者那些不为人知的小秘密说不定天上的飞鸟、路过的狗，都能随口说出。 不过仔细想想，何必懂得兽语呢，只是我们越来越沉浸在自己的世界，沉浸在手里的那块屏幕或者耳机中千里之外的… |
 | 2026-11-05 | [生日快乐，和菜头先生（2026）](https://www.hecaitou.com/2026/11/happy-birthday-to-mr-he-caitou-2026.html) | 今天是我五十一岁生日，一个我当初觉得无比遥远且畏惧的年纪。真到了五十岁的那一刻，其实没什么特别的事情发生。但就像是钟表上的分针，从整点向前转动了第一格，然后「咔嗒」一声停下，会有那么一瞬间的空白，一瞬间的真空，我现在就在那里头。 这一岁过得并不算平顺，精神上也反复经历沉郁甚至黑暗期。幸运的是，朋友们… |
 | 2026-11-05 | [关于乌合之众](https://mobius.blog/26070.html) | 前段时间，一个朋友和我聊天，聊起他在办公室被排挤的话题，而排挤的原因非常无聊——其实是他休假了一段时间，而他回 […] |
+| 2026-11-05 | [Cursor Style：照着 Cursor 官网做的 Typora 主题](https://folay.top/zh/blog/typora-cursor-theme) | 参考 Cursor 官网的视觉风格做了一套 Typora 主题，浅色、深色各一个。 |
+| 2026-11-05 | [Cursor Style: A Typora Theme Based on Cursor's Website](https://folay.top/blog/typora-cursor-theme) | A Typora theme that borrows the look of Cursor's website, in light and dark. |
 | 2026-11-04 | [2026 年九月 读人工智能，护眼 3 本](https://conge.livingwithfcs.org/2026/11/04/reading-summary/) | 引子 引子 如果想要靠读书了解大模型的话，2023年前的书恐怕都不值得读了。很可惜，我这次读的两本，都没有覆盖大模型。 话说回来，大模型的算法上，开始可以从这两本书找到其家谱的。大语言模型的底层是基于深度神经网络的算法。此两本书对了解大语言模型出现线的人工智能算法版图，还是很有用处的。但大语言模型，… |
+| 2026-11-04 | [AI 早报 2026-11-05：Ai2 获谷歌支持开发 NeuralGCM+，探索数十年气候预测](https://www.jtxyh.com/daily/2026-11-05/) | 2026-11-05 AI 早报，共 21 条动态。Ai2 11月4日宣布，与 Google.org 和 Google Research 启动三年气候建模项目，计划把 NeuralGCM 扩展为联结大气、海洋与海冰的 NeuralGCM+。OpenAI 11 月 4 日（美东时间）发布 ChatGP… |
 | 2026-11-04 | [记一次报警和Web入侵对抗](https://elmagnifico.tech/2026/11/05/Web-Safe-Confrontation/) | Foreword 万万没想到，有一天得代表公司报警，实际体验并不好，很多事情即使在今天，科技这么发达，服务这么健全，也是难以处理的。 报警 事由是我们服务上的资源被爬了，还是我们做了反爬处理的情况下，被强行爬了。涉及数量比较大，实际经济价值巨大，大概能吃3-10年左右的牢饭。 之前也报过其他的警，不… |
 | 2026-11-04 | [长沙出差半周流水](https://blog.solazy.me/20261104/) | 主要晒晒这两天的吃食 |
 | 2026-11-04 | [esp32 mosfet开关 电源输入方式](https://dsx2016.com/esp32-mosfet-switch-power-input-method/) | 电源输入方式 之前只买了一个带有dc充电口和接线端子输出方式的锂电池，方便配合继电器开关 这个锂电池提供5v输... esp32 mosfet开关 电源输入方式 最先出现在 大师兄2016 。 |

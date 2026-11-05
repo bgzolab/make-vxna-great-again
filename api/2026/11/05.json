@@ -1,5 +1,33 @@
 [
   {
+    "title": "学习周刊-总第288期-2026年第45周",
+    "url": "https://wiki.eryajf.net/pages/164dd2/",
+    "date": "2026-11-05T22:34:45Z",
+    "description": "如要阅读全文，点击标题跳转。 学习周刊-总第288期 | itops-agent-platform | oxideterm | codux | CloseUp | BetterCmdTab | agentsview | kkRepo",
+    "source_root_domain": "eryajf.net"
+  },
+  {
+    "title": "esp32:cyd使用ld2420毫米波雷达人体检测联动home assistant灯开关",
+    "url": "https://dsx2016.com/using-an-esp32-cyd-and-an-ld2420-millimeter-wave-radar-sensor-for-human-presence-detection-to-control-lights-in-home-assistant/",
+    "date": "2026-11-05T15:46:50Z",
+    "description": "人体检测 一直有个比较实际的需求，就是比如厨房，厕所的灯，人来灯亮，人走灯延迟一会自动熄灭 一来是人来灯亮，不... esp32:cyd使用ld2420毫米波雷达人体检测联动home assistant灯开关 最先出现在 大师兄2016 。",
+    "source_root_domain": "dsx2016.com"
+  },
+  {
+    "title": "麒麟 v10 系统部署Angie与铜锁国密双栈验证",
+    "url": "https://199604.com/3740",
+    "date": "2026-11-05T14:39:11Z",
+    "description": "麒麟V10部署Angie与铜锁国密双栈验证 记录时间：2026-11-05 环境：Kylin V10 SP3 […]",
+    "source_root_domain": "199604.com"
+  },
+  {
+    "title": "一键清理所有高科技水印工具 「蒸矢」for macOS",
+    "url": "https://blog.est.im/2026/stdout-41",
+    "date": "2026-11-05T14:16:00Z",
+    "description": "V站看到 警告！分享淘宝截图可能给你带来危险 于是有个很久的 idea 终于得到实施了。 https://github.com/est/Distill-SVG 把蒸馏成矢量图 SVG ，简称 蒸矢 😃 市面上有很多AI辅助把照片转SVG的，但其实矢量图不适合拿来做这事。GUI这类大量色块的截图倒是非常适合。 发行两个 dmg 13MB 完整版，适合普通用户 DistillSVG-arm64-full.dmg 400KB 适合能自己折腾 python 环境的。 DistillSVG-arm64-python.dmg 后者需要 pip 装 cv Pillow 等。可以共享已有环境避免重复安装 也可以自己 git clone 命令行操作 转文字通过 macOS 自带 OCR ，图标、头像等会尽可能给你扣出来保留 对于常见的聊天界面加水印够用了。文字识别有问题，你用文本编辑器打开 SVG 改下就行。 如果你说水印藏在头像里，那的确（暂时）还没啥好的办法 目前对于图标太多，需要多处定位的效果很差，蒸矢变蒸💩了。一般的稀疏聊天界面勉强还行 下面是生成的 SVG 样例： 有效果不佳的 case 欢迎",
+    "source_root_domain": "feedburner.com"
+  },
+  {
     "title": "Next.js 图片优化完全指南",
     "url": "https://ravelloh.com/posts/nextjs-image-optimization-complete-guide",
     "date": "2026-11-05T13:29:54Z",
@@ -98,11 +126,32 @@
     "source_root_domain": "mobius.blog"
   },
   {
+    "title": "Cursor Style：照着 Cursor 官网做的 Typora 主题",
+    "url": "https://folay.top/zh/blog/typora-cursor-theme",
+    "date": "2026-11-05T00:00:00Z",
+    "description": "参考 Cursor 官网的视觉风格做了一套 Typora 主题，浅色、深色各一个。",
+    "source_root_domain": "folay.top"
+  },
+  {
+    "title": "Cursor Style: A Typora Theme Based on Cursor's Website",
+    "url": "https://folay.top/blog/typora-cursor-theme",
+    "date": "2026-11-05T00:00:00Z",
+    "description": "A Typora theme that borrows the look of Cursor's website, in light and dark.",
+    "source_root_domain": "folay.top"
+  },
+  {
     "title": "2026 年九月 读人工智能，护眼 3 本",
     "url": "https://conge.livingwithfcs.org/2026/11/04/reading-summary/",
     "date": "2026-11-04T23:15:00Z",
     "description": "引子 引子 如果想要靠读书了解大模型的话，2023年前的书恐怕都不值得读了。很可惜，我这次读的两本，都没有覆盖大模型。 话说回来，大模型的算法上，开始可以从这两本书找到其家谱的。大语言模型的底层是基于深度神经网络的算法。此两本书对了解大语言模型出现线的人工智能算法版图，还是很有用处的。但大语言模型，算法之外，还有大数据，算力，并行计算的问题需要处理，很多时候，是工程问题。大语言的许多问题，很多时候都不是在学术界的实验室可以研究的了，必须进入到工业届的生产环境中去碰撞问题、寻求答案。 据说，现在世界上与大模型训练和部署相关的人才，不足万人，大概是5000人的规模。我不是那5000分之一。",
     "source_root_domain": "livingwithfcs.org"
+  },
+  {
+    "title": "AI 早报 2026-11-05：Ai2 获谷歌支持开发 NeuralGCM+，探索数十年气候预测",
+    "url": "https://www.jtxyh.com/daily/2026-11-05/",
+    "date": "2026-11-04T16:00:00Z",
+    "description": "2026-11-05 AI 早报，共 21 条动态。Ai2 11月4日宣布，与 Google.org 和 Google Research 启动三年气候建模项目，计划把 NeuralGCM 扩展为联结大气、海洋与海冰的 NeuralGCM+。OpenAI 11 月 4 日（美东时间）发布 ChatGPT Images…",
+    "source_root_domain": "jtxyh.com"
   },
   {
     "title": "记一次报警和Web入侵对抗",
