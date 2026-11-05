@@ -27,8 +27,14 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-11-05 | [剪映要会员，它全免费：这款开源 Mac 剪辑软件我留下来了](https://www.evan.xin/5139/) | 剪映够好用，但它的边界也很清楚：账号要登录、导出要会员、成片带水印。对只是偶尔剪个 vlog、录屏、素材拼接的 […] |
+| 2026-11-05 | [听到别人的声音](https://kaix.in/2026/1105/) | 许多人都会羡慕影视作品里那些异能者吧——能听懂兽语的话，生活该多么有趣，至少绝不会无聊；随便走走，就能听到猫咪们在聊张家长李家短，或者那些不为人知的小秘密说不定天上的飞鸟、路过的狗，都能随口说出。 不过仔细想想，何必懂的兽语呢，只是我们越来越沉浸在自己的世界，沉浸在手里的那块屏幕或者耳机中千里之外的… |
+| 2026-11-05 | [生日快乐，和菜头先生（2026）](https://www.hecaitou.com/2026/11/happy-birthday-to-mr-he-caitou-2026.html) | 今天是我五十一岁生日，一个我当初觉得无比遥远且畏惧的年纪。真到了五十岁的那一刻，其实没什么特别的事情发生。但就像是钟表上的分针，从整点向前转动了第一格，然后「咔嗒」一声停下，会有那么一瞬间的空白，一瞬间的真空，我现在就在那里头。 这一岁过得并不算平顺，精神上也反复经历沉郁甚至黑暗期。幸运的是，朋友们… |
+| 2026-11-05 | [关于乌合之众](https://mobius.blog/26070.html) | 前段时间，一个朋友和我聊天，聊起他在办公室被排挤的话题，而排挤的原因非常无聊——其实是他休假了一段时间，而他回 […] |
+| 2026-11-04 | [2026 年九月 读人工智能，护眼 3 本](https://conge.livingwithfcs.org/2026/11/04/reading-summary/) | 引子 引子 如果想要靠读书了解大模型的话，2023年前的书恐怕都不值得读了。很可惜，我这次读的两本，都没有覆盖大模型。 话说回来，大模型的算法上，开始可以从这两本书找到其家谱的。大语言模型的底层是基于深度神经网络的算法。此两本书对了解大语言模型出现线的人工智能算法版图，还是很有用处的。但大语言模型，… |
 | 2026-11-04 | [Quake III: Arena updated](https://macsourceports.com/game/quake3arena) | The build of ioquake3 for Quake III: Arena has been updated to the latest code of the project |
 | 2026-11-04 | [esp32 mosfet开关 电源输入方式](https://dsx2016.com/esp32-mosfet-switch-power-input-method/) | 电源输入方式 之前只买了一个带有dc充电口和接线端子输出方式的锂电池，方便配合继电器开关 这个锂电池提供5v输... esp32 mosfet开关 电源输入方式 最先出现在 大师兄2016 。 |
+| 2026-11-04 | [给主流模型配个职位: Claude Op](https://versun.me/blog/tweet-2117963662698934514) | 给主流模型配个职位: Claude Opus 5.5：总经理 GPT-6 Astra：首席安全官 Claude Sonnet 5.5：技术总监 Gemini 4 Argon：顾问 Kimi K3.1：工程部经理 Grok 4.7：运营总监 Gemini 3.8 Flash：行政 DeepSeek V… |
 | 2026-11-04 | [Unreal Tournament 2004 updated](https://macsourceports.com/game/unrealtournament2004) | The build of UT2004 for Unreal Tournament 2004 has been updated to version 3374-rc3 of the project |
 | 2026-11-04 | [Lemmings updated](https://macsourceports.com/game/lemmings) | The build of Ultimate Lemmings for Lemmings has been updated to version v2.4.1 of the project |
 | 2026-11-04 | [Ambermoon updated](https://macsourceports.com/game/ambermoon) | The build of Ambermoon.net for Ambermoon has been updated to version v1.15.1 of the project |
@@ -209,18 +215,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-10-29 | [哈咯 @StartLuxAI 你家的 a](https://versun.me/blog/tweet-2115633816111030695) | 哈咯 @StartLuxAI 你家的 api 页面记得改下 logo 啥的，目前显示是new api🤣 |
 | 2026-10-29 | [Memos: 当下软件开发的效率瓶颈](https://blog.yasking.org/a/1793239872) | 近期感受： 各岗位都在拥抱 AI，以提升自身效率、实现局部最优；但需求传递、前后端联调、交付验收的沟通链路成本仍然存在 … |
 | 2026-10-29 | [小小逃离](https://yovey.me/%e5%b0%8f%e5%b0%8f%e9%80%83%e7%a6%bb/) | 10/29 09:04 工作又很忙了，上周末rui回南昌，吃顿饭的功夫，不知怎么被怂恿着就买了票，跟着一块到台 … Continue reading "小小逃离" |
-| 2026-10-28 | [AI 早报 2026-10-29：韩国芯片商 FuriosaAI 完成 6.2 亿美元 D 轮融资，投后估值 29 亿美元](https://www.jtxyh.com/daily/2026-10-29/) | 2026-10-29 AI 早报，共 25 条动态。韩国 AI 芯片初创 FuriosaAI 10 月 28 日宣布完成 6.2 亿美元（约 8200 亿韩元）D 轮融资，投后估值约 29 亿美元，约为上一轮 7.35 亿美元的近四倍。三星电子 10 月 29 日公布第三季度业绩：营业利润增至上年同… |
-| 2026-10-28 | [BepInEx Mod入门](https://elmagnifico.tech/2026/10/29/BepInEx-Mod/) | Foreword 上一篇把龙窟破坏者的 Wiki 做出来了，还没想过弄 mod。人家好歹全程联网，mod 听起来就不合适。 没想到你不做就有别人做，还是 AI 做的。看了一眼，基本全是生成的，东西也能用。那就顺着 BepInEx 把mod的执行流程弄清楚。 BepInEx BepInEx 是 Uni… |
-| 2026-10-28 | [像维护软件一样维护效率系统](https://www.geedea.pro/article/note-dev/) | 标题可能会让人误以为我要介绍精密复杂的 PKM 体系，但实际上我 我不混“知识管理圈” 很久了。我想我数次安装和卸载 Emacs，仍然用 Neovim 写代码和写文， 一部分 原因是 Org Mode 对我毫无吸引力，甚至有可能会害了我 1 。 好的软件不 总 是精巧复杂的，甚至大部分时候是简单的，… |
-| 2026-10-28 | [Vibe Coding for TV：开源了一个电视投屏接收器](https://atbug.com/vibe-coding-for-tv-leancast/) | TL;DR 一台 32 位的旧 Fire TV，一个晚上：系统精简出 1.9GB 存储，再从零写出一个 5MB 的开源投屏接收器，90 个单元测试和真机 E2E 全绿。 背景 几年前陆续买过两台外贸电视。所谓外贸电视，就是国内厂商给国外品牌代工的产品——我买的两台，一台是给 ONN 代工的；另一台就… |
-| 2026-10-28 | [远程工作不要居家](https://smallyu.net/2026/10/28/%E8%BF%9C%E7%A8%8B%E5%B7%A5%E4%BD%9C%E4%B8%8D%E8%A6%81%E5%B1%85%E5%AE%B6/) | 由于行业的特殊性质，我已经远程工作超过 3 年时间，期间至少换过 3 次工作，而每一次的新工作也都是远程形式。很多人觉得远程工作是一种 “福利”、“好处”，想尽办法想找远程工作，我实在不理解他们。 当然今天要说的是另外一件事情，3 年前我写《<a |
-| 2026-10-28 | [免费域名怎么接入 Cloudflare Workers：用 SaaS 自定义主机名借道](https://www.gaojinan.com/free-domain-cloudflare-saas-custom-hostname.html) | 手里要是有个免费二级域名，想拿它跑 Cloudflare Workers 或 Pages，多半会卡在第一步：域名本身不在 Cloudflare 托管，常规的加站点、绑自定义域名那套走不通。硬接的... |
-| 2026-10-28 | [野人编年史](http://imlane.zhanglintc.co/ye-ren-bian-nian-shi) | 野人编年史 野人创始人 徐队 ，群昵称Shogun。姓徐，称徐队，真野人队长，野人 抖音官号 持有者。 张队 ，群昵称张小不。江湖人称竹节虫，简称虫队，野人 微信公众号 持有者。 熊队 ，群昵称熊嘎婆，称熊队。 野人CLUB游泳事业部 群主。 亮队 ，群昵称亮什么，称亮队，野人 小红书官号 持有者。… |
-| 2026-10-28 | [笔记：C++ IO 加速与 freopen 顺序无关](https://blog.mxdyeah.com/post/cpp-io-sync-freopen-order-independent) | 最近在备考 CSP-S2，做如下笔记：ios::syncwithstdio、cin.tie、cout.tie 和 freopen 顺序无关。甚至可以交错书写（但不建议）：ios::sync_... |
-| 2026-10-28 | [人有瑕疵](https://www.hecaitou.com/2026/10/human-imperfection.html) | 是人就会有瑕疵，近乎完美的东西的确存在，但人看多了会觉得「没人味」，说的就是无瑕疵。 AI 绘画不是不好，大部分人画不到 AI 的水平，但这种好却很容易让人感到厌倦，因为从画面中看不出挣扎、犹豫、思考，总是一挥而就，每一笔刚好都朝着完成的方向。 AI 作文也不是不好，它的文字水平远超人类的 75 分… |
-| 2026-10-28 | [Linveo 2026 年英特尔 VPS 促销](https://www.cheshirex.com/11532.html) | 之前博主发过 Linveo 相关的活动，自己也用过几台VPS。使用体验不错，当时跑挖矿脚本一直高占用资源没出现 […] |
-| 2026-10-28 | [双向奔赴的厌恶](https://mobius.blog/26006.html) | 我很相信动物直觉的，比如在狗公园时，特别是当我很厌烦一只狗时，多半也会因此厌烦这个狗的狗主人。而且狗本身也可以 […] |
-| 2026-10-28 | [三亚之旅](https://www.iarthit.com/posts/2026/10/28/%E4%B8%89%E4%BA%9A%E4%B9%8B%E6%97%85.html) | 旅行和一位女性朋友一起去三亚玩了5天，下面是我自己做的攻略，大家可以做参考。一共花费大概6000左右 |
 
 ## Vibe Coding
 
