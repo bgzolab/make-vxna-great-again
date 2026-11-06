@@ -27,11 +27,20 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-11-06 | [大模型原理通俗讲解：attention、后训练和蒸馏](http://xueshi.me/2026/11/06/llm-attention-post-training-distillation/) | 用伪代码和能手算的小例子讲清楚大模型的工作原理：点积、Q/K/V 和 attention、多头注意力、前馈网络、残差连接、新的 token 怎么生成；基座模型怎么经过后训练变成助手，编程模型怎么训练，蒸馏是什么，MoE 是什么，以及现在最前沿的模型又多了哪些技术。附录是辅助理解的部分。 |
+| 2026-11-06 | [Hermes Agent v0.23.0 升级：一次安全修复，让我的 Chrome 无法启动](https://liudon.com/posts/hermes-agent-v0-23-0-chrome-s6/) | 今天看到 Hermes Agent 发布了 v0.23.0 版本，加了很多新特性。 刚好有时间，于是顺手做了一下升级。 从 v0.22.5 升级到 v0.23.0 我用的是 Docker 部署，升级非常简单： 备份 .hermes 目录数据 重新拉取 v0.23.0 镜像部署容器 一切顺利，升级后的… |
+| 2026-11-06 | [博客疑似被ai爬虫伪造refer爬取数据被勿污染](https://dsx2016.com/blog-data-may-have-been-contaminated-by-ai-crawlers-that-spoofed-the-referer-header-to-scrape-content/) | aocr.org 近期发现我的博客都有来源这个网站的访问 但是访问这个网站发现是一个美国医疗小机构的官网之类的... 博客疑似被ai爬虫伪造refer爬取数据被勿污染 最先出现在 大师兄2016 。 |
+| 2026-11-06 | [脉冲星](https://physnya.top/compact-object/lesson-7-pulsars/) | Pre-1: Kerr-Neumann Perturbations 我们的问题是一个被扰动的黑洞会释放辐射，而这个微扰会如何改动它的辐射复频率. 计算的方法是对 Einstein 方程做一阶微扰. 在过去的方法中，有过对于 a = 0 a=0 a = 0 / Q = 0 Q=0 Q = 0 两种情况… |
+| 2026-11-06 | [Tidal Disruption Events](https://physnya.top/posts/tde-lecture/) | 提示 这是我去 wxf 老师组会听北大的 yyh 老师讲的报告时记录的笔记，留作备份. 由于我之前并没有接触过 TDE 相关的内容，因此听得不是很明白，勉强记下来一些. General Intro 简单来说是黑洞将一个恒星或者天体瓦解的过程. 定性上， G M r 2 R ⋆ r ∼ G M ⋆ R… |
+| 2026-11-06 | [Total Annihilation updated](https://macsourceports.com/game/totalannihilation) | The build of Open Annihilation for Total Annihilation has been updated to version v0.9.0 of the project |
+| 2026-11-06 | [我想给自己建立一个长期运行的 AI 助手](https://www.banzhuanriji.com/posts/a-long-term-ai-assistant/) | 最近一直在想一件事：能不能把 AI 真正融入自己的生活？ 这里说的融入，不是每天打开 ChatGPT 问几个技术问题，也不是让 AI 帮忙写文章、整理资料。我想做的是更进一步的事情。 我希望有一个 AI，它能够逐渐了解我。 知道我做什么工作，有哪些能力，经济状况怎么样，平时有什么习惯，喜欢什么、不喜… |
+| 2026-11-06 | [Claude Code、Codex 与 Seedance 做 AI 视频：从想法到成片](https://gugegt.com/20261106-claude-codex-seedance-ai-video.html) | 这篇整理自 Eian 11 月 5 日发在 X 上的长文，280 多万浏览，讲怎么用 Claude Code、Codex、Seedance 做一条 AI 视频。全文分工具层和实操两部分，我按原帖的结构整理，要点和做法都保留，10 段提示词都按要点展开写细了，原文提示词见下面的原帖。 这篇只解决一个问… |
 | 2026-11-06 | [Might and Magic VII: For Blood and Honor updated](https://macsourceports.com/game/mightandmagic7) | The build of OpenEnroth for Might and Magic VII: For Blood and Honor has been updated to the latest code of the project |
 | 2026-11-06 | [Xash3D FWGS updated](https://macsourceports.com/sourceport/xash3d-fwgs) | The build of Xash3D FWGS for the Half-Life series of games has been updated to the latest code of the project\n\nhttps://macsourceports.com/sourceport… |
 | 2026-11-06 | [Looped Transformer的量化：误差传播、NVFP4 与差分调制](https://mer.dev/posts/loopquant-fp4/) | 最近循环模型量化的一些分析与实验。 |
 | 2026-11-06 | [學習網頁內容無障礙](https://taxodium.ink/learn-web-content-accessibility.html) | 學習網頁內容無障礙 目錄 什麼是網頁內容無障礙，以及為什麼要實踐網頁內容無障礙 如何學習網頁內容無障礙 學習目標 WACG WAI-ARIA 如何學習 博客中常見的網頁內容無障礙問題 連結 錯別字 顏色和對比度 Tab 焦點和順序 圖片上的替代文本 頁要元素太多，太雜 存在兩個方向的滾動條 頁面有一… |
 | 2026-11-06 | [意外花开](https://www.hecaitou.com/2026/11/the-unexpected-bloom.html) | 多年以来，我根本不相信命书上所说，自己是什么「乙木」命。毫无任何征象，任何花草树木进了我家，很快就会凋萎。最近十年来唯一的例外是一棵芦荟，是保洁阿姨看不下去那些空花盆，随手插了一枝进去，结果每年都会发出满满一大盆。而我也切了一枝试图克隆这种成功，毫无意外地顺利失败了。 所以我怎么可能是什么乙木命？我… |
+| 2026-11-06 | [我做了个只收录精品软件的网站 SoftBests](https://blog.forecho.com/introducing-softbests.html) | 引言 今年我没有续费用了几年的 Setapp。 最直接的原因是：我常用的那几款软件，在外面都能找到更好或更轻的替代品，继续为大而全的订阅付费，对我来说已经不划算了。 与此同时，我发现 Vibe Coding 兴起让做软件的门槛断崖式下跌。以前几个月才能做出来的工具，现在几天就能出一个可用版本。但软件… |
 | 2026-11-06 | [美好是因为无视美好的逝去](https://mobius.blog/26083.html) | 文章的副标题是《R.I.P IV》。 这个系列还在继续，也是接着《写在2026年新年之前》的一部分。 曾经我和 […] |
 | 2026-11-06 | [从中期选举说起，理解美国国会、众议院和参议院](https://depp.wang/2026/us-congress/) | 看这次美国中期选举的报道，说伊朗战争、油价和物价上涨让选民越来越不满，特朗普所在的共和党这次输得很彻底。民主党拿下了下一届国会的两院多数，连一些长期由共和党占据的席位也丢了。但我想弄明白，这个「输得很彻底」具体是什么意思？失去这些席位，对特朗普到底有什么影响？我虽然知道美国有三权分立，但对国会、众议… |
 | 2026-11-06 | [Memos #2026-11-05](https://blog.itaober.com/memos/memo_20261105105037_c3esb7) | 18:55 难得有一期是以故事为主，羡慕这期嘉宾们的状态，快乐是生活的头等大事，像极了大学时期。 最后大老王说的小孩新闻发布会还挺有意思，mark，希望我以后还记得。 |
@@ -41,6 +50,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-11-05 | [10 天，每天不到 10 克脂肪：Action FCS 低脂食谱中文版发布了](https://conge.livingwithfcs.org/2026/11/05/action-fcs-low-fat-recipes/) | 明天，11 月 6 日，是 FCS 知晓日（FCS Awareness Day）。 对我来说，这不是一个抽象的日子。我是 FCS 患者，每天吃 10–20 克脂肪，小心翼翼地避开胰腺炎，跑步、生活、工作，都围着这个数字转。外人很难想象 10 克脂肪一天是什么概念——大概就是一小勺油的量。 今年，我们… |
 | 2026-11-05 | [学习周刊-总第288期-2026年第45周](https://wiki.eryajf.net/pages/164dd2/) | 如要阅读全文，点击标题跳转。 学习周刊-总第288期 &#124; itops-agent-platform &#124; oxideterm &#124; codux &#124; CloseUp &#124; BetterCmdTab &#124; agentsview &#124; kkRepo |
 | 2026-11-05 | [Arx Fatalis updated](https://macsourceports.com/game/arxfatalis) | The build of Arx Libertatis for Arx Fatalis has been updated to version 1.2.1 of the project |
+| 2026-11-05 | [AI 早报 2026-11-06：特斯拉宣布停产 Cybertruck，工厂腾给无人驾驶出租车 Cybercab](https://www.jtxyh.com/daily/2026-11-06/) | 2026-11-06 AI 早报，共 27 条动态。马斯克 11 月 6 日在 X 上宣布，特斯拉将于 2027 年年中前后停产 Cybertruck，把得州超级工厂的产线腾出来生产无人驾驶出租车 Cybercab。路透 11 月 5 日独家报道，约 60 万块英伟达 H200 AI… |
 | 2026-11-05 | [esp32:cyd使用ld2420毫米波雷达人体检测联动home assistant灯开关](https://dsx2016.com/using-an-esp32-cyd-and-an-ld2420-millimeter-wave-radar-sensor-for-human-presence-detection-to-control-lights-in-home-assistant/) | 人体检测 一直有个比较实际的需求，就是比如厨房，厕所的灯，人来灯亮，人走灯延迟一会自动熄灭 一来是人来灯亮，不... esp32:cyd使用ld2420毫米波雷达人体检测联动home assistant灯开关 最先出现在 大师兄2016 。 |
 | 2026-11-05 | [人体的说明书](https://blog.solazy.me/20261105/) | 最近越来越感叹，我们活一辈子可能都搞不到这份说明书呢 |
 | 2026-11-05 | [麒麟 v10 系统部署Angie与铜锁国密双栈验证](https://199604.com/3740) | 麒麟V10部署Angie与铜锁国密双栈验证 记录时间：2026-11-05 环境：Kylin V10 SP3 […] |
@@ -116,7 +126,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-11-02 | [R#126 滴————](https://blog.sakanano.moe/journals/random_126) | 2026.10.27 ~ 2026.11.2 |
 | 2026-11-02 | [我的差旅打车法则](https://blog.solazy.me/20261102/) | 最近打车变得多了起来 |
 | 2026-11-02 | [瞎扯谈](http://soap09.cn/articles/2026/11/02/1793627893103.html) |  |
-| 2026-11-02 | [Total Annihilation updated](https://macsourceports.com/game/totalannihilation) | The build of Open Annihilation for Total Annihilation has been updated to version v0.8.14 of the project |
 | 2026-11-02 | [好，这就去重新下载，记不清这是我第几次重](https://versun.me/blog/tweet-2117220385947279712) | yetone 第一轮测试，我就是将原推里的屏幕截图分别给了它们，让它们找到该壁纸的最高清版本，结果如下（图片也按文字的顺序展示各个 Agent 的结果）： 1. Grok bot：用最快的速度找到了推特上的原图，但大小只有 736×736，直接返回给我结束了。 2. Muse：找了好久好久，翻了很多… |
 | 2026-11-02 | [红果是不是来推做推广了，我都卸载好久了，](https://versun.me/blog/tweet-2117219191476420657) | yihong0618 如果只推荐一个短剧我也推荐《拉黑遇真爱》 https://twitter.com/xuanwo/status/2116861654843740282 红果是不是来推做推广了，我都卸载好久了，今天又下载回来了，脑洞真大！好看 |
 | 2026-11-02 | [esp32 cyd mosfet开关模块 结合home assistant 云养鱼 油管无人直播](https://dsx2016.com/esp32-cyd-mosfet-switching-module-integrated-with-home-assistant-for-remote-fish-keeping-and-automated-youtube-live-streaming/) | 无人直播 昨天找推拉式电磁铁，准备尝试蓝牙无线DIY老式门锁开关，但是没有找到 早上起来就没有继续折腾的性质，... esp32 cyd mosfet开关模块 结合home assistant 云养鱼 油管无人直播 最先出现在 大师兄2016 。 |

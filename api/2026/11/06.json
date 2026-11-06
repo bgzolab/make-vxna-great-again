@@ -1,5 +1,61 @@
 [
   {
+    "title": "大模型原理通俗讲解：attention、后训练和蒸馏",
+    "url": "http://xueshi.me/2026/11/06/llm-attention-post-training-distillation/",
+    "date": "2026-11-06T17:30:00Z",
+    "description": "用伪代码和能手算的小例子讲清楚大模型的工作原理：点积、Q/K/V 和 attention、多头注意力、前馈网络、残差连接、新的 token 怎么生成；基座模型怎么经过后训练变成助手，编程模型怎么训练，蒸馏是什么，MoE 是什么，以及现在最前沿的模型又多了哪些技术。附录是辅助理解的部分。",
+    "source_root_domain": "xueshi.me"
+  },
+  {
+    "title": "Hermes Agent v0.23.0 升级：一次安全修复，让我的 Chrome 无法启动",
+    "url": "https://liudon.com/posts/hermes-agent-v0-23-0-chrome-s6/",
+    "date": "2026-11-06T14:20:23Z",
+    "description": "今天看到 Hermes Agent 发布了 v0.23.0 版本，加了很多新特性。 刚好有时间，于是顺手做了一下升级。 从 v0.22.5 升级到 v0.23.0 我用的是 Docker 部署，升级非常简单： 备份 .hermes 目录数据 重新拉取 v0.23.0 镜像部署容器 一切顺利，升级后的版本信息：",
+    "source_root_domain": "liudon.com"
+  },
+  {
+    "title": "博客疑似被ai爬虫伪造refer爬取数据被勿污染",
+    "url": "https://dsx2016.com/blog-data-may-have-been-contaminated-by-ai-crawlers-that-spoofed-the-referer-header-to-scrape-content/",
+    "date": "2026-11-06T13:08:09Z",
+    "description": "aocr.org 近期发现我的博客都有来源这个网站的访问 但是访问这个网站发现是一个美国医疗小机构的官网之类的... 博客疑似被ai爬虫伪造refer爬取数据被勿污染 最先出现在 大师兄2016 。",
+    "source_root_domain": "dsx2016.com"
+  },
+  {
+    "title": "脉冲星",
+    "url": "https://physnya.top/compact-object/lesson-7-pulsars/",
+    "date": "2026-11-06T12:30:39Z",
+    "description": "Pre-1: Kerr-Neumann Perturbations 我们的问题是一个被扰动的黑洞会释放辐射，而这个微扰会如何改动它的辐射复频率. 计算的方法是对 Einstein 方程做一阶微扰. 在过去的方法中，有过对于 a = 0 a=0 a = 0 / Q = 0 Q=0 Q = 0 两种情况的比较好的解法，这篇论文则提出了对于 a Q ≠ 0 aQ\\neq0 a Q  = 0 情况的一种解法.",
+    "source_root_domain": "physnya.top"
+  },
+  {
+    "title": "Tidal Disruption Events",
+    "url": "https://physnya.top/posts/tde-lecture/",
+    "date": "2026-11-06T12:30:39Z",
+    "description": "提示 这是我去 wxf 老师组会听北大的 yyh 老师讲的报告时记录的笔记，留作备份. 由于我之前并没有接触过 TDE 相关的内容，因此听得不是很明白，勉强记下来一些. General Intro 简单来说是黑洞将一个恒星或者天体瓦解的过程. 定性上， G M r 2 R ⋆ r ∼ G M ⋆ R ⋆ 2 \\frac{GM}{r^2}\\frac{R\\star}{r}\\sim \\frac{GM\\star}{R_\\star^2} r 2 GM ​ r R ⋆ ​ ​ ∼ R ⋆ 2 ​ G M ⋆ ​ ​",
+    "source_root_domain": "physnya.top"
+  },
+  {
+    "title": "Total Annihilation updated",
+    "url": "https://macsourceports.com/game/totalannihilation",
+    "date": "2026-11-06T12:00:38Z",
+    "description": "The build of Open Annihilation for Total Annihilation has been updated to version v0.9.0 of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "我想给自己建立一个长期运行的 AI 助手",
+    "url": "https://www.banzhuanriji.com/posts/a-long-term-ai-assistant/",
+    "date": "2026-11-06T10:11:49Z",
+    "description": "最近一直在想一件事：能不能把 AI 真正融入自己的生活？ 这里说的融入，不是每天打开 ChatGPT 问几个技术问题，也不是让 AI 帮忙写文章、整理资料。我想做的是更进一步的事情。 我希望有一个 AI，它能够逐渐了解我。 知道我做什么工作，有哪些能力，经济状况怎么样，平时有什么习惯，喜欢什么、不喜欢什么，过去经历过什么事情，做过哪些选择，又为什么做出这些选择。 甚至包括一些不太容易在一次对话中讲清楚的东西，比如我的性格、价值观、对未来的期待，以及我对某些事情的真实看法。 这些信息不需要一次性告诉它，而是在日常生活中慢慢积累。 以后无论遇到工作、财务、生活还是其他方面的问题，我都可以直接把事情告诉它，而不需要每次重新介绍自己的背景。 我希望它能够结合过去的信息，帮我分析眼前的问题，并告诉我接下来应该怎么做。 这可能是我想做这个项目最主要的原因。 我不缺一个能回答问题的 AI 现在的 AI 已经很擅长回答问题了。 遇到技术问题，可以让它分析代码；准备买东西，可以让它对比产品；想学习新知识，可以让它整理学习路线。 但我发现，这些事情有一个共同的问题：AI 通常只知道我当前告诉它的信息。 比",
+    "source_root_domain": "banzhuanriji.com"
+  },
+  {
+    "title": "Claude Code、Codex 与 Seedance 做 AI 视频：从想法到成片",
+    "url": "https://gugegt.com/20261106-claude-codex-seedance-ai-video.html",
+    "date": "2026-11-06T10:05:00Z",
+    "description": "这篇整理自 Eian 11 月 5 日发在 X 上的长文，280 多万浏览，讲怎么用 Claude Code、Codex、Seedance 做一条 AI 视频。全文分工具层和实操两部分，我按原帖的结构整理，要点和做法都保留，10 段提示词都按要点展开写细了，原文提示词见下面的原帖。 这篇只解决一个问题：靠一套多模型工作流，用尽量少的钱、尽量低的抽卡率，做出一条自己满意的 AI 视频。",
+    "source_root_domain": "gugegt.com"
+  },
+  {
     "title": "Might and Magic VII: For Blood and Honor updated",
     "url": "https://macsourceports.com/game/mightandmagic7",
     "date": "2026-11-06T09:10:10Z",
@@ -33,6 +89,13 @@
     "date": "2026-11-06T04:12:03Z",
     "description": "多年以来，我根本不相信命书上所说，自己是什么「乙木」命。毫无任何征象，任何花草树木进了我家，很快就会凋萎。最近十年来唯一的例外是一棵芦荟，是保洁阿姨看不下去那些空花盆，随手插了一枝进去，结果每年都会发出满满一大盆。而我也切了一枝试图克隆这种成功，毫无意外地顺利失败了。 所以我怎么可能是什么乙木命？我更怀疑是某种火命甚至是金命，所以我的目光有看不见的火光熊熊燃烧，或者有无边剑气漫天纵横，总之就是养不了花草。为此我多次向家里索要过出生证，想要确认一下具体时辰，或者确认一下我究竟是不是我。 就在今天早上，我发现上个月买来的一盆桂花开了： 本来完全没有任何理由买的，首先我是确定无疑的过手枯，养什么都没用。其次是我买桂花的时候已经严重过季，为此我还开玩笑说，没想到要等一年才能看到花开。最后它是我网购完之后在顺手买一单那里看到的推荐，一般我都不喜欢顺手，因为我并不顺手，是平台可以顺手牵羊。 快递从福建千里迢迢来到北京，我打开包装盒，发现就是一株绿植种在一个酸奶瓷瓶样的小罐里。放了两天适应本地气候，我发现它没有任何变化，不能确定是活着还是已经被剑气所伤。可能关键的地方就在于我突然起心动念，觉得这一小",
     "source_root_domain": "hecaitou.com"
+  },
+  {
+    "title": "我做了个只收录精品软件的网站 SoftBests",
+    "url": "https://blog.forecho.com/introducing-softbests.html",
+    "date": "2026-11-06T02:00:00Z",
+    "description": "引言 今年我没有续费用了几年的 Setapp。 最直接的原因是：我常用的那几款软件，在外面都能找到更好或更轻的替代品，继续为大而全的订阅付费，对我来说已经不划算了。 与此同时，我发现 Vibe Coding 兴起让做软件的门槛断崖式下跌。以前几个月才能做出来的工具，现在几天就能出一个可用版本。但软件变多并没有让「找工具」变容易——Product Hunt 每天刷新，AI 工具榜层出不穷，信息零碎且极易过期。绝大多数榜单只告诉你「有什么」，却很少讲清楚「它适合谁、不适合谁」。 所以我做了 SoftBests ，一个人工筛选、专注挖掘精品软件的目录网站。 👉 访问地址： softbests.com 核心原则：只收录精品 SoftBests 不追求数量堆砌，而是把每个工具放对位置。目前站内收录了 500+ 款工具，涵盖终端、编码 Agent、AI 编辑器、数据库、笔记等 12 个栏目。 我不做无脑收录，也不会卖赞助排名。我挑选「精品」的标准很简单： 解决真实问题 ：不是硬造出来的需求，也不是给现有工具换层皮； 状态健康 ：保持维护，定价合理对得起功能； 边界清晰 ：能说清楚适合谁，也能坦白不",
+    "source_root_domain": "forecho.com"
   },
   {
     "title": "美好是因为无视美好的逝去",
@@ -96,6 +159,13 @@
     "date": "2026-11-05T21:20:34Z",
     "description": "The build of Arx Libertatis for Arx Fatalis has been updated to version 1.2.1 of the project",
     "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "AI 早报 2026-11-06：特斯拉宣布停产 Cybertruck，工厂腾给无人驾驶出租车 Cybercab",
+    "url": "https://www.jtxyh.com/daily/2026-11-06/",
+    "date": "2026-11-05T16:00:00Z",
+    "description": "2026-11-06 AI 早报，共 27 条动态。马斯克 11 月 6 日在 X 上宣布，特斯拉将于 2027 年年中前后停产 Cybertruck，把得州超级工厂的产线腾出来生产无人驾驶出租车 Cybercab。路透 11 月 5 日独家报道，约 60 万块英伟达 H200 AI…",
+    "source_root_domain": "jtxyh.com"
   },
   {
     "title": "esp32:cyd使用ld2420毫米波雷达人体检测联动home assistant灯开关",
