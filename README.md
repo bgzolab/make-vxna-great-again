@@ -27,7 +27,15 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-11-06 | [美好是因为无视美好的逝去](https://mobius.blog/26083.html) | 文章的副标题是《R.I.P IV》。 这个系列还在继续，也是接着《写在2026年新年之前》的一部分。 曾经我和 […] |
+| 2026-11-06 | [从中期选举说起，理解美国国会、众议院和参议院](https://depp.wang/2026/us-congress/) | 看这次美国中期选举的报道，说伊朗战争、油价和物价上涨让选民越来越不满，特朗普所在的共和党这次输得很彻底。民主党拿下了下一届国会的两院多数，连一些长期由共和党占据的席位也丢了。但我想弄明白，这个「输得很彻底」具体是什么意思？失去这些席位，对特朗普到底有什么影响？我虽然知道美国有三权分立，但对国会、众议… |
+| 2026-11-06 | [Memos #2026-11-05](https://blog.itaober.com/memos/memo_20261105105037_c3esb7) | 18:55 难得有一期是以故事为主，羡慕这期嘉宾们的状态，快乐是生活的头等大事，像极了大学时期。 最后大老王说的小孩新闻发布会还挺有意思，mark，希望我以后还记得。 |
+| 2026-11-06 | [MCP Dock 1.4：全局和项目的配置一起管](https://folay.top/zh/blog/mcp-dock-1-4) | MCP Dock 1.4 更新：MCP Server、Skills、Rules 支持全局和项目两级管理，新增 Agent 插件，支持 16 个客户端。 |
+| 2026-11-06 | [MCP Dock 1.4: Manage Global and Project Configs Together](https://folay.top/blog/mcp-dock-1-4) | MCP Dock 1.4 manages MCP Servers, Skills and Rules at global and project level, adds Agent plugins, and supports 16 clients. |
+| 2026-11-05 | [科技爱好者周刊（第 418 期）：如果科技停止在21世纪初](http://www.ruanyifeng.com/blog/2026/11/weekly-issue-418.html) | 这里记录每周值得分享的科技内容，周五发布。 本杂志 开源 ，欢迎 投稿 。另有 《谁在招人》 服务，发布程序员招聘信息。合作请 邮件联系 （yifeng.ruan@gmail.com）。 封面图 雄安新区正在建设的雄安大剧院，它的幕墙采用 3D 打印装饰板拼贴而成，是世界最大的 3D 打印建筑幕墙。… |
+| 2026-11-05 | [10 天，每天不到 10 克脂肪：Action FCS 低脂食谱中文版发布了](https://conge.livingwithfcs.org/2026/11/05/action-fcs-low-fat-recipes/) | 明天，11 月 6 日，是 FCS 知晓日（FCS Awareness Day）。 对我来说，这不是一个抽象的日子。我是 FCS 患者，每天吃 10–20 克脂肪，小心翼翼地避开胰腺炎，跑步、生活、工作，都围着这个数字转。外人很难想象 10 克脂肪一天是什么概念——大概就是一小勺油的量。 今年，我们… |
 | 2026-11-05 | [学习周刊-总第288期-2026年第45周](https://wiki.eryajf.net/pages/164dd2/) | 如要阅读全文，点击标题跳转。 学习周刊-总第288期 &#124; itops-agent-platform &#124; oxideterm &#124; codux &#124; CloseUp &#124; BetterCmdTab &#124; agentsview &#124; kkRepo |
+| 2026-11-05 | [Arx Fatalis updated](https://macsourceports.com/game/arxfatalis) | The build of Arx Libertatis for Arx Fatalis has been updated to version 1.2.1 of the project |
 | 2026-11-05 | [esp32:cyd使用ld2420毫米波雷达人体检测联动home assistant灯开关](https://dsx2016.com/using-an-esp32-cyd-and-an-ld2420-millimeter-wave-radar-sensor-for-human-presence-detection-to-control-lights-in-home-assistant/) | 人体检测 一直有个比较实际的需求，就是比如厨房，厕所的灯，人来灯亮，人走灯延迟一会自动熄灭 一来是人来灯亮，不... esp32:cyd使用ld2420毫米波雷达人体检测联动home assistant灯开关 最先出现在 大师兄2016 。 |
 | 2026-11-05 | [麒麟 v10 系统部署Angie与铜锁国密双栈验证](https://199604.com/3740) | 麒麟V10部署Angie与铜锁国密双栈验证 记录时间：2026-11-05 环境：Kylin V10 SP3 […] |
 | 2026-11-05 | [一键清理所有高科技水印工具 「蒸矢」for macOS](https://blog.est.im/2026/stdout-41) | V站看到 警告！分享淘宝截图可能给你带来危险 于是有个很久的 idea 终于得到实施了。 https://github.com/est/Distill-SVG 把蒸馏成矢量图 SVG ，简称 蒸矢 😃 市面上有很多AI辅助把照片转SVG的，但其实矢量图不适合拿来做这事。GUI这类大量色块的截图倒是非… |
@@ -35,16 +43,23 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-11-05 | [Lemmings updated](https://macsourceports.com/game/lemmings) | The build of Ultimate Lemmings for Lemmings has been updated to version v2.4.2 of the project |
 | 2026-11-05 | [The Operative: No One Lives Forever updated](https://macsourceports.com/game/nolf1) | The build of NOLF1 for Mac for The Operative: No One Lives Forever has been updated to version 0.5.2 of the project |
 | 2026-11-05 | [esp32：使用esp32cam结合万向双头夹正式开始电动自行车充电检测](https://dsx2016.com/using-an-esp32-cam-paired-with-a-universal-dual-head-clamp-we-are-officially-beginning-the-process-of-monitoring-electric-bicycle-charging/) | 万向双头夹 前几天到了一个万向夹，但是是磁吸底座，需要有铁的物质 经过测试，在置物架上的铁片上可以有一定吸力，... esp32：使用esp32cam结合万向双头夹正式开始电动自行车充电检测 最先出现在 大师兄2016 。 |
+| 2026-11-05 | [omarchy 适配 mac 电脑了，适](https://versun.me/blog/tweet-2118287032086822962) | DHH Omarchy 4.5 will ship with full compatibility for M1, M2, M3, and Neo! Incredible achievement from the Omarchy M team. The installer makes this so… |
 | 2026-11-05 | [剑流德钟，三把壶排排队](https://gugegt.com/20261105-jianliu-dezhong.html) | 三把壶排排队，拍了四张照片。 都是德钟，都是剑流，出自同一位老师。年份不同，泥料不同，用的年头也不同。 |
 | 2026-11-05 | [Might and Magic VII: For Blood and Honor updated](https://macsourceports.com/game/mightandmagic7) | The build of OpenEnroth for Might and Magic VII: For Blood and Honor has been updated to the latest code of the project |
 | 2026-11-05 | [Xash3D FWGS updated](https://macsourceports.com/sourceport/xash3d-fwgs) | The build of Xash3D FWGS for the Half-Life series of games has been updated to the latest code of the project\n\nhttps://macsourceports.com/sourceport… |
 | 2026-11-05 | [Quake III: Arena updated](https://macsourceports.com/game/quake3arena) | The build of ioquake3 for Quake III: Arena has been updated to the latest code of the project |
+| 2026-11-05 | [上海今年的秋天怎么这么长，我换洗的秋装都](https://versun.me/blog/tweet-2118254605629055259) | 上海今年的秋天怎么这么长，我换洗的秋装都没几套， 往年一周左右就入冬了，秋装根本穿不了几次 |
 | 2026-11-05 | [小米手机无root通过ADB卸载SystemHelper程序](https://www.cheshirex.com/11613.html) | 现在手机想要解BL锁或者root都比较难，最近关于SystemHelper程序的讨论比较多。下面说下怎么无ro […] |
 | 2026-11-05 | [tcpdump 抓包与 Wireshark 分析实战指南](https://blog.rustfisher.com/Network/tcpdump-wireshark-use/) | 实际项目中，我们常常会遇到各种扑朔迷离的网络通信问题。在 VoIP、SIP 语音呼叫或 WebRTC 音视频对讲中，对端提示“未检测到按键（DTMF）”或出现音频卡顿、杂音，难以确认 RTP/UDP 报文是否完整到达。面对自研的私有二进制协议或 IoT 设备通信，抓不到明文 |
+| 2026-11-05 | [有用决策模型给 magpie 进行推理强](https://versun.me/blog/tweet-2118244214194717029) | 有用决策模型给 magpie 进行推理强度/意图分流的， 可以试一试 @vllm_project 的d3决策模型，我测试下来，准确率比clef，jef高4倍左右，参照的是opus 5.5的决策 目前免费用，额度给的挺多的 https://app.vllm-sr.ai/ |
+| 2026-11-05 | [智能路由模式 我用了一周多了，然后这几天](https://versun.me/blog/tweet-2118230344046653518) | River Leaf 自从使用了 magpie 智能路由模式，再也不担心 chatgpt 降智了，因为我们是主动降智的。 智能路由模式 我用了一周多了，然后这几天我又改回去了。。。 因为不确定性 每次人机意见不一致时，我都要去看下到底是路由到哪个模型了，如果是 opus 5.5，那我再斟酌下，但如果… |
 | 2026-11-05 | [剪映要会员，它全免费：这款开源 Mac 剪辑软件我留下来了](https://www.evan.xin/5139/) | 剪映够好用，但它的边界也很清楚：账号要登录、导出要会员、成片带水印。对只是偶尔剪个 vlog、录屏、素材拼接的 […] |
 | 2026-11-05 | [听到别人的声音](https://kaix.in/2026/1105/) | 许多人都会羡慕影视作品里那些异能者吧——能听懂兽语的话，生活该多么有趣，至少绝不会无聊；随便走走，就能听到猫咪们在聊张家长李家短，或者那些不为人知的小秘密说不定天上的飞鸟、路过的狗，都能随口说出。 不过仔细想想，何必懂得兽语呢，只是我们越来越沉浸在自己的世界，沉浸在手里的那块屏幕或者耳机中千里之外的… |
 | 2026-11-05 | [生日快乐，和菜头先生（2026）](https://www.hecaitou.com/2026/11/happy-birthday-to-mr-he-caitou-2026.html) | 今天是我五十一岁生日，一个我当初觉得无比遥远且畏惧的年纪。真到了五十岁的那一刻，其实没什么特别的事情发生。但就像是钟表上的分针，从整点向前转动了第一格，然后「咔嗒」一声停下，会有那么一瞬间的空白，一瞬间的真空，我现在就在那里头。 这一岁过得并不算平顺，精神上也反复经历沉郁甚至黑暗期。幸运的是，朋友们… |
+| 2026-11-05 | [我突然发现一个很有趣的现象： 在我使用](https://versun.me/blog/tweet-2118155657937646021) | 我突然发现一个很有趣的现象： 在我使用 gemini 时， 我：我想 xxxx、我觉得 xxxx Gemini：你是对的，你的想法很不错 我：煞笔，我要的是批判性思维，不要阿谀奉承的仆人 换成 opus 后： 我：我想 xxxx、我觉得 xxxx Opus：我不建议，可行的方法有这些。。。 我：煞笔… |
 | 2026-11-05 | [关于乌合之众](https://mobius.blog/26070.html) | 前段时间，一个朋友和我聊天，聊起他在办公室被排挤的话题，而排挤的原因非常无聊——其实是他休假了一段时间，而他回 […] |
+| 2026-11-05 | [散了吧，SWE-2 Flash 就是路边](https://versun.me/blog/tweet-2118149374371090619) | Cognition Introducing SWE-2 Flash, our new fast & efficient coding model. On leading evals, it outperforms all American open-weight models, even ones… |
+| 2026-11-05 | [这次币安的安全事件，让我再次想起之前差点](https://versun.me/blog/tweet-2118134199714816117) | Andrey Labunets @ihackbanme Well, in my case it included scripted self-deleting google docs, with phishing steps partially matching those: https://x.c… |
 | 2026-11-05 | [Cursor Style：照着 Cursor 官网做的 Typora 主题](https://folay.top/zh/blog/typora-cursor-theme) | 参考 Cursor 官网的视觉风格做了一套 Typora 主题，浅色、深色各一个。 |
 | 2026-11-05 | [Cursor Style: A Typora Theme Based on Cursor's Website](https://folay.top/blog/typora-cursor-theme) | A Typora theme that borrows the look of Cursor's website, in light and dark. |
 | 2026-11-04 | [2026 年九月 读人工智能，护眼 3 本](https://conge.livingwithfcs.org/2026/11/04/reading-summary/) | 引子 引子 如果想要靠读书了解大模型的话，2023年前的书恐怕都不值得读了。很可惜，我这次读的两本，都没有覆盖大模型。 话说回来，大模型的算法上，开始可以从这两本书找到其家谱的。大语言模型的底层是基于深度神经网络的算法。此两本书对了解大语言模型出现线的人工智能算法版图，还是很有用处的。但大语言模型，… |
@@ -212,23 +227,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-10-30 | [向云端｜西南自驾11 - 布依](https://blog.ops-coffee.com/r/2026-southwest-road-trip-11-longjing.html) |  |
 | 2026-10-30 | [科技爱好者周刊（第 417 期）：不要让 AI 代表你](http://www.ruanyifeng.com/blog/2026/10/weekly-issue-417.html) | 这里记录每周值得分享的科技内容，周五发布。 本杂志 开源 ，欢迎 投稿 。另有 《谁在招人》 服务，发布程序员招聘信息。合作请 邮件联系 （yifeng.ruan@gmail.com）。 封面图 四川宜宾市的青少年发展中心，建筑中庭的透光屋顶象征一个万花筒，会有不断变化的日光效果。（ via ） 不… |
 | 2026-10-30 | [效率提高了，我反而更TM忙](https://www.linggandianbo.com/xiao-lu-ti-gao-liao-wo-fan-er-geng-tmmang/) | 灵感电波 #139｜更便宜的智能，更忙碌的人，还有变了味的巧克力 |
-| 2026-10-29 | [美国油价涨了，但对美国人来说还是便宜](https://depp.wang/2026/us-gas-prices/) | 因为美国-伊朗战争，美国油价今年涨了不少。 AAA 的数据 ，2 月 26 日普通汽油全国均价还是每加仑 2.98 美元，到 10 月 29 日 已经是 4.23 美元，涨了约 42%。换成我们习惯的升，大约是从每升 0.79 美元涨到了 1.12 美元。 涨幅确实不小，但我觉得，要看美国人加油到底… |
-| 2026-10-29 | [学习周刊-总第287期-2026年第44周](https://wiki.eryajf.net/pages/f7ca02/) | 如要阅读全文，点击标题跳转。 学习周刊-总第287期 &#124; ashell &#124; AtlasOS &#124; tinyauth &#124; BonsAI &#124; Yield &#124; Claudesk &#124; tabularis |
-| 2026-10-29 | [AI 早报 2026-10-30：Agility Robotics 预计募资4.65亿美元，拟11月5日挂牌](https://www.jtxyh.com/daily/2026-10-30/) | 2026-10-30 AI 早报，共 25 条动态。人形机器人公司 Agility Robotics 与 Churchill Capital Corp XI 于 10 月 30 日联合宣布，赎回截止后，本次合并及相关融资的毛募资预计约 4.65 亿美元（交易费用前）。 |
-| 2026-10-29 | [AI对抗与逆向](https://elmagnifico.tech/2026/10/30/AI-Cheat/) | Foreword 最近干的事情刚好和AI、逆向、反编译有关系，也刚好遇到了很多以前作为门槛的东西，在AI时代突然就什么都不是了，安全一下就下降了很多，不得不把很多设计做得更复杂了。 龙窟破坏者 先以最近玩的游戏为例，龙窟破坏者目前是demo，本身是联网的，而且作为一个含有PVP内容的游戏，本身服务端… |
-| 2026-10-29 | [k8s集群-CoreDNS配置踩坑](https://199604.com/3735) | k8s集群-CoreDNS配置踩坑 记录时间：2026-10-28 环境：K8s 1.28.15 二进制部署集 […] |
-| 2026-10-29 | [《工资外收入：不要再单次、廉价地出卖你的时间》书摘](https://www.ixiqin.com/2026/10/29/gongziwaishouru-booknote/) | 这本书似乎是微信读书单独出版的，很简短，内容相对浅薄，适合职场新人读。 2 时间的瓶颈 问题也正出在这里。对于 […] |
-| 2026-10-29 | [支持消费入座](https://blog.solazy.me/20261029/) | 才发现星巴克的「消费入座」新规我还没有评头论足过…… |
-| 2026-10-29 | [游戏](https://www.kawabangga.com/posts/7446) | 一起去上班路上： 欣：你喜欢玩什么游戏？ 我：啥？ 欣：我同事聊起来游戏，他们问我你玩什么游戏。 我：那一定是 […] Continue reading... |
-| 2026-10-29 | [群晖NAS被勒索攻击](https://hux.ink/posts/synology-attack/) | 我的群晖 NAS 昨晚遭到了勒索软件攻击，所有文件被加密上锁。 发现中招的经过 今天早上到公司后，有个念头闪过，想发条 Memo，便习惯性地打开 Memos 网页。没想到看到的不是熟悉的输入框和记录列表，而是一个全新的账号注册页面，提示创建站点管理员。昨天还用得好好的，怎么突然变成了初始化状态？起初… |
-| 2026-10-29 | [一言不合就自己搞，真羡慕，太牛批了](https://versun.me/blog/tweet-2115692277096177702) | 卡比卡比 现在的 AI 浏览器，个人用起来都没有特别顺手的，于是我自己写了一个，叫 Kaze，日语里是风的意思。内嵌的AI它的操作就像风一样的丝滑&不会干扰你。 Github: https://github.com/jackwener/Kaze 欢迎大家star关注。通过issue反馈问题。 项目主… |
-| 2026-10-29 | [讨论失眠会传染](https://www.hecaitou.com/2026/10/rule-1-of-insomnia-dont-talk-about-insomnia.html) | 事实再一次雄辩地证明：讨论失眠会导致失眠。昨晚，在幸运地恢复了一个多月良好睡眠之后，我朋友找我探讨失眠问题。讨论完毕，我上床睡觉，他继续熬鹰，结果一晚上我都没睡踏实，5 点之后每半小时醒来一次。 失眠是个很复杂的问题，相关的因素太多，正常情况下一个人很难锁定真实原因。但是，就我个人的经验而言，每次和… |
-| 2026-10-29 | [使用Cloudflare的Worker来扩展安全规则并自动拉黑IP](https://www.cheshirex.com/11550.html) | Cloudflare免费版套餐安全规则只能设置5条，很多人会感觉不够用。昨天研究Cloudflare自动拉黑I […] |
-| 2026-10-29 | [人民币结算与定价权](https://blog.oospace.com/posts/2026-10-29/) | AI泡沫一定程度上破了，但是并非没有未来了 |
-| 2026-10-29 | [失乐园里有什么？II](https://mobius.blog/26011.html) | 既然准备正式开始“他人即地狱”这个话题，首先还是要聊聊它的定义。 “他人即地狱”出自法国存在主义哲学家让-保罗 […] |
-| 2026-10-29 | [哈咯 @StartLuxAI 你家的 a](https://versun.me/blog/tweet-2115633816111030695) | 哈咯 @StartLuxAI 你家的 api 页面记得改下 logo 啥的，目前显示是new api🤣 |
-| 2026-10-29 | [Memos: 当下软件开发的效率瓶颈](https://blog.yasking.org/a/1793239872) | 近期感受： 各岗位都在拥抱 AI，以提升自身效率、实现局部最优；但需求传递、前后端联调、交付验收的沟通链路成本仍然存在 … |
-| 2026-10-29 | [小小逃离](https://yovey.me/%e5%b0%8f%e5%b0%8f%e9%80%83%e7%a6%bb/) | 10/29 09:04 工作又很忙了，上周末rui回南昌，吃顿饭的功夫，不知怎么被怂恿着就买了票，跟着一块到台 … Continue reading "小小逃离" |
 
 ## Vibe Coding
 
