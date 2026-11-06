@@ -1,5 +1,40 @@
 [
   {
+    "title": "Might and Magic VII: For Blood and Honor updated",
+    "url": "https://macsourceports.com/game/mightandmagic7",
+    "date": "2026-11-06T09:10:10Z",
+    "description": "The build of OpenEnroth for Might and Magic VII: For Blood and Honor has been updated to the latest code of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "Xash3D FWGS updated",
+    "url": "https://macsourceports.com/sourceport/xash3d-fwgs",
+    "date": "2026-11-06T09:03:34Z",
+    "description": "The build of Xash3D FWGS for the Half-Life series of games has been updated to the latest code of the project\\n\\nhttps://macsourceports.com/sourceport/xash3d-fwgs\\n\\n#macgaming #retrogaming #macOS #xash3d-fwgs #gaming #apple #m1 #m2 #m3 #applesilicon\\n\\n",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "Looped Transformer的量化：误差传播、NVFP4 与差分调制",
+    "url": "https://mer.dev/posts/loopquant-fp4/",
+    "date": "2026-11-06T08:04:42Z",
+    "description": "最近循环模型量化的一些分析与实验。",
+    "source_root_domain": "mer.dev"
+  },
+  {
+    "title": "學習網頁內容無障礙",
+    "url": "https://taxodium.ink/learn-web-content-accessibility.html",
+    "date": "2026-11-06T05:20:00Z",
+    "description": "學習網頁內容無障礙 目錄 什麼是網頁內容無障礙，以及為什麼要實踐網頁內容無障礙 如何學習網頁內容無障礙 學習目標 WACG WAI-ARIA 如何學習 博客中常見的網頁內容無障礙問題 連結 錯別字 顏色和對比度 Tab 焦點和順序 圖片上的替代文本 頁要元素太多，太雜 存在兩個方向的滾動條 頁面有一些閃烁的內容 一些詞語、縮寫等缺少解釋 必須依赖 JavaScript 才能查看內容 我想你也許聴過「無障礙」這個詞，這個詞裡包含著同理心，它意味著多為他人考慮，盡可能地讓大多數的人都能無障礙地完成想做的事情。例如： 地鐵站裡的電梯，它可以讓行走不便的人，例如脚受傷的人、坐輪椅的人、拖著行李箱的人，都能順利出入站台。 有階梯的地方也會提供平坦的斜坡和扶手，這樣坐輪椅的人、騎自行車的人都能更容易地通過。 視頻中的字幕、聲音、手語，它考慮了不同人的需要，聴力不好的人可看字幕，視力不好的人可以聴語音、習慣手語的人則可以看手語。字幕不僅方便了聴力不好的人，對於聴力正常的人，當处於吵雜的環境或是不方便有聲音發出的場景，字幕也會很有用。 有的紅綠灯、扶梯會發出聲音，讓視力不好的人知道自己接近了這些設備。",
+    "source_root_domain": "taxodium.ink"
+  },
+  {
+    "title": "意外花开",
+    "url": "https://www.hecaitou.com/2026/11/the-unexpected-bloom.html",
+    "date": "2026-11-06T04:12:03Z",
+    "description": "多年以来，我根本不相信命书上所说，自己是什么「乙木」命。毫无任何征象，任何花草树木进了我家，很快就会凋萎。最近十年来唯一的例外是一棵芦荟，是保洁阿姨看不下去那些空花盆，随手插了一枝进去，结果每年都会发出满满一大盆。而我也切了一枝试图克隆这种成功，毫无意外地顺利失败了。 所以我怎么可能是什么乙木命？我更怀疑是某种火命甚至是金命，所以我的目光有看不见的火光熊熊燃烧，或者有无边剑气漫天纵横，总之就是养不了花草。为此我多次向家里索要过出生证，想要确认一下具体时辰，或者确认一下我究竟是不是我。 就在今天早上，我发现上个月买来的一盆桂花开了： 本来完全没有任何理由买的，首先我是确定无疑的过手枯，养什么都没用。其次是我买桂花的时候已经严重过季，为此我还开玩笑说，没想到要等一年才能看到花开。最后它是我网购完之后在顺手买一单那里看到的推荐，一般我都不喜欢顺手，因为我并不顺手，是平台可以顺手牵羊。 快递从福建千里迢迢来到北京，我打开包装盒，发现就是一株绿植种在一个酸奶瓷瓶样的小罐里。放了两天适应本地气候，我发现它没有任何变化，不能确定是活着还是已经被剑气所伤。可能关键的地方就在于我突然起心动念，觉得这一小",
+    "source_root_domain": "hecaitou.com"
+  },
+  {
     "title": "美好是因为无视美好的逝去",
     "url": "https://mobius.blog/26083.html",
     "date": "2026-11-06T01:30:00Z",
@@ -70,6 +105,13 @@
     "source_root_domain": "dsx2016.com"
   },
   {
+    "title": "人体的说明书",
+    "url": "https://blog.solazy.me/20261105/",
+    "date": "2026-11-05T15:00:00Z",
+    "description": "最近越来越感叹，我们活一辈子可能都搞不到这份说明书呢",
+    "source_root_domain": "solazy.me"
+  },
+  {
     "title": "麒麟 v10 系统部署Angie与铜锁国密双栈验证",
     "url": "https://199604.com/3740",
     "date": "2026-11-05T14:39:11Z",
@@ -124,20 +166,6 @@
     "date": "2026-11-05T09:35:00Z",
     "description": "三把壶排排队，拍了四张照片。 都是德钟，都是剑流，出自同一位老师。年份不同，泥料不同，用的年头也不同。",
     "source_root_domain": "gugegt.com"
-  },
-  {
-    "title": "Might and Magic VII: For Blood and Honor updated",
-    "url": "https://macsourceports.com/game/mightandmagic7",
-    "date": "2026-11-05T09:10:49Z",
-    "description": "The build of OpenEnroth for Might and Magic VII: For Blood and Honor has been updated to the latest code of the project",
-    "source_root_domain": "macsourceports.com"
-  },
-  {
-    "title": "Xash3D FWGS updated",
-    "url": "https://macsourceports.com/sourceport/xash3d-fwgs",
-    "date": "2026-11-05T09:03:29Z",
-    "description": "The build of Xash3D FWGS for the Half-Life series of games has been updated to the latest code of the project\\n\\nhttps://macsourceports.com/sourceport/xash3d-fwgs\\n\\n#macgaming #retrogaming #macOS #xash3d-fwgs #gaming #apple #m1 #m2 #m3 #applesilicon\\n\\n",
-    "source_root_domain": "macsourceports.com"
   },
   {
     "title": "Quake III: Arena updated",

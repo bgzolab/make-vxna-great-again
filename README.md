@@ -27,6 +27,11 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-11-06 | [Might and Magic VII: For Blood and Honor updated](https://macsourceports.com/game/mightandmagic7) | The build of OpenEnroth for Might and Magic VII: For Blood and Honor has been updated to the latest code of the project |
+| 2026-11-06 | [Xash3D FWGS updated](https://macsourceports.com/sourceport/xash3d-fwgs) | The build of Xash3D FWGS for the Half-Life series of games has been updated to the latest code of the project\n\nhttps://macsourceports.com/sourceport… |
+| 2026-11-06 | [Looped Transformer的量化：误差传播、NVFP4 与差分调制](https://mer.dev/posts/loopquant-fp4/) | 最近循环模型量化的一些分析与实验。 |
+| 2026-11-06 | [學習網頁內容無障礙](https://taxodium.ink/learn-web-content-accessibility.html) | 學習網頁內容無障礙 目錄 什麼是網頁內容無障礙，以及為什麼要實踐網頁內容無障礙 如何學習網頁內容無障礙 學習目標 WACG WAI-ARIA 如何學習 博客中常見的網頁內容無障礙問題 連結 錯別字 顏色和對比度 Tab 焦點和順序 圖片上的替代文本 頁要元素太多，太雜 存在兩個方向的滾動條 頁面有一… |
+| 2026-11-06 | [意外花开](https://www.hecaitou.com/2026/11/the-unexpected-bloom.html) | 多年以来，我根本不相信命书上所说，自己是什么「乙木」命。毫无任何征象，任何花草树木进了我家，很快就会凋萎。最近十年来唯一的例外是一棵芦荟，是保洁阿姨看不下去那些空花盆，随手插了一枝进去，结果每年都会发出满满一大盆。而我也切了一枝试图克隆这种成功，毫无意外地顺利失败了。 所以我怎么可能是什么乙木命？我… |
 | 2026-11-06 | [美好是因为无视美好的逝去](https://mobius.blog/26083.html) | 文章的副标题是《R.I.P IV》。 这个系列还在继续，也是接着《写在2026年新年之前》的一部分。 曾经我和 […] |
 | 2026-11-06 | [从中期选举说起，理解美国国会、众议院和参议院](https://depp.wang/2026/us-congress/) | 看这次美国中期选举的报道，说伊朗战争、油价和物价上涨让选民越来越不满，特朗普所在的共和党这次输得很彻底。民主党拿下了下一届国会的两院多数，连一些长期由共和党占据的席位也丢了。但我想弄明白，这个「输得很彻底」具体是什么意思？失去这些席位，对特朗普到底有什么影响？我虽然知道美国有三权分立，但对国会、众议… |
 | 2026-11-06 | [Memos #2026-11-05](https://blog.itaober.com/memos/memo_20261105105037_c3esb7) | 18:55 难得有一期是以故事为主，羡慕这期嘉宾们的状态，快乐是生活的头等大事，像极了大学时期。 最后大老王说的小孩新闻发布会还挺有意思，mark，希望我以后还记得。 |
@@ -37,6 +42,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-11-05 | [学习周刊-总第288期-2026年第45周](https://wiki.eryajf.net/pages/164dd2/) | 如要阅读全文，点击标题跳转。 学习周刊-总第288期 &#124; itops-agent-platform &#124; oxideterm &#124; codux &#124; CloseUp &#124; BetterCmdTab &#124; agentsview &#124; kkRepo |
 | 2026-11-05 | [Arx Fatalis updated](https://macsourceports.com/game/arxfatalis) | The build of Arx Libertatis for Arx Fatalis has been updated to version 1.2.1 of the project |
 | 2026-11-05 | [esp32:cyd使用ld2420毫米波雷达人体检测联动home assistant灯开关](https://dsx2016.com/using-an-esp32-cyd-and-an-ld2420-millimeter-wave-radar-sensor-for-human-presence-detection-to-control-lights-in-home-assistant/) | 人体检测 一直有个比较实际的需求，就是比如厨房，厕所的灯，人来灯亮，人走灯延迟一会自动熄灭 一来是人来灯亮，不... esp32:cyd使用ld2420毫米波雷达人体检测联动home assistant灯开关 最先出现在 大师兄2016 。 |
+| 2026-11-05 | [人体的说明书](https://blog.solazy.me/20261105/) | 最近越来越感叹，我们活一辈子可能都搞不到这份说明书呢 |
 | 2026-11-05 | [麒麟 v10 系统部署Angie与铜锁国密双栈验证](https://199604.com/3740) | 麒麟V10部署Angie与铜锁国密双栈验证 记录时间：2026-11-05 环境：Kylin V10 SP3 […] |
 | 2026-11-05 | [一键清理所有高科技水印工具 「蒸矢」for macOS](https://blog.est.im/2026/stdout-41) | V站看到 警告！分享淘宝截图可能给你带来危险 于是有个很久的 idea 终于得到实施了。 https://github.com/est/Distill-SVG 把蒸馏成矢量图 SVG ，简称 蒸矢 😃 市面上有很多AI辅助把照片转SVG的，但其实矢量图不适合拿来做这事。GUI这类大量色块的截图倒是非… |
 | 2026-11-05 | [Next.js 图片优化完全指南](https://ravelloh.com/posts/nextjs-image-optimization-complete-guide) | Next.js 全生命周期图片优化与架构实践指南。梳理了现代化 Web 应用中“上传优化”（服务端利用 Sharp 进行格式校验、EXIF 转向、WebP 转码与尺寸限制）与“访问优化”（结合 组件与 Next.js Image Optimizer 实现按需裁剪、响应式分发）的双层优化体系；同时提供… |
@@ -45,8 +51,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-11-05 | [esp32：使用esp32cam结合万向双头夹正式开始电动自行车充电检测](https://dsx2016.com/using-an-esp32-cam-paired-with-a-universal-dual-head-clamp-we-are-officially-beginning-the-process-of-monitoring-electric-bicycle-charging/) | 万向双头夹 前几天到了一个万向夹，但是是磁吸底座，需要有铁的物质 经过测试，在置物架上的铁片上可以有一定吸力，... esp32：使用esp32cam结合万向双头夹正式开始电动自行车充电检测 最先出现在 大师兄2016 。 |
 | 2026-11-05 | [omarchy 适配 mac 电脑了，适](https://versun.me/blog/tweet-2118287032086822962) | DHH Omarchy 4.5 will ship with full compatibility for M1, M2, M3, and Neo! Incredible achievement from the Omarchy M team. The installer makes this so… |
 | 2026-11-05 | [剑流德钟，三把壶排排队](https://gugegt.com/20261105-jianliu-dezhong.html) | 三把壶排排队，拍了四张照片。 都是德钟，都是剑流，出自同一位老师。年份不同，泥料不同，用的年头也不同。 |
-| 2026-11-05 | [Might and Magic VII: For Blood and Honor updated](https://macsourceports.com/game/mightandmagic7) | The build of OpenEnroth for Might and Magic VII: For Blood and Honor has been updated to the latest code of the project |
-| 2026-11-05 | [Xash3D FWGS updated](https://macsourceports.com/sourceport/xash3d-fwgs) | The build of Xash3D FWGS for the Half-Life series of games has been updated to the latest code of the project\n\nhttps://macsourceports.com/sourceport… |
 | 2026-11-05 | [Quake III: Arena updated](https://macsourceports.com/game/quake3arena) | The build of ioquake3 for Quake III: Arena has been updated to the latest code of the project |
 | 2026-11-05 | [上海今年的秋天怎么这么长，我换洗的秋装都](https://versun.me/blog/tweet-2118254605629055259) | 上海今年的秋天怎么这么长，我换洗的秋装都没几套， 往年一周左右就入冬了，秋装根本穿不了几次 |
 | 2026-11-05 | [小米手机无root通过ADB卸载SystemHelper程序](https://www.cheshirex.com/11613.html) | 现在手机想要解BL锁或者root都比较难，最近关于SystemHelper程序的讨论比较多。下面说下怎么无ro […] |
