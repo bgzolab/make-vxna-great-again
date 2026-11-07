@@ -27,11 +27,26 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-11-07 | [The Operative: No One Lives Forever updated](https://macsourceports.com/game/nolf1) | The build of NOLF1 for Mac for The Operative: No One Lives Forever has been updated to version 0.5.3 of the project |
+| 2026-11-07 | [Plants vs. Zombies updated](https://macsourceports.com/game/pvz) | The build of PvZ Portable for Plants vs. Zombies has been updated to version 0.2.7 of the project |
+| 2026-11-07 | [为什么这么多年还在坚持写博客？](https://dsx2016.com/why-have-i-kept-blogging-for-all-these-years/) | 油管和博客 在redit看到一个帖子，问的是有没有多年的油管创作者转向写博客的 我想我就是，但不完全是，油管创... 为什么这么多年还在坚持写博客？ 最先出现在 大师兄2016 。 |
+| 2026-11-07 | [2021](https://wcowin.work/blog/archive/2021/) | 2021 |
+| 2026-11-07 | [2022](https://wcowin.work/blog/archive/2022/) | 2022 |
+| 2026-11-07 | [2023](https://wcowin.work/blog/archive/2023/) | 2023 |
+| 2026-11-07 | [2024](https://wcowin.work/blog/archive/2024/) | 2024 |
+| 2026-11-07 | [2025](https://wcowin.work/blog/archive/2025/) | 2025 |
+| 2026-11-07 | [2026](https://wcowin.work/blog/archive/2026/) | 2026 |
+| 2026-11-07 | [Hello World](https://wcowin.work/blog/category/hello-world/) | Hello World |
+| 2026-11-07 | [网站更新记录](https://wcowin.work/blog/category/%E7%BD%91%E7%AB%99%E6%9B%B4%E6%96%B0%E8%AE%B0%E5%BD%95/) | 网站更新记录 |
+| 2026-11-07 | [MyBlog](https://wcowin.work/blog/page/2/) | MyBlog |
+| 2026-11-07 | [《玉响》圣地巡礼之憧憬之路](https://www.wikimoe.com/post/b-to4doc6q) | 2026年10月31日，天气晴，今天去竹原，参加憧憬之路！ 就如去年所说的，希望能去一次憧憬之路，这次的旅程就是为了完成去年的愿望。 抵达竹原 我回来啦！ 不一样的是，这次并不是一个人，而是两个人！ 商店街 今天正好是万圣节。 桃猫大人换成了万圣节款式。 对比上次，商店街多了一些灯笼。 之前因为火灾… |
+| 2026-11-07 | [审美总是最先被放弃的](https://www.hecaitou.com/2026/11/aesthetics-are-always-the-first-to-be-abandoned.html) | 人总是会来到人生中需要轻身上路的阶段，就我的个人观察，在这个阶段最先被放弃的总是审美。 轻身上路的原因可能是内心变得更加澄明，于是觉得不再需要背负那么多东西；也可能是内心因为崩坏而变得虚弱，于是先行放弃一部分不那么「重要」的东西，为自己减负。审美不能当饭吃，通常也不会有什么产出，放在列表第一行一点都… |
 | 2026-11-07 | [Album#49 - Music For Programming](https://taxodium.ink/album-49.html) | Album#49 Music For Programming 图1 Music For Programming by Datassette 专辑信息 专辑名称： Music For Programming 歌手： Datassette 年份： 自 2009 年 时长： 很長 function mus… |
 | 2026-11-07 | [真实住宅地址生成器：27 个国家的真住宅地址，附带一套测试资料](https://gugegt.com/20261107-real-address-generator.html) | 之前聊过 addresslab.net 那类随机地址生成器，这个是同类里更实在的一个：真实住宅地址生成器，地址是 address.daimonna.com/zh-CN/。它不编地址，从已验证的真实地址库里按国家和地区随机抽，抽出来的地址真有其地。 |
 | 2026-11-07 | [Memos #2026-11-06](https://blog.itaober.com/memos/memo_20261106020318_4cdt3m) | 10:03 最黑暗的一天，无限子弹打法都开始心慌了🥲 |
 | 2026-11-06 | [国密双栈方案对比：Angie、Tengine、现网 nginx](https://199604.com/3744) | 国密双栈方案对比：Angie、Tengine、现网 nginx 记录时间：2026-11-05 对比对象：现网 […] |
 | 2026-11-06 | [大模型原理通俗讲解：attention、后训练和蒸馏](http://xueshi.me/2026/11/06/llm-attention-post-training-distillation/) | 用伪代码和能手算的小例子讲清楚大模型的工作原理：点积、Q/K/V 和 attention、多头注意力、前馈网络、残差连接、新的 token 怎么生成；基座模型怎么经过后训练变成助手，编程模型怎么训练，蒸馏是什么，MoE 是什么，以及现在最前沿的模型又多了哪些技术。附录是辅助理解的部分。 |
+| 2026-11-06 | [那些不肯好好说话的「作精」](https://blog.solazy.me/1936/) | 终有一天，我发现，那些作精的极致，居然是我妈 |
 | 2026-11-06 | [Hermes Agent v0.23.0 升级：一次安全修复，让我的 Chrome 无法启动](https://liudon.com/posts/hermes-agent-v0-23-0-chrome-s6/) | 今天看到 Hermes Agent 发布了 v0.23.0 版本，加了很多新特性。 刚好有时间，于是顺手做了一下升级。 从 v0.22.5 升级到 v0.23.0 我用的是 Docker 部署，升级非常简单： 备份 .hermes 目录数据 重新拉取 v0.23.0 镜像部署容器 一切顺利，升级后的… |
 | 2026-11-06 | [“鲲” 和 Qwen 同音呀，有点妙 看](https://versun.me/blog/tweet-2118704905922003118) | Qwen The becoming begins. “鲲” 和 Qwen 同音呀，有点妙 看来 qwen 4 要出来了 我先许个愿：我想要 Qwen 4 35B A3B，谢谢 |
 | 2026-11-06 | [博客疑似被ai爬虫伪造refer爬取数据被勿污染](https://dsx2016.com/blog-data-may-have-been-contaminated-by-ai-crawlers-that-spoofed-the-referer-header-to-scrape-content/) | aocr.org 近期发现我的博客都有来源这个网站的访问 但是访问这个网站发现是一个美国医疗小机构的官网之类的... 博客疑似被ai爬虫伪造refer爬取数据被勿污染 最先出现在 大师兄2016 。 |
@@ -65,7 +80,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-11-05 | [一键清理所有高科技水印工具 「蒸矢」for macOS](https://blog.est.im/2026/stdout-41) | V站看到 警告！分享淘宝截图可能给你带来危险 于是有个很久的 idea 终于得到实施了。 https://github.com/est/Distill-SVG 把蒸馏成矢量图 SVG ，简称 蒸矢 😃 市面上有很多AI辅助把照片转SVG的，但其实矢量图不适合拿来做这事。GUI这类大量色块的截图倒是非… |
 | 2026-11-05 | [Next.js 图片优化完全指南](https://ravelloh.com/posts/nextjs-image-optimization-complete-guide) | Next.js 全生命周期图片优化与架构实践指南。梳理了现代化 Web 应用中“上传优化”（服务端利用 Sharp 进行格式校验、EXIF 转向、WebP 转码与尺寸限制）与“访问优化”（结合 组件与 Next.js Image Optimizer 实现按需裁剪、响应式分发）的双层优化体系；同时提供… |
 | 2026-11-05 | [Lemmings updated](https://macsourceports.com/game/lemmings) | The build of Ultimate Lemmings for Lemmings has been updated to version v2.4.2 of the project |
-| 2026-11-05 | [The Operative: No One Lives Forever updated](https://macsourceports.com/game/nolf1) | The build of NOLF1 for Mac for The Operative: No One Lives Forever has been updated to version 0.5.2 of the project |
 | 2026-11-05 | [esp32：使用esp32cam结合万向双头夹正式开始电动自行车充电检测](https://dsx2016.com/using-an-esp32-cam-paired-with-a-universal-dual-head-clamp-we-are-officially-beginning-the-process-of-monitoring-electric-bicycle-charging/) | 万向双头夹 前几天到了一个万向夹，但是是磁吸底座，需要有铁的物质 经过测试，在置物架上的铁片上可以有一定吸力，... esp32：使用esp32cam结合万向双头夹正式开始电动自行车充电检测 最先出现在 大师兄2016 。 |
 | 2026-11-05 | [omarchy 适配 mac 电脑了，适](https://versun.me/blog/tweet-2118287032086822962) | DHH Omarchy 4.5 will ship with full compatibility for M1, M2, M3, and Neo! Incredible achievement from the Omarchy M team. The installer makes this so… |
 | 2026-11-05 | [剑流德钟，三把壶排排队](https://gugegt.com/20261105-jianliu-dezhong.html) | 三把壶排排队，拍了四张照片。 都是德钟，都是剑流，出自同一位老师。年份不同，泥料不同，用的年头也不同。 |
@@ -143,15 +157,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-11-02 | [从看得懂到听得懂：我为什么做了 LearnBit](https://lililib.github.io/Learnbit%20%E5%BC%80%E5%8F%91%E6%97%A5%E5%BF%97/) | 我背过很多单词，词汇量还是不错的，也就是说，英文文章我基本能看懂意思，遇到不认识的单词也能八九不离十地猜出大意。 考研过程中，我英文阅读题满分，但是听力特别差，可以说是完全听不懂。虽然没有考核口语，但是我知道口语多半也没戏。 前些日子想进外企，为 |
 | 2026-11-02 | [辐射转移与多方模型](https://physnya.top/astro-physics/lesson-6-polytropic-model/) | 辐射转移方程 用 S ν = j ν / k ν S\nu=j\nu/k_\nu S ν ​ = j ν ​ / k ν ​ 描述介质发射和吸收系数之比，称为源函数， |
 | 2026-11-02 | [2026.11.1](https://www.justzht.com/2026-11-1/) | 十月结束了。 肇事逃逸的事情结束了，保险公司最后付清了所有我在诉讼里要求的金额。我得知支票寄出的消息后 |
-| 2026-11-02 | [2021](https://wcowin.work/blog/archive/2021/) | 2021 |
-| 2026-11-02 | [2022](https://wcowin.work/blog/archive/2022/) | 2022 |
-| 2026-11-02 | [2023](https://wcowin.work/blog/archive/2023/) | 2023 |
-| 2026-11-02 | [2024](https://wcowin.work/blog/archive/2024/) | 2024 |
-| 2026-11-02 | [2025](https://wcowin.work/blog/archive/2025/) | 2025 |
-| 2026-11-02 | [2026](https://wcowin.work/blog/archive/2026/) | 2026 |
-| 2026-11-02 | [Hello World](https://wcowin.work/blog/category/hello-world/) | Hello World |
-| 2026-11-02 | [网站更新记录](https://wcowin.work/blog/category/%E7%BD%91%E7%AB%99%E6%9B%B4%E6%96%B0%E8%AE%B0%E5%BD%95/) | 网站更新记录 |
-| 2026-11-02 | [MyBlog](https://wcowin.work/blog/page/2/) | MyBlog |
 | 2026-11-02 | [关于 Personal Agent 商业](https://versun.me/blog/tweet-2117123682544083354) | 关于 Personal Agent 商业化的冷思考 最近 Bot 赛道异常火热。从大厂的 Meta Muse、OpenAI Dot、Grok Bot、Claude Duet，到社区里五花八门的开源项目，让人眼花缭乱，不过出于隐私顾虑，加上我自己搭建的 Hermes Agent 用起来一直很顺手，这些… |
 | 2026-11-02 | [关于 Personal Agent 商业化的冷思考](https://versun.me/blog/thoughts-on-personal-agent) | 最近 Bot 赛道异常火热。从大厂的 Meta Muse、OpenAI Dot、Grok Bot、Claude Duet，到社区里五花八门的开源项目，让人眼花缭乱，不过出于隐私顾虑，加上我自己搭建的 Hermes Agent 用起来一直很顺手，这些热门产品我其实一个都没碰过。 直到上周，老婆让我也给… |
 | 2026-11-02 | [ber，打哪儿来的「知识」？](https://www.hecaitou.com/2026/11/blog-post.html) | 我注意到已经有读者在留言里向其他人给出减肥建议：土豆煮好放冰箱冷藏，用它替代米饭日常食用，一个月可以减 XX 斤....... 一点不意外，类似的内容最近我在网上频繁撞见。各种 App 里不时就会蹦出「凉土豆」、「冷土豆 」字样，我睡觉了都能梦见满天土豆在飞。不信的话，你可以回忆一下，去年到今年上半… |
