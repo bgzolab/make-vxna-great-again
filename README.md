@@ -27,6 +27,12 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-11-07 | [油管成长记录式新手和普通日常视频分享](https://dsx2016.com/youtube-growth-journey-content-for-beginners-and-everyday-life-vlogs/) | 过程和结果 以前分享一个技术内容，总是在无数次验证和试错后，记录结果并分享 但是很少记录错误和请教别人，提问式... 油管成长记录式新手和普通日常视频分享 最先出现在 大师兄2016 。 |
+| 2026-11-07 | [油管拍摄内容选择什么主题好？](https://dsx2016.com/what-topics-are-good-to-choose-for-youtube-content/) | 两个频道 两个频道都获取YPP 一个频道因为发布了硬件相关的内容，6个小时后就开通的rpoduct功能，甚至后... 油管拍摄内容选择什么主题好？ 最先出现在 大师兄2016 。 |
+| 2026-11-07 | [Memos: 事 倍 功 半](https://blog.yasking.org/a/1794059602) | 下载原图: Download |
+| 2026-11-07 | [假如给新手一些关于油管的建议，有哪些可以分享的？](https://dsx2016.com/if-you-were-to-offer-some-advice-to-a-beginner-on-youtube-what-would-you-share/) | 只用手机 拍摄视频千万不要一开始就买各种相机，新手机，无人机之类的 只需要用自己当前正在使用的手机，旧手机，进... 假如给新手一些关于油管的建议，有哪些可以分享的？ 最先出现在 大师兄2016 。 |
+| 2026-11-07 | [ChatGPT Dot 日常使用记录](https://anotherdayu.com/how-i-use-dots/) | 引 最近一段时间，Dots 已经成了我使用黏度很高的个人助理工具。 整理了一下目前的使用方式，大致可以分三种：随手交代、定期任务和主动协助。 大部分思路也可以在 Grok bot 和 muse 里使用。 让Dots认识你 Dots 是一个长期协作的个人助理。要想真正用好它，首先得放下对个人隐私的部分… |
+| 2026-11-07 | [Memos: 发现街角的咖啡店](https://blog.yasking.org/a/1794053002) | 小区侧门马路的对面有个咖啡店，独栋小房子，坐落在两个小区中间，门前的小院子有各种绿植花卉，还有一只小猫迎宾，室 … |
 | 2026-11-07 | [The Operative: No One Lives Forever updated](https://macsourceports.com/game/nolf1) | The build of NOLF1 for Mac for The Operative: No One Lives Forever has been updated to version 0.5.3 of the project |
 | 2026-11-07 | [Plants vs. Zombies updated](https://macsourceports.com/game/pvz) | The build of PvZ Portable for Plants vs. Zombies has been updated to version 0.2.7 of the project |
 | 2026-11-07 | [为什么这么多年还在坚持写博客？](https://dsx2016.com/why-have-i-kept-blogging-for-all-these-years/) | 油管和博客 在redit看到一个帖子，问的是有没有多年的油管创作者转向写博客的 我想我就是，但不完全是，油管创... 为什么这么多年还在坚持写博客？ 最先出现在 大师兄2016 。 |
@@ -40,12 +46,16 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-11-07 | [网站更新记录](https://wcowin.work/blog/category/%E7%BD%91%E7%AB%99%E6%9B%B4%E6%96%B0%E8%AE%B0%E5%BD%95/) | 网站更新记录 |
 | 2026-11-07 | [MyBlog](https://wcowin.work/blog/page/2/) | MyBlog |
 | 2026-11-07 | [《玉响》圣地巡礼之憧憬之路](https://www.wikimoe.com/post/b-to4doc6q) | 2026年10月31日，天气晴，今天去竹原，参加憧憬之路！ 就如去年所说的，希望能去一次憧憬之路，这次的旅程就是为了完成去年的愿望。 抵达竹原 我回来啦！ 不一样的是，这次并不是一个人，而是两个人！ 商店街 今天正好是万圣节。 桃猫大人换成了万圣节款式。 对比上次，商店街多了一些灯笼。 之前因为火灾… |
+| 2026-11-07 | [一次 browser_exec 调用背后：Hermes Agent 如何管理浏览器](https://liudon.com/posts/hermes-agent-browser-management/) | 上一篇《 Hermes Agent v0.23.0 升级：一次安全修复，让我的 Chrome 无法启动 》讲了升级后 Chrome 无法启动的踩坑记录，今天来讲一下：当 Hermes 需要访问网页时，它究竟如何找到并管理浏览器？ |
 | 2026-11-07 | [审美总是最先被放弃的](https://www.hecaitou.com/2026/11/aesthetics-are-always-the-first-to-be-abandoned.html) | 人总是会来到人生中需要轻身上路的阶段，就我的个人观察，在这个阶段最先被放弃的总是审美。 轻身上路的原因可能是内心变得更加澄明，于是觉得不再需要背负那么多东西；也可能是内心因为崩坏而变得虚弱，于是先行放弃一部分不那么「重要」的东西，为自己减负。审美不能当饭吃，通常也不会有什么产出，放在列表第一行一点都… |
 | 2026-11-07 | [Album#49 - Music For Programming](https://taxodium.ink/album-49.html) | Album#49 Music For Programming 图1 Music For Programming by Datassette 专辑信息 专辑名称： Music For Programming 歌手： Datassette 年份： 自 2009 年 时长： 很長 function mus… |
 | 2026-11-07 | [真实住宅地址生成器：27 个国家的真住宅地址，附带一套测试资料](https://gugegt.com/20261107-real-address-generator.html) | 之前聊过 addresslab.net 那类随机地址生成器，这个是同类里更实在的一个：真实住宅地址生成器，地址是 address.daimonna.com/zh-CN/。它不编地址，从已验证的真实地址库里按国家和地区随机抽，抽出来的地址真有其地。 |
 | 2026-11-07 | [Memos #2026-11-06](https://blog.itaober.com/memos/memo_20261106020318_4cdt3m) | 10:03 最黑暗的一天，无限子弹打法都开始心慌了🥲 |
+| 2026-11-07 | [Python 潮流周刊#174：CPython 实验性 JIT 将被移除，PyScript 进入维护模式](https://pythoncat.top/posts/2026-11-07-weekly/) | 分享了 12 篇文章，12 个开源项目，2 则热门讨论 |
 | 2026-11-06 | [国密双栈方案对比：Angie、Tengine、现网 nginx](https://199604.com/3744) | 国密双栈方案对比：Angie、Tengine、现网 nginx 记录时间：2026-11-05 对比对象：现网 […] |
 | 2026-11-06 | [大模型原理通俗讲解：attention、后训练和蒸馏](http://xueshi.me/2026/11/06/llm-attention-post-training-distillation/) | 用伪代码和能手算的小例子讲清楚大模型的工作原理：点积、Q/K/V 和 attention、多头注意力、前馈网络、残差连接、新的 token 怎么生成；基座模型怎么经过后训练变成助手，编程模型怎么训练，蒸馏是什么，MoE 是什么，以及现在最前沿的模型又多了哪些技术。附录是辅助理解的部分。 |
+| 2026-11-06 | [AI 早报 2026-11-07：路透：英伟达掏数十亿美元，帮日月光旗下矽品扩产 CoWoS 先进封装](https://www.jtxyh.com/daily/2026-11-07/) | 2026-11-07 AI 早报，共 20 条动态。路透 11 月 6 日援引知情行业高管报道，英伟达正提供数十亿美元资金，支持日月光投控旗下矽品精密扩建 CoWoS 先进封装产能，用于新建厂房和购置设备。软银集团 11 月 6 日在东京收跌 10.83% 至 3549 日元，继前一日跌 14.4%… |
+| 2026-11-06 | [初为人父的第一周](https://jrd.pub/261107_as_a_father/) | 初为人父的第一周，仍在仔细品尝有一个孩子的滋味。 事情实际的发展完全如之前《性别打结》中读到的，母亲和孩子的连接过程是更加天然和迅速的：孩子来自母亲的身体，母乳也是天然就适宜的食物和抚慰。爸爸无法感受到这种身体上的天然连接，和孩子的连接感需要在不断地接触和互动中一点点获得——只能多为他做些事情，多拍… |
 | 2026-11-06 | [那些不肯好好说话的「作精」](https://blog.solazy.me/1936/) | 终有一天，我发现，那些作精的极致，居然是我妈 |
 | 2026-11-06 | [Hermes Agent v0.23.0 升级：一次安全修复，让我的 Chrome 无法启动](https://liudon.com/posts/hermes-agent-v0-23-0-chrome-s6/) | 今天看到 Hermes Agent 发布了 v0.23.0 版本，加了很多新特性。 刚好有时间，于是顺手做了一下升级。 从 v0.22.5 升级到 v0.23.0 我用的是 Docker 部署，升级非常简单： 备份 .hermes 目录数据 重新拉取 v0.23.0 镜像部署容器 一切顺利，升级后的… |
 | 2026-11-06 | [“鲲” 和 Qwen 同音呀，有点妙 看](https://versun.me/blog/tweet-2118704905922003118) | Qwen The becoming begins. “鲲” 和 Qwen 同音呀，有点妙 看来 qwen 4 要出来了 我先许个愿：我想要 Qwen 4 35B A3B，谢谢 |

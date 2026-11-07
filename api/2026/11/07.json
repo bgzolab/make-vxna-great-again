@@ -1,5 +1,47 @@
 [
   {
+    "title": "油管成长记录式新手和普通日常视频分享",
+    "url": "https://dsx2016.com/youtube-growth-journey-content-for-beginners-and-everyday-life-vlogs/",
+    "date": "2026-11-07T16:06:51Z",
+    "description": "过程和结果 以前分享一个技术内容，总是在无数次验证和试错后，记录结果并分享 但是很少记录错误和请教别人，提问式... 油管成长记录式新手和普通日常视频分享 最先出现在 大师兄2016 。",
+    "source_root_domain": "dsx2016.com"
+  },
+  {
+    "title": "油管拍摄内容选择什么主题好？",
+    "url": "https://dsx2016.com/what-topics-are-good-to-choose-for-youtube-content/",
+    "date": "2026-11-07T15:01:30Z",
+    "description": "两个频道 两个频道都获取YPP 一个频道因为发布了硬件相关的内容，6个小时后就开通的rpoduct功能，甚至后... 油管拍摄内容选择什么主题好？ 最先出现在 大师兄2016 。",
+    "source_root_domain": "dsx2016.com"
+  },
+  {
+    "title": "Memos: 事 倍 功 半",
+    "url": "https://blog.yasking.org/a/1794059602",
+    "date": "2026-11-07T13:53:22Z",
+    "description": "下载原图: Download",
+    "source_root_domain": "yasking.org"
+  },
+  {
+    "title": "假如给新手一些关于油管的建议，有哪些可以分享的？",
+    "url": "https://dsx2016.com/if-you-were-to-offer-some-advice-to-a-beginner-on-youtube-what-would-you-share/",
+    "date": "2026-11-07T13:22:54Z",
+    "description": "只用手机 拍摄视频千万不要一开始就买各种相机，新手机，无人机之类的 只需要用自己当前正在使用的手机，旧手机，进... 假如给新手一些关于油管的建议，有哪些可以分享的？ 最先出现在 大师兄2016 。",
+    "source_root_domain": "dsx2016.com"
+  },
+  {
+    "title": "ChatGPT Dot 日常使用记录",
+    "url": "https://anotherdayu.com/how-i-use-dots/",
+    "date": "2026-11-07T12:27:00Z",
+    "description": "引 最近一段时间，Dots 已经成了我使用黏度很高的个人助理工具。 整理了一下目前的使用方式，大致可以分三种：随手交代、定期任务和主动协助。 大部分思路也可以在 Grok bot 和 muse 里使用。 让Dots认识你 Dots 是一个长期协作的个人助理。要想真正用好它，首先得放下对个人隐私的部分执念。Agent 掌握的个人信息越丰富，对你的了解就越深入，使用体验通常也会越好。 我首先绑定了常用的邮箱、网盘和日历，又把个人博客、简历、GitHub 等资料都交给它。信息越充分，它就越容易理解我正在做什么、关心什么，以及有哪些事情需要处理。 Dots 还支持通过 iMessage 交互，不过 iMessage 和 ChatGPT 中的 Dots 是两条不同的对话信息流。这点有弊也有利，看如何使用。 随手交代 有事情的时候，直接告诉它想做什么，不必先想好每一步怎么操作。比如： 收到车票截图，让它把行程加入 Apple 日历； 需要查找邮箱或网盘里的信息，直接把问题发给它，不用自己翻找。 把小票和付款截图发给它，让它记录到 Google 表格中。Beancount 也可以，只是我暂时用不到那",
+    "source_root_domain": "anotherdayu.com"
+  },
+  {
+    "title": "Memos: 发现街角的咖啡店",
+    "url": "https://blog.yasking.org/a/1794053002",
+    "date": "2026-11-07T12:03:22Z",
+    "description": "小区侧门马路的对面有个咖啡店，独栋小房子，坐落在两个小区中间，门前的小院子有各种绿植花卉，还有一只小猫迎宾，室 …",
+    "source_root_domain": "yasking.org"
+  },
+  {
     "title": "The Operative: No One Lives Forever updated",
     "url": "https://macsourceports.com/game/nolf1",
     "date": "2026-11-07T12:00:36Z",
@@ -91,6 +133,13 @@
     "source_root_domain": "wikimoe.com"
   },
   {
+    "title": "一次 browser_exec 调用背后：Hermes Agent 如何管理浏览器",
+    "url": "https://liudon.com/posts/hermes-agent-browser-management/",
+    "date": "2026-11-07T06:27:18Z",
+    "description": "上一篇《 Hermes Agent v0.23.0 升级：一次安全修复，让我的 Chrome 无法启动 》讲了升级后 Chrome 无法启动的踩坑记录，今天来讲一下：当 Hermes 需要访问网页时，它究竟如何找到并管理浏览器？",
+    "source_root_domain": "liudon.com"
+  },
+  {
     "title": "审美总是最先被放弃的",
     "url": "https://www.hecaitou.com/2026/11/aesthetics-are-always-the-first-to-be-abandoned.html",
     "date": "2026-11-07T04:49:07Z",
@@ -119,6 +168,13 @@
     "source_root_domain": "itaober.com"
   },
   {
+    "title": "Python 潮流周刊#174：CPython 实验性 JIT 将被移除，PyScript 进入维护模式",
+    "url": "https://pythoncat.top/posts/2026-11-07-weekly/",
+    "date": "2026-11-07T00:00:00Z",
+    "description": "分享了 12 篇文章，12 个开源项目，2 则热门讨论",
+    "source_root_domain": "pythoncat.top"
+  },
+  {
     "title": "国密双栈方案对比：Angie、Tengine、现网 nginx",
     "url": "https://199604.com/3744",
     "date": "2026-11-06T23:07:55Z",
@@ -131,6 +187,20 @@
     "date": "2026-11-06T17:30:00Z",
     "description": "用伪代码和能手算的小例子讲清楚大模型的工作原理：点积、Q/K/V 和 attention、多头注意力、前馈网络、残差连接、新的 token 怎么生成；基座模型怎么经过后训练变成助手，编程模型怎么训练，蒸馏是什么，MoE 是什么，以及现在最前沿的模型又多了哪些技术。附录是辅助理解的部分。",
     "source_root_domain": "xueshi.me"
+  },
+  {
+    "title": "AI 早报 2026-11-07：路透：英伟达掏数十亿美元，帮日月光旗下矽品扩产 CoWoS 先进封装",
+    "url": "https://www.jtxyh.com/daily/2026-11-07/",
+    "date": "2026-11-06T16:00:00Z",
+    "description": "2026-11-07 AI 早报，共 20 条动态。路透 11 月 6 日援引知情行业高管报道，英伟达正提供数十亿美元资金，支持日月光投控旗下矽品精密扩建 CoWoS 先进封装产能，用于新建厂房和购置设备。软银集团 11 月 6 日在东京收跌 10.83% 至 3549 日元，继前一日跌 14.4%…",
+    "source_root_domain": "jtxyh.com"
+  },
+  {
+    "title": "初为人父的第一周",
+    "url": "https://jrd.pub/261107_as_a_father/",
+    "date": "2026-11-06T16:00:00Z",
+    "description": "初为人父的第一周，仍在仔细品尝有一个孩子的滋味。 事情实际的发展完全如之前《性别打结》中读到的，母亲和孩子的连接过程是更加天然和迅速的：孩子来自母亲的身体，母乳也是天然就适宜的食物和抚慰。爸爸无法感受到这种身体上的天然连接，和孩子的连接感需要在不断地接触和互动中一点点获得——只能多为他做些事情，多拍拍他，多抱抱他，甚至是趴在小床边默默观察他。 孩子诞生前，我其实一直在想自己该以什么样的姿态去当爸爸。我常觉得「女儿」「儿子」「孩子」这样的称呼中似乎总是包含着对身为父母的权力等级的强调，而我担心这样的强调会让自己对自己身份的判断逐渐滑坡到更强权和控制的一边。我心中一直有一种警觉：小朋友是独立的人，不是我的附属品。 但过去的一周里我逐渐发现，自己比想象中更需要和孩子之间的连接感，甚至也不再那么排斥「儿子」「孩子」这类称呼了（我甚至和太太说，我接下来需要多称呼他为「儿子」而不是名字或者「小朋友」之类的称呼，以加强连接感）。因为父亲的责任如果只靠观念和道德感硬撑，大概是不能长久的。比起对自己滑向控制欲的警惕，亲近是更必需的。我希望付出是自然而然的流露，而不只是履行父职的义务。我爱他，照顾他，为他",
+    "source_root_domain": "jrd.pub"
   },
   {
     "title": "那些不肯好好说话的「作精」",
