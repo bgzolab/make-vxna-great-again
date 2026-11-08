@@ -1,5 +1,89 @@
 [
   {
+    "title": "AI生成雨中便利店的网页 | GPT-6.1 sol，Gemini 3.8 flash",
+    "url": "https://blog.rustfisher.com/ai/rainy-store-gpt6-1sol-gemini3-8flash/",
+    "date": "2026-11-08T12:42:00Z",
+    "description": "AI生成雨中便利店的网页。用GPT和Gemini分别生成的效果。",
+    "source_root_domain": "rustfisher.com"
+  },
+  {
+    "title": "Quetoo updated",
+    "url": "https://macsourceports.com/game/quetoo",
+    "date": "2026-11-08T12:17:05Z",
+    "description": "The build of Quetoo has been updated to version v1.0.143 of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "让 2D 像素拥有 3D 打光：光照方向感知的法线估计",
+    "url": "https://outtascope.com/zh/writing/pixel-art-lighting/",
+    "date": "2026-11-08T12:00:00Z",
+    "description": "拆解 Pixel Art Lighter 的法线生成原理，对比同类工具，加入光照方向感知，并用 3D 转 2D 的评测集验证。",
+    "source_root_domain": "outtascope.com"
+  },
+  {
+    "title": "摘：《六论自发性》",
+    "url": "https://z.arlmy.me/posts/Note/Note_JamesCScott_TwoCheersForAnarchism/",
+    "date": "2026-11-08T11:27:46Z",
+    "description": "「自我的弹性。」",
+    "source_root_domain": "arlmy.me"
+  },
+  {
+    "title": "摘：《江湖丛谈》",
+    "url": "https://z.arlmy.me/posts/Note/Note_LianKuoRu_JiangHuCongTan/",
+    "date": "2026-11-08T11:07:46Z",
+    "description": "「调侃儿。」",
+    "source_root_domain": "arlmy.me"
+  },
+  {
+    "title": "摘：《轨道》",
+    "url": "https://z.arlmy.me/posts/Note/Note_SamanthaHarvey_Orbital/",
+    "date": "2026-11-08T10:57:46Z",
+    "description": "「加速。」",
+    "source_root_domain": "arlmy.me"
+  },
+  {
+    "title": "摘：《瓦莱里与纪德通信选》",
+    "url": "https://z.arlmy.me/posts/Note/Note_TheGideValeryLetters/",
+    "date": "2026-11-08T10:27:46Z",
+    "description": "「文学通信和爱。」",
+    "source_root_domain": "arlmy.me"
+  },
+  {
+    "title": "摘：《真实生活》",
+    "url": "https://z.arlmy.me/posts/Note/Note_AdamZagajewski_TrueLife/",
+    "date": "2026-11-08T10:07:46Z",
+    "description": "「退休的二十世纪。」",
+    "source_root_domain": "arlmy.me"
+  },
+  {
+    "title": "Might and Magic VII: For Blood and Honor updated",
+    "url": "https://macsourceports.com/game/mightandmagic7",
+    "date": "2026-11-08T09:11:58Z",
+    "description": "The build of OpenEnroth for Might and Magic VII: For Blood and Honor has been updated to the latest code of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "esp32 cyd 当前使用最多的场景 时钟面板",
+    "url": "https://dsx2016.com/esp32-cyd-most-common-use-case-clock-panel/",
+    "date": "2026-11-08T08:12:47Z",
+    "description": "时钟面板 当前我使用最多的是esp32 cyd 时钟面板 手机上看时间，往往需要先亮屏，手表上看时间，也需要抬... esp32 cyd 当前使用最多的场景 时钟面板 最先出现在 大师兄2016 。",
+    "source_root_domain": "dsx2016.com"
+  },
+  {
+    "title": "狗不会说话但什么都懂",
+    "url": "https://mobius.blog/26090.html",
+    "date": "2026-11-08T07:37:14Z",
+    "description": "Humachine 里整理的是原本发布在 Telegram 频道的内容，积累到足够的时候，就可以分类整理成册。 […]",
+    "source_root_domain": "mobius.blog"
+  },
+  {
+    "title": "一步步理解齐次变换",
+    "url": "https://www.less-bug.com/posts/understand-homogeneous-transformation-step-by-step/",
+    "date": "2026-11-08T04:28:10Z",
+    "description": "本文将带领读者看清齐次变换的几何本质：因为 低维空间的平移，本质上就是高维空间里的线性错切（Shear）在这些低维截面上的投影 。 三维错切诱导二维平移 $\\mathbf{v}' = \\mathbf{M}\\mathbf{v}$ 是一个线性变换的过程。输入全零向量，输出必定是全零向量，即 $\\mathbf{M}\\mathbf{0} = \\mathbf{0}$ 。在几何上，这意味着 坐标原点映射后依然是原点 。 二维平面如果穿过原点，它的 $(0,0)$ 就永远无法通过线性变换映射到其它位置。 然而，考虑一个三维空间。我们把原本的二维世界 $$ \\mathbb{R}^2 = \\{(x, y) \\mid x, y \\in \\mathbb{R}\\} $$ 整体抬高到高度 $z = 1$ 。于是，原二维平面上的点 $(1, 1)$ ，就变成了三维空间里的点： $$ \\mathbf{p} = \\begin{pmatrix} 1 \\\\ 1 \\\\ 1 \\end{pmatrix} $$ 同理，原本的二维原点 $(0, 0)$ ，现在变成了三维空间里的 $\\begin{pmatrix} 0 \\\\ 0 \\\\",
+    "source_root_domain": "less-bug.com"
+  },
+  {
     "title": "运气不好",
     "url": "https://zdyxry.github.io/2026/11/08/bad-luck/",
     "date": "2026-11-08T00:00:00Z",
@@ -12,6 +96,13 @@
     "date": "2026-11-07T16:06:51Z",
     "description": "过程和结果 以前分享一个技术内容，总是在无数次验证和试错后，记录结果并分享 但是很少记录错误和请教别人，提问式... 油管成长记录式新手和普通日常视频分享 最先出现在 大师兄2016 。",
     "source_root_domain": "dsx2016.com"
+  },
+  {
+    "title": "康威定律在 Agent 上的重演",
+    "url": "https://rickgwei.com/posts/conway-law-agents/",
+    "date": "2026-11-07T16:00:00Z",
+    "description": "康威定律 Conway 在 1968 年的原文 指出，设计系统的组织，会产生复制组织沟通结构的设计。这里关心的是实际沟通路径，而不只是组织架构图上的职位名称。 在软件团队里，谁和谁沟通、哪些信息需要交接、谁负责协调和集成，会影响系统的模块边界与接口。放到 Agent 系统中，沟通结构则由上下文范围、消息路由、角色间接口，以及最终决策和集成责任共同构成。 从 Agent Worker 到 Agent Group 这些形态不一定会彼此替代，它们代表不同的任务拆分和协作方式。 Agent Worker：单个 Agent 完成明确任务 Agent Worker 是最直接的协作形式。人先分析需求，再把边界明确的任务交给一个 Agent，比如实现一个登录拦截器并对接 Google OAuth。 任务上下文集中在人与单个 Agent 之间，不需要跨角色交接。任务变复杂后，人仍然可以持续补充上下文和验收结果，但执行过程主要由同一个 Agent 完成。 Agent Workflow：把协作路径固定在流程中 Agent Workflow 用预先定义的流程连接触发、分析、执行和修复。比如 Issue 自动触",
+    "source_root_domain": "rickgwei.com"
   },
   {
     "title": "油管拍摄内容选择什么主题好？",
@@ -299,13 +390,6 @@
     "date": "2026-11-06T10:05:00Z",
     "description": "这篇整理自 Eian 11 月 5 日发在 X 上的长文，280 多万浏览，讲怎么用 Claude Code、Codex、Seedance 做一条 AI 视频。全文分工具层和实操两部分，我按原帖的结构整理，要点和做法都保留，10 段提示词都按要点展开写细了，完整版见文末原文链接。 这篇只解决一个问题：靠一套多模型工作流，用尽量少的钱、尽量低的抽卡率，做出一条自己满意的 AI 视频。",
     "source_root_domain": "gugegt.com"
-  },
-  {
-    "title": "Might and Magic VII: For Blood and Honor updated",
-    "url": "https://macsourceports.com/game/mightandmagic7",
-    "date": "2026-11-06T09:10:10Z",
-    "description": "The build of OpenEnroth for Might and Magic VII: For Blood and Honor has been updated to the latest code of the project",
-    "source_root_domain": "macsourceports.com"
   },
   {
     "title": "Xash3D FWGS updated",

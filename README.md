@@ -27,8 +27,21 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-11-08 | [AI生成雨中便利店的网页 &#124; GPT-6.1 sol，Gemini 3.8 flash](https://blog.rustfisher.com/ai/rainy-store-gpt6-1sol-gemini3-8flash/) | AI生成雨中便利店的网页。用GPT和Gemini分别生成的效果。 |
+| 2026-11-08 | [Quetoo updated](https://macsourceports.com/game/quetoo) | The build of Quetoo has been updated to version v1.0.143 of the project |
+| 2026-11-08 | [让 2D 像素拥有 3D 打光：光照方向感知的法线估计](https://outtascope.com/zh/writing/pixel-art-lighting/) | 拆解 Pixel Art Lighter 的法线生成原理，对比同类工具，加入光照方向感知，并用 3D 转 2D 的评测集验证。 |
+| 2026-11-08 | [摘：《六论自发性》](https://z.arlmy.me/posts/Note/Note_JamesCScott_TwoCheersForAnarchism/) | 「自我的弹性。」 |
+| 2026-11-08 | [摘：《江湖丛谈》](https://z.arlmy.me/posts/Note/Note_LianKuoRu_JiangHuCongTan/) | 「调侃儿。」 |
+| 2026-11-08 | [摘：《轨道》](https://z.arlmy.me/posts/Note/Note_SamanthaHarvey_Orbital/) | 「加速。」 |
+| 2026-11-08 | [摘：《瓦莱里与纪德通信选》](https://z.arlmy.me/posts/Note/Note_TheGideValeryLetters/) | 「文学通信和爱。」 |
+| 2026-11-08 | [摘：《真实生活》](https://z.arlmy.me/posts/Note/Note_AdamZagajewski_TrueLife/) | 「退休的二十世纪。」 |
+| 2026-11-08 | [Might and Magic VII: For Blood and Honor updated](https://macsourceports.com/game/mightandmagic7) | The build of OpenEnroth for Might and Magic VII: For Blood and Honor has been updated to the latest code of the project |
+| 2026-11-08 | [esp32 cyd 当前使用最多的场景 时钟面板](https://dsx2016.com/esp32-cyd-most-common-use-case-clock-panel/) | 时钟面板 当前我使用最多的是esp32 cyd 时钟面板 手机上看时间，往往需要先亮屏，手表上看时间，也需要抬... esp32 cyd 当前使用最多的场景 时钟面板 最先出现在 大师兄2016 。 |
+| 2026-11-08 | [狗不会说话但什么都懂](https://mobius.blog/26090.html) | Humachine 里整理的是原本发布在 Telegram 频道的内容，积累到足够的时候，就可以分类整理成册。 […] |
+| 2026-11-08 | [一步步理解齐次变换](https://www.less-bug.com/posts/understand-homogeneous-transformation-step-by-step/) | 本文将带领读者看清齐次变换的几何本质：因为 低维空间的平移，本质上就是高维空间里的线性错切（Shear）在这些低维截面上的投影 。 三维错切诱导二维平移 $\mathbf{v}' = \mathbf{M}\mathbf{v}$ 是一个线性变换的过程。输入全零向量，输出必定是全零向量，即 $\math… |
 | 2026-11-08 | [运气不好](https://zdyxry.github.io/2026/11/08/bad-luck/) | 预约检查 国庆期间感觉自己左手食指中间部位有一个小包，不疼不痒，位置刚好是大拇指正常放置就能够碰到的位置，每天都能够感受到它。预约了华山医院的手外科检查。10 月 27 日去华山医院手外科找医生看了一下，最初判断是腱鞘囊肿，尝试按破没成功，说做个 B 超看一下。不知道是错觉还是什么，那次按完之后感觉… |
 | 2026-11-07 | [油管成长记录式新手和普通日常视频分享](https://dsx2016.com/youtube-growth-journey-content-for-beginners-and-everyday-life-vlogs/) | 过程和结果 以前分享一个技术内容，总是在无数次验证和试错后，记录结果并分享 但是很少记录错误和请教别人，提问式... 油管成长记录式新手和普通日常视频分享 最先出现在 大师兄2016 。 |
+| 2026-11-07 | [康威定律在 Agent 上的重演](https://rickgwei.com/posts/conway-law-agents/) | 康威定律 Conway 在 1968 年的原文 指出，设计系统的组织，会产生复制组织沟通结构的设计。这里关心的是实际沟通路径，而不只是组织架构图上的职位名称。 在软件团队里，谁和谁沟通、哪些信息需要交接、谁负责协调和集成，会影响系统的模块边界与接口。放到 Agent 系统中，沟通结构则由上下文范围、… |
 | 2026-11-07 | [油管拍摄内容选择什么主题好？](https://dsx2016.com/what-topics-are-good-to-choose-for-youtube-content/) | 两个频道 两个频道都获取YPP 一个频道因为发布了硬件相关的内容，6个小时后就开通的rpoduct功能，甚至后... 油管拍摄内容选择什么主题好？ 最先出现在 大师兄2016 。 |
 | 2026-11-07 | [Memos: 事 倍 功 半](https://blog.yasking.org/a/1794059602) | 下载原图: Download |
 | 2026-11-07 | [假如给新手一些关于油管的建议，有哪些可以分享的？](https://dsx2016.com/if-you-were-to-offer-some-advice-to-a-beginner-on-youtube-what-would-you-share/) | 只用手机 拍摄视频千万不要一开始就买各种相机，新手机，无人机之类的 只需要用自己当前正在使用的手机，旧手机，进... 假如给新手一些关于油管的建议，有哪些可以分享的？ 最先出现在 大师兄2016 。 |
@@ -70,7 +83,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-11-06 | [还是 opus 5.5 好用呀，不仅干活](https://versun.me/blog/tweet-2118662784196186124) | Versun 经过近一个月的使用，我把 hermes 的默认模型，从 gemini 3.8 flash 改回到 opus 5.5 了， gemini 太阿谀奉承了，一点自己的主见没有， 好几次差点坏了事，还是 opus 靠谱，虽然说话难听了点 🤣 还是 opus 5.5 好用呀，不仅干活利索，还能预… |
 | 2026-11-06 | [我想给自己建立一个长期运行的 AI 助手](https://www.banzhuanriji.com/posts/a-long-term-ai-assistant/) | 最近一直在想一件事：能不能把 AI 真正融入自己的生活？ 这里说的融入，不是每天打开 ChatGPT 问几个技术问题，也不是让 AI 帮忙写文章、整理资料。我想做的是更进一步的事情。 我希望有一个 AI，它能够逐渐了解我。 知道我做什么工作，有哪些能力，经济状况怎么样，平时有什么习惯，喜欢什么、不喜… |
 | 2026-11-06 | [Claude Code、Codex 与 Seedance 做 AI 视频：从想法到成片](https://gugegt.com/20261106-claude-codex-seedance-ai-video.html) | 这篇整理自 Eian 11 月 5 日发在 X 上的长文，280 多万浏览，讲怎么用 Claude Code、Codex、Seedance 做一条 AI 视频。全文分工具层和实操两部分，我按原帖的结构整理，要点和做法都保留，10 段提示词都按要点展开写细了，完整版见文末原文链接。 这篇只解决一个问题… |
-| 2026-11-06 | [Might and Magic VII: For Blood and Honor updated](https://macsourceports.com/game/mightandmagic7) | The build of OpenEnroth for Might and Magic VII: For Blood and Honor has been updated to the latest code of the project |
 | 2026-11-06 | [Xash3D FWGS updated](https://macsourceports.com/sourceport/xash3d-fwgs) | The build of Xash3D FWGS for the Half-Life series of games has been updated to the latest code of the project\n\nhttps://macsourceports.com/sourceport… |
 | 2026-11-06 | [我前几天在 75700 平了😩，入了 V](https://versun.me/blog/tweet-2118617241206051220) | 杀破狼 WolfyXBT 从狼波周期来看，确实进入牛市周期了 但是牛市总共要跑 3 年，牛初是尤其煎熬的，牛中后期才会进入简单模式。 我前几天在 75700 平了😩，入了 VWRA，果然是韭菜命🤡 |
 | 2026-11-06 | [Looped Transformer的量化：误差传播、NVFP4 与差分调制](https://mer.dev/posts/loopquant-fp4/) | 最近循环模型量化的一些分析与实验。 |
@@ -191,7 +203,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-11-01 | [写在万圣节](https://blog.solazy.me/20261101/) | 现在为什么都要过万圣节了？ |
 | 2026-11-01 | [esp32 cyd mosfet开关模块和接线端子 冷压端子 测试usb led灯](https://dsx2016.com/esp32-cyd-mosfet-switch-module-terminal-blocks-crimp-terminals-and-a-usb-powered-led-light-for-testing/) | 安全问题 本期主要记录使用继电器或者mosfet开关模块，可能会遇到的一些安全问题 我买的继电器可以正常工作，... esp32 cyd mosfet开关模块和接线端子 冷压端子 测试usb led灯 最先出现在 大师兄2016 。 |
 | 2026-11-01 | [esp32cam使用esphome结合home assistant设置电动自动车充电器绿灯检测](https://dsx2016.com/using-esp32-cam-with-esphome-and-home-assistant-to-detect-the-green-light-on-an-electric-vehicle-charger/) | 充电器绿灯检测 充电器红灯指示灯，表示充电中，绿灯表示已充满，没亮代表已断电 电动自行车绿灯充满后，建议不要一... esp32cam使用esphome结合home assistant设置电动自动车充电器绿灯检测 最先出现在 大师兄2016 。 |
-| 2026-11-01 | [Quetoo updated](https://macsourceports.com/game/quetoo) | The build of Quetoo has been updated to version v1.0.142 of the project |
 | 2026-11-01 | [RollerCoaster Tycoon 2 updated](https://macsourceports.com/game/rct2) | The build of OpenRCT2 for RollerCoaster Tycoon 2 has been updated to version v0.5.7 of the project |
 | 2026-11-01 | [可能是 SOTA 的像素图修复开源方案](https://outtascope.com/zh/writing/pixel-art-restoration/) | 从网格还原到颜色选取，记录 Xprite Auto 的像素图修复方案与评测。 |
 | 2026-11-01 | [越来越多人发现 gemini argon](https://versun.me/blog/tweet-2116850592526291114) | Eugene Cheah - AI builder @ 🇸🇬&#124;🇺🇸 will join: argon > astra/opus for me so far in ways that are "not benchmarked" - does not need emotional manipulatio… |
