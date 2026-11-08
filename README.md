@@ -27,13 +27,17 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-11-08 | [运气不好](https://zdyxry.github.io/2026/11/08/bad-luck/) | 预约检查 国庆期间感觉自己左手食指中间部位有一个小包，不疼不痒，位置刚好是大拇指正常放置就能够碰到的位置，每天都能够感受到它。预约了华山医院的手外科检查。10 月 27 日去华山医院手外科找医生看了一下，最初判断是腱鞘囊肿，尝试按破没成功，说做个 B 超看一下。不知道是错觉还是什么，那次按完之后感觉… |
 | 2026-11-07 | [油管成长记录式新手和普通日常视频分享](https://dsx2016.com/youtube-growth-journey-content-for-beginners-and-everyday-life-vlogs/) | 过程和结果 以前分享一个技术内容，总是在无数次验证和试错后，记录结果并分享 但是很少记录错误和请教别人，提问式... 油管成长记录式新手和普通日常视频分享 最先出现在 大师兄2016 。 |
 | 2026-11-07 | [油管拍摄内容选择什么主题好？](https://dsx2016.com/what-topics-are-good-to-choose-for-youtube-content/) | 两个频道 两个频道都获取YPP 一个频道因为发布了硬件相关的内容，6个小时后就开通的rpoduct功能，甚至后... 油管拍摄内容选择什么主题好？ 最先出现在 大师兄2016 。 |
 | 2026-11-07 | [Memos: 事 倍 功 半](https://blog.yasking.org/a/1794059602) | 下载原图: Download |
 | 2026-11-07 | [假如给新手一些关于油管的建议，有哪些可以分享的？](https://dsx2016.com/if-you-were-to-offer-some-advice-to-a-beginner-on-youtube-what-would-you-share/) | 只用手机 拍摄视频千万不要一开始就买各种相机，新手机，无人机之类的 只需要用自己当前正在使用的手机，旧手机，进... 假如给新手一些关于油管的建议，有哪些可以分享的？ 最先出现在 大师兄2016 。 |
+| 2026-11-07 | [唉😔，好好做你的 hermes，为什么要](https://versun.me/blog/tweet-2119057319506088226) | Nous Research Introducing Arete-27B: Qwen3.8-27B, post-trained to reinforce Western values. Chinese open models are currently the strongest available,… |
 | 2026-11-07 | [ChatGPT Dot 日常使用记录](https://anotherdayu.com/how-i-use-dots/) | 引 最近一段时间，Dots 已经成了我使用黏度很高的个人助理工具。 整理了一下目前的使用方式，大致可以分三种：随手交代、定期任务和主动协助。 大部分思路也可以在 Grok bot 和 muse 里使用。 让Dots认识你 Dots 是一个长期协作的个人助理。要想真正用好它，首先得放下对个人隐私的部分… |
 | 2026-11-07 | [Memos: 发现街角的咖啡店](https://blog.yasking.org/a/1794053002) | 小区侧门马路的对面有个咖啡店，独栋小房子，坐落在两个小区中间，门前的小院子有各种绿植花卉，还有一只小猫迎宾，室 … |
 | 2026-11-07 | [The Operative: No One Lives Forever updated](https://macsourceports.com/game/nolf1) | The build of NOLF1 for Mac for The Operative: No One Lives Forever has been updated to version 0.5.3 of the project |
+| 2026-11-07 | [古典乐笔记](https://z.arlmy.me/posts/YearlyAlbums/ClassicalMusicNotes_2026/) | 「开始听古典。」 |
+| 2026-11-07 | [emmmmmmmmmm](https://versun.me/blog/tweet-2119011035936157975) | Nowledge Mem A fresh look for Nowledge Mem! ✨ A cleaner sidebar, redesigned Threads, and more room for what matters. Less noise. Same memories. Take a… |
 | 2026-11-07 | [Plants vs. Zombies updated](https://macsourceports.com/game/pvz) | The build of PvZ Portable for Plants vs. Zombies has been updated to version 0.2.7 of the project |
 | 2026-11-07 | [为什么这么多年还在坚持写博客？](https://dsx2016.com/why-have-i-kept-blogging-for-all-these-years/) | 油管和博客 在redit看到一个帖子，问的是有没有多年的油管创作者转向写博客的 我想我就是，但不完全是，油管创... 为什么这么多年还在坚持写博客？ 最先出现在 大师兄2016 。 |
 | 2026-11-07 | [2021](https://wcowin.work/blog/archive/2021/) | 2021 |
@@ -201,26 +205,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-11-01 | [Weekly Issue-《何以为战》](https://zdyxry.github.io/2026/11/01/Weekly-Issue-Why-War/) | 文章 技术 GitHub - tinkerbell/captain: In-memory Operating System Installation Environment for Executing Tinkerbell Workflows based on systemd Tinkerbell… |
 | 2026-11-01 | [借助 Loop 串联云端与本地的 AI 开发流程](https://ro.yikzero.com/blog/loop-cloud-local/) | 我做了一个叫 Loop 的桌面应用，把 Cursor 云端 Agent、本地 Codex 和我自己的验收串成一个循环，直到 PR 合并 |
 | 2026-11-01 | [2026年第44周](https://blog.sakoamc.com/posts/2644/) | 题记：二零二六年第四十四周，十一月好呀~我宣布今后的每个周末都要远离工作，善待自己。 |
-| 2026-10-31 | [终结竞争：从护城河到商业终局的实战指南](https://www.meettea.com/business-moat-endgame.html) | 从护城河到商业终局的实战指南：彼得·蒂尔框架 + AI 时代的商业重构 |
-| 2026-10-31 | [独立开发者的英国公司报税（2026）](https://www.meettea.com/uk-company-tax-2026.html) | 给独立开发者与小微企业的英国公司报税实战指南：CT600、年度账目、Dormant 零申报，从流水归类到提交全流程。 |
-| 2026-10-31 | [本来想在周五再抖个机灵](https://cufezhusy.github.io/issue-29/) | 这周金融市场不太平静。 继上周的黑色星期五之后，周一大家觉得穆迪没有下调法国的评级，说明风暴已经过去了，于是市场又开始 Risk On。 从周一到周四，市场基本都是这个节奏。上周五的时候，我抖了一个机灵，给 team 发了一个交易计划。结果从周一到周四，市场走势居然都如这个计划所料。本来的打算是，如… |
-| 2026-10-31 | [关于压缩的各种探索](https://mabbs.github.io/2026/11/01/compress.html) | 压缩……在消除冗余的同时，又创造了新的混乱？ |
-| 2026-10-31 | [西澳之行](https://rickgwei.com/posts/western-australia-trip/) | 打算国庆假期去澳洲见女票就提前办理了签证，好在出发的前两周终于下签了，索性便赶紧订上机票期待我的第一次出国旅行。写完这个博客后还是非常想念澳洲的自然风光，真的久久无法忘怀，人还是要多出去走走，之前老想着出去玩有点浪费钱。今年开始后不断对户外探索后才知道自己身体的极限，知道自己的身体是在不断衰老的，不… |
-| 2026-10-31 | [AI 早报 2026-11-01：沙特阿美完成对 HUMAIN 的 49% 入股：2026 年注资约 26 亿美元，PIF 保留 51%](https://www.jtxyh.com/daily/2026-11-01/) | 2026-11-01 AI 早报，共 5 条动态。11 月 1 日，沙特公共投资基金（PIF）与沙特阿美宣布完成交易：沙特阿美通过全资子公司收购沙特国家 AI 公司 HUMAIN 49% 的股份，PIF 保留 51%。据 IT之家 10 月 31 日报道，DeepSeek Harness… |
-| 2026-10-31 | [AI 开始让我们忘记什么是软件工程](https://smallyu.net/2026/10/31/AI%E5%BC%80%E5%A7%8B%E8%AE%A9%E6%88%91%E4%BB%AC%E5%BF%98%E8%AE%B0%E4%BB%80%E4%B9%88%E6%98%AF%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B/) | 最近几天，我在做一个费率套利机会扫描的项目。 我来描述一下最近几天干了什么： 10月28日，在 Vultr 上创建了一个 2v4G |
-| 2026-10-31 | [高德地图的赛博造林](https://blog.solazy.me/20261031/) | 今天体验了一下高德地图的新功能 |
-| 2026-10-31 | [气球](https://mobius.blog/26023.html) | 在狗公园给小狗布置万圣节的拍照布景，在给气球打气的当下，想起了一些童年回忆。 那时候的除夕夜，我最期待的不是一 […] |
-| 2026-10-31 | [1bit 里的银色](https://outtascope.com/zh/writing/silver-with-one-bit/) | 这块银色金属板只用了两种颜色，为什么仍像金属？ |
-| 2026-10-31 | [这个可以看你的推文被限流的情况，挺方便的](https://versun.me/blog/tweet-2116467415261528291) | X Open Source Under the Hood now shows you which posts received a visibility-limiting label, making it easier to see what’s affected: https://x.com/i/… |
-| 2026-10-31 | [入蜀记 day525 渐变的金黄、空心面、变装皇后、自省、爱之梦](https://z.arlmy.me/posts/BBBPandINSW/INSW-deep/INSW_525/) | 「渐变的金黄、空心面、变装皇后、自省、爱之梦。」 |
-| 2026-10-31 | [独生子女的合作VS.在短视频下的成长](https://www.hecaitou.com/2026/10/the-only-child-panic-vs-the-short-video-panic.html) | 有读者留言说自己很担心：「我女儿现在已经处于文化垃圾包围圈中，除了能陪她每晚读书，聊天，还能做点什么，让她晚一点陷入其中？」 当时我的冷血回答只有四个字：「停止担心。」 这是正确的屁话，因为担心这种事情不是在前面加上「停止」两个字，或者一个禁止的念头，它就能停止的。但这么回答省字数，如果要完整展开回… |
-| 2026-10-31 | [CSP-J 2026 第二轮 个人做题记录 题解？](https://blog.mxdyeah.com/post/csp-j-2026-round-2) | 洛谷民间自测数据 100分[CSP-J 2026] 旅游 / travel#include using namespace std;int side(c... |
-| 2026-10-31 | [2008，没什么搞不定的](https://www.tortorse.com/archives/nothing-we-couldnt-handle-2008/) | 2008，没什么搞不定的 |
-| 2026-10-31 | [Codex 我最喜欢的两个功能](https://depp.wang/2026/codex-two-features/) | 平时我主要用 Codex 写代码，最近也越来越多地用它写文章、整理想法。用下来，我最喜欢两个功能：实时语音对话，以及 Chrome 里的 ChatGPT 浏览器扩展。 一个方便我把想法说清楚，另一个帮我省掉浏览器里繁琐的手动操作。 先简单说一下这几个名字。 ChatGPT 是 OpenAI 推出的… |
-| 2026-10-31 | [opencode前脚刚提到100刀，co](https://versun.me/blog/tweet-2116345089392079189) | Command Code GOAT just made $100 credits PERMANENT On $10/mo 🐐 plan DeepSeek V4.1 Flash 1017: $100 usage GLM 5.3 Flash: $100 usage GLM Flash casually… |
-| 2026-10-31 | [早安～](https://sigge.cn/2026/10/31/452ad475-6848-43e9-8369-e34d35837b84) | 早安～ |
-| 2026-10-31 | [Memos #2026-10-30](https://blog.itaober.com/memos/memo_20261029172004_6q8axf) | 01:36 躺在床上睡不着，翻来覆去。 近一个月很忙，连下班到家，睡前的这段时间也挤出大部分给到工作，直到躺在床上才发现已经到了深夜，不甘心就这样度过一天。 这时候脑子里会想哪些事情明天要干，干了这么多又好像没啥成长，工作的意义是什么呢，要不要明天远程？从工作延展到意义，到 27 岁轻薄的、不确定的… |
-| 2026-10-31 | [Python 潮流周刊#173：Guido 保荐的 PEP 823 拟给 3.16 加 ?. 与 ?[]](https://pythoncat.top/posts/2026-10-31-weekly/) | 分享了 12 篇文章，12 个开源项目，2 则热门讨论 |
 
 ## Vibe Coding
 
