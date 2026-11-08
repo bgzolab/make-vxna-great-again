@@ -28,6 +28,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | Date | Title | Summary |
 | --- | --- | --- |
 | 2026-11-08 | [苏苏收集的各种人生指南合集（202611.08）](https://blog.brmys.cn/life-guides) | 关联主题:: 同级:: 2026-11-08_星期日 下一级:: 1、面向大学生和初入职场者的人情世故指南 开源地址： github.com/kkk-bot/HowToGetAlong 网址： kkk-bot.github.io/HowToGetAlong/ 2、高性价比职场指南 github.co… |
+| 2026-11-08 | [Heroes of Might and Magic II updated](https://macsourceports.com/game/homm2) | The build of fheroes2 for Heroes of Might and Magic II has been updated to version 1.1.18 of the project |
 | 2026-11-08 | [经典bug回顾：Windows中文路径编码问题](https://blog.mzh.ren/zh/posts/2026/11/unicode-dir-issue/) | 识幕 SeeSub — 一站式字幕工作台: https://seesub.com/ 上周末发布了一个做字幕相关的 App，叫做“识幕”。发布以来广受好评，但同样也反馈了很多 bug。 其中一个 bug 是，明明模型就在指定目录里。目录名字和位置都正确，里面的模型文件也是存在的，但程序就是死活找不到该… |
 | 2026-11-08 | [苏苏整理的思维模型工具箱合集（2026.11.08）](https://blog.brmys.cn/mental-model-toolbox) | 关联主题:: 同级:: 2026-11-08_星期日 下一级:: 1、100个思维工具箱 think.knowledgefxg.com/ 把100个模型分成八大类，配了一份一目了然的完整目录，系统地读或者按需查都很方便，方便你套用到生活与工作中的方方面面，支持中英文切换阅读。你最近要是卡在什么地方，… |
 | 2026-11-08 | [认得出熟客的老板](https://blog.solazy.me/20261108/) | 这个话题其实很早就想写了 |
@@ -61,6 +62,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-11-08 | [摘：《真实生活》](https://z.arlmy.me/posts/Note/Note_AdamZagajewski_TrueLife/) | 「退休的二十世纪。」 |
 | 2026-11-08 | [Might and Magic VII: For Blood and Honor updated](https://macsourceports.com/game/mightandmagic7) | The build of OpenEnroth for Might and Magic VII: For Blood and Honor has been updated to the latest code of the project |
 | 2026-11-08 | [esp32 cyd 当前使用最多的场景 时钟面板](https://dsx2016.com/esp32-cyd-most-common-use-case-clock-panel/) | 时钟面板 当前我使用最多的是esp32 cyd 时钟面板 手机上看时间，往往需要先亮屏，手表上看时间，也需要抬... esp32 cyd 当前使用最多的场景 时钟面板 最先出现在 大师兄2016 。 |
+| 2026-11-08 | [Vol.125 智能体交付之后：从授权边界到真实结果，用证据验收并保留人的关键判断](https://liduos.com/weekly/the-weekly-gradient-125) | 本期内容围绕智能体交付后的验收与授权边界展开，讨论如何用真实结果、真机与业务证据判断任务是否完成，并以成本、故障复现和人的关键决策校准协作。 |
 | 2026-11-08 | [狗不会说话但什么都懂](https://mobius.blog/26090.html) | Humachine 里整理的是原本发布在 Telegram 频道的内容，积累到足够的时候，就可以分类整理成册。 […] |
 | 2026-11-08 | [一步步理解齐次变换](https://www.less-bug.com/posts/understand-homogeneous-transformation-step-by-step/) | 本文将带领读者看清齐次变换的几何本质：因为 低维空间的平移，本质上就是高维空间里的线性错切（Shear）在这些低维截面上的投影 。 三维错切诱导二维平移 $\mathbf{v}' = \mathbf{M}\mathbf{v}$ 是一个线性变换的过程。输入全零向量，输出必定是全零向量，即 $\math… |
 | 2026-11-08 | [运气不好](https://zdyxry.github.io/2026/11/08/bad-luck/) | 预约检查 国庆期间感觉自己左手食指中间部位有一个小包，不疼不痒，位置刚好是大拇指正常放置就能够碰到的位置，每天都能够感受到它。预约了华山医院的手外科检查。10 月 27 日去华山医院手外科找医生看了一下，最初判断是腱鞘囊肿，尝试按破没成功，说做个 B 超看一下。不知道是错觉还是什么，那次按完之后感觉… |
