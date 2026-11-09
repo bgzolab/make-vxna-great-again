@@ -27,6 +27,22 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-11-09 | [MacOS配置《明日方舟：终末地》](https://mocusez.site/zh-CN/posts/fa89) | EndFields |
+| 2026-11-09 | [esp32 cyd 音频 音效 音乐 提示音 闹钟和番茄钟](https://dsx2016.com/esp32-cyd-audio-sound-effects-music-alerts-alarms-and-pomodoro-timer/) | 音效 目前esp32 cyd的时钟界面10个样式已经足够，以后有需要再设置别的时钟界面 现在优先尝试两个场景，... esp32 cyd 音频 音效 音乐 提示音 闹钟和番茄钟 最先出现在 大师兄2016 。 |
+| 2026-11-09 | [每句话都很烦](https://www.hecaitou.com/2026/11/every-single-sentence-is-annoying.html) | 周日见到这样一条读者留言： 「 我女儿追星(2013年的)，买了一堆她偶像李昀锐的卡片拿回来(花了100多)，爷爷奶奶张嘴问这东西有什么用，能吃吗？我女儿告诉我，李昀锐1米83很帅哦，她是在综艺《跑男》认识的，还是国家2级运动员，我说这跟你有啥关系，他认识你吗？再说他娶你吗？你现在不好好卷成绩，将来… |
+| 2026-11-09 | [麒麟V10部署Tengine与铜锁国密双栈验证](https://199604.com/3742) | 麒麟V10部署Tengine与铜锁国密双栈验证 记录时间：2026-11-05 环境：Kylin V10 SP […] |
+| 2026-11-09 | [尽兴的乐趣](https://mobius.blog/26100.html) | 我不是一个很会“尽兴”的人，以至于我似乎对于玩这件事情也没有非常强烈的感觉。虽然我妈在我小时候，常把“该学习的 […] |
+| 2026-11-09 | [我对 NBA 签约、交易和买断的一些理解](https://depp.wang/2026/nba-transactions/) | 我一直在看 NBA，虽然不是死忠球迷，但平时还是会关注 NBA 新闻。每年休赛季都有各种签约、各种交易，我觉得这也是 NBA 比较有看头的一点。 先不说场上教练的运筹帷幄，单就球队阵容来说，总经理的工作也很重要。他要考虑球队的整体规划，当前这套阵容到底是准备争冠、重建，还是先维持现状，再根据这个方向… |
+| 2026-11-09 | [2021](https://wcowin.work/blog/archive/2021/) | 2021 |
+| 2026-11-09 | [2022](https://wcowin.work/blog/archive/2022/) | 2022 |
+| 2026-11-09 | [2023](https://wcowin.work/blog/archive/2023/) | 2023 |
+| 2026-11-09 | [2024](https://wcowin.work/blog/archive/2024/) | 2024 |
+| 2026-11-09 | [2025](https://wcowin.work/blog/archive/2025/) | 2025 |
+| 2026-11-09 | [2026](https://wcowin.work/blog/archive/2026/) | 2026 |
+| 2026-11-09 | [Hello World](https://wcowin.work/blog/category/hello-world/) | Hello World |
+| 2026-11-09 | [网站更新记录](https://wcowin.work/blog/category/%E7%BD%91%E7%AB%99%E6%9B%B4%E6%96%B0%E8%AE%B0%E5%BD%95/) | 网站更新记录 |
+| 2026-11-09 | [MyBlog](https://wcowin.work/blog/page/2/) | MyBlog |
+| 2026-11-09 | [走过坡道与海边 《玉响》圣地巡礼之尾道](https://www.wikimoe.com/post/b-to4i3n8v) | 2026年11月1日，在结束憧憬之路后我们来到了尾道，开启了尾道的旅程。 尾道站南口 对比动画，尾道车站整体翻新了一遍呢。 尾道高迪之家 尾道高迪之家（尾道ガウディハウス），正式名称为“旧和泉家别邸”，位于日本广岛县尾道市的山坡上，建于1933年，是一栋融合日式传统木构技艺与西式装饰元素的独特住宅。… |
 | 2026-11-08 | [苏苏收集的各种人生指南合集（202611.08）](https://blog.brmys.cn/life-guides) | 关联主题:: 同级:: 2026-11-08_星期日 下一级:: 1、面向大学生和初入职场者的人情世故指南 开源地址： github.com/kkk-bot/HowToGetAlong 网址： kkk-bot.github.io/HowToGetAlong/ 2、高性价比职场指南 github.co… |
 | 2026-11-08 | [Heroes of Might and Magic II updated](https://macsourceports.com/game/homm2) | The build of fheroes2 for Heroes of Might and Magic II has been updated to version 1.1.18 of the project |
 | 2026-11-08 | [经典bug回顾：Windows中文路径编码问题](https://blog.mzh.ren/zh/posts/2026/11/unicode-dir-issue/) | 识幕 SeeSub — 一站式字幕工作台: https://seesub.com/ 上周末发布了一个做字幕相关的 App，叫做“识幕”。发布以来广受好评，但同样也反馈了很多 bug。 其中一个 bug 是，明明模型就在指定目录里。目录名字和位置都正确，里面的模型文件也是存在的，但程序就是死活找不到该… |
@@ -64,7 +80,9 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-11-08 | [esp32 cyd 当前使用最多的场景 时钟面板](https://dsx2016.com/esp32-cyd-most-common-use-case-clock-panel/) | 时钟面板 当前我使用最多的是esp32 cyd 时钟面板 手机上看时间，往往需要先亮屏，手表上看时间，也需要抬... esp32 cyd 当前使用最多的场景 时钟面板 最先出现在 大师兄2016 。 |
 | 2026-11-08 | [Vol.125 智能体交付之后：从授权边界到真实结果，用证据验收并保留人的关键判断](https://liduos.com/weekly/the-weekly-gradient-125) | 本期内容围绕智能体交付后的验收与授权边界展开，讨论如何用真实结果、真机与业务证据判断任务是否完成，并以成本、故障复现和人的关键决策校准协作。 |
 | 2026-11-08 | [狗不会说话但什么都懂](https://mobius.blog/26090.html) | Humachine 里整理的是原本发布在 Telegram 频道的内容，积累到足够的时候，就可以分类整理成册。 […] |
+| 2026-11-08 | [还是准备迁出 Hermes 了，各位有什](https://versun.me/blog/tweet-2119320372202123502) | 还是准备迁出 Hermes 了，各位有什么开源平替推荐的 要自己用过的，不要道听途说。。。。 |
 | 2026-11-08 | [一步步理解齐次变换](https://www.less-bug.com/posts/understand-homogeneous-transformation-step-by-step/) | 本文将带领读者看清齐次变换的几何本质：因为 低维空间的平移，本质上就是高维空间里的线性错切（Shear）在这些低维截面上的投影 。 三维错切诱导二维平移 $\mathbf{v}' = \mathbf{M}\mathbf{v}$ 是一个线性变换的过程。输入全零向量，输出必定是全零向量，即 $\math… |
+| 2026-11-08 | [实用与好看](https://www.hecaitou.com/2026/11/Utility-and-Beauty.html) | 今年我换了一批衣架，据说是日式的，材质坚固，但做成了很薄的一片。这样同样是一根挂衣杆，我能挂更多 T 恤。 原先我用木质衣架，纹理很漂亮，油漆很光亮，不过也相当占地方，只适合挂冬衣。相比之下，日式衣架实用然而缺乏视觉上的美感，打开衣柜很像是个整齐的仓库。 我对这次替换并不后悔，因为我能找到自己的每一… |
 | 2026-11-08 | [运气不好](https://zdyxry.github.io/2026/11/08/bad-luck/) | 预约检查 国庆期间感觉自己左手食指中间部位有一个小包，不疼不痒，位置刚好是大拇指正常放置就能够碰到的位置，每天都能够感受到它。预约了华山医院的手外科检查。10 月 27 日去华山医院手外科找医生看了一下，最初判断是腱鞘囊肿，尝试按破没成功，说做个 B 超看一下。不知道是错觉还是什么，那次按完之后感觉… |
 | 2026-11-07 | [油管成长记录式新手和普通日常视频分享](https://dsx2016.com/youtube-growth-journey-content-for-beginners-and-everyday-life-vlogs/) | 过程和结果 以前分享一个技术内容，总是在无数次验证和试错后，记录结果并分享 但是很少记录错误和请教别人，提问式... 油管成长记录式新手和普通日常视频分享 最先出现在 大师兄2016 。 |
 | 2026-11-07 | [康威定律在 Agent 上的重演](https://rickgwei.com/posts/conway-law-agents/) | 康威定律 Conway 在 1968 年的原文 指出，设计系统的组织，会产生复制组织沟通结构的设计。这里关心的是实际沟通路径，而不只是组织架构图上的职位名称。 在软件团队里，谁和谁沟通、哪些信息需要交接、谁负责协调和集成，会影响系统的模块边界与接口。放到 Agent 系统中，沟通结构则由上下文范围、… |
@@ -81,15 +99,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-11-07 | [emmmmmmmmmm](https://versun.me/blog/tweet-2119011035936157975) | Nowledge Mem A fresh look for Nowledge Mem! ✨ A cleaner sidebar, redesigned Threads, and more room for what matters. Less noise. Same memories. Take a… |
 | 2026-11-07 | [Plants vs. Zombies updated](https://macsourceports.com/game/pvz) | The build of PvZ Portable for Plants vs. Zombies has been updated to version 0.2.7 of the project |
 | 2026-11-07 | [为什么这么多年还在坚持写博客？](https://dsx2016.com/why-have-i-kept-blogging-for-all-these-years/) | 油管和博客 在redit看到一个帖子，问的是有没有多年的油管创作者转向写博客的 我想我就是，但不完全是，油管创... 为什么这么多年还在坚持写博客？ 最先出现在 大师兄2016 。 |
-| 2026-11-07 | [2021](https://wcowin.work/blog/archive/2021/) | 2021 |
-| 2026-11-07 | [2022](https://wcowin.work/blog/archive/2022/) | 2022 |
-| 2026-11-07 | [2023](https://wcowin.work/blog/archive/2023/) | 2023 |
-| 2026-11-07 | [2024](https://wcowin.work/blog/archive/2024/) | 2024 |
-| 2026-11-07 | [2025](https://wcowin.work/blog/archive/2025/) | 2025 |
-| 2026-11-07 | [2026](https://wcowin.work/blog/archive/2026/) | 2026 |
-| 2026-11-07 | [Hello World](https://wcowin.work/blog/category/hello-world/) | Hello World |
-| 2026-11-07 | [网站更新记录](https://wcowin.work/blog/category/%E7%BD%91%E7%AB%99%E6%9B%B4%E6%96%B0%E8%AE%B0%E5%BD%95/) | 网站更新记录 |
-| 2026-11-07 | [MyBlog](https://wcowin.work/blog/page/2/) | MyBlog |
 | 2026-11-07 | [《玉响》圣地巡礼之憧憬之路](https://www.wikimoe.com/post/b-to4doc6q) | 2026年10月31日，天气晴，今天去竹原，参加憧憬之路！ 就如去年所说的，希望能去一次憧憬之路，这次的旅程就是为了完成去年的愿望。 抵达竹原 我回来啦！ 不一样的是，这次并不是一个人，而是两个人！ 商店街 今天正好是万圣节。 桃猫大人换成了万圣节款式。 对比上次，商店街多了一些灯笼。 之前因为火灾… |
 | 2026-11-07 | [一次 browser_exec 调用背后：Hermes Agent 如何管理浏览器](https://liudon.com/posts/hermes-agent-browser-management/) | 上一篇《 Hermes Agent v0.23.0 升级：一次安全修复，让我的 Chrome 无法启动 》讲了升级后 Chrome 无法启动的踩坑记录，今天来讲一下：当 Hermes 需要访问网页时，它究竟如何找到并管理浏览器？ |
 | 2026-11-07 | [审美总是最先被放弃的](https://www.hecaitou.com/2026/11/aesthetics-are-always-the-first-to-be-abandoned.html) | 人总是会来到人生中需要轻身上路的阶段，就我的个人观察，在这个阶段最先被放弃的总是审美。 轻身上路的原因可能是内心变得更加澄明，于是觉得不再需要背负那么多东西；也可能是内心因为崩坏而变得虚弱，于是先行放弃一部分不那么「重要」的东西，为自己减负。审美不能当饭吃，通常也不会有什么产出，放在列表第一行一点都… |
@@ -224,26 +233,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-11-02 | [Toots 443 2026 Oct.25 - Oct.31](https://z.arlmy.me/posts/MastodonArchives/2026/MastodonTootsArchives_20261031/) | 「活到两百岁好了。」 |
 | 2026-11-02 | [Toots 442 2026 Oct.18 - Oct.24](https://z.arlmy.me/posts/MastodonArchives/2026/MastodonTootsArchives_20261024/) | 「相识恨晚熟人局。」 |
 | 2026-11-02 | [AI 科普系列（一）：什么是词向量](https://depp.wang/2026/what-are-word-vectors/) | 平时用 AI，经常会看到「词向量」「嵌入」「向量化」这些词。大模型处理文字要用到它们，给自己的 Obsidian 做知识库，也会遇到向量化这一步。 准备写几篇 AI 相关的科普文章，第一篇先分享一下词向量：文字怎么变成一串数字，这串数字又有什么用。用电脑硬件举个例子，会更容易理解。 拿我比较熟悉的电… |
-| 2026-11-01 | [大脑充血 Vol.102](https://www.geedea.pro/weekly/102/) | 夜里无星，竟然也看不到月亮，或许是城市的灯光和厚重的云层遮住了光。我驱车行使在城市外围的一条偏远公路上，路上没有灯，连像样的沥青路都没有，只有混杂着泥土和杂草的石板。车子一路颠簸，我开得很小心，车灯只能照到前方不过三四米的距离。虽说小心，但我开得并不慢。 “能赶到吗？”我在上路之前在地图上反复确认路… |
-| 2026-11-01 | [一代版本一代神](https://www.gtdstudy.com/posts/2026-11-01-new-version-new-god/) | 朋友，我最近在看 AI 短剧，你有看吗？我以研究的心态看了一点：《归墟》描述一个被黑雨侵蚀的，所有生物包括人类都开始大规模变异的末日世界。《妖怪衙门》则讲述了一个妖怪与人类共存的世界，围绕乌有乡的衙门所发生的故事。 抛开 AI 生成画面所产生的油腻感之外，这两个短剧让我能够追得下去，还在于它们的剧本… |
-| 2026-11-01 | [我喜欢一个人](https://tianheg.co/posts/i-like-living-alone/) | 我喜欢一个人 02 Nov, 2026 昨天休息，我度过了完美的一天 一个人在电脑前 一边看小说 一边让AI帮我写程序 那种将爱好外包给AI的感觉其实并不好受 所以，我刻意地不让AI写 自己手动输入 果然是漏洞百出 但还是感觉到久违的乐趣所在 一种无所事事的感觉，弥漫我的心 知道该做什么，但是不做… |
-| 2026-11-01 | [AI 早报 2026-11-02：Tempus 三季度数据与应用收入增33%，上调全年营收指引](https://www.jtxyh.com/daily/2026-11-02/) | 2026-11-02 AI 早报，共 9 条动态。Tempus 11月2日公布，截至9月30日的第三季度营收为4.115亿美元，同比增长23%；其中数据与应用业务收入1.081亿美元，增长33%。美满电子与 Lumentum 11月2日宣布达成最终协议，美满将以全股票方式收购 Lumentum。 |
-| 2026-11-01 | [写在万圣节](https://blog.solazy.me/20261101/) | 现在为什么都要过万圣节了？ |
-| 2026-11-01 | [esp32 cyd mosfet开关模块和接线端子 冷压端子 测试usb led灯](https://dsx2016.com/esp32-cyd-mosfet-switch-module-terminal-blocks-crimp-terminals-and-a-usb-powered-led-light-for-testing/) | 安全问题 本期主要记录使用继电器或者mosfet开关模块，可能会遇到的一些安全问题 我买的继电器可以正常工作，... esp32 cyd mosfet开关模块和接线端子 冷压端子 测试usb led灯 最先出现在 大师兄2016 。 |
-| 2026-11-01 | [esp32cam使用esphome结合home assistant设置电动自动车充电器绿灯检测](https://dsx2016.com/using-esp32-cam-with-esphome-and-home-assistant-to-detect-the-green-light-on-an-electric-vehicle-charger/) | 充电器绿灯检测 充电器红灯指示灯，表示充电中，绿灯表示已充满，没亮代表已断电 电动自行车绿灯充满后，建议不要一... esp32cam使用esphome结合home assistant设置电动自动车充电器绿灯检测 最先出现在 大师兄2016 。 |
-| 2026-11-01 | [RollerCoaster Tycoon 2 updated](https://macsourceports.com/game/rct2) | The build of OpenRCT2 for RollerCoaster Tycoon 2 has been updated to version v0.5.7 of the project |
-| 2026-11-01 | [可能是 SOTA 的像素图修复开源方案](https://outtascope.com/zh/writing/pixel-art-restoration/) | 从网格还原到颜色选取，记录 Xprite Auto 的像素图修复方案与评测。 |
-| 2026-11-01 | [越来越多人发现 gemini argon](https://versun.me/blog/tweet-2116850592526291114) | Eugene Cheah - AI builder @ 🇸🇬&#124;🇺🇸 will join: argon > astra/opus for me so far in ways that are "not benchmarked" - does not need emotional manipulatio… |
-| 2026-11-01 | [哈哈，我也是这样，一次性全身心投入进去，](https://versun.me/blog/tweet-2116849651387437339) | soda 我之前痛经的时候会刷红果短剧转移注意力，看了一百多部彻底看麻了。从此回归正常的信息摄入，反而比以前更爱看纸质书和更高质量的信息了。 感觉自己可以对某个不良事物上瘾一段时间，只要这个瘾过完了，这个诱惑就再也没法让我提起兴趣了。 对不良诱惑说all in！ https://twitter.co… |
-| 2026-11-01 | [给 Ghostty 写了个 Alfred workflow：检索所有 Tab 和分屏](https://atbug.com/alfred-ghostty/) | TL;DR gt 搜 Ghostty 全部分屏、回车直达；go 直接开目录。附选型、踩坑与测试全记录。 背景 Alfred 的 Mega Powerpack 是我十多年前买的，很可能也是我在 macOS 上付费的第一个 App。买断制是我很喜欢的模式——尤其是在订阅制比比皆是的今天。 Ghostty… |
-| 2026-11-01 | [Vol.124 慢一步的价值：在智能体流程中保留理解、验证、独立判断与成本边界](https://liduos.com/weekly/the-weekly-gradient-124) | 本期内容围绕“慢一步的价值”，讨论在模型部署、智能体执行、性能优化与成本核算中，如何减少无效等待，同时为理解、参与、独立判断和结果验证保留空间。 |
-| 2026-11-01 | [≡ 019｜后悔式内伤](https://mobius.blog/26028.html) | 先回顾一下这周的莫比乌斯。 多少字，对我而言不是“里程碑”，而是“我走到了这里，然后继续走下去”的路标。对我而 […] |
-| 2026-11-01 | [蓝战非的脸却浮现在心头](https://www.hecaitou.com/2026/11/why-an-influencers-face-is-haunting-my-meditation.html) | 有一种冥想要求在心里想一个固定对象，比如说想象面前有一颗珠子，一盏烛光，或者就是一个小木块。把注意力轻柔地缠绕上去，然后自己慢慢安静下来。 不会很顺利，虽然只是那么简单的一件事情，想要稳定地观察却很难，不时就会分心，不时就会有念头、声音、图像自动跳出来打断你的专注。比如说昨天晚上，我面前就反复闪现网… |
-| 2026-11-01 | [腾讯云技术架构联盟活动笔记——“云峰论剑” 聊聊当前的前沿研究/产品/实践案例](https://blog.frytea.com/archives/32544) | “云峰论剑” 聊聊当前的前沿研究/产品/实践案例 腾讯云架构同盟活动，以下是我参加本次活动的笔记。活动收获很多 […] |
-| 2026-11-01 | [分享一下近期爆火的AI人脸、姿势、服装素材库](https://www.liesauer.net/blog/post/1047.html) | 只贴原站，那些靠着AI一键汉化的站就不贴出来了，如果需要可以自行去 GitHub 根据关键词去搜汉化站。 请留意遵守每个素材库的版权、使用限制。 |
-| 2026-11-01 | [Weekly Issue-《何以为战》](https://zdyxry.github.io/2026/11/01/Weekly-Issue-Why-War/) | 文章 技术 GitHub - tinkerbell/captain: In-memory Operating System Installation Environment for Executing Tinkerbell Workflows based on systemd Tinkerbell… |
-| 2026-11-01 | [借助 Loop 串联云端与本地的 AI 开发流程](https://ro.yikzero.com/blog/loop-cloud-local/) | 我做了一个叫 Loop 的桌面应用，把 Cursor 云端 Agent、本地 Codex 和我自己的验收串成一个循环，直到 PR 合并 |
-| 2026-11-01 | [2026年第44周](https://blog.sakoamc.com/posts/2644/) | 题记：二零二六年第四十四周，十一月好呀~我宣布今后的每个周末都要远离工作，善待自己。 |
 
 ## Vibe Coding
 
