@@ -27,9 +27,20 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-11-09 | [升级了 bearblog Lifetime License](https://blog.solazy.me/20261109/) | 纪念一下今天，第三次，也是最后一次续费 bearblog |
+| 2026-11-09 | [2026 年9/10 月观影总结](https://www.ixiqin.com/2026/11/09/2026-09-movie-log/) | 9/10 月份还是看了不少的电影的，不过一直没顾上写总结；于是乎，继续写一下总结； 整个9/10月份一共看了 […] |
+| 2026-11-09 | [Quetoo updated](https://macsourceports.com/game/quetoo) | The build of Quetoo has been updated to version v1.0.145 of the project |
+| 2026-11-09 | [Ambermoon updated](https://macsourceports.com/game/ambermoon) | The build of Ambermoon.net for Ambermoon has been updated to version v1.15.2 of the project |
 | 2026-11-09 | [MacOS配置《明日方舟：终末地》](https://mocusez.site/zh-CN/posts/fa89) | EndFields |
+| 2026-11-09 | [无常，离别](https://ssshooter.com/impermanence-and-parting/) | 外公被电动车撞倒，从急诊到 ICU 再到最后一面，只有四天。记下这四天里的慌乱、守候与告别，也记下突然懂了的事：多拍下身边的人，多留下些文字，珍惜眼前人从来不是一句轻飘飘的话。 |
+| 2026-11-09 | [Might and Magic VII: For Blood and Honor updated](https://macsourceports.com/game/mightandmagic7) | The build of OpenEnroth for Might and Magic VII: For Blood and Honor has been updated to the latest code of the project |
+| 2026-11-09 | [资金费率套利中的 “数据工程”](https://smallyu.net/2026/11/09/%E8%B5%84%E9%87%91%E8%B4%B9%E7%8E%87%E5%A5%97%E5%88%A9%E4%B8%AD%E7%9A%84%E6%95%B0%E6%8D%AE%E5%B7%A5%E7%A8%8B/) | 目前只做工程方面的总结，不做策略数据方面的复盘。这个项目是从一个小的页面开始，逐步发展形成了一套复杂的数据看板。在这个过程中踩了一些有意思的坑，这些坑都不高级，属于一看就知道很简单的问题，但为什么会遇到这么多低级问题呢？因为用了 AI。真正的关键不在于让 AI |
+| 2026-11-09 | [Minimal WebRTC handshake](https://blog.est.im/2026/stdin-20) | Author's note: drafted by Deepseek v4.1 Flash The 23-Byte WebRTC Handshake How small can a browser-to-browser WebRTC handshake get? I spent a weekend… |
+| 2026-11-09 | [油管：长视频封面编辑器 文字模板设置](https://dsx2016.com/youtube-long-form-video-thumbnail-editor-text-template-settings/) | ai图片编辑器 ai agent提示内置图片编辑器失败，上游切断了图片编辑的ai能力，本文只能考虑继续优化本地... 油管：长视频封面编辑器 文字模板设置 最先出现在 大师兄2016 。 |
+| 2026-11-09 | [和校园网斗智斗勇的日子（第11辑）](https://blog.mfwt.top/index.php/archives/1717/) | 哇，第11辑了，在建立这个专辑之初，根本没想到能写这么多。今天是11/09，又到了一年一度广东入冬的时候，外面开始刮大风，气温也下降。虽然过几天（也就是本周末）还是会重回30℃，但其实也持续不了... |
 | 2026-11-09 | [esp32 cyd 音频 音效 音乐 提示音 闹钟和番茄钟](https://dsx2016.com/esp32-cyd-audio-sound-effects-music-alerts-alarms-and-pomodoro-timer/) | 音效 目前esp32 cyd的时钟界面10个样式已经足够，以后有需要再设置别的时钟界面 现在优先尝试两个场景，... esp32 cyd 音频 音效 音乐 提示音 闹钟和番茄钟 最先出现在 大师兄2016 。 |
 | 2026-11-09 | [每句话都很烦](https://www.hecaitou.com/2026/11/every-single-sentence-is-annoying.html) | 周日见到这样一条读者留言： 「 我女儿追星(2013年的)，买了一堆她偶像李昀锐的卡片拿回来(花了100多)，爷爷奶奶张嘴问这东西有什么用，能吃吗？我女儿告诉我，李昀锐1米83很帅哦，她是在综艺《跑男》认识的，还是国家2级运动员，我说这跟你有啥关系，他认识你吗？再说他娶你吗？你现在不好好卷成绩，将来… |
+| 2026-11-09 | [Gecko：我做了一个 Mac 应用录制工具](https://liudon.com/posts/gecko-macos-app-recorder/) | 起因 9月底的时候，媳妇想把微信的来电铃声设置到手机电话铃声上。 微信里的来电铃声其实就是视频号里的一个视频，因为微信的这个音质更好，所以想着直接把它的音频弄出来。 |
 | 2026-11-09 | [麒麟V10部署Tengine与铜锁国密双栈验证](https://199604.com/3742) | 麒麟V10部署Tengine与铜锁国密双栈验证 记录时间：2026-11-05 环境：Kylin V10 SP […] |
 | 2026-11-09 | [尽兴的乐趣](https://mobius.blog/26100.html) | 我不是一个很会“尽兴”的人，以至于我似乎对于玩这件事情也没有非常强烈的感觉。虽然我妈在我小时候，常把“该学习的 […] |
 | 2026-11-09 | [我对 NBA 签约、交易和买断的一些理解](https://depp.wang/2026/nba-transactions/) | 我一直在看 NBA，虽然不是死忠球迷，但平时还是会关注 NBA 新闻。每年休赛季都有各种签约、各种交易，我觉得这也是 NBA 比较有看头的一点。 先不说场上教练的运筹帷幄，单就球队阵容来说，总经理的工作也很重要。他要考虑球队的整体规划，当前这套阵容到底是准备争冠、重建，还是先维持现状，再根据这个方向… |
@@ -43,6 +54,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-11-09 | [网站更新记录](https://wcowin.work/blog/category/%E7%BD%91%E7%AB%99%E6%9B%B4%E6%96%B0%E8%AE%B0%E5%BD%95/) | 网站更新记录 |
 | 2026-11-09 | [MyBlog](https://wcowin.work/blog/page/2/) | MyBlog |
 | 2026-11-09 | [走过坡道与海边 《玉响》圣地巡礼之尾道](https://www.wikimoe.com/post/b-to4i3n8v) | 2026年11月1日，在结束憧憬之路后我们来到了尾道，开启了尾道的旅程。 尾道站南口 对比动画，尾道车站整体翻新了一遍呢。 尾道高迪之家 尾道高迪之家（尾道ガウディハウス），正式名称为“旧和泉家别邸”，位于日本广岛县尾道市的山坡上，建于1933年，是一栋融合日式传统木构技艺与西式装饰元素的独特住宅。… |
+| 2026-11-09 | [烧了一百亿Token后的Harness Agent交互感想](https://prologue.dev/blog/2026-how-do-i-use-deepseek-harness) | 模型能力已经超乎常人，但普通人仍然难以驾驭这种能力。 |
 | 2026-11-08 | [苏苏收集的各种人生指南合集（202611.08）](https://blog.brmys.cn/life-guides) | 关联主题:: 同级:: 2026-11-08_星期日 下一级:: 1、面向大学生和初入职场者的人情世故指南 开源地址： github.com/kkk-bot/HowToGetAlong 网址： kkk-bot.github.io/HowToGetAlong/ 2、高性价比职场指南 github.co… |
 | 2026-11-08 | [Heroes of Might and Magic II updated](https://macsourceports.com/game/homm2) | The build of fheroes2 for Heroes of Might and Magic II has been updated to version 1.1.18 of the project |
 | 2026-11-08 | [经典bug回顾：Windows中文路径编码问题](https://blog.mzh.ren/zh/posts/2026/11/unicode-dir-issue/) | 识幕 SeeSub — 一站式字幕工作台: https://seesub.com/ 上周末发布了一个做字幕相关的 App，叫做“识幕”。发布以来广受好评，但同样也反馈了很多 bug。 其中一个 bug 是，明明模型就在指定目录里。目录名字和位置都正确，里面的模型文件也是存在的，但程序就是死活找不到该… |
@@ -69,14 +81,12 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-11-08 | [AI生成雨中便利店的网页 &#124; GPT-6.1 sol，Gemini 3.8 flash，DeepSeek V4.1-Flash-1017](https://blog.rustfisher.com/ai/rainy-store-gpt6-1sol-gemini3-8flash/) | AI生成雨中便利店的网页。用GPT、DeepSeek和Gemini分别生成的效果。 |
 | 2026-11-08 | [北京・立冬时节的海淀街边（2026）](https://blog.yasking.org/a/photos-beijing-2026-beginning-of-winter) | 近一个月都比较忙碌，十一假期找教练练习驾驶，本来打算北京周边自驾巩固，耽搁了一个月，北京的秋天就这样过去了。北 … |
 | 2026-11-08 | [日记26/11/8](http://soap09.cn/articles/2026/11/08/1794143059556.html) |  |
-| 2026-11-08 | [Quetoo updated](https://macsourceports.com/game/quetoo) | The build of Quetoo has been updated to version v1.0.143 of the project |
 | 2026-11-08 | [让 2D 像素拥有 3D 打光：光照方向感知的法线估计](https://outtascope.com/zh/writing/pixel-art-lighting/) | 拆解 Pixel Art Lighter 的法线生成原理，对比同类工具，加入光照方向感知，并用 3D 转 2D 的评测集验证。 |
 | 2026-11-08 | [摘：《六论自发性》](https://z.arlmy.me/posts/Note/Note_JamesCScott_TwoCheersForAnarchism/) | 「自我的弹性。」 |
 | 2026-11-08 | [摘：《江湖丛谈》](https://z.arlmy.me/posts/Note/Note_LianKuoRu_JiangHuCongTan/) | 「调侃儿。」 |
 | 2026-11-08 | [摘：《轨道》](https://z.arlmy.me/posts/Note/Note_SamanthaHarvey_Orbital/) | 「加速。」 |
 | 2026-11-08 | [摘：《瓦莱里与纪德通信选》](https://z.arlmy.me/posts/Note/Note_TheGideValeryLetters/) | 「文学通信和爱。」 |
 | 2026-11-08 | [摘：《真实生活》](https://z.arlmy.me/posts/Note/Note_AdamZagajewski_TrueLife/) | 「退休的二十世纪。」 |
-| 2026-11-08 | [Might and Magic VII: For Blood and Honor updated](https://macsourceports.com/game/mightandmagic7) | The build of OpenEnroth for Might and Magic VII: For Blood and Honor has been updated to the latest code of the project |
 | 2026-11-08 | [esp32 cyd 当前使用最多的场景 时钟面板](https://dsx2016.com/esp32-cyd-most-common-use-case-clock-panel/) | 时钟面板 当前我使用最多的是esp32 cyd 时钟面板 手机上看时间，往往需要先亮屏，手表上看时间，也需要抬... esp32 cyd 当前使用最多的场景 时钟面板 最先出现在 大师兄2016 。 |
 | 2026-11-08 | [Vol.125 智能体交付之后：从授权边界到真实结果，用证据验收并保留人的关键判断](https://liduos.com/weekly/the-weekly-gradient-125) | 本期内容围绕智能体交付后的验收与授权边界展开，讨论如何用真实结果、真机与业务证据判断任务是否完成，并以成本、故障复现和人的关键决策校准协作。 |
 | 2026-11-08 | [狗不会说话但什么都懂](https://mobius.blog/26090.html) | Humachine 里整理的是原本发布在 Telegram 频道的内容，积累到足够的时候，就可以分类整理成册。 […] |
@@ -168,7 +178,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-11-04 | [esp32 mosfet开关 电源输入方式](https://dsx2016.com/esp32-mosfet-switch-power-input-method/) | 电源输入方式 之前只买了一个带有dc充电口和接线端子输出方式的锂电池，方便配合继电器开关 这个锂电池提供5v输... esp32 mosfet开关 电源输入方式 最先出现在 大师兄2016 。 |
 | 2026-11-04 | [给主流模型配个职位: Claude Op](https://versun.me/blog/tweet-2117963662698934514) | 给主流模型配个职位: Claude Opus 5.5：总经理 GPT-6 Astra：首席安全官 Claude Sonnet 5.5：技术总监 Gemini 4 Argon：顾问 Kimi K3.1：工程部经理 Grok 4.7：运营总监 Gemini 3.8 Flash：行政 DeepSeek V… |
 | 2026-11-04 | [Unreal Tournament 2004 updated](https://macsourceports.com/game/unrealtournament2004) | The build of UT2004 for Unreal Tournament 2004 has been updated to version 3374-rc3 of the project |
-| 2026-11-04 | [Ambermoon updated](https://macsourceports.com/game/ambermoon) | The build of Ambermoon.net for Ambermoon has been updated to version v1.15.1 of the project |
 | 2026-11-04 | [关于人们如何识别一篇文章是否由 AI 创作的](https://mobius.blog/26064.html) | 最近发现一个有趣的现象——越来越多的人开始通过文章的写作习惯来判断作者是否使用了 AI。 比如，喜欢使用引号强 […] |
 | 2026-11-04 | [循环模式吃饭](https://www.hecaitou.com/2026/11/eating-on-loop-mode.html) | 我曾经整月连续吃同样的菜单，同一家店，每次都是一份希腊沙拉，再加两个煎蛋。不是刻意如此，只是到了点餐时实在不知道点什么，想着「不如和昨天一样吧」，然后就那么顺理成章地一路点了下去。 这有点像什么？像是每天上班，打开音乐播放软件，然后选中一首歌，进入单曲循环模式，然后一个月天天都如此。 之前我看别人晒… |
 | 2026-11-04 | [无用命途：搞笑版《爱情买卖》，模糊版《农广天地》](https://blog.mfwt.top/index.php/archives/1715/) | 《无用命途》，专门用来记录一些无用（甚至无厘头的）想法，每个想法后会附带一点内容，用来介绍和这个想法（及其衍生的）有关的东西。每周最多更新一次，但不保证周更，主要看想法的活跃度如何。11月，按A... |

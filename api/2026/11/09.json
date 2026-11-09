@@ -1,10 +1,80 @@
 [
   {
+    "title": "升级了 bearblog Lifetime License",
+    "url": "https://blog.solazy.me/20261109/",
+    "date": "2026-11-09T15:00:00Z",
+    "description": "纪念一下今天，第三次，也是最后一次续费 bearblog",
+    "source_root_domain": "solazy.me"
+  },
+  {
+    "title": "2026 年9/10 月观影总结",
+    "url": "https://www.ixiqin.com/2026/11/09/2026-09-movie-log/",
+    "date": "2026-11-09T14:34:21Z",
+    "description": "9/10 月份还是看了不少的电影的，不过一直没顾上写总结；于是乎，继续写一下总结； 整个9/10月份一共看了 […]",
+    "source_root_domain": "ixiqin.com"
+  },
+  {
+    "title": "Quetoo updated",
+    "url": "https://macsourceports.com/game/quetoo",
+    "date": "2026-11-09T12:00:38Z",
+    "description": "The build of Quetoo has been updated to version v1.0.145 of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "Ambermoon updated",
+    "url": "https://macsourceports.com/game/ambermoon",
+    "date": "2026-11-09T12:00:37Z",
+    "description": "The build of Ambermoon.net for Ambermoon has been updated to version v1.15.2 of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
     "title": "MacOS配置《明日方舟：终末地》",
     "url": "https://mocusez.site/zh-CN/posts/fa89",
     "date": "2026-11-09T10:28:54Z",
     "description": "EndFields",
     "source_root_domain": "mocusez.site"
+  },
+  {
+    "title": "无常，离别",
+    "url": "https://ssshooter.com/impermanence-and-parting/",
+    "date": "2026-11-09T09:49:23Z",
+    "description": "外公被电动车撞倒，从急诊到 ICU 再到最后一面，只有四天。记下这四天里的慌乱、守候与告别，也记下突然懂了的事：多拍下身边的人，多留下些文字，珍惜眼前人从来不是一句轻飘飘的话。",
+    "source_root_domain": "ssshooter.com"
+  },
+  {
+    "title": "Might and Magic VII: For Blood and Honor updated",
+    "url": "https://macsourceports.com/game/mightandmagic7",
+    "date": "2026-11-09T09:09:43Z",
+    "description": "The build of OpenEnroth for Might and Magic VII: For Blood and Honor has been updated to the latest code of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "资金费率套利中的 “数据工程”",
+    "url": "https://smallyu.net/2026/11/09/%E8%B5%84%E9%87%91%E8%B4%B9%E7%8E%87%E5%A5%97%E5%88%A9%E4%B8%AD%E7%9A%84%E6%95%B0%E6%8D%AE%E5%B7%A5%E7%A8%8B/",
+    "date": "2026-11-09T09:00:00Z",
+    "description": "目前只做工程方面的总结，不做策略数据方面的复盘。这个项目是从一个小的页面开始，逐步发展形成了一套复杂的数据看板。在这个过程中踩了一些有意思的坑，这些坑都不高级，属于一看就知道很简单的问题，但为什么会遇到这么多低级问题呢？因为用了 AI。真正的关键不在于让 AI",
+    "source_root_domain": "smallyu.net"
+  },
+  {
+    "title": "Minimal WebRTC handshake",
+    "url": "https://blog.est.im/2026/stdin-20",
+    "date": "2026-11-09T08:36:00Z",
+    "description": "Author's note: drafted by Deepseek v4.1 Flash The 23-Byte WebRTC Handshake How small can a browser-to-browser WebRTC handshake get? I spent a weekend measuring it in Chromium 157 (Microsoft Edge) and Safari 26.2. The short answer: 23 bytes per direction, if you're willing to make a few very specific assumptions. The 2015 answer was 106 characters In 2015, Philipp Hancke wrote a great piece called The Minimum Viable SDP . The question was simple: how much do two browsers actually need to exchange",
+    "source_root_domain": "feedburner.com"
+  },
+  {
+    "title": "油管：长视频封面编辑器 文字模板设置",
+    "url": "https://dsx2016.com/youtube-long-form-video-thumbnail-editor-text-template-settings/",
+    "date": "2026-11-09T06:54:33Z",
+    "description": "ai图片编辑器 ai agent提示内置图片编辑器失败，上游切断了图片编辑的ai能力，本文只能考虑继续优化本地... 油管：长视频封面编辑器 文字模板设置 最先出现在 大师兄2016 。",
+    "source_root_domain": "dsx2016.com"
+  },
+  {
+    "title": "和校园网斗智斗勇的日子（第11辑）",
+    "url": "https://blog.mfwt.top/index.php/archives/1717/",
+    "date": "2026-11-09T06:53:00Z",
+    "description": "哇，第11辑了，在建立这个专辑之初，根本没想到能写这么多。今天是11/09，又到了一年一度广东入冬的时候，外面开始刮大风，气温也下降。虽然过几天（也就是本周末）还是会重回30℃，但其实也持续不了...",
+    "source_root_domain": "mfwt.top"
   },
   {
     "title": "esp32 cyd 音频 音效 音乐 提示音 闹钟和番茄钟",
@@ -19,6 +89,13 @@
     "date": "2026-11-09T04:12:13Z",
     "description": "周日见到这样一条读者留言： 「 我女儿追星(2013年的)，买了一堆她偶像李昀锐的卡片拿回来(花了100多)，爷爷奶奶张嘴问这东西有什么用，能吃吗？我女儿告诉我，李昀锐1米83很帅哦，她是在综艺《跑男》认识的，还是国家2级运动员，我说这跟你有啥关系，他认识你吗？再说他娶你吗？你现在不好好卷成绩，将来连工作都找不下，工作找不下对象也就别想了 」。 说实话，看了每一句话我都觉得很烦。比如说爷爷奶奶的提问，早年间我火气还很旺的时候，估计会一句话就给撅回去：你们种的花有什么用？跳的广场舞有什么用？等你们再老一点，养你们有什么用？能吃吗？ 不好，这是以蛮横来对蛮横。蛮横就是不讲道理，买偶像周边是为了自己舒心，和吃没关系。但不讲这个道理，那我当然也可以很蛮横地不去理会种花种草和修身养性之间的关系，跳广场舞和锻炼、社交之间的关系，赡养老人和亲情伦理人性之间的关系。就问能不能吃，能不能用，这种问题谁不会问呢？ 接下来的部分我看了更烦。爷爷奶奶发话，本来应该站在孩子一边的妈妈却以儿媳妇的身份和他们站在了一起。没有缓解矛盾，没有调和气氛，反而是释放了自己的焦虑--- 他认识你吗？再说他娶你吗？你现在不好好",
     "source_root_domain": "hecaitou.com"
+  },
+  {
+    "title": "Gecko：我做了一个 Mac 应用录制工具",
+    "url": "https://liudon.com/posts/gecko-macos-app-recorder/",
+    "date": "2026-11-09T03:42:14Z",
+    "description": "起因 9月底的时候，媳妇想把微信的来电铃声设置到手机电话铃声上。 微信里的来电铃声其实就是视频号里的一个视频，因为微信的这个音质更好，所以想着直接把它的音频弄出来。",
+    "source_root_domain": "liudon.com"
   },
   {
     "title": "麒麟V10部署Tengine与铜锁国密双栈验证",
@@ -110,6 +187,13 @@
     "date": "2026-11-09T00:38:51Z",
     "description": "2026年11月1日，在结束憧憬之路后我们来到了尾道，开启了尾道的旅程。 尾道站南口 对比动画，尾道车站整体翻新了一遍呢。 尾道高迪之家 尾道高迪之家（尾道ガウディハウス），正式名称为“旧和泉家别邸”，位于日本广岛县尾道市的山坡上，建于1933年，是一栋融合日式传统木构技艺与西式装饰元素的独特住宅。建筑依山势而建，屋顶、外墙、窗户与阳台呈现出复杂而不规则的形态，因其充满想象力的造型令人联想到西班牙建筑师安东尼·高迪的作品，故被当地人称为“高迪之家”。这栋建筑曾长期空置，濒临拆除，后经当地“尾道空屋再生计划”修复保存，成为尾道历史建筑活化与地方文化复兴的代表性案例，并被登记为日本国家登录有形文化财。 栗原温泉 午饭时间 既然来到尾道，那么自然是吃当地特色——尾道拉面啦！ 一口下去，咸香鲜。 猪油搭配肥肉的油香，非常有满足感。 东第一道口 对比动画，可以注意到山上本来有一座城，叫做尾道城。 这是一座现代仿古建筑。 但是现实中因为建筑老化，在2020年被拆除了。 站前商店街入口 林芙美子纪念像 林芙美子纪念像（林芙美子像）位于日本广岛县尾道市，距离JR尾道站步行约2分钟，坐落在本通商店街入口",
     "source_root_domain": "wikimoe.com"
+  },
+  {
+    "title": "烧了一百亿Token后的Harness Agent交互感想",
+    "url": "https://prologue.dev/blog/2026-how-do-i-use-deepseek-harness",
+    "date": "2026-11-09T00:00:00Z",
+    "description": "模型能力已经超乎常人，但普通人仍然难以驾驭这种能力。",
+    "source_root_domain": "prologue.dev"
   },
   {
     "title": "苏苏收集的各种人生指南合集（202611.08）",
@@ -294,13 +378,6 @@
     "source_root_domain": "soap09.cn"
   },
   {
-    "title": "Quetoo updated",
-    "url": "https://macsourceports.com/game/quetoo",
-    "date": "2026-11-08T12:17:05Z",
-    "description": "The build of Quetoo has been updated to version v1.0.143 of the project",
-    "source_root_domain": "macsourceports.com"
-  },
-  {
     "title": "让 2D 像素拥有 3D 打光：光照方向感知的法线估计",
     "url": "https://outtascope.com/zh/writing/pixel-art-lighting/",
     "date": "2026-11-08T12:00:00Z",
@@ -341,13 +418,6 @@
     "date": "2026-11-08T10:07:46Z",
     "description": "「退休的二十世纪。」",
     "source_root_domain": "arlmy.me"
-  },
-  {
-    "title": "Might and Magic VII: For Blood and Honor updated",
-    "url": "https://macsourceports.com/game/mightandmagic7",
-    "date": "2026-11-08T09:11:58Z",
-    "description": "The build of OpenEnroth for Might and Magic VII: For Blood and Honor has been updated to the latest code of the project",
-    "source_root_domain": "macsourceports.com"
   },
   {
     "title": "esp32 cyd 当前使用最多的场景 时钟面板",
