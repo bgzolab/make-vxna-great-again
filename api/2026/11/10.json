@@ -1,5 +1,89 @@
 [
   {
+    "title": "iOS Backup v1.5.6 更新啦",
+    "url": "https://razeen.me/posts/ios-backup-v1-5-6-update/",
+    "date": "2026-11-10T15:27:47Z",
+    "description": "iOS Backup 已更新到 v1.5.6，新增历史备份保留与打包下载、离线查看备份、手动停止任务和任务记录，并改进了通知、翻译及自定义时区支持。",
+    "source_root_domain": "razeen.me"
+  },
+  {
+    "title": "聊聊我用过的两款 AI 记忆系统",
+    "url": "https://versun.me/blog/from-nowledge-mem-to-hindsight",
+    "date": "2026-11-10T13:11:00Z",
+    "description": "最近，我把 Agent 记忆系统从 Nowledge Mem 换到了 Hindsight。 趁这个机会，简单对比下两者的使用感受和区别。 特性 Nowledge Mem 从图数据库和人机交互切入，想做连通所有工具的个人认知中枢。它有全平台桌面端、CLI、浏览器插件和 MCP 等全家桶，定位是「个人 AI 上下文管理器」，主打第二大脑。 Hindsight 则是从大规模数据管道和 RAG...",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "AI本地大模型3B左右真实使用场景和模型推荐",
+    "url": "https://dsx2016.com/real-world-use-cases-and-model-recommendations-for-local-ai-models-approx-3b-parameters/",
+    "date": "2026-11-10T12:05:38Z",
+    "description": "本文内容 核心内容 HyperFlow H3 Flash HyperFlow H3 Flash 是什么？ Hy... AI本地大模型3B左右真实使用场景和模型推荐 最先出现在 大师兄2016 。",
+    "source_root_domain": "dsx2016.com"
+  },
+  {
+    "title": "No One Lives Forever 2: A Spy in H.A.R.M.'s Way updated",
+    "url": "https://macsourceports.com/game/nolf2",
+    "date": "2026-11-10T12:00:39Z",
+    "description": "The build of NOLF2 for Mac for No One Lives Forever 2: A Spy in H.A.R.M.'s Way has been updated to version 0.4.4 of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "今天公司通知APEC要居家一周",
+    "url": "https://sigge.cn/2026/11/10/lmbx5zl15yqb",
+    "date": "2026-11-10T09:51:53Z",
+    "description": "今天公司通知了APEC要居家一周，相当9天小长假了。",
+    "source_root_domain": "sigge.cn"
+  },
+  {
+    "title": "Might and Magic VII: For Blood and Honor updated",
+    "url": "https://macsourceports.com/game/mightandmagic7",
+    "date": "2026-11-10T09:14:47Z",
+    "description": "The build of OpenEnroth for Might and Magic VII: For Blood and Honor has been updated to the latest code of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "Star Wars Jedi Knight: Jedi Academy updated",
+    "url": "https://macsourceports.com/game/swjkja",
+    "date": "2026-11-10T09:09:43Z",
+    "description": "The build of OpenJK (Single Player) for Star Wars Jedi Knight: Jedi Academy has been updated to the latest code of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "Star Wars Jedi Knight II: Jedi Outcast updated",
+    "url": "https://macsourceports.com/game/swjk2",
+    "date": "2026-11-10T09:09:41Z",
+    "description": "The build of OpenJO (OpenJK Project, Single Player) for Star Wars Jedi Knight II: Jedi Outcast has been updated to the latest code of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "OpenXcom updated",
+    "url": "https://macsourceports.com/sourceport/openxcom",
+    "date": "2026-11-10T09:06:41Z",
+    "description": "The build of OpenXcom for the X-Com series of games has been updated to the latest code of the project\\n\\nhttps://macsourceports.com/sourceport/openxcom\\n\\n#macgaming #retrogaming #macOS #openxcom #gaming #apple #m1 #m2 #m3 #applesilicon\\n\\n",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "Quake updated",
+    "url": "https://macsourceports.com/game/quake",
+    "date": "2026-11-10T09:02:49Z",
+    "description": "The build of DarkPlaces for Quake has been updated to the latest code of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "Quake III: Arena updated",
+    "url": "https://macsourceports.com/game/quake3arena",
+    "date": "2026-11-10T09:02:29Z",
+    "description": "The build of Quake3e for Quake III: Arena has been updated to the latest code of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "vivo手机域名列表",
+    "url": "https://www.cheshirex.com/11656.html",
+    "date": "2026-11-10T08:24:05Z",
+    "description": "以下内容来自于网友收集域名，博主二次收集再加工。 相关链接 DNS广告隐私屏蔽列表：https://githu […]",
+    "source_root_domain": "cheshirex.com"
+  },
+  {
     "title": "油管：视频创意和流量以及信息整理",
     "url": "https://dsx2016.com/youtube-video-ideas-traffic-and-information-curation/",
     "date": "2026-11-10T04:48:01Z",
@@ -35,6 +119,13 @@
     "source_root_domain": "mobius.blog"
   },
   {
+    "title": "从实验到实际录制：Gecko 的 Pulse 设计",
+    "url": "https://liudon.com/posts/gecko-adaptive-pulse-design/",
+    "date": "2026-11-10T02:00:00Z",
+    "description": "上一篇《 切换桌面后，录屏画面几乎冻结 》记录了 Gecko 遇到的跨桌面供帧问题。一个原本用于倒计时的浮层带来了线索，后来通过 Pulse 的开关实验，发现持续绘制的独立窗口在特定场景下确实能让采集恢复正常。",
+    "source_root_domain": "liudon.com"
+  },
+  {
     "title": "大模型科普系列（二）：什么是解嵌入矩阵",
     "url": "https://depp.wang/2026/what-is-unembedding/",
     "date": "2026-11-10T01:36:45Z",
@@ -63,34 +154,6 @@
     "source_root_domain": "macsourceports.com"
   },
   {
-    "title": "OpenXcom updated",
-    "url": "https://macsourceports.com/sourceport/openxcom",
-    "date": "2026-11-09T22:16:12Z",
-    "description": "The build of OpenXcom for the X-Com series of games has been updated to the latest code of the project\\n\\nhttps://macsourceports.com/sourceport/openxcom\\n\\n#macgaming #retrogaming #macOS #openxcom #gaming #apple #m1 #m2 #m3 #applesilicon\\n\\n",
-    "source_root_domain": "macsourceports.com"
-  },
-  {
-    "title": "Star Wars Jedi Knight: Jedi Academy updated",
-    "url": "https://macsourceports.com/game/swjkja",
-    "date": "2026-11-09T21:22:25Z",
-    "description": "The build of OpenJK (Single Player) for Star Wars Jedi Knight: Jedi Academy has been updated to the latest code of the project",
-    "source_root_domain": "macsourceports.com"
-  },
-  {
-    "title": "Star Wars Jedi Knight II: Jedi Outcast updated",
-    "url": "https://macsourceports.com/game/swjk2",
-    "date": "2026-11-09T21:22:23Z",
-    "description": "The build of OpenJO (OpenJK Project, Single Player) for Star Wars Jedi Knight II: Jedi Outcast has been updated to the latest code of the project",
-    "source_root_domain": "macsourceports.com"
-  },
-  {
-    "title": "Quake updated",
-    "url": "https://macsourceports.com/game/quake",
-    "date": "2026-11-09T18:07:05Z",
-    "description": "The build of DarkPlaces for Quake has been updated to the latest code of the project",
-    "source_root_domain": "macsourceports.com"
-  },
-  {
     "title": "Theme Hospital updated",
     "url": "https://macsourceports.com/game/themehospital",
     "date": "2026-11-09T17:27:13Z",
@@ -98,11 +161,11 @@
     "source_root_domain": "macsourceports.com"
   },
   {
-    "title": "Quake III: Arena updated",
-    "url": "https://macsourceports.com/game/quake3arena",
-    "date": "2026-11-09T17:12:33Z",
-    "description": "The build of Quake3e for Quake III: Arena has been updated to the latest code of the project",
-    "source_root_domain": "macsourceports.com"
+    "title": "AI 早报 2026-11-10：澳大利亚要给前沿 AI 立规矩：强制上报事故、设新监管机构，起因是 OpenAI 智能体闯进医保系统",
+    "url": "https://www.jtxyh.com/daily/2026-11-10/",
+    "date": "2026-11-09T16:00:00Z",
+    "description": "2026-11-10 AI 早报，共 18 条动态。澳大利亚总理阿尔巴尼斯 11 月 10 日宣布，政府接受 OpenAI 智能体事件快速审查的全部 18 条建议，将立法给在澳运营的前沿 AI 公司施加六项强制安全义务：全程安全控制、识别管理模型重大风险、接受独立评估、迅速上报事故、公开安全框架、遵守不断演进的标准。",
+    "source_root_domain": "jtxyh.com"
   },
   {
     "title": "如何提升自己的稀缺性 ？",
@@ -161,13 +224,6 @@
     "source_root_domain": "ssshooter.com"
   },
   {
-    "title": "Might and Magic VII: For Blood and Honor updated",
-    "url": "https://macsourceports.com/game/mightandmagic7",
-    "date": "2026-11-09T09:09:43Z",
-    "description": "The build of OpenEnroth for Might and Magic VII: For Blood and Honor has been updated to the latest code of the project",
-    "source_root_domain": "macsourceports.com"
-  },
-  {
     "title": "资金费率套利中的 “数据工程”",
     "url": "https://smallyu.net/2026/11/09/%E8%B5%84%E9%87%91%E8%B4%B9%E7%8E%87%E5%A5%97%E5%88%A9%E4%B8%AD%E7%9A%84%E6%95%B0%E6%8D%AE%E5%B7%A5%E7%A8%8B/",
     "date": "2026-11-09T09:00:00Z",
@@ -182,7 +238,7 @@
     "source_root_domain": "feedburner.com"
   },
   {
-    "title": "录屏窗口看不见后，为什么画面会冻结",
+    "title": "切换桌面后，录屏画面几乎冻结",
     "url": "https://liudon.com/posts/screencapturekit-cross-space-freeze/",
     "date": "2026-11-09T08:11:41Z",
     "description": "上一篇介绍了自己做的 Mac 录制工具 Gecko 。我希望它不仅能录制一个窗口，还能在录制时切到其他桌面，继续做自己的事情。 听起来没什么特别，实际做下来，最难解决的恰恰是这一点。",

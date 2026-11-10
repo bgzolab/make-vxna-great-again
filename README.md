@@ -27,21 +27,30 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-11-10 | [iOS Backup v1.5.6 更新啦](https://razeen.me/posts/ios-backup-v1-5-6-update/) | iOS Backup 已更新到 v1.5.6，新增历史备份保留与打包下载、离线查看备份、手动停止任务和任务记录，并改进了通知、翻译及自定义时区支持。 |
+| 2026-11-10 | [聊聊我用过的两款 AI 记忆系统](https://versun.me/blog/from-nowledge-mem-to-hindsight) | 最近，我把 Agent 记忆系统从 Nowledge Mem 换到了 Hindsight。 趁这个机会，简单对比下两者的使用感受和区别。 特性 Nowledge Mem 从图数据库和人机交互切入，想做连通所有工具的个人认知中枢。它有全平台桌面端、CLI、浏览器插件和 MCP 等全家桶，定位是「个人… |
+| 2026-11-10 | [AI本地大模型3B左右真实使用场景和模型推荐](https://dsx2016.com/real-world-use-cases-and-model-recommendations-for-local-ai-models-approx-3b-parameters/) | 本文内容 核心内容 HyperFlow H3 Flash HyperFlow H3 Flash 是什么？ Hy... AI本地大模型3B左右真实使用场景和模型推荐 最先出现在 大师兄2016 。 |
+| 2026-11-10 | [No One Lives Forever 2: A Spy in H.A.R.M.'s Way updated](https://macsourceports.com/game/nolf2) | The build of NOLF2 for Mac for No One Lives Forever 2: A Spy in H.A.R.M.'s Way has been updated to version 0.4.4 of the project |
+| 2026-11-10 | [今天公司通知APEC要居家一周](https://sigge.cn/2026/11/10/lmbx5zl15yqb) | 今天公司通知了APEC要居家一周，相当9天小长假了。 |
+| 2026-11-10 | [Might and Magic VII: For Blood and Honor updated](https://macsourceports.com/game/mightandmagic7) | The build of OpenEnroth for Might and Magic VII: For Blood and Honor has been updated to the latest code of the project |
+| 2026-11-10 | [Star Wars Jedi Knight: Jedi Academy updated](https://macsourceports.com/game/swjkja) | The build of OpenJK (Single Player) for Star Wars Jedi Knight: Jedi Academy has been updated to the latest code of the project |
+| 2026-11-10 | [Star Wars Jedi Knight II: Jedi Outcast updated](https://macsourceports.com/game/swjk2) | The build of OpenJO (OpenJK Project, Single Player) for Star Wars Jedi Knight II: Jedi Outcast has been updated to the latest code of the project |
+| 2026-11-10 | [OpenXcom updated](https://macsourceports.com/sourceport/openxcom) | The build of OpenXcom for the X-Com series of games has been updated to the latest code of the project\n\nhttps://macsourceports.com/sourceport/openxc… |
+| 2026-11-10 | [Quake updated](https://macsourceports.com/game/quake) | The build of DarkPlaces for Quake has been updated to the latest code of the project |
+| 2026-11-10 | [Quake III: Arena updated](https://macsourceports.com/game/quake3arena) | The build of Quake3e for Quake III: Arena has been updated to the latest code of the project |
+| 2026-11-10 | [vivo手机域名列表](https://www.cheshirex.com/11656.html) | 以下内容来自于网友收集域名，博主二次收集再加工。 相关链接 DNS广告隐私屏蔽列表：https://githu […] |
 | 2026-11-10 | [油管：视频创意和流量以及信息整理](https://dsx2016.com/youtube-video-ideas-traffic-and-information-curation/) | 油管算法 油管的算法很垃圾，既没有tk的大数据信息茧房的信息流，也没有普通产品用户画像的综合推荐 反而是牛头不... 油管：视频创意和流量以及信息整理 最先出现在 大师兄2016 。 |
 | 2026-11-10 | [比找回青春更重要的](https://www.hecaitou.com/2026/11/more-important-than-reclaiming-youth.html) | 我知道，99% 的好友对于我家里那一堆中古磁带随身听的看法就两个字：垃圾。也试过让他们用耳机重温一下上世纪好声音，不过看他们的表情我也很清楚，那是童年被逼无奈去吃芹菜或者胡萝卜时的脸。 有人提供了一种理论解释，把我这种人的行为称之为「补过童年」，或者「找回青春」。当初我喜欢的很多东西家里买不起，比如… |
 | 2026-11-10 | [职场上的前任](https://blog.solazy.me/20261110/) | 最近换工作，难免会亲身经历关于「职场前任」的话题 |
 | 2026-11-10 | [当我的 Mac 里塞进 50 个 MCP 和 70 个 Skill：用“元工具”把上下文砍掉 90% / Slashing 90% Context Overhead with Meta-Tools](https://blog.7caifei.com/2026/11/4c5464164e57.html) | 本文包含中文与英文两个版本。 This post includes both Chinese and English versions. 当我的 Mac 里塞进 50 个 MCP 和 70 个 |
 | 2026-11-10 | [救猫咪](https://mobius.blog/26112.html) | 收到 @碎言 的私信，是针对《狗不会说话但什么都懂》发表的评论，但是我依旧死性不改，不会重开评论区。 re 狗 […] |
+| 2026-11-10 | [从实验到实际录制：Gecko 的 Pulse 设计](https://liudon.com/posts/gecko-adaptive-pulse-design/) | 上一篇《 切换桌面后，录屏画面几乎冻结 》记录了 Gecko 遇到的跨桌面供帧问题。一个原本用于倒计时的浮层带来了线索，后来通过 Pulse 的开关实验，发现持续绘制的独立窗口在特定场景下确实能让采集恢复正常。 |
 | 2026-11-10 | [大模型科普系列（二）：什么是解嵌入矩阵](https://depp.wang/2026/what-is-unembedding/) | 上一篇写了 什么是词向量 ，文字可以通过嵌入表变成一串数字，交给模型计算。这一篇接着写另一头：模型计算完以后，怎么决定接下来输出哪个 token？ 这里会用到「解嵌入矩阵」。先简单说，它是一张用来打分的权重表，把模型最后算出来的一个向量，变成词表里每个 token 各自的分数。后面再把分数转成概率，… |
 | 2026-11-10 | [Memos #2026-11-09](https://blog.itaober.com/memos/memo_20261109145252_4p67rz) | 22:52 国庆后的体重走势图，周一高开，周五低走，循环往复，周而复始... |
 | 2026-11-10 | [烧了一百亿Token后的Harness Agent交互感想](https://prologue.dev/blog/2026-how-do-i-use-deepseek-harness) | 模型能力已经超乎常人，但普通人仍然难以驾驭这种能力。 |
 | 2026-11-09 | [Hexen II updated](https://macsourceports.com/game/hexen2) | The build of uHexen2 (Hammer of Thyrion) for Hexen II has been updated to the latest code of the project |
-| 2026-11-09 | [OpenXcom updated](https://macsourceports.com/sourceport/openxcom) | The build of OpenXcom for the X-Com series of games has been updated to the latest code of the project\n\nhttps://macsourceports.com/sourceport/openxc… |
-| 2026-11-09 | [Star Wars Jedi Knight: Jedi Academy updated](https://macsourceports.com/game/swjkja) | The build of OpenJK (Single Player) for Star Wars Jedi Knight: Jedi Academy has been updated to the latest code of the project |
-| 2026-11-09 | [Star Wars Jedi Knight II: Jedi Outcast updated](https://macsourceports.com/game/swjk2) | The build of OpenJO (OpenJK Project, Single Player) for Star Wars Jedi Knight II: Jedi Outcast has been updated to the latest code of the project |
-| 2026-11-09 | [Quake updated](https://macsourceports.com/game/quake) | The build of DarkPlaces for Quake has been updated to the latest code of the project |
 | 2026-11-09 | [Theme Hospital updated](https://macsourceports.com/game/themehospital) | The build of CorsixTH for Theme Hospital has been updated to version v0.70.2 of the project |
-| 2026-11-09 | [Quake III: Arena updated](https://macsourceports.com/game/quake3arena) | The build of Quake3e for Quake III: Arena has been updated to the latest code of the project |
+| 2026-11-09 | [AI 早报 2026-11-10：澳大利亚要给前沿 AI 立规矩：强制上报事故、设新监管机构，起因是 OpenAI 智能体闯进医保系统](https://www.jtxyh.com/daily/2026-11-10/) | 2026-11-10 AI 早报，共 18 条动态。澳大利亚总理阿尔巴尼斯 11 月 10 日宣布，政府接受 OpenAI 智能体事件快速审查的全部 18 条建议，将立法给在澳运营的前沿 AI 公司施加六项强制安全义务：全程安全控制、识别管理模型重大风险、接受独立评估、迅速上报事故、公开安全框架、遵… |
 | 2026-11-09 | [如何提升自己的稀缺性 ？](https://usmacd.com/cn/the_few_people/) | 哈佛商学院教授迈克尔·波特在《竞争优势》中提出一个概念：价值链分析。 他认为公司经营的每个环节都是为了创造价值，这些环节叠加在最终的产品上，形成了对客户的整体价值。 从整体价值中拆分出每个环节的价值，如果某个环节有独特的竞争力，并形成竞争优势，这就是稀缺性的体现。 每个行业内的职场人，都应该明白下面… |
 | 2026-11-09 | [R#127 逃往LLM](https://blog.sakanano.moe/journals/random_127) | 2026.11.3 ~ 2026.11.9 |
 | 2026-11-09 | [升级了 bearblog Lifetime License](https://blog.solazy.me/20261109/) | 纪念一下今天，第三次，也是最后一次续费 bearblog |
@@ -50,10 +59,9 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-11-09 | [Ambermoon updated](https://macsourceports.com/game/ambermoon) | The build of Ambermoon.net for Ambermoon has been updated to version v1.15.2 of the project |
 | 2026-11-09 | [MacOS配置《明日方舟：终末地》](https://mocusez.site/zh-CN/posts/fa89) | EndFields |
 | 2026-11-09 | [无常，离别](https://ssshooter.com/impermanence-and-parting/) | 外公被电动车撞倒，从急诊到 ICU 再到最后一面，只有四天。记下这四天里的慌乱、守候与告别，也记下突然懂了的事：多拍下身边的人，多留下些文字，珍惜眼前人从来不是一句轻飘飘的话。 |
-| 2026-11-09 | [Might and Magic VII: For Blood and Honor updated](https://macsourceports.com/game/mightandmagic7) | The build of OpenEnroth for Might and Magic VII: For Blood and Honor has been updated to the latest code of the project |
 | 2026-11-09 | [资金费率套利中的 “数据工程”](https://smallyu.net/2026/11/09/%E8%B5%84%E9%87%91%E8%B4%B9%E7%8E%87%E5%A5%97%E5%88%A9%E4%B8%AD%E7%9A%84%E6%95%B0%E6%8D%AE%E5%B7%A5%E7%A8%8B/) | 目前只做工程方面的总结，不做策略数据方面的复盘。这个项目是从一个小的页面开始，逐步发展形成了一套复杂的数据看板。在这个过程中踩了一些有意思的坑，这些坑都不高级，属于一看就知道很简单的问题，但为什么会遇到这么多低级问题呢？因为用了 AI。真正的关键不在于让 AI |
 | 2026-11-09 | [Minimal WebRTC handshake](https://blog.est.im/2026/stdin-20) | Author's note: drafted by Deepseek v4.1 Flash The 23-Byte WebRTC Handshake How small can a browser-to-browser WebRTC handshake get? I spent a weekend… |
-| 2026-11-09 | [录屏窗口看不见后，为什么画面会冻结](https://liudon.com/posts/screencapturekit-cross-space-freeze/) | 上一篇介绍了自己做的 Mac 录制工具 Gecko 。我希望它不仅能录制一个窗口，还能在录制时切到其他桌面，继续做自己的事情。 听起来没什么特别，实际做下来，最难解决的恰恰是这一点。 |
+| 2026-11-09 | [切换桌面后，录屏画面几乎冻结](https://liudon.com/posts/screencapturekit-cross-space-freeze/) | 上一篇介绍了自己做的 Mac 录制工具 Gecko 。我希望它不仅能录制一个窗口，还能在录制时切到其他桌面，继续做自己的事情。 听起来没什么特别，实际做下来，最难解决的恰恰是这一点。 |
 | 2026-11-09 | [油管：长视频封面编辑器 文字模板设置](https://dsx2016.com/youtube-long-form-video-thumbnail-editor-text-template-settings/) | ai图片编辑器 ai agent提示内置图片编辑器失败，上游切断了图片编辑的ai能力，本文只能考虑继续优化本地... 油管：长视频封面编辑器 文字模板设置 最先出现在 大师兄2016 。 |
 | 2026-11-09 | [和校园网斗智斗勇的日子（第11辑）](https://blog.mfwt.top/index.php/archives/1717/) | 哇，第11辑了，在建立这个专辑之初，根本没想到能写这么多。今天是11/09，又到了一年一度广东入冬的时候，外面开始刮大风，气温也下降。虽然过几天（也就是本周末）还是会重回30℃，但其实也持续不了... |
 | 2026-11-09 | [esp32 cyd 音频 音效 音乐 提示音 闹钟和番茄钟](https://dsx2016.com/esp32-cyd-audio-sound-effects-music-alerts-alarms-and-pomodoro-timer/) | 音效 目前esp32 cyd的时钟界面10个样式已经足够，以后有需要再设置别的时钟界面 现在优先尝试两个场景，... esp32 cyd 音频 音效 音乐 提示音 闹钟和番茄钟 最先出现在 大师兄2016 。 |
