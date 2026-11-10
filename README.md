@@ -27,6 +27,14 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-11-10 | [油管：视频创意和流量以及信息整理](https://dsx2016.com/youtube-video-ideas-traffic-and-information-curation/) | 油管算法 油管的算法很垃圾，既没有tk的大数据信息茧房的信息流，也没有普通产品用户画像的综合推荐 反而是牛头不... 油管：视频创意和流量以及信息整理 最先出现在 大师兄2016 。 |
+| 2026-11-10 | [比找回青春更重要的](https://www.hecaitou.com/2026/11/more-important-than-reclaiming-youth.html) | 我知道，99% 的好友对于我家里那一堆中古磁带随身听的看法就两个字：垃圾。也试过让他们用耳机重温一下上世纪好声音，不过看他们的表情我也很清楚，那是童年被逼无奈去吃芹菜或者胡萝卜时的脸。 有人提供了一种理论解释，把我这种人的行为称之为「补过童年」，或者「找回青春」。当初我喜欢的很多东西家里买不起，比如… |
+| 2026-11-10 | [职场上的前任](https://blog.solazy.me/20261110/) | 最近换工作，难免会亲身经历关于「职场前任」的话题 |
+| 2026-11-10 | [当我的 Mac 里塞进 50 个 MCP 和 70 个 Skill：用“元工具”把上下文砍掉 90% / Slashing 90% Context Overhead with Meta-Tools](https://blog.7caifei.com/2026/11/4c5464164e57.html) | 本文包含中文与英文两个版本。 This post includes both Chinese and English versions. 当我的 Mac 里塞进 50 个 MCP 和 70 个 |
+| 2026-11-10 | [救猫咪](https://mobius.blog/26112.html) | 收到 @碎言 的私信，是针对《狗不会说话但什么都懂》发表的评论，但是我依旧死性不改，不会重开评论区。 re 狗 […] |
+| 2026-11-10 | [大模型科普系列（二）：什么是解嵌入矩阵](https://depp.wang/2026/what-is-unembedding/) | 上一篇写了 什么是词向量 ，文字可以通过嵌入表变成一串数字，交给模型计算。这一篇接着写另一头：模型计算完以后，怎么决定接下来输出哪个 token？ 这里会用到「解嵌入矩阵」。先简单说，它是一张用来打分的权重表，把模型最后算出来的一个向量，变成词表里每个 token 各自的分数。后面再把分数转成概率，… |
+| 2026-11-10 | [Memos #2026-11-09](https://blog.itaober.com/memos/memo_20261109145252_4p67rz) | 22:52 国庆后的体重走势图，周一高开，周五低走，循环往复，周而复始... |
+| 2026-11-10 | [烧了一百亿Token后的Harness Agent交互感想](https://prologue.dev/blog/2026-how-do-i-use-deepseek-harness) | 模型能力已经超乎常人，但普通人仍然难以驾驭这种能力。 |
 | 2026-11-09 | [Hexen II updated](https://macsourceports.com/game/hexen2) | The build of uHexen2 (Hammer of Thyrion) for Hexen II has been updated to the latest code of the project |
 | 2026-11-09 | [OpenXcom updated](https://macsourceports.com/sourceport/openxcom) | The build of OpenXcom for the X-Com series of games has been updated to the latest code of the project\n\nhttps://macsourceports.com/sourceport/openxc… |
 | 2026-11-09 | [Star Wars Jedi Knight: Jedi Academy updated](https://macsourceports.com/game/swjkja) | The build of OpenJK (Single Player) for Star Wars Jedi Knight: Jedi Academy has been updated to the latest code of the project |
@@ -34,6 +42,8 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-11-09 | [Quake updated](https://macsourceports.com/game/quake) | The build of DarkPlaces for Quake has been updated to the latest code of the project |
 | 2026-11-09 | [Theme Hospital updated](https://macsourceports.com/game/themehospital) | The build of CorsixTH for Theme Hospital has been updated to version v0.70.2 of the project |
 | 2026-11-09 | [Quake III: Arena updated](https://macsourceports.com/game/quake3arena) | The build of Quake3e for Quake III: Arena has been updated to the latest code of the project |
+| 2026-11-09 | [如何提升自己的稀缺性 ？](https://usmacd.com/cn/the_few_people/) | 哈佛商学院教授迈克尔·波特在《竞争优势》中提出一个概念：价值链分析。 他认为公司经营的每个环节都是为了创造价值，这些环节叠加在最终的产品上，形成了对客户的整体价值。 从整体价值中拆分出每个环节的价值，如果某个环节有独特的竞争力，并形成竞争优势，这就是稀缺性的体现。 每个行业内的职场人，都应该明白下面… |
+| 2026-11-09 | [R#127 逃往LLM](https://blog.sakanano.moe/journals/random_127) | 2026.11.3 ~ 2026.11.9 |
 | 2026-11-09 | [升级了 bearblog Lifetime License](https://blog.solazy.me/20261109/) | 纪念一下今天，第三次，也是最后一次续费 bearblog |
 | 2026-11-09 | [2026 年9/10 月观影总结](https://www.ixiqin.com/2026/11/09/2026-09-movie-log/) | 9/10 月份还是看了不少的电影的，不过一直没顾上写总结；于是乎，继续写一下总结； 整个9/10月份一共看了 […] |
 | 2026-11-09 | [Quetoo updated](https://macsourceports.com/game/quetoo) | The build of Quetoo has been updated to version v1.0.145 of the project |
@@ -43,6 +53,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-11-09 | [Might and Magic VII: For Blood and Honor updated](https://macsourceports.com/game/mightandmagic7) | The build of OpenEnroth for Might and Magic VII: For Blood and Honor has been updated to the latest code of the project |
 | 2026-11-09 | [资金费率套利中的 “数据工程”](https://smallyu.net/2026/11/09/%E8%B5%84%E9%87%91%E8%B4%B9%E7%8E%87%E5%A5%97%E5%88%A9%E4%B8%AD%E7%9A%84%E6%95%B0%E6%8D%AE%E5%B7%A5%E7%A8%8B/) | 目前只做工程方面的总结，不做策略数据方面的复盘。这个项目是从一个小的页面开始，逐步发展形成了一套复杂的数据看板。在这个过程中踩了一些有意思的坑，这些坑都不高级，属于一看就知道很简单的问题，但为什么会遇到这么多低级问题呢？因为用了 AI。真正的关键不在于让 AI |
 | 2026-11-09 | [Minimal WebRTC handshake](https://blog.est.im/2026/stdin-20) | Author's note: drafted by Deepseek v4.1 Flash The 23-Byte WebRTC Handshake How small can a browser-to-browser WebRTC handshake get? I spent a weekend… |
+| 2026-11-09 | [录屏窗口看不见后，为什么画面会冻结](https://liudon.com/posts/screencapturekit-cross-space-freeze/) | 上一篇介绍了自己做的 Mac 录制工具 Gecko 。我希望它不仅能录制一个窗口，还能在录制时切到其他桌面，继续做自己的事情。 听起来没什么特别，实际做下来，最难解决的恰恰是这一点。 |
 | 2026-11-09 | [油管：长视频封面编辑器 文字模板设置](https://dsx2016.com/youtube-long-form-video-thumbnail-editor-text-template-settings/) | ai图片编辑器 ai agent提示内置图片编辑器失败，上游切断了图片编辑的ai能力，本文只能考虑继续优化本地... 油管：长视频封面编辑器 文字模板设置 最先出现在 大师兄2016 。 |
 | 2026-11-09 | [和校园网斗智斗勇的日子（第11辑）](https://blog.mfwt.top/index.php/archives/1717/) | 哇，第11辑了，在建立这个专辑之初，根本没想到能写这么多。今天是11/09，又到了一年一度广东入冬的时候，外面开始刮大风，气温也下降。虽然过几天（也就是本周末）还是会重回30℃，但其实也持续不了... |
 | 2026-11-09 | [esp32 cyd 音频 音效 音乐 提示音 闹钟和番茄钟](https://dsx2016.com/esp32-cyd-audio-sound-effects-music-alerts-alarms-and-pomodoro-timer/) | 音效 目前esp32 cyd的时钟界面10个样式已经足够，以后有需要再设置别的时钟界面 现在优先尝试两个场景，... esp32 cyd 音频 音效 音乐 提示音 闹钟和番茄钟 最先出现在 大师兄2016 。 |
@@ -61,7 +72,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-11-09 | [网站更新记录](https://wcowin.work/blog/category/%E7%BD%91%E7%AB%99%E6%9B%B4%E6%96%B0%E8%AE%B0%E5%BD%95/) | 网站更新记录 |
 | 2026-11-09 | [MyBlog](https://wcowin.work/blog/page/2/) | MyBlog |
 | 2026-11-09 | [走过坡道与海边 《玉响》圣地巡礼之尾道](https://www.wikimoe.com/post/b-to4i3n8v) | 2026年11月1日，在结束憧憬之路后我们来到了尾道，开启了尾道的旅程。 尾道站南口 对比动画，尾道车站整体翻新了一遍呢。 尾道高迪之家 尾道高迪之家（尾道ガウディハウス），正式名称为“旧和泉家别邸”，位于日本广岛县尾道市的山坡上，建于1933年，是一栋融合日式传统木构技艺与西式装饰元素的独特住宅。… |
-| 2026-11-09 | [烧了一百亿Token后的Harness Agent交互感想](https://prologue.dev/blog/2026-how-do-i-use-deepseek-harness) | 模型能力已经超乎常人，但普通人仍然难以驾驭这种能力。 |
+| 2026-11-09 | [统计下目前推荐的产品和人数： 29, D](https://versun.me/blog/tweet-2119589775489507532) | Versun 还是准备迁出 Hermes 了，各位有什么开源平替推荐的 要自己用过的，不要道听途说。。。。 统计下目前推荐的产品和人数： 29, DeepSeek Harness 12, Pi 12, Hermes 9, Grok Bot 7, OpenClaw 6, OpenBot 6, Maus… |
 | 2026-11-08 | [苏苏收集的各种人生指南合集（202611.08）](https://blog.brmys.cn/life-guides) | 关联主题:: 同级:: 2026-11-08_星期日 下一级:: 1、面向大学生和初入职场者的人情世故指南 开源地址： github.com/kkk-bot/HowToGetAlong 网址： kkk-bot.github.io/HowToGetAlong/ 2、高性价比职场指南 github.co… |
 | 2026-11-08 | [Heroes of Might and Magic II updated](https://macsourceports.com/game/homm2) | The build of fheroes2 for Heroes of Might and Magic II has been updated to version 1.1.18 of the project |
 | 2026-11-08 | [经典bug回顾：Windows中文路径编码问题](https://blog.mzh.ren/zh/posts/2026/11/unicode-dir-issue/) | 识幕 SeeSub — 一站式字幕工作台: https://seesub.com/ 上周末发布了一个做字幕相关的 App，叫做“识幕”。发布以来广受好评，但同样也反馈了很多 bug。 其中一个 bug 是，明明模型就在指定目录里。目录名字和位置都正确，里面的模型文件也是存在的，但程序就是死活找不到该… |

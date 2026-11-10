@@ -1,5 +1,61 @@
 [
   {
+    "title": "油管：视频创意和流量以及信息整理",
+    "url": "https://dsx2016.com/youtube-video-ideas-traffic-and-information-curation/",
+    "date": "2026-11-10T04:48:01Z",
+    "description": "油管算法 油管的算法很垃圾，既没有tk的大数据信息茧房的信息流，也没有普通产品用户画像的综合推荐 反而是牛头不... 油管：视频创意和流量以及信息整理 最先出现在 大师兄2016 。",
+    "source_root_domain": "dsx2016.com"
+  },
+  {
+    "title": "比找回青春更重要的",
+    "url": "https://www.hecaitou.com/2026/11/more-important-than-reclaiming-youth.html",
+    "date": "2026-11-10T04:18:35Z",
+    "description": "我知道，99% 的好友对于我家里那一堆中古磁带随身听的看法就两个字：垃圾。也试过让他们用耳机重温一下上世纪好声音，不过看他们的表情我也很清楚，那是童年被逼无奈去吃芹菜或者胡萝卜时的脸。 有人提供了一种理论解释，把我这种人的行为称之为「补过童年」，或者「找回青春」。当初我喜欢的很多东西家里买不起，比如说 一台 Sony 的 Walkman可能要普通人家一个月的工资，甚至是几个月的工资。求而不得，就落下了心病。等到自己终于成年，终于有了余钱，就忍不住要恶补，报复性补偿童年的自己，在成人之后试图体会平行时空里那个买得起的自己的另外一种可能人生。 他们管这个叫「自我疗愈」。 我不觉得我有什么需要疗愈的地方。那时候家家都很穷，我又住在军营里，东家和西家没有什么不同，打开门是同样的房间，进了房间是同样一套公家配发的粗笨家具，上面还用白油漆画了编号。我习惯了没有，习惯了匮乏，这没什么的。而且成人之后谈自己童年的艰难和窘迫，对父母而言听起来更像是一种批判指控而非单纯回忆。疗愈？为什么要难为老人家呢？ 但我在把玩这些中古电子垃圾的时候的确有过一些想法，就像是那种面包，可以一层层撕开。 第一层我想到的是「",
+    "source_root_domain": "hecaitou.com"
+  },
+  {
+    "title": "职场上的前任",
+    "url": "https://blog.solazy.me/20261110/",
+    "date": "2026-11-10T03:00:00Z",
+    "description": "最近换工作，难免会亲身经历关于「职场前任」的话题",
+    "source_root_domain": "solazy.me"
+  },
+  {
+    "title": "当我的 Mac 里塞进 50 个 MCP 和 70 个 Skill：用“元工具”把上下文砍掉 90% / Slashing 90% Context Overhead with Meta-Tools",
+    "url": "https://blog.7caifei.com/2026/11/4c5464164e57.html",
+    "date": "2026-11-10T03:00:00Z",
+    "description": "本文包含中文与英文两个版本。 This post includes both Chinese and English versions. 当我的 Mac 里塞进 50 个 MCP 和 70 个",
+    "source_root_domain": "7caifei.com"
+  },
+  {
+    "title": "救猫咪",
+    "url": "https://mobius.blog/26112.html",
+    "date": "2026-11-10T02:34:00Z",
+    "description": "收到 @碎言 的私信，是针对《狗不会说话但什么都懂》发表的评论，但是我依旧死性不改，不会重开评论区。 re 狗 […]",
+    "source_root_domain": "mobius.blog"
+  },
+  {
+    "title": "大模型科普系列（二）：什么是解嵌入矩阵",
+    "url": "https://depp.wang/2026/what-is-unembedding/",
+    "date": "2026-11-10T01:36:45Z",
+    "description": "上一篇写了 什么是词向量 ，文字可以通过嵌入表变成一串数字，交给模型计算。这一篇接着写另一头：模型计算完以后，怎么决定接下来输出哪个 token？ 这里会用到「解嵌入矩阵」。先简单说，它是一张用来打分的权重表，把模型最后算出来的一个向量，变成词表里每个 token 各自的分数。后面再把分数转成概率，选择下一个 token。 我一开始不太理解，既然嵌入表已经存着每个 token 对应的向量，那模型算出一个向量后，反过来找到对应的文字不就行了吗？为什么还要有解嵌入这一步？",
+    "source_root_domain": "depp.wang"
+  },
+  {
+    "title": "Memos #2026-11-09",
+    "url": "https://blog.itaober.com/memos/memo_20261109145252_4p67rz",
+    "date": "2026-11-10T00:00:00Z",
+    "description": "22:52 国庆后的体重走势图，周一高开，周五低走，循环往复，周而复始...",
+    "source_root_domain": "itaober.com"
+  },
+  {
+    "title": "烧了一百亿Token后的Harness Agent交互感想",
+    "url": "https://prologue.dev/blog/2026-how-do-i-use-deepseek-harness",
+    "date": "2026-11-10T00:00:00Z",
+    "description": "模型能力已经超乎常人，但普通人仍然难以驾驭这种能力。",
+    "source_root_domain": "prologue.dev"
+  },
+  {
     "title": "Hexen II updated",
     "url": "https://macsourceports.com/game/hexen2",
     "date": "2026-11-09T22:31:27Z",
@@ -47,6 +103,20 @@
     "date": "2026-11-09T17:12:33Z",
     "description": "The build of Quake3e for Quake III: Arena has been updated to the latest code of the project",
     "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "如何提升自己的稀缺性 ？",
+    "url": "https://usmacd.com/cn/the_few_people/",
+    "date": "2026-11-09T16:00:00Z",
+    "description": "哈佛商学院教授迈克尔·波特在《竞争优势》中提出一个概念：价值链分析。 他认为公司经营的每个环节都是为了创造价值，这些环节叠加在最终的产品上，形成了对客户的整体价值。 从整体价值中拆分出每个环节的价值，如果某个环节有独特的竞争力，并形成竞争优势，这就是稀缺性的体现。 每个行业内的职场人，都应该明白下面几个问题： 1）你所在行业",
+    "source_root_domain": "usmacd.com"
+  },
+  {
+    "title": "R#127 逃往LLM",
+    "url": "https://blog.sakanano.moe/journals/random_127",
+    "date": "2026-11-09T15:53:00Z",
+    "description": "2026.11.3 ~ 2026.11.9",
+    "source_root_domain": "sakanano.moe"
   },
   {
     "title": "升级了 bearblog Lifetime License",
@@ -110,6 +180,13 @@
     "date": "2026-11-09T08:36:00Z",
     "description": "Author's note: drafted by Deepseek v4.1 Flash The 23-Byte WebRTC Handshake How small can a browser-to-browser WebRTC handshake get? I spent a weekend measuring it in Chromium 157 (Microsoft Edge) and Safari 26.2. The short answer: 23 bytes per direction, if you're willing to make a few very specific assumptions. The 2015 answer was 106 characters In 2015, Philipp Hancke wrote a great piece called The Minimum Viable SDP . The question was simple: how much do two browsers actually need to exchange",
     "source_root_domain": "feedburner.com"
+  },
+  {
+    "title": "录屏窗口看不见后，为什么画面会冻结",
+    "url": "https://liudon.com/posts/screencapturekit-cross-space-freeze/",
+    "date": "2026-11-09T08:11:41Z",
+    "description": "上一篇介绍了自己做的 Mac 录制工具 Gecko 。我希望它不仅能录制一个窗口，还能在录制时切到其他桌面，继续做自己的事情。 听起来没什么特别，实际做下来，最难解决的恰恰是这一点。",
+    "source_root_domain": "liudon.com"
   },
   {
     "title": "油管：长视频封面编辑器 文字模板设置",
@@ -238,11 +315,11 @@
     "source_root_domain": "wikimoe.com"
   },
   {
-    "title": "烧了一百亿Token后的Harness Agent交互感想",
-    "url": "https://prologue.dev/blog/2026-how-do-i-use-deepseek-harness",
-    "date": "2026-11-09T00:00:00Z",
-    "description": "模型能力已经超乎常人，但普通人仍然难以驾驭这种能力。",
-    "source_root_domain": "prologue.dev"
+    "title": "统计下目前推荐的产品和人数： 29, D",
+    "url": "https://versun.me/blog/tweet-2119589775489507532",
+    "date": "2026-11-09T00:35:57Z",
+    "description": "Versun 还是准备迁出 Hermes 了，各位有什么开源平替推荐的 要自己用过的，不要道听途说。。。。 统计下目前推荐的产品和人数： 29, DeepSeek Harness 12, Pi 12, Hermes 9, Grok Bot 7, OpenClaw 6, OpenBot 6, MausBot / OpenMausBot 5, OMP 4, Cindy 4, DS Bot 4, Codex 4, Claude Code 3, Muse / OpenMuse 3, nanobot",
+    "source_root_domain": "versun.me"
   },
   {
     "title": "苏苏收集的各种人生指南合集（202611.08）",
