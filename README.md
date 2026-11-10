@@ -27,6 +27,13 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-11-09 | [Hexen II updated](https://macsourceports.com/game/hexen2) | The build of uHexen2 (Hammer of Thyrion) for Hexen II has been updated to the latest code of the project |
+| 2026-11-09 | [OpenXcom updated](https://macsourceports.com/sourceport/openxcom) | The build of OpenXcom for the X-Com series of games has been updated to the latest code of the project\n\nhttps://macsourceports.com/sourceport/openxc… |
+| 2026-11-09 | [Star Wars Jedi Knight: Jedi Academy updated](https://macsourceports.com/game/swjkja) | The build of OpenJK (Single Player) for Star Wars Jedi Knight: Jedi Academy has been updated to the latest code of the project |
+| 2026-11-09 | [Star Wars Jedi Knight II: Jedi Outcast updated](https://macsourceports.com/game/swjk2) | The build of OpenJO (OpenJK Project, Single Player) for Star Wars Jedi Knight II: Jedi Outcast has been updated to the latest code of the project |
+| 2026-11-09 | [Quake updated](https://macsourceports.com/game/quake) | The build of DarkPlaces for Quake has been updated to the latest code of the project |
+| 2026-11-09 | [Theme Hospital updated](https://macsourceports.com/game/themehospital) | The build of CorsixTH for Theme Hospital has been updated to version v0.70.2 of the project |
+| 2026-11-09 | [Quake III: Arena updated](https://macsourceports.com/game/quake3arena) | The build of Quake3e for Quake III: Arena has been updated to the latest code of the project |
 | 2026-11-09 | [升级了 bearblog Lifetime License](https://blog.solazy.me/20261109/) | 纪念一下今天，第三次，也是最后一次续费 bearblog |
 | 2026-11-09 | [2026 年9/10 月观影总结](https://www.ixiqin.com/2026/11/09/2026-09-movie-log/) | 9/10 月份还是看了不少的电影的，不过一直没顾上写总结；于是乎，继续写一下总结； 整个9/10月份一共看了 […] |
 | 2026-11-09 | [Quetoo updated](https://macsourceports.com/game/quetoo) | The build of Quetoo has been updated to version v1.0.145 of the project |
@@ -59,6 +66,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-11-08 | [Heroes of Might and Magic II updated](https://macsourceports.com/game/homm2) | The build of fheroes2 for Heroes of Might and Magic II has been updated to version 1.1.18 of the project |
 | 2026-11-08 | [经典bug回顾：Windows中文路径编码问题](https://blog.mzh.ren/zh/posts/2026/11/unicode-dir-issue/) | 识幕 SeeSub — 一站式字幕工作台: https://seesub.com/ 上周末发布了一个做字幕相关的 App，叫做“识幕”。发布以来广受好评，但同样也反馈了很多 bug。 其中一个 bug 是，明明模型就在指定目录里。目录名字和位置都正确，里面的模型文件也是存在的，但程序就是死活找不到该… |
 | 2026-11-08 | [苏苏整理的思维模型工具箱合集（2026.11.08）](https://blog.brmys.cn/mental-model-toolbox) | 关联主题:: 同级:: 2026-11-08_星期日 下一级:: 1、100个思维工具箱 think.knowledgefxg.com/ 把100个模型分成八大类，配了一份一目了然的完整目录，系统地读或者按需查都很方便，方便你套用到生活与工作中的方方面面，支持中英文切换阅读。你最近要是卡在什么地方，… |
+| 2026-11-08 | [AI 早报 2026-11-09：美团开源龙猫 LongCat-2.5：1.6 万亿参数模型，MIT 协议随便商用](https://www.jtxyh.com/daily/2026-11-09/) | 2026-11-09 AI 早报，共 12 条动态。11 月 9 日，美团宣布 1.6 万亿参数原生多模态模型 LongCat-2.5 正式开源，采用 MIT 协议，支持商用推理部署与二次训练，无需额外授权。据彭博社报道，谷歌将推出两款新 TPU：主打机密计算的 8tx 和面向超长上下文的 8i… |
 | 2026-11-08 | [认得出熟客的老板](https://blog.solazy.me/20261108/) | 这个话题其实很早就想写了 |
 | 2026-11-08 | [《关键时刻行动手册》01 遇到困境怎么办？](https://blog.brmys.cn/4-Archives/%E8%AF%AD%E9%9B%80%E7%9F%A5%E8%AF%86%E5%BA%93-2025.08.22/%E8%8B%8F%E8%8B%8F%E7%9A%84%E8%BE%93%E5%87%BA%E3%80%90Output%E3%80%91/002-%E8%AF%BE%E7%A8%8B%E7%AC%94%E8%AE%B0/002-%E5%90%B4%E5%86%9B%E6%9D%A5%E4%BF%A12/%E3%80%8A%E5%85%B3%E9%94%AE%E6%97%B6%E5%88%BB%E8%A1%8C%E5%8A%A8%E6%89%8B%E5%86%8C%E3%80%8B01-%E9%81%87%E5%88%B0%E5%9B%B0%E5%A2%83%E6%80%8E%E4%B9%88%E5%8A%9E%EF%BC%9F) | 01 遇到困境怎么办？.mp3 01 遇到困境怎么办？.pdf 笔记： 遇到困境时的三个错误做法： 1、第⼀种是赌徒⼼理： 当⼀个⼈开始以赌徒⼼理追求⽬标时，也会吸引来那些利⽤他的⼼理压⼒、迎合他的需要，趁机赚便宜的⼈。 2、第⼆种错误的做法是在成败还没有完全确定时，⼀看苗头不对，马上改变策略。 今… |
 | 2026-11-08 | [《吴军来信2》学习目录](https://blog.brmys.cn/4-Archives/%E8%AF%AD%E9%9B%80%E7%9F%A5%E8%AF%86%E5%BA%93-2025.08.22/%E8%8B%8F%E8%8B%8F%E7%9A%84%E8%BE%93%E5%87%BA%E3%80%90Output%E3%80%91/002-%E8%AF%BE%E7%A8%8B%E7%AC%94%E8%AE%B0/002-%E5%90%B4%E5%86%9B%E6%9D%A5%E4%BF%A12/%E3%80%8A%E5%90%B4%E5%86%9B%E6%9D%A5%E4%BF%A12%E3%80%8B%E5%AD%A6%E4%B9%A0%E7%9B%AE%E5%BD%95) | 发刊词-用一年时间，重建底层逻辑 《关键时刻行动手册》01 遇到困境怎么办？. |
@@ -156,7 +164,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-11-05 | [esp32：使用esp32cam结合万向双头夹正式开始电动自行车充电检测](https://dsx2016.com/using-an-esp32-cam-paired-with-a-universal-dual-head-clamp-we-are-officially-beginning-the-process-of-monitoring-electric-bicycle-charging/) | 万向双头夹 前几天到了一个万向夹，但是是磁吸底座，需要有铁的物质 经过测试，在置物架上的铁片上可以有一定吸力，... esp32：使用esp32cam结合万向双头夹正式开始电动自行车充电检测 最先出现在 大师兄2016 。 |
 | 2026-11-05 | [omarchy 适配 mac 电脑了，适](https://versun.me/blog/tweet-2118287032086822962) | DHH Omarchy 4.5 will ship with full compatibility for M1, M2, M3, and Neo! Incredible achievement from the Omarchy M team. The installer makes this so… |
 | 2026-11-05 | [剑流德钟，三把壶排排队](https://gugegt.com/20261105-jianliu-dezhong.html) | 三把壶排排队，拍了四张照片。 都是德钟，都是剑流，出自同一位老师。年份不同，泥料不同，用的年头也不同。 |
-| 2026-11-05 | [Quake III: Arena updated](https://macsourceports.com/game/quake3arena) | The build of ioquake3 for Quake III: Arena has been updated to the latest code of the project |
 | 2026-11-05 | [上海今年的秋天怎么这么长，我换洗的秋装都](https://versun.me/blog/tweet-2118254605629055259) | 上海今年的秋天怎么这么长，我换洗的秋装都没几套， 往年一周左右就入冬了，秋装根本穿不了几次 |
 | 2026-11-05 | [小米手机无root通过ADB卸载SystemHelper程序](https://www.cheshirex.com/11613.html) | 现在手机想要解BL锁或者root都比较难，最近关于SystemHelper程序的讨论比较多。下面说下怎么无ro […] |
 | 2026-11-05 | [tcpdump 抓包与 Wireshark 分析实战指南](https://blog.rustfisher.com/Network/tcpdump-wireshark-use/) | 实际项目中，我们常常会遇到各种扑朔迷离的网络通信问题。在 VoIP、SIP 语音呼叫或 WebRTC 音视频对讲中，对端提示“未检测到按键（DTMF）”或出现音频卡顿、杂音，难以确认 RTP/UDP 报文是否完整到达。面对自研的私有二进制协议或 IoT 设备通信，抓不到明文 |
@@ -213,35 +220,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-11-03 | [我对批判性思维的理解](https://depp.wang/2026/critical-thinking/) | 以前听过苏德超在一席的演讲 《咱们食堂的菜不好吃》 ，讲的是批判性思考。听完以后，一直想写一下自己对批判性思维的理解，但一直没有动笔，今天终于写了。 最开始，我觉得批判性思维可能更接近辩证性思维，看一个事情不能只看一面。不过，顺着演讲里的例子拆下来，我对批判性思维慢慢有了更具体的理解。 比如别人说了… |
 | 2026-11-03 | [Memos #2026-11-02](https://blog.itaober.com/memos/memo_20261102013435_lzys9z) | 09:37 任何嘉宾来，都会被得体的风格带偏。 21:02 正好今天学到一个新词： Status Game（地位游戏） ，指围绕社会地位、排名和声望展开的竞争与博弈。 身处社会之中，似乎很难完全摆脱对名利的追逐、对他人的比较，以及对外界认可的渴望。结合近期身边人的一些状态，也有了些感触。 人在社会，… |
 | 2026-11-03 | [购入一副新耳机](https://blog.chen-di.com/archive/gou-ru-yi-fu-xin-er-ji/) | 新买的耳机使用体验还不错，虽然价格便宜，但音质和舒适度都让我满意。 |
-| 2026-11-02 | [浙大这是要步港大的后尘吗 扒了下代码，移](https://versun.me/blog/tweet-2117389058901254646) | meng shao 浙大团队发表了一份开源个人 Agent 系统报告，以 Meta Muse 为对照，定义「个人 Agent」该长什么样，还开源了他们的 nanoMuse 论文在这：https://huggingface.co/papers/2610.08699 项目在这：https://nanom… |
-| 2026-11-02 | [从多个 AI 窗口到一个协作团队：我的 Herdr + SSH 分层架构实践](https://ghyghoo8.github.io/2026/11/03/2026-11-03-%E4%BB%8E%E5%A4%9A%E4%B8%AAAI%E7%AA%97%E5%8F%A3%E5%88%B0%E5%8D%8F%E4%BD%9C%E5%9B%A2%E9%98%9F-Herdr%E4%B8%8ESSH%E5%88%86%E5%B1%82%E6%9E%B6%E6%9E%84%E5%AE%9E%E8%B7%B5/) | “报名页已经能打开了，演示视频现在可以录吗？”这是个进度问题。最了解页面是否定稿的人是项目负责人；如果 AI 收到问题就重新生成页面，反而多做了一份没人要的工作。 所以，我给多 Agent 团队加了一项分工： 云端Dot 接需求，Mac 协调员找人并跟进，项目负责人作判断，需要动手时才交给 Work… |
-| 2026-11-02 | [AI 早报 2026-11-03：Anthropic 修订招股书：未来模型或很快达到其 AI 研发加速阈值](https://www.jtxyh.com/daily/2026-11-03/) | 2026-11-03 AI 早报，共 12 条动态。Anthropic 11 月 2 日提交的修订版招股书称，用 AI 加速研发可能使模型能力进步快于安全、对齐和安保措施的跟进。11 月 2 日，美团发布面向长程智能体任务的原生多模态模型 LongCat-2.5，总参数 1.6 万亿，每个 toke… |
-| 2026-11-02 | [AI in the content ecosystem](https://blog.bensontech.dev/posts/AI-in-content-ecosystem/) | AI will have a huge impact on the content ecosystem. In fact, it already has Media Look back at the IT revolution on the content ecosystem. Before the… |
-| 2026-11-02 | [R#126 滴————](https://blog.sakanano.moe/journals/random_126) | 2026.10.27 ~ 2026.11.2 |
-| 2026-11-02 | [我的差旅打车法则](https://blog.solazy.me/20261102/) | 最近打车变得多了起来 |
-| 2026-11-02 | [瞎扯谈](http://soap09.cn/articles/2026/11/02/1793627893103.html) |  |
-| 2026-11-02 | [好，这就去重新下载，记不清这是我第几次重](https://versun.me/blog/tweet-2117220385947279712) | yetone 第一轮测试，我就是将原推里的屏幕截图分别给了它们，让它们找到该壁纸的最高清版本，结果如下（图片也按文字的顺序展示各个 Agent 的结果）： 1. Grok bot：用最快的速度找到了推特上的原图，但大小只有 736×736，直接返回给我结束了。 2. Muse：找了好久好久，翻了很多… |
-| 2026-11-02 | [红果是不是来推做推广了，我都卸载好久了，](https://versun.me/blog/tweet-2117219191476420657) | yihong0618 如果只推荐一个短剧我也推荐《拉黑遇真爱》 https://twitter.com/xuanwo/status/2116861654843740282 红果是不是来推做推广了，我都卸载好久了，今天又下载回来了，脑洞真大！好看 |
-| 2026-11-02 | [esp32 cyd mosfet开关模块 结合home assistant 云养鱼 油管无人直播](https://dsx2016.com/esp32-cyd-mosfet-switching-module-integrated-with-home-assistant-for-remote-fish-keeping-and-automated-youtube-live-streaming/) | 无人直播 昨天找推拉式电磁铁，准备尝试蓝牙无线DIY老式门锁开关，但是没有找到 早上起来就没有继续折腾的性质，... esp32 cyd mosfet开关模块 结合home assistant 云养鱼 油管无人直播 最先出现在 大师兄2016 。 |
-| 2026-11-02 | [走大朝台我在想啥？三](https://1900.live/zou-da-zhao-tai-wo-zai-xiang-sha-san/) | null 头一晚虽然很累，但是睡的很晚，客栈老板提供的这个房间里的床是硬板床，中途醒来好几次，很是折磨。 但是第二天依旧早早就起来了，客栈也没有早餐提供，不过即便提供我也不太想吃，和徐哥洗漱完商量了一下，一人在小卖部买了一桶泡面对付对付得了，要求已经降的非常低了。 因为我们离第二天的徒步起点很远，同… |
-| 2026-11-02 | [2026.9 投资收入以及目前的策略](https://www.p1gd0g.cc/blog/117/) |  |
-| 2026-11-02 | [Vite 打包产物在旧版手机 Edge/WebView 样式丢失排查与降级修复](https://blog.rustfisher.com/Web/vite-legacy-webview-style-loss-fix/) | 现象 在开发 webtools 时，用电脑浏览器和新版手机 |
-| 2026-11-02 | [从看得懂到听得懂：我为什么做了 LearnBit](https://lililib.github.io/Learnbit%20%E5%BC%80%E5%8F%91%E6%97%A5%E5%BF%97/) | 我背过很多单词，词汇量还是不错的，也就是说，英文文章我基本能看懂意思，遇到不认识的单词也能八九不离十地猜出大意。 考研过程中，我英文阅读题满分，但是听力特别差，可以说是完全听不懂。虽然没有考核口语，但是我知道口语多半也没戏。 前些日子想进外企，为 |
-| 2026-11-02 | [辐射转移与多方模型](https://physnya.top/astro-physics/lesson-6-polytropic-model/) | 辐射转移方程 用 S ν = j ν / k ν S\nu=j\nu/k_\nu S ν ​ = j ν ​ / k ν ​ 描述介质发射和吸收系数之比，称为源函数， |
-| 2026-11-02 | [2026.11.1](https://www.justzht.com/2026-11-1/) | 十月结束了。 肇事逃逸的事情结束了，保险公司最后付清了所有我在诉讼里要求的金额。我得知支票寄出的消息后 |
-| 2026-11-02 | [关于 Personal Agent 商业](https://versun.me/blog/tweet-2117123682544083354) | 关于 Personal Agent 商业化的冷思考 最近 Bot 赛道异常火热。从大厂的 Meta Muse、OpenAI Dot、Grok Bot、Claude Duet，到社区里五花八门的开源项目，让人眼花缭乱，不过出于隐私顾虑，加上我自己搭建的 Hermes Agent 用起来一直很顺手，这些… |
-| 2026-11-02 | [关于 Personal Agent 商业化的冷思考](https://versun.me/blog/thoughts-on-personal-agent) | 最近 Bot 赛道异常火热。从大厂的 Meta Muse、OpenAI Dot、Grok Bot、Claude Duet，到社区里五花八门的开源项目，让人眼花缭乱，不过出于隐私顾虑，加上我自己搭建的 Hermes Agent 用起来一直很顺手，这些热门产品我其实一个都没碰过。 直到上周，老婆让我也给… |
-| 2026-11-02 | [ber，打哪儿来的「知识」？](https://www.hecaitou.com/2026/11/blog-post.html) | 我注意到已经有读者在留言里向其他人给出减肥建议：土豆煮好放冰箱冷藏，用它替代米饭日常食用，一个月可以减 XX 斤....... 一点不意外，类似的内容最近我在网上频繁撞见。各种 App 里不时就会蹦出「凉土豆」、「冷土豆 」字样，我睡觉了都能梦见满天土豆在飞。不信的话，你可以回忆一下，去年到今年上半… |
-| 2026-11-02 | [青萍空气检测仪改造记：用 AI 给它加个新页面](https://liudon.com/posts/qingping-cgs1-custom-qml-page/) | 前言 最近看到不少人用 AI 折腾旧硬件，各种玩法看得我也有点手痒。 突然想到家里有一台闲置了好久的青萍空气检测仪，官方系统也很久没有更新过了，正好拿来折腾一下。 |
-| 2026-11-02 | [Gemini Argon 的文学能力太牛](https://versun.me/blog/tweet-2117093426831499284) | Gemini Argon 的文学能力太牛了，2倍 Gemini 3.8 flash，3倍 opus 5.5，毫不夸张 |
-| 2026-11-02 | [周记 3，写代码就像装家具](https://zhangke.space/%e5%91%a8%e8%ae%b0-3%ef%bc%8c%e5%86%99%e4%bb%a3%e7%a0%81%e5%b0%b1%e5%83%8f%e8%a3%85%e5%ae%b6%e5%85%b7/?utm_source=rss&utm_medium=rss&utm_campaign=%25e5%2591%25a8%25e8%25ae%25b0-3%25ef%25bc%258c%25e5%2586%2599%25e4%25bb%25a3%25e7%25a0%2581%25e5%25b0%25b1%25e5%2583%258f%25e8%25a3%2585%25e5%25ae%25b6%25e5%2585%25b7) | 最近两周太忙了，上周都没写周记，忙的原因是因为最近开了个新坑，是一个桌面端的开发者工具，也是因为自己平时工作经 […] The post 周记 3，写代码就像装家具 first appeared on 张可的博客 . |
-| 2026-11-02 | [现在的 Bot/Agent 起手就是一个](https://versun.me/blog/tweet-2117090915265487179) | 现在的 Bot/Agent 起手就是一个聊天框 没人觉得这种交互方式非常低效吗 |
-| 2026-11-02 | [年化 15% 的投资组合，每天看一次，赢面只有 53%](https://koukyo.site/posts/observation-frequency-noise/) | 大一开始投资，每天刷支付宝看涨跌，焦虑得不行。看随机游走的傻瓜这本书才意识到，年化15%的稳定组合每天看也有九成噪音 |
-| 2026-11-02 | [乐园](https://mobius.blog/26034.html) | 既然聊到了童年，那就继续聊下去。 另一个有关童年的趣事，其实被我伪装成了一个“观察”。 最近我一直在聊“接手” […] |
-| 2026-11-02 | [最近惦念 20261017](https://z.arlmy.me/posts/TILs/thoughts/20261017_Recently/) | 「娇气点就娇气点。」 |
-| 2026-11-02 | [Toots 443 2026 Oct.25 - Oct.31](https://z.arlmy.me/posts/MastodonArchives/2026/MastodonTootsArchives_20261031/) | 「活到两百岁好了。」 |
-| 2026-11-02 | [Toots 442 2026 Oct.18 - Oct.24](https://z.arlmy.me/posts/MastodonArchives/2026/MastodonTootsArchives_20261024/) | 「相识恨晚熟人局。」 |
-| 2026-11-02 | [AI 科普系列（一）：什么是词向量](https://depp.wang/2026/what-are-word-vectors/) | 平时用 AI，经常会看到「词向量」「嵌入」「向量化」这些词。大模型处理文字要用到它们，给自己的 Obsidian 做知识库，也会遇到向量化这一步。 准备写几篇 AI 相关的科普文章，第一篇先分享一下词向量：文字怎么变成一串数字，这串数字又有什么用。用电脑硬件举个例子，会更容易理解。 拿我比较熟悉的电… |
 
 ## Vibe Coding
 
