@@ -27,6 +27,8 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-11-10 | [杯子](https://anotherdayu.com/7200/) | 新研究所的杯子上，印的不是研究所的 Logo，而是建筑团队的合影和建造现场。 一开始有点不理解，毕竟以前学校和研究所的杯子上，印的通常都是自己的 Logo。 但转念一想，又觉得这个设计挺细心、温暖。 我们每天在这栋楼里工作，却很少有机会见到当初建造它的人。这栋建筑可能是他们很长时间的劳动成果。 这些… |
+| 2026-11-10 | [带刺大黄鱼如何帮我反思软件？](https://www.geedea.pro/article/openbsd/) | 我在《 爱拯救之 》一文中提到，博客现在运行在安装 OpenBSD 的操作系统上，而不是 Linux。我本想尝试更多的 BSD 系统，可我把 FreeBSD 的 .iso 挂载到 VPS 之后，在 VNC 里捣鼓了半天也没把系统安装好。最后还是换回 OpenBSD，在十分钟内就完成了安装。 Free… |
 | 2026-11-10 | [iOS Backup v1.5.6 更新啦](https://razeen.me/posts/ios-backup-v1-5-6-update/) | iOS Backup 已更新到 v1.5.6，新增历史备份保留与打包下载、离线查看备份、手动停止任务和任务记录，并改进了通知、翻译及自定义时区支持。 |
 | 2026-11-10 | [聊聊我用过的两款 AI 记忆系统](https://versun.me/blog/from-nowledge-mem-to-hindsight) | 最近，我把 Agent 记忆系统从 Nowledge Mem 换到了 Hindsight。 趁这个机会，简单对比下两者的使用感受和区别。 特性 Nowledge Mem 从图数据库和人机交互切入，想做连通所有工具的个人认知中枢。它有全平台桌面端、CLI、浏览器插件和 MCP 等全家桶，定位是「个人… |
 | 2026-11-10 | [AI本地大模型3B左右真实使用场景和模型推荐](https://dsx2016.com/real-world-use-cases-and-model-recommendations-for-local-ai-models-approx-3b-parameters/) | 本文内容 核心内容 HyperFlow H3 Flash HyperFlow H3 Flash 是什么？ Hy... AI本地大模型3B左右真实使用场景和模型推荐 最先出现在 大师兄2016 。 |
