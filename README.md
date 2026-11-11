@@ -27,9 +27,16 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-11-11 | [Might and Magic VII: For Blood and Honor updated](https://macsourceports.com/game/mightandmagic7) | The build of OpenEnroth for Might and Magic VII: For Blood and Honor has been updated to the latest code of the project |
+| 2026-11-11 | [Xash3D FWGS updated](https://macsourceports.com/sourceport/xash3d-fwgs) | The build of Xash3D FWGS for the Half-Life series of games has been updated to the latest code of the project\n\nhttps://macsourceports.com/sourceport… |
+| 2026-11-11 | [406MHz 车载电台在何方：共用对讲机现状与选购建议](https://blog.mfwt.top/index.php/archives/1732/) | 已经有超过半年的时间，没有在站点上探讨过关于406MHz 共用对讲机这种合法大功率的对讲机类型了。这主要是没有什么太好的话题，毕竟介绍一下技术细节，介绍一下适用人群，也就这样过去了。不过自从最近... |
+| 2026-11-11 | [前端网页去除AI味的开源项目，提供给AI Agent使用，比如cursor](https://dsx2016.com/open-source-projects-for-removing-the-ai-generated-feel-from-web-contentdesigned-for-use-by-ai-agents-such-as-cursor/) | 内容概览 本文内容 Gemini 4 Carbon 2026年11月10日Gemini 4 Carbon发布 ... 前端网页去除AI味的开源项目，提供给AI Agent使用，比如cursor 最先出现在 大师兄2016 。 |
+| 2026-11-11 | [评论区换了个新家](https://hux.ink/posts/new-comment/) | 十月底，把博客的评论系统换掉了。 原来用的是 Twikoo，部署在群晖 Docker 里。用了挺长时间，满足需求但不完美，一是太依赖家里的 NAS 的稳定运行，二是哔哔条目被评论后无法准确定位。博客本身早已实现静态托管，唯独评论系统还得靠家里的设备维持，想想还是决定把它换掉。 于是在 AI 的帮助下… |
+| 2026-11-11 | [Gecko：macOS 录屏工具开发实践](https://liudon.com/guides/gecko/) | Gecko 是我开发的一款 macOS 原生录屏工具，基于 ScreenCaptureKit 和 AVFoundation，实现指定应用的音视频录制。 开发过程中，跨桌面录制成为最难解决的问题。从画面卡顿、冻结的排查，到利用 Pulse 改善采集，再到构建自动化测试验证录制结果，这份指南整理了 Ge… |
 | 2026-11-11 | [黄仁勋出轨是中年男性的归宿吗？](https://mobius.blog/26116.html) | 先标题党一下，是因为有人给我留言，想让我聊聊黄仁勋出轨的事件。 我把这件事归类在“华尔街政治八卦新闻”，也就是 […] |
 | 2026-11-11 | [APEC 要来了](https://hux.ink/posts/apec-shenzhen-2026/) | 深圳今年的头等大事，无疑是下周即将召开的 APEC 会议。 我上班的地方在福田区边缘，住在罗湖区，工作和生活都不在会议核心区域。不过，随着会议临近，多少还是感受到了一些变化。 一、公司不放假。据传，人力部门曾将调休方案呈报给 VP，结果被当场回绝。其实早早就在小范围议论，深圳到底会不会效仿之前举办过… |
 | 2026-11-11 | [其实所有人都在暗暗为你加油](https://www.hecaitou.com/2026/11/everyone-secretly-cheering-for-you.html) | 最近在网上读到一段很有趣的话： 「 从某种奇妙角度来说，其实所有人都在暗暗为你加油。 当你去参加面试时，面试官其实无比希望你表现惊艳，这样他们就不用再费劲继续招人了。当你去约会时，对方心里也无比渴望这是一场完美约会。如果你创作了一篇内容，大家本质上只是想看到精彩的好内容，他们完全不介意带来这份惊喜人… |
+| 2026-11-11 | [Gecko 录屏自动化测试设计](https://liudon.com/posts/gecko-recording-test-automation/) | 上一篇 《切换桌面后，录屏画面几乎冻结》 中的 OBS 对照测试就发现：一段 20 秒的录像输出了 1200 个视频样本，实际却只有 39 个不同的源画面。虽然文件保持着 60 FPS，真正的画面更新率却只有 1.95 FPS。 这意味着， 要判断录屏是否真正捕获到了新的画面，就必须分析最终录制的视… |
 | 2026-11-11 | [并不好笑的玩笑](https://blog.solazy.me/20261111/) | 今天的文章起因是室友的一句玩笑话 |
 | 2026-11-11 | [人民币兑美元创四年新高，汇率到底是怎么来的](https://depp.wang/2026/rmb-exchange-rate/) | 看了一下人民币兑美元的走势，现在 1 美元大概可以换 6.67 元人民币，近期美元兑人民币还创下了四年多来的最低位。换个说法，就是人民币兑美元到了近四年最值钱的时候。同样买一件以美元计价的东西，需要花的人民币少了。 近期行情 我首先想到的是，这种情况下，平时就有美元支出的人，应该可以省一点钱。人在国… |
 | 2026-11-11 | [Starryblu 使用指南：多币种账户、海外支付与跨境汇款](https://blog.debuginn.com/p/starryblu/) | 大家好呀，我是 Meng小羽，好久不见！ 最近除了继续打磨 iAssets 知盈，我也一直在寻找更方便的海外软件订阅和跨境支付方式。毕竟，对于经常使用 ChatGPT、Claude Code 等工具的开发者来说，支付有时也是一个需要专门解决的问题。 前段时间，一位读者向我推荐了 Starryblu。… |
@@ -43,7 +50,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-11-10 | [claude pro 给的 fable](https://versun.me/blog/tweet-2120114717343756499) | Versun Fable 5.2 文字能力感觉比 Opus 5.5 要差很多。。。。 “止血” 是什么鬼。。。。 不过速度和逻辑能力、全局观确实明显好很多 https://twitter.com/claudeai/status/2119899459761131615 claude pro 给的 fa… |
 | 2026-11-10 | [今天公司通知APEC要居家一周](https://sigge.cn/2026/11/10/lmbx5zl15yqb) | 今天公司通知了APEC要居家一周，相当于9天小长假了。 |
 | 2026-11-10 | [Fable 5.2 小技巧: 和它说"这](https://versun.me/blog/tweet-2120087943109095877) | Simon Willison When Anthropic release a new model it's always worth taking a look at their updated prompting guide - here's an entertaining tip to mak… |
-| 2026-11-10 | [Might and Magic VII: For Blood and Honor updated](https://macsourceports.com/game/mightandmagic7) | The build of OpenEnroth for Might and Magic VII: For Blood and Honor has been updated to the latest code of the project |
 | 2026-11-10 | [Star Wars Jedi Knight: Jedi Academy updated](https://macsourceports.com/game/swjkja) | The build of OpenJK (Single Player) for Star Wars Jedi Knight: Jedi Academy has been updated to the latest code of the project |
 | 2026-11-10 | [Star Wars Jedi Knight II: Jedi Outcast updated](https://macsourceports.com/game/swjk2) | The build of OpenJO (OpenJK Project, Single Player) for Star Wars Jedi Knight II: Jedi Outcast has been updated to the latest code of the project |
 | 2026-11-10 | [OpenXcom updated](https://macsourceports.com/sourceport/openxcom) | The build of OpenXcom for the X-Com series of games has been updated to the latest code of the project\n\nhttps://macsourceports.com/sourceport/openxc… |
@@ -171,7 +177,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-11-06 | [还是 opus 5.5 好用呀，不仅干活](https://versun.me/blog/tweet-2118662784196186124) | Versun 经过近一个月的使用，我把 hermes 的默认模型，从 gemini 3.8 flash 改回到 opus 5.5 了， gemini 太阿谀奉承了，一点自己的主见没有， 好几次差点坏了事，还是 opus 靠谱，虽然说话难听了点 🤣 还是 opus 5.5 好用呀，不仅干活利索，还能预… |
 | 2026-11-06 | [我想给自己建立一个长期运行的 AI 助手](https://www.banzhuanriji.com/posts/a-long-term-ai-assistant/) | 最近一直在想一件事：能不能把 AI 真正融入自己的生活？ 这里说的融入，不是每天打开 ChatGPT 问几个技术问题，也不是让 AI 帮忙写文章、整理资料。我想做的是更进一步的事情。 我希望有一个 AI，它能够逐渐了解我。 知道我做什么工作，有哪些能力，经济状况怎么样，平时有什么习惯，喜欢什么、不喜… |
 | 2026-11-06 | [Claude Code、Codex 与 Seedance 做 AI 视频：从想法到成片](https://gugegt.com/20261106-claude-codex-seedance-ai-video.html) | 这篇整理自 Eian 11 月 5 日发在 X 上的长文，280 多万浏览，讲怎么用 Claude Code、Codex、Seedance 做一条 AI 视频。全文分工具层和实操两部分，我按原帖的结构整理，要点和做法都保留，10 段提示词都按要点展开写细了，完整版见文末原文链接。 这篇只解决一个问题… |
-| 2026-11-06 | [Xash3D FWGS updated](https://macsourceports.com/sourceport/xash3d-fwgs) | The build of Xash3D FWGS for the Half-Life series of games has been updated to the latest code of the project\n\nhttps://macsourceports.com/sourceport… |
 | 2026-11-06 | [我前几天在 75700 平了😩，入了 V](https://versun.me/blog/tweet-2118617241206051220) | 杀破狼 WolfyXBT 从狼波周期来看，确实进入牛市周期了 但是牛市总共要跑 3 年，牛初是尤其煎熬的，牛中后期才会进入简单模式。 我前几天在 75700 平了😩，入了 VWRA，果然是韭菜命🤡 |
 | 2026-11-06 | [Looped Transformer的量化：误差传播、NVFP4 与差分调制](https://mer.dev/posts/loopquant-fp4/) | 最近循环模型量化的一些分析与实验。 |
 | 2026-11-06 | [學習網頁內容無障礙](https://taxodium.ink/learn-web-content-accessibility.html) | 學習網頁內容無障礙 目錄 什麼是網頁內容無障礙，以及為什麼要實踐網頁內容無障礙 如何學習網頁內容無障礙 學習目標 WACG WAI-ARIA 如何學習 博客中常見的網頁內容無障礙問題 連結 錯別字 顏色和對比度 Tab 焦點和順序 圖片上的替代文本 頁要元素太多，太雜 存在兩個方向的滾動條 頁面有一… |
