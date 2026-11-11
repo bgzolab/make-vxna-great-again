@@ -27,6 +27,11 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-11-11 | [Album#50 - Is it gonna happen again?](https://taxodium.ink/album-50.html) | Album#50 Is it gonna happen again? 图1 Is it gonna happen again? by jody 积融 专辑信息 专辑名称： Is it gonna happen again? 歌手： jody 积融 年份： 2026-02-10 时长： 約 32 分鐘… |
+| 2026-11-11 | [消费理念](https://www.kawabangga.com/posts/7449) | 在一次公司的培训上，一个同事带了一个塑料水瓶，我看见过这种塑料瓶子很多次，我问他是从哪里买的。他说，新加坡人在 […] Continue reading... 相关文章: 生活来在一个包里 给明年依然年轻的我们 |
+| 2026-11-11 | [双十一名存实亡](https://blog.mxdyeah.com/post/2026-11-11-in-name-only) | 现在的双十一太平淡了。看了下 双十一名存实亡 - V2EX，有感而发。记得早些年，我都是 10 号晚上 8 点钟左右，就盯着手机开抢。感觉现在没这种动力了呢。以前参加双十一，大家最期待的是平台拿... |
+| 2026-11-11 | [大变革时代](https://yipai.me/post/2558.html) | 尽管 MacOS 已经从某个版本开始已经把 Spotlight 重构成了类似 Alfred 的形式，但我之前一直还是用 Alfred。因为他支持“双击”快捷键，比如我设置连按两次 Control 键唤起 Alfred，这是 Spotlight 不具备的。但上周末我只给 Codex 一句话就让它写了个… |
+| 2026-11-11 | [Ubuntu内核升级撑爆boot分区导致启动失败修复](https://199604.com/3748) | Ubuntu内核升级撑爆boot分区导致启动失败修复 记录时间：2026-11-11 环境：Ubuntu 24 […] |
 | 2026-11-11 | [Might and Magic VII: For Blood and Honor updated](https://macsourceports.com/game/mightandmagic7) | The build of OpenEnroth for Might and Magic VII: For Blood and Honor has been updated to the latest code of the project |
 | 2026-11-11 | [Xash3D FWGS updated](https://macsourceports.com/sourceport/xash3d-fwgs) | The build of Xash3D FWGS for the Half-Life series of games has been updated to the latest code of the project\n\nhttps://macsourceports.com/sourceport… |
 | 2026-11-11 | [406MHz 车载电台在何方：共用对讲机现状与选购建议](https://blog.mfwt.top/index.php/archives/1732/) | 已经有超过半年的时间，没有在站点上探讨过关于406MHz 共用对讲机这种合法大功率的对讲机类型了。这主要是没有什么太好的话题，毕竟介绍一下技术细节，介绍一下适用人群，也就这样过去了。不过自从最近... |
@@ -43,6 +48,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-11-11 | [Memos #2026-11-10](https://blog.itaober.com/memos/memo_20261109161917_a2mijt) | 00:31 上周末去惠州玩了两天。 周六在海边露营烤肉，晚上去朋友家借宿，解锁了川麻血战到底这项新技能。 周日在朋友家吃了中饭后，又血战了一下午，晚饭后才回深圳。 算是度过了一个不太寻常的周末，没打游戏，跟一群还没那么熟的朋友体验了一把生活的样子，挺开心！ 09:39 刘振东真是赤裸、真诚且搞笑。 |
 | 2026-11-10 | [杯子](https://anotherdayu.com/7200/) | 新研究所的杯子上，印的不是研究所的 Logo，而是建筑团队的合影和建造现场。 一开始有点不理解，毕竟以前学校和研究所的杯子上，印的通常都是自己的 Logo。 但转念一想，又觉得这个设计挺细心、温暖。 我们每天在这栋楼里工作，却很少有机会见到当初建造它的人。这栋建筑可能是他们很长时间的劳动成果。 这些… |
 | 2026-11-10 | [带刺大黄鱼如何帮我反思软件？](https://www.geedea.pro/article/openbsd/) | 我在《 爱拯救之 》一文中提到，博客现在运行在安装 OpenBSD 的操作系统上，而不是 Linux。我本想尝试更多的 BSD 系统，可我把 FreeBSD 的 .iso 挂载到 VPS 之后，在 VNC 里捣鼓了半天也没把系统安装好。最后还是换回 OpenBSD，在十分钟内就完成了安装。 Free… |
+| 2026-11-10 | [AI 早报 2026-11-11：Railway 被黑：多达 10 万个工作区的 AI 密钥遭窃，冒用账单约 74 万美元](https://www.jtxyh.com/daily/2026-11-11/) | 2026-11-11 AI 早报，共 24 条动态。云托管平台 Railway 11 月 10 日公布完整事故报告：攻击者 10 月 20 日利用构建系统的未知漏洞逃出隔离环境，一路拿到内部凭证，解密了最多约 10 万个客户工作区的环境变量，专门搜刮 AI 服务商的 API 密钥，被盗密钥随后产生了… |
 | 2026-11-10 | [iOS Backup v1.5.6 更新啦](https://razeen.me/posts/ios-backup-v1-5-6-update/) | iOS Backup 已更新到 v1.5.6，新增历史备份保留与打包下载、离线查看备份、手动停止任务和任务记录，并改进了通知、翻译及自定义时区支持。 |
 | 2026-11-10 | [聊聊我用过的两款 AI 记忆系统](https://versun.me/blog/from-nowledge-mem-to-hindsight) | 最近，我把 Agent 记忆系统从 Nowledge Mem 换到了 Hindsight。 趁这个机会，简单对比下两者的使用感受和区别。 特性 Nowledge Mem 从图数据库和人机交互切入，想做连通所有工具的个人认知中枢。它有全平台桌面端、CLI、浏览器插件和 MCP 等全家桶，定位是「个人… |
 | 2026-11-10 | [AI本地大模型3B左右真实使用场景和模型推荐](https://dsx2016.com/real-world-use-cases-and-model-recommendations-for-local-ai-models-approx-3b-parameters/) | 本文内容 核心内容 HyperFlow H3 Flash HyperFlow H3 Flash 是什么？ Hy... AI本地大模型3B左右真实使用场景和模型推荐 最先出现在 大师兄2016 。 |
