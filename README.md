@@ -27,11 +27,12 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-11-12 | [学习周刊-总第289期-2026年第46周](https://wiki.eryajf.net/pages/513f3b/) | 如要阅读全文，点击标题跳转。 学习周刊-总第289期 &#124; atrium &#124; app-monitor &#124; Knopo &#124; Pulse &#124; freebuddy &#124; MirrorProxy &#124; navop &#124; openship |
 | 2026-11-12 | [Total Annihilation updated](https://macsourceports.com/game/totalannihilation) | The build of Open Annihilation for Total Annihilation has been updated to version v0.9.1 of the project |
 | 2026-11-12 | [向云端｜西南自驾14 - 北盘江](https://blog.ops-coffee.com/r/2026-southwest-road-trip-14-beipanjiang.html) |  |
-| 2026-11-12 | [Album#51 - 阁楼的影像 & 家](https://taxodium.ink/album-51.html) | Album#51 阁楼的影像 & 家 专辑信息 专辑名称： 阁楼的影像 歌手： handycam 年份： 2026-01-20 时长： 約 55 分鐘 图2 家 by handycam 专辑信息 专辑名称： 家 歌手： handycam 年份： 2026-06-29 时长： 約 60 分鐘 在 HO… |
+| 2026-11-12 | [Album#51 - 阁楼的影像 & 家](https://taxodium.ink/album-51.html) | Album#51 阁楼的影像 & 家 图1 阁楼的影像 by handycam 专辑信息 专辑名称： 阁楼的影像 歌手： handycam 年份： 2026-01-20 时长： 約 55 分鐘 图2 家 by handycam 专辑信息 专辑名称： 家 歌手： handycam 年份： 2026-0… |
 | 2026-11-12 | [Might and Magic VII: For Blood and Honor updated](https://macsourceports.com/game/mightandmagic7) | The build of OpenEnroth for Might and Magic VII: For Blood and Honor has been updated to the latest code of the project |
-| 2026-11-12 | [Daikatana updated](https://macsourceports.com/game/daikatana) | The build of Daikatana 1.3 Project for Daikatana has been updated to the latest code of the project |
+| 2026-11-12 | [Daikatana updated](https://macsourceports.com/game/daikatana) | The build of Daikatana 1.3 Project for Daikatana has been updated to version 1.3-20261112 of the project |
 | 2026-11-12 | [Quake III: Arena updated](https://macsourceports.com/game/quake3arena) | The build of Quake3e for Quake III: Arena has been updated to the latest code of the project |
 | 2026-11-12 | [我做了两款微信小游戏](https://blog.forecho.com/two-wechat-minigames.html) | 引言 最近开始迷上了休闲游戏，也就动手做微信小游戏。 前几天把第一款做完送审，接着又做了第二款。两款都是单机、走广告变现，用的是个人主体。现在都已经上线了，欢迎大家去试玩，也帮我找找 bug。 怎么做的 第一款《疯狂轮胎》花了 3 天。因为要自己画界面，后面我用 ChatGPT SOL 重构了部分页… |
 | 2026-11-12 | [ollama本地大模型选择关于量化和类型](https://dsx2016.com/choosing-local-llms-in-ollama-considerations-regarding-quantization-and-model-types/) | ollama问题 ollama使用遇到的问题 经过排查，默认搜索栏设置通用模型名称下载，比如qwen3.5:2... ollama本地大模型选择关于量化和类型 最先出现在 大师兄2016 。 |
@@ -49,7 +50,8 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-11-11 | [DOOM for the 3DO updated](https://macsourceports.com/game/doom3do) | The build of BurgerDoom for DOOM for the 3DO has been updated to version 2.0.0 of the project |
 | 2026-11-11 | [学习，旅行，马克思，研究 and Burn out](https://eduardoqian.com/archives/xue-xi-lu-xing-ma-ke-si-yan-jiu-and-burn-out) | 上次更新文章还是9月8日，到现在已经两个月了。这两个月可以说是忙但是不知道在忙什么，累了一圈好像也没干什么，现在好容易抽空出来，来做一下这段时间的总结。 学习 9月开始，Master第二年的period 1开始了。这一p我选修的两门课都是机器学习深度学习相关。一门是Deep Machine Lear |
 | 2026-11-11 | [1个 Claude 号毕业了，恭喜🎉😭](https://versun.me/blog/tweet-2120640591843426721) | 1个 Claude 号毕业了，恭喜🎉😭 还有一个苟延残喘 |
-| 2026-11-11 | [空白处有我](https://anotherdayu.com/1384/) | 了解自己 前段时间参加一次读书会，聊得是《禅与摩托车维修艺术》。已忘记是因何聊起，有位朋友分享，她最近在认真了解自己的喜好。比如喜欢吃什么、穿什么，会把这些琐碎的事情记下来。 另一个朋友不太理解，觉得生活中很多小事并不重要，喜欢就是喜欢，没必要非得弄清楚原因。 我其实很能理解前一个朋友，因为我也经历… |
+| 2026-11-11 | [空白处有我](https://anotherdayu.com/1384/) | 认识自己并不是找到一个确定的答案。我们既是自己生活的经历者，也是这些经历的讲述者。同一件事情，在不同的人生阶段，可能会有完全不同的理解。我们所相信的自己，也未必就是自己的全部。 |
+| 2026-11-11 | [AI 早报 2026-11-12：乌克兰无人机公司 UFORCE 完成 7 亿美元 A 轮融资，估值 60 亿美元](https://www.jtxyh.com/daily/2026-11-12/) | 2026-11-12 AI 早报，共 20 条动态。乌克兰国防科技公司 UFORCE 11 月 12 日宣布完成 7 亿美元 A 轮融资，估值 60 亿美元，由 Valor Equity Partners 与英国国家财富基金共同领投，美国—乌克兰重建投资基金等参投，是乌克兰背景初创公司迄今最大的一笔… |
 | 2026-11-11 | [Album#50 - Is it gonna happen again?](https://taxodium.ink/album-50.html) | Album#50 Is it gonna happen again? 图1 Is it gonna happen again? by jody 积融 专辑信息 专辑名称： Is it gonna happen again? 歌手： jody 积融 年份： 2026-02-10 时长： 約 32 分鐘… |
 | 2026-11-11 | [消费理念](https://www.kawabangga.com/posts/7449) | 在一次公司的培训上，一个同事带了一个塑料水瓶，我看见过这种塑料瓶子很多次，我问他是从哪里买的。他说，新加坡人在 […] Continue reading... 相关文章: 生活来在一个包里 给明年依然年轻的我们 |
 | 2026-11-11 | [双十一名存实亡](https://blog.mxdyeah.com/post/2026-11-11-in-name-only) | 现在的双十一太平淡了。看了下 双十一名存实亡 - V2EX，有感而发。记得早些年，我都是 10 号晚上 8 点钟左右，就盯着手机开抢。感觉现在没这种动力了呢。以前参加双十一，大家最期待的是平台拿... |
@@ -72,7 +74,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-11-11 | [据我所知，这个榜单里，只有 Alma 是](https://versun.me/blog/tweet-2120321821593727007) | Guanlan Dai We’re spending up to 100B tokens across 26,040 agent runs to answer one question: when you switch models, should you switch harnesses too?… |
 | 2026-11-11 | [Starryblu 使用指南：多币种账户、海外支付与跨境汇款](https://blog.debuginn.com/p/starryblu/) | 大家好呀，我是 Meng小羽，好久不见！ 最近除了继续打磨 iAssets 知盈，我也一直在寻找更方便的海外软件订阅和跨境支付方式。毕竟，对于经常使用 ChatGPT、Claude Code 等工具的开发者来说，支付有时也是一个需要专门解决的问题。 前段时间，一位读者向我推荐了 Starryblu。… |
 | 2026-11-11 | [Memos #2026-11-10](https://blog.itaober.com/memos/memo_20261109161917_a2mijt) | 00:31 上周末去惠州玩了两天。 周六在海边露营烤肉，晚上去朋友家借宿，解锁了川麻血战到底这项新技能。 周日在朋友家吃了中饭后，又血战了一下午，晚饭后才回深圳。 算是度过了一个不太寻常的周末，没打游戏，跟一群还没那么熟的朋友体验了一把生活的样子，挺开心！ 09:39 刘振东真是赤裸、真诚且搞笑。 |
-| 2026-11-10 | [杯子](https://anotherdayu.com/7200/) | 新研究所的杯子上，印的不是研究所的 Logo，而是建筑团队的合影和建造现场。 一开始有点不理解，毕竟以前学校和研究所的杯子上，印的通常都是自己的 Logo。 但转念一想，又觉得这个设计挺细心、温暖。 我们每天在这栋楼里工作，却很少有机会见到当初建造它的人。这栋建筑可能是他们很长时间的劳动成果。 这些… |
+| 2026-11-10 | [杯子](https://anotherdayu.com/7200/) | 这些杯子，让原本不会有交集，却又实实在在存在着联系的两群人，以这样的方式见到了彼此。 |
 | 2026-11-10 | [带刺大黄鱼如何帮我反思软件？](https://www.geedea.pro/article/openbsd/) | 我在《 爱拯救之 》一文中提到，博客现在运行在安装 OpenBSD 的操作系统上，而不是 Linux。我本想尝试更多的 BSD 系统，可我把 FreeBSD 的 .iso 挂载到 VPS 之后，在 VNC 里捣鼓了半天也没把系统安装好。最后还是换回 OpenBSD，在十分钟内就完成了安装。 Free… |
 | 2026-11-10 | [AI 早报 2026-11-11：Railway 被黑：多达 10 万个工作区的 AI 密钥遭窃，冒用账单约 74 万美元](https://www.jtxyh.com/daily/2026-11-11/) | 2026-11-11 AI 早报，共 24 条动态。云托管平台 Railway 11 月 10 日公布完整事故报告：攻击者 10 月 20 日利用构建系统的未知漏洞逃出隔离环境，一路拿到内部凭证，解密了最多约 10 万个客户工作区的环境变量，专门搜刮 AI 服务商的 API 密钥，被盗密钥随后产生了… |
 | 2026-11-10 | [iOS Backup v1.5.6 更新啦](https://razeen.me/posts/ios-backup-v1-5-6-update/) | iOS Backup 已更新到 v1.5.6，新增历史备份保留与打包下载、离线查看备份、手动停止任务和任务记录，并改进了通知、翻译及自定义时区支持。 |
