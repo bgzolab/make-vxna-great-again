@@ -27,23 +27,36 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-11-12 | [Quake 4 updated](https://macsourceports.com/game/quake4) | The build of openQ4 for Quake 4 has been updated to version v0.14.1 of the project |
+| 2026-11-12 | [ollama使用qwen3.5:2b测试文字转md](https://dsx2016.com/testing-text-to-markdown-conversion-using-qwen3-52b-via-ollama/) | ollama本地大模型选型 优选1b左右的，来测试小任务 本文的要求是快，最好是100token/s及以上（因... ollama使用qwen3.5:2b测试文字转md 最先出现在 大师兄2016 。 |
+| 2026-11-12 | [从买鸡蛋到买菜，我对条马的一些观察](https://depp.wang/2026/tiaoma/) | 我平时买菜，更多还是去小区附近专门卖菜的蔬菜店。但条马也是我会去的一个地方，最开始主要去买鸡蛋，后来买雪糕、零食，现在又会买一些蔬菜、水果和肉。买的东西慢慢变多了，我觉得这也能看出条马这种超市为什么能在小区附近做起来。 最开始去条马买鸡蛋，是因为价格比较便宜，看着也比较干净卫生。鸡蛋是平时经常要买的… |
+| 2026-11-12 | [Memos #2026-11-11](https://blog.itaober.com/memos/memo_20261111125414_735bj9) | 20:58 听得体真是不需要思考，定好的主题只是起个开头作用，后续内容来来回回还是那些。 本期最佳梗：贤哥，我算是你表弟吗？ |
+| 2026-11-11 | [问下今天被封的同志，账号是不是都过了第一](https://versun.me/blog/tweet-2120654948551758027) | Versun 1个 Claude 号毕业了，恭喜🎉😭 还有一个苟延残喘 问下今天被封的同志，账号是不是都过了第一次 kyc 的，我第2个号没弹过 kyc 就没事 |
+| 2026-11-11 | [DOOM for the 3DO updated](https://macsourceports.com/game/doom3do) | The build of BurgerDoom for DOOM for the 3DO has been updated to version 2.0.0 of the project |
+| 2026-11-11 | [学习，旅行，马克思，研究 and Burn out](https://eduardoqian.com/archives/xue-xi-lu-xing-ma-ke-si-yan-jiu-and-burn-out) | 上次更新文章还是9月8日，到现在已经两个月了。这两个月可以说是忙但是不知道在忙什么，累了一圈好像也没干什么，现在好容易抽空出来，来做一下这段时间的总结。 学习 9月开始，Master第二年的period 1开始了。这一p我选修的两门课都是机器学习深度学习相关。一门是Deep Machine Lear |
+| 2026-11-11 | [1个 Claude 号毕业了，恭喜🎉😭](https://versun.me/blog/tweet-2120640591843426721) | 1个 Claude 号毕业了，恭喜🎉😭 还有一个苟延残喘 |
+| 2026-11-11 | [空白处有我](https://anotherdayu.com/1384/) | 了解自己 前段时间参加一次读书会，聊得是《禅与摩托车维修艺术》。已忘记是因何聊起，有位朋友分享，她最近在认真了解自己的喜好。比如喜欢吃什么、穿什么，会把这些琐碎的事情记下来。 另一个朋友不太理解，觉得生活中很多小事并不重要，喜欢就是喜欢，没必要非得弄清楚原因。 我其实很能理解前一个朋友，因为我也经历… |
 | 2026-11-11 | [Album#50 - Is it gonna happen again?](https://taxodium.ink/album-50.html) | Album#50 Is it gonna happen again? 图1 Is it gonna happen again? by jody 积融 专辑信息 专辑名称： Is it gonna happen again? 歌手： jody 积融 年份： 2026-02-10 时长： 約 32 分鐘… |
 | 2026-11-11 | [消费理念](https://www.kawabangga.com/posts/7449) | 在一次公司的培训上，一个同事带了一个塑料水瓶，我看见过这种塑料瓶子很多次，我问他是从哪里买的。他说，新加坡人在 […] Continue reading... 相关文章: 生活来在一个包里 给明年依然年轻的我们 |
 | 2026-11-11 | [双十一名存实亡](https://blog.mxdyeah.com/post/2026-11-11-in-name-only) | 现在的双十一太平淡了。看了下 双十一名存实亡 - V2EX，有感而发。记得早些年，我都是 10 号晚上 8 点钟左右，就盯着手机开抢。感觉现在没这种动力了呢。以前参加双十一，大家最期待的是平台拿... |
 | 2026-11-11 | [大变革时代](https://yipai.me/post/2558.html) | 尽管 MacOS 已经从某个版本开始已经把 Spotlight 重构成了类似 Alfred 的形式，但我之前一直还是用 Alfred。因为他支持“双击”快捷键，比如我设置连按两次 Control 键唤起 Alfred，这是 Spotlight 不具备的。但上周末我只给 Codex 一句话就让它写了个… |
 | 2026-11-11 | [Ubuntu内核升级撑爆boot分区导致启动失败修复](https://199604.com/3748) | Ubuntu内核升级撑爆boot分区导致启动失败修复 记录时间：2026-11-11 环境：Ubuntu 24 […] |
+| 2026-11-11 | [认真做一件事，究竟能有多大不同？](https://www.tortorse.com/archives/doing-one-thing-well/) | 黑胡桃木书柜 |
 | 2026-11-11 | [Might and Magic VII: For Blood and Honor updated](https://macsourceports.com/game/mightandmagic7) | The build of OpenEnroth for Might and Magic VII: For Blood and Honor has been updated to the latest code of the project |
 | 2026-11-11 | [Xash3D FWGS updated](https://macsourceports.com/sourceport/xash3d-fwgs) | The build of Xash3D FWGS for the Half-Life series of games has been updated to the latest code of the project\n\nhttps://macsourceports.com/sourceport… |
 | 2026-11-11 | [406MHz 车载电台在何方：共用对讲机现状与选购建议](https://blog.mfwt.top/index.php/archives/1732/) | 已经有超过半年的时间，没有在站点上探讨过关于406MHz 共用对讲机这种合法大功率的对讲机类型了。这主要是没有什么太好的话题，毕竟介绍一下技术细节，介绍一下适用人群，也就这样过去了。不过自从最近... |
 | 2026-11-11 | [前端网页去除AI味的开源项目，提供给AI Agent使用，比如cursor](https://dsx2016.com/open-source-projects-for-removing-the-ai-generated-feel-from-web-contentdesigned-for-use-by-ai-agents-such-as-cursor/) | 内容概览 本文内容 Gemini 4 Carbon 2026年11月10日Gemini 4 Carbon发布 ... 前端网页去除AI味的开源项目，提供给AI Agent使用，比如cursor 最先出现在 大师兄2016 。 |
 | 2026-11-11 | [评论区换了个新家](https://hux.ink/posts/new-comment/) | 十月底，把博客的评论系统换掉了。 原来用的是 Twikoo，部署在群晖 Docker 里。用了挺长时间，满足需求但不完美，一是太依赖家里的 NAS 的稳定运行，二是哔哔条目被评论后无法准确定位。博客本身早已实现静态托管，唯独评论系统还得靠家里的设备维持，想想还是决定把它换掉。 于是在 AI 的帮助下… |
 | 2026-11-11 | [Gecko：macOS 录屏工具开发实践](https://liudon.com/guides/gecko/) | Gecko 是我开发的一款 macOS 原生录屏工具，基于 ScreenCaptureKit 和 AVFoundation，实现指定应用的音视频录制。 开发过程中，跨桌面录制成为最难解决的问题。从画面卡顿、冻结的排查，到利用 Pulse 改善采集，再到构建自动化测试验证录制结果，这份指南整理了 Ge… |
+| 2026-11-11 | [每次我们有一个新模型，我都会在所有项目上](https://versun.me/blog/tweet-2120417876993818805) | Alex Albert Every time we have a new model, I run the same simple prompt on all my projects: "Read this entire project and find everything that’s brok… |
 | 2026-11-11 | [黄仁勋出轨是中年男性的归宿吗？](https://mobius.blog/26116.html) | 先标题党一下，是因为有人给我留言，想让我聊聊黄仁勋出轨的事件。 我把这件事归类在“华尔街政治八卦新闻”，也就是 […] |
 | 2026-11-11 | [APEC 要来了](https://hux.ink/posts/apec-shenzhen-2026/) | 深圳今年的头等大事，无疑是下周即将召开的 APEC 会议。 我上班的地方在福田区边缘，住在罗湖区，工作和生活都不在会议核心区域。不过，随着会议临近，多少还是感受到了一些变化。 一、公司不放假。据传，人力部门曾将调休方案呈报给 VP，结果被当场回绝。其实早早就在小范围议论，深圳到底会不会效仿之前举办过… |
 | 2026-11-11 | [其实所有人都在暗暗为你加油](https://www.hecaitou.com/2026/11/everyone-secretly-cheering-for-you.html) | 最近在网上读到一段很有趣的话： 「 从某种奇妙角度来说，其实所有人都在暗暗为你加油。 当你去参加面试时，面试官其实无比希望你表现惊艳，这样他们就不用再费劲继续招人了。当你去约会时，对方心里也无比渴望这是一场完美约会。如果你创作了一篇内容，大家本质上只是想看到精彩的好内容，他们完全不介意带来这份惊喜人… |
 | 2026-11-11 | [Gecko 录屏自动化测试设计](https://liudon.com/posts/gecko-recording-test-automation/) | 上一篇 《切换桌面后，录屏画面几乎冻结》 中的 OBS 对照测试就发现：一段 20 秒的录像输出了 1200 个视频样本，实际却只有 39 个不同的源画面。虽然文件保持着 60 FPS，真正的画面更新率却只有 1.95 FPS。 这意味着， 要判断录屏是否真正捕获到了新的画面，就必须分析最终录制的视… |
+| 2026-11-11 | [经过 5 天的调研和试用，我最终决定迁移](https://versun.me/blog/tweet-2120362209528443143) | Versun 还是准备迁出 Hermes 了，各位有什么开源平替推荐的 要自己用过的，不要道听途说。。。。 经过 5 天的调研和试用，我最终决定迁移到 Cindy @making_cindy 简单说下这几天的历程： 一开始我用的是 DS Bot，但它更适合工作场景。我的需求更偏日常生活协助，工作这块… |
 | 2026-11-11 | [并不好笑的玩笑](https://blog.solazy.me/20261111/) | 今天的文章起因是室友的一句玩笑话 |
 | 2026-11-11 | [人民币兑美元创四年新高，汇率到底是怎么来的](https://depp.wang/2026/rmb-exchange-rate/) | 看了一下人民币兑美元的走势，现在 1 美元大概可以换 6.67 元人民币，近期美元兑人民币还创下了四年多来的最低位。换个说法，就是人民币兑美元到了近四年最值钱的时候。同样买一件以美元计价的东西，需要花的人民币少了。 近期行情 我首先想到的是，这种情况下，平时就有美元支出的人，应该可以省一点钱。人在国… |
+| 2026-11-11 | [据我所知，这个榜单里，只有 Alma 是](https://versun.me/blog/tweet-2120321821593727007) | Guanlan Dai We’re spending up to 100B tokens across 26,040 agent runs to answer one question: when you switch models, should you switch harnesses too?… |
 | 2026-11-11 | [Starryblu 使用指南：多币种账户、海外支付与跨境汇款](https://blog.debuginn.com/p/starryblu/) | 大家好呀，我是 Meng小羽，好久不见！ 最近除了继续打磨 iAssets 知盈，我也一直在寻找更方便的海外软件订阅和跨境支付方式。毕竟，对于经常使用 ChatGPT、Claude Code 等工具的开发者来说，支付有时也是一个需要专门解决的问题。 前段时间，一位读者向我推荐了 Starryblu。… |
 | 2026-11-11 | [Memos #2026-11-10](https://blog.itaober.com/memos/memo_20261109161917_a2mijt) | 00:31 上周末去惠州玩了两天。 周六在海边露营烤肉，晚上去朋友家借宿，解锁了川麻血战到底这项新技能。 周日在朋友家吃了中饭后，又血战了一下午，晚饭后才回深圳。 算是度过了一个不太寻常的周末，没打游戏，跟一群还没那么熟的朋友体验了一把生活的样子，挺开心！ 09:39 刘振东真是赤裸、真诚且搞笑。 |
 | 2026-11-10 | [杯子](https://anotherdayu.com/7200/) | 新研究所的杯子上，印的不是研究所的 Logo，而是建筑团队的合影和建造现场。 一开始有点不理解，毕竟以前学校和研究所的杯子上，印的通常都是自己的 Logo。 但转念一想，又觉得这个设计挺细心、温暖。 我们每天在这栋楼里工作，却很少有机会见到当初建造它的人。这栋建筑可能是他们很长时间的劳动成果。 这些… |
@@ -222,19 +235,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-11-05 | [这次币安的安全事件，让我再次想起之前差点](https://versun.me/blog/tweet-2118134199714816117) | Andrey Labunets @ihackbanme Well, in my case it included scripted self-deleting google docs, with phishing steps partially matching those: https://x.c… |
 | 2026-11-05 | [Cursor Style：照着 Cursor 官网做的 Typora 主题](https://folay.top/zh/blog/typora-cursor-theme) | 参考 Cursor 官网的视觉风格做了一套 Typora 主题，浅色、深色各一个。 |
 | 2026-11-05 | [Cursor Style: A Typora Theme Based on Cursor's Website](https://folay.top/blog/typora-cursor-theme) | A Typora theme that borrows the look of Cursor's website, in light and dark. |
-| 2026-11-04 | [2026 年九月 读人工智能，护眼 3 本](https://conge.livingwithfcs.org/2026/11/04/reading-summary/) | 引子 引子 如果想要靠读书了解大模型的话，2023年前的书恐怕都不值得读了。很可惜，我这次读的两本，都没有覆盖大模型。 话说回来，大模型的算法上，开始可以从这两本书找到其家谱的。大语言模型的底层是基于深度神经网络的算法。此两本书对了解大语言模型出现线的人工智能算法版图，还是很有用处的。但大语言模型，… |
-| 2026-11-04 | [AI 早报 2026-11-05：Ai2 获谷歌支持开发 NeuralGCM+，探索数十年气候预测](https://www.jtxyh.com/daily/2026-11-05/) | 2026-11-05 AI 早报，共 21 条动态。Ai2 11月4日宣布，与 Google.org 和 Google Research 启动三年气候建模项目，计划把 NeuralGCM 扩展为联结大气、海洋与海冰的 NeuralGCM+。OpenAI 11 月 4 日（美东时间）发布 ChatGP… |
-| 2026-11-04 | [记一次报警和Web入侵对抗](https://elmagnifico.tech/2026/11/05/Web-Safe-Confrontation/) | Foreword 万万没想到，有一天得代表公司报警，实际体验并不好，很多事情即使在今天，科技这么发达，服务这么健全，也是难以处理的。 报警 事由是我们服务上的资源被爬了，还是我们做了反爬处理的情况下，被强行爬了。涉及数量比较大，实际经济价值巨大，大概能吃3-10年左右的牢饭。 之前也报过其他的警，不… |
-| 2026-11-04 | [长沙出差半周流水](https://blog.solazy.me/20261104/) | 主要晒晒这两天的吃食 |
-| 2026-11-04 | [esp32 mosfet开关 电源输入方式](https://dsx2016.com/esp32-mosfet-switch-power-input-method/) | 电源输入方式 之前只买了一个带有dc充电口和接线端子输出方式的锂电池，方便配合继电器开关 这个锂电池提供5v输... esp32 mosfet开关 电源输入方式 最先出现在 大师兄2016 。 |
-| 2026-11-04 | [给主流模型配个职位: Claude Op](https://versun.me/blog/tweet-2117963662698934514) | 给主流模型配个职位: Claude Opus 5.5：总经理 GPT-6 Astra：首席安全官 Claude Sonnet 5.5：技术总监 Gemini 4 Argon：顾问 Kimi K3.1：工程部经理 Grok 4.7：运营总监 Gemini 3.8 Flash：行政 DeepSeek V… |
-| 2026-11-04 | [Unreal Tournament 2004 updated](https://macsourceports.com/game/unrealtournament2004) | The build of UT2004 for Unreal Tournament 2004 has been updated to version 3374-rc3 of the project |
-| 2026-11-04 | [关于人们如何识别一篇文章是否由 AI 创作的](https://mobius.blog/26064.html) | 最近发现一个有趣的现象——越来越多的人开始通过文章的写作习惯来判断作者是否使用了 AI。 比如，喜欢使用引号强 […] |
-| 2026-11-04 | [循环模式吃饭](https://www.hecaitou.com/2026/11/eating-on-loop-mode.html) | 我曾经整月连续吃同样的菜单，同一家店，每次都是一份希腊沙拉，再加两个煎蛋。不是刻意如此，只是到了点餐时实在不知道点什么，想着「不如和昨天一样吧」，然后就那么顺理成章地一路点了下去。 这有点像什么？像是每天上班，打开音乐播放软件，然后选中一首歌，进入单曲循环模式，然后一个月天天都如此。 之前我看别人晒… |
-| 2026-11-04 | [无用命途：搞笑版《爱情买卖》，模糊版《农广天地》](https://blog.mfwt.top/index.php/archives/1715/) | 《无用命途》，专门用来记录一些无用（甚至无厘头的）想法，每个想法后会附带一点内容，用来介绍和这个想法（及其衍生的）有关的东西。每周最多更新一次，但不保证周更，主要看想法的活跃度如何。11月，按A... |
-| 2026-11-04 | [别试图期待人性会给予正反馈](https://mobius.blog/26051.html) | 遛狗时，目睹了两个小男孩的争吵，他们因为一个玩具吵了起来。其中一个大人抱起了自己的孩子，嘴上说着要让着弟弟，但 […] |
-| 2026-11-04 | [AI 彻底改变了程序员这个职业](https://depp.wang/2026/ai-changes-programming/) | 最近有位学计算机的表弟在找实习，跟我说实习生的工作特别不好找。这让我有点感慨，我还是比较幸运，没有在这个时代毕业。如果我现在毕业，我觉得自己一样找不到工作。 我觉得 AI 编程已经彻底改变了程序员这个职业。 现在做开发，很多具体的代码都可以交给 AI 来写了，简单的工作更是如此。程序员自己更多要做的… |
-| 2026-11-04 | [DeepSeek Super-agent 的架构设计与运行机制](https://www.mengke.me/blog/202611/DeepSeek_Super-agent) | 同时用多个 Coding Agent 时，瓶颈很快从「Agent 干活」变成「人管会话」。本文拆解 DeepSeek Super-agent 的设计：Router/Worker 双层架构、Trigger 两阶段过滤、Thread 订阅与直通、上下文组织与链式召回、投机执行、异步全双工、计算与执行环境… |
 
 ## Vibe Coding
 
