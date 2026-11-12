@@ -27,6 +27,20 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-11-12 | [Total Annihilation updated](https://macsourceports.com/game/totalannihilation) | The build of Open Annihilation for Total Annihilation has been updated to version v0.9.1 of the project |
+| 2026-11-12 | [向云端｜西南自驾14 - 北盘江](https://blog.ops-coffee.com/r/2026-southwest-road-trip-14-beipanjiang.html) |  |
+| 2026-11-12 | [Album#51 - 阁楼的影像 & 家](https://taxodium.ink/album-51.html) | Album#51 阁楼的影像 & 家 专辑信息 专辑名称： 阁楼的影像 歌手： handycam 年份： 2026-01-20 时长： 約 55 分鐘 图2 家 by handycam 专辑信息 专辑名称： 家 歌手： handycam 年份： 2026-06-29 时长： 約 60 分鐘 在 HO… |
+| 2026-11-12 | [Might and Magic VII: For Blood and Honor updated](https://macsourceports.com/game/mightandmagic7) | The build of OpenEnroth for Might and Magic VII: For Blood and Honor has been updated to the latest code of the project |
+| 2026-11-12 | [Daikatana updated](https://macsourceports.com/game/daikatana) | The build of Daikatana 1.3 Project for Daikatana has been updated to the latest code of the project |
+| 2026-11-12 | [Quake III: Arena updated](https://macsourceports.com/game/quake3arena) | The build of Quake3e for Quake III: Arena has been updated to the latest code of the project |
+| 2026-11-12 | [我做了两款微信小游戏](https://blog.forecho.com/two-wechat-minigames.html) | 引言 最近开始迷上了休闲游戏，也就动手做微信小游戏。 前几天把第一款做完送审，接着又做了第二款。两款都是单机、走广告变现，用的是个人主体。现在都已经上线了，欢迎大家去试玩，也帮我找找 bug。 怎么做的 第一款《疯狂轮胎》花了 3 天。因为要自己画界面，后面我用 ChatGPT SOL 重构了部分页… |
+| 2026-11-12 | [ollama本地大模型选择关于量化和类型](https://dsx2016.com/choosing-local-llms-in-ollama-considerations-regarding-quantization-and-model-types/) | ollama问题 ollama使用遇到的问题 经过排查，默认搜索栏设置通用模型名称下载，比如qwen3.5:2... ollama本地大模型选择关于量化和类型 最先出现在 大师兄2016 。 |
+| 2026-11-12 | [烤乳猪](https://mobius.blog/26122.html) | 今天来聊点地狱笑话。 最近在狗公园里划分了一个自己的办公区，既能方便陪着小狗玩一整天，又顺便记录一下激素对写作 […] |
+| 2026-11-12 | [AI 的知识诅咒与多 Agent 协作](https://1q43.blog/post/12629/) | 内耗是创作的必经之路，对 AI 也是。 |
+| 2026-11-12 | [坚硬的西瓜](https://www.hecaitou.com/2026/11/The-Hard-Watermelon.html) | 这两天我在网上无论去到哪里，都会遇见黄仁勋的段子和 AI 视频。按术语来讲，老黄这是「花案」，花案总是能引起最多人围观。而且，讨论花案门槛很低，不像是讨论显卡性能和大模型论文要求那么高。 一开始老黄看起来没受太多影响，市场开始修复，董事会表示依然信任，部分重要投资人也出面声援，股价在连续下跌后出现了… |
+| 2026-11-12 | [ollama结合open webui和api使用方式](https://dsx2016.com/how-to-use-ollama-in-combination-with-open-webui-and-the-api/) | open webui 接上一篇文章，使用ollama客户端遇到无法关闭qwen3.5:2b的思考模式，这不是我... ollama结合open webui和api使用方式 最先出现在 大师兄2016 。 |
+| 2026-11-12 | [muse注册-无需绑卡即可注册](https://www.cheshirex.com/11674.html) | Meta的muse ai我看挺多人注册的，前面尝试了直接用梯子注册会提示muse尚未在你的国家或地区开放，让加 […] |
+| 2026-11-12 | [那些靠人命堆出来的奇观](https://blog.solazy.me/20261112/) | 今天应该又是一篇暴论，又是一篇可能会迎来骂声的文章 |
 | 2026-11-12 | [Quake 4 updated](https://macsourceports.com/game/quake4) | The build of openQ4 for Quake 4 has been updated to version v0.14.1 of the project |
 | 2026-11-12 | [ollama使用qwen3.5:2b测试文字转md](https://dsx2016.com/testing-text-to-markdown-conversion-using-qwen3-52b-via-ollama/) | ollama本地大模型选型 优选1b左右的，来测试小任务 本文的要求是快，最好是100token/s及以上（因... ollama使用qwen3.5:2b测试文字转md 最先出现在 大师兄2016 。 |
 | 2026-11-12 | [从买鸡蛋到买菜，我对条马的一些观察](https://depp.wang/2026/tiaoma/) | 我平时买菜，更多还是去小区附近专门卖菜的蔬菜店。但条马也是我会去的一个地方，最开始主要去买鸡蛋，后来买雪糕、零食，现在又会买一些蔬菜、水果和肉。买的东西慢慢变多了，我觉得这也能看出条马这种超市为什么能在小区附近做起来。 最开始去条马买鸡蛋，是因为价格比较便宜，看着也比较干净卫生。鸡蛋是平时经常要买的… |
@@ -42,7 +56,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-11-11 | [大变革时代](https://yipai.me/post/2558.html) | 尽管 MacOS 已经从某个版本开始已经把 Spotlight 重构成了类似 Alfred 的形式，但我之前一直还是用 Alfred。因为他支持“双击”快捷键，比如我设置连按两次 Control 键唤起 Alfred，这是 Spotlight 不具备的。但上周末我只给 Codex 一句话就让它写了个… |
 | 2026-11-11 | [Ubuntu内核升级撑爆boot分区导致启动失败修复](https://199604.com/3748) | Ubuntu内核升级撑爆boot分区导致启动失败修复 记录时间：2026-11-11 环境：Ubuntu 24 […] |
 | 2026-11-11 | [认真做一件事，究竟能有多大不同？](https://www.tortorse.com/archives/doing-one-thing-well/) | 黑胡桃木书柜 |
-| 2026-11-11 | [Might and Magic VII: For Blood and Honor updated](https://macsourceports.com/game/mightandmagic7) | The build of OpenEnroth for Might and Magic VII: For Blood and Honor has been updated to the latest code of the project |
 | 2026-11-11 | [Xash3D FWGS updated](https://macsourceports.com/sourceport/xash3d-fwgs) | The build of Xash3D FWGS for the Half-Life series of games has been updated to the latest code of the project\n\nhttps://macsourceports.com/sourceport… |
 | 2026-11-11 | [406MHz 车载电台在何方：共用对讲机现状与选购建议](https://blog.mfwt.top/index.php/archives/1732/) | 已经有超过半年的时间，没有在站点上探讨过关于406MHz 共用对讲机这种合法大功率的对讲机类型了。这主要是没有什么太好的话题，毕竟介绍一下技术细节，介绍一下适用人群，也就这样过去了。不过自从最近... |
 | 2026-11-11 | [前端网页去除AI味的开源项目，提供给AI Agent使用，比如cursor](https://dsx2016.com/open-source-projects-for-removing-the-ai-generated-feel-from-web-contentdesigned-for-use-by-ai-agents-such-as-cursor/) | 内容概览 本文内容 Gemini 4 Carbon 2026年11月10日Gemini 4 Carbon发布 ... 前端网页去除AI味的开源项目，提供给AI Agent使用，比如cursor 最先出现在 大师兄2016 。 |
@@ -73,7 +86,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-11-10 | [Star Wars Jedi Knight II: Jedi Outcast updated](https://macsourceports.com/game/swjk2) | The build of OpenJO (OpenJK Project, Single Player) for Star Wars Jedi Knight II: Jedi Outcast has been updated to the latest code of the project |
 | 2026-11-10 | [OpenXcom updated](https://macsourceports.com/sourceport/openxcom) | The build of OpenXcom for the X-Com series of games has been updated to the latest code of the project\n\nhttps://macsourceports.com/sourceport/openxc… |
 | 2026-11-10 | [Quake updated](https://macsourceports.com/game/quake) | The build of DarkPlaces for Quake has been updated to the latest code of the project |
-| 2026-11-10 | [Quake III: Arena updated](https://macsourceports.com/game/quake3arena) | The build of Quake3e for Quake III: Arena has been updated to the latest code of the project |
 | 2026-11-10 | [vivo手机域名列表](https://www.cheshirex.com/11656.html) | 以下内容来自于网友收集域名，博主二次收集再加工。 相关链接 DNS广告隐私屏蔽列表：https://githu […] |
 | 2026-11-10 | [古老师的新玩具！有点可爱呀](https://versun.me/blog/tweet-2120034194583921107) | Wey Gu 古思为 Made Ducter on a work-trip weekend, in a Tokyo Airbnb, after Conductor dropped Cloud from Pro. Grok Bot, but open source and on your own su… |
 | 2026-11-10 | [Fable 5.2 文字能力感觉比 Op](https://versun.me/blog/tweet-2120020131501969627) | Claude During pre-release testing, Claude Fable 5.2 and Claude Mythos 5.2 worked on ambitious projects in many different fields. Here are a few. From… |
@@ -192,7 +204,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-11-06 | [博客疑似被ai爬虫伪造refer爬取数据被勿污染](https://dsx2016.com/blog-data-may-have-been-contaminated-by-ai-crawlers-that-spoofed-the-referer-header-to-scrape-content/) | aocr.org 近期发现我的博客都有来源这个网站的访问 但是访问这个网站发现是一个美国医疗小机构的官网之类的... 博客疑似被ai爬虫伪造refer爬取数据被勿污染 最先出现在 大师兄2016 。 |
 | 2026-11-06 | [脉冲星](https://physnya.top/compact-object/lesson-7-pulsars/) | Pre-1: Kerr-Neumann Perturbations 我们的问题是一个被扰动的黑洞会释放辐射，而这个微扰会如何改动它的辐射复频率. 计算的方法是对 Einstein 方程做一阶微扰. 在过去的方法中，有过对于 a = 0 a=0 a = 0 / Q = 0 Q=0 Q = 0 两种情况… |
 | 2026-11-06 | [Tidal Disruption Events](https://physnya.top/posts/tde-lecture/) | 提示 这是我去 wxf 老师组会听北大的 yyh 老师讲的报告时记录的笔记，留作备份. 由于我之前并没有接触过 TDE 相关的内容，因此听得不是很明白，勉强记下来一些. General Intro 简单来说是黑洞将一个恒星或者天体瓦解的过程. 定性上， G M r 2 R ⋆ r ∼ G M ⋆ R… |
-| 2026-11-06 | [Total Annihilation updated](https://macsourceports.com/game/totalannihilation) | The build of Open Annihilation for Total Annihilation has been updated to version v0.9.0 of the project |
 | 2026-11-06 | [还是 opus 5.5 好用呀，不仅干活](https://versun.me/blog/tweet-2118662784196186124) | Versun 经过近一个月的使用，我把 hermes 的默认模型，从 gemini 3.8 flash 改回到 opus 5.5 了， gemini 太阿谀奉承了，一点自己的主见没有， 好几次差点坏了事，还是 opus 靠谱，虽然说话难听了点 🤣 还是 opus 5.5 好用呀，不仅干活利索，还能预… |
 | 2026-11-06 | [我想给自己建立一个长期运行的 AI 助手](https://www.banzhuanriji.com/posts/a-long-term-ai-assistant/) | 最近一直在想一件事：能不能把 AI 真正融入自己的生活？ 这里说的融入，不是每天打开 ChatGPT 问几个技术问题，也不是让 AI 帮忙写文章、整理资料。我想做的是更进一步的事情。 我希望有一个 AI，它能够逐渐了解我。 知道我做什么工作，有哪些能力，经济状况怎么样，平时有什么习惯，喜欢什么、不喜… |
 | 2026-11-06 | [Claude Code、Codex 与 Seedance 做 AI 视频：从想法到成片](https://gugegt.com/20261106-claude-codex-seedance-ai-video.html) | 这篇整理自 Eian 11 月 5 日发在 X 上的长文，280 多万浏览，讲怎么用 Claude Code、Codex、Seedance 做一条 AI 视频。全文分工具层和实操两部分，我按原帖的结构整理，要点和做法都保留，10 段提示词都按要点展开写细了，完整版见文末原文链接。 这篇只解决一个问题… |
