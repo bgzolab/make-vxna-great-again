@@ -27,6 +27,10 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-11-13 | [Pantone潘通年度色查询：2000–2026 年 29 个年度色，附配色和色值](https://gugegt.com/20261114-pantone-color-of-the-year.html) | 工具地址： Pantone潘通年度色查询 ，骨哥GT 在线工具里的第 14 个。 |
+| 2026-11-13 | [野人编年史](http://imlane.zhanglintc.co/ye-ren-bian-nian-shi) | 野人编年史 野人创始人 徐队 ，群昵称Shogun。姓徐，称徐队，真野人队长，野人 抖音官号 持有者。 张队 ，群昵称张小不。江湖人称竹节虫，简称虫队，野人 微信公众号 持有者。 熊队 ，群昵称熊嘎婆，称熊队。 野人CLUB游泳事业部 群主。 亮队 ，群昵称亮什么，称亮队，野人 小红书官号 持有者。… |
+| 2026-11-13 | [Quake updated](https://macsourceports.com/game/quake) | The build of QSS-M for Quake has been updated to version 1.7.0 of the project |
+| 2026-11-13 | [Why I Still Care About Open Source](https://missuo.me/posts/open-source-manners/) | Open source is up for debate again, so here's where I stand: GitHub as the one place people give away all their work, who sends issues and who sends P… |
 | 2026-11-13 | [esp32 cyd speak 番茄钟 添加提示音 音效和tts](https://dsx2016.com/esp32-cyd-pomodoro-timer-adding-alerts-sound-effects-and-tts/) | 番茄钟 之前esp32 cyd的speak喇叭一直有杂音，而且没有找到原因和解决方案 现在没有杂音，所以重新更... esp32 cyd speak 番茄钟 添加提示音 音效和tts 最先出现在 大师兄2016 。 |
 | 2026-11-13 | [Might and Magic VII: For Blood and Honor updated](https://macsourceports.com/game/mightandmagic7) | The build of OpenEnroth for Might and Magic VII: For Blood and Honor has been updated to the latest code of the project |
 | 2026-11-13 | [台式机换个了新家](https://hux.ink/posts/small-pc-case/) | 2020 年装机的台式电脑，用的是先马小黑洞机箱，个头特别大，摆在桌子旁边很占地方。最近寻思着能不能换个小一点的机箱，但有个前提，必须保留原来的所有硬件，除了机箱之外，不打算额外花钱升级配件。 有了这个想法之后，我把电脑的硬件清单和机箱内部布局拍照发给 ChatGPT，让它先帮忙分析一番。它一开始推… |
@@ -49,6 +53,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-11-12 | [英伟达是真把皮衣裁了呀！ 毋庸置疑，这将](https://versun.me/blog/tweet-2121003491531665415) | NVIDIA Newsroom NVIDIA announces CEO transition. Read the release: https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition 英伟达是真把皮衣裁了呀！ 毋庸置… |
 | 2026-11-12 | [llm-d SLO延迟预测路由一些研究](https://eduardoqian.com/archives/llm-d-sloyan-chi-yu-ce-lu-you) | 前段时间对于LLM inference的SLO部分设计做了一些研究，又看了一下llm-d的这里，发现他们对SLO延迟预测也一些研究成果，这里就总结一下。 概览 Predicted Latency-Based Routing，SLO-aware 是其中一种模式。llm-d 的路由组件 EPP（Endp |
 | 2026-11-12 | [从 GitHub 通知学到的邮件体验](https://wxhboy.cn/email-threading/) | 改了几个邮件头，让日报、周报、月报在邮箱里各自聚成一条会话，攒着不看也不会把收件箱刷屏。 |
+| 2026-11-12 | [AI 早报 2026-11-13：腾讯混元发布实时语音模型 Hy Realtime：边聊边查资料，还能唱歌](https://www.jtxyh.com/daily/2026-11-13/) | 2026-11-13 AI 早报，共 22 条动态。腾讯混元 11 月 13 日发布实时语音模型 Hy Realtime，在语音理解、指令遵循和拟人化表达的基础上，新增 Agentic 工具调用与唱歌能力。澳大利亚量子基础设施软件公司Q-CTRL 11月12日宣布完成2.9亿美元（约4.15亿澳元）… |
 | 2026-11-12 | [Total Annihilation updated](https://macsourceports.com/game/totalannihilation) | The build of Open Annihilation for Total Annihilation has been updated to version v0.9.1 of the project |
 | 2026-11-12 | [向云端｜西南自驾14 - 北盘江](https://blog.ops-coffee.com/r/2026-southwest-road-trip-14-beipanjiang.html) |  |
 | 2026-11-12 | [Album#51 - 阁楼的影像 & 家](https://taxodium.ink/album-51.html) | Album#51 阁楼的影像 & 家 图1 阁楼的影像 by handycam 专辑信息 专辑名称： 阁楼的影像 歌手： handycam 年份： 2026-01-20 时长： 約 55 分鐘 图2 家 by handycam 专辑信息 专辑名称： 家 歌手： handycam 年份： 2026-0… |
@@ -107,7 +112,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-11-10 | [Star Wars Jedi Knight: Jedi Academy updated](https://macsourceports.com/game/swjkja) | The build of OpenJK (Single Player) for Star Wars Jedi Knight: Jedi Academy has been updated to the latest code of the project |
 | 2026-11-10 | [Star Wars Jedi Knight II: Jedi Outcast updated](https://macsourceports.com/game/swjk2) | The build of OpenJO (OpenJK Project, Single Player) for Star Wars Jedi Knight II: Jedi Outcast has been updated to the latest code of the project |
 | 2026-11-10 | [OpenXcom updated](https://macsourceports.com/sourceport/openxcom) | The build of OpenXcom for the X-Com series of games has been updated to the latest code of the project\n\nhttps://macsourceports.com/sourceport/openxc… |
-| 2026-11-10 | [Quake updated](https://macsourceports.com/game/quake) | The build of DarkPlaces for Quake has been updated to the latest code of the project |
 | 2026-11-10 | [vivo手机域名列表](https://www.cheshirex.com/11656.html) | 以下内容来自于网友收集域名，博主二次收集再加工。 相关链接 DNS广告隐私屏蔽列表：https://githu […] |
 | 2026-11-10 | [古老师的新玩具！有点可爱呀](https://versun.me/blog/tweet-2120034194583921107) | Wey Gu 古思为 Made Ducter on a work-trip weekend, in a Tokyo Airbnb, after Conductor dropped Cloud from Pro. Grok Bot, but open source and on your own su… |
 | 2026-11-10 | [Fable 5.2 文字能力感觉比 Op](https://versun.me/blog/tweet-2120020131501969627) | Claude During pre-release testing, Claude Fable 5.2 and Claude Mythos 5.2 worked on ambitious projects in many different fields. Here are a few. From… |
