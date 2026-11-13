@@ -1,5 +1,103 @@
 [
   {
+    "title": "esp32 cyd speak 番茄钟 添加提示音 音效和tts",
+    "url": "https://dsx2016.com/esp32-cyd-pomodoro-timer-adding-alerts-sound-effects-and-tts/",
+    "date": "2026-11-13T11:42:01Z",
+    "description": "番茄钟 之前esp32 cyd的speak喇叭一直有杂音，而且没有找到原因和解决方案 现在没有杂音，所以重新更... esp32 cyd speak 番茄钟 添加提示音 音效和tts 最先出现在 大师兄2016 。",
+    "source_root_domain": "dsx2016.com"
+  },
+  {
+    "title": "Might and Magic VII: For Blood and Honor updated",
+    "url": "https://macsourceports.com/game/mightandmagic7",
+    "date": "2026-11-13T10:24:57Z",
+    "description": "The build of OpenEnroth for Might and Magic VII: For Blood and Honor has been updated to the latest code of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "台式机换个了新家",
+    "url": "https://hux.ink/posts/small-pc-case/",
+    "date": "2026-11-13T09:22:32Z",
+    "description": "2020 年装机的台式电脑，用的是先马小黑洞机箱，个头特别大，摆在桌子旁边很占地方。最近寻思着能不能换个小一点的机箱，但有个前提，必须保留原来的所有硬件，除了机箱之外，不打算额外花钱升级配件。 有了这个想法之后，我把电脑的硬件清单和机箱内部布局拍照发给 ChatGPT，让它先帮忙分析一番。它一开始推荐的是乔思伯 Z20，算下来比原来的机箱缩小了 31%，但我拿尺子比划了一下，感觉还是有点大。于是继续追问：“还有没有尺寸更小，但不用更换任何配件的？”它又推荐了闪鳞 G400，体积比原机箱缩小 49%，这下有点心动了。不过它特别提醒我，旧电脑还有两块机械硬盘，新机箱不一定放得下，建议先咨询商家。 我倒觉得问题不大，反问它：“机械硬盘就算没有固定硬盘位，也不至于塞不进去吧，只要接口够就行。”它听完又改了主意，说如果能接受自己想办法固定硬盘，那闪鳞 G300 也可以纳入考虑范围，体积足足缩小了 55%。好家伙，越问越小，最后直接从一个 37L 的大机箱缩小到了 16.8L。 不过，说归说，我心里其实挺没底的。以前虽然也拆过电脑、换过配件，但完整拆装一台电脑还是第一次，于是特地问了句：“我小白买",
+    "source_root_domain": "hux.ink"
+  },
+  {
+    "title": "esp32 cyd speak 英文短词 提示音效",
+    "url": "https://dsx2016.com/esp32-cyd-short-english-phrases-audio-prompts/",
+    "date": "2026-11-13T07:56:17Z",
+    "description": "英文单词音效 之前设置了通用的提示音效，番茄钟场景音效，闹钟模拟背景音乐长电子音效 但是这些还是不能明确的点明... esp32 cyd speak 英文短词 提示音效 最先出现在 大师兄2016 。",
+    "source_root_domain": "dsx2016.com"
+  },
+  {
+    "title": "《异教徒 Heretic》",
+    "url": "https://banzhuanriji.com/movie/heretic.html",
+    "date": "2026-11-13T07:53:00Z",
+    "description": "最近杭州下雨，窝在被子里看恐怖片太棒了。但是我不喜欢那种走恶心和突脸路线的。经过各种APP选择了《异教徒》，结果比我想象的好看很多。属于是宗教+惊悚（或许说恐怖更合适）。比较遗憾的就是后期强制来...",
+    "source_root_domain": "banzhuanriji.com"
+  },
+  {
+    "title": "Mac 跨桌面录屏，为什么 Chrome 视频会黑屏",
+    "url": "https://liudon.com/posts/chrome-offscreen-video-black/",
+    "date": "2026-11-13T07:05:09Z",
+    "description": "在 Safari 篇 里，提到了一条来自 Chrome 的线索。要讲清楚这条线索，还得回到 Gecko 早期的跨桌面录制测试。 当时，Chrome 窗口切到其他 Space 后，主要表现是画面更新稀疏。引入 Pulse 后，已经能够采集到连续变化的视频帧。",
+    "source_root_domain": "liudon.com"
+  },
+  {
+    "title": "Mac 跨桌面录屏，为什么 Safari 视频会黑屏",
+    "url": "https://liudon.com/posts/safari-offscreen-video-black/",
+    "date": "2026-11-13T07:05:08Z",
+    "description": "在 Gecko 的应用兼容性测试中，Safari 出现了一个问题：窗口在当前桌面时录制正常，切到另一个 Space，录像中的视频区域却变成了黑色。声音还在，录制也没有停止；切回原桌面，画面又恢复。",
+    "source_root_domain": "liudon.com"
+  },
+  {
+    "title": "2026.11.12",
+    "url": "https://www.justzht.com/2026-11-12/",
+    "date": "2026-11-13T05:42:29Z",
+    "description": "E39 早上开去 Apple Park 一切正常，但傍晚下班要去和同事吃饭喝酒，坐进去发现打不着了，钥匙到底都听不到 start motor 转的声",
+    "source_root_domain": "justzht.com"
+  },
+  {
+    "title": "起立一下是应该的",
+    "url": "https://www.hecaitou.com/2026/11/they-deserve-a-standing-ovation.html",
+    "date": "2026-11-13T05:17:01Z",
+    "description": "《给阿嬷的情书》拿下了金鸡奖最佳编剧奖，还获得了 评委会特别奖，受到了本届金鸡奖的特别肯定。 很多人不开心，觉得电影没有得到最佳故事片奖或者最佳导演奖，说明评委有眼无珠，电影圈闭门自嗨，对此我并不赞同。如果金鸡奖是一个偏向观众的电影奖项，那么观众最喜欢的电影，票房最高的电影，肯定要在奖项上予以体现。 但是，如果金鸡奖本身偏向电影艺术，更多从专业角度衡量一部电影的水准、一位导演的能力，那么它肯定会更多考虑那些更有「电影味」的电影，更多考虑用了什么不一样的创作思路，什么不一样的表现手法。你可以说这是学术气太重，可以说是学术小共同体的固执，但不能说别人没标准，全是黑心。 我个人很喜欢 《给阿嬷的情书》，为此写了很多篇文章，甚至是在没看之前就做了推荐，等到看完回来又立即做了正式推荐。不止如此，我还向自己的所有潮汕朋友赠送了以这部电影为封面的杂志特刊和海报，现在就有张海报还贴在一位朋友家的冰箱上。至于说我后来去学习潮汕话的那部分就算了，因为花了很多时间，却并不成功，学来学去也就只能说一句潮普：胡务盐（服务员）。无非是学到了还有另外一种发音：胡务羊。 即便我那么喜欢这部片子，我也不天然认为它就应该",
+    "source_root_domain": "hecaitou.com"
+  },
+  {
+    "title": "esp32 cyd speak喇叭一直有电流哒哒声问题 音频模块",
+    "url": "https://dsx2016.com/issue-with-persistent-crackling-clicking-noise-from-the-speaker-on-the-esp32-cyd-speak-audio-module/",
+    "date": "2026-11-13T04:53:16Z",
+    "description": "esp32 cyd speak喇叭 这几天测试番茄钟的时候，发现speak喇叭一直有电流声音，杂音 手上有2个... esp32 cyd speak喇叭一直有电流哒哒声问题 音频模块 最先出现在 大师兄2016 。",
+    "source_root_domain": "dsx2016.com"
+  },
+  {
+    "title": "Master of Orion updated",
+    "url": "https://macsourceports.com/game/masteroforion",
+    "date": "2026-11-13T04:23:07Z",
+    "description": "The build of 1oom for Master of Orion has been updated to version 1.11.9 of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "Oddworld: Abe's Oddysee updated",
+    "url": "https://macsourceports.com/game/oddworld-ao",
+    "date": "2026-11-13T04:18:09Z",
+    "description": "The build of R.E.L.I.V.E. for Abe's Oddysee for Oddworld: Abe's Oddysee has been updated to version 1.1.0 of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "Oddworld: Abe's Exoddus updated",
+    "url": "https://macsourceports.com/game/oddworld-ae",
+    "date": "2026-11-13T04:18:08Z",
+    "description": "The build of R.E.L.I.V.E. for Abe's Exoddus for Oddworld: Abe's Exoddus has been updated to version 1.1.0 of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "机房停电导致 VictoriaMetrics 与 VictoriaLogs 存储损坏的恢复记录",
+    "url": "https://199604.com/3750",
+    "date": "2026-11-13T03:45:03Z",
+    "description": "机房停电导致 VictoriaMetrics 与 VictoriaLogs 存储损坏的恢复记录 记录时间：20 […]",
+    "source_root_domain": "199604.com"
+  },
+  {
     "title": "祸事",
     "url": "https://mobius.blog/26129.html",
     "date": "2026-11-13T01:30:00Z",
@@ -49,6 +147,13 @@
     "source_root_domain": "eduardoqian.com"
   },
   {
+    "title": "从 GitHub 通知学到的邮件体验",
+    "url": "https://wxhboy.cn/email-threading/",
+    "date": "2026-11-12T16:00:00Z",
+    "description": "改了几个邮件头，让日报、周报、月报在邮箱里各自聚成一条会话，攒着不看也不会把收件箱刷屏。",
+    "source_root_domain": "wxhboy.cn"
+  },
+  {
     "title": "Total Annihilation updated",
     "url": "https://macsourceports.com/game/totalannihilation",
     "date": "2026-11-12T12:00:50Z",
@@ -68,13 +173,6 @@
     "date": "2026-11-12T09:19:00Z",
     "description": "Album#51 阁楼的影像 & 家 图1 阁楼的影像 by handycam 专辑信息 专辑名称： 阁楼的影像 歌手： handycam 年份： 2026-01-20 时长： 約 55 分鐘 图2 家 by handycam 专辑信息 专辑名称： 家 歌手： handycam 年份： 2026-06-29 时长： 約 60 分鐘 在 HOPICO 的 我把 2026 最爱的三位女歌手请来同台演出！陈静琳x汪川xjody 裡， 汪川 邀請了 handycam 來給她當樂隊，於是認識了這支樂隊，就把他們的專輯都找來聴了聴 (有時就是這樣發現新音樂的，喜歡一個音樂人，當他提到一些他喜歡的音樂人就去找來聴聴) 。 截止到現在，2026 年 handycam 發布了三張專輯，還有兩張 live。其中《阁楼的影像》和《家》這兩張在聴感上我覺得是相近的，像是樂隊成員們輕鬆自在的窝在一個地方，隨意地演奏著一些他們喜歡的旋律，一起開心地玩。歌曲大多都是器樂演奏，聴起來有些 Jazz 的元素，偶尔能聴到他們之間一些隨意的對話、即興的哼唱，總之聴著蠻讓人放鬆的。曲子的名字也很有趣，像是「宁静的夜空调漏水」",
     "source_root_domain": "taxodium.ink"
-  },
-  {
-    "title": "Might and Magic VII: For Blood and Honor updated",
-    "url": "https://macsourceports.com/game/mightandmagic7",
-    "date": "2026-11-12T09:11:21Z",
-    "description": "The build of OpenEnroth for Might and Magic VII: For Blood and Honor has been updated to the latest code of the project",
-    "source_root_domain": "macsourceports.com"
   },
   {
     "title": "Daikatana updated",
@@ -290,7 +388,7 @@
     "title": "Gecko：macOS 录屏工具开发实践",
     "url": "https://liudon.com/guides/gecko/",
     "date": "2026-11-11T07:55:00Z",
-    "description": "Gecko 是我开发的一款 macOS 原生录屏工具，基于 ScreenCaptureKit 和 AVFoundation，实现指定应用的音视频录制。 开发过程中，跨桌面录制成为最难解决的问题。从画面卡顿、冻结的排查，到利用 Pulse 改善采集，再到构建自动化测试验证录制结果，这份指南整理了 Gecko 的开发实践、问题分析与解决过程。",
+    "description": "Gecko 是我开发的一款 macOS 原生录屏工具，基于 ScreenCaptureKit 和 AVFoundation，实现指定应用的音视频录制。 开发过程中，跨桌面录制成为最棘手的问题。从画面卡顿、冻结，到 Safari / Chrome 视频区域黑屏，先后通过对照实验、Pulse 机制和自动化测试逐步定位问题，并深入研究浏览器的窗口遮挡与媒体可见性机制。",
     "source_root_domain": "liudon.com"
   },
   {

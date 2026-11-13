@@ -27,6 +27,20 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-11-13 | [esp32 cyd speak 番茄钟 添加提示音 音效和tts](https://dsx2016.com/esp32-cyd-pomodoro-timer-adding-alerts-sound-effects-and-tts/) | 番茄钟 之前esp32 cyd的speak喇叭一直有杂音，而且没有找到原因和解决方案 现在没有杂音，所以重新更... esp32 cyd speak 番茄钟 添加提示音 音效和tts 最先出现在 大师兄2016 。 |
+| 2026-11-13 | [Might and Magic VII: For Blood and Honor updated](https://macsourceports.com/game/mightandmagic7) | The build of OpenEnroth for Might and Magic VII: For Blood and Honor has been updated to the latest code of the project |
+| 2026-11-13 | [台式机换个了新家](https://hux.ink/posts/small-pc-case/) | 2020 年装机的台式电脑，用的是先马小黑洞机箱，个头特别大，摆在桌子旁边很占地方。最近寻思着能不能换个小一点的机箱，但有个前提，必须保留原来的所有硬件，除了机箱之外，不打算额外花钱升级配件。 有了这个想法之后，我把电脑的硬件清单和机箱内部布局拍照发给 ChatGPT，让它先帮忙分析一番。它一开始推… |
+| 2026-11-13 | [esp32 cyd speak 英文短词 提示音效](https://dsx2016.com/esp32-cyd-short-english-phrases-audio-prompts/) | 英文单词音效 之前设置了通用的提示音效，番茄钟场景音效，闹钟模拟背景音乐长电子音效 但是这些还是不能明确的点明... esp32 cyd speak 英文短词 提示音效 最先出现在 大师兄2016 。 |
+| 2026-11-13 | [《异教徒 Heretic》](https://banzhuanriji.com/movie/heretic.html) | 最近杭州下雨，窝在被子里看恐怖片太棒了。但是我不喜欢那种走恶心和突脸路线的。经过各种APP选择了《异教徒》，结果比我想象的好看很多。属于是宗教+惊悚（或许说恐怖更合适）。比较遗憾的就是后期强制来... |
+| 2026-11-13 | [Mac 跨桌面录屏，为什么 Chrome 视频会黑屏](https://liudon.com/posts/chrome-offscreen-video-black/) | 在 Safari 篇 里，提到了一条来自 Chrome 的线索。要讲清楚这条线索，还得回到 Gecko 早期的跨桌面录制测试。 当时，Chrome 窗口切到其他 Space 后，主要表现是画面更新稀疏。引入 Pulse 后，已经能够采集到连续变化的视频帧。 |
+| 2026-11-13 | [Mac 跨桌面录屏，为什么 Safari 视频会黑屏](https://liudon.com/posts/safari-offscreen-video-black/) | 在 Gecko 的应用兼容性测试中，Safari 出现了一个问题：窗口在当前桌面时录制正常，切到另一个 Space，录像中的视频区域却变成了黑色。声音还在，录制也没有停止；切回原桌面，画面又恢复。 |
+| 2026-11-13 | [2026.11.12](https://www.justzht.com/2026-11-12/) | E39 早上开去 Apple Park 一切正常，但傍晚下班要去和同事吃饭喝酒，坐进去发现打不着了，钥匙到底都听不到 start motor 转的声 |
+| 2026-11-13 | [起立一下是应该的](https://www.hecaitou.com/2026/11/they-deserve-a-standing-ovation.html) | 《给阿嬷的情书》拿下了金鸡奖最佳编剧奖，还获得了 评委会特别奖，受到了本届金鸡奖的特别肯定。 很多人不开心，觉得电影没有得到最佳故事片奖或者最佳导演奖，说明评委有眼无珠，电影圈闭门自嗨，对此我并不赞同。如果金鸡奖是一个偏向观众的电影奖项，那么观众最喜欢的电影，票房最高的电影，肯定要在奖项上予以体现。… |
+| 2026-11-13 | [esp32 cyd speak喇叭一直有电流哒哒声问题 音频模块](https://dsx2016.com/issue-with-persistent-crackling-clicking-noise-from-the-speaker-on-the-esp32-cyd-speak-audio-module/) | esp32 cyd speak喇叭 这几天测试番茄钟的时候，发现speak喇叭一直有电流声音，杂音 手上有2个... esp32 cyd speak喇叭一直有电流哒哒声问题 音频模块 最先出现在 大师兄2016 。 |
+| 2026-11-13 | [Master of Orion updated](https://macsourceports.com/game/masteroforion) | The build of 1oom for Master of Orion has been updated to version 1.11.9 of the project |
+| 2026-11-13 | [Oddworld: Abe's Oddysee updated](https://macsourceports.com/game/oddworld-ao) | The build of R.E.L.I.V.E. for Abe's Oddysee for Oddworld: Abe's Oddysee has been updated to version 1.1.0 of the project |
+| 2026-11-13 | [Oddworld: Abe's Exoddus updated](https://macsourceports.com/game/oddworld-ae) | The build of R.E.L.I.V.E. for Abe's Exoddus for Oddworld: Abe's Exoddus has been updated to version 1.1.0 of the project |
+| 2026-11-13 | [机房停电导致 VictoriaMetrics 与 VictoriaLogs 存储损坏的恢复记录](https://199604.com/3750) | 机房停电导致 VictoriaMetrics 与 VictoriaLogs 存储损坏的恢复记录 记录时间：20 […] |
 | 2026-11-13 | [祸事](https://mobius.blog/26129.html) | 就算是在狗公园办公，也有突如其来的、必须要打断当下节奏的灵感。比如刚才不远处升起了一股黑烟，甚至还听到了爆炸声 […] |
 | 2026-11-13 | [经济下行期的双十一名存实亡](https://krya.com/post/double11-2026/) | 昨天我坐下沙发的时候，突然胸口一紧，感觉什么东西收缩了一下，过程持续很短，大约三秒钟左右消散，无任何疼痛。 我怀疑可能和心脏有关。今天去医院检查血脂和心电图。看到报告单上写今天是11号——居然忘了今天是双十一。我和朋友分享此事，问他今天数据如何，他说，平凡一天。 双十一的存在感为何越来越低？从消费者… |
 | 2026-11-13 | [科技爱好者周刊（第 419 期）：机房来了，写字楼走了](http://www.ruanyifeng.com/blog/2026/11/weekly-issue-419.html) | 这里记录每周值得分享的科技内容，周五发布。 本杂志 开源 ，欢迎 投稿 。另有 《谁在招人》 服务，发布程序员招聘信息。合作请 邮件联系 （yifeng.ruan@gmail.com）。 封面图 成都麓湖生态城的 Q8 步行桥，采用双曲线造型，在机动车桥的下方穿过，盘旋处形成一个湖心岛。（ via… |
@@ -34,10 +48,10 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-11-12 | [gemini 4 flash 出来了！比](https://versun.me/blog/tweet-2121004494159036480) | Logan Kilpatrick Introducing Gemini 4 Hydrogen, an extremely capable and fast model built to bring Gemini 4 to everyone! Available to all tiers of Goo… |
 | 2026-11-12 | [英伟达是真把皮衣裁了呀！ 毋庸置疑，这将](https://versun.me/blog/tweet-2121003491531665415) | NVIDIA Newsroom NVIDIA announces CEO transition. Read the release: https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition 英伟达是真把皮衣裁了呀！ 毋庸置… |
 | 2026-11-12 | [llm-d SLO延迟预测路由一些研究](https://eduardoqian.com/archives/llm-d-sloyan-chi-yu-ce-lu-you) | 前段时间对于LLM inference的SLO部分设计做了一些研究，又看了一下llm-d的这里，发现他们对SLO延迟预测也一些研究成果，这里就总结一下。 概览 Predicted Latency-Based Routing，SLO-aware 是其中一种模式。llm-d 的路由组件 EPP（Endp |
+| 2026-11-12 | [从 GitHub 通知学到的邮件体验](https://wxhboy.cn/email-threading/) | 改了几个邮件头，让日报、周报、月报在邮箱里各自聚成一条会话，攒着不看也不会把收件箱刷屏。 |
 | 2026-11-12 | [Total Annihilation updated](https://macsourceports.com/game/totalannihilation) | The build of Open Annihilation for Total Annihilation has been updated to version v0.9.1 of the project |
 | 2026-11-12 | [向云端｜西南自驾14 - 北盘江](https://blog.ops-coffee.com/r/2026-southwest-road-trip-14-beipanjiang.html) |  |
 | 2026-11-12 | [Album#51 - 阁楼的影像 & 家](https://taxodium.ink/album-51.html) | Album#51 阁楼的影像 & 家 图1 阁楼的影像 by handycam 专辑信息 专辑名称： 阁楼的影像 歌手： handycam 年份： 2026-01-20 时长： 約 55 分鐘 图2 家 by handycam 专辑信息 专辑名称： 家 歌手： handycam 年份： 2026-0… |
-| 2026-11-12 | [Might and Magic VII: For Blood and Honor updated](https://macsourceports.com/game/mightandmagic7) | The build of OpenEnroth for Might and Magic VII: For Blood and Honor has been updated to the latest code of the project |
 | 2026-11-12 | [Daikatana updated](https://macsourceports.com/game/daikatana) | The build of Daikatana 1.3 Project for Daikatana has been updated to version 1.3-20261112 of the project |
 | 2026-11-12 | [Quake III: Arena updated](https://macsourceports.com/game/quake3arena) | The build of Quake3e for Quake III: Arena has been updated to the latest code of the project |
 | 2026-11-12 | [我做了两款微信小游戏](https://blog.forecho.com/two-wechat-minigames.html) | 引言 最近开始迷上了休闲游戏，也就动手做微信小游戏。 前几天把第一款做完送审，接着又做了第二款。两款都是单机、走广告变现，用的是个人主体。现在都已经上线了，欢迎大家去试玩，也帮我找找 bug。 怎么做的 第一款《疯狂轮胎》花了 3 天。因为要自己画界面，后面我用 ChatGPT SOL 重构了部分页… |
@@ -68,7 +82,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-11-11 | [406MHz 车载电台在何方：共用对讲机现状与选购建议](https://blog.mfwt.top/index.php/archives/1732/) | 已经有超过半年的时间，没有在站点上探讨过关于406MHz 共用对讲机这种合法大功率的对讲机类型了。这主要是没有什么太好的话题，毕竟介绍一下技术细节，介绍一下适用人群，也就这样过去了。不过自从最近... |
 | 2026-11-11 | [前端网页去除AI味的开源项目，提供给AI Agent使用，比如cursor](https://dsx2016.com/open-source-projects-for-removing-the-ai-generated-feel-from-web-contentdesigned-for-use-by-ai-agents-such-as-cursor/) | 内容概览 本文内容 Gemini 4 Carbon 2026年11月10日Gemini 4 Carbon发布 ... 前端网页去除AI味的开源项目，提供给AI Agent使用，比如cursor 最先出现在 大师兄2016 。 |
 | 2026-11-11 | [评论区换了个新家](https://hux.ink/posts/new-comment/) | 十月底，把博客的评论系统换掉了。 原来用的是 Twikoo，部署在群晖 Docker 里。用了挺长时间，满足需求但不完美，一是太依赖家里的 NAS 的稳定运行，二是哔哔条目被评论后无法准确定位。博客本身早已实现静态托管，唯独评论系统还得靠家里的设备维持，想想还是决定把它换掉。 于是在 AI 的帮助下… |
-| 2026-11-11 | [Gecko：macOS 录屏工具开发实践](https://liudon.com/guides/gecko/) | Gecko 是我开发的一款 macOS 原生录屏工具，基于 ScreenCaptureKit 和 AVFoundation，实现指定应用的音视频录制。 开发过程中，跨桌面录制成为最难解决的问题。从画面卡顿、冻结的排查，到利用 Pulse 改善采集，再到构建自动化测试验证录制结果，这份指南整理了 Ge… |
+| 2026-11-11 | [Gecko：macOS 录屏工具开发实践](https://liudon.com/guides/gecko/) | Gecko 是我开发的一款 macOS 原生录屏工具，基于 ScreenCaptureKit 和 AVFoundation，实现指定应用的音视频录制。 开发过程中，跨桌面录制成为最棘手的问题。从画面卡顿、冻结，到 Safari / Chrome 视频区域黑屏，先后通过对照实验、Pulse 机制和自动… |
 | 2026-11-11 | [每次我们有一个新模型，我都会在所有项目上](https://versun.me/blog/tweet-2120417876993818805) | Alex Albert Every time we have a new model, I run the same simple prompt on all my projects: "Read this entire project and find everything that’s brok… |
 | 2026-11-11 | [黄仁勋出轨是中年男性的归宿吗？](https://mobius.blog/26116.html) | 先标题党一下，是因为有人给我留言，想让我聊聊黄仁勋出轨的事件。 我把这件事归类在“华尔街政治八卦新闻”，也就是 […] |
 | 2026-11-11 | [APEC 要来了](https://hux.ink/posts/apec-shenzhen-2026/) | 深圳今年的头等大事，无疑是下周即将召开的 APEC 会议。 我上班的地方在福田区边缘，住在罗湖区，工作和生活都不在会议核心区域。不过，随着会议临近，多少还是感受到了一些变化。 一、公司不放假。据传，人力部门曾将调休方案呈报给 VP，结果被当场回绝。其实早早就在小范围议论，深圳到底会不会效仿之前举办过… |
