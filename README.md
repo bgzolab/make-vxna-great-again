@@ -27,7 +27,13 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-11-13 | [祸事](https://mobius.blog/26129.html) | 就算是在狗公园办公，也有突如其来的、必须要打断当下节奏的灵感。比如刚才不远处升起了一股黑烟，甚至还听到了爆炸声 […] |
+| 2026-11-13 | [经济下行期的双十一名存实亡](https://krya.com/post/double11-2026/) | 昨天我坐下沙发的时候，突然胸口一紧，感觉什么东西收缩了一下，过程持续很短，大约三秒钟左右消散，无任何疼痛。 我怀疑可能和心脏有关。今天去医院检查血脂和心电图。看到报告单上写今天是11号——居然忘了今天是双十一。我和朋友分享此事，问他今天数据如何，他说，平凡一天。 双十一的存在感为何越来越低？从消费者… |
+| 2026-11-13 | [科技爱好者周刊（第 419 期）：机房来了，写字楼走了](http://www.ruanyifeng.com/blog/2026/11/weekly-issue-419.html) | 这里记录每周值得分享的科技内容，周五发布。 本杂志 开源 ，欢迎 投稿 。另有 《谁在招人》 服务，发布程序员招聘信息。合作请 邮件联系 （yifeng.ruan@gmail.com）。 封面图 成都麓湖生态城的 Q8 步行桥，采用双曲线造型，在机动车桥的下方穿过，盘旋处形成一个湖心岛。（ via… |
 | 2026-11-12 | [学习周刊-总第289期-2026年第46周](https://wiki.eryajf.net/pages/513f3b/) | 如要阅读全文，点击标题跳转。 学习周刊-总第289期 &#124; atrium &#124; app-monitor &#124; Knopo &#124; Pulse &#124; freebuddy &#124; MirrorProxy &#124; navop &#124; openship |
+| 2026-11-12 | [gemini 4 flash 出来了！比](https://versun.me/blog/tweet-2121004494159036480) | Logan Kilpatrick Introducing Gemini 4 Hydrogen, an extremely capable and fast model built to bring Gemini 4 to everyone! Available to all tiers of Goo… |
+| 2026-11-12 | [英伟达是真把皮衣裁了呀！ 毋庸置疑，这将](https://versun.me/blog/tweet-2121003491531665415) | NVIDIA Newsroom NVIDIA announces CEO transition. Read the release: https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition 英伟达是真把皮衣裁了呀！ 毋庸置… |
+| 2026-11-12 | [llm-d SLO延迟预测路由一些研究](https://eduardoqian.com/archives/llm-d-sloyan-chi-yu-ce-lu-you) | 前段时间对于LLM inference的SLO部分设计做了一些研究，又看了一下llm-d的这里，发现他们对SLO延迟预测也一些研究成果，这里就总结一下。 概览 Predicted Latency-Based Routing，SLO-aware 是其中一种模式。llm-d 的路由组件 EPP（Endp |
 | 2026-11-12 | [Total Annihilation updated](https://macsourceports.com/game/totalannihilation) | The build of Open Annihilation for Total Annihilation has been updated to version v0.9.1 of the project |
 | 2026-11-12 | [向云端｜西南自驾14 - 北盘江](https://blog.ops-coffee.com/r/2026-southwest-road-trip-14-beipanjiang.html) |  |
 | 2026-11-12 | [Album#51 - 阁楼的影像 & 家](https://taxodium.ink/album-51.html) | Album#51 阁楼的影像 & 家 图1 阁楼的影像 by handycam 专辑信息 专辑名称： 阁楼的影像 歌手： handycam 年份： 2026-01-20 时长： 約 55 分鐘 图2 家 by handycam 专辑信息 专辑名称： 家 歌手： handycam 年份： 2026-0… |
@@ -220,34 +226,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-11-06 | [Memos #2026-11-05](https://blog.itaober.com/memos/memo_20261105105037_c3esb7) | 18:55 难得有一期是以故事为主，羡慕这期嘉宾们的状态，快乐是生活的头等大事，像极了大学时期。 最后大老王说的小孩新闻发布会还挺有意思，mark，希望我以后还记得。 |
 | 2026-11-06 | [MCP Dock 1.4：全局和项目的配置一起管](https://folay.top/zh/blog/mcp-dock-1-4) | MCP Dock 1.4 更新：MCP Server、Skills、Rules 支持全局和项目两级管理，新增 Agent 插件，支持 16 个客户端。 |
 | 2026-11-06 | [MCP Dock 1.4: Manage Global and Project Configs Together](https://folay.top/blog/mcp-dock-1-4) | MCP Dock 1.4 manages MCP Servers, Skills and Rules at global and project level, adds Agent plugins, and supports 16 clients. |
-| 2026-11-05 | [科技爱好者周刊（第 418 期）：如果科技停止在21世纪初](http://www.ruanyifeng.com/blog/2026/11/weekly-issue-418.html) | 这里记录每周值得分享的科技内容，周五发布。 本杂志 开源 ，欢迎 投稿 。另有 《谁在招人》 服务，发布程序员招聘信息。合作请 邮件联系 （yifeng.ruan@gmail.com）。 封面图 雄安新区正在建设的雄安大剧院，它的幕墙采用 3D 打印装饰板拼贴而成，是世界最大的 3D 打印建筑幕墙。… |
-| 2026-11-05 | [10 天，每天不到 10 克脂肪：Action FCS 低脂食谱中文版发布了](https://conge.livingwithfcs.org/2026/11/05/action-fcs-low-fat-recipes/) | 明天，11 月 6 日，是 FCS 知晓日（FCS Awareness Day）。 对我来说，这不是一个抽象的日子。我是 FCS 患者，每天吃 10–20 克脂肪，小心翼翼地避开胰腺炎，跑步、生活、工作，都围着这个数字转。外人很难想象 10 克脂肪一天是什么概念——大概就是一小勺油的量。 今年，我们… |
-| 2026-11-05 | [学习周刊-总第288期-2026年第45周](https://wiki.eryajf.net/pages/164dd2/) | 如要阅读全文，点击标题跳转。 学习周刊-总第288期 &#124; itops-agent-platform &#124; oxideterm &#124; codux &#124; CloseUp &#124; BetterCmdTab &#124; agentsview &#124; kkRepo |
-| 2026-11-05 | [Arx Fatalis updated](https://macsourceports.com/game/arxfatalis) | The build of Arx Libertatis for Arx Fatalis has been updated to version 1.2.1 of the project |
-| 2026-11-05 | [AI 早报 2026-11-06：特斯拉宣布停产 Cybertruck，工厂腾给无人驾驶出租车 Cybercab](https://www.jtxyh.com/daily/2026-11-06/) | 2026-11-06 AI 早报，共 27 条动态。马斯克 11 月 6 日在 X 上宣布，特斯拉将于 2027 年年中前后停产 Cybertruck，把得州超级工厂的产线腾出来生产无人驾驶出租车 Cybercab。路透 11 月 5 日独家报道，约 60 万块英伟达 H200 AI… |
-| 2026-11-05 | [esp32:cyd使用ld2420毫米波雷达人体检测联动home assistant灯开关](https://dsx2016.com/using-an-esp32-cyd-and-an-ld2420-millimeter-wave-radar-sensor-for-human-presence-detection-to-control-lights-in-home-assistant/) | 人体检测 一直有个比较实际的需求，就是比如厨房，厕所的灯，人来灯亮，人走灯延迟一会自动熄灭 一来是人来灯亮，不... esp32:cyd使用ld2420毫米波雷达人体检测联动home assistant灯开关 最先出现在 大师兄2016 。 |
-| 2026-11-05 | [人体的说明书](https://blog.solazy.me/20261105/) | 最近越来越感叹，我们活一辈子可能都搞不到这份说明书呢 |
-| 2026-11-05 | [麒麟 v10 系统部署Angie与铜锁国密双栈验证](https://199604.com/3740) | 麒麟V10部署Angie与铜锁国密双栈验证 记录时间：2026-11-05 环境：Kylin V10 SP3 […] |
-| 2026-11-05 | [一键清理所有高科技水印工具 「蒸矢」for macOS](https://blog.est.im/2026/stdout-41) | V站看到 警告！分享淘宝截图可能给你带来危险 于是有个很久的 idea 终于得到实施了。 https://github.com/est/Distill-SVG 把蒸馏成矢量图 SVG ，简称 蒸矢 😃 市面上有很多AI辅助把照片转SVG的，但其实矢量图不适合拿来做这事。GUI这类大量色块的截图倒是非… |
-| 2026-11-05 | [Next.js 图片优化完全指南](https://ravelloh.com/posts/nextjs-image-optimization-complete-guide) | Next.js 全生命周期图片优化与架构实践指南。梳理了现代化 Web 应用中“上传优化”（服务端利用 Sharp 进行格式校验、EXIF 转向、WebP 转码与尺寸限制）与“访问优化”（结合 组件与 Next.js Image Optimizer 实现按需裁剪、响应式分发）的双层优化体系；同时提供… |
-| 2026-11-05 | [Lemmings updated](https://macsourceports.com/game/lemmings) | The build of Ultimate Lemmings for Lemmings has been updated to version v2.4.2 of the project |
-| 2026-11-05 | [esp32：使用esp32cam结合万向双头夹正式开始电动自行车充电检测](https://dsx2016.com/using-an-esp32-cam-paired-with-a-universal-dual-head-clamp-we-are-officially-beginning-the-process-of-monitoring-electric-bicycle-charging/) | 万向双头夹 前几天到了一个万向夹，但是是磁吸底座，需要有铁的物质 经过测试，在置物架上的铁片上可以有一定吸力，... esp32：使用esp32cam结合万向双头夹正式开始电动自行车充电检测 最先出现在 大师兄2016 。 |
-| 2026-11-05 | [omarchy 适配 mac 电脑了，适](https://versun.me/blog/tweet-2118287032086822962) | DHH Omarchy 4.5 will ship with full compatibility for M1, M2, M3, and Neo! Incredible achievement from the Omarchy M team. The installer makes this so… |
-| 2026-11-05 | [剑流德钟，三把壶排排队](https://gugegt.com/20261105-jianliu-dezhong.html) | 三把壶排排队，拍了四张照片。 都是德钟，都是剑流，出自同一位老师。年份不同，泥料不同，用的年头也不同。 |
-| 2026-11-05 | [上海今年的秋天怎么这么长，我换洗的秋装都](https://versun.me/blog/tweet-2118254605629055259) | 上海今年的秋天怎么这么长，我换洗的秋装都没几套， 往年一周左右就入冬了，秋装根本穿不了几次 |
-| 2026-11-05 | [小米手机无root通过ADB卸载SystemHelper程序](https://www.cheshirex.com/11613.html) | 现在手机想要解BL锁或者root都比较难，最近关于SystemHelper程序的讨论比较多。下面说下怎么无ro […] |
-| 2026-11-05 | [tcpdump 抓包与 Wireshark 分析实战指南](https://blog.rustfisher.com/Network/tcpdump-wireshark-use/) | 实际项目中，我们常常会遇到各种扑朔迷离的网络通信问题。在 VoIP、SIP 语音呼叫或 WebRTC 音视频对讲中，对端提示“未检测到按键（DTMF）”或出现音频卡顿、杂音，难以确认 RTP/UDP 报文是否完整到达。面对自研的私有二进制协议或 IoT 设备通信，抓不到明文 |
-| 2026-11-05 | [有用决策模型给 magpie 进行推理强](https://versun.me/blog/tweet-2118244214194717029) | 有用决策模型给 magpie 进行推理强度/意图分流的， 可以试一试 @vllm_project 的d3决策模型，我测试下来，准确率比clef，jef高4倍左右，参照的是opus 5.5的决策 目前免费用，额度给的挺多的 https://app.vllm-sr.ai/ |
-| 2026-11-05 | [智能路由模式 我用了一周多了，然后这几天](https://versun.me/blog/tweet-2118230344046653518) | River Leaf 自从使用了 magpie 智能路由模式，再也不担心 chatgpt 降智了，因为我们是主动降智的。 智能路由模式 我用了一周多了，然后这几天我又改回去了。。。 因为不确定性 每次人机意见不一致时，我都要去看下到底是路由到哪个模型了，如果是 opus 5.5，那我再斟酌下，但如果… |
-| 2026-11-05 | [剪映要会员，它全免费：这款开源 Mac 剪辑软件我留下来了](https://www.evan.xin/5139/) | 剪映够好用，但它的边界也很清楚：账号要登录、导出要会员、成片带水印。对只是偶尔剪个 vlog、录屏、素材拼接的 […] |
-| 2026-11-05 | [听到别人的声音](https://kaix.in/2026/1105/) | 许多人都会羡慕影视作品里那些异能者吧——能听懂兽语的话，生活该多么有趣，至少绝不会无聊；随便走走，就能听到猫咪们在聊张家长李家短，或者那些不为人知的小秘密说不定天上的飞鸟、路过的狗，都能随口说出。 不过仔细想想，何必懂得兽语呢，只是我们越来越沉浸在自己的世界，沉浸在手里的那块屏幕或者耳机中千里之外的… |
-| 2026-11-05 | [生日快乐，和菜头先生（2026）](https://www.hecaitou.com/2026/11/happy-birthday-to-mr-he-caitou-2026.html) | 今天是我五十一岁生日，一个我当初觉得无比遥远且畏惧的年纪。真到了五十岁的那一刻，其实没什么特别的事情发生。但就像是钟表上的分针，从整点向前转动了第一格，然后「咔嗒」一声停下，会有那么一瞬间的空白，一瞬间的真空，我现在就在那里头。 这一岁过得并不算平顺，精神上也反复经历沉郁甚至黑暗期。幸运的是，朋友们… |
-| 2026-11-05 | [我突然发现一个很有趣的现象： 在我使用](https://versun.me/blog/tweet-2118155657937646021) | 我突然发现一个很有趣的现象： 在我使用 gemini 时， 我：我想 xxxx、我觉得 xxxx Gemini：你是对的，你的想法很不错 我：煞笔，我要的是批判性思维，不要阿谀奉承的仆人 换成 opus 后： 我：我想 xxxx、我觉得 xxxx Opus：我不建议，可行的方法有这些。。。 我：煞笔… |
-| 2026-11-05 | [关于乌合之众](https://mobius.blog/26070.html) | 前段时间，一个朋友和我聊天，聊起他在办公室被排挤的话题，而排挤的原因非常无聊——其实是他休假了一段时间，而他回 […] |
-| 2026-11-05 | [散了吧，SWE-2 Flash 就是路边](https://versun.me/blog/tweet-2118149374371090619) | Cognition Introducing SWE-2 Flash, our new fast & efficient coding model. On leading evals, it outperforms all American open-weight models, even ones… |
-| 2026-11-05 | [这次币安的安全事件，让我再次想起之前差点](https://versun.me/blog/tweet-2118134199714816117) | Andrey Labunets @ihackbanme Well, in my case it included scripted self-deleting google docs, with phishing steps partially matching those: https://x.c… |
-| 2026-11-05 | [Cursor Style：照着 Cursor 官网做的 Typora 主题](https://folay.top/zh/blog/typora-cursor-theme) | 参考 Cursor 官网的视觉风格做了一套 Typora 主题，浅色、深色各一个。 |
-| 2026-11-05 | [Cursor Style: A Typora Theme Based on Cursor's Website](https://folay.top/blog/typora-cursor-theme) | A Typora theme that borrows the look of Cursor's website, in light and dark. |
 
 ## Vibe Coding
 
