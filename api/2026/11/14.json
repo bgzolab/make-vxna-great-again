@@ -1,0 +1,352 @@
+[
+  {
+    "title": "Memos #2026-11-13",
+    "url": "https://blog.itaober.com/memos/memo_20261113022232_c896p4",
+    "date": "2026-11-14T00:00:00Z",
+    "description": "10:25 看阮一峰最 本周博客 有感：如果你发现我正坐在工位上发呆，而不是敲击键盘，我并没有偷懒，反而是在更认真地完成工作。",
+    "source_root_domain": "itaober.com"
+  },
+  {
+    "title": "大家猜猜 @DevinAI 这次永久免费",
+    "url": "https://versun.me/blog/tweet-2121381279346413970",
+    "date": "2026-11-13T23:14:45Z",
+    "description": "大家猜猜 @DevinAI 这次永久免费 swe2 模型能撑多久，那些中转站应该睡觉都在笑吧😂",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "Pantone潘通年度色查询：2000–2026 年 29 个年度色，附配色和色值",
+    "url": "https://gugegt.com/20261114-pantone-color-of-the-year.html",
+    "date": "2026-11-13T17:00:00Z",
+    "description": "工具地址： Pantone潘通年度色查询 ，骨哥GT 在线工具里的第 14 个。",
+    "source_root_domain": "gugegt.com"
+  },
+  {
+    "title": "野人编年史",
+    "url": "http://imlane.zhanglintc.co/ye-ren-bian-nian-shi",
+    "date": "2026-11-13T15:31:37Z",
+    "description": "野人编年史 野人创始人 徐队 ，群昵称Shogun。姓徐，称徐队，真野人队长，野人 抖音官号 持有者。 张队 ，群昵称张小不。江湖人称竹节虫，简称虫队，野人 微信公众号 持有者。 熊队 ，群昵称熊嘎婆，称熊队。 野人CLUB游泳事业部 群主。 亮队 ，群昵称亮什么，称亮队，野人 小红书官号 持有者。 野人成员 野人群像 野人声明 从 泳往直前 过来加入的朋友： 野人 在加入 泳往直前 之前就已成立，我们不是另起炉灶，我们也不搞分裂主义，我们永远欢迎 泳往直前 成员加入 野人 。 从小红书、抖音，或者其他途径加入的朋友： 欢迎加入 野人 ，也永远欢迎 野人 的成员随时加入 泳往直前 。 加入 野人 需要认可 野人 ，对组织有认可感、归属感。 野人 创始人均为业余爱好者，但是无论是新手还是高手，都希望大家互相尊重、互相帮助，一起快乐玩水。若参加户外活动请务必正确佩戴跟屁虫，不盲目下水。务必注意自我防护，安全责任自负。 2024年 6月 徐队带张队第一次下凤溪沱。 亮队不时参与凤溪沱游江活动。 10月 熊队正式加入，并介绍徐队、张队加入 大竹林冬泳队 。 徐队、张队、熊队日常于 大竹林冬泳基",
+    "source_root_domain": "zhanglintc.co"
+  },
+  {
+    "title": "Quake updated",
+    "url": "https://macsourceports.com/game/quake",
+    "date": "2026-11-13T15:02:31Z",
+    "description": "The build of QSS-M for Quake has been updated to version 1.7.0 of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "Why I Still Care About Open Source",
+    "url": "https://missuo.me/posts/open-source-manners/",
+    "date": "2026-11-13T14:00:00Z",
+    "description": "Open source is up for debate again, so here's where I stand: GitHub as the one place people give away all their work, who sends issues and who sends PRs, the people and companies who take your code without credit, why AI hasn't made any of it pointless, and a Swift SDK for Lark that will never earn a cent but might save someone five minutes.",
+    "source_root_domain": "missuo.me"
+  },
+  {
+    "title": "esp32 cyd speak 番茄钟 添加提示音 音效和tts",
+    "url": "https://dsx2016.com/esp32-cyd-pomodoro-timer-adding-alerts-sound-effects-and-tts/",
+    "date": "2026-11-13T11:42:01Z",
+    "description": "番茄钟 之前esp32 cyd的speak喇叭一直有杂音，而且没有找到原因和解决方案 现在没有杂音，所以重新更... esp32 cyd speak 番茄钟 添加提示音 音效和tts 最先出现在 大师兄2016 。",
+    "source_root_domain": "dsx2016.com"
+  },
+  {
+    "title": "Might and Magic VII: For Blood and Honor updated",
+    "url": "https://macsourceports.com/game/mightandmagic7",
+    "date": "2026-11-13T10:24:57Z",
+    "description": "The build of OpenEnroth for Might and Magic VII: For Blood and Honor has been updated to the latest code of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "总算全部迁移到 Cindy 了，花了3天",
+    "url": "https://versun.me/blog/tweet-2121185340451078361",
+    "date": "2026-11-13T10:16:09Z",
+    "description": "Versun 经过 5 天的调研和试用，我最终决定迁移到 Cindy @making_cindy 简单说下这几天的历程： 一开始我用的是 DS Bot，但它更适合工作场景。我的需求更偏日常生活协助，工作这块我一直用 Pi。 由于DS Bot 的完成度很高，让我产生了「我也可以」的幻觉。于是我用 DSH 搭配 Opus 5.5，开始搭自己的 Hermes。 开发了 3 天，依旧一坨屎。昨天让 Fable 5.2 做了心肺复苏，还是没救回来，宣告死亡。 这几天我也一直在同步用 Alma 和 Cindy。 总算全部迁移到 Cindy 了，花了3天时间 回想之前用 Hermes 的经历，都过的什么日子呀 Cindy 真的太好用了，很多细节做的非常舒服，考虑的很周到！",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "台式机换个了新家",
+    "url": "https://hux.ink/posts/small-pc-case/",
+    "date": "2026-11-13T09:22:32Z",
+    "description": "2020 年装机的台式电脑，用的是先马小黑洞机箱，个头特别大，摆在桌子旁边很占地方。最近寻思着能不能换个小一点的机箱，但有个前提，必须保留原来的所有硬件，除了机箱之外，不打算额外花钱升级配件。 有了这个想法之后，我把电脑的硬件清单和机箱内部布局拍照发给 ChatGPT，让它先帮忙分析一番。它一开始推荐的是乔思伯 Z20，算下来比原来的机箱缩小了 31%，但我拿尺子比划了一下，感觉还是有点大。于是继续追问：“还有没有尺寸更小，但不用更换任何配件的？”它又推荐了闪鳞 G400，体积比原机箱缩小 49%，这下有点心动了。不过它特别提醒我，旧电脑还有两块机械硬盘，新机箱不一定放得下，建议先咨询商家。 我倒觉得问题不大，反问它：“机械硬盘就算没有固定硬盘位，也不至于塞不进去吧，只要接口够就行。”它听完又改了主意，说如果能接受自己想办法固定硬盘，那闪鳞 G300 也可以纳入考虑范围，体积足足缩小了 55%。好家伙，越问越小，最后直接从一个 37L 的大机箱缩小到了 16.8L。 不过，说归说，我心里其实挺没底的。以前虽然也拆过电脑、换过配件，但完整拆装一台电脑还是第一次，于是特地问了句：“我小白买",
+    "source_root_domain": "hux.ink"
+  },
+  {
+    "title": "esp32 cyd speak 英文短词 提示音效",
+    "url": "https://dsx2016.com/esp32-cyd-short-english-phrases-audio-prompts/",
+    "date": "2026-11-13T07:56:17Z",
+    "description": "英文单词音效 之前设置了通用的提示音效，番茄钟场景音效，闹钟模拟背景音乐长电子音效 但是这些还是不能明确的点明... esp32 cyd speak 英文短词 提示音效 最先出现在 大师兄2016 。",
+    "source_root_domain": "dsx2016.com"
+  },
+  {
+    "title": "《异教徒 Heretic》",
+    "url": "https://banzhuanriji.com/movie/heretic.html",
+    "date": "2026-11-13T07:53:00Z",
+    "description": "最近杭州下雨，窝在被子里看恐怖片太棒了。但是我不喜欢那种走恶心和突脸路线的。经过各种APP选择了《异教徒》，结果比我想象的好看很多。属于是宗教+惊悚（或许说恐怖更合适）。比较遗憾的就是后期强制来...",
+    "source_root_domain": "banzhuanriji.com"
+  },
+  {
+    "title": "Mac 跨桌面录屏，为什么 Chrome 视频会黑屏",
+    "url": "https://liudon.com/posts/chrome-offscreen-video-black/",
+    "date": "2026-11-13T07:05:09Z",
+    "description": "在 Safari 篇 里，提到了一条来自 Chrome 的线索。要讲清楚这条线索，还得回到 Gecko 早期的跨桌面录制测试。 当时，Chrome 窗口切到其他 Space 后，主要表现是画面更新稀疏。引入 Pulse 后，已经能够采集到连续变化的视频帧。",
+    "source_root_domain": "liudon.com"
+  },
+  {
+    "title": "Mac 跨桌面录屏，为什么 Safari 视频会黑屏",
+    "url": "https://liudon.com/posts/safari-offscreen-video-black/",
+    "date": "2026-11-13T07:05:08Z",
+    "description": "在 Gecko 的应用兼容性测试中，Safari 出现了一个问题：窗口在当前桌面时录制正常，切到另一个 Space，录像中的视频区域却变成了黑色。声音还在，录制也没有停止；切回原桌面，画面又恢复。",
+    "source_root_domain": "liudon.com"
+  },
+  {
+    "title": "2026.11.12",
+    "url": "https://www.justzht.com/2026-11-12/",
+    "date": "2026-11-13T05:42:29Z",
+    "description": "E39 早上开去 Apple Park 一切正常，但傍晚下班要去和同事吃饭喝酒，坐进去发现打不着了，钥匙到底都听不到 start motor 转的声",
+    "source_root_domain": "justzht.com"
+  },
+  {
+    "title": "起立一下是应该的",
+    "url": "https://www.hecaitou.com/2026/11/they-deserve-a-standing-ovation.html",
+    "date": "2026-11-13T05:17:01Z",
+    "description": "《给阿嬷的情书》拿下了金鸡奖最佳编剧奖，还获得了 评委会特别奖，受到了本届金鸡奖的特别肯定。 很多人不开心，觉得电影没有得到最佳故事片奖或者最佳导演奖，说明评委有眼无珠，电影圈闭门自嗨，对此我并不赞同。如果金鸡奖是一个偏向观众的电影奖项，那么观众最喜欢的电影，票房最高的电影，肯定要在奖项上予以体现。 但是，如果金鸡奖本身偏向电影艺术，更多从专业角度衡量一部电影的水准、一位导演的能力，那么它肯定会更多考虑那些更有「电影味」的电影，更多考虑用了什么不一样的创作思路，什么不一样的表现手法。你可以说这是学术气太重，可以说是学术小共同体的固执，但不能说别人没标准，全是黑心。 我个人很喜欢 《给阿嬷的情书》，为此写了很多篇文章，甚至是在没看之前就做了推荐，等到看完回来又立即做了正式推荐。不止如此，我还向自己的所有潮汕朋友赠送了以这部电影为封面的杂志特刊和海报，现在就有张海报还贴在一位朋友家的冰箱上。至于说我后来去学习潮汕话的那部分就算了，因为花了很多时间，却并不成功，学来学去也就只能说一句潮普：胡务盐（服务员）。无非是学到了还有另外一种发音：胡务羊。 即便我那么喜欢这部片子，我也不天然认为它就应该",
+    "source_root_domain": "hecaitou.com"
+  },
+  {
+    "title": "esp32 cyd speak喇叭一直有电流哒哒声问题 音频模块",
+    "url": "https://dsx2016.com/issue-with-persistent-crackling-clicking-noise-from-the-speaker-on-the-esp32-cyd-speak-audio-module/",
+    "date": "2026-11-13T04:53:16Z",
+    "description": "esp32 cyd speak喇叭 这几天测试番茄钟的时候，发现speak喇叭一直有电流声音，杂音 手上有2个... esp32 cyd speak喇叭一直有电流哒哒声问题 音频模块 最先出现在 大师兄2016 。",
+    "source_root_domain": "dsx2016.com"
+  },
+  {
+    "title": "Master of Orion updated",
+    "url": "https://macsourceports.com/game/masteroforion",
+    "date": "2026-11-13T04:23:07Z",
+    "description": "The build of 1oom for Master of Orion has been updated to version 1.11.9 of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "Oddworld: Abe's Oddysee updated",
+    "url": "https://macsourceports.com/game/oddworld-ao",
+    "date": "2026-11-13T04:18:09Z",
+    "description": "The build of R.E.L.I.V.E. for Abe's Oddysee for Oddworld: Abe's Oddysee has been updated to version 1.1.0 of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "Oddworld: Abe's Exoddus updated",
+    "url": "https://macsourceports.com/game/oddworld-ae",
+    "date": "2026-11-13T04:18:08Z",
+    "description": "The build of R.E.L.I.V.E. for Abe's Exoddus for Oddworld: Abe's Exoddus has been updated to version 1.1.0 of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "机房停电导致 VictoriaMetrics 与 VictoriaLogs 存储损坏的恢复记录",
+    "url": "https://199604.com/3750",
+    "date": "2026-11-13T03:45:03Z",
+    "description": "机房停电导致 VictoriaMetrics 与 VictoriaLogs 存储损坏的恢复记录 记录时间：20 […]",
+    "source_root_domain": "199604.com"
+  },
+  {
+    "title": "还有一个也被封了🥲 昨天调研了一天的替代",
+    "url": "https://versun.me/blog/tweet-2121072604299870496",
+    "date": "2026-11-13T02:48:11Z",
+    "description": "Versun 1个 Claude 号毕业了，恭喜🎉😭 还有一个苟延残喘 还有一个也被封了🥲 昨天调研了一天的替代方案，目前稳妥的貌似且性价比高的，貌似只有 Devin 的订阅了 还有其它的建议吗",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "我发现 Vercel 转型的非常成功呀，",
+    "url": "https://versun.me/blog/tweet-2121064440120639648",
+    "date": "2026-11-13T02:15:44Z",
+    "description": "Vercel Introducing the UI SDK. 我发现 Vercel 转型的非常成功呀，有点 AI 时代的 Cloudflare 味道 从早期的 Next.js 到 Next.js serverless 服务 再到 v0、AI SDK、AI Gateway、Sandbox、Vercel Agent、还有这次的 UI SDK 每次推出的产品/工具质量都很高，研发的方向很精准，总能先一步解决开发者的痛点 你去它的 X 主页逛逛，基本上隔两三天就有一个新产品或者新合作方，这种极致的开发者体验的托管平台，应该找不出第二家了",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "一站式的 AI 创作工作站，看起来很不错",
+    "url": "https://versun.me/blog/tweet-2121053647413141909",
+    "date": "2026-11-13T01:32:51Z",
+    "description": "Edward Ma Celebrating our launch, we’re offering 0% markup, oh no actually negative markup, on Seedance and Fable 5.2! 一站式的 AI 创作工作站，看起来很不错，有用过的吗？稳定好用不",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "祸事",
+    "url": "https://mobius.blog/26129.html",
+    "date": "2026-11-13T01:30:00Z",
+    "description": "就算是在狗公园办公，也有突如其来的、必须要打断当下节奏的灵感。比如刚才不远处升起了一股黑烟，甚至还听到了爆炸声 […]",
+    "source_root_domain": "mobius.blog"
+  },
+  {
+    "title": "经济下行期的双十一名存实亡",
+    "url": "https://krya.com/post/double11-2026/",
+    "date": "2026-11-13T01:00:00Z",
+    "description": "昨天我坐下沙发的时候，突然胸口一紧，感觉什么东西收缩了一下，过程持续很短，大约三秒钟左右消散，无任何疼痛。 我怀疑可能和心脏有关。今天去医院检查血脂和心电图。看到报告单上写今天是11号——居然忘了今天是双十一。我和朋友分享此事，问他今天数据如何，他说，平凡一天。 双十一的存在感为何越来越低？从消费者的角度看，经济大环境变得更差，非必要不购买；另外一个原因，商家不降价，现在的价格和平时没有区别。 一年一遇的流量盛宴，商家为什么不愿意降价？很简单，因为电商平台销售数据直通税务局。 以前不报税，卖得多赚得多，赚一个点也行；实在不赚钱，只要比种地强，也行！ 金税四期之后，低价跑量的逻辑就行不通了：没有利润，比没有销量更可怕。 只要玩低价走量，一旦连续12个月销售额超过500万，就会被强制升为一般纳税人，不管赚没赚，只要销项减进项，增值税13%跑不了；就算利润再低，企业所得税里符合小微条件的部分也还是按实际税负约5%走。 绝大部分小商家，在一般纳税人和小规模之间做权衡；一般都会选择少卖一点，也要保持小规模状态；毕竟同样赚到一笔利润，小规模可能只需要三四百万销售额，升成一般纳税人后，如果进项跟不上",
+    "source_root_domain": "krya.com"
+  },
+  {
+    "title": "科技爱好者周刊（第 419 期）：机房来了，写字楼走了",
+    "url": "http://www.ruanyifeng.com/blog/2026/11/weekly-issue-419.html",
+    "date": "2026-11-13T00:08:29Z",
+    "description": "这里记录每周值得分享的科技内容，周五发布。 本杂志 开源 ，欢迎 投稿 。另有 《谁在招人》 服务，发布程序员招聘信息。合作请 邮件联系 （yifeng.ruan@gmail.com）。 封面图 成都麓湖生态城的 Q8 步行桥，采用双曲线造型，在机动车桥的下方穿过，盘旋处形成一个湖心岛。（ via ） 机房来了，写字楼走了 前几天，我看到一个短视频。有个博主来到内蒙古乌兰察布，拍下自己看到的景象，非常震惊。 那里现在是真正的\"热土\"，曾经的草原遍布工地，聚集了几万个建筑工人，到处都在开工建设机房。 你敢相信吗？一个内陆地级市，最新统计是已经有100多个数据中心（包括建设中），全国主要 IT 公司和算力公司几乎都在那里有自己的机房。乌兰察布已经成了我国算力战略的重点城市。 它的成因，那个博主总结了几点，说得挺好。 （1）离北京近。它跟北京的直线距离约240公里，光纤往返延迟仅4.2毫秒。 （2）绿电丰富。它的有效风场面积占全国十分之一，年日照超3200小时，风电和太阳能根本用不完，导致电价便宜。 （3）气温低。年平均温度4.3度，一年有10个月可以直接利用室外冷空气来散热。 （4）（最初",
+    "source_root_domain": "feedburner.com"
+  },
+  {
+    "title": "学习周刊-总第289期-2026年第46周",
+    "url": "https://wiki.eryajf.net/pages/513f3b/",
+    "date": "2026-11-12T23:37:44Z",
+    "description": "如要阅读全文，点击标题跳转。 学习周刊-总第289期 | atrium | app-monitor | Knopo | Pulse | freebuddy | MirrorProxy | navop | openship",
+    "source_root_domain": "eryajf.net"
+  },
+  {
+    "title": "gemini 4 flash 出来了！比",
+    "url": "https://versun.me/blog/tweet-2121004494159036480",
+    "date": "2026-11-12T22:17:32Z",
+    "description": "Logan Kilpatrick Introducing Gemini 4 Hydrogen, an extremely capable and fast model built to bring Gemini 4 to everyone! Available to all tiers of Google AI Studio, Gemini API, Gemini for business, the Gemini app, Google Search, and paid Google AI Pro + Ultra subscr gemini 4 flash 出来了！比 3.8 flash 又快又好，我的 jio 订阅想漂白上岸了 🤤 谷歌这一个月不到3个模型，这是磕药了吗",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "英伟达是真把皮衣裁了呀！ 毋庸置疑，这将",
+    "url": "https://versun.me/blog/tweet-2121003491531665415",
+    "date": "2026-11-12T22:13:33Z",
+    "description": "NVIDIA Newsroom NVIDIA announces CEO transition. Read the release: https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition 英伟达是真把皮衣裁了呀！ 毋庸置疑，这将会成为史上最经典的“裁员裁到大动脉”事件",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "llm-d SLO延迟预测路由一些研究",
+    "url": "https://eduardoqian.com/archives/llm-d-sloyan-chi-yu-ce-lu-you",
+    "date": "2026-11-12T21:28:00Z",
+    "description": "前段时间对于LLM inference的SLO部分设计做了一些研究，又看了一下llm-d的这里，发现他们对SLO延迟预测也一些研究成果，这里就总结一下。 概览 Predicted Latency-Based Routing，SLO-aware 是其中一种模式。llm-d 的路由组件 EPP（Endp",
+    "source_root_domain": "eduardoqian.com"
+  },
+  {
+    "title": "从 GitHub 通知学到的邮件体验",
+    "url": "https://wxhboy.cn/email-threading/",
+    "date": "2026-11-12T16:00:00Z",
+    "description": "改了几个邮件头，让日报、周报、月报在邮箱里各自聚成一条会话，攒着不看也不会把收件箱刷屏。",
+    "source_root_domain": "wxhboy.cn"
+  },
+  {
+    "title": "AI 早报 2026-11-13：腾讯混元发布实时语音模型 Hy Realtime：边聊边查资料，还能唱歌",
+    "url": "https://www.jtxyh.com/daily/2026-11-13/",
+    "date": "2026-11-12T16:00:00Z",
+    "description": "2026-11-13 AI 早报，共 22 条动态。腾讯混元 11 月 13 日发布实时语音模型 Hy Realtime，在语音理解、指令遵循和拟人化表达的基础上，新增 Agentic 工具调用与唱歌能力。澳大利亚量子基础设施软件公司Q-CTRL 11月12日宣布完成2.9亿美元（约4.15亿澳元）C轮融资，由Sal…",
+    "source_root_domain": "jtxyh.com"
+  },
+  {
+    "title": "Total Annihilation updated",
+    "url": "https://macsourceports.com/game/totalannihilation",
+    "date": "2026-11-12T12:00:50Z",
+    "description": "The build of Open Annihilation for Total Annihilation has been updated to version v0.9.1 of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "向云端｜西南自驾14 - 北盘江",
+    "url": "https://blog.ops-coffee.com/r/2026-southwest-road-trip-14-beipanjiang.html",
+    "date": "2026-11-12T11:58:53Z",
+    "description": "",
+    "source_root_domain": "ops-coffee.cn"
+  },
+  {
+    "title": "Album#51 - 阁楼的影像 & 家",
+    "url": "https://taxodium.ink/album-51.html",
+    "date": "2026-11-12T09:19:00Z",
+    "description": "Album#51 阁楼的影像 & 家 图1 阁楼的影像 by handycam 专辑信息 专辑名称： 阁楼的影像 歌手： handycam 年份： 2026-01-20 时长： 約 55 分鐘 图2 家 by handycam 专辑信息 专辑名称： 家 歌手： handycam 年份： 2026-06-29 时长： 約 60 分鐘 在 HOPICO 的 我把 2026 最爱的三位女歌手请来同台演出！陈静琳x汪川xjody 裡， 汪川 邀請了 handycam 來給她當樂隊，於是認識了這支樂隊，就把他們的專輯都找來聴了聴 (有時就是這樣發現新音樂的，喜歡一個音樂人，當他提到一些他喜歡的音樂人就去找來聴聴) 。 截止到現在，2026 年 handycam 發布了三張專輯，還有兩張 live。其中《阁楼的影像》和《家》這兩張在聴感上我覺得是相近的，像是樂隊成員們輕鬆自在的窝在一個地方，隨意地演奏著一些他們喜歡的旋律，一起開心地玩。歌曲大多都是器樂演奏，聴起來有些 Jazz 的元素，偶尔能聴到他們之間一些隨意的對話、即興的哼唱，總之聴著蠻讓人放鬆的。曲子的名字也很有趣，像是「宁静的夜空调漏水」",
+    "source_root_domain": "taxodium.ink"
+  },
+  {
+    "title": "Daikatana updated",
+    "url": "https://macsourceports.com/game/daikatana",
+    "date": "2026-11-12T09:07:00Z",
+    "description": "The build of Daikatana 1.3 Project for Daikatana has been updated to version 1.3-20261112 of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "Quake III: Arena updated",
+    "url": "https://macsourceports.com/game/quake3arena",
+    "date": "2026-11-12T09:01:11Z",
+    "description": "The build of Quake3e for Quake III: Arena has been updated to the latest code of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "我做了两款微信小游戏",
+    "url": "https://blog.forecho.com/two-wechat-minigames.html",
+    "date": "2026-11-12T08:00:00Z",
+    "description": "引言 最近开始迷上了休闲游戏，也就动手做微信小游戏。 前几天把第一款做完送审，接着又做了第二款。两款都是单机、走广告变现，用的是个人主体。现在都已经上线了，欢迎大家去试玩，也帮我找找 bug。 怎么做的 第一款《疯狂轮胎》花了 3 天。因为要自己画界面，后面我用 ChatGPT SOL 重构了部分页面的 UI，其余部分是 DeepSeek Flash 写的。做完自己也觉得有点粗糙，先上线再改。 第二款《像素对对碰》则完全由 DeepSeek Flash 开发，素材是我自己找的。基本上就花了一个晚上：睡前确定好方案，晚上开一个 Loop 命令，早上起来验收，完成度已经到 90% 了。这其中最难的，是确定素材和玩法。 开发用的是我订阅的 OpenCode Go 套餐里的模型。8 刀的套餐给了 100 刀 DeepSeek Flash 的额度，这两款主要就是用它写的。 音乐和素材 音乐和素材，优先考虑在网上找开源或者付费的。毕竟如果是业余开发者，在网上找现成的素材或者音乐，更专业一点。自己用 AI 画 UI 的话，难度会偏高一点。 单机小游戏怎么上架 做之前我把单机微信小游戏的上架流程整理成",
+    "source_root_domain": "forecho.com"
+  },
+  {
+    "title": "ollama本地大模型选择关于量化和类型",
+    "url": "https://dsx2016.com/choosing-local-llms-in-ollama-considerations-regarding-quantization-and-model-types/",
+    "date": "2026-11-12T06:03:58Z",
+    "description": "ollama问题 ollama使用遇到的问题 经过排查，默认搜索栏设置通用模型名称下载，比如qwen3.5:2... ollama本地大模型选择关于量化和类型 最先出现在 大师兄2016 。",
+    "source_root_domain": "dsx2016.com"
+  },
+  {
+    "title": "烤乳猪",
+    "url": "https://mobius.blog/26122.html",
+    "date": "2026-11-12T05:58:59Z",
+    "description": "今天来聊点地狱笑话。 最近在狗公园里划分了一个自己的办公区，既能方便陪着小狗玩一整天，又顺便记录一下激素对写作 […]",
+    "source_root_domain": "mobius.blog"
+  },
+  {
+    "title": "AI 的知识诅咒与多 Agent 协作",
+    "url": "https://1q43.blog/post/12629/",
+    "date": "2026-11-12T05:50:26Z",
+    "description": "内耗是创作的必经之路，对 AI 也是。",
+    "source_root_domain": "1q43.blog"
+  },
+  {
+    "title": "坚硬的西瓜",
+    "url": "https://www.hecaitou.com/2026/11/The-Hard-Watermelon.html",
+    "date": "2026-11-12T04:14:28Z",
+    "description": "这两天我在网上无论去到哪里，都会遇见黄仁勋的段子和 AI 视频。按术语来讲，老黄这是「花案」，花案总是能引起最多人围观。而且，讨论花案门槛很低，不像是讨论显卡性能和大模型论文要求那么高。 一开始老黄看起来没受太多影响，市场开始修复，董事会表示依然信任，部分重要投资人也出面声援，股价在连续下跌后出现了一次反弹。然后，昨晚二连击骤然出现，老黄再次被曝一起新的婚外情，而且是和公司内部高管。我看着老黄的瓜一盘接一盘端上来，有一种不好的预感：还会有三连击、四连击吗？因为整体上给我的感觉不像是请大家吃瓜，而是要击毁老黄。 瓜不是这样吃的，一次就发一片，让大家省着吃，每一片都要把滋味嘬干净。杀人完全不一样，一击不成，就要立即再补一发，即便中了也需要补枪确认。 很早之前我就很好奇黄先生的结局。不是说我有什么阴暗的心理，单纯就是个人好奇：1、当一个人掌握了当下科技和经济发展的命门；2、当一个人的产品成为资本和市场极度渴望的资源；3、当一个人夹在两个处于激烈竞争态势下的超级大国之间，还试图走钢丝，实现公司利益最大化---这个人这么一路走下去，会走到哪里，会走多远，会在什么情况下停步？ 历史上有没有这种人？",
+    "source_root_domain": "hecaitou.com"
+  },
+  {
+    "title": "ollama结合open webui和api使用方式",
+    "url": "https://dsx2016.com/how-to-use-ollama-in-combination-with-open-webui-and-the-api/",
+    "date": "2026-11-12T04:10:35Z",
+    "description": "open webui 接上一篇文章，使用ollama客户端遇到无法关闭qwen3.5:2b的思考模式，这不是我... ollama结合open webui和api使用方式 最先出现在 大师兄2016 。",
+    "source_root_domain": "dsx2016.com"
+  },
+  {
+    "title": "muse注册-无需绑卡即可注册",
+    "url": "https://www.cheshirex.com/11674.html",
+    "date": "2026-11-12T03:39:58Z",
+    "description": "Meta的muse ai我看挺多人注册的，前面尝试了直接用梯子注册会提示muse尚未在你的国家或地区开放，让加 […]",
+    "source_root_domain": "cheshirex.com"
+  },
+  {
+    "title": "那些靠人命堆出来的奇观",
+    "url": "https://blog.solazy.me/20261112/",
+    "date": "2026-11-12T03:00:00Z",
+    "description": "今天应该又是一篇暴论，又是一篇可能会迎来骂声的文章",
+    "source_root_domain": "solazy.me"
+  },
+  {
+    "title": "Quake 4 updated",
+    "url": "https://macsourceports.com/game/quake4",
+    "date": "2026-11-12T02:18:06Z",
+    "description": "The build of openQ4 for Quake 4 has been updated to version v0.14.1 of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "ollama使用qwen3.5:2b测试文字转md",
+    "url": "https://dsx2016.com/testing-text-to-markdown-conversion-using-qwen3-52b-via-ollama/",
+    "date": "2026-11-12T01:35:36Z",
+    "description": "ollama本地大模型选型 优选1b左右的，来测试小任务 本文的要求是快，最好是100token/s及以上（因... ollama使用qwen3.5:2b测试文字转md 最先出现在 大师兄2016 。",
+    "source_root_domain": "dsx2016.com"
+  },
+  {
+    "title": "从买鸡蛋到买菜，我对条马的一些观察",
+    "url": "https://depp.wang/2026/tiaoma/",
+    "date": "2026-11-12T00:29:50Z",
+    "description": "我平时买菜，更多还是去小区附近专门卖菜的蔬菜店。但条马也是我会去的一个地方，最开始主要去买鸡蛋，后来买雪糕、零食，现在又会买一些蔬菜、水果和肉。买的东西慢慢变多了，我觉得这也能看出条马这种超市为什么能在小区附近做起来。 最开始去条马买鸡蛋，是因为价格比较便宜，看着也比较干净卫生。鸡蛋是平时经常要买的东西，价格合适，买着也还可以，下次需要的时候自然就会想到它。雪糕和一些小零食也是，其他地方也能买到，但条马有些会稍微便宜一点。 那时候，我这里的条马品类还比较少，主要是食品饮料、日用品这些，后来才慢慢加上蔬菜、水果和肉。现在我去条马，反而更多是买这些东西。",
+    "source_root_domain": "depp.wang"
+  },
+  {
+    "title": "Memos #2026-11-11",
+    "url": "https://blog.itaober.com/memos/memo_20261111125414_735bj9",
+    "date": "2026-11-12T00:00:00Z",
+    "description": "20:58 听得体真是不需要思考，定好的主题只是起个开头作用，后续内容来来回回还是那些。 本期最佳梗：贤哥，我算是你表弟吗？",
+    "source_root_domain": "itaober.com"
+  }
+]

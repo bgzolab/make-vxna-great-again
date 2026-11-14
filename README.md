@@ -27,12 +27,15 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-11-14 | [Memos #2026-11-13](https://blog.itaober.com/memos/memo_20261113022232_c896p4) | 10:25 看阮一峰最 本周博客 有感：如果你发现我正坐在工位上发呆，而不是敲击键盘，我并没有偷懒，反而是在更认真地完成工作。 |
+| 2026-11-13 | [大家猜猜 @DevinAI 这次永久免费](https://versun.me/blog/tweet-2121381279346413970) | 大家猜猜 @DevinAI 这次永久免费 swe2 模型能撑多久，那些中转站应该睡觉都在笑吧😂 |
 | 2026-11-13 | [Pantone潘通年度色查询：2000–2026 年 29 个年度色，附配色和色值](https://gugegt.com/20261114-pantone-color-of-the-year.html) | 工具地址： Pantone潘通年度色查询 ，骨哥GT 在线工具里的第 14 个。 |
 | 2026-11-13 | [野人编年史](http://imlane.zhanglintc.co/ye-ren-bian-nian-shi) | 野人编年史 野人创始人 徐队 ，群昵称Shogun。姓徐，称徐队，真野人队长，野人 抖音官号 持有者。 张队 ，群昵称张小不。江湖人称竹节虫，简称虫队，野人 微信公众号 持有者。 熊队 ，群昵称熊嘎婆，称熊队。 野人CLUB游泳事业部 群主。 亮队 ，群昵称亮什么，称亮队，野人 小红书官号 持有者。… |
 | 2026-11-13 | [Quake updated](https://macsourceports.com/game/quake) | The build of QSS-M for Quake has been updated to version 1.7.0 of the project |
 | 2026-11-13 | [Why I Still Care About Open Source](https://missuo.me/posts/open-source-manners/) | Open source is up for debate again, so here's where I stand: GitHub as the one place people give away all their work, who sends issues and who sends P… |
 | 2026-11-13 | [esp32 cyd speak 番茄钟 添加提示音 音效和tts](https://dsx2016.com/esp32-cyd-pomodoro-timer-adding-alerts-sound-effects-and-tts/) | 番茄钟 之前esp32 cyd的speak喇叭一直有杂音，而且没有找到原因和解决方案 现在没有杂音，所以重新更... esp32 cyd speak 番茄钟 添加提示音 音效和tts 最先出现在 大师兄2016 。 |
 | 2026-11-13 | [Might and Magic VII: For Blood and Honor updated](https://macsourceports.com/game/mightandmagic7) | The build of OpenEnroth for Might and Magic VII: For Blood and Honor has been updated to the latest code of the project |
+| 2026-11-13 | [总算全部迁移到 Cindy 了，花了3天](https://versun.me/blog/tweet-2121185340451078361) | Versun 经过 5 天的调研和试用，我最终决定迁移到 Cindy @making_cindy 简单说下这几天的历程： 一开始我用的是 DS Bot，但它更适合工作场景。我的需求更偏日常生活协助，工作这块我一直用 Pi。 由于DS Bot 的完成度很高，让我产生了「我也可以」的幻觉。于是我用 DS… |
 | 2026-11-13 | [台式机换个了新家](https://hux.ink/posts/small-pc-case/) | 2020 年装机的台式电脑，用的是先马小黑洞机箱，个头特别大，摆在桌子旁边很占地方。最近寻思着能不能换个小一点的机箱，但有个前提，必须保留原来的所有硬件，除了机箱之外，不打算额外花钱升级配件。 有了这个想法之后，我把电脑的硬件清单和机箱内部布局拍照发给 ChatGPT，让它先帮忙分析一番。它一开始推… |
 | 2026-11-13 | [esp32 cyd speak 英文短词 提示音效](https://dsx2016.com/esp32-cyd-short-english-phrases-audio-prompts/) | 英文单词音效 之前设置了通用的提示音效，番茄钟场景音效，闹钟模拟背景音乐长电子音效 但是这些还是不能明确的点明... esp32 cyd speak 英文短词 提示音效 最先出现在 大师兄2016 。 |
 | 2026-11-13 | [《异教徒 Heretic》](https://banzhuanriji.com/movie/heretic.html) | 最近杭州下雨，窝在被子里看恐怖片太棒了。但是我不喜欢那种走恶心和突脸路线的。经过各种APP选择了《异教徒》，结果比我想象的好看很多。属于是宗教+惊悚（或许说恐怖更合适）。比较遗憾的就是后期强制来... |
@@ -45,6 +48,9 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-11-13 | [Oddworld: Abe's Oddysee updated](https://macsourceports.com/game/oddworld-ao) | The build of R.E.L.I.V.E. for Abe's Oddysee for Oddworld: Abe's Oddysee has been updated to version 1.1.0 of the project |
 | 2026-11-13 | [Oddworld: Abe's Exoddus updated](https://macsourceports.com/game/oddworld-ae) | The build of R.E.L.I.V.E. for Abe's Exoddus for Oddworld: Abe's Exoddus has been updated to version 1.1.0 of the project |
 | 2026-11-13 | [机房停电导致 VictoriaMetrics 与 VictoriaLogs 存储损坏的恢复记录](https://199604.com/3750) | 机房停电导致 VictoriaMetrics 与 VictoriaLogs 存储损坏的恢复记录 记录时间：20 […] |
+| 2026-11-13 | [还有一个也被封了🥲 昨天调研了一天的替代](https://versun.me/blog/tweet-2121072604299870496) | Versun 1个 Claude 号毕业了，恭喜🎉😭 还有一个苟延残喘 还有一个也被封了🥲 昨天调研了一天的替代方案，目前稳妥的貌似且性价比高的，貌似只有 Devin 的订阅了 还有其它的建议吗 |
+| 2026-11-13 | [我发现 Vercel 转型的非常成功呀，](https://versun.me/blog/tweet-2121064440120639648) | Vercel Introducing the UI SDK. 我发现 Vercel 转型的非常成功呀，有点 AI 时代的 Cloudflare 味道 从早期的 Next.js 到 Next.js serverless 服务 再到 v0、AI SDK、AI Gateway、Sandbox、Vercel… |
+| 2026-11-13 | [一站式的 AI 创作工作站，看起来很不错](https://versun.me/blog/tweet-2121053647413141909) | Edward Ma Celebrating our launch, we’re offering 0% markup, oh no actually negative markup, on Seedance and Fable 5.2! 一站式的 AI 创作工作站，看起来很不错，有用过的吗？稳定好用… |
 | 2026-11-13 | [祸事](https://mobius.blog/26129.html) | 就算是在狗公园办公，也有突如其来的、必须要打断当下节奏的灵感。比如刚才不远处升起了一股黑烟，甚至还听到了爆炸声 […] |
 | 2026-11-13 | [经济下行期的双十一名存实亡](https://krya.com/post/double11-2026/) | 昨天我坐下沙发的时候，突然胸口一紧，感觉什么东西收缩了一下，过程持续很短，大约三秒钟左右消散，无任何疼痛。 我怀疑可能和心脏有关。今天去医院检查血脂和心电图。看到报告单上写今天是11号——居然忘了今天是双十一。我和朋友分享此事，问他今天数据如何，他说，平凡一天。 双十一的存在感为何越来越低？从消费者… |
 | 2026-11-13 | [科技爱好者周刊（第 419 期）：机房来了，写字楼走了](http://www.ruanyifeng.com/blog/2026/11/weekly-issue-419.html) | 这里记录每周值得分享的科技内容，周五发布。 本杂志 开源 ，欢迎 投稿 。另有 《谁在招人》 服务，发布程序员招聘信息。合作请 邮件联系 （yifeng.ruan@gmail.com）。 封面图 成都麓湖生态城的 Q8 步行桥，采用双曲线造型，在机动车桥的下方穿过，盘旋处形成一个湖心岛。（ via… |
@@ -220,30 +226,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-11-07 | [真实住宅地址生成器：27 个国家的真住宅地址，附带一套测试资料](https://gugegt.com/20261107-real-address-generator.html) | 之前聊过 addresslab.net 那类随机地址生成器，这个是同类里更实在的一个：真实住宅地址生成器，地址是 address.daimonna.com/zh-CN/。它不编地址，从已验证的真实地址库里按国家和地区随机抽，抽出来的地址真有其地。 |
 | 2026-11-07 | [Memos #2026-11-06](https://blog.itaober.com/memos/memo_20261106020318_4cdt3m) | 10:03 最黑暗的一天，无限子弹打法都开始心慌了🥲 |
 | 2026-11-07 | [Python 潮流周刊#174：CPython 实验性 JIT 将被移除，PyScript 进入维护模式](https://pythoncat.top/posts/2026-11-07-weekly/) | 分享了 12 篇文章，12 个开源项目，2 则热门讨论 |
-| 2026-11-06 | [国密双栈方案对比：Angie、Tengine、现网 nginx](https://199604.com/3744) | 国密双栈方案对比：Angie、Tengine、现网 nginx 记录时间：2026-11-05 对比对象：现网 […] |
-| 2026-11-06 | [大模型原理通俗讲解：attention、后训练和蒸馏](http://xueshi.me/2026/11/06/llm-attention-post-training-distillation/) | 用伪代码和能手算的小例子讲清楚大模型的工作原理：点积、Q/K/V 和 attention、多头注意力、前馈网络、残差连接、新的 token 怎么生成；基座模型怎么经过后训练变成助手，编程模型怎么训练，蒸馏是什么，MoE 是什么，以及现在最前沿的模型又多了哪些技术。附录是辅助理解的部分。 |
-| 2026-11-06 | [AI 早报 2026-11-07：路透：英伟达掏数十亿美元，帮日月光旗下矽品扩产 CoWoS 先进封装](https://www.jtxyh.com/daily/2026-11-07/) | 2026-11-07 AI 早报，共 20 条动态。路透 11 月 6 日援引知情行业高管报道，英伟达正提供数十亿美元资金，支持日月光投控旗下矽品精密扩建 CoWoS 先进封装产能，用于新建厂房和购置设备。软银集团 11 月 6 日在东京收跌 10.83% 至 3549 日元，继前一日跌 14.4%… |
-| 2026-11-06 | [初为人父的第一周](https://jrd.pub/261107_as_a_father/) | 初为人父的第一周，仍在仔细品尝有一个孩子的滋味。 事情实际的发展完全如之前《性别打结》中读到的，母亲和孩子的连接过程是更加天然和迅速的：孩子来自母亲的身体，母乳也是天然就适宜的食物和抚慰。爸爸无法感受到这种身体上的天然连接，和孩子的连接感需要在不断地接触和互动中一点点获得——只能多为他做些事情，多拍… |
-| 2026-11-06 | [那些不肯好好说话的「作精」](https://blog.solazy.me/1936/) | 终有一天，我发现，那些作精的极致，居然是我妈 |
-| 2026-11-06 | [Hermes Agent v0.23.0 升级：一次安全修复，让我的 Chrome 无法启动](https://liudon.com/posts/hermes-agent-v0-23-0-chrome-s6/) | 今天看到 Hermes Agent 发布了 v0.23.0 版本，加了很多新特性。 刚好有时间，于是顺手做了一下升级。 从 v0.22.5 升级到 v0.23.0 我用的是 Docker 部署，升级非常简单： 备份 .hermes 目录数据 重新拉取 v0.23.0 镜像部署容器 一切顺利，升级后的… |
-| 2026-11-06 | [“鲲” 和 Qwen 同音呀，有点妙 看](https://versun.me/blog/tweet-2118704905922003118) | Qwen The becoming begins. “鲲” 和 Qwen 同音呀，有点妙 看来 qwen 4 要出来了 我先许个愿：我想要 Qwen 4 35B A3B，谢谢 |
-| 2026-11-06 | [博客疑似被ai爬虫伪造refer爬取数据被勿污染](https://dsx2016.com/blog-data-may-have-been-contaminated-by-ai-crawlers-that-spoofed-the-referer-header-to-scrape-content/) | aocr.org 近期发现我的博客都有来源这个网站的访问 但是访问这个网站发现是一个美国医疗小机构的官网之类的... 博客疑似被ai爬虫伪造refer爬取数据被勿污染 最先出现在 大师兄2016 。 |
-| 2026-11-06 | [脉冲星](https://physnya.top/compact-object/lesson-7-pulsars/) | Pre-1: Kerr-Neumann Perturbations 我们的问题是一个被扰动的黑洞会释放辐射，而这个微扰会如何改动它的辐射复频率. 计算的方法是对 Einstein 方程做一阶微扰. 在过去的方法中，有过对于 a = 0 a=0 a = 0 / Q = 0 Q=0 Q = 0 两种情况… |
-| 2026-11-06 | [Tidal Disruption Events](https://physnya.top/posts/tde-lecture/) | 提示 这是我去 wxf 老师组会听北大的 yyh 老师讲的报告时记录的笔记，留作备份. 由于我之前并没有接触过 TDE 相关的内容，因此听得不是很明白，勉强记下来一些. General Intro 简单来说是黑洞将一个恒星或者天体瓦解的过程. 定性上， G M r 2 R ⋆ r ∼ G M ⋆ R… |
-| 2026-11-06 | [还是 opus 5.5 好用呀，不仅干活](https://versun.me/blog/tweet-2118662784196186124) | Versun 经过近一个月的使用，我把 hermes 的默认模型，从 gemini 3.8 flash 改回到 opus 5.5 了， gemini 太阿谀奉承了，一点自己的主见没有， 好几次差点坏了事，还是 opus 靠谱，虽然说话难听了点 🤣 还是 opus 5.5 好用呀，不仅干活利索，还能预… |
-| 2026-11-06 | [我想给自己建立一个长期运行的 AI 助手](https://www.banzhuanriji.com/posts/a-long-term-ai-assistant/) | 最近一直在想一件事：能不能把 AI 真正融入自己的生活？ 这里说的融入，不是每天打开 ChatGPT 问几个技术问题，也不是让 AI 帮忙写文章、整理资料。我想做的是更进一步的事情。 我希望有一个 AI，它能够逐渐了解我。 知道我做什么工作，有哪些能力，经济状况怎么样，平时有什么习惯，喜欢什么、不喜… |
-| 2026-11-06 | [Claude Code、Codex 与 Seedance 做 AI 视频：从想法到成片](https://gugegt.com/20261106-claude-codex-seedance-ai-video.html) | 这篇整理自 Eian 11 月 5 日发在 X 上的长文，280 多万浏览，讲怎么用 Claude Code、Codex、Seedance 做一条 AI 视频。全文分工具层和实操两部分，我按原帖的结构整理，要点和做法都保留，10 段提示词都按要点展开写细了，完整版见文末原文链接。 这篇只解决一个问题… |
-| 2026-11-06 | [我前几天在 75700 平了😩，入了 V](https://versun.me/blog/tweet-2118617241206051220) | 杀破狼 WolfyXBT 从狼波周期来看，确实进入牛市周期了 但是牛市总共要跑 3 年，牛初是尤其煎熬的，牛中后期才会进入简单模式。 我前几天在 75700 平了😩，入了 VWRA，果然是韭菜命🤡 |
-| 2026-11-06 | [Looped Transformer的量化：误差传播、NVFP4 与差分调制](https://mer.dev/posts/loopquant-fp4/) | 最近循环模型量化的一些分析与实验。 |
-| 2026-11-06 | [學習網頁內容無障礙](https://taxodium.ink/learn-web-content-accessibility.html) | 學習網頁內容無障礙 目錄 什麼是網頁內容無障礙，以及為什麼要實踐網頁內容無障礙 如何學習網頁內容無障礙 學習目標 WACG WAI-ARIA 如何學習 博客中常見的網頁內容無障礙問題 連結 錯別字 顏色和對比度 Tab 焦點和順序 圖片上的替代文本 頁要元素太多，太雜 存在兩個方向的滾動條 頁面有一… |
-| 2026-11-06 | [意外花开](https://www.hecaitou.com/2026/11/the-unexpected-bloom.html) | 多年以来，我根本不相信命书上所说，自己是什么「乙木」命。毫无任何征象，任何花草树木进了我家，很快就会凋萎。最近十年来唯一的例外是一棵芦荟，是保洁阿姨看不下去那些空花盆，随手插了一枝进去，结果每年都会发出满满一大盆。而我也切了一枝试图克隆这种成功，毫无意外地顺利失败了。 所以我怎么可能是什么乙木命？我… |
-| 2026-11-06 | [我做了个只收录精品软件的网站 SoftBests](https://blog.forecho.com/introducing-softbests.html) | 引言 今年我没有续费用了几年的 Setapp。 最直接的原因是：我常用的那几款软件，在外面都能找到更好或更轻的替代品，继续为大而全的订阅付费，对我来说已经不划算了。 与此同时，我发现 Vibe Coding 兴起让做软件的门槛断崖式下跌。以前几个月才能做出来的工具，现在几天就能出一个可用版本。但软件… |
-| 2026-11-06 | [美好是因为无视美好的逝去](https://mobius.blog/26083.html) | 文章的副标题是《R.I.P IV》。 这个系列还在继续，也是接着《写在2026年新年之前》的一部分。 曾经我和 […] |
-| 2026-11-06 | [从中期选举说起，理解美国国会、众议院和参议院](https://depp.wang/2026/us-congress/) | 看这次美国中期选举的报道，说伊朗战争、油价和物价上涨让选民越来越不满，特朗普所在的共和党这次输得很彻底。民主党拿下了下一届国会的两院多数，连一些长期由共和党占据的席位也丢了。但我想弄明白，这个「输得很彻底」具体是什么意思？失去这些席位，对特朗普到底有什么影响？我虽然知道美国有三权分立，但对国会、众议… |
-| 2026-11-06 | [哈哈，这个世界真是太草台班子了，又一个严](https://versun.me/blog/tweet-2118494856599552511) | AJ Stuyvenberg I'm not even sounding the claxon for this it's just horrible. Any text > 256chars is a valid root password, holy shit https://sshhole.c… |
-| 2026-11-06 | [Memos #2026-11-05](https://blog.itaober.com/memos/memo_20261105105037_c3esb7) | 18:55 难得有一期是以故事为主，羡慕这期嘉宾们的状态，快乐是生活的头等大事，像极了大学时期。 最后大老王说的小孩新闻发布会还挺有意思，mark，希望我以后还记得。 |
-| 2026-11-06 | [MCP Dock 1.4：全局和项目的配置一起管](https://folay.top/zh/blog/mcp-dock-1-4) | MCP Dock 1.4 更新：MCP Server、Skills、Rules 支持全局和项目两级管理，新增 Agent 插件，支持 16 个客户端。 |
-| 2026-11-06 | [MCP Dock 1.4: Manage Global and Project Configs Together](https://folay.top/blog/mcp-dock-1-4) | MCP Dock 1.4 manages MCP Servers, Skills and Rules at global and project level, adds Agent plugins, and supports 16 clients. |
 
 ## Vibe Coding
 
