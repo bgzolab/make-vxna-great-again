@@ -27,6 +27,12 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-11-14 | [x86小主机重新设置pve all in one](https://dsx2016.com/reconfiguring-a-pve-all-in-one-setup-on-an-x86-mini-pc/) | 二手小主机 这个小主机买了大概5-10年左右，是一个很老的迷你主机，也是一个不知名的杂牌 内存是8GB，磁盘印... x86小主机重新设置pve all in one 最先出现在 大师兄2016 。 |
+| 2026-11-14 | [推漫：满天星与黄金](https://www.nodealpha.me/Manga-mantentoougon.html) | 之前看了大约20话，之后没有汉化组接坑了，最近查了下已经完结了，让AI找了日文版之后 翻译了下 ，顺便推荐下。 |
+| 2026-11-14 | [这周开始用AI做的项目](https://cufezhusy.github.io/issue-30/) | 这周我休了一个长周末，周四的时候与原来单位的同事下班后喝了杯啤酒。然后周五没有去上班，在家附近吃了一碗兰州拉面，真赞。 这周我打算开始用AI做一个小小的模拟城市游戏，我从小就喜欢玩模拟游戏，但老是觉得很多功能不合我意，有些功能太少了，有些功能太多了。我现在开始用DSH做一个简单的网页版的模拟城市游戏… |
+| 2026-11-14 | [The Operative: No One Lives Forever updated](https://macsourceports.com/game/nolf1) | The build of NOLF1 for Mac for The Operative: No One Lives Forever has been updated to version 0.5.4 of the project |
+| 2026-11-14 | [No One Lives Forever 2: A Spy in H.A.R.M.'s Way updated](https://macsourceports.com/game/nolf2) | The build of NOLF2 for Mac for No One Lives Forever 2: A Spy in H.A.R.M.'s Way has been updated to version 0.4.5 of the project |
+| 2026-11-14 | [Might and Magic VII: For Blood and Honor updated](https://macsourceports.com/game/mightandmagic7) | The build of OpenEnroth for Might and Magic VII: For Blood and Honor has been updated to the latest code of the project |
 | 2026-11-14 | [生活的策略](https://www.ixiqin.com/2026/11/14/life-strategies/) | 很多时候，大家对于我的很多生活的决策是不太理解的，觉得 —— Hey，Bro，你是不是对自己太狠了。关于对自己 […] |
 | 2026-11-14 | [用力，且认真的生活](https://www.ixiqin.com/2026/11/14/hard-work-and-hard-life/) | 用力的认真生活是我很长时间的态度。 之前在 X 上发过我自己的一些健康的指标和健康跟踪的策略，有位网友评论：“ […] |
 | 2026-11-14 | [影彩](https://hux.ink/posts/vlog/) | 两个月前败入了 大疆 Pocket4P ，在敦煌玩的时候屏幕就战损了，青甘行回来就用掉了一次随心换权益。 有了 Pocket 之后，发现拍视频远远多于拍照片。周末出去遛娃，回家翻翻拍的视频，竟然有种剪辑的冲动。奈何太菜，只能简单搞搞，添点背景音乐，聊以慰藉。 配完又不太想发抖音。我的博客有个 光影… |
@@ -34,15 +40,16 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-11-14 | [无需敌人的喜欢](https://www.hecaitou.com/2026/11/a-love-that-needs-no-enemy.html) | 我昨天写了一条留言，觉得值得单独拿出来再贴一遍： 「 我想，一方面要珍爱自己所爱之人，所爱之事，但在另一方面也不要落入了对立的叙事中去。相对而言，前者更为重要，后者除了激发负面情绪没有太多作用。也可以想一下，以我的文字能力，我为什么不写成某种更为尖锐的对立场景，褒一贬一，让读者更愿意讨论和转发呢？为… |
 | 2026-11-14 | [《大脑通信员：认识你的神经递质》阅读笔记](https://blog.frytea.com/archives/32550) | 读完了赵思家的《大脑通信员：认识你的神经递质》，对于大脑中的神经递质有了初步的认知，才发现之前对多巴胺、去甲肾 […] |
 | 2026-11-14 | [Memos #2026-11-13](https://blog.itaober.com/memos/memo_20261113022232_c896p4) | 10:25 看阮一峰最 本周博客 有感：如果你发现我正坐在工位上发呆，而不是敲击键盘，我并没有偷懒，反而是在更认真地完成工作。 |
+| 2026-11-14 | [Python 潮流周刊#175：AI 为 CPython 写出 61 万行 Lean 证明](https://pythoncat.top/posts/2026-11-14-weekly/) | 分享了 12 篇文章，12 个开源项目，1 则音视频，2 则热门讨论 |
 | 2026-11-14 | [Amaysim给了我一个黑五超值优惠，一年省180刀](https://www.ozexplorers.com/%E7%BE%8A%E6%AF%9B%E6%94%BB%E7%95%A5/2026/11/14/how-i-got-a-black-friday-deal-as-an-existing-amaysim-customer.html) | 最近，我家的宽带又省了一笔钱，而我做的事情只有一件，就是问了一句客服。 我家的网络，从去年开始就用 Amaysim 的宽带，具体经过写在《最划算的澳洲宽带？我的60澳元套餐体验》里。 先简单介绍一下我的套餐。我们两个人主要就是看看视频、刷刷手机，所以选的是最基础的 NBN 套餐，下行25Mbps，上… |
 | 2026-11-13 | [大家猜猜 @DevinAI 这次永久免费](https://versun.me/blog/tweet-2121381279346413970) | 大家猜猜 @DevinAI 这次永久免费 swe2 模型能撑多久，那些中转站应该睡觉都在笑吧😂 |
 | 2026-11-13 | [Pantone潘通年度色查询：2000–2026 年 29 个年度色，附配色和色值](https://gugegt.com/20261114-pantone-color-of-the-year.html) | 工具地址： Pantone潘通年度色查询 ，骨哥GT 在线工具里的第 14 个。 |
+| 2026-11-13 | [AI 早报 2026-11-14：英伟达市值跌破 4 万亿美元：六连周跌创 2012 年来最长纪录](https://www.jtxyh.com/daily/2026-11-14/) | 2026-11-14 AI 早报，共 16 条动态。英伟达周五收 162.85 美元，跌 2.01%，单周跌 12.75%，市值跌破 4 万亿美元，是 7 月以来第一次。《华尔街日报》11 月 13 日报道，黄仁勋被英伟达董事会换下，与其说是个人生活问题，不如说是经营手法引发的争议。 |
 | 2026-11-13 | [野人编年史](http://imlane.zhanglintc.co/ye-ren-bian-nian-shi) | 野人编年史 野人创始人 徐队 ，群昵称Shogun。姓徐，称徐队，真野人队长，野人 抖音官号 持有者。 张队 ，群昵称张小不。江湖人称竹节虫，简称虫队，野人 微信公众号 持有者。 熊队 ，群昵称熊嘎婆，称熊队。 野人CLUB游泳事业部 群主。 亮队 ，群昵称亮什么，称亮队，野人 小红书官号 持有者。… |
 | 2026-11-13 | [Quake updated](https://macsourceports.com/game/quake) | The build of QSS-M for Quake has been updated to version 1.7.0 of the project |
 | 2026-11-13 | [别把「期待」想得太好](https://blog.solazy.me/20261113/) | 感觉很多时候，我们都认为「期待」是个好事儿 |
 | 2026-11-13 | [Why I Still Care About Open Source](https://missuo.me/posts/open-source-manners/) | Open source is up for debate again, so here's where I stand: GitHub as the one place people give away all their work, who sends issues and who sends P… |
 | 2026-11-13 | [esp32 cyd speak 番茄钟 添加提示音 音效和tts](https://dsx2016.com/esp32-cyd-pomodoro-timer-adding-alerts-sound-effects-and-tts/) | 番茄钟 之前esp32 cyd的speak喇叭一直有杂音，而且没有找到原因和解决方案 现在没有杂音，所以重新更... esp32 cyd speak 番茄钟 添加提示音 音效和tts 最先出现在 大师兄2016 。 |
-| 2026-11-13 | [Might and Magic VII: For Blood and Honor updated](https://macsourceports.com/game/mightandmagic7) | The build of OpenEnroth for Might and Magic VII: For Blood and Honor has been updated to the latest code of the project |
 | 2026-11-13 | [总算全部迁移到 Cindy 了，花了3天](https://versun.me/blog/tweet-2121185340451078361) | Versun 经过 5 天的调研和试用，我最终决定迁移到 Cindy @making_cindy 简单说下这几天的历程： 一开始我用的是 DS Bot，但它更适合工作场景。我的需求更偏日常生活协助，工作这块我一直用 Pi。 由于DS Bot 的完成度很高，让我产生了「我也可以」的幻觉。于是我用 DS… |
 | 2026-11-13 | [台式机换个了新家](https://hux.ink/posts/small-pc-case/) | 2020 年装机的台式电脑，用的是先马小黑洞机箱，个头特别大，摆在桌子旁边很占地方。最近寻思着能不能换个小一点的机箱，但有个前提，必须保留原来的所有硬件，除了机箱之外，不打算额外花钱升级配件。 有了这个想法之后，我把电脑的硬件清单和机箱内部布局拍照发给 ChatGPT，让它先帮忙分析一番。它一开始推… |
 | 2026-11-13 | [esp32 cyd speak 英文短词 提示音效](https://dsx2016.com/esp32-cyd-short-english-phrases-audio-prompts/) | 英文单词音效 之前设置了通用的提示音效，番茄钟场景音效，闹钟模拟背景音乐长电子音效 但是这些还是不能明确的点明... esp32 cyd speak 英文短词 提示音效 最先出现在 大师兄2016 。 |
@@ -62,6 +69,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-11-13 | [祸事](https://mobius.blog/26129.html) | 就算是在狗公园办公，也有突如其来的、必须要打断当下节奏的灵感。比如刚才不远处升起了一股黑烟，甚至还听到了爆炸声 […] |
 | 2026-11-13 | [经济下行期的双十一名存实亡](https://krya.com/post/double11-2026/) | 昨天我坐下沙发的时候，突然胸口一紧，感觉什么东西收缩了一下，过程持续很短，大约三秒钟左右消散，无任何疼痛。 我怀疑可能和心脏有关。今天去医院检查血脂和心电图。看到报告单上写今天是11号——居然忘了今天是双十一。我和朋友分享此事，问他今天数据如何，他说，平凡一天。 双十一的存在感为何越来越低？从消费者… |
 | 2026-11-13 | [科技爱好者周刊（第 419 期）：机房来了，写字楼走了](http://www.ruanyifeng.com/blog/2026/11/weekly-issue-419.html) | 这里记录每周值得分享的科技内容，周五发布。 本杂志 开源 ，欢迎 投稿 。另有 《谁在招人》 服务，发布程序员招聘信息。合作请 邮件联系 （yifeng.ruan@gmail.com）。 封面图 成都麓湖生态城的 Q8 步行桥，采用双曲线造型，在机动车桥的下方穿过，盘旋处形成一个湖心岛。（ via… |
+| 2026-11-13 | [石墙](https://fft.im/posts/20261113_%E7%9F%B3%E5%A2%99/) | 时间 时间做鸟兽散去 它们从屋顶上溜走 从田野上溜走 从我摊开的掌心里溜走 翅膀扇起的风 一枚一枚，吹落瓦片 它们也不道歉 只是把散开的幕布 再唱回来 歌声从墙缝里挤出来 从水管里挤出来 从每一扇没关紧的窗里挤出来 明天从牙膏里挤出来 石墙 石墙立着，不说话 它把村子 和田野分开 也把风，剖成两堂… |
 | 2026-11-12 | [学习周刊-总第289期-2026年第46周](https://wiki.eryajf.net/pages/513f3b/) | 如要阅读全文，点击标题跳转。 学习周刊-总第289期 &#124; atrium &#124; app-monitor &#124; Knopo &#124; Pulse &#124; freebuddy &#124; MirrorProxy &#124; navop &#124; openship |
 | 2026-11-12 | [gemini 4 flash 出来了！比](https://versun.me/blog/tweet-2121004494159036480) | Logan Kilpatrick Introducing Gemini 4 Hydrogen, an extremely capable and fast model built to bring Gemini 4 to everyone! Available to all tiers of Goo… |
 | 2026-11-12 | [英伟达是真把皮衣裁了呀！ 毋庸置疑，这将](https://versun.me/blog/tweet-2121003491531665415) | NVIDIA Newsroom NVIDIA announces CEO transition. Read the release: https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition 英伟达是真把皮衣裁了呀！ 毋庸置… |
@@ -119,7 +127,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-11-10 | [iOS Backup v1.5.6 更新啦](https://razeen.me/posts/ios-backup-v1-5-6-update/) | iOS Backup 已更新到 v1.5.6，新增历史备份保留与打包下载、离线查看备份、手动停止任务和任务记录，并改进了通知、翻译及自定义时区支持。 |
 | 2026-11-10 | [聊聊我用过的两款 AI 记忆系统](https://versun.me/blog/from-nowledge-mem-to-hindsight) | 最近，我把 Agent 记忆系统从 Nowledge Mem 换到了 Hindsight。 趁这个机会，简单对比下两者的使用感受和区别。 特性 Nowledge Mem 从图数据库和人机交互切入，想做连通所有工具的个人认知中枢。它有全平台桌面端、CLI、浏览器插件和 MCP 等全家桶，定位是「个人… |
 | 2026-11-10 | [AI本地大模型3B左右真实使用场景和模型推荐](https://dsx2016.com/real-world-use-cases-and-model-recommendations-for-local-ai-models-approx-3b-parameters/) | 本文内容 核心内容 HyperFlow H3 Flash HyperFlow H3 Flash 是什么？ Hy... AI本地大模型3B左右真实使用场景和模型推荐 最先出现在 大师兄2016 。 |
-| 2026-11-10 | [No One Lives Forever 2: A Spy in H.A.R.M.'s Way updated](https://macsourceports.com/game/nolf2) | The build of NOLF2 for Mac for No One Lives Forever 2: A Spy in H.A.R.M.'s Way has been updated to version 0.4.4 of the project |
 | 2026-11-10 | [claude pro 给的 fable](https://versun.me/blog/tweet-2120114717343756499) | Versun Fable 5.2 文字能力感觉比 Opus 5.5 要差很多。。。。 “止血” 是什么鬼。。。。 不过速度和逻辑能力、全局观确实明显好很多 https://twitter.com/claudeai/status/2119899459761131615 claude pro 给的 fa… |
 | 2026-11-10 | [今天公司通知APEC要居家一周](https://sigge.cn/2026/11/10/lmbx5zl15yqb) | 今天公司通知了APEC要居家一周，相当于9天小长假了。 |
 | 2026-11-10 | [Fable 5.2 小技巧: 和它说"这](https://versun.me/blog/tweet-2120087943109095877) | Simon Willison When Anthropic release a new model it's always worth taking a look at their updated prompting guide - here's an entertaining tip to mak… |
@@ -222,7 +229,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-11-07 | [唉😔，好好做你的 hermes，为什么要](https://versun.me/blog/tweet-2119057319506088226) | Nous Research Introducing Arete-27B: Qwen3.8-27B, post-trained to reinforce Western values. Chinese open models are currently the strongest available,… |
 | 2026-11-07 | [ChatGPT Dot 日常使用记录](https://anotherdayu.com/how-i-use-dots/) | 引 最近一段时间，Dots 已经成了我使用黏度很高的个人助理工具。 整理了一下目前的使用方式，大致可以分三种：随手交代、定期任务和主动协助。 大部分思路也可以在 Grok bot 和 muse 里使用。 让Dots认识你 Dots 是一个长期协作的个人助理。要想真正用好它，首先得放下对个人隐私的部分… |
 | 2026-11-07 | [Memos: 发现街角的咖啡店](https://blog.yasking.org/a/1794053002) | 小区侧门马路的对面有个咖啡店，独栋小房子，坐落在两个小区中间，门前的小院子有各种绿植花卉，还有一只小猫迎宾，室 … |
-| 2026-11-07 | [The Operative: No One Lives Forever updated](https://macsourceports.com/game/nolf1) | The build of NOLF1 for Mac for The Operative: No One Lives Forever has been updated to version 0.5.3 of the project |
 | 2026-11-07 | [古典乐笔记](https://z.arlmy.me/posts/YearlyAlbums/ClassicalMusicNotes_2026/) | 「开始听古典。」 |
 | 2026-11-07 | [emmmmmmmmmm](https://versun.me/blog/tweet-2119011035936157975) | Nowledge Mem A fresh look for Nowledge Mem! ✨ A cleaner sidebar, redesigned Threads, and more room for what matters. Less noise. Same memories. Take a… |
 | 2026-11-07 | [Plants vs. Zombies updated](https://macsourceports.com/game/pvz) | The build of PvZ Portable for Plants vs. Zombies has been updated to version 0.2.7 of the project |

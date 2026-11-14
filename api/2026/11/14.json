@@ -1,5 +1,47 @@
 [
   {
+    "title": "x86小主机重新设置pve all in one",
+    "url": "https://dsx2016.com/reconfiguring-a-pve-all-in-one-setup-on-an-x86-mini-pc/",
+    "date": "2026-11-14T16:11:41Z",
+    "description": "二手小主机 这个小主机买了大概5-10年左右，是一个很老的迷你主机，也是一个不知名的杂牌 内存是8GB，磁盘印... x86小主机重新设置pve all in one 最先出现在 大师兄2016 。",
+    "source_root_domain": "dsx2016.com"
+  },
+  {
+    "title": "推漫：满天星与黄金",
+    "url": "https://www.nodealpha.me/Manga-mantentoougon.html",
+    "date": "2026-11-14T15:47:08Z",
+    "description": "之前看了大约20话，之后没有汉化组接坑了，最近查了下已经完结了，让AI找了日文版之后 翻译了下 ，顺便推荐下。",
+    "source_root_domain": "nodealpha.me"
+  },
+  {
+    "title": "这周开始用AI做的项目",
+    "url": "https://cufezhusy.github.io/issue-30/",
+    "date": "2026-11-14T14:26:27Z",
+    "description": "这周我休了一个长周末，周四的时候与原来单位的同事下班后喝了杯啤酒。然后周五没有去上班，在家附近吃了一碗兰州拉面，真赞。 这周我打算开始用AI做一个小小的模拟城市游戏，我从小就喜欢玩模拟游戏，但老是觉得很多功能不合我意，有些功能太少了，有些功能太多了。我现在开始用DSH做一个简单的网页版的模拟城市游戏。 现在第一个版本的截图如下所示： 这个项目的大意是想focus在宏观的城市管理上面，所以市长可以规划每个小小的区域，无限的地图设置，然后区域和区域之间将通过高速火车和公路连接。然后所有的复杂度将会在经济模拟上。 不知道能做到哪一步，先试试看吧。 项目地址： https://github.com/cufezhusy/simcity",
+    "source_root_domain": "cufezhusy.github.io"
+  },
+  {
+    "title": "The Operative: No One Lives Forever updated",
+    "url": "https://macsourceports.com/game/nolf1",
+    "date": "2026-11-14T12:08:57Z",
+    "description": "The build of NOLF1 for Mac for The Operative: No One Lives Forever has been updated to version 0.5.4 of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "No One Lives Forever 2: A Spy in H.A.R.M.'s Way updated",
+    "url": "https://macsourceports.com/game/nolf2",
+    "date": "2026-11-14T12:08:56Z",
+    "description": "The build of NOLF2 for Mac for No One Lives Forever 2: A Spy in H.A.R.M.'s Way has been updated to version 0.4.5 of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "Might and Magic VII: For Blood and Honor updated",
+    "url": "https://macsourceports.com/game/mightandmagic7",
+    "date": "2026-11-14T10:44:13Z",
+    "description": "The build of OpenEnroth for Might and Magic VII: For Blood and Honor has been updated to the latest code of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
     "title": "生活的策略",
     "url": "https://www.ixiqin.com/2026/11/14/life-strategies/",
     "date": "2026-11-14T08:15:59Z",
@@ -49,6 +91,13 @@
     "source_root_domain": "itaober.com"
   },
   {
+    "title": "Python 潮流周刊#175：AI 为 CPython 写出 61 万行 Lean 证明",
+    "url": "https://pythoncat.top/posts/2026-11-14-weekly/",
+    "date": "2026-11-14T00:00:00Z",
+    "description": "分享了 12 篇文章，12 个开源项目，1 则音视频，2 则热门讨论",
+    "source_root_domain": "pythoncat.top"
+  },
+  {
     "title": "Amaysim给了我一个黑五超值优惠，一年省180刀",
     "url": "https://www.ozexplorers.com/%E7%BE%8A%E6%AF%9B%E6%94%BB%E7%95%A5/2026/11/14/how-i-got-a-black-friday-deal-as-an-existing-amaysim-customer.html",
     "date": "2026-11-14T00:00:00Z",
@@ -68,6 +117,13 @@
     "date": "2026-11-13T17:00:00Z",
     "description": "工具地址： Pantone潘通年度色查询 ，骨哥GT 在线工具里的第 14 个。",
     "source_root_domain": "gugegt.com"
+  },
+  {
+    "title": "AI 早报 2026-11-14：英伟达市值跌破 4 万亿美元：六连周跌创 2012 年来最长纪录",
+    "url": "https://www.jtxyh.com/daily/2026-11-14/",
+    "date": "2026-11-13T16:00:00Z",
+    "description": "2026-11-14 AI 早报，共 16 条动态。英伟达周五收 162.85 美元，跌 2.01%，单周跌 12.75%，市值跌破 4 万亿美元，是 7 月以来第一次。《华尔街日报》11 月 13 日报道，黄仁勋被英伟达董事会换下，与其说是个人生活问题，不如说是经营手法引发的争议。",
+    "source_root_domain": "jtxyh.com"
   },
   {
     "title": "野人编年史",
@@ -103,13 +159,6 @@
     "date": "2026-11-13T11:42:01Z",
     "description": "番茄钟 之前esp32 cyd的speak喇叭一直有杂音，而且没有找到原因和解决方案 现在没有杂音，所以重新更... esp32 cyd speak 番茄钟 添加提示音 音效和tts 最先出现在 大师兄2016 。",
     "source_root_domain": "dsx2016.com"
-  },
-  {
-    "title": "Might and Magic VII: For Blood and Honor updated",
-    "url": "https://macsourceports.com/game/mightandmagic7",
-    "date": "2026-11-13T10:24:57Z",
-    "description": "The build of OpenEnroth for Might and Magic VII: For Blood and Honor has been updated to the latest code of the project",
-    "source_root_domain": "macsourceports.com"
   },
   {
     "title": "总算全部迁移到 Cindy 了，花了3天",
@@ -243,6 +292,13 @@
     "date": "2026-11-13T00:08:29Z",
     "description": "这里记录每周值得分享的科技内容，周五发布。 本杂志 开源 ，欢迎 投稿 。另有 《谁在招人》 服务，发布程序员招聘信息。合作请 邮件联系 （yifeng.ruan@gmail.com）。 封面图 成都麓湖生态城的 Q8 步行桥，采用双曲线造型，在机动车桥的下方穿过，盘旋处形成一个湖心岛。（ via ） 机房来了，写字楼走了 前几天，我看到一个短视频。有个博主来到内蒙古乌兰察布，拍下自己看到的景象，非常震惊。 那里现在是真正的\"热土\"，曾经的草原遍布工地，聚集了几万个建筑工人，到处都在开工建设机房。 你敢相信吗？一个内陆地级市，最新统计是已经有100多个数据中心（包括建设中），全国主要 IT 公司和算力公司几乎都在那里有自己的机房。乌兰察布已经成了我国算力战略的重点城市。 它的成因，那个博主总结了几点，说得挺好。 （1）离北京近。它跟北京的直线距离约240公里，光纤往返延迟仅4.2毫秒。 （2）绿电丰富。它的有效风场面积占全国十分之一，年日照超3200小时，风电和太阳能根本用不完，导致电价便宜。 （3）气温低。年平均温度4.3度，一年有10个月可以直接利用室外冷空气来散热。 （4）（最初",
     "source_root_domain": "feedburner.com"
+  },
+  {
+    "title": "石墙",
+    "url": "https://fft.im/posts/20261113_%E7%9F%B3%E5%A2%99/",
+    "date": "2026-11-13T00:00:00Z",
+    "description": "时间 时间做鸟兽散去 它们从屋顶上溜走 从田野上溜走 从我摊开的掌心里溜走 翅膀扇起的风 一枚一枚，吹落瓦片 它们也不道歉 只是把散开的幕布 再唱回来 歌声从墙缝里挤出来 从水管里挤出来 从每一扇没关紧的窗里挤出来 明天从牙膏里挤出来 石墙 石墙立着，不说话 它把村子 和田野分开 也把风，剖成两堂 青苔靠上肩膀 绿外套新了又旧 雨落下来，就顺着石缝 害它大哭一场 我把手贴在墙上 它吸走了我掌心的温热 还我一手的 粗粝和凉 墙这边，狗尾巴草摇着头 两粒草籽偷渡过境 谁记得？ 黄昏习惯 在墙根下变长",
+    "source_root_domain": "fft.im"
   },
   {
     "title": "学习周刊-总第289期-2026年第46周",
