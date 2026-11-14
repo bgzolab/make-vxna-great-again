@@ -27,11 +27,19 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-11-14 | [生活的策略](https://www.ixiqin.com/2026/11/14/life-strategies/) | 很多时候，大家对于我的很多生活的决策是不太理解的，觉得 —— Hey，Bro，你是不是对自己太狠了。关于对自己 […] |
+| 2026-11-14 | [用力，且认真的生活](https://www.ixiqin.com/2026/11/14/hard-work-and-hard-life/) | 用力的认真生活是我很长时间的态度。 之前在 X 上发过我自己的一些健康的指标和健康跟踪的策略，有位网友评论：“ […] |
+| 2026-11-14 | [影彩](https://hux.ink/posts/vlog/) | 两个月前败入了 大疆 Pocket4P ，在敦煌玩的时候屏幕就战损了，青甘行回来就用掉了一次随心换权益。 有了 Pocket 之后，发现拍视频远远多于拍照片。周末出去遛娃，回家翻翻拍的视频，竟然有种剪辑的冲动。奈何太菜，只能简单搞搞，添点背景音乐，聊以慰藉。 配完又不太想发抖音。我的博客有个 光影… |
+| 2026-11-14 | [2008，那顿饭](https://www.tortorse.com/archives/the-dinner-in-2008/) | 2008，那顿饭 |
+| 2026-11-14 | [无需敌人的喜欢](https://www.hecaitou.com/2026/11/a-love-that-needs-no-enemy.html) | 我昨天写了一条留言，觉得值得单独拿出来再贴一遍： 「 我想，一方面要珍爱自己所爱之人，所爱之事，但在另一方面也不要落入了对立的叙事中去。相对而言，前者更为重要，后者除了激发负面情绪没有太多作用。也可以想一下，以我的文字能力，我为什么不写成某种更为尖锐的对立场景，褒一贬一，让读者更愿意讨论和转发呢？为… |
+| 2026-11-14 | [《大脑通信员：认识你的神经递质》阅读笔记](https://blog.frytea.com/archives/32550) | 读完了赵思家的《大脑通信员：认识你的神经递质》，对于大脑中的神经递质有了初步的认知，才发现之前对多巴胺、去甲肾 […] |
 | 2026-11-14 | [Memos #2026-11-13](https://blog.itaober.com/memos/memo_20261113022232_c896p4) | 10:25 看阮一峰最 本周博客 有感：如果你发现我正坐在工位上发呆，而不是敲击键盘，我并没有偷懒，反而是在更认真地完成工作。 |
+| 2026-11-14 | [Amaysim给了我一个黑五超值优惠，一年省180刀](https://www.ozexplorers.com/%E7%BE%8A%E6%AF%9B%E6%94%BB%E7%95%A5/2026/11/14/how-i-got-a-black-friday-deal-as-an-existing-amaysim-customer.html) | 最近，我家的宽带又省了一笔钱，而我做的事情只有一件，就是问了一句客服。 我家的网络，从去年开始就用 Amaysim 的宽带，具体经过写在《最划算的澳洲宽带？我的60澳元套餐体验》里。 先简单介绍一下我的套餐。我们两个人主要就是看看视频、刷刷手机，所以选的是最基础的 NBN 套餐，下行25Mbps，上… |
 | 2026-11-13 | [大家猜猜 @DevinAI 这次永久免费](https://versun.me/blog/tweet-2121381279346413970) | 大家猜猜 @DevinAI 这次永久免费 swe2 模型能撑多久，那些中转站应该睡觉都在笑吧😂 |
 | 2026-11-13 | [Pantone潘通年度色查询：2000–2026 年 29 个年度色，附配色和色值](https://gugegt.com/20261114-pantone-color-of-the-year.html) | 工具地址： Pantone潘通年度色查询 ，骨哥GT 在线工具里的第 14 个。 |
 | 2026-11-13 | [野人编年史](http://imlane.zhanglintc.co/ye-ren-bian-nian-shi) | 野人编年史 野人创始人 徐队 ，群昵称Shogun。姓徐，称徐队，真野人队长，野人 抖音官号 持有者。 张队 ，群昵称张小不。江湖人称竹节虫，简称虫队，野人 微信公众号 持有者。 熊队 ，群昵称熊嘎婆，称熊队。 野人CLUB游泳事业部 群主。 亮队 ，群昵称亮什么，称亮队，野人 小红书官号 持有者。… |
 | 2026-11-13 | [Quake updated](https://macsourceports.com/game/quake) | The build of QSS-M for Quake has been updated to version 1.7.0 of the project |
+| 2026-11-13 | [别把「期待」想得太好](https://blog.solazy.me/20261113/) | 感觉很多时候，我们都认为「期待」是个好事儿 |
 | 2026-11-13 | [Why I Still Care About Open Source](https://missuo.me/posts/open-source-manners/) | Open source is up for debate again, so here's where I stand: GitHub as the one place people give away all their work, who sends issues and who sends P… |
 | 2026-11-13 | [esp32 cyd speak 番茄钟 添加提示音 音效和tts](https://dsx2016.com/esp32-cyd-pomodoro-timer-adding-alerts-sound-effects-and-tts/) | 番茄钟 之前esp32 cyd的speak喇叭一直有杂音，而且没有找到原因和解决方案 现在没有杂音，所以重新更... esp32 cyd speak 番茄钟 添加提示音 音效和tts 最先出现在 大师兄2016 。 |
 | 2026-11-13 | [Might and Magic VII: For Blood and Honor updated](https://macsourceports.com/game/mightandmagic7) | The build of OpenEnroth for Might and Magic VII: For Blood and Honor has been updated to the latest code of the project |
