@@ -44,7 +44,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-11-14 | [Amaysim给了我一个黑五超值优惠，一年省180刀](https://www.ozexplorers.com/%E7%BE%8A%E6%AF%9B%E6%94%BB%E7%95%A5/2026/11/14/how-i-got-a-black-friday-deal-as-an-existing-amaysim-customer.html) | 最近，我家的宽带又省了一笔钱，而我做的事情只有一件，就是问了一句客服。 我家的网络，从去年开始就用 Amaysim 的宽带，具体经过写在《最划算的澳洲宽带？我的60澳元套餐体验》里。 先简单介绍一下我的套餐。我们两个人主要就是看看视频、刷刷手机，所以选的是最基础的 NBN 套餐，下行25Mbps，上… |
 | 2026-11-13 | [大家猜猜 @DevinAI 这次永久免费](https://versun.me/blog/tweet-2121381279346413970) | 大家猜猜 @DevinAI 这次永久免费 swe2 模型能撑多久，那些中转站应该睡觉都在笑吧😂 |
 | 2026-11-13 | [Pantone潘通年度色查询：2000–2026 年 29 个年度色，附配色和色值](https://gugegt.com/20261114-pantone-color-of-the-year.html) | 工具地址： Pantone潘通年度色查询 ，骨哥GT 在线工具里的第 14 个。 |
-| 2026-11-13 | [AI 早报 2026-11-14：英伟达市值跌破 4 万亿美元：六连周跌创 2012 年来最长纪录](https://www.jtxyh.com/daily/2026-11-14/) | 2026-11-14 AI 早报，共 16 条动态。英伟达周五收 162.85 美元，跌 2.01%，单周跌 12.75%，市值跌破 4 万亿美元，是 7 月以来第一次。《华尔街日报》11 月 13 日报道，黄仁勋被英伟达董事会换下，与其说是个人生活问题，不如说是经营手法引发的争议。 |
+| 2026-11-13 | [AI 早报 2026-11-14：OpenAI 上线 ChatGPT Wallet：AI 智能体能替你下单买东西了](https://www.jtxyh.com/daily/2026-11-14/) | 2026-11-14 AI 早报，共 16 条动态。OpenAI 在 11 月 13 日推出 ChatGPT Wallet，让常驻智能体 dots 能替用户完成购物结账。英伟达周五收 162.85 美元，跌 2.01%，单周跌 12.75%，市值跌破 4 万亿美元，是 7 月以来第一次。 |
 | 2026-11-13 | [野人编年史](http://imlane.zhanglintc.co/ye-ren-bian-nian-shi) | 野人编年史 野人创始人 徐队 ，群昵称Shogun。姓徐，称徐队，真野人队长，野人 抖音官号 持有者。 张队 ，群昵称张小不。江湖人称竹节虫，简称虫队，野人 微信公众号 持有者。 熊队 ，群昵称熊嘎婆，称熊队。 野人CLUB游泳事业部 群主。 亮队 ，群昵称亮什么，称亮队，野人 小红书官号 持有者。… |
 | 2026-11-13 | [Quake updated](https://macsourceports.com/game/quake) | The build of QSS-M for Quake has been updated to version 1.7.0 of the project |
 | 2026-11-13 | [别把「期待」想得太好](https://blog.solazy.me/20261113/) | 感觉很多时候，我们都认为「期待」是个好事儿 |

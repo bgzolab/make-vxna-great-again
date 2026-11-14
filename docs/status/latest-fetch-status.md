@@ -1,7 +1,7 @@
 ---
 title: Latest Fetch Status
-created: 2026-11-14T16:32:46Z
-modified: 2026-11-14T16:32:46Z
+created: 2026-11-14T22:07:43Z
+modified: 2026-11-14T22:07:43Z
 description: Latest source-level fetch result for the most recent execution.
 tags:
   - ai-notes
@@ -11,11 +11,11 @@ tags:
 
 # Latest Fetch Status
 
-Generated at: 2026-11-14T16:32:46Z
+Generated at: 2026-11-14T22:07:43Z
 
 Total sources: 536
-Successful: 400
-Failed: 136
+Successful: 401
+Failed: 135
 
 | Status | Source | Feed | Origin | Articles | Error |
 | --- | --- | --- | --- | ---: | --- |
@@ -127,7 +127,6 @@ Failed: 136
 | Failed | [#476] V2EX › 泽梦记 | [https://blog.100fails.com/rss.xml](https://blog.100fails.com/rss.xml) | [Origin](https://www.v2ex.com/xna/s/476) | 0 | [Errno -2] Name or service not known |
 | Failed | [#478] V2EX › FSpark | [https://fspark.me/feed](https://fspark.me/feed) | [Origin](https://www.v2ex.com/xna/s/478) | 0 | Client error '403 Forbidden' for url 'https://fspark.me/feed' For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403 |
 | Failed | [#486] V2EX › 青空之蓝 | [https://blog.ixk.me/rss.xml](https://blog.ixk.me/rss.xml) | [Origin](https://www.v2ex.com/xna/s/486) | 0 | [Errno 104] Connection reset by peer |
-| Failed | [#498] V2EX › 重庆崽儿 Brand | [https://www.brandhuang.com/rss.xml](https://www.brandhuang.com/rss.xml) | [Origin](https://www.v2ex.com/xna/s/498) | 0 | Server error '500 Internal Server Error' for url 'https://www.brandhuang.com/rss.xml' For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/500 |
 | Failed | [#4] V2EX › Airwolf Space | [https://airwolfspace.eth.limo/planet.json](https://airwolfspace.eth.limo/planet.json) | [Origin](https://www.v2ex.com/xna/s/4) | 0 | The read operation timed out |
 | Failed | [#508] V2EX › hekou 写字的地方 | [https://www.hekouwangyutian.com/atom.xml](https://www.hekouwangyutian.com/atom.xml) | [Origin](https://www.v2ex.com/xna/s/508) | 0 | [Errno 101] Network is unreachable |
 | Failed | [#50] V2EX › 码农明明桑 | [https://isming.me/index.xml](https://isming.me/index.xml) | [Origin](https://www.v2ex.com/xna/s/50) | 0 | Client error '403 Forbidden' for url 'https://isming.me/index.xml' For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403 |
@@ -433,6 +432,7 @@ Failed: 136
 | Success | [#495] V2EX › 莫尔索 | [https://liduos.com/atom.xml](https://liduos.com/atom.xml) | [Origin](https://www.v2ex.com/xna/s/495) | 146 | - |
 | Success | [#496] V2EX › Deepzz | [https://deepzz.com/rss.html](https://deepzz.com/rss.html) | [Origin](https://www.v2ex.com/xna/s/496) | 20 | - |
 | Success | [#497] V2EX › Tomyail 的记忆现场 | [https://blog.tomyail.com/atom.xml](https://blog.tomyail.com/atom.xml) | [Origin](https://www.v2ex.com/xna/s/497) | 30 | - |
+| Success | [#498] V2EX › 重庆崽儿 Brand | [https://www.brandhuang.com/rss.xml](https://www.brandhuang.com/rss.xml) | [Origin](https://www.v2ex.com/xna/s/498) | 10 | - |
 | Success | [#499] V2EX › Airing | [https://blog.ursb.me/feed.xml](https://blog.ursb.me/feed.xml) | [Origin](https://www.v2ex.com/xna/s/499) | 81 | - |
 | Success | [#49] V2EX › Mengke's blog | [https://www.mengke.me/feed.xml](https://www.mengke.me/feed.xml) | [Origin](https://www.v2ex.com/xna/s/49) | 54 | - |
 | Success | [#500] V2EX › Ghost_chu | [https://www.ghostchu.com/feed/](https://www.ghostchu.com/feed/) | [Origin](https://www.v2ex.com/xna/s/500) | 10 | - |
