@@ -1,10 +1,38 @@
 [
   {
+    "title": "创作的赢法",
+    "url": "https://mobius.blog/26148.html",
+    "date": "2026-11-15T06:30:00Z",
+    "description": "def 创作的赢法(对方, 我): #创作数量 if 对方.创作数量 > 我.创作数量: return \"他一定很闲，我还有正事要忙\" elif 对方.创作数量 return \"他根本没有持续创作的能力\" else: return \"他只是在重复我的创作\" #创作质量 if 对方.作品质量 > 我.作品质量: return \"他只是在迎合大众审美\" elif 对方.作品质量 return \"果然没有什么创作水平\" else: return \"没有个人风格，只会模仿\" #读者与关注度 if 对方.关注度 > 我.关注度: return \"不过是在哗众取宠，追求流量\" elif 对方.关注度 return \"根本没有什么影响力\" else: return \"没有什么值得讨论的\" #创作态度 if 对方.每天坚持创作: return \"机械式写作，没有灵感\" elif 对方.偶尔创作: return \"缺乏自律，三分钟热度\" elif 对方.停止创作: return \"果然坚持不了多久\" else: return \"创作态度不够端正\" #职业与生活 if 对方.全职创作: return \"没",
+    "source_root_domain": "mobius.blog"
+  },
+  {
+    "title": "只为怀旧就可惜了",
+    "url": "https://www.hecaitou.com/2026/11/more-than-nostalgia.html",
+    "date": "2026-11-15T05:14:55Z",
+    "description": "我很钦佩我家猫咪的一点，就是她的好奇心。家里到了什么新东西，她虽然胆子很小，但是一定会上去挠几下试试，不然就是要爬上去躺一会儿。有时候快递来，我蹲在地上拆箱，一只毛茸茸的小脑袋用力挤开我的胳膊，从我怀里探出来，脖子伸老长，仿佛在说：「你起开，让我看看。」 受到猫咪启发，我在买旧 CD、旧磁带的时候，也买了许多当初我见过，但是当时我绝对不会听的专辑；还买了许多当初我不知道，现在也不认识的音乐人和音乐类型作品。有很多专辑在下单之前，我甚至都不知道自己会不会喜欢听。 我想，在今天这个时代我大费周章弄回家一堆破烂，如果只是为了满足一下怀旧，未免有点可惜。不是说我变了，当初我喜欢的专辑，喜欢的老歌，到现在我依然喜欢，情感并没有随着时光流逝而变淡。但我要的并非是单纯地重听一遍，在音乐声中重新感受青春时光，我要的也不是所谓的「仪式感」，用当年的机器听当年的旧磁带、旧 CD，追求一种和当年一模一样的音效。 当年我预算有限，只能买自己最喜欢的专辑；当年我见识有限，只能买最流行最有谈资的专辑。因此回望过去，看我当初的个人最爱歌单，它是一切的开始，但也狭窄得可以。 而在过去的三四十年间，一直都有音乐人在推出",
+    "source_root_domain": "hecaitou.com"
+  },
+  {
+    "title": "homelab:docker compose安装开源应用自部署如homepage等",
+    "url": "https://dsx2016.com/self-hosting-open-source-applications-such-as-homepage-in-a-homelab-using-docker-compose/",
+    "date": "2026-11-15T03:28:29Z",
+    "description": "homepage 安装的docker自部署开源应用有点多，需要导航和面板来管理 开源推荐导航有一些，相对其他的... homelab:docker compose安装开源应用自部署如homepage等 最先出现在 大师兄2016 。",
+    "source_root_domain": "dsx2016.com"
+  },
+  {
+    "title": "System Shock updated",
+    "url": "https://macsourceports.com/game/systemshock",
+    "date": "2026-11-15T02:07:09Z",
+    "description": "The build of Shockolate for System Shock has been updated to the latest code of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
     "title": "≡ 020｜这两周莫比乌斯环转到了哪里？",
     "url": "https://mobius.blog/26140.html",
     "date": "2026-11-15T01:41:50Z",
     "description": "🧠 闲白儿 最近很多话题都在聊狗，是因为我在狗公园划分了一块区域出来办公码字，理所当然的，原本应该在咖啡厅对人 […]",
-    "source_root_domain": "onojyun.com"
+    "source_root_domain": "mobius.blog"
   },
   {
     "title": "Star Wars Jedi Knight: Dark Forces II updated",
@@ -26,6 +54,20 @@
     "date": "2026-11-15T00:00:00Z",
     "description": "21:25 回想一下我的童年阴影，有两个记忆深刻。一个是柯南的绷带怪人，后来发现身边的朋友们基本都被它吓到过。另一个则是陈小春版《鹿鼎记》中，假太后脸变成毛东珠的那一瞬，非常骇人，当时我是一个人在表哥家看的，被吓得夺门而出，记忆犹新。 再长大些也经历过许多吓人的时刻，多是影视剧中，印象倒都不太深。听到听友说一直不敢一个人睡，我倒还好。确实是长大了啊，丢失了的「害怕」或许也是童真的一部分。 另外一说，点名骂人是真爽啊",
     "source_root_domain": "itaober.com"
+  },
+  {
+    "title": "AI Agent 走进三维世界之后",
+    "url": "https://www.bmpi.dev/dev/agent-3d-world-building/",
+    "date": "2026-11-15T00:00:00Z",
+    "description": "从瀑布洞穴漏顶、栏杆挡死视线到 203 盏悬空宫灯掉落，记录 MinePilot 在真实三维体素世界里走过的弯路，以及 Agent 如何把空间设计、局部修复与原生游戏验收连成闭环。",
+    "source_root_domain": "bmpi.dev"
+  },
+  {
+    "title": "2026年第45、46周",
+    "url": "https://blog.sakoamc.com/posts/264546/",
+    "date": "2026-11-15T00:00:00Z",
+    "description": "题记：二零二六年第四十五、四十六周，气温骤降，已经到了不想起床的日子。",
+    "source_root_domain": "sakoamc.com"
   },
   {
     "title": "x86小主机重新设置pve all in one",
@@ -241,14 +283,14 @@
     "title": "Mac 跨桌面录屏，为什么 Chrome 视频会黑屏",
     "url": "https://liudon.com/posts/chrome-offscreen-video-black/",
     "date": "2026-11-13T07:05:09Z",
-    "description": "在 Safari 篇 里，提到了一条来自 Chrome 的线索。要讲清楚这条线索，还得回到 Gecko 早期的跨桌面录制测试。 当时，Chrome 窗口切到其他 Space 后，主要表现是画面更新稀疏。引入 Pulse 后，已经能够采集到连续变化的视频帧。",
+    "description": "Mac 录制 Chrome 视频，为什么早期切换桌面正常，后来却黑屏？从一条被遗忘的启动参数出发，通过 Pulse 对照、Chromium 源码和媒体 trace，定位窗口遮挡如何抑制视频提交，并解释解码仍在继续时画面为何消失。",
     "source_root_domain": "liudon.com"
   },
   {
     "title": "Mac 跨桌面录屏，为什么 Safari 视频会黑屏",
     "url": "https://liudon.com/posts/safari-offscreen-video-black/",
     "date": "2026-11-13T07:05:08Z",
-    "description": "在 Gecko 的应用兼容性测试中，Safari 出现了一个问题：窗口在当前桌面时录制正常，切到另一个 Space，录像中的视频区域却变成了黑色。声音还在，录制也没有停止；切回原桌面，画面又恢复。",
+    "description": "从 Safari 跨桌面录屏的视频黑屏现象出发，通过本地网页、OBS 对照、四种 Canvas 实验及 WebKit 源码，逐步定位可见性如何影响视频呈现。",
     "source_root_domain": "liudon.com"
   },
   {

@@ -27,10 +27,16 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-11-15 | [创作的赢法](https://mobius.blog/26148.html) | def 创作的赢法(对方, 我): #创作数量 if 对方.创作数量 > 我.创作数量: return "他一定很闲，我还有正事要忙" elif 对方.创作数量 return "他根本没有持续创作的能力" else: return "他只是在重复我的创作" #创作质量 if 对方.作品质量 > 我.… |
+| 2026-11-15 | [只为怀旧就可惜了](https://www.hecaitou.com/2026/11/more-than-nostalgia.html) | 我很钦佩我家猫咪的一点，就是她的好奇心。家里到了什么新东西，她虽然胆子很小，但是一定会上去挠几下试试，不然就是要爬上去躺一会儿。有时候快递来，我蹲在地上拆箱，一只毛茸茸的小脑袋用力挤开我的胳膊，从我怀里探出来，脖子伸老长，仿佛在说：「你起开，让我看看。」 受到猫咪启发，我在买旧 CD、旧磁带的时候，… |
+| 2026-11-15 | [homelab:docker compose安装开源应用自部署如homepage等](https://dsx2016.com/self-hosting-open-source-applications-such-as-homepage-in-a-homelab-using-docker-compose/) | homepage 安装的docker自部署开源应用有点多，需要导航和面板来管理 开源推荐导航有一些，相对其他的... homelab:docker compose安装开源应用自部署如homepage等 最先出现在 大师兄2016 。 |
+| 2026-11-15 | [System Shock updated](https://macsourceports.com/game/systemshock) | The build of Shockolate for System Shock has been updated to the latest code of the project |
 | 2026-11-15 | [≡ 020｜这两周莫比乌斯环转到了哪里？](https://mobius.blog/26140.html) | 🧠 闲白儿 最近很多话题都在聊狗，是因为我在狗公园划分了一块区域出来办公码字，理所当然的，原本应该在咖啡厅对人 […] |
 | 2026-11-15 | [Star Wars Jedi Knight: Dark Forces II updated](https://macsourceports.com/game/swjkdf2) | The build of OpenJKDF2 for Star Wars Jedi Knight: Dark Forces II has been updated to version v0.9.9 of the project |
 | 2026-11-15 | [Star Wars Jedi Knight: Mysteries of the Sith updated](https://macsourceports.com/game/swjkmots) | The build of OpenJKDF2 for Star Wars Jedi Knight: Mysteries of the Sith has been updated to version v0.9.9 of the project |
 | 2026-11-15 | [Memos #2026-11-14](https://blog.itaober.com/memos/memo_20261114131423_d1mt9s) | 21:25 回想一下我的童年阴影，有两个记忆深刻。一个是柯南的绷带怪人，后来发现身边的朋友们基本都被它吓到过。另一个则是陈小春版《鹿鼎记》中，假太后脸变成毛东珠的那一瞬，非常骇人，当时我是一个人在表哥家看的，被吓得夺门而出，记忆犹新。 再长大些也经历过许多吓人的时刻，多是影视剧中，印象倒都不太深。听… |
+| 2026-11-15 | [AI Agent 走进三维世界之后](https://www.bmpi.dev/dev/agent-3d-world-building/) | 从瀑布洞穴漏顶、栏杆挡死视线到 203 盏悬空宫灯掉落，记录 MinePilot 在真实三维体素世界里走过的弯路，以及 Agent 如何把空间设计、局部修复与原生游戏验收连成闭环。 |
+| 2026-11-15 | [2026年第45、46周](https://blog.sakoamc.com/posts/264546/) | 题记：二零二六年第四十五、四十六周，气温骤降，已经到了不想起床的日子。 |
 | 2026-11-14 | [x86小主机重新设置pve all in one](https://dsx2016.com/reconfiguring-a-pve-all-in-one-setup-on-an-x86-mini-pc/) | 二手小主机 这个小主机买了大概5-10年左右，是一个很老的迷你主机，也是一个不知名的杂牌 内存是8GB，磁盘印... x86小主机重新设置pve all in one 最先出现在 大师兄2016 。 |
 | 2026-11-14 | [推漫：满天星与黄金](https://www.nodealpha.me/Manga-mantentoougon.html) | 之前看了大约20话，之后没有汉化组接坑了，最近查了下已经完结了，让AI找了日文版之后 翻译了下 ，顺便推荐下。 |
 | 2026-11-14 | [这周开始用AI做的项目](https://cufezhusy.github.io/issue-30/) | 这周我休了一个长周末，周四的时候与原来单位的同事下班后喝了杯啤酒。然后周五没有去上班，在家附近吃了一碗兰州拉面，真赞。 这周我打算开始用AI做一个小小的模拟城市游戏，我从小就喜欢玩模拟游戏，但老是觉得很多功能不合我意，有些功能太少了，有些功能太多了。我现在开始用DSH做一个简单的网页版的模拟城市游戏… |
@@ -61,8 +67,8 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-11-13 | [台式机换个了新家](https://hux.ink/posts/small-pc-case/) | 2020 年装机的台式电脑，用的是先马小黑洞机箱，个头特别大，摆在桌子旁边很占地方。最近寻思着能不能换个小一点的机箱，但有个前提，必须保留原来的所有硬件，除了机箱之外，不打算额外花钱升级配件。 有了这个想法之后，我把电脑的硬件清单和机箱内部布局拍照发给 ChatGPT，让它先帮忙分析一番。它一开始推… |
 | 2026-11-13 | [esp32 cyd speak 英文短词 提示音效](https://dsx2016.com/esp32-cyd-short-english-phrases-audio-prompts/) | 英文单词音效 之前设置了通用的提示音效，番茄钟场景音效，闹钟模拟背景音乐长电子音效 但是这些还是不能明确的点明... esp32 cyd speak 英文短词 提示音效 最先出现在 大师兄2016 。 |
 | 2026-11-13 | [《异教徒 Heretic》](https://banzhuanriji.com/movie/heretic.html) | 最近杭州下雨，窝在被子里看恐怖片太棒了。但是我不喜欢那种走恶心和突脸路线的。经过各种APP选择了《异教徒》，结果比我想象的好看很多。属于是宗教+惊悚（或许说恐怖更合适）。比较遗憾的就是后期强制来... |
-| 2026-11-13 | [Mac 跨桌面录屏，为什么 Chrome 视频会黑屏](https://liudon.com/posts/chrome-offscreen-video-black/) | 在 Safari 篇 里，提到了一条来自 Chrome 的线索。要讲清楚这条线索，还得回到 Gecko 早期的跨桌面录制测试。 当时，Chrome 窗口切到其他 Space 后，主要表现是画面更新稀疏。引入 Pulse 后，已经能够采集到连续变化的视频帧。 |
-| 2026-11-13 | [Mac 跨桌面录屏，为什么 Safari 视频会黑屏](https://liudon.com/posts/safari-offscreen-video-black/) | 在 Gecko 的应用兼容性测试中，Safari 出现了一个问题：窗口在当前桌面时录制正常，切到另一个 Space，录像中的视频区域却变成了黑色。声音还在，录制也没有停止；切回原桌面，画面又恢复。 |
+| 2026-11-13 | [Mac 跨桌面录屏，为什么 Chrome 视频会黑屏](https://liudon.com/posts/chrome-offscreen-video-black/) | Mac 录制 Chrome 视频，为什么早期切换桌面正常，后来却黑屏？从一条被遗忘的启动参数出发，通过 Pulse 对照、Chromium 源码和媒体 trace，定位窗口遮挡如何抑制视频提交，并解释解码仍在继续时画面为何消失。 |
+| 2026-11-13 | [Mac 跨桌面录屏，为什么 Safari 视频会黑屏](https://liudon.com/posts/safari-offscreen-video-black/) | 从 Safari 跨桌面录屏的视频黑屏现象出发，通过本地网页、OBS 对照、四种 Canvas 实验及 WebKit 源码，逐步定位可见性如何影响视频呈现。 |
 | 2026-11-13 | [2026.11.12](https://www.justzht.com/2026-11-12/) | E39 早上开去 Apple Park 一切正常，但傍晚下班要去和同事吃饭喝酒，坐进去发现打不着了，钥匙到底都听不到 start motor 转的声 |
 | 2026-11-13 | [起立一下是应该的](https://www.hecaitou.com/2026/11/they-deserve-a-standing-ovation.html) | 《给阿嬷的情书》拿下了金鸡奖最佳编剧奖，还获得了 评委会特别奖，受到了本届金鸡奖的特别肯定。 很多人不开心，觉得电影没有得到最佳故事片奖或者最佳导演奖，说明评委有眼无珠，电影圈闭门自嗨，对此我并不赞同。如果金鸡奖是一个偏向观众的电影奖项，那么观众最喜欢的电影，票房最高的电影，肯定要在奖项上予以体现。… |
 | 2026-11-13 | [esp32 cyd speak喇叭一直有电流哒哒声问题 音频模块](https://dsx2016.com/issue-with-persistent-crackling-clicking-noise-from-the-speaker-on-the-esp32-cyd-speak-audio-module/) | esp32 cyd speak喇叭 这几天测试番茄钟的时候，发现speak喇叭一直有电流声音，杂音 手上有2个... esp32 cyd speak喇叭一直有电流哒哒声问题 音频模块 最先出现在 大师兄2016 。 |
