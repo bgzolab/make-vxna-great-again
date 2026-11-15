@@ -35,6 +35,13 @@
     "source_root_domain": "macsourceports.com"
   },
   {
+    "title": "Vol.126 长时运行智能体的秩序：持久执行、记忆沉淀、团队交接与成本衡量",
+    "url": "https://liduos.com/weekly/the-weekly-gradient-126",
+    "date": "2026-11-15T08:00:00Z",
+    "description": "本期内容围绕长时运行智能体的秩序展开：从持久化执行与故障恢复到记忆分层、上下文沉淀与任务交接，再到多会话监督、模型验收和算力成本衡量，探讨智能体如何跨天跨团队持续交付。",
+    "source_root_domain": "liduos.com"
+  },
+  {
     "title": "创作的赢法",
     "url": "https://mobius.blog/26148.html",
     "date": "2026-11-15T06:30:00Z",
@@ -105,10 +112,10 @@
     "source_root_domain": "dsx2016.com"
   },
   {
-    "title": "AI 早报 2026-11-15：李沐出任 Aimotion 联创兼 CTO：联手 Boson AI 做产业级世界模型",
+    "title": "AI 早报 2026-11-15：意大利罚 Meta 8.05 亿欧元：Facebook 未经明确同意就读取用户相册",
     "url": "https://www.jtxyh.com/daily/2026-11-15/",
     "date": "2026-11-14T16:00:00Z",
-    "description": "2026-11-15 AI 早报，共 8 条动态。李沐正式出任硅谷公司 Aimotion 联合创始人兼 CTO，主导下一代产业级 AI 技术建设，同时继续担任 Boson AI 联创兼 CTO。Anthropic 更新后的 Supported Regions Policy 11 月 12 日正式生效，把…",
+    "description": "2026-11-15 AI 早报，共 8 条动态。意大利数据保护局 11 月 14 日对 Meta Platforms Ireland Limited 开出 8.05 亿欧元罚单，约合 8.87 亿美元，相当于 Meta 全球营收的 0.47%。李沐正式出任硅谷公司 Aimotion 联合创始人兼…",
     "source_root_domain": "jtxyh.com"
   },
   {

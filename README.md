@@ -32,6 +32,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-11-15 | [再见 IndieWeb，你好 indie web](https://www.geedea.pro/article/iiwd/) | 我逐渐意识到互联网落得他如今的坏名声，根本原因可能是它的包容性太强了，把所有人都放在一个地方，不引发矛盾才怪。即便是本身就十分小众的 IndieWeb ，大家也未免能相互认同 1 。说实话很多人可能没读过 IndieWeb 的 十一条原则 ，核心社群里也充满了用自己真名和真人头像的成员，还有 Ind… |
 | 2026-11-15 | [即将召开APEC](https://sigge.cn/2026/11/15/051d2e98-8ff2-4d3d-938f-a51c606256e1) | 即将召开APEC |
 | 2026-11-15 | [System Shock updated](https://macsourceports.com/game/systemshock) | The build of Shockolate for System Shock has been updated to the latest code of the project |
+| 2026-11-15 | [Vol.126 长时运行智能体的秩序：持久执行、记忆沉淀、团队交接与成本衡量](https://liduos.com/weekly/the-weekly-gradient-126) | 本期内容围绕长时运行智能体的秩序展开：从持久化执行与故障恢复到记忆分层、上下文沉淀与任务交接，再到多会话监督、模型验收和算力成本衡量，探讨智能体如何跨天跨团队持续交付。 |
 | 2026-11-15 | [创作的赢法](https://mobius.blog/26148.html) | def 创作的赢法(对方, 我): #创作数量 if 对方.创作数量 > 我.创作数量: return "他一定很闲，我还有正事要忙" elif 对方.创作数量 return "他根本没有持续创作的能力" else: return "他只是在重复我的创作" #创作质量 if 对方.作品质量 > 我.… |
 | 2026-11-15 | [只为怀旧就可惜了](https://www.hecaitou.com/2026/11/more-than-nostalgia.html) | 我很钦佩我家猫咪的一点，就是她的好奇心。家里到了什么新东西，她虽然胆子很小，但是一定会上去挠几下试试，不然就是要爬上去躺一会儿。有时候快递来，我蹲在地上拆箱，一只毛茸茸的小脑袋用力挤开我的胳膊，从我怀里探出来，脖子伸老长，仿佛在说：「你起开，让我看看。」 受到猫咪启发，我在买旧 CD、旧磁带的时候，… |
 | 2026-11-15 | [homelab:docker compose安装开源应用自部署如homepage等](https://dsx2016.com/self-hosting-open-source-applications-such-as-homepage-in-a-homelab-using-docker-compose/) | homepage 安装的docker自部署开源应用有点多，需要导航和面板来管理 开源推荐导航有一些，相对其他的... homelab:docker compose安装开源应用自部署如homepage等 最先出现在 大师兄2016 。 |
@@ -42,7 +43,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-11-15 | [AI Agent 走进三维世界之后](https://www.bmpi.dev/dev/agent-3d-world-building/) | 从瀑布洞穴漏顶、栏杆挡死视线到 203 盏悬空宫灯掉落，记录 MinePilot 在真实三维体素世界里走过的弯路，以及 Agent 如何把空间设计、局部修复与原生游戏验收连成闭环。 |
 | 2026-11-15 | [2026年第45、46周](https://blog.sakoamc.com/posts/264546/) | 题记：二零二六年第四十五、四十六周，气温骤降，已经到了不想起床的日子。 |
 | 2026-11-14 | [x86小主机重新设置pve all in one](https://dsx2016.com/reconfiguring-a-pve-all-in-one-setup-on-an-x86-mini-pc/) | 二手小主机 这个小主机买了大概5-10年左右，是一个很老的迷你主机，也是一个不知名的杂牌 内存是8GB，磁盘印... x86小主机重新设置pve all in one 最先出现在 大师兄2016 。 |
-| 2026-11-14 | [AI 早报 2026-11-15：李沐出任 Aimotion 联创兼 CTO：联手 Boson AI 做产业级世界模型](https://www.jtxyh.com/daily/2026-11-15/) | 2026-11-15 AI 早报，共 8 条动态。李沐正式出任硅谷公司 Aimotion 联合创始人兼 CTO，主导下一代产业级 AI 技术建设，同时继续担任 Boson AI 联创兼 CTO。Anthropic 更新后的 Supported Regions Policy 11 月 12 日正式生效… |
+| 2026-11-14 | [AI 早报 2026-11-15：意大利罚 Meta 8.05 亿欧元：Facebook 未经明确同意就读取用户相册](https://www.jtxyh.com/daily/2026-11-15/) | 2026-11-15 AI 早报，共 8 条动态。意大利数据保护局 11 月 14 日对 Meta Platforms Ireland Limited 开出 8.05 亿欧元罚单，约合 8.87 亿美元，相当于 Meta 全球营收的 0.47%。李沐正式出任硅谷公司 Aimotion 联合创始人兼… |
 | 2026-11-14 | [推漫：满天星与黄金](https://www.nodealpha.me/Manga-mantentoougon.html) | 之前看了大约20话，之后没有汉化组接坑了，最近查了下已经完结了，让AI找了日文版之后 翻译了下 ，顺便推荐下。 |
 | 2026-11-14 | [这周开始用AI做的项目](https://cufezhusy.github.io/issue-30/) | 这周我休了一个长周末，周四的时候与原来单位的同事下班后喝了杯啤酒。然后周五没有去上班，在家附近吃了一碗兰州拉面，真赞。 这周我打算开始用AI做一个小小的模拟城市游戏，我从小就喜欢玩模拟游戏，但老是觉得很多功能不合我意，有些功能太少了，有些功能太多了。我现在开始用DSH做一个简单的网页版的模拟城市游戏… |
 | 2026-11-14 | [晚上在 magpie 上遇到了，3个 j](https://versun.me/blog/tweet-2121603982548480423) | Unicorn Google现在通过429已经能精准识别反代了。 其实从9月份开始，Google就暗中加了道防火墙规则。 只要用CPA这类多账号反代池，一旦接入第三方Agent请求里会携带RFC 2119: 这个特征字符串，接口就会直接返回429报错。 ​按正常接口规范，识别出违规客户端或者拒绝权限… |
