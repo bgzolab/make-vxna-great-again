@@ -1,5 +1,40 @@
 [
   {
+    "title": "小宝的秋假",
+    "url": "https://blog.moatkon.com/posts/2026/11/15/2/",
+    "date": "2026-11-15T15:49:15Z",
+    "description": "小宝的秋假不知不觉过完了。 周三小宝开始放秋季。 第一天奶奶带去meland玩,玩了一整天,中午是媳妇点的外卖,他们在外面吃的。晚上回来之后，小宝咳嗽变得厉害。经过一整天的剧烈运动，对咳嗽不好。 第二天,因为小宝咳嗽，就没有去外面玩了，在家里玩。 第三天，我请了一天假，上午带小宝去医院，听了一下肺，给医生看看，开了药，没有什么大问题。医生也嘱咐小宝不能剧烈运动。下午媳妇定了去自然博物馆的门票，下午去了自然博物馆。好久没有去了，已经没有印象了，到了地方才想起来。小宝在里面玩的没有在科技馆玩的开心。在快结束的时候，拿着手机到处拍照，一下子就玩起来了，哈哈 第四天，去了山姆，小宝在山姆里面试吃都吃饱了，哈哈。在山姆买了一些生活用品、食品，家里面缺少的，都补齐了。 第五天，上午去社区参加活动，在课堂里面学习了食物相关的知识，完成后又去户外上了体育课，老师带着上课。经过多次尝试，投中了一个沙包，哈哈。下午午休之后，晚上和闹闹一起去散步，小宝也一起，一路上说了很多、玩了在学校的游戏、问了很多为什么，哈哈。",
+    "source_root_domain": "moatkon.com"
+  },
+  {
+    "title": "Splatterlight updated",
+    "url": "https://macsourceports.com/sourceport/spatterlight",
+    "date": "2026-11-15T12:13:10Z",
+    "description": "The build of Splatterlight for the Infocom series of games has been updated to version v1.5.6 of the project\\n\\nhttps://macsourceports.com/sourceport/spatterlight\\n\\n#macgaming #retrogaming #macOS #spatterlight #gaming #apple #m1 #m2 #m3 #applesilicon\\n\\n",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "再见 IndieWeb，你好 indie web",
+    "url": "https://www.geedea.pro/article/iiwd/",
+    "date": "2026-11-15T10:36:55Z",
+    "description": "我逐渐意识到互联网落得他如今的坏名声，根本原因可能是它的包容性太强了，把所有人都放在一个地方，不引发矛盾才怪。即便是本身就十分小众的 IndieWeb ，大家也未免能相互认同 1 。说实话很多人可能没读过 IndieWeb 的 十一条原则 ，核心社群里也充满了用自己真名和真人头像的成员，还有 IndieWeb Camp 这样的线下活动，匿名成员多少有些格格不入。IndieWeb 整体的氛围也有些…… 太积极了，至少我是觉得水土不服的。 IndieWeb 的核心理念很值得传播：拥有自己的身份和数据（而不是上交给科技公司），获得掌控权（而不是被算法操控）。这个概念不应该只停留在 IndieWeb 这一个地方。尽管 IndieWeb 并不掌控独立万维网（indie web）的概念，但事实是我们并没有看到类似的社群百花齐放。 Neocities 是免费的静态网站托管服务，有着相当多元化的社群。整体风格偏复古，有种独特的草根气质。它为很多没有能力自己托管网站的人提供了服务，这很好，但也意味着，它不够独立，也是单中心的。 Nekoweb 与 Neocities 类似，建立时间更晚，还支持 Git ",
+    "source_root_domain": "geedea.pro"
+  },
+  {
+    "title": "即将召开APEC",
+    "url": "https://sigge.cn/2026/11/15/051d2e98-8ff2-4d3d-938f-a51c606256e1",
+    "date": "2026-11-15T09:39:08Z",
+    "description": "即将召开APEC",
+    "source_root_domain": "sigge.cn"
+  },
+  {
+    "title": "System Shock updated",
+    "url": "https://macsourceports.com/game/systemshock",
+    "date": "2026-11-15T09:22:58Z",
+    "description": "The build of Shockolate for System Shock has been updated to the latest code of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
     "title": "创作的赢法",
     "url": "https://mobius.blog/26148.html",
     "date": "2026-11-15T06:30:00Z",
@@ -19,13 +54,6 @@
     "date": "2026-11-15T03:28:29Z",
     "description": "homepage 安装的docker自部署开源应用有点多，需要导航和面板来管理 开源推荐导航有一些，相对其他的... homelab:docker compose安装开源应用自部署如homepage等 最先出现在 大师兄2016 。",
     "source_root_domain": "dsx2016.com"
-  },
-  {
-    "title": "System Shock updated",
-    "url": "https://macsourceports.com/game/systemshock",
-    "date": "2026-11-15T02:07:09Z",
-    "description": "The build of Shockolate for System Shock has been updated to the latest code of the project",
-    "source_root_domain": "macsourceports.com"
   },
   {
     "title": "≡ 020｜这两周莫比乌斯环转到了哪里？",
@@ -75,6 +103,13 @@
     "date": "2026-11-14T16:11:41Z",
     "description": "二手小主机 这个小主机买了大概5-10年左右，是一个很老的迷你主机，也是一个不知名的杂牌 内存是8GB，磁盘印... x86小主机重新设置pve all in one 最先出现在 大师兄2016 。",
     "source_root_domain": "dsx2016.com"
+  },
+  {
+    "title": "AI 早报 2026-11-15：李沐出任 Aimotion 联创兼 CTO：联手 Boson AI 做产业级世界模型",
+    "url": "https://www.jtxyh.com/daily/2026-11-15/",
+    "date": "2026-11-14T16:00:00Z",
+    "description": "2026-11-15 AI 早报，共 8 条动态。李沐正式出任硅谷公司 Aimotion 联合创始人兼 CTO，主导下一代产业级 AI 技术建设，同时继续担任 Boson AI 联创兼 CTO。Anthropic 更新后的 Supported Regions Policy 11 月 12 日正式生效，把…",
+    "source_root_domain": "jtxyh.com"
   },
   {
     "title": "推漫：满天星与黄金",
@@ -145,6 +180,13 @@
     "date": "2026-11-14T07:36:00Z",
     "description": "两个月前败入了 大疆 Pocket4P ，在敦煌玩的时候屏幕就战损了，青甘行回来就用掉了一次随心换权益。 有了 Pocket 之后，发现拍视频远远多于拍照片。周末出去遛娃，回家翻翻拍的视频，竟然有种剪辑的冲动。奈何太菜，只能简单搞搞，添点背景音乐，聊以慰藉。 配完又不太想发抖音。我的博客有个 光影 页，放的是我精选的一些照片。想了想，配好音乐的视频是不是也可以放进来？于是就把「光影」改成了两个页签，照片进 「时光」 ，视频进 「影彩」 。 发布的方式跟之前的照片一样，还是与哔哔同源。打了相册标签的，照片就自动进「时光」；打了影彩标签的，就取这条哔哔里的视频链接，自动入库「影彩」。 原视频我先传到 B 站，博客里直接点开就能看。头一版点开视频会弹个浮层，试了几次还是觉得有点打断。后来就改成一行一个片段，封面占半边，点哪条就在哪条下面播。看完点一下旁边的空白，收起来接着往下翻。 以后剪好一段，照常发条哔哔，贴上 B 站链接，再带个标签就行。 目前先扔了三个片段试试，青海湖喂鸟、龙华郊野径和深圳天文台徒步。等我再学点剪辑，应该还能往里多放几段。 ❤",
     "source_root_domain": "hux.ink"
+  },
+  {
+    "title": "常州流水账 1114",
+    "url": "https://blog.solazy.me/20261114/",
+    "date": "2026-11-14T07:30:00Z",
+    "description": "今天是常州特种兵",
+    "source_root_domain": "solazy.me"
   },
   {
     "title": "2008，那顿饭",
