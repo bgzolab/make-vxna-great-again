@@ -27,18 +27,25 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-11-15 | [≡ 020｜这两周莫比乌斯环转到了哪里？](https://mobius.blog/26140.html) | 🧠 闲白儿 最近很多话题都在聊狗，是因为我在狗公园划分了一块区域出来办公码字，理所当然的，原本应该在咖啡厅对人 […] |
+| 2026-11-15 | [Star Wars Jedi Knight: Dark Forces II updated](https://macsourceports.com/game/swjkdf2) | The build of OpenJKDF2 for Star Wars Jedi Knight: Dark Forces II has been updated to version v0.9.9 of the project |
+| 2026-11-15 | [Star Wars Jedi Knight: Mysteries of the Sith updated](https://macsourceports.com/game/swjkmots) | The build of OpenJKDF2 for Star Wars Jedi Knight: Mysteries of the Sith has been updated to version v0.9.9 of the project |
+| 2026-11-15 | [Memos #2026-11-14](https://blog.itaober.com/memos/memo_20261114131423_d1mt9s) | 21:25 回想一下我的童年阴影，有两个记忆深刻。一个是柯南的绷带怪人，后来发现身边的朋友们基本都被它吓到过。另一个则是陈小春版《鹿鼎记》中，假太后脸变成毛东珠的那一瞬，非常骇人，当时我是一个人在表哥家看的，被吓得夺门而出，记忆犹新。 再长大些也经历过许多吓人的时刻，多是影视剧中，印象倒都不太深。听… |
 | 2026-11-14 | [x86小主机重新设置pve all in one](https://dsx2016.com/reconfiguring-a-pve-all-in-one-setup-on-an-x86-mini-pc/) | 二手小主机 这个小主机买了大概5-10年左右，是一个很老的迷你主机，也是一个不知名的杂牌 内存是8GB，磁盘印... x86小主机重新设置pve all in one 最先出现在 大师兄2016 。 |
 | 2026-11-14 | [推漫：满天星与黄金](https://www.nodealpha.me/Manga-mantentoougon.html) | 之前看了大约20话，之后没有汉化组接坑了，最近查了下已经完结了，让AI找了日文版之后 翻译了下 ，顺便推荐下。 |
 | 2026-11-14 | [这周开始用AI做的项目](https://cufezhusy.github.io/issue-30/) | 这周我休了一个长周末，周四的时候与原来单位的同事下班后喝了杯啤酒。然后周五没有去上班，在家附近吃了一碗兰州拉面，真赞。 这周我打算开始用AI做一个小小的模拟城市游戏，我从小就喜欢玩模拟游戏，但老是觉得很多功能不合我意，有些功能太少了，有些功能太多了。我现在开始用DSH做一个简单的网页版的模拟城市游戏… |
+| 2026-11-14 | [晚上在 magpie 上遇到了，3个 j](https://versun.me/blog/tweet-2121603982548480423) | Unicorn Google现在通过429已经能精准识别反代了。 其实从9月份开始，Google就暗中加了道防火墙规则。 只要用CPA这类多账号反代池，一旦接入第三方Agent请求里会携带RFC 2119: 这个特征字符串，接口就会直接返回429报错。 ​按正常接口规范，识别出违规客户端或者拒绝权限… |
 | 2026-11-14 | [The Operative: No One Lives Forever updated](https://macsourceports.com/game/nolf1) | The build of NOLF1 for Mac for The Operative: No One Lives Forever has been updated to version 0.5.4 of the project |
 | 2026-11-14 | [No One Lives Forever 2: A Spy in H.A.R.M.'s Way updated](https://macsourceports.com/game/nolf2) | The build of NOLF2 for Mac for No One Lives Forever 2: A Spy in H.A.R.M.'s Way has been updated to version 0.4.5 of the project |
 | 2026-11-14 | [Might and Magic VII: For Blood and Honor updated](https://macsourceports.com/game/mightandmagic7) | The build of OpenEnroth for Might and Magic VII: For Blood and Honor has been updated to the latest code of the project |
+| 2026-11-14 | [自从 claude 账号被封后， 吃的好](https://versun.me/blog/tweet-2121552342453743715) | 自从 claude 账号被封后， 吃的好，睡得好， 有时间出去走走了， 在外面也不会总抱着手机了， 生活竟然好了些许， 除了发现自己原来这么傻🥹 |
 | 2026-11-14 | [生活的策略](https://www.ixiqin.com/2026/11/14/life-strategies/) | 很多时候，大家对于我的很多生活的决策是不太理解的，觉得 —— Hey，Bro，你是不是对自己太狠了。关于对自己 […] |
 | 2026-11-14 | [用力，且认真的生活](https://www.ixiqin.com/2026/11/14/hard-work-and-hard-life/) | 用力的认真生活是我很长时间的态度。 之前在 X 上发过我自己的一些健康的指标和健康跟踪的策略，有位网友评论：“ […] |
 | 2026-11-14 | [影彩](https://hux.ink/posts/vlog/) | 两个月前败入了 大疆 Pocket4P ，在敦煌玩的时候屏幕就战损了，青甘行回来就用掉了一次随心换权益。 有了 Pocket 之后，发现拍视频远远多于拍照片。周末出去遛娃，回家翻翻拍的视频，竟然有种剪辑的冲动。奈何太菜，只能简单搞搞，添点背景音乐，聊以慰藉。 配完又不太想发抖音。我的博客有个 光影… |
 | 2026-11-14 | [2008，那顿饭](https://www.tortorse.com/archives/the-dinner-in-2008/) | 2008，那顿饭 |
 | 2026-11-14 | [无需敌人的喜欢](https://www.hecaitou.com/2026/11/a-love-that-needs-no-enemy.html) | 我昨天写了一条留言，觉得值得单独拿出来再贴一遍： 「 我想，一方面要珍爱自己所爱之人，所爱之事，但在另一方面也不要落入了对立的叙事中去。相对而言，前者更为重要，后者除了激发负面情绪没有太多作用。也可以想一下，以我的文字能力，我为什么不写成某种更为尖锐的对立场景，褒一贬一，让读者更愿意讨论和转发呢？为… |
 | 2026-11-14 | [《大脑通信员：认识你的神经递质》阅读笔记](https://blog.frytea.com/archives/32550) | 读完了赵思家的《大脑通信员：认识你的神经递质》，对于大脑中的神经递质有了初步的认知，才发现之前对多巴胺、去甲肾 […] |
+| 2026-11-14 | [更新下 devin pro 的 clau](https://versun.me/blog/tweet-2121413109223211140) | Versun 记录下 devin pro 的额度，一样也是20刀和 opus 5.5 模型 1个每日额度 = 8.7M token / $17.5 周额度 = 2个每日额度 = 16M token 月额度 = 16 x 4 = 64M token https://twitter.com/Versun… |
 | 2026-11-14 | [Memos #2026-11-13](https://blog.itaober.com/memos/memo_20261113022232_c896p4) | 10:25 看阮一峰最 本周博客 有感：如果你发现我正坐在工位上发呆，而不是敲击键盘，我并没有偷懒，反而是在更认真地完成工作。 |
 | 2026-11-14 | [Python 潮流周刊#175：AI 为 CPython 写出 61 万行 Lean 证明](https://pythoncat.top/posts/2026-11-14-weekly/) | 分享了 12 篇文章，12 个开源项目，1 则音视频，2 则热门讨论 |
 | 2026-11-14 | [Amaysim给了我一个黑五超值优惠，一年省180刀](https://www.ozexplorers.com/%E7%BE%8A%E6%AF%9B%E6%94%BB%E7%95%A5/2026/11/14/how-i-got-a-black-friday-deal-as-an-existing-amaysim-customer.html) | 最近，我家的宽带又省了一笔钱，而我做的事情只有一件，就是问了一句客服。 我家的网络，从去年开始就用 Amaysim 的宽带，具体经过写在《最划算的澳洲宽带？我的60澳元套餐体验》里。 先简单介绍一下我的套餐。我们两个人主要就是看看视频、刷刷手机，所以选的是最基础的 NBN 套餐，下行25Mbps，上… |
@@ -219,27 +226,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-11-08 | [一步步理解齐次变换](https://www.less-bug.com/posts/understand-homogeneous-transformation-step-by-step/) | 本文将带领读者看清齐次变换的几何本质：因为 低维空间的平移，本质上就是高维空间里的线性错切（Shear）在这些低维截面上的投影 。 三维错切诱导二维平移 $\mathbf{v}' = \mathbf{M}\mathbf{v}$ 是一个线性变换的过程。输入全零向量，输出必定是全零向量，即 $\math… |
 | 2026-11-08 | [实用与好看](https://www.hecaitou.com/2026/11/Utility-and-Beauty.html) | 今年我换了一批衣架，据说是日式的，材质坚固，但做成了很薄的一片。这样同样是一根挂衣杆，我能挂更多 T 恤。 原先我用木质衣架，纹理很漂亮，油漆很光亮，不过也相当占地方，只适合挂冬衣。相比之下，日式衣架实用然而缺乏视觉上的美感，打开衣柜很像是个整齐的仓库。 我对这次替换并不后悔，因为我能找到自己的每一… |
 | 2026-11-08 | [运气不好](https://zdyxry.github.io/2026/11/08/bad-luck/) | 预约检查 国庆期间感觉自己左手食指中间部位有一个小包，不疼不痒，位置刚好是大拇指正常放置就能够碰到的位置，每天都能够感受到它。预约了华山医院的手外科检查。10 月 27 日去华山医院手外科找医生看了一下，最初判断是腱鞘囊肿，尝试按破没成功，说做个 B 超看一下。不知道是错觉还是什么，那次按完之后感觉… |
-| 2026-11-07 | [油管成长记录式新手和普通日常视频分享](https://dsx2016.com/youtube-growth-journey-content-for-beginners-and-everyday-life-vlogs/) | 过程和结果 以前分享一个技术内容，总是在无数次验证和试错后，记录结果并分享 但是很少记录错误和请教别人，提问式... 油管成长记录式新手和普通日常视频分享 最先出现在 大师兄2016 。 |
-| 2026-11-07 | [康威定律在 Agent 上的重演](https://rickgwei.com/posts/conway-law-agents/) | 康威定律 Conway 在 1968 年的原文 指出，设计系统的组织，会产生复制组织沟通结构的设计。这里关心的是实际沟通路径，而不只是组织架构图上的职位名称。 在软件团队里，谁和谁沟通、哪些信息需要交接、谁负责协调和集成，会影响系统的模块边界与接口。放到 Agent 系统中，沟通结构则由上下文范围、… |
-| 2026-11-07 | [AI 早报 2026-11-08：GPT-6.1 Sol 连做三台小鼠脑手术，一次比一次准](https://www.jtxyh.com/daily/2026-11-08/) | 2026-11-08 AI 早报，共 14 条动态。生物科技公司 Exin Therapeutics 披露，OpenAI 模型 GPT-6.1 Sol 连续参与三轮活体小鼠脑部手术，负责定位前囟点和人字缝点——脑立体定位手术校准坐标的关键标志。《金融时报》11 月 8 日报道，Anthropic 已… |
-| 2026-11-07 | [油管拍摄内容选择什么主题好？](https://dsx2016.com/what-topics-are-good-to-choose-for-youtube-content/) | 两个频道 两个频道都获取YPP 一个频道因为发布了硬件相关的内容，6个小时后就开通的rpoduct功能，甚至后... 油管拍摄内容选择什么主题好？ 最先出现在 大师兄2016 。 |
-| 2026-11-07 | [被高估的「行胜于言」](https://blog.solazy.me/20261107/) | 今天说个看似和我之前写过文章相悖的选题 |
-| 2026-11-07 | [Memos: 事 倍 功 半](https://blog.yasking.org/a/1794059602) | 下载原图: Download |
-| 2026-11-07 | [假如给新手一些关于油管的建议，有哪些可以分享的？](https://dsx2016.com/if-you-were-to-offer-some-advice-to-a-beginner-on-youtube-what-would-you-share/) | 只用手机 拍摄视频千万不要一开始就买各种相机，新手机，无人机之类的 只需要用自己当前正在使用的手机，旧手机，进... 假如给新手一些关于油管的建议，有哪些可以分享的？ 最先出现在 大师兄2016 。 |
-| 2026-11-07 | [唉😔，好好做你的 hermes，为什么要](https://versun.me/blog/tweet-2119057319506088226) | Nous Research Introducing Arete-27B: Qwen3.8-27B, post-trained to reinforce Western values. Chinese open models are currently the strongest available,… |
-| 2026-11-07 | [ChatGPT Dot 日常使用记录](https://anotherdayu.com/how-i-use-dots/) | 引 最近一段时间，Dots 已经成了我使用黏度很高的个人助理工具。 整理了一下目前的使用方式，大致可以分三种：随手交代、定期任务和主动协助。 大部分思路也可以在 Grok bot 和 muse 里使用。 让Dots认识你 Dots 是一个长期协作的个人助理。要想真正用好它，首先得放下对个人隐私的部分… |
-| 2026-11-07 | [Memos: 发现街角的咖啡店](https://blog.yasking.org/a/1794053002) | 小区侧门马路的对面有个咖啡店，独栋小房子，坐落在两个小区中间，门前的小院子有各种绿植花卉，还有一只小猫迎宾，室 … |
-| 2026-11-07 | [古典乐笔记](https://z.arlmy.me/posts/YearlyAlbums/ClassicalMusicNotes_2026/) | 「开始听古典。」 |
-| 2026-11-07 | [emmmmmmmmmm](https://versun.me/blog/tweet-2119011035936157975) | Nowledge Mem A fresh look for Nowledge Mem! ✨ A cleaner sidebar, redesigned Threads, and more room for what matters. Less noise. Same memories. Take a… |
-| 2026-11-07 | [Plants vs. Zombies updated](https://macsourceports.com/game/pvz) | The build of PvZ Portable for Plants vs. Zombies has been updated to version 0.2.7 of the project |
-| 2026-11-07 | [为什么这么多年还在坚持写博客？](https://dsx2016.com/why-have-i-kept-blogging-for-all-these-years/) | 油管和博客 在redit看到一个帖子，问的是有没有多年的油管创作者转向写博客的 我想我就是，但不完全是，油管创... 为什么这么多年还在坚持写博客？ 最先出现在 大师兄2016 。 |
-| 2026-11-07 | [《玉响》圣地巡礼之憧憬之路](https://www.wikimoe.com/post/b-to4doc6q) | 2026年10月31日，天气晴，今天去竹原，参加憧憬之路！ 就如去年所说的，希望能去一次憧憬之路，这次的旅程就是为了完成去年的愿望。 抵达竹原 我回来啦！ 不一样的是，这次并不是一个人，而是两个人！ 商店街 今天正好是万圣节。 桃猫大人换成了万圣节款式。 对比上次，商店街多了一些灯笼。 之前因为火灾… |
-| 2026-11-07 | [一次 browser_exec 调用背后：Hermes Agent 如何管理浏览器](https://liudon.com/posts/hermes-agent-browser-management/) | 上一篇《 Hermes Agent v0.23.0 升级：一次安全修复，让我的 Chrome 无法启动 》讲了升级后 Chrome 无法启动的踩坑记录，今天来讲一下：当 Hermes 需要访问网页时，它究竟如何找到并管理浏览器？ |
-| 2026-11-07 | [审美总是最先被放弃的](https://www.hecaitou.com/2026/11/aesthetics-are-always-the-first-to-be-abandoned.html) | 人总是会来到人生中需要轻身上路的阶段，就我的个人观察，在这个阶段最先被放弃的总是审美。 轻身上路的原因可能是内心变得更加澄明，于是觉得不再需要背负那么多东西；也可能是内心因为崩坏而变得虚弱，于是先行放弃一部分不那么「重要」的东西，为自己减负。审美不能当饭吃，通常也不会有什么产出，放在列表第一行一点都… |
-| 2026-11-07 | [Album#49 - Music For Programming](https://taxodium.ink/album-49.html) | Album#49 Music For Programming 图1 Music For Programming by Datassette 专辑信息 专辑名称： Music For Programming 歌手： Datassette 年份： 自 2009 年 时长： 很長 function mus… |
-| 2026-11-07 | [真实住宅地址生成器：27 个国家的真住宅地址，附带一套测试资料](https://gugegt.com/20261107-real-address-generator.html) | 之前聊过 addresslab.net 那类随机地址生成器，这个是同类里更实在的一个：真实住宅地址生成器，地址是 address.daimonna.com/zh-CN/。它不编地址，从已验证的真实地址库里按国家和地区随机抽，抽出来的地址真有其地。 |
-| 2026-11-07 | [Memos #2026-11-06](https://blog.itaober.com/memos/memo_20261106020318_4cdt3m) | 10:03 最黑暗的一天，无限子弹打法都开始心慌了🥲 |
-| 2026-11-07 | [Python 潮流周刊#174：CPython 实验性 JIT 将被移除，PyScript 进入维护模式](https://pythoncat.top/posts/2026-11-07-weekly/) | 分享了 12 篇文章，12 个开源项目，2 则热门讨论 |
 
 ## Vibe Coding
 
