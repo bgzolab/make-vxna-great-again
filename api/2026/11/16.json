@@ -1,5 +1,117 @@
 [
   {
+    "title": "清理磁盘已满的mysql",
+    "url": "https://www.bboy.app/2026/11/16/%E6%B8%85%E7%90%86%E7%A3%81%E7%9B%98%E5%B7%B2%E6%BB%A1%E7%9A%84mysql/",
+    "date": "2026-11-16T14:45:00Z",
+    "description": "简介 早上有个同事问我能不能扩容磁盘，说mysql 存储满了，只能扩容磁盘，我进服务器看了下，的确，给mysql 数据目录单独挂载了一块磁盘，然后这块磁盘满了，貌似确实没有什么东西可以删除，没有日志可以删除，没有除了mysql数据以外的东西可以删除，问了下AI 可以删除binlog 正常清理binlog 要mysql 进程可以使用链接到mysql 才可以，但是这个时候mysql 进程已经挂了，只能清理binlog文件",
+    "source_root_domain": "bboy.app"
+  },
+  {
+    "title": "Bear Blog 的新 API  / A new Bear Blog API",
+    "url": "https://blog.solazy.me/bearblog-api-open-source-skill/",
+    "date": "2026-11-16T11:36:00Z",
+    "description": "今天（2026 年 11 月 16 日），Bear Blog 推出了 官方 API 。文章、页面和博客设置，现在都可以通过 API 管理了。 我把这组接口封装成了 🍯 Bear Blog Skill ，并开源在 GitHub 。装进 Codex、Claude Code 等支持 Agent Skills 的工具后，就能用自然语言安排博客操作，例如： $bearblog 根据这份 Markdown 创建草稿，并添加 notes 标签。 $bearblog 列出全部草稿和定时发布的文章。 Claude Code 中使用 /bearblog 调用。 这篇文章本身，就是在我的工作流中使用 🍯 Bear Blog Skill，通过 Bear Blog 官方 API 发布的。 这个技能覆盖了官方文档中的全部 7 个接口，可以创建、读取、修改和删除文章或页面，处理发布与定时发布，也能更新首页、导航、CSS 和其他受支持的博客设置。它还支持导出文章正文和设置；搜索、批量编辑则通过组合官方接口完成。 整个技能只调用 Bear Blog 官方公开 API，不使用私有协议、未公开接口或非官方平台能力。它也附带",
+    "source_root_domain": "solazy.me"
+  },
+  {
+    "title": "2021",
+    "url": "https://wcowin.work/blog/archive/2021/",
+    "date": "2026-11-16T11:17:55Z",
+    "description": "2021",
+    "source_root_domain": "wcowin.work"
+  },
+  {
+    "title": "2022",
+    "url": "https://wcowin.work/blog/archive/2022/",
+    "date": "2026-11-16T11:17:55Z",
+    "description": "2022",
+    "source_root_domain": "wcowin.work"
+  },
+  {
+    "title": "2023",
+    "url": "https://wcowin.work/blog/archive/2023/",
+    "date": "2026-11-16T11:17:55Z",
+    "description": "2023",
+    "source_root_domain": "wcowin.work"
+  },
+  {
+    "title": "2024",
+    "url": "https://wcowin.work/blog/archive/2024/",
+    "date": "2026-11-16T11:17:55Z",
+    "description": "2024",
+    "source_root_domain": "wcowin.work"
+  },
+  {
+    "title": "2025",
+    "url": "https://wcowin.work/blog/archive/2025/",
+    "date": "2026-11-16T11:17:55Z",
+    "description": "2025",
+    "source_root_domain": "wcowin.work"
+  },
+  {
+    "title": "2026",
+    "url": "https://wcowin.work/blog/archive/2026/",
+    "date": "2026-11-16T11:17:55Z",
+    "description": "2026",
+    "source_root_domain": "wcowin.work"
+  },
+  {
+    "title": "Hello World",
+    "url": "https://wcowin.work/blog/category/hello-world/",
+    "date": "2026-11-16T11:17:55Z",
+    "description": "Hello World",
+    "source_root_domain": "wcowin.work"
+  },
+  {
+    "title": "网站更新记录",
+    "url": "https://wcowin.work/blog/category/%E7%BD%91%E7%AB%99%E6%9B%B4%E6%96%B0%E8%AE%B0%E5%BD%95/",
+    "date": "2026-11-16T11:17:55Z",
+    "description": "网站更新记录",
+    "source_root_domain": "wcowin.work"
+  },
+  {
+    "title": "MyBlog",
+    "url": "https://wcowin.work/blog/page/2/",
+    "date": "2026-11-16T11:17:55Z",
+    "description": "MyBlog",
+    "source_root_domain": "wcowin.work"
+  },
+  {
+    "title": "两个工具，解决我日常反复碰到的麻烦！",
+    "url": "https://www.evan.xin/5143/",
+    "date": "2026-11-16T11:01:22Z",
+    "description": "最近上线了两个小站：yee.cx 和 puff.ee。它们不是Demo，是为了解决实际工作痛点做的工具，全部代 […]",
+    "source_root_domain": "evan.xin"
+  },
+  {
+    "title": "Memos: 这两天刷了一遍《持械入宋》",
+    "url": "https://blog.yasking.org/a/1794818602",
+    "date": "2026-11-16T08:43:22Z",
+    "description": "《持械入宋》制作在当下堪称精良，设定不算新颖，无非穿越古代，用现代知识碾压古人提供装 X 的爽感，但较为克制。 比较难得 …",
+    "source_root_domain": "yasking.org"
+  },
+  {
+    "title": "为什么人们不因桌椅凌乱而困扰",
+    "url": "https://kaix.in/2026/1116/",
+    "date": "2026-11-16T07:50:04Z",
+    "description": "七八年前，翻知乎还是一个习惯的时候，看到过一篇托马斯·托尔汉姆的文章： 我在星巴克的一个神奇发现 。作者在中国南北几座城市的星巴克观察了几千名顾客，发现北方城市顾客独坐比例更高；又故意把两把空椅子拉近、半挡住过道，统计路过者的反应——小麦区北方人把椅子挪开的比例约是南方的三倍，南方人更倾向于侧身挤过去，通过调整自己来适应环境。这篇文章往前追溯可以找到 2014 年发表于《Science》的 Large-Scale Psychological Differences Within China Explained ，结论是：传统水稻种植需要共用灌溉水渠、协作换工，塑造了南方人更偏向相互依赖、整体性思维和避免冲突；小麦种植相对独立、靠天降雨即可，塑造了北方人更偏向个人主义和分析性思维。 本店藏书一直不少，而且陆续又有同好寄存，现在店里三处书架都摆不开了，吧台两个角落也堆起了书山。好在虽多却也齐整。这几年，凭着 定格咖啡馆 在本地的历史和口碑，再加上「打卡」这一热潮的兴起，新客比例大幅提升。有个现象越来越让我感觉困扰：许多客人从书架上取下书来，拍几张照，就散乱丢在各处。实话实说，整理书架并非顾",
+    "source_root_domain": "kaix.in"
+  },
+  {
+    "title": "录屏结束了，声音却少了三秒",
+    "url": "https://liudon.com/posts/gecko-stop-audio-tail/",
+    "date": "2026-11-16T06:25:00Z",
+    "description": "Gecko 正常停止录制后，音频却比视频提前约 2.94 秒结束。沿着两条采集流依次停止的时序，分析尾差如何产生，以及如何借助共用串行队列统一样本的接收截止点。",
+    "source_root_domain": "liudon.com"
+  },
+  {
+    "title": "一条诊断日志，为什么让录屏卡了十五秒",
+    "url": "https://liudon.com/posts/gecko-logging-performance-investigation/",
+    "date": "2026-11-16T05:20:00Z",
+    "description": "一次诊断日志调用暴露了媒体队列、主线程与 Metal 绘制之间的等待链。结合分段计时、线程栈和异步对照，分析延迟如何跨线程传播，以及如何解除不必要的同步依赖。",
+    "source_root_domain": "liudon.com"
+  },
+  {
     "title": "低潮时不要做重要决策",
     "url": "https://www.hecaitou.com/2026/11/dont-make-major-decisions-during-a-low-point.html",
     "date": "2026-11-16T04:31:27Z",
@@ -47,6 +159,13 @@
     "date": "2026-11-15T15:49:15Z",
     "description": "小宝的秋假不知不觉过完了。 周三小宝开始放秋季。 第一天奶奶带去meland玩,玩了一整天,中午是媳妇点的外卖,他们在外面吃的。晚上回来之后，小宝咳嗽变得厉害。经过一整天的剧烈运动，对咳嗽不好。 第二天,因为小宝咳嗽，就没有去外面玩了，在家里玩。 第三天，我请了一天假，上午带小宝去医院，听了一下肺，给医生看看，开了药，没有什么大问题。医生也嘱咐小宝不能剧烈运动。下午媳妇定了去自然博物馆的门票，下午去了自然博物馆。好久没有去了，已经没有印象了，到了地方才想起来。小宝在里面玩的没有在科技馆玩的开心。在快结束的时候，拿着手机到处拍照，一下子就玩起来了，哈哈 第四天，去了山姆，小宝在山姆里面试吃都吃饱了，哈哈。在山姆买了一些生活用品、食品，家里面缺少的，都补齐了。 第五天，上午去社区参加活动，在课堂里面学习了食物相关的知识，完成后又去户外上了体育课，老师带着上课。经过多次尝试，投中了一个沙包，哈哈。下午午休之后，晚上和闹闹一起去散步，小宝也一起，一路上说了很多、玩了在学校的游戏、问了很多为什么，哈哈。",
     "source_root_domain": "moatkon.com"
+  },
+  {
+    "title": "最近准备系统学习下《道德经》",
+    "url": "https://blog.solazy.me/20261115/",
+    "date": "2026-11-15T15:30:00Z",
+    "description": "该看看书了！",
+    "source_root_domain": "solazy.me"
   },
   {
     "title": "晚上有1个 Python 的项目 bug",

@@ -27,6 +27,22 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-11-16 | [清理磁盘已满的mysql](https://www.bboy.app/2026/11/16/%E6%B8%85%E7%90%86%E7%A3%81%E7%9B%98%E5%B7%B2%E6%BB%A1%E7%9A%84mysql/) | 简介 早上有个同事问我能不能扩容磁盘，说mysql 存储满了，只能扩容磁盘，我进服务器看了下，的确，给mysql 数据目录单独挂载了一块磁盘，然后这块磁盘满了，貌似确实没有什么东西可以删除，没有日志可以删除，没有除了mysql数据以外的东西可以删除，问了下AI 可以删除binlog 正常清理binl… |
+| 2026-11-16 | [Bear Blog 的新 API  / A new Bear Blog API](https://blog.solazy.me/bearblog-api-open-source-skill/) | 今天（2026 年 11 月 16 日），Bear Blog 推出了 官方 API 。文章、页面和博客设置，现在都可以通过 API 管理了。 我把这组接口封装成了 🍯 Bear Blog Skill ，并开源在 GitHub 。装进 Codex、Claude Code 等支持 Agent Skill… |
+| 2026-11-16 | [2021](https://wcowin.work/blog/archive/2021/) | 2021 |
+| 2026-11-16 | [2022](https://wcowin.work/blog/archive/2022/) | 2022 |
+| 2026-11-16 | [2023](https://wcowin.work/blog/archive/2023/) | 2023 |
+| 2026-11-16 | [2024](https://wcowin.work/blog/archive/2024/) | 2024 |
+| 2026-11-16 | [2025](https://wcowin.work/blog/archive/2025/) | 2025 |
+| 2026-11-16 | [2026](https://wcowin.work/blog/archive/2026/) | 2026 |
+| 2026-11-16 | [Hello World](https://wcowin.work/blog/category/hello-world/) | Hello World |
+| 2026-11-16 | [网站更新记录](https://wcowin.work/blog/category/%E7%BD%91%E7%AB%99%E6%9B%B4%E6%96%B0%E8%AE%B0%E5%BD%95/) | 网站更新记录 |
+| 2026-11-16 | [MyBlog](https://wcowin.work/blog/page/2/) | MyBlog |
+| 2026-11-16 | [两个工具，解决我日常反复碰到的麻烦！](https://www.evan.xin/5143/) | 最近上线了两个小站：yee.cx 和 puff.ee。它们不是Demo，是为了解决实际工作痛点做的工具，全部代 […] |
+| 2026-11-16 | [Memos: 这两天刷了一遍《持械入宋》](https://blog.yasking.org/a/1794818602) | 《持械入宋》制作在当下堪称精良，设定不算新颖，无非穿越古代，用现代知识碾压古人提供装 X 的爽感，但较为克制。 比较难得 … |
+| 2026-11-16 | [为什么人们不因桌椅凌乱而困扰](https://kaix.in/2026/1116/) | 七八年前，翻知乎还是一个习惯的时候，看到过一篇托马斯·托尔汉姆的文章： 我在星巴克的一个神奇发现 。作者在中国南北几座城市的星巴克观察了几千名顾客，发现北方城市顾客独坐比例更高；又故意把两把空椅子拉近、半挡住过道，统计路过者的反应——小麦区北方人把椅子挪开的比例约是南方的三倍，南方人更倾向于侧身挤过… |
+| 2026-11-16 | [录屏结束了，声音却少了三秒](https://liudon.com/posts/gecko-stop-audio-tail/) | Gecko 正常停止录制后，音频却比视频提前约 2.94 秒结束。沿着两条采集流依次停止的时序，分析尾差如何产生，以及如何借助共用串行队列统一样本的接收截止点。 |
+| 2026-11-16 | [一条诊断日志，为什么让录屏卡了十五秒](https://liudon.com/posts/gecko-logging-performance-investigation/) | 一次诊断日志调用暴露了媒体队列、主线程与 Metal 绘制之间的等待链。结合分段计时、线程栈和异步对照，分析延迟如何跨线程传播，以及如何解除不必要的同步依赖。 |
 | 2026-11-16 | [低潮时不要做重要决策](https://www.hecaitou.com/2026/11/dont-make-major-decisions-during-a-low-point.html) | 昨天我看到一条读者留言，感觉不是很妙。本想再多说几句，发现对方已经一删了之，那我只好修改一下今天的写作计划，追上去再说两句。 留言的大意是他已经看了十年我的文章，从三十岁看到了四十岁。然而人到四十，无妻无儿，一个人那么孤零零过活，感觉内心很虚无，问我怎么办。 我的第一条回复是：那之前二十年是怎么过来… |
 | 2026-11-16 | [副产品思维——做产品不一定要从零开始](https://koukyo.site/posts/byproduct-thinking/) | 做需求雷达只花了一天，因为核心的自动化早就在跑了。做产品不一定要从零开始，从自己的重复问题里往往能找到成本最低的第一个产品。 |
 | 2026-11-16 | [关于一只狗的分离焦虑](https://mobius.blog/26136.html) | 最近在狗公园办公，所以也就顺带研究了一下狗的行为学。 最近来了一只寄养的狗，几乎大部分时间都是在嘤嘤嘤地叫、在 […] |
@@ -34,6 +50,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-11-16 | [Memos #2026-11-15](https://blog.itaober.com/memos/memo_20261115003254_iq7h2n) | 08:34 恭喜 BLG，一穿四 LCK 无需多言！ 每次熬夜的时候就证明着我还年轻！ |
 | 2026-11-16 | [Linux Bash 终端必备：15 个实用技巧，让命令行操作效率翻倍！](https://zhcn.xyz/article/15-essential-linux-bash-terminal-tips-to-double-your-command-line-efficiency) | 对于经常使用 Linux 服务器、SSH、Docker 或者 VPS 的朋友来说，熟练掌握 Bash 终端快捷键，可以大幅减少重复输入，提高日常运维效率 |
 | 2026-11-15 | [小宝的秋假](https://blog.moatkon.com/posts/2026/11/15/2/) | 小宝的秋假不知不觉过完了。 周三小宝开始放秋季。 第一天奶奶带去meland玩,玩了一整天,中午是媳妇点的外卖,他们在外面吃的。晚上回来之后，小宝咳嗽变得厉害。经过一整天的剧烈运动，对咳嗽不好。 第二天,因为小宝咳嗽，就没有去外面玩了，在家里玩。 第三天，我请了一天假，上午带小宝去医院，听了一下肺，… |
+| 2026-11-15 | [最近准备系统学习下《道德经》](https://blog.solazy.me/20261115/) | 该看看书了！ |
 | 2026-11-15 | [晚上有1个 Python 的项目 bug](https://versun.me/blog/tweet-2121958503388713069) | 晚上有1个 Python 的项目 bug 代码修复 我让 ds-41-flash、swe2、sonnet55 分别进行修复 (pi,high)， 然后让 opus 55 high 进行评估，评估结果: ds(2.6M) > swe2(4.8M) > sonnet55(587k) 有点出乎我的意料 |
 | 2026-11-15 | [Splatterlight updated](https://macsourceports.com/sourceport/spatterlight) | The build of Splatterlight for the Infocom series of games has been updated to version v1.5.6 of the project\n\nhttps://macsourceports.com/sourceport/… |
 | 2026-11-15 | [再见 IndieWeb，你好 indie web](https://www.geedea.pro/article/iiwd/) | 我逐渐意识到互联网落得他如今的坏名声，根本原因可能是它的包容性太强了，把所有人都放在一个地方，不引发矛盾才怪。即便是本身就十分小众的 IndieWeb ，大家也未免能相互认同 1 。说实话很多人可能没读过 IndieWeb 的 十一条原则 ，核心社群里也充满了用自己真名和真人头像的成员，还有 Ind… |
@@ -197,15 +214,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-11-09 | [麒麟V10部署Tengine与铜锁国密双栈验证](https://199604.com/3742) | 麒麟V10部署Tengine与铜锁国密双栈验证 记录时间：2026-11-05 环境：Kylin V10 SP […] |
 | 2026-11-09 | [尽兴的乐趣](https://mobius.blog/26100.html) | 我不是一个很会“尽兴”的人，以至于我似乎对于玩这件事情也没有非常强烈的感觉。虽然我妈在我小时候，常把“该学习的 […] |
 | 2026-11-09 | [我对 NBA 签约、交易和买断的一些理解](https://depp.wang/2026/nba-transactions/) | 我一直在看 NBA，虽然不是死忠球迷，但平时还是会关注 NBA 新闻。每年休赛季都有各种签约、各种交易，我觉得这也是 NBA 比较有看头的一点。 先不说场上教练的运筹帷幄，单就球队阵容来说，总经理的工作也很重要。他要考虑球队的整体规划，当前这套阵容到底是准备争冠、重建，还是先维持现状，再根据这个方向… |
-| 2026-11-09 | [2021](https://wcowin.work/blog/archive/2021/) | 2021 |
-| 2026-11-09 | [2022](https://wcowin.work/blog/archive/2022/) | 2022 |
-| 2026-11-09 | [2023](https://wcowin.work/blog/archive/2023/) | 2023 |
-| 2026-11-09 | [2024](https://wcowin.work/blog/archive/2024/) | 2024 |
-| 2026-11-09 | [2025](https://wcowin.work/blog/archive/2025/) | 2025 |
-| 2026-11-09 | [2026](https://wcowin.work/blog/archive/2026/) | 2026 |
-| 2026-11-09 | [Hello World](https://wcowin.work/blog/category/hello-world/) | Hello World |
-| 2026-11-09 | [网站更新记录](https://wcowin.work/blog/category/%E7%BD%91%E7%AB%99%E6%9B%B4%E6%96%B0%E8%AE%B0%E5%BD%95/) | 网站更新记录 |
-| 2026-11-09 | [MyBlog](https://wcowin.work/blog/page/2/) | MyBlog |
 | 2026-11-09 | [走过坡道与海边 《玉响》圣地巡礼之尾道](https://www.wikimoe.com/post/b-to4i3n8v) | 2026年11月1日，在结束憧憬之路后我们来到了尾道，开启了尾道的旅程。 尾道站南口 对比动画，尾道车站整体翻新了一遍呢。 尾道高迪之家 尾道高迪之家（尾道ガウディハウス），正式名称为“旧和泉家别邸”，位于日本广岛县尾道市的山坡上，建于1933年，是一栋融合日式传统木构技艺与西式装饰元素的独特住宅。… |
 | 2026-11-09 | [统计下目前推荐的产品和人数： 29, D](https://versun.me/blog/tweet-2119589775489507532) | Versun 还是准备迁出 Hermes 了，各位有什么开源平替推荐的 要自己用过的，不要道听途说。。。。 统计下目前推荐的产品和人数： 29, DeepSeek Harness 12, Pi 12, Hermes 9, Grok Bot 7, OpenClaw 6, OpenBot 6, Maus… |
 
