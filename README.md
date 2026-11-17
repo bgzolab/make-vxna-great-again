@@ -27,9 +27,18 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-11-17 | [学会像呼吸一样拒绝别人](https://blog.solazy.me/20261117/) | 昨晚一件小事儿引发的思考 |
+| 2026-11-17 | [解析：不要介入他人因果](https://www.hecaitou.com/2026/11/deconstructing-others-karma.html) | 网上有句话听得我头皮发麻，它就是「不要介入他人因果」。具体什么意思，谁能给我解释一下吗？ 不是充愣装傻，我是真的不明白。凭我有限的所知，因果极为复杂，根本不像是在台球桌上打弹子，白球撞了红球，红球撞了黄球，可以清清爽爽看个仔细。小学课本里讲成语典故「塞翁失马」，那其实也是个关于因果的故事，介绍了因果… |
+| 2026-11-17 | [Quake III: Arena updated](https://macsourceports.com/game/quake3arena) | The build of Quake3e for Quake III: Arena has been updated to the latest code of the project |
+| 2026-11-17 | [测试信创环境 SkyWalking Horizon UI Helm 部署](https://199604.com/3753) | 测试信创环境 SkyWalking Horizon UI Helm 部署 记录时间：2026-11-17 环境 […] |
+| 2026-11-17 | [失乐园里有什么？III：AI时代的集体地狱](https://mobius.blog/26170.html) | Previously on 失乐园里有什么： 前段时间，在一篇帖子下讨论到一个如今这个时代才会遭遇的情形： 我 […] |
+| 2026-11-17 | [野人编年史](http://imlane.zhanglintc.co/ye-ren-bian-nian-shi) | 野人编年史 野人创始人 徐队 ，群昵称Shogun。姓徐，称徐队，真野人队长，野人 抖音官号 持有者。 张队 ，群昵称张小不。江湖人称竹节虫，简称虫队，野人 微信公众号 持有者。 熊队 ，群昵称熊嘎婆，称熊队。 野人CLUB游泳事业部 群主。 亮队 ，群昵称亮什么，称亮队，野人 小红书官号 持有者。… |
+| 2026-11-16 | [Nanjing in Three Days and Three Nights — the Republican Era and Hongshan Forest Zoo](https://victor42.eth.limo/post-en/trip-to-nanjing/) | Two forms of great love, reached by different roads yet arriving at the same place. Photo Album: View the album for this trip Travel Guide: Get the it… |
+| 2026-11-16 | [南京民国&动物园周末游3天3夜](https://victor42.eth.limo/post/trip-to-nanjing/) | 感受两种殊途同归的大爱。 照片相册： 查看本篇相册 旅行攻略： 获取攻略文档 以旅游城市的标准来看，南京的内容极其丰富。出发前我问老婆，说南京有好多种主题玩法：六朝（主要隋唐以前）、明代、民国、抗战、动物园、长江、自然风景，还有大量博物馆，你想看什么？老婆说民国。再考虑到女儿，把顶流的红山森林动物园… |
 | 2026-11-16 | [Rise of the Triad updated](https://macsourceports.com/game/rott) | The build of rottexpr for Rise of the Triad has been updated to the latest code of the project |
 | 2026-11-16 | [Tyrian 2000 updated](https://macsourceports.com/game/tyrian2000) | The build of OpenTyrian2000 for Tyrian 2000 has been updated to the latest code of the project |
 | 2026-11-16 | [Tyrian updated](https://macsourceports.com/game/tyrian) | The build of OpenTyrian for Tyrian has been updated to the latest code of the project |
+| 2026-11-16 | [哈哈，出现在 Cindy 的感谢名单了，](https://versun.me/blog/tweet-2122456581023666494) | 哈哈，出现在 Cindy 的感谢名单了，还看到了 @ZacharyZhang |
 | 2026-11-16 | [Tomb Raider updated](https://macsourceports.com/game/tombraider1) | The build of OpenLara for Tomb Raider has been updated to the latest code of the project |
 | 2026-11-16 | [Heretic II updated](https://macsourceports.com/game/heretic2) | The build of Heretic2R-UNIX for Heretic II has been updated to the latest code of the project |
 | 2026-11-16 | [恒星末期演化](https://physnya.top/astro-physics/lesson-7-star-dying/) | 大多数 Wolf-Rayet 星会因为强烈的星风将外层物质剥离，最终形成壳层剥离超新星. 脉动变星：具有周期-光度关系，通过测量它们的光变周期可以估算它们的光度，从而得到它们的距离. 造父变星 (Cepheid Variables) 分为两类： Type I 造父变星：具有高金属丰度 (前身星比较年… |
@@ -57,6 +66,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-11-16 | [一条诊断日志，为什么让录屏卡了十五秒](https://liudon.com/posts/gecko-logging-performance-investigation/) | 一次诊断日志调用暴露了媒体队列、主线程与 Metal 绘制之间的等待链。结合分段计时、线程栈和异步对照，分析延迟如何跨线程传播，以及如何解除不必要的同步依赖。 |
 | 2026-11-16 | [低潮时不要做重要决策](https://www.hecaitou.com/2026/11/dont-make-major-decisions-during-a-low-point.html) | 昨天我看到一条读者留言，感觉不是很妙。本想再多说几句，发现对方已经一删了之，那我只好修改一下今天的写作计划，追上去再说两句。 留言的大意是他已经看了十年我的文章，从三十岁看到了四十岁。然而人到四十，无妻无儿，一个人那么孤零零过活，感觉内心很虚无，问我怎么办。 我的第一条回复是：那之前二十年是怎么过来… |
 | 2026-11-16 | [副产品思维——做产品不一定要从零开始](https://koukyo.site/posts/byproduct-thinking/) | 做需求雷达只花了一天，因为核心的自动化早就在跑了。做产品不一定要从零开始，从自己的重复问题里往往能找到成本最低的第一个产品。 |
+| 2026-11-16 | [harness 排行榜历时 4 天，总算](https://versun.me/blog/tweet-2122141332600926407) | Guanlan Dai We’re spending up to 100B tokens across 26,040 agent runs to answer one question: when you switch models, should you switch harnesses too?… |
 | 2026-11-16 | [关于一只狗的分离焦虑](https://mobius.blog/26136.html) | 最近在狗公园办公，所以也就顺带研究了一下狗的行为学。 最近来了一只寄养的狗，几乎大部分时间都是在嘤嘤嘤地叫、在 […] |
 | 2026-11-16 | [科技够用了，还是未来更值得期待？](https://depp.wang/2026/technology-and-the-future/) | 最近阮一峰的科技爱好者周刊里，有一篇 <a href="https://www.ruanyifeng.com/blo |
 | 2026-11-16 | [Memos #2026-11-15](https://blog.itaober.com/memos/memo_20261115003254_iq7h2n) | 08:34 恭喜 BLG，一穿四 LCK 无需多言！ 每次熬夜的时候就证明着我还年轻！ |
@@ -104,7 +114,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-11-13 | [大家猜猜 @DevinAI 这次永久免费](https://versun.me/blog/tweet-2121381279346413970) | 大家猜猜 @DevinAI 这次永久免费 swe2 模型能撑多久，那些中转站应该睡觉都在笑吧😂 |
 | 2026-11-13 | [Pantone潘通年度色查询：2000–2026 年 29 个年度色，附配色和色值](https://gugegt.com/20261114-pantone-color-of-the-year.html) | 工具地址： Pantone潘通年度色查询 ，骨哥GT 在线工具里的第 14 个。 |
 | 2026-11-13 | [AI 早报 2026-11-14：OpenAI 上线 ChatGPT Wallet：AI 智能体能替你下单买东西了](https://www.jtxyh.com/daily/2026-11-14/) | 2026-11-14 AI 早报，共 16 条动态。OpenAI 在 11 月 13 日推出 ChatGPT Wallet，让常驻智能体 dots 能替用户完成购物结账。英伟达周五收 162.85 美元，跌 2.01%，单周跌 12.75%，市值跌破 4 万亿美元，是 7 月以来第一次。 |
-| 2026-11-13 | [野人编年史](http://imlane.zhanglintc.co/ye-ren-bian-nian-shi) | 野人编年史 野人创始人 徐队 ，群昵称Shogun。姓徐，称徐队，真野人队长，野人 抖音官号 持有者。 张队 ，群昵称张小不。江湖人称竹节虫，简称虫队，野人 微信公众号 持有者。 熊队 ，群昵称熊嘎婆，称熊队。 野人CLUB游泳事业部 群主。 亮队 ，群昵称亮什么，称亮队，野人 小红书官号 持有者。… |
 | 2026-11-13 | [Quake updated](https://macsourceports.com/game/quake) | The build of QSS-M for Quake has been updated to version 1.7.0 of the project |
 | 2026-11-13 | [别把「期待」想得太好](https://blog.solazy.me/20261113/) | 感觉很多时候，我们都认为「期待」是个好事儿 |
 | 2026-11-13 | [Why I Still Care About Open Source](https://missuo.me/posts/open-source-manners/) | Open source is up for debate again, so here's where I stand: GitHub as the one place people give away all their work, who sends issues and who sends P… |
@@ -139,7 +148,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-11-12 | [向云端｜西南自驾14 - 北盘江](https://blog.ops-coffee.com/r/2026-southwest-road-trip-14-beipanjiang.html) |  |
 | 2026-11-12 | [Album#51 - 阁楼的影像 & 家](https://taxodium.ink/album-51.html) | Album#51 阁楼的影像 & 家 图1 阁楼的影像 by handycam 专辑信息 专辑名称： 阁楼的影像 歌手： handycam 年份： 2026-01-20 时长： 約 55 分鐘 图2 家 by handycam 专辑信息 专辑名称： 家 歌手： handycam 年份： 2026-0… |
 | 2026-11-12 | [Daikatana updated](https://macsourceports.com/game/daikatana) | The build of Daikatana 1.3 Project for Daikatana has been updated to version 1.3-20261112 of the project |
-| 2026-11-12 | [Quake III: Arena updated](https://macsourceports.com/game/quake3arena) | The build of Quake3e for Quake III: Arena has been updated to the latest code of the project |
 | 2026-11-12 | [我做了两款微信小游戏](https://blog.forecho.com/two-wechat-minigames.html) | 引言 最近开始迷上了休闲游戏，也就动手做微信小游戏。 前几天把第一款做完送审，接着又做了第二款。两款都是单机、走广告变现，用的是个人主体。现在都已经上线了，欢迎大家去试玩，也帮我找找 bug。 怎么做的 第一款《疯狂轮胎》花了 3 天。因为要自己画界面，后面我用 ChatGPT SOL 重构了部分页… |
 | 2026-11-12 | [ollama本地大模型选择关于量化和类型](https://dsx2016.com/choosing-local-llms-in-ollama-considerations-regarding-quantization-and-model-types/) | ollama问题 ollama使用遇到的问题 经过排查，默认搜索栏设置通用模型名称下载，比如qwen3.5:2... ollama本地大模型选择关于量化和类型 最先出现在 大师兄2016 。 |
 | 2026-11-12 | [烤乳猪](https://mobius.blog/26122.html) | 今天来聊点地狱笑话。 最近在狗公园里划分了一个自己的办公区，既能方便陪着小狗玩一整天，又顺便记录一下激素对写作 […] |
