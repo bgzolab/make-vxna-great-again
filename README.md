@@ -27,6 +27,18 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-11-16 | [Rise of the Triad updated](https://macsourceports.com/game/rott) | The build of rottexpr for Rise of the Triad has been updated to the latest code of the project |
+| 2026-11-16 | [Tyrian 2000 updated](https://macsourceports.com/game/tyrian2000) | The build of OpenTyrian2000 for Tyrian 2000 has been updated to the latest code of the project |
+| 2026-11-16 | [Tyrian updated](https://macsourceports.com/game/tyrian) | The build of OpenTyrian for Tyrian has been updated to the latest code of the project |
+| 2026-11-16 | [Tomb Raider updated](https://macsourceports.com/game/tombraider1) | The build of OpenLara for Tomb Raider has been updated to the latest code of the project |
+| 2026-11-16 | [Heretic II updated](https://macsourceports.com/game/heretic2) | The build of Heretic2R-UNIX for Heretic II has been updated to the latest code of the project |
+| 2026-11-16 | [恒星末期演化](https://physnya.top/astro-physics/lesson-7-star-dying/) | 大多数 Wolf-Rayet 星会因为强烈的星风将外层物质剥离，最终形成壳层剥离超新星. 脉动变星：具有周期-光度关系，通过测量它们的光变周期可以估算它们的光度，从而得到它们的距离. 造父变星 (Cepheid Variables) 分为两类： Type I 造父变星：具有高金属丰度 (前身星比较年… |
+| 2026-11-16 | [GRB & FRB](https://physnya.top/compact-object/lesson-8-frb-grb/) | Pre-1: SVOM 卫星 背景：多信使时代，GRB 和致密星体仍然面临着很多问题，比如 GRB 的起源和驱动等，因此我们需要一个能够快速找到 GRB 的探测仪器. 其创新点主要在于，具有比较强的算力，在发现 GRB 的当下就能判断这是一个射线暴，并做到了天地一体的通信，和地面共同判断这是不是一个… |
+| 2026-11-16 | [黑洞](https://physnya.top/compact-object/lesson-9-black-holes/) | 提示 这一次课刚好轮到我做 presentation，因此我会把我自己讲的内容放在这一次笔记的后面. Black Holes 最早可以追溯到 Laplace 提出的所谓「暗星」，也就是用 Newton 引力和光的粒子学说算出的最小半径 R = 2 G M / c 2 R=2GM/c^2 R = 2… |
+| 2026-11-16 | [把话说清楚，是一种工程能力：本体论到底在管什么](https://atbug.com/ontology-as-a-way-of-thinking/) | TL;DR 本体论先是哲学问题，后来才成了计算机里的技术术语——一种把隐性共识显式化到可计算程度的思维方式。 本体论最早是个哲学问题 “本体论”这个词，第一眼看上去像是数据库或 AI 里的术语。其实它比计算机古老得多——最早是哲学里的一个分支，问的是一个特别朴素的问题： 世界上到底有哪些东西是真的存… |
+| 2026-11-16 | [悬置于不确定性](https://www.geedea.pro/article/caught-in-uncertainty/) | 似乎有段时间没写点杂文了，略显手生，不妨先从最近做了点什么事情开始讲起吧。不知道我在文章的开头就写一大堆技术内容会不会劝退读者，但我就是个每天都在搞技术的人啊——我似乎下意识认为自己有很多无技术背景的读者，但今天收到几份 iiwd 的申请我才发现，用 Emacs 和 NixOS 的还真不少啊。 我现… |
+| 2026-11-16 | [无用命途：我的小说卡文了](https://blog.mfwt.top/index.php/archives/1748/) | 《无用命途》，专门用来记录一些无用（甚至无厘头的）想法，每个想法后会附带一点内容，用来介绍和这个想法（及其衍生的）有关的东西，可能还会分享一下近况。每周最多更新一次，但不保证周更，主要看想法的活... |
+| 2026-11-16 | [R#128 焦虑](https://blog.sakanano.moe/journals/random_128) | 2026.11.10 ~ 2026.11.16 |
 | 2026-11-16 | [清理磁盘已满的mysql](https://www.bboy.app/2026/11/16/%E6%B8%85%E7%90%86%E7%A3%81%E7%9B%98%E5%B7%B2%E6%BB%A1%E7%9A%84mysql/) | 简介 早上有个同事问我能不能扩容磁盘，说mysql 存储满了，只能扩容磁盘，我进服务器看了下，的确，给mysql 数据目录单独挂载了一块磁盘，然后这块磁盘满了，貌似确实没有什么东西可以删除，没有日志可以删除，没有除了mysql数据以外的东西可以删除，问了下AI 可以删除binlog 正常清理binl… |
 | 2026-11-16 | [Bear Blog 的新 API  / A new Bear Blog API](https://blog.solazy.me/bearblog-api-open-source-skill/) | 今天（2026 年 11 月 16 日），Bear Blog 推出了 官方 API 。文章、页面和博客设置，现在都可以通过 API 管理了。 我把这组接口封装成了 🍯 Bear Blog Skill ，并开源在 GitHub 。装进 Codex、Claude Code 等支持 Agent Skill… |
 | 2026-11-16 | [2021](https://wcowin.work/blog/archive/2021/) | 2021 |
@@ -49,6 +61,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-11-16 | [科技够用了，还是未来更值得期待？](https://depp.wang/2026/technology-and-the-future/) | 最近阮一峰的科技爱好者周刊里，有一篇 <a href="https://www.ruanyifeng.com/blo |
 | 2026-11-16 | [Memos #2026-11-15](https://blog.itaober.com/memos/memo_20261115003254_iq7h2n) | 08:34 恭喜 BLG，一穿四 LCK 无需多言！ 每次熬夜的时候就证明着我还年轻！ |
 | 2026-11-16 | [Linux Bash 终端必备：15 个实用技巧，让命令行操作效率翻倍！](https://zhcn.xyz/article/15-essential-linux-bash-terminal-tips-to-double-your-command-line-efficiency) | 对于经常使用 Linux 服务器、SSH、Docker 或者 VPS 的朋友来说，熟练掌握 Bash 终端快捷键，可以大幅减少重复输入，提高日常运维效率 |
+| 2026-11-15 | [AI 早报 2026-11-16：SemiAnalysis 大砍 AI 算力预测：2028 年资本开支下调近三成](https://www.jtxyh.com/daily/2026-11-16/) | 2026-11-16 AI 早报，共 14 条动态。半导体研究机构 SemiAnalysis 11 月 16 日更新模型，大幅下调未来几年 AI 加速器出货、资本开支、HBM 需求和功耗预测：2028 年全球 AI 加速器资本开支下调 28%，2029 年和 2030 年分别下调 41% 和 40%… |
 | 2026-11-15 | [小宝的秋假](https://blog.moatkon.com/posts/2026/11/15/2/) | 小宝的秋假不知不觉过完了。 周三小宝开始放秋季。 第一天奶奶带去meland玩,玩了一整天,中午是媳妇点的外卖,他们在外面吃的。晚上回来之后，小宝咳嗽变得厉害。经过一整天的剧烈运动，对咳嗽不好。 第二天,因为小宝咳嗽，就没有去外面玩了，在家里玩。 第三天，我请了一天假，上午带小宝去医院，听了一下肺，… |
 | 2026-11-15 | [最近准备系统学习下《道德经》](https://blog.solazy.me/20261115/) | 该看看书了！ |
 | 2026-11-15 | [晚上有1个 Python 的项目 bug](https://versun.me/blog/tweet-2121958503388713069) | 晚上有1个 Python 的项目 bug 代码修复 我让 ds-41-flash、swe2、sonnet55 分别进行修复 (pi,high)， 然后让 opus 55 high 进行评估，评估结果: ds(2.6M) > swe2(4.8M) > sonnet55(587k) 有点出乎我的意料 |
@@ -192,30 +205,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-11-10 | [大模型科普系列（二）：什么是解嵌入矩阵](https://depp.wang/2026/what-is-unembedding/) | 上一篇写了 什么是词向量 ，文字可以通过嵌入表变成一串数字，交给模型计算。这一篇接着写另一头：模型计算完以后，怎么决定接下来输出哪个 token？ 这里会用到「解嵌入矩阵」。先简单说，它是一张用来打分的权重表，把模型最后算出来的一个向量，变成词表里每个 token 各自的分数。后面再把分数转成概率，… |
 | 2026-11-10 | [Memos #2026-11-09](https://blog.itaober.com/memos/memo_20261109145252_4p67rz) | 22:52 国庆后的体重走势图，周一高开，周五低走，循环往复，周而复始... |
 | 2026-11-10 | [烧了一百亿Token后的Harness Agent交互感想](https://prologue.dev/blog/2026-how-do-i-use-deepseek-harness) | 模型能力已经超乎常人，但普通人仍然难以驾驭这种能力。 |
-| 2026-11-09 | [Hexen II updated](https://macsourceports.com/game/hexen2) | The build of uHexen2 (Hammer of Thyrion) for Hexen II has been updated to the latest code of the project |
-| 2026-11-09 | [Theme Hospital updated](https://macsourceports.com/game/themehospital) | The build of CorsixTH for Theme Hospital has been updated to version v0.70.2 of the project |
-| 2026-11-09 | [AI 早报 2026-11-10：澳大利亚要给前沿 AI 立规矩：强制上报事故、设新监管机构，起因是 OpenAI 智能体闯进医保系统](https://www.jtxyh.com/daily/2026-11-10/) | 2026-11-10 AI 早报，共 18 条动态。澳大利亚总理阿尔巴尼斯 11 月 10 日宣布，政府接受 OpenAI 智能体事件快速审查的全部 18 条建议，将立法给在澳运营的前沿 AI 公司施加六项强制安全义务：全程安全控制、识别管理模型重大风险、接受独立评估、迅速上报事故、公开安全框架、遵… |
-| 2026-11-09 | [如何提升自己的稀缺性 ？](https://usmacd.com/cn/the_few_people/) | 哈佛商学院教授迈克尔·波特在《竞争优势》中提出一个概念：价值链分析。 他认为公司经营的每个环节都是为了创造价值，这些环节叠加在最终的产品上，形成了对客户的整体价值。 从整体价值中拆分出每个环节的价值，如果某个环节有独特的竞争力，并形成竞争优势，这就是稀缺性的体现。 每个行业内的职场人，都应该明白下面… |
-| 2026-11-09 | [R#127 逃往LLM](https://blog.sakanano.moe/journals/random_127) | 2026.11.3 ~ 2026.11.9 |
-| 2026-11-09 | [升级了 bearblog Lifetime License](https://blog.solazy.me/20261109/) | 纪念一下今天，第三次，也是最后一次续费 bearblog |
-| 2026-11-09 | [2026 年9/10 月观影总结](https://www.ixiqin.com/2026/11/09/2026-09-movie-log/) | 9/10 月份还是看了不少的电影的，不过一直没顾上写总结；于是乎，继续写一下总结； 整个9/10月份一共看了 […] |
-| 2026-11-09 | [Quetoo updated](https://macsourceports.com/game/quetoo) | The build of Quetoo has been updated to version v1.0.145 of the project |
-| 2026-11-09 | [Ambermoon updated](https://macsourceports.com/game/ambermoon) | The build of Ambermoon.net for Ambermoon has been updated to version v1.15.2 of the project |
-| 2026-11-09 | [MacOS配置《明日方舟：终末地》](https://mocusez.site/zh-CN/posts/fa89) | EndFields |
-| 2026-11-09 | [无常，离别](https://ssshooter.com/impermanence-and-parting/) | 外公被电动车撞倒，从急诊到 ICU 再到最后一面，只有四天。记下这四天里的慌乱、守候与告别，也记下突然懂了的事：多拍下身边的人，多留下些文字，珍惜眼前人从来不是一句轻飘飘的话。 |
-| 2026-11-09 | [资金费率套利中的 “数据工程”](https://smallyu.net/2026/11/09/%E8%B5%84%E9%87%91%E8%B4%B9%E7%8E%87%E5%A5%97%E5%88%A9%E4%B8%AD%E7%9A%84%E6%95%B0%E6%8D%AE%E5%B7%A5%E7%A8%8B/) | 目前只做工程方面的总结，不做策略数据方面的复盘。这个项目是从一个小的页面开始，逐步发展形成了一套复杂的数据看板。在这个过程中踩了一些有意思的坑，这些坑都不高级，属于一看就知道很简单的问题，但为什么会遇到这么多低级问题呢？因为用了 AI。真正的关键不在于让 AI |
-| 2026-11-09 | [Minimal WebRTC handshake](https://blog.est.im/2026/stdin-20) | Author's note: drafted by Deepseek v4.1 Flash The 23-Byte WebRTC Handshake How small can a browser-to-browser WebRTC handshake get? I spent a weekend… |
-| 2026-11-09 | [切换桌面后，录屏画面几乎冻结](https://liudon.com/posts/screencapturekit-cross-space-freeze/) | 上一篇介绍了自己做的 Mac 录制工具 Gecko 。我希望它不仅能录制一个窗口，还能在录制时切到其他桌面，继续做自己的事情。 听起来没什么特别，实际做下来，最难解决的恰恰是这一点。 |
-| 2026-11-09 | [油管：长视频封面编辑器 文字模板设置](https://dsx2016.com/youtube-long-form-video-thumbnail-editor-text-template-settings/) | ai图片编辑器 ai agent提示内置图片编辑器失败，上游切断了图片编辑的ai能力，本文只能考虑继续优化本地... 油管：长视频封面编辑器 文字模板设置 最先出现在 大师兄2016 。 |
-| 2026-11-09 | [和校园网斗智斗勇的日子（第11辑）](https://blog.mfwt.top/index.php/archives/1717/) | 哇，第11辑了，在建立这个专辑之初，根本没想到能写这么多。今天是11/09，又到了一年一度广东入冬的时候，外面开始刮大风，气温也下降。虽然过几天（也就是本周末）还是会重回30℃，但其实也持续不了... |
-| 2026-11-09 | [esp32 cyd 音频 音效 音乐 提示音 闹钟和番茄钟](https://dsx2016.com/esp32-cyd-audio-sound-effects-music-alerts-alarms-and-pomodoro-timer/) | 音效 目前esp32 cyd的时钟界面10个样式已经足够，以后有需要再设置别的时钟界面 现在优先尝试两个场景，... esp32 cyd 音频 音效 音乐 提示音 闹钟和番茄钟 最先出现在 大师兄2016 。 |
-| 2026-11-09 | [每句话都很烦](https://www.hecaitou.com/2026/11/every-single-sentence-is-annoying.html) | 周日见到这样一条读者留言： 「 我女儿追星(2013年的)，买了一堆她偶像李昀锐的卡片拿回来(花了100多)，爷爷奶奶张嘴问这东西有什么用，能吃吗？我女儿告诉我，李昀锐1米83很帅哦，她是在综艺《跑男》认识的，还是国家2级运动员，我说这跟你有啥关系，他认识你吗？再说他娶你吗？你现在不好好卷成绩，将来… |
-| 2026-11-09 | [Gecko：我做了一个 Mac 应用录制工具](https://liudon.com/posts/gecko-macos-app-recorder/) | 起因 9月底的时候，媳妇想把微信的来电铃声设置到手机电话铃声上。 微信里的来电铃声其实就是视频号里的一个视频，因为微信的这个音质更好，所以想着直接把它的音频弄出来。 |
-| 2026-11-09 | [麒麟V10部署Tengine与铜锁国密双栈验证](https://199604.com/3742) | 麒麟V10部署Tengine与铜锁国密双栈验证 记录时间：2026-11-05 环境：Kylin V10 SP […] |
-| 2026-11-09 | [尽兴的乐趣](https://mobius.blog/26100.html) | 我不是一个很会“尽兴”的人，以至于我似乎对于玩这件事情也没有非常强烈的感觉。虽然我妈在我小时候，常把“该学习的 […] |
-| 2026-11-09 | [我对 NBA 签约、交易和买断的一些理解](https://depp.wang/2026/nba-transactions/) | 我一直在看 NBA，虽然不是死忠球迷，但平时还是会关注 NBA 新闻。每年休赛季都有各种签约、各种交易，我觉得这也是 NBA 比较有看头的一点。 先不说场上教练的运筹帷幄，单就球队阵容来说，总经理的工作也很重要。他要考虑球队的整体规划，当前这套阵容到底是准备争冠、重建，还是先维持现状，再根据这个方向… |
-| 2026-11-09 | [走过坡道与海边 《玉响》圣地巡礼之尾道](https://www.wikimoe.com/post/b-to4i3n8v) | 2026年11月1日，在结束憧憬之路后我们来到了尾道，开启了尾道的旅程。 尾道站南口 对比动画，尾道车站整体翻新了一遍呢。 尾道高迪之家 尾道高迪之家（尾道ガウディハウス），正式名称为“旧和泉家别邸”，位于日本广岛县尾道市的山坡上，建于1933年，是一栋融合日式传统木构技艺与西式装饰元素的独特住宅。… |
-| 2026-11-09 | [统计下目前推荐的产品和人数： 29, D](https://versun.me/blog/tweet-2119589775489507532) | Versun 还是准备迁出 Hermes 了，各位有什么开源平替推荐的 要自己用过的，不要道听途说。。。。 统计下目前推荐的产品和人数： 29, DeepSeek Harness 12, Pi 12, Hermes 9, Grok Bot 7, OpenClaw 6, OpenBot 6, Maus… |
 
 ## Vibe Coding
 

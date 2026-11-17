@@ -1,0 +1,380 @@
+[
+  {
+    "title": "Rise of the Triad updated",
+    "url": "https://macsourceports.com/game/rott",
+    "date": "2026-11-16T23:25:59Z",
+    "description": "The build of rottexpr for Rise of the Triad has been updated to the latest code of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "Tyrian 2000 updated",
+    "url": "https://macsourceports.com/game/tyrian2000",
+    "date": "2026-11-16T22:45:19Z",
+    "description": "The build of OpenTyrian2000 for Tyrian 2000 has been updated to the latest code of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "Tyrian updated",
+    "url": "https://macsourceports.com/game/tyrian",
+    "date": "2026-11-16T22:45:14Z",
+    "description": "The build of OpenTyrian for Tyrian has been updated to the latest code of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "Tomb Raider updated",
+    "url": "https://macsourceports.com/game/tombraider1",
+    "date": "2026-11-16T21:34:16Z",
+    "description": "The build of OpenLara for Tomb Raider has been updated to the latest code of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "Heretic II updated",
+    "url": "https://macsourceports.com/game/heretic2",
+    "date": "2026-11-16T21:06:04Z",
+    "description": "The build of Heretic2R-UNIX for Heretic II has been updated to the latest code of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "恒星末期演化",
+    "url": "https://physnya.top/astro-physics/lesson-7-star-dying/",
+    "date": "2026-11-16T18:16:00Z",
+    "description": "大多数 Wolf-Rayet 星会因为强烈的星风将外层物质剥离，最终形成壳层剥离超新星. 脉动变星：具有周期-光度关系，通过测量它们的光变周期可以估算它们的光度，从而得到它们的距离. 造父变星 (Cepheid Variables) 分为两类： Type I 造父变星：具有高金属丰度 (前身星比较年轻)，周期范围在 1 ∼ 100 1\\sim 100 1 ∼ 100 天. Type II 造父变星：或称为 W Viriginis 星，它们是在不稳定带发现的演化恒星，它们的典型质量低于 I 型，周期一般在 1 ∼ 50 1\\sim50 1 ∼ 50 天.",
+    "source_root_domain": "physnya.top"
+  },
+  {
+    "title": "GRB & FRB",
+    "url": "https://physnya.top/compact-object/lesson-8-frb-grb/",
+    "date": "2026-11-16T18:16:00Z",
+    "description": "Pre-1: SVOM 卫星 背景：多信使时代，GRB 和致密星体仍然面临着很多问题，比如 GRB 的起源和驱动等，因此我们需要一个能够快速找到 GRB 的探测仪器. 其创新点主要在于，具有比较强的算力，在发现 GRB 的当下就能判断这是一个射线暴，并做到了天地一体的通信，和地面共同判断这是不是一个值得后续观测的源. 另外，软件上有一个叫作 ECLAIRs 双触发的推进. 目前比较重要的观测结果：X 射线双星、和 Einstein 探针合作发现一些黑洞等. SVOM v.s. FAST： 波段不一样，FAST 偏向射电，SVOM 偏向 gamma 射线、X-ray SVOM 不在地面，不会受到大气的影响",
+    "source_root_domain": "physnya.top"
+  },
+  {
+    "title": "黑洞",
+    "url": "https://physnya.top/compact-object/lesson-9-black-holes/",
+    "date": "2026-11-16T18:16:00Z",
+    "description": "提示 这一次课刚好轮到我做 presentation，因此我会把我自己讲的内容放在这一次笔记的后面. Black Holes 最早可以追溯到 Laplace 提出的所谓「暗星」，也就是用 Newton 引力和光的粒子学说算出的最小半径 R = 2 G M / c 2 R=2GM/c^2 R = 2 GM / c 2 . 而广义相对论得到的 Schwarzschild 度规也给出同样的结果，这称为 Schwarzschild 黑洞.",
+    "source_root_domain": "physnya.top"
+  },
+  {
+    "title": "把话说清楚，是一种工程能力：本体论到底在管什么",
+    "url": "https://atbug.com/ontology-as-a-way-of-thinking/",
+    "date": "2026-11-16T17:00:00Z",
+    "description": "TL;DR 本体论先是哲学问题，后来才成了计算机里的技术术语——一种把隐性共识显式化到可计算程度的思维方式。 本体论最早是个哲学问题 “本体论”这个词，第一眼看上去像是数据库或 AI 里的术语。其实它比计算机古老得多——最早是哲学里的一个分支，问的是一个特别朴素的问题： 世界上到底有哪些东西是真的存在的？ 古希腊的巴门尼德把话说得很绝：能被你想、能被你说出来的，就一定“存在”。你没法谈论“不存在”——你一开口，它就已经在了。亚里士多德接着往下拆：存在有好几种（他分了十个范畴），最实在的是“实体”，判据是“既不述说别的主体，也不存在于别的主体之中”——说白了，它不靠别的东西，自己就能存在；而数量、性质、关系这些范畴，都得依附在实体上才算数。 两千年后，海德格尔把整个传统又翻了一遍。他说你们研究来研究去，研究的都是“存在者”——一个个具体的东西，却把“存在”本身忘了。他管人叫“此在”（Dasein），意思是人的特别之处在于：人不是先有一个固定的本质再去做事，人是在不断做事、不断进入关系的过程中，才成为自己的。 看到这里你可能想问：这跟写代码有什么关系？ 先记住一件事就够了—— 哲学家反复在",
+    "source_root_domain": "atbug.com"
+  },
+  {
+    "title": "悬置于不确定性",
+    "url": "https://www.geedea.pro/article/caught-in-uncertainty/",
+    "date": "2026-11-16T16:34:44Z",
+    "description": "似乎有段时间没写点杂文了，略显手生，不妨先从最近做了点什么事情开始讲起吧。不知道我在文章的开头就写一大堆技术内容会不会劝退读者，但我就是个每天都在搞技术的人啊——我似乎下意识认为自己有很多无技术背景的读者，但今天收到几份 iiwd 的申请我才发现，用 Emacs 和 NixOS 的还真不少啊。 我现在还在用 Neovim 写文，刚才安装了 Aquamacs 准备再战，然后就因为不知道怎么装 evil 而打起了退堂鼓，然后发现自己不能 :wq ，只能 ⌘q 。不习惯呢，兴许之后会双持吧。 我的工具有个变化是，我把终端模拟器换成了 Alacritty 。起因是我最近在关注 Leiningen 的动态，有人问 technomancy 愿不愿意支持 Ghostty 作者最近推出的 OSC 7501 标准，得到的回复是： I’m initially hesitant to support a feature which appears to be added specifically for a slop project. I may be misreading it; if this is a",
+    "source_root_domain": "geedea.pro"
+  },
+  {
+    "title": "无用命途：我的小说卡文了",
+    "url": "https://blog.mfwt.top/index.php/archives/1748/",
+    "date": "2026-11-16T15:45:51Z",
+    "description": "《无用命途》，专门用来记录一些无用（甚至无厘头的）想法，每个想法后会附带一点内容，用来介绍和这个想法（及其衍生的）有关的东西，可能还会分享一下近况。每周最多更新一次，但不保证周更，主要看想法的活...",
+    "source_root_domain": "mfwt.top"
+  },
+  {
+    "title": "R#128 焦虑",
+    "url": "https://blog.sakanano.moe/journals/random_128",
+    "date": "2026-11-16T15:12:00Z",
+    "description": "2026.11.10 ~ 2026.11.16",
+    "source_root_domain": "sakanano.moe"
+  },
+  {
+    "title": "清理磁盘已满的mysql",
+    "url": "https://www.bboy.app/2026/11/16/%E6%B8%85%E7%90%86%E7%A3%81%E7%9B%98%E5%B7%B2%E6%BB%A1%E7%9A%84mysql/",
+    "date": "2026-11-16T14:45:00Z",
+    "description": "简介 早上有个同事问我能不能扩容磁盘，说mysql 存储满了，只能扩容磁盘，我进服务器看了下，的确，给mysql 数据目录单独挂载了一块磁盘，然后这块磁盘满了，貌似确实没有什么东西可以删除，没有日志可以删除，没有除了mysql数据以外的东西可以删除，问了下AI 可以删除binlog 正常清理binlog 要mysql 进程可以使用链接到mysql 才可以，但是这个时候mysql 进程已经挂了，只能清理binlog文件",
+    "source_root_domain": "bboy.app"
+  },
+  {
+    "title": "Bear Blog 的新 API  / A new Bear Blog API",
+    "url": "https://blog.solazy.me/bearblog-api-open-source-skill/",
+    "date": "2026-11-16T11:36:00Z",
+    "description": "今天（2026 年 11 月 16 日），Bear Blog 推出了 官方 API 。文章、页面和博客设置，现在都可以通过 API 管理了。 我把这组接口封装成了 🍯 Bear Blog Skill ，并开源在 GitHub 。装进 Codex、Claude Code 等支持 Agent Skills 的工具后，就能用自然语言安排博客操作，例如： $bearblog 根据这份 Markdown 创建草稿，并添加 notes 标签。 $bearblog 列出全部草稿和定时发布的文章。 Claude Code 中使用 /bearblog 调用。 这篇文章本身，就是在我的工作流中使用 🍯 Bear Blog Skill，通过 Bear Blog 官方 API 发布的。 这个技能覆盖了官方文档中的全部 7 个接口，可以创建、读取、修改和删除文章或页面，处理发布与定时发布，也能更新首页、导航、CSS 和其他受支持的博客设置。它还支持导出文章正文和设置；搜索、批量编辑则通过组合官方接口完成。 整个技能只调用 Bear Blog 官方公开 API，不使用私有协议、未公开接口或非官方平台能力。它也附带",
+    "source_root_domain": "solazy.me"
+  },
+  {
+    "title": "2021",
+    "url": "https://wcowin.work/blog/archive/2021/",
+    "date": "2026-11-16T11:17:55Z",
+    "description": "2021",
+    "source_root_domain": "wcowin.work"
+  },
+  {
+    "title": "2022",
+    "url": "https://wcowin.work/blog/archive/2022/",
+    "date": "2026-11-16T11:17:55Z",
+    "description": "2022",
+    "source_root_domain": "wcowin.work"
+  },
+  {
+    "title": "2023",
+    "url": "https://wcowin.work/blog/archive/2023/",
+    "date": "2026-11-16T11:17:55Z",
+    "description": "2023",
+    "source_root_domain": "wcowin.work"
+  },
+  {
+    "title": "2024",
+    "url": "https://wcowin.work/blog/archive/2024/",
+    "date": "2026-11-16T11:17:55Z",
+    "description": "2024",
+    "source_root_domain": "wcowin.work"
+  },
+  {
+    "title": "2025",
+    "url": "https://wcowin.work/blog/archive/2025/",
+    "date": "2026-11-16T11:17:55Z",
+    "description": "2025",
+    "source_root_domain": "wcowin.work"
+  },
+  {
+    "title": "2026",
+    "url": "https://wcowin.work/blog/archive/2026/",
+    "date": "2026-11-16T11:17:55Z",
+    "description": "2026",
+    "source_root_domain": "wcowin.work"
+  },
+  {
+    "title": "Hello World",
+    "url": "https://wcowin.work/blog/category/hello-world/",
+    "date": "2026-11-16T11:17:55Z",
+    "description": "Hello World",
+    "source_root_domain": "wcowin.work"
+  },
+  {
+    "title": "网站更新记录",
+    "url": "https://wcowin.work/blog/category/%E7%BD%91%E7%AB%99%E6%9B%B4%E6%96%B0%E8%AE%B0%E5%BD%95/",
+    "date": "2026-11-16T11:17:55Z",
+    "description": "网站更新记录",
+    "source_root_domain": "wcowin.work"
+  },
+  {
+    "title": "MyBlog",
+    "url": "https://wcowin.work/blog/page/2/",
+    "date": "2026-11-16T11:17:55Z",
+    "description": "MyBlog",
+    "source_root_domain": "wcowin.work"
+  },
+  {
+    "title": "两个工具，解决我日常反复碰到的麻烦！",
+    "url": "https://www.evan.xin/5143/",
+    "date": "2026-11-16T11:01:22Z",
+    "description": "最近上线了两个小站：yee.cx 和 puff.ee。它们不是Demo，是为了解决实际工作痛点做的工具，全部代 […]",
+    "source_root_domain": "evan.xin"
+  },
+  {
+    "title": "Memos: 这两天刷了一遍《持械入宋》",
+    "url": "https://blog.yasking.org/a/1794818602",
+    "date": "2026-11-16T08:43:22Z",
+    "description": "《持械入宋》制作在当下堪称精良，设定不算新颖，无非穿越古代，用现代知识碾压古人提供装 X 的爽感，但较为克制。 比较难得 …",
+    "source_root_domain": "yasking.org"
+  },
+  {
+    "title": "为什么人们不因桌椅凌乱而困扰",
+    "url": "https://kaix.in/2026/1116/",
+    "date": "2026-11-16T07:50:04Z",
+    "description": "七八年前，翻知乎还是一个习惯的时候，看到过一篇托马斯·托尔汉姆的文章： 我在星巴克的一个神奇发现 。作者在中国南北几座城市的星巴克观察了几千名顾客，发现北方城市顾客独坐比例更高；又故意把两把空椅子拉近、半挡住过道，统计路过者的反应——小麦区北方人把椅子挪开的比例约是南方的三倍，南方人更倾向于侧身挤过去，通过调整自己来适应环境。这篇文章往前追溯可以找到 2014 年发表于《Science》的 Large-Scale Psychological Differences Within China Explained ，结论是：传统水稻种植需要共用灌溉水渠、协作换工，塑造了南方人更偏向相互依赖、整体性思维和避免冲突；小麦种植相对独立、靠天降雨即可，塑造了北方人更偏向个人主义和分析性思维。 本店藏书一直不少，而且陆续又有同好寄存，现在店里三处书架都摆不开了，吧台两个角落也堆起了书山。好在虽多却也齐整。这几年，凭着 定格咖啡馆 在本地的历史和口碑，再加上「打卡」这一热潮的兴起，新客比例大幅提升。有个现象越来越让我感觉困扰：许多客人从书架上取下书来，拍几张照，就散乱丢在各处。实话实说，整理书架并非顾",
+    "source_root_domain": "kaix.in"
+  },
+  {
+    "title": "录屏结束了，声音却少了三秒",
+    "url": "https://liudon.com/posts/gecko-stop-audio-tail/",
+    "date": "2026-11-16T06:25:00Z",
+    "description": "Gecko 正常停止录制后，音频却比视频提前约 2.94 秒结束。沿着两条采集流依次停止的时序，分析尾差如何产生，以及如何借助共用串行队列统一样本的接收截止点。",
+    "source_root_domain": "liudon.com"
+  },
+  {
+    "title": "一条诊断日志，为什么让录屏卡了十五秒",
+    "url": "https://liudon.com/posts/gecko-logging-performance-investigation/",
+    "date": "2026-11-16T05:20:00Z",
+    "description": "一次诊断日志调用暴露了媒体队列、主线程与 Metal 绘制之间的等待链。结合分段计时、线程栈和异步对照，分析延迟如何跨线程传播，以及如何解除不必要的同步依赖。",
+    "source_root_domain": "liudon.com"
+  },
+  {
+    "title": "低潮时不要做重要决策",
+    "url": "https://www.hecaitou.com/2026/11/dont-make-major-decisions-during-a-low-point.html",
+    "date": "2026-11-16T04:31:27Z",
+    "description": "昨天我看到一条读者留言，感觉不是很妙。本想再多说几句，发现对方已经一删了之，那我只好修改一下今天的写作计划，追上去再说两句。 留言的大意是他已经看了十年我的文章，从三十岁看到了四十岁。然而人到四十，无妻无儿，一个人那么孤零零过活，感觉内心很虚无，问我怎么办。 我的第一条回复是：那之前二十年是怎么过来的？我的第二条回复是：那你之前的锚是什么？问完两个问题，结果是对方删帖走人，古希腊秃子不可信，苏格拉底误我，什么提问式引导思考，什么「助产式提问法」，产妇翻身下床一溜烟跑了你知道吗？！ 其实我提问的出发点很简单，一个人今天感觉人生虚无，那之前不觉得虚无就一定有所依凭，这个依凭是什么？也就是所谓的人生的锚具体是什么。然后就可以追问，是忘记了锚，还是锚失效了，这是问题的两个不同走向，对应着不同的回答。 当然，我并不是回答这个问题的合适人选。因为当我看到问题的时候，内心立即自动浮现出一句话：「这是好事啊！」但如果真那么讲出口，读者总数立即减一。每个人的阅历不一样，每个人的性格不一样，每个人对人生的看法和感受也不一样，感觉人生虚无在我这里可能是一次伤风，但在对方那里可能就是一场肺炎，那我能说什么？「",
+    "source_root_domain": "hecaitou.com"
+  },
+  {
+    "title": "副产品思维——做产品不一定要从零开始",
+    "url": "https://koukyo.site/posts/byproduct-thinking/",
+    "date": "2026-11-16T02:35:00Z",
+    "description": "做需求雷达只花了一天，因为核心的自动化早就在跑了。做产品不一定要从零开始，从自己的重复问题里往往能找到成本最低的第一个产品。",
+    "source_root_domain": "koukyo.site"
+  },
+  {
+    "title": "关于一只狗的分离焦虑",
+    "url": "https://mobius.blog/26136.html",
+    "date": "2026-11-16T01:30:00Z",
+    "description": "最近在狗公园办公，所以也就顺带研究了一下狗的行为学。 最近来了一只寄养的狗，几乎大部分时间都是在嘤嘤嘤地叫、在 […]",
+    "source_root_domain": "mobius.blog"
+  },
+  {
+    "title": "科技够用了，还是未来更值得期待？",
+    "url": "https://depp.wang/2026/technology-and-the-future/",
+    "date": "2026-11-16T00:29:02Z",
+    "description": "最近阮一峰的科技爱好者周刊里，有一篇 <a href=\"https://www.ruanyifeng.com/blo",
+    "source_root_domain": "depp.wang"
+  },
+  {
+    "title": "Memos #2026-11-15",
+    "url": "https://blog.itaober.com/memos/memo_20261115003254_iq7h2n",
+    "date": "2026-11-16T00:00:00Z",
+    "description": "08:34 恭喜 BLG，一穿四 LCK 无需多言！ 每次熬夜的时候就证明着我还年轻！",
+    "source_root_domain": "itaober.com"
+  },
+  {
+    "title": "Linux Bash 终端必备：15 个实用技巧，让命令行操作效率翻倍！",
+    "url": "https://zhcn.xyz/article/15-essential-linux-bash-terminal-tips-to-double-your-command-line-efficiency",
+    "date": "2026-11-16T00:00:00Z",
+    "description": "对于经常使用 Linux 服务器、SSH、Docker 或者 VPS 的朋友来说，熟练掌握 Bash 终端快捷键，可以大幅减少重复输入，提高日常运维效率",
+    "source_root_domain": "zhcn.xyz"
+  },
+  {
+    "title": "AI 早报 2026-11-16：SemiAnalysis 大砍 AI 算力预测：2028 年资本开支下调近三成",
+    "url": "https://www.jtxyh.com/daily/2026-11-16/",
+    "date": "2026-11-15T16:00:00Z",
+    "description": "2026-11-16 AI 早报，共 14 条动态。半导体研究机构 SemiAnalysis 11 月 16 日更新模型，大幅下调未来几年 AI 加速器出货、资本开支、HBM 需求和功耗预测：2028 年全球 AI 加速器资本开支下调 28%，2029 年和 2030 年分别下调 41% 和 40%，2030…",
+    "source_root_domain": "jtxyh.com"
+  },
+  {
+    "title": "小宝的秋假",
+    "url": "https://blog.moatkon.com/posts/2026/11/15/2/",
+    "date": "2026-11-15T15:49:15Z",
+    "description": "小宝的秋假不知不觉过完了。 周三小宝开始放秋季。 第一天奶奶带去meland玩,玩了一整天,中午是媳妇点的外卖,他们在外面吃的。晚上回来之后，小宝咳嗽变得厉害。经过一整天的剧烈运动，对咳嗽不好。 第二天,因为小宝咳嗽，就没有去外面玩了，在家里玩。 第三天，我请了一天假，上午带小宝去医院，听了一下肺，给医生看看，开了药，没有什么大问题。医生也嘱咐小宝不能剧烈运动。下午媳妇定了去自然博物馆的门票，下午去了自然博物馆。好久没有去了，已经没有印象了，到了地方才想起来。小宝在里面玩的没有在科技馆玩的开心。在快结束的时候，拿着手机到处拍照，一下子就玩起来了，哈哈 第四天，去了山姆，小宝在山姆里面试吃都吃饱了，哈哈。在山姆买了一些生活用品、食品，家里面缺少的，都补齐了。 第五天，上午去社区参加活动，在课堂里面学习了食物相关的知识，完成后又去户外上了体育课，老师带着上课。经过多次尝试，投中了一个沙包，哈哈。下午午休之后，晚上和闹闹一起去散步，小宝也一起，一路上说了很多、玩了在学校的游戏、问了很多为什么，哈哈。",
+    "source_root_domain": "moatkon.com"
+  },
+  {
+    "title": "最近准备系统学习下《道德经》",
+    "url": "https://blog.solazy.me/20261115/",
+    "date": "2026-11-15T15:30:00Z",
+    "description": "该看看书了！",
+    "source_root_domain": "solazy.me"
+  },
+  {
+    "title": "晚上有1个 Python 的项目 bug",
+    "url": "https://versun.me/blog/tweet-2121958503388713069",
+    "date": "2026-11-15T13:28:25Z",
+    "description": "晚上有1个 Python 的项目 bug 代码修复 我让 ds-41-flash、swe2、sonnet55 分别进行修复 (pi,high)， 然后让 opus 55 high 进行评估，评估结果: ds(2.6M) > swe2(4.8M) > sonnet55(587k) 有点出乎我的意料",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "Splatterlight updated",
+    "url": "https://macsourceports.com/sourceport/spatterlight",
+    "date": "2026-11-15T12:13:10Z",
+    "description": "The build of Splatterlight for the Infocom series of games has been updated to version v1.5.6 of the project\\n\\nhttps://macsourceports.com/sourceport/spatterlight\\n\\n#macgaming #retrogaming #macOS #spatterlight #gaming #apple #m1 #m2 #m3 #applesilicon\\n\\n",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "再见 IndieWeb，你好 indie web",
+    "url": "https://www.geedea.pro/article/iiwd/",
+    "date": "2026-11-15T10:36:55Z",
+    "description": "我逐渐意识到互联网落得他如今的坏名声，根本原因可能是它的包容性太强了，把所有人都放在一个地方，不引发矛盾才怪。即便是本身就十分小众的 IndieWeb ，大家也未免能相互认同 1 。说实话很多人可能没读过 IndieWeb 的 十一条原则 ，核心社群里也充满了用自己真名和真人头像的成员，还有 IndieWeb Camp 这样的线下活动，匿名成员多少有些格格不入。IndieWeb 整体的氛围也有些…… 太积极了，至少我是觉得水土不服的。 IndieWeb 的核心理念很值得传播：拥有自己的身份和数据（而不是上交给科技公司），获得掌控权（而不是被算法操控）。这个概念不应该只停留在 IndieWeb 这一个地方。尽管 IndieWeb 并不掌控独立万维网（indie web）的概念，但事实是我们并没有看到类似的社群百花齐放。 Neocities 是免费的静态网站托管服务，有着相当多元化的社群。整体风格偏复古，有种独特的草根气质。它为很多没有能力自己托管网站的人提供了服务，这很好，但也意味着，它不够独立，也是单中心的。 Nekoweb 与 Neocities 类似，建立时间更晚，还支持 Git ",
+    "source_root_domain": "geedea.pro"
+  },
+  {
+    "title": "即将召开APEC",
+    "url": "https://sigge.cn/2026/11/15/051d2e98-8ff2-4d3d-938f-a51c606256e1",
+    "date": "2026-11-15T09:39:08Z",
+    "description": "即将召开APEC",
+    "source_root_domain": "sigge.cn"
+  },
+  {
+    "title": "System Shock updated",
+    "url": "https://macsourceports.com/game/systemshock",
+    "date": "2026-11-15T09:22:58Z",
+    "description": "The build of Shockolate for System Shock has been updated to the latest code of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "Vol.126 长时运行智能体的秩序：持久执行、记忆沉淀、团队交接与成本衡量",
+    "url": "https://liduos.com/weekly/the-weekly-gradient-126",
+    "date": "2026-11-15T08:00:00Z",
+    "description": "本期内容围绕长时运行智能体的秩序展开：从持久化执行与故障恢复到记忆分层、上下文沉淀与任务交接，再到多会话监督、模型验收和算力成本衡量，探讨智能体如何跨天跨团队持续交付。",
+    "source_root_domain": "liduos.com"
+  },
+  {
+    "title": "创作的赢法",
+    "url": "https://mobius.blog/26148.html",
+    "date": "2026-11-15T06:30:00Z",
+    "description": "def 创作的赢法(对方, 我): #创作数量 if 对方.创作数量 > 我.创作数量: return \"他一定很闲，我还有正事要忙\" elif 对方.创作数量 return \"他根本没有持续创作的能力\" else: return \"他只是在重复我的创作\" #创作质量 if 对方.作品质量 > 我.作品质量: return \"他只是在迎合大众审美\" elif 对方.作品质量 return \"果然没有什么创作水平\" else: return \"没有个人风格，只会模仿\" #读者与关注度 if 对方.关注度 > 我.关注度: return \"不过是在哗众取宠，追求流量\" elif 对方.关注度 return \"根本没有什么影响力\" else: return \"没有什么值得讨论的\" #创作态度 if 对方.每天坚持创作: return \"机械式写作，没有灵感\" elif 对方.偶尔创作: return \"缺乏自律，三分钟热度\" elif 对方.停止创作: return \"果然坚持不了多久\" else: return \"创作态度不够端正\" #职业与生活 if 对方.全职创作: return \"没",
+    "source_root_domain": "mobius.blog"
+  },
+  {
+    "title": "只为怀旧就可惜了",
+    "url": "https://www.hecaitou.com/2026/11/more-than-nostalgia.html",
+    "date": "2026-11-15T05:14:55Z",
+    "description": "我很钦佩我家猫咪的一点，就是她的好奇心。家里到了什么新东西，她虽然胆子很小，但是一定会上去挠几下试试，不然就是要爬上去躺一会儿。有时候快递来，我蹲在地上拆箱，一只毛茸茸的小脑袋用力挤开我的胳膊，从我怀里探出来，脖子伸老长，仿佛在说：「你起开，让我看看。」 受到猫咪启发，我在买旧 CD、旧磁带的时候，也买了许多当初我见过，但是当时我绝对不会听的专辑；还买了许多当初我不知道，现在也不认识的音乐人和音乐类型作品。有很多专辑在下单之前，我甚至都不知道自己会不会喜欢听。 我想，在今天这个时代我大费周章弄回家一堆破烂，如果只是为了满足一下怀旧，未免有点可惜。不是说我变了，当初我喜欢的专辑，喜欢的老歌，到现在我依然喜欢，情感并没有随着时光流逝而变淡。但我要的并非是单纯地重听一遍，在音乐声中重新感受青春时光，我要的也不是所谓的「仪式感」，用当年的机器听当年的旧磁带、旧 CD，追求一种和当年一模一样的音效。 当年我预算有限，只能买自己最喜欢的专辑；当年我见识有限，只能买最流行最有谈资的专辑。因此回望过去，看我当初的个人最爱歌单，它是一切的开始，但也狭窄得可以。 而在过去的三四十年间，一直都有音乐人在推出",
+    "source_root_domain": "hecaitou.com"
+  },
+  {
+    "title": "homelab:docker compose安装开源应用自部署如homepage等",
+    "url": "https://dsx2016.com/self-hosting-open-source-applications-such-as-homepage-in-a-homelab-using-docker-compose/",
+    "date": "2026-11-15T03:28:29Z",
+    "description": "homepage 安装的docker自部署开源应用有点多，需要导航和面板来管理 开源推荐导航有一些，相对其他的... homelab:docker compose安装开源应用自部署如homepage等 最先出现在 大师兄2016 。",
+    "source_root_domain": "dsx2016.com"
+  },
+  {
+    "title": "≡ 020｜这两周莫比乌斯环转到了哪里？",
+    "url": "https://mobius.blog/26140.html",
+    "date": "2026-11-15T01:41:50Z",
+    "description": "🧠 闲白儿 最近很多话题都在聊狗，是因为我在狗公园划分了一块区域出来办公码字，理所当然的，原本应该在咖啡厅对人 […]",
+    "source_root_domain": "mobius.blog"
+  },
+  {
+    "title": "如果你的 jio 订阅的 gemini",
+    "url": "https://versun.me/blog/tweet-2121777254930006479",
+    "date": "2026-11-15T01:28:12Z",
+    "description": "Versun 晚上在 magpie 上遇到了，3个 jio 全军覆没。。。 我还纳闷明明额度还有很多，怎么提示没额度了呢。。。好奸诈！！ https://twitter.com/ohayou792/status/2121545511975244069 如果你的 jio 订阅的 gemini 被封了 不要着急，它只是封了反重力的权限，但 web gemini 还是能用的 所以秉着物尽其用的原则，可以在 magpie 上反代 gemini web，有 3.8-flash 和 gemini 4 argon 可用 反正号也没用了，再被封也不心疼 🤡",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "Star Wars Jedi Knight: Dark Forces II updated",
+    "url": "https://macsourceports.com/game/swjkdf2",
+    "date": "2026-11-15T01:04:38Z",
+    "description": "The build of OpenJKDF2 for Star Wars Jedi Knight: Dark Forces II has been updated to version v0.9.9 of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "Star Wars Jedi Knight: Mysteries of the Sith updated",
+    "url": "https://macsourceports.com/game/swjkmots",
+    "date": "2026-11-15T01:04:38Z",
+    "description": "The build of OpenJKDF2 for Star Wars Jedi Knight: Mysteries of the Sith has been updated to version v0.9.9 of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "Memos #2026-11-14",
+    "url": "https://blog.itaober.com/memos/memo_20261114131423_d1mt9s",
+    "date": "2026-11-15T00:00:00Z",
+    "description": "21:25 回想一下我的童年阴影，有两个记忆深刻。一个是柯南的绷带怪人，后来发现身边的朋友们基本都被它吓到过。另一个则是陈小春版《鹿鼎记》中，假太后脸变成毛东珠的那一瞬，非常骇人，当时我是一个人在表哥家看的，被吓得夺门而出，记忆犹新。 再长大些也经历过许多吓人的时刻，多是影视剧中，印象倒都不太深。听到听友说一直不敢一个人睡，我倒还好。确实是长大了啊，丢失了的「害怕」或许也是童真的一部分。 另外一说，点名骂人是真爽啊",
+    "source_root_domain": "itaober.com"
+  },
+  {
+    "title": "Weekly Issue-《走马上任》",
+    "url": "https://zdyxry.github.io/2026/11/15/Weekly-Issue-lets-go/",
+    "date": "2026-11-15T00:00:00Z",
+    "description": "文章 技术 “That’s not SOC 2 compliant” The Trust Services Criteria never mention git or pull requests. What they ask for is that changes are authorized, tested, approved, and recorded — and pull requests are just one way of doing that. 想想国内为了通过某些等保检查，一定要在特定的配置文件中添加特定的参数，有些明明已经通过其他的手段实现了相同的逻辑，还需要重复的配置，无奈。 In Memoriam: Tim Peters 1952–2026 - Core Development - Discussions on Python.org R.I.P.还记得最初学 Python 的时候就知道了 import this ，the Zen of Python. The Zen of Python, by Tim Peters Beautiful is better than",
+    "source_root_domain": "zdyxry.github.io"
+  },
+  {
+    "title": "AI Agent 走进三维世界之后",
+    "url": "https://www.bmpi.dev/dev/agent-3d-world-building/",
+    "date": "2026-11-15T00:00:00Z",
+    "description": "从瀑布洞穴漏顶、栏杆挡死视线到 203 盏悬空宫灯掉落，记录 MinePilot 在真实三维体素世界里走过的弯路，以及 Agent 如何把空间设计、局部修复与原生游戏验收连成闭环。",
+    "source_root_domain": "bmpi.dev"
+  },
+  {
+    "title": "2026年第45、46周",
+    "url": "https://blog.sakoamc.com/posts/264546/",
+    "date": "2026-11-15T00:00:00Z",
+    "description": "题记：二零二六年第四十五、四十六周，气温骤降，已经到了不想起床的日子。",
+    "source_root_domain": "sakoamc.com"
+  }
+]
