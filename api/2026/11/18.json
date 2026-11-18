@@ -1,17 +1,101 @@
 [
   {
+    "title": "S.T.A.L.K.E.R.: Call of Pripyat updated",
+    "url": "https://macsourceports.com/game/stalkercop",
+    "date": "2026-11-18T09:18:42Z",
+    "description": "The build of OpenXRay for S.T.A.L.K.E.R.: Call of Pripyat has been updated to the latest code of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "Serious Sam: The First Encounter updated",
+    "url": "https://macsourceports.com/game/serioussamfe",
+    "date": "2026-11-18T09:06:17Z",
+    "description": "The build of Serious-Engine for Serious Sam: The First Encounter for Serious Sam: The First Encounter has been updated to the latest code of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "Serious Sam: The Second Encounter updated",
+    "url": "https://macsourceports.com/game/serioussamse",
+    "date": "2026-11-18T09:06:16Z",
+    "description": "The build of Serious-Engine for Serious Sam: The Second Encounter for Serious Sam: The Second Encounter has been updated to the latest code of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "Xash3D FWGS updated",
+    "url": "https://macsourceports.com/sourceport/xash3d-fwgs",
+    "date": "2026-11-18T09:05:41Z",
+    "description": "The build of Xash3D FWGS for the Half-Life series of games has been updated to the latest code of the project\\n\\nhttps://macsourceports.com/sourceport/xash3d-fwgs\\n\\n#macgaming #retrogaming #macOS #xash3d-fwgs #gaming #apple #m1 #m2 #m3 #applesilicon\\n\\n",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "SkyWalking 网关插件在 SCG 2.2.8 上抛 NPE 导致网关请求 500 的排查",
+    "url": "https://199604.com/3756",
+    "date": "2026-11-18T06:55:16Z",
+    "description": "SkyWalking 网关插件在 SCG 2.2.8 上抛 NPE 导致网关请求 500 的排查 记录时间：2 […]",
+    "source_root_domain": "199604.com"
+  },
+  {
+    "title": "在凌晨五点醒来",
+    "url": "https://www.hecaitou.com/2026/11/awake-at-5-am.html",
+    "date": "2026-11-18T05:43:53Z",
+    "description": "今天凌晨五点我突然醒来，往常这应该是我睡得最香的时候。醒来之后头脑不是很清醒，于是开始执行每天的自动程序，去拉开窗帘，给加湿机补水，诸如此类的事情。 我以为现在是冬季了，北方的冬季天亮得晚，夜里应该是漆黑一团。但是拉开窗帘后发现天空是漂亮的深蓝色，沉静安详，在天光下能清清楚楚看见窗外的景物。而且，我突然意识到屋子外面在刮风，能看到树梢摇曳，地面上都是落叶。 加湿机早已经耗尽储水，之前我都是睡前加满，起床之后再补水，以为一晚上刚好全部耗尽。这次五点起来，终于确认其实加湿机在半夜就已经停止工作。难怪我每天起床都觉得口干舌燥，还一直以为是自己肝火旺，火气大，想着要少吃点辣椒。 新发现太多，我彻底清醒了过来，然后就想到现在最正确的事情应该是立即回去接着睡，不要像个夜游神一样穿着睡衣在各个房间之间晃荡。可惜我已经清醒，一时之间无法入眠，只好打开手机，仔细看了老友在凌晨两点给我留的言。 很久没有在凌晨五点醒来，所以我也很久没有如此耐心地反复读了好几遍留言，而且很认真地写了回复。白天里我不是这样的，我都是飞快地扫一眼，大体上了解一下内容，然后决定要不要回复，即便要回复一般也会很简洁。 但是在这个时间",
+    "source_root_domain": "hecaitou.com"
+  },
+  {
+    "title": "统计数据：当创始人团队面临“分道扬镳”？",
+    "url": "https://wenfeixiang.com/2026/11/founder-leave-and-lose/",
+    "date": "2026-11-18T05:18:27Z",
+    "description": "对创业公司而言，创始人的离开、是一个难以言说的话题。大到最近沸沸扬扬的黄仁勋离开英伟达，小到几乎每一家创业小公 […]",
+    "source_root_domain": "wenfeixiang.com"
+  },
+  {
+    "title": "招聘启事二则",
+    "url": "https://www.kawabangga.com/posts/7461",
+    "date": "2026-11-18T05:16:09Z",
+    "description": "我就职的公司东海集团（Shopee 母公司）拓展 AI 云业务（neocloud），现在招聘计算、存储、网络方 […] Continue reading... 相关文章: Gitops 的一些实践经验 最近的工作感悟",
+    "source_root_domain": "kawabangga.com"
+  },
+  {
+    "title": "Pharaoh updated",
+    "url": "https://macsourceports.com/game/pharaoh",
+    "date": "2026-11-18T04:17:11Z",
+    "description": "The build of Akhenaten for Pharaoh has been updated to version ra2611 of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "多就是好吗？",
+    "url": "https://blog.solazy.me/20261118/",
+    "date": "2026-11-18T03:00:00Z",
+    "description": "观朋友圈有感",
+    "source_root_domain": "solazy.me"
+  },
+  {
+    "title": "为了听懂英文 Trading Room，我开发了一款实时字幕翻译软件 Liveglot",
+    "url": "https://blog.forecho.com/introducing-liveglot.html",
+    "date": "2026-11-18T02:54:51Z",
+    "description": "引言 学了一年多的价格行为学（Price Action），最近我终于付费进了 PA 的英文 Trading Room，想跟着看看老外实盘到底是怎么分析、怎么找入场和止损的。 钱是付了，进去以后才发现最大的问题不是看不懂 K 线，而是听不懂。讲师语速本来就快，里面又夹着一堆交易术语和盘口俚语，经常一句话没反应过来，后面两三句已经过去了。 我在网上找了一圈直播实时翻译软件，用下来都不太满意。干脆自己动手，做了一款专门看外语直播和网课的 Mac 工具： Liveglot 。 官网地址： liveglot.app/zh-hans 为什么自己写一个 市面上能做实时翻译的工具其实不少，但真拿来看 Trading Room 这种场景，总会卡在几个地方： 一个是贵，动不动就是按月订阅，每个月几十美金，算下来比我买课程和 API 还贵。另一个是翻译太碎，很多软件是识别到几个词就往外蹦翻译，英文语序和中文语序又不一样，译文读起来支离破碎，看着比听原文还累。 还有一点我特别需要，但一直没找到顺手的： 看直播的时候，漏听了一句或者没跟上字幕，我想立刻问一下刚才讲师到底说了什么。 我自己平时就在折腾工具，索性按",
+    "source_root_domain": "forecho.com"
+  },
+  {
+    "title": "Memos: 周大福 EOF 电商专属商品款号",
+    "url": "https://blog.yasking.org/a/1794966132",
+    "date": "2026-11-18T01:42:12Z",
+    "description": "在淘宝上看到周大福有个小挂饰看着还不错，昨天正好路过门店打算看看实物。 跟店长咨询，店长介绍说看商品详情中的 …",
+    "source_root_domain": "yasking.org"
+  },
+  {
+    "title": "我拒绝使用AI，不是因为AI而是因为我",
+    "url": "https://mobius.blog/26189.html",
+    "date": "2026-11-18T01:30:00Z",
+    "description": "昨天发布的《失乐园里有什么？III：AI时代的集体地狱》，收到了两则私信和一个留言区的留言，大家也都不约而同地 […]",
+    "source_root_domain": "mobius.blog"
+  },
+  {
     "title": "提升生活幸福度的小物件",
     "url": "https://depp.wang/2026/little-things/",
     "date": "2026-11-18T00:26:47Z",
-    "description": "最近买了一双勃肯鞋，觉得确实提升了不少生活幸福感，也想借这个机会，写几个让日常生活更方便、舒服的小物件。",
+    "description": "最近买了一双勃肯鞋，觉得确实提升了不少生活幸福感，也想借这个机会，写几个让日常生活更方便、舒服的小物件。 先说这双鞋。它前面包头，后面没有后跟，穿起来跟拖鞋差不多，一脚蹬就能出门。",
     "source_root_domain": "depp.wang"
-  },
-  {
-    "title": "S.T.A.L.K.E.R.: Call of Pripyat updated",
-    "url": "https://macsourceports.com/game/stalkercop",
-    "date": "2026-11-18T00:10:17Z",
-    "description": "The build of OpenXRay for S.T.A.L.K.E.R.: Call of Pripyat has been updated to the latest code of the project",
-    "source_root_domain": "macsourceports.com"
   },
   {
     "title": "Memos #2026-11-17",
@@ -28,21 +112,7 @@
     "source_root_domain": "versun.me"
   },
   {
-    "title": "Serious Sam: The First Encounter updated",
-    "url": "https://macsourceports.com/game/serioussamfe",
-    "date": "2026-11-17T19:44:02Z",
-    "description": "The build of Serious-Engine for Serious Sam: The First Encounter for Serious Sam: The First Encounter has been updated to the latest code of the project",
-    "source_root_domain": "macsourceports.com"
-  },
-  {
-    "title": "Serious Sam: The Second Encounter updated",
-    "url": "https://macsourceports.com/game/serioussamse",
-    "date": "2026-11-17T19:44:01Z",
-    "description": "The build of Serious-Engine for Serious Sam: The Second Encounter for Serious Sam: The Second Encounter has been updated to the latest code of the project",
-    "source_root_domain": "macsourceports.com"
-  },
-  {
-    "title": "为什么H1B和EB签证问题注定无解",
+    "title": "为什么H1B和EB签证不会被改正",
     "url": "https://sinyalee.com/blog/?p=1383",
     "date": "2026-11-17T16:30:08Z",
     "description": "美国科技界，无论雇主还是雇员，一直都在公开抨击这套千疮百孔的移民制度。多年来，许多人摆事实、讲道理，论证它如何 […]",
@@ -591,7 +661,7 @@
     "title": "科技够用了，还是未来更值得期待？",
     "url": "https://depp.wang/2026/technology-and-the-future/",
     "date": "2026-11-16T00:29:02Z",
-    "description": "最近阮一峰的科技爱好者周刊里，有一篇 <a href=\"https://www.ruanyifeng.com/blo",
+    "description": "最近阮一峰的科技爱好者周刊里，有一篇 《如果科技停止在21世纪初》 ，提到了一种看法：2003 年左右，科技已经让生活足够方便，人又还保有生活的主导权，是技术与生活比较理想的平衡点。而经常给我理发的一位理发师，则很期待 AI 继续发展，觉得未来普通人的生活可能会更好。我觉得这两种看法放在一起，还挺有意思的。 阮一峰的文章转述的看法：人类文明最好停在 2003 年左右。那时候已经有了互联网、电脑和手机，日常生活足够方便，但人还不用随时在线。不想上网，也可以正常生活。后来技术继续发展，越来越多的事情搬到了线上，生活更方便了，人却也越来越离不开这些技术。",
     "source_root_domain": "depp.wang"
   },
   {

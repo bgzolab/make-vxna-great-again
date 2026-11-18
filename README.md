@@ -27,13 +27,23 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
-| 2026-11-18 | [提升生活幸福度的小物件](https://depp.wang/2026/little-things/) | 最近买了一双勃肯鞋，觉得确实提升了不少生活幸福感，也想借这个机会，写几个让日常生活更方便、舒服的小物件。 |
 | 2026-11-18 | [S.T.A.L.K.E.R.: Call of Pripyat updated](https://macsourceports.com/game/stalkercop) | The build of OpenXRay for S.T.A.L.K.E.R.: Call of Pripyat has been updated to the latest code of the project |
+| 2026-11-18 | [Serious Sam: The First Encounter updated](https://macsourceports.com/game/serioussamfe) | The build of Serious-Engine for Serious Sam: The First Encounter for Serious Sam: The First Encounter has been updated to the latest code of the proje… |
+| 2026-11-18 | [Serious Sam: The Second Encounter updated](https://macsourceports.com/game/serioussamse) | The build of Serious-Engine for Serious Sam: The Second Encounter for Serious Sam: The Second Encounter has been updated to the latest code of the pro… |
+| 2026-11-18 | [Xash3D FWGS updated](https://macsourceports.com/sourceport/xash3d-fwgs) | The build of Xash3D FWGS for the Half-Life series of games has been updated to the latest code of the project\n\nhttps://macsourceports.com/sourceport… |
+| 2026-11-18 | [SkyWalking 网关插件在 SCG 2.2.8 上抛 NPE 导致网关请求 500 的排查](https://199604.com/3756) | SkyWalking 网关插件在 SCG 2.2.8 上抛 NPE 导致网关请求 500 的排查 记录时间：2 […] |
+| 2026-11-18 | [在凌晨五点醒来](https://www.hecaitou.com/2026/11/awake-at-5-am.html) | 今天凌晨五点我突然醒来，往常这应该是我睡得最香的时候。醒来之后头脑不是很清醒，于是开始执行每天的自动程序，去拉开窗帘，给加湿机补水，诸如此类的事情。 我以为现在是冬季了，北方的冬季天亮得晚，夜里应该是漆黑一团。但是拉开窗帘后发现天空是漂亮的深蓝色，沉静安详，在天光下能清清楚楚看见窗外的景物。而且，我… |
+| 2026-11-18 | [统计数据：当创始人团队面临“分道扬镳”？](https://wenfeixiang.com/2026/11/founder-leave-and-lose/) | 对创业公司而言，创始人的离开、是一个难以言说的话题。大到最近沸沸扬扬的黄仁勋离开英伟达，小到几乎每一家创业小公 […] |
+| 2026-11-18 | [招聘启事二则](https://www.kawabangga.com/posts/7461) | 我就职的公司东海集团（Shopee 母公司）拓展 AI 云业务（neocloud），现在招聘计算、存储、网络方 […] Continue reading... 相关文章: Gitops 的一些实践经验 最近的工作感悟 |
+| 2026-11-18 | [Pharaoh updated](https://macsourceports.com/game/pharaoh) | The build of Akhenaten for Pharaoh has been updated to version ra2611 of the project |
+| 2026-11-18 | [多就是好吗？](https://blog.solazy.me/20261118/) | 观朋友圈有感 |
+| 2026-11-18 | [为了听懂英文 Trading Room，我开发了一款实时字幕翻译软件 Liveglot](https://blog.forecho.com/introducing-liveglot.html) | 引言 学了一年多的价格行为学（Price Action），最近我终于付费进了 PA 的英文 Trading Room，想跟着看看老外实盘到底是怎么分析、怎么找入场和止损的。 钱是付了，进去以后才发现最大的问题不是看不懂 K 线，而是听不懂。讲师语速本来就快，里面又夹着一堆交易术语和盘口俚语，经常一句… |
+| 2026-11-18 | [Memos: 周大福 EOF 电商专属商品款号](https://blog.yasking.org/a/1794966132) | 在淘宝上看到周大福有个小挂饰看着还不错，昨天正好路过门店打算看看实物。 跟店长咨询，店长介绍说看商品详情中的 … |
+| 2026-11-18 | [我拒绝使用AI，不是因为AI而是因为我](https://mobius.blog/26189.html) | 昨天发布的《失乐园里有什么？III：AI时代的集体地狱》，收到了两则私信和一个留言区的留言，大家也都不约而同地 […] |
+| 2026-11-18 | [提升生活幸福度的小物件](https://depp.wang/2026/little-things/) | 最近买了一双勃肯鞋，觉得确实提升了不少生活幸福感，也想借这个机会，写几个让日常生活更方便、舒服的小物件。 先说这双鞋。它前面包头，后面没有后跟，穿起来跟拖鞋差不多，一脚蹬就能出门。 |
 | 2026-11-18 | [Memos #2026-11-17](https://blog.itaober.com/memos/memo_20261117113421_4n1hff) | 19:34 窝囊废开会。 |
 | 2026-11-17 | [就在大家为 gemini 狂欢的时候，o](https://versun.me/blog/tweet-2122826509832565107) | 就在大家为 gemini 狂欢的时候，openai 突然跳了出来， 拿着 6.2 astra，提醒大家，不要忘了我这个小垃圾啊 完蛋了openai，前几个月哭着喊着模型要降速的，也就 openai 信了😂 |
-| 2026-11-17 | [Serious Sam: The First Encounter updated](https://macsourceports.com/game/serioussamfe) | The build of Serious-Engine for Serious Sam: The First Encounter for Serious Sam: The First Encounter has been updated to the latest code of the proje… |
-| 2026-11-17 | [Serious Sam: The Second Encounter updated](https://macsourceports.com/game/serioussamse) | The build of Serious-Engine for Serious Sam: The Second Encounter for Serious Sam: The Second Encounter has been updated to the latest code of the pro… |
-| 2026-11-17 | [为什么H1B和EB签证问题注定无解](https://sinyalee.com/blog/?p=1383) | 美国科技界，无论雇主还是雇员，一直都在公开抨击这套千疮百孔的移民制度。多年来，许多人摆事实、讲道理，论证它如何 […] |
+| 2026-11-17 | [为什么H1B和EB签证不会被改正](https://sinyalee.com/blog/?p=1383) | 美国科技界，无论雇主还是雇员，一直都在公开抨击这套千疮百孔的移民制度。多年来，许多人摆事实、讲道理，论证它如何 […] |
 | 2026-11-17 | [AC自主驾驶与AI车手](https://elmagnifico.tech/2026/11/18/AC-AI-Drive/) | Foreword 上一篇写了SU7 Ultra Mod是怎么做的，里面提到后面又做了一套自主控制器，用来替代我自己一圈圈试车。 实际做下来，这个东西比改Mod麻烦得多。AC不是CARLA，也不是专门给自动驾驶研究做的仿真器。它能把车开得很真实，但是没有一套完整的接口，让外部程序随便读取所有状态、修改… |
 | 2026-11-17 | [带劲的小曲儿](https://hux.ink/posts/catchy-tunes/) | 今天没去跑步，昨天跑了十公里，说说昨天吧。 懈怠了两个月，加上啤酒夜宵什么的，体重势头压不住了，曲线与A股走向背离。 给自己定了一个目标：挑战一个月不点外卖。今天是第 9 天。 晚上能不吃就扛着。昨天下班回到家时就很饿，咬咬牙换了一身跑步装备，出门去。 一开始伴跑的是播客节目，跑着跑着发现不得劲，打… |
 | 2026-11-17 | [为什么不装是最优策略？](https://blog.brmys.cn/no-pretending) | 关联主题:: 同级:: 2026-11-17_星期二 下一级:: 这篇思考源于“失眠专家”和我的善缘，因为我发自内心的善良，对方2026.11.17凌晨和我分享了一些道理，让我深受启发。 “失眠专家”的原话： 我说一些稍微颠覆你认知的话，就我从年轻时候做主持人到我后来在党委的协会（和厅级以上的领导、… |
@@ -111,7 +121,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-11-16 | [副产品思维——做产品不一定要从零开始](https://koukyo.site/posts/byproduct-thinking/) | 做需求雷达只花了一天，因为核心的自动化早就在跑了。做产品不一定要从零开始，从自己的重复问题里往往能找到成本最低的第一个产品。 |
 | 2026-11-16 | [harness 排行榜历时 4 天，总算](https://versun.me/blog/tweet-2122141332600926407) | Guanlan Dai We’re spending up to 100B tokens across 26,040 agent runs to answer one question: when you switch models, should you switch harnesses too?… |
 | 2026-11-16 | [关于一只狗的分离焦虑](https://mobius.blog/26136.html) | 最近在狗公园办公，所以也就顺带研究了一下狗的行为学。 最近来了一只寄养的狗，几乎大部分时间都是在嘤嘤嘤地叫、在 […] |
-| 2026-11-16 | [科技够用了，还是未来更值得期待？](https://depp.wang/2026/technology-and-the-future/) | 最近阮一峰的科技爱好者周刊里，有一篇 <a href="https://www.ruanyifeng.com/blo |
+| 2026-11-16 | [科技够用了，还是未来更值得期待？](https://depp.wang/2026/technology-and-the-future/) | 最近阮一峰的科技爱好者周刊里，有一篇 《如果科技停止在21世纪初》 ，提到了一种看法：2003 年左右，科技已经让生活足够方便，人又还保有生活的主导权，是技术与生活比较理想的平衡点。而经常给我理发的一位理发师，则很期待 AI 继续发展，觉得未来普通人的生活可能会更好。我觉得这两种看法放在一起，还挺有… |
 | 2026-11-16 | [Memos #2026-11-15](https://blog.itaober.com/memos/memo_20261115003254_iq7h2n) | 08:34 恭喜 BLG，一穿四 LCK 无需多言！ 每次熬夜的时候就证明着我还年轻！ |
 | 2026-11-16 | [Linux Bash 终端必备：15 个实用技巧，让命令行操作效率翻倍！](https://zhcn.xyz/article/15-essential-linux-bash-terminal-tips-to-double-your-command-line-efficiency) | 对于经常使用 Linux 服务器、SSH、Docker 或者 VPS 的朋友来说，熟练掌握 Bash 终端快捷键，可以大幅减少重复输入，提高日常运维效率 |
 | 2026-11-15 | [AI 早报 2026-11-16：SemiAnalysis 大砍 AI 算力预测：2028 年资本开支下调近三成](https://www.jtxyh.com/daily/2026-11-16/) | 2026-11-16 AI 早报，共 14 条动态。半导体研究机构 SemiAnalysis 11 月 16 日更新模型，大幅下调未来几年 AI 加速器出货、资本开支、HBM 需求和功耗预测：2028 年全球 AI 加速器资本开支下调 28%，2029 年和 2030 年分别下调 41% 和 40%… |
@@ -213,7 +223,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-11-11 | [大变革时代](https://yipai.me/post/2558.html) | 尽管 MacOS 已经从某个版本开始已经把 Spotlight 重构成了类似 Alfred 的形式，但我之前一直还是用 Alfred。因为他支持“双击”快捷键，比如我设置连按两次 Control 键唤起 Alfred，这是 Spotlight 不具备的。但上周末我只给 Codex 一句话就让它写了个… |
 | 2026-11-11 | [Ubuntu内核升级撑爆boot分区导致启动失败修复](https://199604.com/3748) | Ubuntu内核升级撑爆boot分区导致启动失败修复 记录时间：2026-11-11 环境：Ubuntu 24 […] |
 | 2026-11-11 | [认真做一件事，究竟能有多大不同？](https://www.tortorse.com/archives/doing-one-thing-well/) | 黑胡桃木书柜 |
-| 2026-11-11 | [Xash3D FWGS updated](https://macsourceports.com/sourceport/xash3d-fwgs) | The build of Xash3D FWGS for the Half-Life series of games has been updated to the latest code of the project\n\nhttps://macsourceports.com/sourceport… |
 | 2026-11-11 | [406MHz 车载电台在何方：共用对讲机现状与选购建议](https://blog.mfwt.top/index.php/archives/1732/) | 已经有超过半年的时间，没有在站点上探讨过关于406MHz 共用对讲机这种合法大功率的对讲机类型了。这主要是没有什么太好的话题，毕竟介绍一下技术细节，介绍一下适用人群，也就这样过去了。不过自从最近... |
 | 2026-11-11 | [前端网页去除AI味的开源项目，提供给AI Agent使用，比如cursor](https://dsx2016.com/open-source-projects-for-removing-the-ai-generated-feel-from-web-contentdesigned-for-use-by-ai-agents-such-as-cursor/) | 内容概览 本文内容 Gemini 4 Carbon 2026年11月10日Gemini 4 Carbon发布 ... 前端网页去除AI味的开源项目，提供给AI Agent使用，比如cursor 最先出现在 大师兄2016 。 |
 | 2026-11-11 | [评论区换了个新家](https://hux.ink/posts/new-comment/) | 十月底，把博客的评论系统换掉了。 原来用的是 Twikoo，部署在群晖 Docker 里。用了挺长时间，满足需求但不完美，一是太依赖家里的 NAS 的稳定运行，二是哔哔条目被评论后无法准确定位。博客本身早已实现静态托管，唯独评论系统还得靠家里的设备维持，想想还是决定把它换掉。 于是在 AI 的帮助下… |
