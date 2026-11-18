@@ -27,6 +27,12 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-11-18 | [提升生活幸福度的小物件](https://depp.wang/2026/little-things/) | 最近买了一双勃肯鞋，觉得确实提升了不少生活幸福感，也想借这个机会，写几个让日常生活更方便、舒服的小物件。 |
+| 2026-11-18 | [S.T.A.L.K.E.R.: Call of Pripyat updated](https://macsourceports.com/game/stalkercop) | The build of OpenXRay for S.T.A.L.K.E.R.: Call of Pripyat has been updated to the latest code of the project |
+| 2026-11-18 | [Memos #2026-11-17](https://blog.itaober.com/memos/memo_20261117113421_4n1hff) | 19:34 窝囊废开会。 |
+| 2026-11-17 | [就在大家为 gemini 狂欢的时候，o](https://versun.me/blog/tweet-2122826509832565107) | 就在大家为 gemini 狂欢的时候，openai 突然跳了出来， 拿着 6.2 astra，提醒大家，不要忘了我这个小垃圾啊 完蛋了openai，前几个月哭着喊着模型要降速的，也就 openai 信了😂 |
+| 2026-11-17 | [Serious Sam: The First Encounter updated](https://macsourceports.com/game/serioussamfe) | The build of Serious-Engine for Serious Sam: The First Encounter for Serious Sam: The First Encounter has been updated to the latest code of the proje… |
+| 2026-11-17 | [Serious Sam: The Second Encounter updated](https://macsourceports.com/game/serioussamse) | The build of Serious-Engine for Serious Sam: The Second Encounter for Serious Sam: The Second Encounter has been updated to the latest code of the pro… |
 | 2026-11-17 | [为什么H1B和EB签证问题注定无解](https://sinyalee.com/blog/?p=1383) | 美国科技界，无论雇主还是雇员，一直都在公开抨击这套千疮百孔的移民制度。多年来，许多人摆事实、讲道理，论证它如何 […] |
 | 2026-11-17 | [AC自主驾驶与AI车手](https://elmagnifico.tech/2026/11/18/AC-AI-Drive/) | Foreword 上一篇写了SU7 Ultra Mod是怎么做的，里面提到后面又做了一套自主控制器，用来替代我自己一圈圈试车。 实际做下来，这个东西比改Mod麻烦得多。AC不是CARLA，也不是专门给自动驾驶研究做的仿真器。它能把车开得很真实，但是没有一套完整的接口，让外部程序随便读取所有状态、修改… |
 | 2026-11-17 | [带劲的小曲儿](https://hux.ink/posts/catchy-tunes/) | 今天没去跑步，昨天跑了十公里，说说昨天吧。 懈怠了两个月，加上啤酒夜宵什么的，体重势头压不住了，曲线与A股走向背离。 给自己定了一个目标：挑战一个月不点外卖。今天是第 9 天。 晚上能不吃就扛着。昨天下班回到家时就很饿，咬咬牙换了一身跑步装备，出门去。 一开始伴跑的是播客节目，跑着跑着发现不得劲，打… |
@@ -39,6 +45,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-11-17 | [The Operative: No One Lives Forever updated](https://macsourceports.com/game/nolf1) | The build of NOLF1 for Mac for The Operative: No One Lives Forever has been updated to version 0.6 of the project |
 | 2026-11-17 | [No One Lives Forever 2: A Spy in H.A.R.M.'s Way updated](https://macsourceports.com/game/nolf2) | The build of NOLF2 for Mac for No One Lives Forever 2: A Spy in H.A.R.M.'s Way has been updated to version 0.5 of the project |
 | 2026-11-17 | [Ambermoon updated](https://macsourceports.com/game/ambermoon) | The build of Ambermoon.net for Ambermoon has been updated to version v1.16.0 of the project |
+| 2026-11-17 | [有订阅 devin 套餐的注意了！ 不要](https://versun.me/blog/tweet-2122635224081400284) | 有订阅 devin 套餐的注意了！ 不要单独使用 claude 或者 carbon 这些昂贵的模型， 一定要使用 fusion 模式，非常好用 经测试，opus 5.5 high + swe 2 high 效果最好，可以省50%左右的 token，而且性能不减！！ |
 | 2026-11-17 | [周记 – Nov 17，博客更名，我对于 AI 的态度](https://zhangke.space/%e5%91%a8%e8%ae%b0-nov-17%ef%bc%8c%e5%8d%9a%e5%ae%a2%e6%9b%b4%e5%90%8d%ef%bc%8c%e6%88%91%e5%af%b9%e4%ba%8e-ai-%e7%9a%84%e6%80%81%e5%ba%a6/?utm_source=rss&utm_medium=rss&utm_campaign=%25e5%2591%25a8%25e8%25ae%25b0-nov-17%25ef%25bc%258c%25e5%258d%259a%25e5%25ae%25a2%25e6%259b%25b4%25e5%2590%258d%25ef%25bc%258c%25e6%2588%2591%25e5%25af%25b9%25e4%25ba%258e-ai-%25e7%259a%2584%25e6%2580%2581%25e5%25ba%25a6) | 最近把博客名字改了，之前叫“张可的博客”，现在更名为 Apeiron 的博客。主要还是不想再实名制上网了，最开 […] |
 | 2026-11-17 | [Rise of the Triad updated](https://macsourceports.com/game/rott) | The build of rottexpr for Rise of the Triad has been updated to the latest code of the project |
 | 2026-11-17 | [Tomb Raider updated](https://macsourceports.com/game/tombraider1) | The build of OpenLara for Tomb Raider has been updated to the latest code of the project |
@@ -62,6 +69,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-11-17 | [【必学技能！】使用油猴脚本10倍提升工作效率！！！](https://blog.brmys.cn/4-Archives/%E8%AF%AD%E9%9B%80%E7%9F%A5%E8%AF%86%E5%BA%93-2025.08.22/%E8%8B%8F%E8%8B%8F%E7%9A%84%E8%BE%93%E5%87%BA%E3%80%90Output%E3%80%91/Knowledge%E4%B8%BB%E9%A2%98/%E3%80%90%E5%BF%85%E5%AD%A6%E6%8A%80%E8%83%BD%EF%BC%81%E3%80%91%E4%BD%BF%E7%94%A8%E6%B2%B9%E7%8C%B4%E8%84%9A%E6%9C%AC10%E5%80%8D%E6%8F%90%E5%8D%87%E5%B7%A5%E4%BD%9C%E6%95%88%E7%8E%87%EF%BC%81%EF%BC%81%EF%BC%81) | 以下教程设备为电脑💻，手机端使用油猴脚本的方法，我后面更新一下—— 往期教程：如何在手机上使用浏览器插件、油猴脚本？ 写在开头：油猴脚本能干啥？ 破解主流观影网站爱奇艺、腾讯视频、优酷等平台的付费或vip视频； 大学生刷网课，超星、学习通等（网上代刷网课都是用的油猴脚本）； 阿里云盘配合油猴脚本使用… |
 | 2026-11-17 | [【笔记】01.京东CPS赚佣，如何在小红书引流2k人，0门槛带货 GMV 60w+](https://blog.brmys.cn/4-Archives/%E8%AF%AD%E9%9B%80%E7%9F%A5%E8%AF%86%E5%BA%93-2025.08.22/%E8%8B%8F%E8%8B%8F%E7%9A%84%E8%BE%93%E5%87%BA%E3%80%90Output%E3%80%91/%F0%9F%92%B0%E9%87%91%E9%92%B1%E5%85%B3%E7%B3%BB/%E8%B5%9A%E9%92%B1%E6%A1%88%E4%BE%8B%E5%BA%93/%E3%80%90%E7%AC%94%E8%AE%B0%E3%80%9101.%E4%BA%AC%E4%B8%9CCPS%E8%B5%9A%E4%BD%A3%EF%BC%8C%E5%A6%82%E4%BD%95%E5%9C%A8%E5%B0%8F%E7%BA%A2%E4%B9%A6%E5%BC%95%E6%B5%812k%E4%BA%BA%EF%BC%8C0%E9%97%A8%E6%A7%9B%E5%B8%A6%E8%B4%A7-GMV-60w+) | . |
 | 2026-11-17 | [Memos: 百度千帆的编程套餐还不错](https://blog.yasking.org/a/1794899616) | 最近 ChatGPT 订阅一直不太够用，然后偶尔就直接用 DeepSeek Flash V4.1 的官方 API 应急，其实非谷时定价不便宜，一天用出去几十块很轻松 … |
+| 2026-11-17 | [离开 claude 的第4天🥹](https://versun.me/blog/tweet-2122564298623049934) | Versun 自从 claude 账号被封后， 吃的好，睡得好， 有时间出去走走了， 在外面也不会总抱着手机了， 生活竟然好了些许， 除了发现自己原来这么傻🥹 离开 claude 的第4天🥹 |
 | 2026-11-17 | [学会像呼吸一样拒绝别人](https://blog.solazy.me/20261117/) | 昨晚一件小事儿引发的思考 |
 | 2026-11-17 | [解析：不要介入他人因果](https://www.hecaitou.com/2026/11/deconstructing-others-karma.html) | 网上有句话听得我头皮发麻，它就是「不要介入他人因果」。具体什么意思，谁能给我解释一下吗？ 不是充愣装傻，我是真的不明白。凭我有限的所知，因果极为复杂，根本不像是在台球桌上打弹子，白球撞了红球，红球撞了黄球，可以清清爽爽看个仔细。小学课本里讲成语典故「塞翁失马」，那其实也是个关于因果的故事，介绍了因果… |
 | 2026-11-17 | [Quake III: Arena updated](https://macsourceports.com/game/quake3arena) | The build of Quake3e for Quake III: Arena has been updated to the latest code of the project |
@@ -221,31 +229,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-11-11 | [据我所知，这个榜单里，只有 Alma 是](https://versun.me/blog/tweet-2120321821593727007) | Guanlan Dai We’re spending up to 100B tokens across 26,040 agent runs to answer one question: when you switch models, should you switch harnesses too?… |
 | 2026-11-11 | [Starryblu 使用指南：多币种账户、海外支付与跨境汇款](https://blog.debuginn.com/p/starryblu/) | 大家好呀，我是 Meng小羽，好久不见！ 最近除了继续打磨 iAssets 知盈，我也一直在寻找更方便的海外软件订阅和跨境支付方式。毕竟，对于经常使用 ChatGPT、Claude Code 等工具的开发者来说，支付有时也是一个需要专门解决的问题。 前段时间，一位读者向我推荐了 Starryblu。… |
 | 2026-11-11 | [Memos #2026-11-10](https://blog.itaober.com/memos/memo_20261109161917_a2mijt) | 00:31 上周末去惠州玩了两天。 周六在海边露营烤肉，晚上去朋友家借宿，解锁了川麻血战到底这项新技能。 周日在朋友家吃了中饭后，又血战了一下午，晚饭后才回深圳。 算是度过了一个不太寻常的周末，没打游戏，跟一群还没那么熟的朋友体验了一把生活的样子，挺开心！ 09:39 刘振东真是赤裸、真诚且搞笑。 |
-| 2026-11-10 | [杯子](https://anotherdayu.com/7200/) | 这些杯子，让原本不会有交集，却又实实在在存在着联系的两群人，以这样的方式见到了彼此。 |
-| 2026-11-10 | [带刺大黄鱼如何帮我反思软件？](https://www.geedea.pro/article/openbsd/) | 我在《 爱拯救之 》一文中提到，博客现在运行在安装 OpenBSD 的操作系统上，而不是 Linux。我本想尝试更多的 BSD 系统，可我把 FreeBSD 的 .iso 挂载到 VPS 之后，在 VNC 里捣鼓了半天也没把系统安装好。最后还是换回 OpenBSD，在十分钟内就完成了安装。 Free… |
-| 2026-11-10 | [AI 早报 2026-11-11：Railway 被黑：多达 10 万个工作区的 AI 密钥遭窃，冒用账单约 74 万美元](https://www.jtxyh.com/daily/2026-11-11/) | 2026-11-11 AI 早报，共 24 条动态。云托管平台 Railway 11 月 10 日公布完整事故报告：攻击者 10 月 20 日利用构建系统的未知漏洞逃出隔离环境，一路拿到内部凭证，解密了最多约 10 万个客户工作区的环境变量，专门搜刮 AI 服务商的 API 密钥，被盗密钥随后产生了… |
-| 2026-11-10 | [iOS Backup v1.5.6 更新啦](https://razeen.me/posts/ios-backup-v1-5-6-update/) | iOS Backup 已更新到 v1.5.6，新增历史备份保留与打包下载、离线查看备份、手动停止任务和任务记录，并改进了通知、翻译及自定义时区支持。 |
-| 2026-11-10 | [聊聊我用过的两款 AI 记忆系统](https://versun.me/blog/from-nowledge-mem-to-hindsight) | 最近，我把 Agent 记忆系统从 Nowledge Mem 换到了 Hindsight。 趁这个机会，简单对比下两者的使用感受和区别。 特性 Nowledge Mem 从图数据库和人机交互切入，想做连通所有工具的个人认知中枢。它有全平台桌面端、CLI、浏览器插件和 MCP 等全家桶，定位是「个人… |
-| 2026-11-10 | [AI本地大模型3B左右真实使用场景和模型推荐](https://dsx2016.com/real-world-use-cases-and-model-recommendations-for-local-ai-models-approx-3b-parameters/) | 本文内容 核心内容 HyperFlow H3 Flash HyperFlow H3 Flash 是什么？ Hy... AI本地大模型3B左右真实使用场景和模型推荐 最先出现在 大师兄2016 。 |
-| 2026-11-10 | [claude pro 给的 fable](https://versun.me/blog/tweet-2120114717343756499) | Versun Fable 5.2 文字能力感觉比 Opus 5.5 要差很多。。。。 “止血” 是什么鬼。。。。 不过速度和逻辑能力、全局观确实明显好很多 https://twitter.com/claudeai/status/2119899459761131615 claude pro 给的 fa… |
-| 2026-11-10 | [今天公司通知APEC要居家一周](https://sigge.cn/2026/11/10/lmbx5zl15yqb) | 今天公司通知了APEC要居家一周，相当于9天小长假了。 |
-| 2026-11-10 | [Fable 5.2 小技巧: 和它说"这](https://versun.me/blog/tweet-2120087943109095877) | Simon Willison When Anthropic release a new model it's always worth taking a look at their updated prompting guide - here's an entertaining tip to mak… |
-| 2026-11-10 | [Star Wars Jedi Knight: Jedi Academy updated](https://macsourceports.com/game/swjkja) | The build of OpenJK (Single Player) for Star Wars Jedi Knight: Jedi Academy has been updated to the latest code of the project |
-| 2026-11-10 | [Star Wars Jedi Knight II: Jedi Outcast updated](https://macsourceports.com/game/swjk2) | The build of OpenJO (OpenJK Project, Single Player) for Star Wars Jedi Knight II: Jedi Outcast has been updated to the latest code of the project |
-| 2026-11-10 | [OpenXcom updated](https://macsourceports.com/sourceport/openxcom) | The build of OpenXcom for the X-Com series of games has been updated to the latest code of the project\n\nhttps://macsourceports.com/sourceport/openxc… |
-| 2026-11-10 | [vivo手机域名列表](https://www.cheshirex.com/11656.html) | 以下内容来自于网友收集域名，博主二次收集再加工。 相关链接 DNS广告隐私屏蔽列表：https://githu […] |
-| 2026-11-10 | [古老师的新玩具！有点可爱呀](https://versun.me/blog/tweet-2120034194583921107) | Wey Gu 古思为 Made Ducter on a work-trip weekend, in a Tokyo Airbnb, after Conductor dropped Cloud from Pro. Grok Bot, but open source and on your own su… |
-| 2026-11-10 | [Fable 5.2 文字能力感觉比 Op](https://versun.me/blog/tweet-2120020131501969627) | Claude During pre-release testing, Claude Fable 5.2 and Claude Mythos 5.2 worked on ambitious projects in many different fields. Here are a few. From… |
-| 2026-11-10 | [油管：视频创意和流量以及信息整理](https://dsx2016.com/youtube-video-ideas-traffic-and-information-curation/) | 油管算法 油管的算法很垃圾，既没有tk的大数据信息茧房的信息流，也没有普通产品用户画像的综合推荐 反而是牛头不... 油管：视频创意和流量以及信息整理 最先出现在 大师兄2016 。 |
-| 2026-11-10 | [比找回青春更重要的](https://www.hecaitou.com/2026/11/more-important-than-reclaiming-youth.html) | 我知道，99% 的好友对于我家里那一堆中古磁带随身听的看法就两个字：垃圾。也试过让他们用耳机重温一下上世纪好声音，不过看他们的表情我也很清楚，那是童年被逼无奈去吃芹菜或者胡萝卜时的脸。 有人提供了一种理论解释，把我这种人的行为称之为「补过童年」，或者「找回青春」。当初我喜欢的很多东西家里买不起，比如… |
-| 2026-11-10 | [职场上的前任](https://blog.solazy.me/20261110/) | 最近换工作，难免会亲身经历关于「职场前任」的话题 |
-| 2026-11-10 | [当我的 Mac 里塞进 50 个 MCP 和 70 个 Skill：用“元工具”把上下文砍掉 90% / Slashing 90% Context Overhead with Meta-Tools](https://blog.7caifei.com/2026/11/4c5464164e57.html) | 本文包含中文与英文两个版本。 This post includes both Chinese and English versions. 当我的 Mac 里塞进 50 个 MCP 和 70 个 |
-| 2026-11-10 | [救猫咪](https://mobius.blog/26112.html) | 收到 @碎言 的私信，是针对《狗不会说话但什么都懂》发表的评论，但是我依旧死性不改，不会重开评论区。 re 狗 […] |
-| 2026-11-10 | [从实验到实际录制：Gecko 的 Pulse 设计](https://liudon.com/posts/gecko-adaptive-pulse-design/) | 上一篇《 切换桌面后，录屏画面几乎冻结 》记录了 Gecko 遇到的跨桌面供帧问题。一个原本用于倒计时的浮层带来了线索，后来通过 Pulse 的开关实验，发现持续绘制的独立窗口在特定场景下确实能让采集恢复正常。 |
-| 2026-11-10 | [我的3个 jio 订阅的 gemini](https://versun.me/blog/tweet-2119971858519073101) | 我的3个 jio 订阅的 gemini 全部申诉回来了！ 之前被封是因为在 magpie 上用了 gemini web 这个插件，想把 argon 反代出来，结果秒封。。。。 目前依旧在 magpie 上用官方插件反代 3.8 flash，一切正常 |
-| 2026-11-10 | [大模型科普系列（二）：什么是解嵌入矩阵](https://depp.wang/2026/what-is-unembedding/) | 上一篇写了 什么是词向量 ，文字可以通过嵌入表变成一串数字，交给模型计算。这一篇接着写另一头：模型计算完以后，怎么决定接下来输出哪个 token？ 这里会用到「解嵌入矩阵」。先简单说，它是一张用来打分的权重表，把模型最后算出来的一个向量，变成词表里每个 token 各自的分数。后面再把分数转成概率，… |
-| 2026-11-10 | [Memos #2026-11-09](https://blog.itaober.com/memos/memo_20261109145252_4p67rz) | 22:52 国庆后的体重走势图，周一高开，周五低走，循环往复，周而复始... |
-| 2026-11-10 | [烧了一百亿Token后的Harness Agent交互感想](https://prologue.dev/blog/2026-how-do-i-use-deepseek-harness) | 模型能力已经超乎常人，但普通人仍然难以驾驭这种能力。 |
 
 ## Vibe Coding
 
