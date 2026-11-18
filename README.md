@@ -27,6 +27,12 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-11-18 | [Album#52 - 階段怪談](https://taxodium.ink/album-52.html) | Album#52 階段怪談 图1 階段怪談 by handycam 专辑信息 专辑名称： 階段怪談 歌手： handycam 年份： 2026-05-20 时长： 43:10 類型： 艺术摇滚/剧场音乐/厕所爵士 《階段怪談》這張專輯是 handycam 成團後發布的首張錄音室専輯，相比另外兩張 《… |
+| 2026-11-18 | [把自己作为「产品」](https://lomus.cc/把自己作为产品/) | 借用项飙老师的句式，小小标题党一下。其实我想讲的是，把自己产品化，或者把自己当做一个产品对待。 |
+| 2026-11-18 | [VSCode 中 Kilo 扩展的代理机制解析与分流配置（http.proxy 与 noProxy）](https://blog.rustfisher.com/tools/vscode-kilo-http-noproxy-settings/) | 在日常研发中，经常会遇到这样一种网络分流需求：AI 编程插件需要走代理访问外部模型 API，但同时又要直连公司内网的私有模型网关或本地调试服务（如 localhost 、 *.rustfisher.com ）。 <h2 |
+| 2026-11-18 | [没有港卡怎么激活Wise](http://www.5had0w.com/posts/5962c526.html) | 先说结论，最后是通过 iFAST 激活的 Wise，花了 125 元，主要是外汇转账（用的招行）的手续费（25元） + 通讯费（100元），这个外汇是用于激活 iFast，激活 iFast 后就可以无损入金激活 Wise。 全程线上办理，有国内银行卡就行。</ |
+| 2026-11-18 | [The Operative: No One Lives Forever updated](https://macsourceports.com/game/nolf1) | The build of NOLF1 for Mac for The Operative: No One Lives Forever has been updated to version 0.6.1 of the project |
+| 2026-11-18 | [No One Lives Forever 2: A Spy in H.A.R.M.'s Way updated](https://macsourceports.com/game/nolf2) | The build of NOLF2 for Mac for No One Lives Forever 2: A Spy in H.A.R.M.'s Way has been updated to version 0.6 of the project |
 | 2026-11-18 | [S.T.A.L.K.E.R.: Call of Pripyat updated](https://macsourceports.com/game/stalkercop) | The build of OpenXRay for S.T.A.L.K.E.R.: Call of Pripyat has been updated to the latest code of the project |
 | 2026-11-18 | [Serious Sam: The First Encounter updated](https://macsourceports.com/game/serioussamfe) | The build of Serious-Engine for Serious Sam: The First Encounter for Serious Sam: The First Encounter has been updated to the latest code of the proje… |
 | 2026-11-18 | [Serious Sam: The Second Encounter updated](https://macsourceports.com/game/serioussamse) | The build of Serious-Engine for Serious Sam: The Second Encounter for Serious Sam: The Second Encounter has been updated to the latest code of the pro… |
@@ -44,6 +50,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-11-18 | [Memos #2026-11-17](https://blog.itaober.com/memos/memo_20261117113421_4n1hff) | 19:34 窝囊废开会。 |
 | 2026-11-17 | [就在大家为 gemini 狂欢的时候，o](https://versun.me/blog/tweet-2122826509832565107) | 就在大家为 gemini 狂欢的时候，openai 突然跳了出来， 拿着 6.2 astra，提醒大家，不要忘了我这个小垃圾啊 完蛋了openai，前几个月哭着喊着模型要降速的，也就 openai 信了😂 |
 | 2026-11-17 | [为什么H1B和EB签证不会被改正](https://sinyalee.com/blog/?p=1383) | 美国科技界，无论雇主还是雇员，一直都在公开抨击这套千疮百孔的移民制度。多年来，许多人摆事实、讲道理，论证它如何 […] |
+| 2026-11-17 | [AI 早报 2026-11-18：俄勒冈州起诉 OpenAI 索赔 20.35 亿美元：指控 ChatGPT 危害未成年人](https://www.jtxyh.com/daily/2026-11-18/) | 2026-11-18 AI 早报，共 22 条动态。俄勒冈州总检察长丹·雷菲尔德 11 月 17 日起诉 OpenAI，索赔至少 20.35 亿美元，指控 ChatGPT 危害未成年人、误导家长。谷歌 11 月 17 日宣布，Gemini 应用里的个人 AI 助手 Tasks… |
 | 2026-11-17 | [AC自主驾驶与AI车手](https://elmagnifico.tech/2026/11/18/AC-AI-Drive/) | Foreword 上一篇写了SU7 Ultra Mod是怎么做的，里面提到后面又做了一套自主控制器，用来替代我自己一圈圈试车。 实际做下来，这个东西比改Mod麻烦得多。AC不是CARLA，也不是专门给自动驾驶研究做的仿真器。它能把车开得很真实，但是没有一套完整的接口，让外部程序随便读取所有状态、修改… |
 | 2026-11-17 | [带劲的小曲儿](https://hux.ink/posts/catchy-tunes/) | 今天没去跑步，昨天跑了十公里，说说昨天吧。 懈怠了两个月，加上啤酒夜宵什么的，体重势头压不住了，曲线与A股走向背离。 给自己定了一个目标：挑战一个月不点外卖。今天是第 9 天。 晚上能不吃就扛着。昨天下班回到家时就很饿，咬咬牙换了一身跑步装备，出门去。 一开始伴跑的是播客节目，跑着跑着发现不得劲，打… |
 | 2026-11-17 | [为什么不装是最优策略？](https://blog.brmys.cn/no-pretending) | 关联主题:: 同级:: 2026-11-17_星期二 下一级:: 这篇思考源于“失眠专家”和我的善缘，因为我发自内心的善良，对方2026.11.17凌晨和我分享了一些道理，让我深受启发。 “失眠专家”的原话： 我说一些稍微颠覆你认知的话，就我从年轻时候做主持人到我后来在党委的协会（和厅级以上的领导、… |
@@ -52,8 +59,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-11-17 | [护身符](https://www.geedea.pro/library/2026/amuleto/) | 他们真漂亮，真美啊！尽管正在肩并肩地走向深渊。我听见他们在唱歌，我成了疯子；我听见他们在唱歌，我无法阻止他们停下来；我距离他们太遥远，没力气下山站到草地中央去对它们说：停下来！你们正在走向死亡啊…… …… 虽然，我听见歌声里谈到了战争，谈到了整整一代拉美牺牲掉的青年人之英雄伟业，我却明白最重要的是说… |
 | 2026-11-17 | [当 Agent 开始协作，一种新的经济生态正在形成](https://luweiqing.com/gossip/Agent-infra-forming.html) | 设想这样一个场景。你希望调研一家科技公司。你的 Agent 接到任务后，先找到擅长产业研究的 Agent，请它梳理市场格局；再调用财务分析工具，处理公开财报；遇到专业技术问题时，向一个行业研究服... |
 | 2026-11-17 | [SimCity 2000 updated](https://macsourceports.com/game/simcity2000) | The build of OpenSC2K for SimCity 2000 has been updated to version v0.4.0 of the project |
-| 2026-11-17 | [The Operative: No One Lives Forever updated](https://macsourceports.com/game/nolf1) | The build of NOLF1 for Mac for The Operative: No One Lives Forever has been updated to version 0.6 of the project |
-| 2026-11-17 | [No One Lives Forever 2: A Spy in H.A.R.M.'s Way updated](https://macsourceports.com/game/nolf2) | The build of NOLF2 for Mac for No One Lives Forever 2: A Spy in H.A.R.M.'s Way has been updated to version 0.5 of the project |
 | 2026-11-17 | [Ambermoon updated](https://macsourceports.com/game/ambermoon) | The build of Ambermoon.net for Ambermoon has been updated to version v1.16.0 of the project |
 | 2026-11-17 | [有订阅 devin 套餐的注意了！ 不要](https://versun.me/blog/tweet-2122635224081400284) | 有订阅 devin 套餐的注意了！ 不要单独使用 claude 或者 carbon 这些昂贵的模型， 一定要使用 fusion 模式，非常好用 经测试，opus 5.5 high + swe 2 high 效果最好，可以省50%左右的 token，而且性能不减！！ |
 | 2026-11-17 | [周记 – Nov 17，博客更名，我对于 AI 的态度](https://zhangke.space/%e5%91%a8%e8%ae%b0-nov-17%ef%bc%8c%e5%8d%9a%e5%ae%a2%e6%9b%b4%e5%90%8d%ef%bc%8c%e6%88%91%e5%af%b9%e4%ba%8e-ai-%e7%9a%84%e6%80%81%e5%ba%a6/?utm_source=rss&utm_medium=rss&utm_campaign=%25e5%2591%25a8%25e8%25ae%25b0-nov-17%25ef%25bc%258c%25e5%258d%259a%25e5%25ae%25a2%25e6%259b%25b4%25e5%2590%258d%25ef%25bc%258c%25e6%2588%2591%25e5%25af%25b9%25e4%25ba%258e-ai-%25e7%259a%2584%25e6%2580%2581%25e5%25ba%25a6) | 最近把博客名字改了，之前叫“张可的博客”，现在更名为 Apeiron 的博客。主要还是不想再实名制上网了，最开 […] |

@@ -1,5 +1,47 @@
 [
   {
+    "title": "Album#52 - 階段怪談",
+    "url": "https://taxodium.ink/album-52.html",
+    "date": "2026-11-18T15:37:00Z",
+    "description": "Album#52 階段怪談 图1 階段怪談 by handycam 专辑信息 专辑名称： 階段怪談 歌手： handycam 年份： 2026-05-20 时长： 43:10 類型： 艺术摇滚/剧场音乐/厕所爵士 《階段怪談》這張專輯是 handycam 成團後發布的首張錄音室専輯，相比另外兩張 《阁楼的影像 & 家》 ，這張專輯偏搖滾風格多一些，聴起來沒有《阁楼的影像 & 家》那麼隨性，製作上更精良一些，也終於不再全是純器樂的演奏，也有几首有歌詞的歌。 TRACKLIST 泰克十一 (Take 11) 階段怪談 (Kaidan Kaidan) 愚公的心事 (YuGong's Obsession) 故鄉 (Root) 狂鳥記 (Kuangniaoji) 神秘列車 (Mystery Train) 風之女 (Wind Girl) 卡拉歐K之歌 (Karaoke Song) 泰克十一 (Take 11) 不錯的器樂演奏，開頭的貝斯就挺好聴的。 階段怪談 (Kaidan Kaidan) 也是一首不錯的器樂演奏，层次挺丰富的，好聴。 愚公的心事 (YuGong's Obsession) 你是远方",
+    "source_root_domain": "taxodium.ink"
+  },
+  {
+    "title": "把自己作为「产品」",
+    "url": "https://lomus.cc/把自己作为产品/",
+    "date": "2026-11-18T13:35:13Z",
+    "description": "借用项飙老师的句式，小小标题党一下。其实我想讲的是，把自己产品化，或者把自己当做一个产品对待。",
+    "source_root_domain": "lomus.cc"
+  },
+  {
+    "title": "VSCode 中 Kilo 扩展的代理机制解析与分流配置（http.proxy 与 noProxy）",
+    "url": "https://blog.rustfisher.com/tools/vscode-kilo-http-noproxy-settings/",
+    "date": "2026-11-18T13:30:00Z",
+    "description": "在日常研发中，经常会遇到这样一种网络分流需求：AI 编程插件需要走代理访问外部模型 API，但同时又要直连公司内网的私有模型网关或本地调试服务（如 localhost 、 *.rustfisher.com ）。 <h2",
+    "source_root_domain": "rustfisher.com"
+  },
+  {
+    "title": "没有港卡怎么激活Wise",
+    "url": "http://www.5had0w.com/posts/5962c526.html",
+    "date": "2026-11-18T12:42:55Z",
+    "description": "先说结论，最后是通过 iFAST 激活的 Wise，花了 125 元，主要是外汇转账（用的招行）的手续费（25元） + 通讯费（100元），这个外汇是用于激活 iFast，激活 iFast 后就可以无损入金激活 Wise。 全程线上办理，有国内银行卡就行。</",
+    "source_root_domain": "5had0w.com"
+  },
+  {
+    "title": "The Operative: No One Lives Forever updated",
+    "url": "https://macsourceports.com/game/nolf1",
+    "date": "2026-11-18T12:08:36Z",
+    "description": "The build of NOLF1 for Mac for The Operative: No One Lives Forever has been updated to version 0.6.1 of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "No One Lives Forever 2: A Spy in H.A.R.M.'s Way updated",
+    "url": "https://macsourceports.com/game/nolf2",
+    "date": "2026-11-18T12:08:35Z",
+    "description": "The build of NOLF2 for Mac for No One Lives Forever 2: A Spy in H.A.R.M.'s Way has been updated to version 0.6 of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
     "title": "S.T.A.L.K.E.R.: Call of Pripyat updated",
     "url": "https://macsourceports.com/game/stalkercop",
     "date": "2026-11-18T09:18:42Z",
@@ -119,6 +161,13 @@
     "source_root_domain": "sinyalee.com"
   },
   {
+    "title": "AI 早报 2026-11-18：俄勒冈州起诉 OpenAI 索赔 20.35 亿美元：指控 ChatGPT 危害未成年人",
+    "url": "https://www.jtxyh.com/daily/2026-11-18/",
+    "date": "2026-11-17T16:00:00Z",
+    "description": "2026-11-18 AI 早报，共 22 条动态。俄勒冈州总检察长丹·雷菲尔德 11 月 17 日起诉 OpenAI，索赔至少 20.35 亿美元，指控 ChatGPT 危害未成年人、误导家长。谷歌 11 月 17 日宣布，Gemini 应用里的个人 AI 助手 Tasks…",
+    "source_root_domain": "jtxyh.com"
+  },
+  {
     "title": "AC自主驾驶与AI车手",
     "url": "https://elmagnifico.tech/2026/11/18/AC-AI-Drive/",
     "date": "2026-11-17T16:00:00Z",
@@ -172,20 +221,6 @@
     "url": "https://macsourceports.com/game/simcity2000",
     "date": "2026-11-17T12:00:38Z",
     "description": "The build of OpenSC2K for SimCity 2000 has been updated to version v0.4.0 of the project",
-    "source_root_domain": "macsourceports.com"
-  },
-  {
-    "title": "The Operative: No One Lives Forever updated",
-    "url": "https://macsourceports.com/game/nolf1",
-    "date": "2026-11-17T12:00:37Z",
-    "description": "The build of NOLF1 for Mac for The Operative: No One Lives Forever has been updated to version 0.6 of the project",
-    "source_root_domain": "macsourceports.com"
-  },
-  {
-    "title": "No One Lives Forever 2: A Spy in H.A.R.M.'s Way updated",
-    "url": "https://macsourceports.com/game/nolf2",
-    "date": "2026-11-17T12:00:36Z",
-    "description": "The build of NOLF2 for Mac for No One Lives Forever 2: A Spy in H.A.R.M.'s Way has been updated to version 0.5 of the project",
     "source_root_domain": "macsourceports.com"
   },
   {
