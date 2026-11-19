@@ -27,6 +27,12 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-11-19 | [理中客之死 I](https://mobius.blog/26210.html) | 前两天参与了一场互联网骂战，讨论的话题是iOS即将更新的“国行AI”，将在中国境内搭载当地公司提供的安全机制。 […] |
+| 2026-11-19 | [找到你所擅长的运动](https://depp.wang/2026/find-your-sport/) | 现在很多人的工作都不需要做什么体力劳动，像我做软件开发，大部分时间就是坐在电脑前。工作本身很少有活动身体的机会，想让身体得到锻炼，就得另外花时间运动。 但知道应该运动，跟愿意经常去运动，还是两回事。我从小就算比较喜欢运动，现在主要打羽毛球，之前打得更多的却是篮球。这两项运动，我都喜欢，打完以后的感受… |
+| 2026-11-19 | [Memos #2026-11-18](https://blog.itaober.com/memos/memo_20261118105516_b5rn19) | 19:00 听多了愈发觉得刘振东是个善良乐观的人，碰到这么多糟糕的事，活的真不容易。 |
+| 2026-11-19 | [F20H 系列：《赛博朋克 2077》](https://bluepika.life/blog/f20h-cyberpunk-2077) | 特意选在 GTA 6 发售前写这一篇文章，为的是顺便聊聊吸引我的开放世界这个话题。 还是先来说说《赛博朋克 2077》吧，我本来打算在 Switch 2 上面游玩，没想到家庭组里的朋友在看完动画第一季后直接在 Steam 上购入了全套，我就干脆在 Steam Deck 上面玩了。 我已经有一阵子没有… |
+| 2026-11-18 | [谷歌又来新模型了，这次是中杯的 neon](https://versun.me/blog/tweet-2123179784142495885) | Google DeepMind Gemini 4 Neon is rolling out now. Sitting between Carbon and Hydrogen, it brings frontier intelligence and fast task completion for co… |
+| 2026-11-18 | [最让我觉得「应该发生在上海」的偶遇](https://www.owenyoung.com/chance-encounter) | 今天发生的偶遇，是我来上海之后最让我觉得「应该在上海发生」的事。 |
 | 2026-11-18 | [Album#52 - 階段怪談](https://taxodium.ink/album-52.html) | Album#52 階段怪談 图1 階段怪談 by handycam 专辑信息 专辑名称： 階段怪談 歌手： handycam 年份： 2026-05-20 时长： 43:10 類型： 艺术摇滚/剧场音乐/厕所爵士 《階段怪談》這張專輯是 handycam 成團後發布的首張錄音室専輯，相比另外兩張 《… |
 | 2026-11-18 | [把自己作为「产品」](https://lomus.cc/把自己作为产品/) | 借用项飙老师的句式，小小标题党一下。其实我想讲的是，把自己产品化，或者把自己当做一个产品对待。 |
 | 2026-11-18 | [VSCode 中 Kilo 扩展的代理机制解析与分流配置（http.proxy 与 noProxy）](https://blog.rustfisher.com/tools/vscode-kilo-http-noproxy-settings/) | 在日常研发中，经常会遇到这样一种网络分流需求：AI 编程插件需要走代理访问外部模型 API，但同时又要直连公司内网的私有模型网关或本地调试服务（如 localhost 、 *.rustfisher.com ）。 <h2 |
@@ -37,15 +43,19 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-11-18 | [Serious Sam: The First Encounter updated](https://macsourceports.com/game/serioussamfe) | The build of Serious-Engine for Serious Sam: The First Encounter for Serious Sam: The First Encounter has been updated to the latest code of the proje… |
 | 2026-11-18 | [Serious Sam: The Second Encounter updated](https://macsourceports.com/game/serioussamse) | The build of Serious-Engine for Serious Sam: The Second Encounter for Serious Sam: The Second Encounter has been updated to the latest code of the pro… |
 | 2026-11-18 | [Xash3D FWGS updated](https://macsourceports.com/sourceport/xash3d-fwgs) | The build of Xash3D FWGS for the Half-Life series of games has been updated to the latest code of the project\n\nhttps://macsourceports.com/sourceport… |
+| 2026-11-18 | [Mingle 这个工具不错，简单的 Ag](https://versun.me/blog/tweet-2122953837531283635) | earayu 任意 Agent，接入任意聊天软件。 https://mingle.build/zh/ 无服务器的Agent协作软件，所以不用担心日渐严峻的网络安全问题，感兴趣可以试用一下。 Mingle 这个工具不错，简单的 Agent 中继器，可以使用自己调配的 harness |
 | 2026-11-18 | [SkyWalking 网关插件在 SCG 2.2.8 上抛 NPE 导致网关请求 500 的排查](https://199604.com/3756) | SkyWalking 网关插件在 SCG 2.2.8 上抛 NPE 导致网关请求 500 的排查 记录时间：2 […] |
 | 2026-11-18 | [在凌晨五点醒来](https://www.hecaitou.com/2026/11/awake-at-5-am.html) | 今天凌晨五点我突然醒来，往常这应该是我睡得最香的时候。醒来之后头脑不是很清醒，于是开始执行每天的自动程序，去拉开窗帘，给加湿机补水，诸如此类的事情。 我以为现在是冬季了，北方的冬季天亮得晚，夜里应该是漆黑一团。但是拉开窗帘后发现天空是漂亮的深蓝色，沉静安详，在天光下能清清楚楚看见窗外的景物。而且，我… |
 | 2026-11-18 | [统计数据：当创始人团队面临“分道扬镳”？](https://wenfeixiang.com/2026/11/founder-leave-and-lose/) | 对创业公司而言，创始人的离开、是一个难以言说的话题。大到最近沸沸扬扬的黄仁勋离开英伟达，小到几乎每一家创业小公 […] |
 | 2026-11-18 | [招聘启事二则](https://www.kawabangga.com/posts/7461) | 我就职的公司东海集团（Shopee 母公司）拓展 AI 云业务（neocloud），现在招聘计算、存储、网络方 […] Continue reading... 相关文章: Gitops 的一些实践经验 最近的工作感悟 |
 | 2026-11-18 | [Pharaoh updated](https://macsourceports.com/game/pharaoh) | The build of Akhenaten for Pharaoh has been updated to version ra2611 of the project |
+| 2026-11-18 | [简单汇总下我目前调研到市面上 opus](https://versun.me/blog/tweet-2122898496835702990) | 简单汇总下我目前调研到市面上 opus 5.5 和 ds 41 flash 套餐额度比较： opus 5.5：claude官方 = 10 x devin = 15 x factory ds 41 flash：opencode = 1.5 x command code = 1.6 x ollma |
 | 2026-11-18 | [多就是好吗？](https://blog.solazy.me/20261118/) | 观朋友圈有感 |
 | 2026-11-18 | [为了听懂英文 Trading Room，我开发了一款实时字幕翻译软件 Liveglot](https://blog.forecho.com/introducing-liveglot.html) | 引言 学了一年多的价格行为学（Price Action），最近我终于付费进了 PA 的英文 Trading Room，想跟着看看老外实盘到底是怎么分析、怎么找入场和止损的。 钱是付了，进去以后才发现最大的问题不是看不懂 K 线，而是听不懂。讲师语速本来就快，里面又夹着一堆交易术语和盘口俚语，经常一句… |
 | 2026-11-18 | [Memos: 周大福 EOF 电商专属商品款号](https://blog.yasking.org/a/1794966132) | 在淘宝上看到周大福有个小挂饰看着还不错，昨天正好路过门店打算看看实物。 跟店长咨询，店长介绍说看商品详情中的 … |
 | 2026-11-18 | [我拒绝使用AI，不是因为AI而是因为我](https://mobius.blog/26189.html) | 昨天发布的《失乐园里有什么？III：AI时代的集体地狱》，收到了两则私信和一个留言区的留言，大家也都不约而同地 […] |
+| 2026-11-18 | [相比 openai 6.2，我反而对这个](https://versun.me/blog/tweet-2122861185259479271) | clem 🤗 Introducing Qwen3.8-27B-pi-adapted 🤗 We adapted Qwen's model specifically for the pi coding agent using reinforcement learning and a LoRA adapt… |
+| 2026-11-18 | [最近在给 Paseo 写插件，然后发现它](https://versun.me/blog/tweet-2122855362160447704) | 最近在给 Paseo 写插件，然后发现它竟然是用 React Native 写的，，这在一堆用 Rust 和 Electron 产品中应该算是一股清流吧😂 还有就是插件接口和跨设备的体验都好好，客户端和移动端都共用一套代码，简直不要太方便了， 整个插件开发过程比 DSH 和 Cindy 好太多了😂 |
 | 2026-11-18 | [提升生活幸福度的小物件](https://depp.wang/2026/little-things/) | 最近买了一双勃肯鞋，觉得确实提升了不少生活幸福感，也想借这个机会，写几个让日常生活更方便、舒服的小物件。 先说这双鞋。它前面包头，后面没有后跟，穿起来跟拖鞋差不多，一脚蹬就能出门。 |
 | 2026-11-18 | [Memos #2026-11-17](https://blog.itaober.com/memos/memo_20261117113421_4n1hff) | 19:34 窝囊废开会。 |
 | 2026-11-17 | [就在大家为 gemini 狂欢的时候，o](https://versun.me/blog/tweet-2122826509832565107) | 就在大家为 gemini 狂欢的时候，openai 突然跳了出来， 拿着 6.2 astra，提醒大家，不要忘了我这个小垃圾啊 完蛋了openai，前几个月哭着喊着模型要降速的，也就 openai 信了😂 |
@@ -216,33 +226,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-11-12 | [ollama使用qwen3.5:2b测试文字转md](https://dsx2016.com/testing-text-to-markdown-conversion-using-qwen3-52b-via-ollama/) | ollama本地大模型选型 优选1b左右的，来测试小任务 本文的要求是快，最好是100token/s及以上（因... ollama使用qwen3.5:2b测试文字转md 最先出现在 大师兄2016 。 |
 | 2026-11-12 | [从买鸡蛋到买菜，我对条马的一些观察](https://depp.wang/2026/tiaoma/) | 我平时买菜，更多还是去小区附近专门卖菜的蔬菜店。但条马也是我会去的一个地方，最开始主要去买鸡蛋，后来买雪糕、零食，现在又会买一些蔬菜、水果和肉。买的东西慢慢变多了，我觉得这也能看出条马这种超市为什么能在小区附近做起来。 最开始去条马买鸡蛋，是因为价格比较便宜，看着也比较干净卫生。鸡蛋是平时经常要买的… |
 | 2026-11-12 | [Memos #2026-11-11](https://blog.itaober.com/memos/memo_20261111125414_735bj9) | 20:58 听得体真是不需要思考，定好的主题只是起个开头作用，后续内容来来回回还是那些。 本期最佳梗：贤哥，我算是你表弟吗？ |
-| 2026-11-11 | [问下今天被封的同志，账号是不是都过了第一](https://versun.me/blog/tweet-2120654948551758027) | Versun 1个 Claude 号毕业了，恭喜🎉😭 还有一个苟延残喘 问下今天被封的同志，账号是不是都过了第一次 kyc 的，我第2个号没弹过 kyc 就没事 |
-| 2026-11-11 | [DOOM for the 3DO updated](https://macsourceports.com/game/doom3do) | The build of BurgerDoom for DOOM for the 3DO has been updated to version 2.0.0 of the project |
-| 2026-11-11 | [学习，旅行，马克思，研究 and Burn out](https://eduardoqian.com/archives/xue-xi-lu-xing-ma-ke-si-yan-jiu-and-burn-out) | 上次更新文章还是9月8日，到现在已经两个月了。这两个月可以说是忙但是不知道在忙什么，累了一圈好像也没干什么，现在好容易抽空出来，来做一下这段时间的总结。 学习 9月开始，Master第二年的period 1开始了。这一p我选修的两门课都是机器学习深度学习相关。一门是Deep Machine Lear |
-| 2026-11-11 | [1个 Claude 号毕业了，恭喜🎉😭](https://versun.me/blog/tweet-2120640591843426721) | 1个 Claude 号毕业了，恭喜🎉😭 还有一个苟延残喘 |
-| 2026-11-11 | [空白处有我](https://anotherdayu.com/1384/) | 认识自己并不是找到一个确定的答案。我们既是自己生活的经历者，也是这些经历的讲述者。同一件事情，在不同的人生阶段，可能会有完全不同的理解。我们所相信的自己，也未必就是自己的全部。 |
-| 2026-11-11 | [AI 早报 2026-11-12：乌克兰无人机公司 UFORCE 完成 7 亿美元 A 轮融资，估值 60 亿美元](https://www.jtxyh.com/daily/2026-11-12/) | 2026-11-12 AI 早报，共 20 条动态。乌克兰国防科技公司 UFORCE 11 月 12 日宣布完成 7 亿美元 A 轮融资，估值 60 亿美元，由 Valor Equity Partners 与英国国家财富基金共同领投，美国—乌克兰重建投资基金等参投，是乌克兰背景初创公司迄今最大的一笔… |
-| 2026-11-11 | [Album#50 - Is it gonna happen again?](https://taxodium.ink/album-50.html) | Album#50 Is it gonna happen again? 图1 Is it gonna happen again? by jody 积融 专辑信息 专辑名称： Is it gonna happen again? 歌手： jody 积融 年份： 2026-02-10 时长： 約 32 分鐘… |
-| 2026-11-11 | [消费理念](https://www.kawabangga.com/posts/7449) | 在一次公司的培训上，一个同事带了一个塑料水瓶，我看见过这种塑料瓶子很多次，我问他是从哪里买的。他说，新加坡人在 […] Continue reading... 相关文章: 生活来在一个包里 给明年依然年轻的我们 |
-| 2026-11-11 | [双十一名存实亡](https://blog.mxdyeah.com/post/2026-11-11-in-name-only) | 现在的双十一太平淡了。看了下 双十一名存实亡 - V2EX，有感而发。记得早些年，我都是 10 号晚上 8 点钟左右，就盯着手机开抢。感觉现在没这种动力了呢。以前参加双十一，大家最期待的是平台拿... |
-| 2026-11-11 | [大变革时代](https://yipai.me/post/2558.html) | 尽管 MacOS 已经从某个版本开始已经把 Spotlight 重构成了类似 Alfred 的形式，但我之前一直还是用 Alfred。因为他支持“双击”快捷键，比如我设置连按两次 Control 键唤起 Alfred，这是 Spotlight 不具备的。但上周末我只给 Codex 一句话就让它写了个… |
-| 2026-11-11 | [Ubuntu内核升级撑爆boot分区导致启动失败修复](https://199604.com/3748) | Ubuntu内核升级撑爆boot分区导致启动失败修复 记录时间：2026-11-11 环境：Ubuntu 24 […] |
-| 2026-11-11 | [认真做一件事，究竟能有多大不同？](https://www.tortorse.com/archives/doing-one-thing-well/) | 黑胡桃木书柜 |
-| 2026-11-11 | [406MHz 车载电台在何方：共用对讲机现状与选购建议](https://blog.mfwt.top/index.php/archives/1732/) | 已经有超过半年的时间，没有在站点上探讨过关于406MHz 共用对讲机这种合法大功率的对讲机类型了。这主要是没有什么太好的话题，毕竟介绍一下技术细节，介绍一下适用人群，也就这样过去了。不过自从最近... |
-| 2026-11-11 | [前端网页去除AI味的开源项目，提供给AI Agent使用，比如cursor](https://dsx2016.com/open-source-projects-for-removing-the-ai-generated-feel-from-web-contentdesigned-for-use-by-ai-agents-such-as-cursor/) | 内容概览 本文内容 Gemini 4 Carbon 2026年11月10日Gemini 4 Carbon发布 ... 前端网页去除AI味的开源项目，提供给AI Agent使用，比如cursor 最先出现在 大师兄2016 。 |
-| 2026-11-11 | [评论区换了个新家](https://hux.ink/posts/new-comment/) | 十月底，把博客的评论系统换掉了。 原来用的是 Twikoo，部署在群晖 Docker 里。用了挺长时间，满足需求但不完美，一是太依赖家里的 NAS 的稳定运行，二是哔哔条目被评论后无法准确定位。博客本身早已实现静态托管，唯独评论系统还得靠家里的设备维持，想想还是决定把它换掉。 于是在 AI 的帮助下… |
-| 2026-11-11 | [Gecko：macOS 录屏工具开发实践](https://liudon.com/guides/gecko/) | Gecko 是我开发的一款 macOS 原生录屏工具，基于 ScreenCaptureKit 和 AVFoundation，实现指定应用的音视频录制。 开发过程中，跨桌面录制成为最棘手的问题。从画面卡顿、冻结，到 Safari / Chrome 视频区域黑屏，先后通过对照实验、Pulse 机制和自动… |
-| 2026-11-11 | [每次我们有一个新模型，我都会在所有项目上](https://versun.me/blog/tweet-2120417876993818805) | Alex Albert Every time we have a new model, I run the same simple prompt on all my projects: "Read this entire project and find everything that’s brok… |
-| 2026-11-11 | [黄仁勋出轨是中年男性的归宿吗？](https://mobius.blog/26116.html) | 先标题党一下，是因为有人给我留言，想让我聊聊黄仁勋出轨的事件。 我把这件事归类在“华尔街政治八卦新闻”，也就是 […] |
-| 2026-11-11 | [APEC 要来了](https://hux.ink/posts/apec-shenzhen-2026/) | 深圳今年的头等大事，无疑是下周即将召开的 APEC 会议。 我上班的地方在福田区边缘，住在罗湖区，工作和生活都不在会议核心区域。不过，随着会议临近，多少还是感受到了一些变化。 一、公司不放假。据传，人力部门曾将调休方案呈报给 VP，结果被当场回绝。其实早早就在小范围议论，深圳到底会不会效仿之前举办过… |
-| 2026-11-11 | [其实所有人都在暗暗为你加油](https://www.hecaitou.com/2026/11/everyone-secretly-cheering-for-you.html) | 最近在网上读到一段很有趣的话： 「 从某种奇妙角度来说，其实所有人都在暗暗为你加油。 当你去参加面试时，面试官其实无比希望你表现惊艳，这样他们就不用再费劲继续招人了。当你去约会时，对方心里也无比渴望这是一场完美约会。如果你创作了一篇内容，大家本质上只是想看到精彩的好内容，他们完全不介意带来这份惊喜人… |
-| 2026-11-11 | [Gecko 录屏自动化测试设计](https://liudon.com/posts/gecko-recording-test-automation/) | 上一篇 《切换桌面后，录屏画面几乎冻结》 中的 OBS 对照测试就发现：一段 20 秒的录像输出了 1200 个视频样本，实际却只有 39 个不同的源画面。虽然文件保持着 60 FPS，真正的画面更新率却只有 1.95 FPS。 这意味着， 要判断录屏是否真正捕获到了新的画面，就必须分析最终录制的视… |
-| 2026-11-11 | [经过 5 天的调研和试用，我最终决定迁移](https://versun.me/blog/tweet-2120362209528443143) | Versun 还是准备迁出 Hermes 了，各位有什么开源平替推荐的 要自己用过的，不要道听途说。。。。 经过 5 天的调研和试用，我最终决定迁移到 Cindy @making_cindy 简单说下这几天的历程： 一开始我用的是 DS Bot，但它更适合工作场景。我的需求更偏日常生活协助，工作这块… |
-| 2026-11-11 | [并不好笑的玩笑](https://blog.solazy.me/20261111/) | 今天的文章起因是室友的一句玩笑话 |
-| 2026-11-11 | [人民币兑美元创四年新高，汇率到底是怎么来的](https://depp.wang/2026/rmb-exchange-rate/) | 看了一下人民币兑美元的走势，现在 1 美元大概可以换 6.67 元人民币，近期美元兑人民币还创下了四年多来的最低位。换个说法，就是人民币兑美元到了近四年最值钱的时候。同样买一件以美元计价的东西，需要花的人民币少了。 近期行情 我首先想到的是，这种情况下，平时就有美元支出的人，应该可以省一点钱。人在国… |
-| 2026-11-11 | [据我所知，这个榜单里，只有 Alma 是](https://versun.me/blog/tweet-2120321821593727007) | Guanlan Dai We’re spending up to 100B tokens across 26,040 agent runs to answer one question: when you switch models, should you switch harnesses too?… |
-| 2026-11-11 | [Starryblu 使用指南：多币种账户、海外支付与跨境汇款](https://blog.debuginn.com/p/starryblu/) | 大家好呀，我是 Meng小羽，好久不见！ 最近除了继续打磨 iAssets 知盈，我也一直在寻找更方便的海外软件订阅和跨境支付方式。毕竟，对于经常使用 ChatGPT、Claude Code 等工具的开发者来说，支付有时也是一个需要专门解决的问题。 前段时间，一位读者向我推荐了 Starryblu。… |
-| 2026-11-11 | [Memos #2026-11-10](https://blog.itaober.com/memos/memo_20261109161917_a2mijt) | 00:31 上周末去惠州玩了两天。 周六在海边露营烤肉，晚上去朋友家借宿，解锁了川麻血战到底这项新技能。 周日在朋友家吃了中饭后，又血战了一下午，晚饭后才回深圳。 算是度过了一个不太寻常的周末，没打游戏，跟一群还没那么熟的朋友体验了一把生活的样子，挺开心！ 09:39 刘振东真是赤裸、真诚且搞笑。 |
 
 ## Vibe Coding
 
