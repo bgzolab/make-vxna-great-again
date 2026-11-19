@@ -27,9 +27,36 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-11-19 | [The Settlers II updated](https://macsourceports.com/game/settlers2) | The build of Return to the Roots for The Settlers II has been updated to the latest code of the project |
+| 2026-11-19 | [Duke Nukem 3D updated](https://macsourceports.com/game/duke3d) | The build of EDuke32 for Duke Nukem 3D has been updated to the latest code of the project |
+| 2026-11-19 | [Ion Fury updated](https://macsourceports.com/game/ionfury) | The build of EDuke32 for Ion Fury has been updated to the latest code of the project |
+| 2026-11-19 | [Ion Fury: Aftershock updated](https://macsourceports.com/game/ionfuryaftershock) | The build of EDuke32 for Ion Fury: Aftershock has been updated to the latest code of the project |
+| 2026-11-19 | [Duke Nukem II updated](https://macsourceports.com/game/duke2) | The build of RigelEngine for Duke Nukem II has been updated to the latest code of the project |
+| 2026-11-19 | [BRAZILIAN DRUG DEALER 3: I OPENED A PORTAL TO HELL IN THE FAVELA TRYING TO REVIVE MIT AIA I NEED TO CLOSE IT updated](https://macsourceports.com/game/bdd3) | The build of BRAZILIAN DRUG DEALER 3 for BRAZILIAN DRUG DEALER 3: I OPENED A PORTAL TO HELL IN THE FAVELA TRYING TO REVIVE MIT AIA I NEED TO CLOSE IT… |
+| 2026-11-19 | [BRAZILIAN DRUG DEALER BEFORE 4 updated](https://macsourceports.com/game/bddb4) | The build of BRAZILIAN DRUG DEALER BEFORE 4 has been updated to the latest code of the project |
+| 2026-11-19 | [FLESHCANCER updated](https://macsourceports.com/game/fleshcancer) | The build of FLESHCANCER has been updated to the latest code of the project |
+| 2026-11-19 | [Return to Castle Wolfenstein updated](https://macsourceports.com/game/rtcw) | The build of iortcw (single player) for Return to Castle Wolfenstein has been updated to the latest code of the project |
+| 2026-11-19 | [Good Robot updated](https://macsourceports.com/game/goodrobot) | The build of Good Robot has been updated to the latest code of the project |
+| 2026-11-19 | [Arcanum: Of Steamworks and Magick Obscura updated](https://macsourceports.com/game/arcanum) | The build of Arcanum Community Edition for Arcanum: Of Steamworks and Magick Obscura has been updated to the latest code of the project |
+| 2026-11-19 | [Abuse updated](https://macsourceports.com/game/abuse) | The build of Abuse 1996 for Abuse has been updated to the latest code of the project |
+| 2026-11-19 | [Disasteroids 3D updated](https://macsourceports.com/game/disasteroids3d) | The build of Disasteroids 3D has been updated to the latest code of the project |
+| 2026-11-19 | [WRATH: Aeon of Ruin updated](https://macsourceports.com/game/wrath) | The build of wrathplaces for WRATH: Aeon of Ruin has been updated to the latest code of the project |
+| 2026-11-19 | [Star Control II: The Ur-Quan Masters updated](https://macsourceports.com/game/sc2) | The build of The Ur-Quan Masters for Star Control II: The Ur-Quan Masters has been updated to the latest code of the project |
+| 2026-11-19 | [Another World updated](https://macsourceports.com/game/anotherworld) | The build of rawgl for Another World has been updated to the latest code of the project |
+| 2026-11-19 | [Mad Bomber updated](https://macsourceports.com/game/madbomber) | The build of Mad Bomber has been updated to the latest code of the project |
+| 2026-11-19 | [Circus Linux! updated](https://macsourceports.com/game/circuslinux) | The build of Circus Linux! has been updated to the latest code of the project |
+| 2026-11-19 | [Bug Squish updated](https://macsourceports.com/game/bugsquish) | The build of Bug Squish has been updated to the latest code of the project |
+| 2026-11-19 | [Gem Drop X updated](https://macsourceports.com/game/gemdropx) | The build of Gem Drop X has been updated to the latest code of the project |
+| 2026-11-19 | [重新将主力开发工具切换回 Neovim](https://haoluobo.com/2026/11/back-to-neovim/) | 最近出爆出 JetBrains 出现亏损的新闻。AI 时代，已经很少有人手搓代码代码了，更多的时间都花在设计和 […] |
+| 2026-11-19 | [Price Action 进阶：如何用 H1/H2 与 L1/L2 的「失败」，提前看穿趋势与震荡切换](https://blog.forecho.com/price-action-h1-h2-l1-l2-failure.html) | 引言 在刚接触 Al Brooks 的价格行为学（Price Action）时，绝大多数交易者最先上手的入场工具就是 数K线（Bar Counting） ——多头回调找 H1 / H2 挂单做多，空头反弹找 L1 / L2 挂单做空。 但实盘中经常遇到这种让人极其难受的场面： 你在一个看似不错的上涨… |
+| 2026-11-19 | [别变成老年人上网](https://www.hecaitou.com/2026/11/elderly-internet-mode.html) | 昨天我在文章里提了一句自己在用加湿机，留言区立即出现了好几条警告：「小心得肺炎！」让我顿时有了一种恍惚身在家族群的感觉，不得不确认了好几次，不，不是的，这是我的文章留言区。 为什么会有那么多读者把加湿机和肺炎紧密联系在一起？这背后有什么不可告人的秘密？是商业竞争的阴谋还是临床医学的怒吼？ 今天让我们… |
+| 2026-11-19 | [New Release: Skin Deep](https://macsourceports.com/game/skindeep) | Skin Deep is the latest game from Blendo Games and its founder/auteur Brendon Chung with a distinct visual style and a nonsensical title. You play as… |
+| 2026-11-19 | [Maelstrom updated](https://macsourceports.com/game/maelstrom) | The build of Maelstrom has been updated to version 4.0.2 of the project |
+| 2026-11-19 | [记假帐](https://blog.solazy.me/20261119/) | 今天聊个有意思的话题 |
 | 2026-11-19 | [理中客之死 I](https://mobius.blog/26210.html) | 前两天参与了一场互联网骂战，讨论的话题是iOS即将更新的“国行AI”，将在中国境内搭载当地公司提供的安全机制。 […] |
 | 2026-11-19 | [找到你所擅长的运动](https://depp.wang/2026/find-your-sport/) | 现在很多人的工作都不需要做什么体力劳动，像我做软件开发，大部分时间就是坐在电脑前。工作本身很少有活动身体的机会，想让身体得到锻炼，就得另外花时间运动。 但知道应该运动，跟愿意经常去运动，还是两回事。我从小就算比较喜欢运动，现在主要打羽毛球，之前打得更多的却是篮球。这两项运动，我都喜欢，打完以后的感受… |
 | 2026-11-19 | [Memos #2026-11-18](https://blog.itaober.com/memos/memo_20261118105516_b5rn19) | 19:00 听多了愈发觉得刘振东是个善良乐观的人，碰到这么多糟糕的事，活的真不容易。 |
+| 2026-11-19 | [零知识图像来源认证综述](https://wcowin.work/blog/Cryptography/zk-image-provenance/) | 零知识图像来源认证综述 一张经过裁剪、调亮或 JPEG 压缩的照片，还能否证明它源自一台可信设备签名的原图，而且只做过被允许的处理？零知识图像来源认证尝试在不公开原图、被裁掉区域和编辑历史的前提下回答这个问题。本文梳理 PhotoProof（2016）及 2022–2026 年的代表系统，比较它们各… |
 | 2026-11-19 | [F20H 系列：《赛博朋克 2077》](https://bluepika.life/blog/f20h-cyberpunk-2077) | 特意选在 GTA 6 发售前写这一篇文章，为的是顺便聊聊吸引我的开放世界这个话题。 还是先来说说《赛博朋克 2077》吧，我本来打算在 Switch 2 上面游玩，没想到家庭组里的朋友在看完动画第一季后直接在 Steam 上购入了全套，我就干脆在 Steam Deck 上面玩了。 我已经有一阵子没有… |
 | 2026-11-18 | [谷歌又来新模型了，这次是中杯的 neon](https://versun.me/blog/tweet-2123179784142495885) | Google DeepMind Gemini 4 Neon is rolling out now. Sitting between Carbon and Hydrogen, it brings frontier intelligence and fast task completion for co… |
 | 2026-11-18 | [最让我觉得「应该发生在上海」的偶遇](https://www.owenyoung.com/chance-encounter) | 今天发生的偶遇，是我来上海之后最让我觉得「应该在上海发生」的事。 |
