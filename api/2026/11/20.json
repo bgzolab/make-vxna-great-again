@@ -1,5 +1,19 @@
 [
   {
+    "title": "AI Infra：Intelligence Runtime 的定义与创新边界",
+    "url": "https://luweiqing.com/gossip/AI-Infra-Intelligence-Runtime.html",
+    "date": "2026-11-20T14:10:55Z",
+    "description": "过去几年，Agent Runtime 让智能体从演示走向工程。它解决了许多具体问题：模型怎么调、上下文怎么带、工具怎么接、状态怎么存、失败怎么恢复。可当这些能力被逐一补齐，一个新的问题浮出水面：...",
+    "source_root_domain": "luweiqing.com"
+  },
+  {
+    "title": "Keeping SSH Keys Secure",
+    "url": "https://www.geedea.pro/en/article/key-management/",
+    "date": "2026-11-20T13:29:16Z",
+    "description": "SSH keys are very widely used, for signing git commits, signing software distribution, authenticating with a remote server and age also supports encrypting files using SSH key pairs. It seems that SSH keys are the new PGP , only without the infamous web of trust and other stuff. Security vulnerabilities are crazy these days. We have gaining root access with any password on musl linux , remote code execution hole on almost every server running PHP , Ubuntu not patching CVE-2026-98432 for more tha",
+    "source_root_domain": "geedea.pro"
+  },
+  {
     "title": "Duke Nukem 3D updated",
     "url": "https://macsourceports.com/game/duke3d",
     "date": "2026-11-20T09:04:11Z",
@@ -243,6 +257,13 @@
     "date": "2026-11-19T16:39:49Z",
     "description": "以下教程设备为电脑💻，手机端使用油猴脚本的方法，我后面更新一下—— 往期教程：如何在手机上使用浏览器插件、油猴脚本？ 写在开头：油猴脚本能干啥？ 破解主流观影网站爱奇艺、腾讯视频、优酷等平台的付费或vip视频； 大学生刷网课，超星、学习通等（网上代刷网课都是用的油猴脚本）； 阿里云盘配合油猴脚本使用，可以在网页端免保存突破2分钟播放限制； 倍速播放视频… … … 一、油猴脚本使用教程（往期会议） 【飞书会议🔥🔥🔥】如何使用油猴脚本2倍提升工作效率？-2022-10-12： xzr8jwvyyu.feishu.cn/minutes/obcnx682167e49bh68bhj87b Tam...",
     "source_root_domain": "brmys.cn"
+  },
+  {
+    "title": "AI 早报 2026-11-20：DeepSeek 第二轮融资落定：约 1055 亿元、估值 6155 亿元，31 家出资方现身",
+    "url": "https://www.jtxyh.com/daily/2026-11-20/",
+    "date": "2026-11-19T16:00:00Z",
+    "description": "2026-11-20 AI 早报，共 20 条动态。11 月 19 日至 20 日，DeepSeek 运营主体杭州深度求索完成工商变更，新增持股平台杭州程砚，注册资本增至 1991.87 万元，增幅约 21.1%。The Information 11 月 19 日报道，英伟达正就收购扩散式大模型初创公司…",
+    "source_root_domain": "jtxyh.com"
   },
   {
     "title": "Hack AC以后，AI终于跑赢了真人记录",
