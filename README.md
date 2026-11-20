@@ -27,6 +27,16 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-11-20 | [Duke Nukem 3D updated](https://macsourceports.com/game/duke3d) | The build of EDuke32 for Duke Nukem 3D has been updated to the latest code of the project |
+| 2026-11-20 | [Ion Fury updated](https://macsourceports.com/game/ionfury) | The build of EDuke32 for Ion Fury has been updated to the latest code of the project |
+| 2026-11-20 | [Ion Fury: Aftershock updated](https://macsourceports.com/game/ionfuryaftershock) | The build of EDuke32 for Ion Fury: Aftershock has been updated to the latest code of the project |
+| 2026-11-20 | [Hexen II updated](https://macsourceports.com/game/hexen2) | The build of uHexen2 (Hammer of Thyrion) for Hexen II has been updated to the latest code of the project |
+| 2026-11-20 | [Gecko 录屏音画同步测试设计](https://liudon.com/posts/gecko-recording-av-sync/) | 在录屏自动化测试中增加音画同步检查：设计可配对的画面与声音标记，从成品测量偏移与漂移，再通过基线校准冻结阈值并接入自动判定。 |
+| 2026-11-20 | [哈萨克斯坦电子居民：49 美元线上拿 IIN，再开一张多币种卡](https://gugegt.com/20261120-kazakhstan-eresidency-freedom-bank.html) | 这篇是转述。James 在 11 月 20 日发在 X 上的一条帖子，讲哈萨克斯坦 eResidency 电子居民项目怎么线上办。全文我按自己的话重新写过，步骤、费用、链接一个没少，原文链接在文末。 |
+| 2026-11-20 | [做个好叔叔是容易的](https://www.hecaitou.com/2026/11/being-a-good-uncle-is-easy.html) | 这两年我的新职业是当叔叔，有时候也当舅舅，一切取决于朋友的性别。个人感觉这两份工很容易，同时打都没什么压力。 压力在父母那一边。和任何人朝夕相处都是困难的，更不用说在朝夕相处中要负责教育和管理，这就很容易招致小孩子的反感和愤恨。再有一层，就是父母-子女关系天然就有位阶差异，身处下位的小朋友总是能感到… |
+| 2026-11-20 | [戒烟](https://www.kawabangga.com/posts/7464) | Continue reading... |
+| 2026-11-20 | [Nginx升级1.31.9后sticky指令报错的排查](https://199604.com/3758) | Nginx升级1.31.9后sticky指令报错的排查 记录时间：2026-11-20 环境：主机 nginx […] |
+| 2026-11-20 | [今天你骂 AI 味博客了吗？](https://blog.solazy.me/20261120/) | 今天讨论一个近期热象 |
 | 2026-11-20 | [理中客之死 II](https://mobius.blog/26219.html) | 在开始今天的话题之前，可以先聊一个问题：写作是否应该允许AI参与？这个问题的背后，最应该讨论的是什么？AI参与 […] |
 | 2026-11-20 | [为什么中转站的 API 这么便宜](https://depp.wang/2026/ai-api-relay/) | 有些 AI 中转站提供的 API，价格比官方 API 便宜很多。同样是使用 GPT 模型，中转站的价格为什么能低这么多？我算了一下官方订阅的额度，发现如果能把额度用完，成本确实可以很低。 现在很多 Codex 中转站，都是把官方订阅额度转换成 API 来卖。官 |
 | 2026-11-20 | [AI 给的答案，你敢信吗？](https://www.linggandianbo.com/newsletter-140/) | 从 AI 时代的写作、判断力和自学，到新的知识单位与拉马克｜灵感电波 #140 |
@@ -64,9 +74,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-11-19 | [人类还是太脆弱了，家里3口人一起传染得病](https://versun.me/blog/tweet-2123373287539634319) | 人类还是太脆弱了，家里3口人一起传染得病了，估计是流感，请了一周假，在家带病顾病娃😭😢 |
 | 2026-11-19 | [2009，九宫格里的宝箱](https://www.tortorse.com/archives/treasure-chest-in-the-nine-square-grid-2009/) | 2009，九宫格里的宝箱 |
 | 2026-11-19 | [The Settlers II updated](https://macsourceports.com/game/settlers2) | The build of Return to the Roots for The Settlers II has been updated to the latest code of the project |
-| 2026-11-19 | [Duke Nukem 3D updated](https://macsourceports.com/game/duke3d) | The build of EDuke32 for Duke Nukem 3D has been updated to the latest code of the project |
-| 2026-11-19 | [Ion Fury updated](https://macsourceports.com/game/ionfury) | The build of EDuke32 for Ion Fury has been updated to the latest code of the project |
-| 2026-11-19 | [Ion Fury: Aftershock updated](https://macsourceports.com/game/ionfuryaftershock) | The build of EDuke32 for Ion Fury: Aftershock has been updated to the latest code of the project |
 | 2026-11-19 | [Duke Nukem II updated](https://macsourceports.com/game/duke2) | The build of RigelEngine for Duke Nukem II has been updated to the latest code of the project |
 | 2026-11-19 | [BRAZILIAN DRUG DEALER 3: I OPENED A PORTAL TO HELL IN THE FAVELA TRYING TO REVIVE MIT AIA I NEED TO CLOSE IT updated](https://macsourceports.com/game/bdd3) | The build of BRAZILIAN DRUG DEALER 3 for BRAZILIAN DRUG DEALER 3: I OPENED A PORTAL TO HELL IN THE FAVELA TRYING TO REVIVE MIT AIA I NEED TO CLOSE IT… |
 | 2026-11-19 | [BRAZILIAN DRUG DEALER BEFORE 4 updated](https://macsourceports.com/game/bddb4) | The build of BRAZILIAN DRUG DEALER BEFORE 4 has been updated to the latest code of the project |
