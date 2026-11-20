@@ -27,6 +27,10 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-11-20 | [理中客之死 II](https://mobius.blog/26219.html) | 在开始今天的话题之前，可以先聊一个问题：写作是否应该允许AI参与？这个问题的背后，最应该讨论的是什么？AI参与 […] |
+| 2026-11-20 | [为什么中转站的 API 这么便宜](https://depp.wang/2026/ai-api-relay/) | 有些 AI 中转站提供的 API，价格比官方 API 便宜很多。同样是使用 GPT 模型，中转站的价格为什么能低这么多？我算了一下官方订阅的额度，发现如果能把额度用完，成本确实可以很低。 现在很多 Codex 中转站，都是把官方订阅额度转换成 API 来卖。官 |
+| 2026-11-20 | [AI 给的答案，你敢信吗？](https://www.linggandianbo.com/newsletter-140/) | 从 AI 时代的写作、判断力和自学，到新的知识单位与拉马克｜灵感电波 #140 |
+| 2026-11-20 | [科技爱好者周刊（第 420 期）：最分心的一年](http://www.ruanyifeng.com/blog/2026/11/weekly-issue-420.html) | 这里记录每周值得分享的科技内容，周五发布。 本杂志 开源 ，欢迎 投稿 。另有 《谁在招人》 服务，发布程序员招聘信息。合作请 邮件联系 （yifeng.ruan@gmail.com）。 封面图 新建成的上海道教学院，由清华大学建筑设计研究院设计。（ via ） 最分心的一年 法国开发者 亚历杭德罗… |
 | 2026-11-19 | [学习周刊-总第290期-2026年第47周](https://wiki.eryajf.net/pages/163de5/) | 如要阅读全文，点击标题跳转。 学习周刊-总第290期 &#124; cindy &#124; BokeBox &#124; tura &#124; kiri &#124; usage &#124; AgentSwitchboard &#124; file-viewer &#124; LaTeXSnipper &#124; Chaty |
 | 2026-11-19 | [洞察人性（2026.11.19）](https://blog.brmys.cn/human-nature) | 关联主题:: 同级:: 2026-11-19_星期四 下一级:: 一、书籍 《人性的弱点》 二、碎片知识 2.1 防止人性被操控 2.2 如何利用人性 2.3 如何试探男朋友的家底？ 随便写几条，男女均适用： 1、看他家的家庭住址：假期的时候给他父母买个礼物，让他把家庭住址给你，去链家查询一下该小区… |
 | 2026-11-19 | [如何防止被操控？](https://blog.brmys.cn/f-109) | 关联主题:: 同级:: 2026-11-19_星期四 下一级:: . |
@@ -51,10 +55,13 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-11-19 | [Hack AC以后，AI终于跑赢了真人记录](https://elmagnifico.tech/2026/11/20/AC-AI-Drive-Hack/) | Foreword AI在手，天下我有。既然上一章已经遇到了AC的黑盒、CSP的黑盒，那就直接逆向他们，拿到实际的物理解算的核心逻辑。尽可能不依赖游戏本身，直接用得到的计算逻辑进行模拟测试，最后用游戏本身去做一次验证即可。 无论他有多么黑盒，终归是游戏，是有规矩可循的，那么就一定能算出来一个最优解。当… |
 | 2026-11-19 | [Hi，咪咪，三年了](https://veryjack.com/life/mimi-three-years/) |  |
 | 2026-11-19 | [New Release: Skin Deep](https://macsourceports.com/game/skindeep) | Skin Deep is the latest game from Blendo Games and its founder/auteur Brendon Chung with a distinct visual style and a nonsensical title. You play as… |
+| 2026-11-19 | [文本的审美，一次车祸](https://zhangke.space/%e6%96%87%e6%9c%ac%e7%9a%84%e5%ae%a1%e7%be%8e%ef%bc%8c%e4%b8%80%e6%ac%a1%e8%bd%a6%e7%a5%b8/?utm_source=rss&utm_medium=rss&utm_campaign=%25e6%2596%2587%25e6%259c%25ac%25e7%259a%2584%25e5%25ae%25a1%25e7%25be%258e%25ef%25bc%258c%25e4%25b8%2580%25e6%25ac%25a1%25e8%25bd%25a6%25e7%25a5%25b8) | 自从生成式人工智能出现之后，“审美”这个词真是用得越来越多了，虽然我也想尽可能避免使用这个词但想不到更合适的标 […] |
+| 2026-11-19 | [一生病就容易emo。。。啥也不想干 想起](https://versun.me/blog/tweet-2123404634786087213) | 一生病就容易emo。。。啥也不想干 想起来 AI 出现之前，还是挺喜欢学习的，因为要做一个东西很难，什么都得学，什么都得懂一点 而现在有了 AI 以后，已经很少学习了，因为做一个东西很简单，不用啥都学啥都懂，所以也是很佩服 @antiAIvo 几乎每天都在主动学习 |
 | 2026-11-19 | [Serving Static Websites on OpenBSD, for dummies](https://www.geedea.pro/en/article/web-server-openbsd/) | Though it’s a choice, it’s not necessary to install something like nginx to host a website on OpenBSD. You can do that with a few tools that already c… |
 | 2026-11-19 | [从果蝇到 Intelligence Runtime](https://luweiqing.com/gossip/Intelligence-Runtime.html) | 从生物智能的计算效率，到下一代 AI 智能运行基础设施一、一个观察：果蝇的大脑为什么如此厉害？果蝇的大脑只有约10万至14万个神经元，却能够完成飞行、避障、目标追踪、环境适应等复杂任务。飞行本身... |
 | 2026-11-19 | [Total Annihilation updated](https://macsourceports.com/game/totalannihilation) | The build of Open Annihilation for Total Annihilation has been updated to version v0.9.2 of the project |
 | 2026-11-19 | [No One Lives Forever 2: A Spy in H.A.R.M.'s Way updated](https://macsourceports.com/game/nolf2) | The build of NOLF2 for Mac for No One Lives Forever 2: A Spy in H.A.R.M.'s Way has been updated to version 0.6.1 of the project |
+| 2026-11-19 | [人类还是太脆弱了，家里3口人一起传染得病](https://versun.me/blog/tweet-2123373287539634319) | 人类还是太脆弱了，家里3口人一起传染得病了，估计是流感，请了一周假，在家带病顾病娃😭😢 |
 | 2026-11-19 | [2009，九宫格里的宝箱](https://www.tortorse.com/archives/treasure-chest-in-the-nine-square-grid-2009/) | 2009，九宫格里的宝箱 |
 | 2026-11-19 | [The Settlers II updated](https://macsourceports.com/game/settlers2) | The build of Return to the Roots for The Settlers II has been updated to the latest code of the project |
 | 2026-11-19 | [Duke Nukem 3D updated](https://macsourceports.com/game/duke3d) | The build of EDuke32 for Duke Nukem 3D has been updated to the latest code of the project |
@@ -79,8 +86,10 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-11-19 | [重新将主力开发工具切换回 Neovim](https://haoluobo.com/2026/11/back-to-neovim/) | 最近出爆出 JetBrains 出现亏损的新闻。AI 时代，已经很少有人手搓代码代码了，更多的时间都花在设计和 […] |
 | 2026-11-19 | [Price Action 进阶：如何用 H1/H2 与 L1/L2 的「失败」，提前看穿趋势与震荡切换](https://blog.forecho.com/price-action-h1-h2-l1-l2-failure.html) | 引言 在刚接触 Al Brooks 的价格行为学（Price Action）时，绝大多数交易者最先上手的入场工具就是 数K线（Bar Counting） ——多头回调找 H1 / H2 挂单做多，空头反弹找 L1 / L2 挂单做空。 但实盘中经常遇到这种让人极其难受的场面： 你在一个看似不错的上涨… |
 | 2026-11-19 | [别变成老年人上网](https://www.hecaitou.com/2026/11/elderly-internet-mode.html) | 昨天我在文章里提了一句自己在用加湿机，留言区立即出现了好几条警告：「小心得肺炎！」让我顿时有了一种恍惚身在家族群的感觉，不得不确认了好几次，不，不是的，这是我的文章留言区。 为什么会有那么多读者把加湿机和肺炎紧密联系在一起？这背后有什么不可告人的秘密？是商业竞争的阴谋还是临床医学的怒吼？ 今天让我们… |
+| 2026-11-19 | [早上用了neon写代码，非常润，好用，说](https://versun.me/blog/tweet-2123258873121583288) | Google DeepMind Gemini 4 Neon is rolling out now. Sitting between Carbon and Hydrogen, it brings frontier intelligence and fast task completion for co… |
 | 2026-11-19 | [Maelstrom updated](https://macsourceports.com/game/maelstrom) | The build of Maelstrom has been updated to version 4.0.2 of the project |
 | 2026-11-19 | [记假帐](https://blog.solazy.me/20261119/) | 今天聊个有意思的话题 |
+| 2026-11-19 | [想不到一个多月前无心参与的一个 Gemi](https://versun.me/blog/tweet-2123234133099127295) | 想不到一个多月前无心参与的一个 Gemini 活动，竟然有福报了，送了 3 个月的 Pro😂 |
 | 2026-11-19 | [理中客之死 I](https://mobius.blog/26210.html) | 前两天参与了一场互联网骂战，讨论的话题是iOS即将更新的“国行AI”，将在中国境内搭载当地公司提供的安全机制。 […] |
 | 2026-11-19 | [找到你所擅长的运动](https://depp.wang/2026/find-your-sport/) | 现在很多人的工作都不需要做什么体力劳动，像我做软件开发，大部分时间就是坐在电脑前。工作本身很少有活动身体的机会，想让身体得到锻炼，就得另外花时间运动。 但知道应该运动，跟愿意经常去运动，还是两回事。我从小就算比较喜欢运动，现在主要打羽毛球，之前打得更多的却是篮球。这两项运动，我都喜欢，打完以后的感受… |
 | 2026-11-19 | [Memos #2026-11-18](https://blog.itaober.com/memos/memo_20261118105516_b5rn19) | 19:00 听多了愈发觉得刘振东是个善良乐观的人，碰到这么多糟糕的事，活的真不容易。 |
@@ -242,27 +251,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-11-13 | [经济下行期的双十一名存实亡](https://krya.com/post/double11-2026/) | 昨天我坐下沙发的时候，突然胸口一紧，感觉什么东西收缩了一下，过程持续很短，大约三秒钟左右消散，无任何疼痛。 我怀疑可能和心脏有关。今天去医院检查血脂和心电图。看到报告单上写今天是11号——居然忘了今天是双十一。我和朋友分享此事，问他今天数据如何，他说，平凡一天。 双十一的存在感为何越来越低？从消费者… |
 | 2026-11-13 | [科技爱好者周刊（第 419 期）：机房来了，写字楼走了](http://www.ruanyifeng.com/blog/2026/11/weekly-issue-419.html) | 这里记录每周值得分享的科技内容，周五发布。 本杂志 开源 ，欢迎 投稿 。另有 《谁在招人》 服务，发布程序员招聘信息。合作请 邮件联系 （yifeng.ruan@gmail.com）。 封面图 成都麓湖生态城的 Q8 步行桥，采用双曲线造型，在机动车桥的下方穿过，盘旋处形成一个湖心岛。（ via… |
 | 2026-11-13 | [石墙](https://fft.im/posts/20261113_%E7%9F%B3%E5%A2%99/) | 时间 时间做鸟兽散去 它们从屋顶上溜走 从田野上溜走 从我摊开的掌心里溜走 翅膀扇起的风 一枚一枚，吹落瓦片 它们也不道歉 只是把散开的幕布 再唱回来 歌声从墙缝里挤出来 从水管里挤出来 从每一扇没关紧的窗里挤出来 明天从牙膏里挤出来 石墙 石墙立着，不说话 它把村子 和田野分开 也把风，剖成两堂… |
-| 2026-11-12 | [学习周刊-总第289期-2026年第46周](https://wiki.eryajf.net/pages/513f3b/) | 如要阅读全文，点击标题跳转。 学习周刊-总第289期 &#124; atrium &#124; app-monitor &#124; Knopo &#124; Pulse &#124; freebuddy &#124; MirrorProxy &#124; navop &#124; openship |
-| 2026-11-12 | [gemini 4 flash 出来了！比](https://versun.me/blog/tweet-2121004494159036480) | Logan Kilpatrick Introducing Gemini 4 Hydrogen, an extremely capable and fast model built to bring Gemini 4 to everyone! Available to all tiers of Goo… |
-| 2026-11-12 | [英伟达是真把皮衣裁了呀！ 毋庸置疑，这将](https://versun.me/blog/tweet-2121003491531665415) | NVIDIA Newsroom NVIDIA announces CEO transition. Read the release: https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition 英伟达是真把皮衣裁了呀！ 毋庸置… |
-| 2026-11-12 | [llm-d SLO延迟预测路由一些研究](https://eduardoqian.com/archives/llm-d-sloyan-chi-yu-ce-lu-you) | 前段时间对于LLM inference的SLO部分设计做了一些研究，又看了一下llm-d的这里，发现他们对SLO延迟预测也一些研究成果，这里就总结一下。 概览 Predicted Latency-Based Routing，SLO-aware 是其中一种模式。llm-d 的路由组件 EPP（Endp |
-| 2026-11-12 | [从 GitHub 通知学到的邮件体验](https://wxhboy.cn/email-threading/) | 改了几个邮件头，让日报、周报、月报在邮箱里各自聚成一条会话，攒着不看也不会把收件箱刷屏。 |
-| 2026-11-12 | [AI 早报 2026-11-13：腾讯混元发布实时语音模型 Hy Realtime：边聊边查资料，还能唱歌](https://www.jtxyh.com/daily/2026-11-13/) | 2026-11-13 AI 早报，共 22 条动态。腾讯混元 11 月 13 日发布实时语音模型 Hy Realtime，在语音理解、指令遵循和拟人化表达的基础上，新增 Agentic 工具调用与唱歌能力。澳大利亚量子基础设施软件公司Q-CTRL 11月12日宣布完成2.9亿美元（约4.15亿澳元）… |
-| 2026-11-12 | [向云端｜西南自驾14 - 北盘江](https://blog.ops-coffee.com/r/2026-southwest-road-trip-14-beipanjiang.html) |  |
-| 2026-11-12 | [Album#51 - 阁楼的影像 & 家](https://taxodium.ink/album-51.html) | Album#51 阁楼的影像 & 家 图1 阁楼的影像 by handycam 专辑信息 专辑名称： 阁楼的影像 歌手： handycam 年份： 2026-01-20 时长： 約 55 分鐘 图2 家 by handycam 专辑信息 专辑名称： 家 歌手： handycam 年份： 2026-0… |
-| 2026-11-12 | [Daikatana updated](https://macsourceports.com/game/daikatana) | The build of Daikatana 1.3 Project for Daikatana has been updated to version 1.3-20261112 of the project |
-| 2026-11-12 | [我做了两款微信小游戏](https://blog.forecho.com/two-wechat-minigames.html) | 引言 最近开始迷上了休闲游戏，也就动手做微信小游戏。 前几天把第一款做完送审，接着又做了第二款。两款都是单机、走广告变现，用的是个人主体。现在都已经上线了，欢迎大家去试玩，也帮我找找 bug。 怎么做的 第一款《疯狂轮胎》花了 3 天。因为要自己画界面，后面我用 ChatGPT SOL 重构了部分页… |
-| 2026-11-12 | [ollama本地大模型选择关于量化和类型](https://dsx2016.com/choosing-local-llms-in-ollama-considerations-regarding-quantization-and-model-types/) | ollama问题 ollama使用遇到的问题 经过排查，默认搜索栏设置通用模型名称下载，比如qwen3.5:2... ollama本地大模型选择关于量化和类型 最先出现在 大师兄2016 。 |
-| 2026-11-12 | [烤乳猪](https://mobius.blog/26122.html) | 今天来聊点地狱笑话。 最近在狗公园里划分了一个自己的办公区，既能方便陪着小狗玩一整天，又顺便记录一下激素对写作 […] |
-| 2026-11-12 | [AI 的知识诅咒与多 Agent 协作](https://1q43.blog/post/12629/) | 内耗是创作的必经之路，对 AI 也是。 |
-| 2026-11-12 | [坚硬的西瓜](https://www.hecaitou.com/2026/11/The-Hard-Watermelon.html) | 这两天我在网上无论去到哪里，都会遇见黄仁勋的段子和 AI 视频。按术语来讲，老黄这是「花案」，花案总是能引起最多人围观。而且，讨论花案门槛很低，不像是讨论显卡性能和大模型论文要求那么高。 一开始老黄看起来没受太多影响，市场开始修复，董事会表示依然信任，部分重要投资人也出面声援，股价在连续下跌后出现了… |
-| 2026-11-12 | [ollama结合open webui和api使用方式](https://dsx2016.com/how-to-use-ollama-in-combination-with-open-webui-and-the-api/) | open webui 接上一篇文章，使用ollama客户端遇到无法关闭qwen3.5:2b的思考模式，这不是我... ollama结合open webui和api使用方式 最先出现在 大师兄2016 。 |
-| 2026-11-12 | [muse注册-无需绑卡即可注册](https://www.cheshirex.com/11674.html) | Meta的muse ai我看挺多人注册的，前面尝试了直接用梯子注册会提示muse尚未在你的国家或地区开放，让加 […] |
-| 2026-11-12 | [那些靠人命堆出来的奇观](https://blog.solazy.me/20261112/) | 今天应该又是一篇暴论，又是一篇可能会迎来骂声的文章 |
-| 2026-11-12 | [Quake 4 updated](https://macsourceports.com/game/quake4) | The build of openQ4 for Quake 4 has been updated to version v0.14.1 of the project |
-| 2026-11-12 | [ollama使用qwen3.5:2b测试文字转md](https://dsx2016.com/testing-text-to-markdown-conversion-using-qwen3-52b-via-ollama/) | ollama本地大模型选型 优选1b左右的，来测试小任务 本文的要求是快，最好是100token/s及以上（因... ollama使用qwen3.5:2b测试文字转md 最先出现在 大师兄2016 。 |
-| 2026-11-12 | [从买鸡蛋到买菜，我对条马的一些观察](https://depp.wang/2026/tiaoma/) | 我平时买菜，更多还是去小区附近专门卖菜的蔬菜店。但条马也是我会去的一个地方，最开始主要去买鸡蛋，后来买雪糕、零食，现在又会买一些蔬菜、水果和肉。买的东西慢慢变多了，我觉得这也能看出条马这种超市为什么能在小区附近做起来。 最开始去条马买鸡蛋，是因为价格比较便宜，看着也比较干净卫生。鸡蛋是平时经常要买的… |
-| 2026-11-12 | [Memos #2026-11-11](https://blog.itaober.com/memos/memo_20261111125414_735bj9) | 20:58 听得体真是不需要思考，定好的主题只是起个开头作用，后续内容来来回回还是那些。 本期最佳梗：贤哥，我算是你表弟吗？ |
 
 ## Vibe Coding
 

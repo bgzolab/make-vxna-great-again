@@ -1,0 +1,674 @@
+[
+  {
+    "title": "理中客之死 II",
+    "url": "https://mobius.blog/26219.html",
+    "date": "2026-11-20T01:30:00Z",
+    "description": "在开始今天的话题之前，可以先聊一个问题：写作是否应该允许AI参与？这个问题的背后，最应该讨论的是什么？AI参与 […]",
+    "source_root_domain": "mobius.blog"
+  },
+  {
+    "title": "为什么中转站的 API 这么便宜",
+    "url": "https://depp.wang/2026/ai-api-relay/",
+    "date": "2026-11-20T01:13:50Z",
+    "description": "有些 AI 中转站提供的 API，价格比官方 API 便宜很多。同样是使用 GPT 模型，中转站的价格为什么能低这么多？我算了一下官方订阅的额度，发现如果能把额度用完，成本确实可以很低。 现在很多 Codex 中转站，都是把官方订阅额度转换成 API 来卖。官",
+    "source_root_domain": "depp.wang"
+  },
+  {
+    "title": "AI 给的答案，你敢信吗？",
+    "url": "https://www.linggandianbo.com/newsletter-140/",
+    "date": "2026-11-20T01:00:00Z",
+    "description": "从 AI 时代的写作、判断力和自学，到新的知识单位与拉马克｜灵感电波 #140",
+    "source_root_domain": "linggandianbo.com"
+  },
+  {
+    "title": "科技爱好者周刊（第 420 期）：最分心的一年",
+    "url": "http://www.ruanyifeng.com/blog/2026/11/weekly-issue-420.html",
+    "date": "2026-11-20T00:07:30Z",
+    "description": "这里记录每周值得分享的科技内容，周五发布。 本杂志 开源 ，欢迎 投稿 。另有 《谁在招人》 服务，发布程序员招聘信息。合作请 邮件联系 （yifeng.ruan@gmail.com）。 封面图 新建成的上海道教学院，由清华大学建筑设计研究院设计。（ via ） 最分心的一年 法国开发者 亚历杭德罗·奥 （Alejandro AO），是世界最大的大模型社区 Hugging Face 的布道师。 他做了很多视频，向初学者科普 AI 知识，都放在他的 Youtube 频道 。 他的内容以实操为主，也会涉及一些原理，容易看懂。我很推荐，我的很多 AI 知识就来自这里。 本周，他发布了一篇 年度回顾 ，总结自己在 Hugging Face 的这一年。 引起我共鸣的下面这段话。 他说，2026年是他最分心的一年。\"今年几乎不可能专注于一件事。 同时进行多个项目，比以往任何时候都更容易 。大多数时候，我手下有四到十个 Agent 同时推进三四个不同的项目。\" 大家有没有同感？ AI 让你可以同时做几件事，越来越难专注于某一件事。 \"我每天消耗数百万 Token，尽力做好不同的项目。即使如此，仍然有",
+    "source_root_domain": "feedburner.com"
+  },
+  {
+    "title": "学习周刊-总第290期-2026年第47周",
+    "url": "https://wiki.eryajf.net/pages/163de5/",
+    "date": "2026-11-19T22:37:19Z",
+    "description": "如要阅读全文，点击标题跳转。 学习周刊-总第290期 | cindy | BokeBox | tura | kiri | usage | AgentSwitchboard | file-viewer | LaTeXSnipper | Chaty",
+    "source_root_domain": "eryajf.net"
+  },
+  {
+    "title": "洞察人性（2026.11.19）",
+    "url": "https://blog.brmys.cn/human-nature",
+    "date": "2026-11-19T21:50:00Z",
+    "description": "关联主题:: 同级:: 2026-11-19_星期四 下一级:: 一、书籍 《人性的弱点》 二、碎片知识 2.1 防止人性被操控 2.2 如何利用人性 2.3 如何试探男朋友的家底？ 随便写几条，男女均适用： 1、看他家的家庭住址：假期的时候给他父母买个礼物，让他把家庭住址给你，去链家查询一下该小区二手房成交价格，并对比全市均价。 2、看他家装修风格和布局：暴发户喜欢富丽堂皇的欧式，儒商喜欢新中式，知识分子阶层喜欢现代简约轻奢，同时会有一个独立的书房，平民阶层由于户型小喜欢有更多的收纳空间。 3、看大学专业是文还是理：闲聊中可以聊聊读书的事，从侧面知道他上的什么学校，读的什么专业。 如果是社科...",
+    "source_root_domain": "brmys.cn"
+  },
+  {
+    "title": "如何防止被操控？",
+    "url": "https://blog.brmys.cn/f-109",
+    "date": "2026-11-19T21:34:00Z",
+    "description": "关联主题:: 同级:: 2026-11-19_星期四 下一级:: .",
+    "source_root_domain": "brmys.cn"
+  },
+  {
+    "title": "《关键时刻行动手册》01 遇到困境怎么办？",
+    "url": "https://blog.brmys.cn/4-Archives/%E8%AF%AD%E9%9B%80%E7%9F%A5%E8%AF%86%E5%BA%93-2025.08.22/%E8%8B%8F%E8%8B%8F%E7%9A%84%E8%BE%93%E5%87%BA%E3%80%90Output%E3%80%91/002-%E8%AF%BE%E7%A8%8B%E7%AC%94%E8%AE%B0/002-%E5%90%B4%E5%86%9B%E6%9D%A5%E4%BF%A12/%E3%80%8A%E5%85%B3%E9%94%AE%E6%97%B6%E5%88%BB%E8%A1%8C%E5%8A%A8%E6%89%8B%E5%86%8C%E3%80%8B01-%E9%81%87%E5%88%B0%E5%9B%B0%E5%A2%83%E6%80%8E%E4%B9%88%E5%8A%9E%EF%BC%9F",
+    "date": "2026-11-19T16:39:49Z",
+    "description": "01 遇到困境怎么办？.mp3 01 遇到困境怎么办？.pdf 笔记： 遇到困境时的三个错误做法： 1、第⼀种是赌徒⼼理： 当⼀个⼈开始以赌徒⼼理追求⽬标时，也会吸引来那些利⽤他的⼼理压⼒、迎合他的需要，趁机赚便宜的⼈。 2、第⼆种错误的做法是在成败还没有完全确定时，⼀看苗头不对，马上改变策略。 今天有⼀个词，叫做“闪”，这个词本来不是贬义词，却成为了很多⼈做事情不愿意往深⾥做的借口。 这类⼈做什么事情遇到⼀点⿇烦就想着换⼀件事情做，这和前⾯那种⼀条道⾛到⿊的做法恰恰相反。 3、第三种错误的做法： 有的⼈遭遇失败之后既不是⼀条道⾛到⿊，也不是⽴刻换⽅向， ⽽是会变得消沉。 有的⼈会因此开始⾃怜...",
+    "source_root_domain": "brmys.cn"
+  },
+  {
+    "title": "《吴军来信2》学习目录",
+    "url": "https://blog.brmys.cn/4-Archives/%E8%AF%AD%E9%9B%80%E7%9F%A5%E8%AF%86%E5%BA%93-2025.08.22/%E8%8B%8F%E8%8B%8F%E7%9A%84%E8%BE%93%E5%87%BA%E3%80%90Output%E3%80%91/002-%E8%AF%BE%E7%A8%8B%E7%AC%94%E8%AE%B0/002-%E5%90%B4%E5%86%9B%E6%9D%A5%E4%BF%A12/%E3%80%8A%E5%90%B4%E5%86%9B%E6%9D%A5%E4%BF%A12%E3%80%8B%E5%AD%A6%E4%B9%A0%E7%9B%AE%E5%BD%95",
+    "date": "2026-11-19T16:39:49Z",
+    "description": "发刊词-用一年时间，重建底层逻辑 《关键时刻行动手册》01 遇到困境怎么办？.",
+    "source_root_domain": "brmys.cn"
+  },
+  {
+    "title": "《小狗钱钱》24年重读——原则篇",
+    "url": "https://blog.brmys.cn/4-Archives/%E8%AF%AD%E9%9B%80%E7%9F%A5%E8%AF%86%E5%BA%93-2025.08.22/%E8%8B%8F%E8%8B%8F%E7%9A%84%E8%BE%93%E5%87%BA%E3%80%90Output%E3%80%91/%E4%B9%A6%E7%B1%8D%E9%98%85%E8%AF%BB/002-%E3%80%8A%E5%B0%8F%E7%8B%97%E9%92%B1%E9%92%B1%E3%80%8B/%E3%80%8A%E5%B0%8F%E7%8B%97%E9%92%B1%E9%92%B1%E3%80%8B24%E5%B9%B4%E9%87%8D%E8%AF%BB%E2%80%94%E2%80%94%E5%8E%9F%E5%88%99%E7%AF%87",
+    "date": "2026-11-19T16:39:49Z",
+    "description": "《小狗钱钱》24年重读——原则篇 读书笔记原则篇苏苏笔记 原来是用来实时对标，提醒自己的。 1、当你想要什么的时候，请清晰的说清楚，给宇宙下订单的前提是，说清楚时间、地点、人物、物品名称，不然东西是寄不到的。 2、真正付诸实践要比纯粹的思考有用多了，不需要完全搞懂再行动。 3、没有试试看这一说，只有两个选择——做或者不做。 4、把精力投入到自己喜欢的事情上面。 5、当你想要某个东西的时候，必须设想自己已经拥有了这些东西，这样你的小愿望才会变成一种强烈的渴望。 6、你是否能挣到钱，最关键的并不是你有没有好点子，也不是你有多聪明，而是你的自信程度。 7、不断思考我能为别人解决什么难题？并把注意力放...",
+    "source_root_domain": "brmys.cn"
+  },
+  {
+    "title": "《小狗钱钱》24年重读——行动篇",
+    "url": "https://blog.brmys.cn/4-Archives/%E8%AF%AD%E9%9B%80%E7%9F%A5%E8%AF%86%E5%BA%93-2025.08.22/%E8%8B%8F%E8%8B%8F%E7%9A%84%E8%BE%93%E5%87%BA%E3%80%90Output%E3%80%91/%E4%B9%A6%E7%B1%8D%E9%98%85%E8%AF%BB/002-%E3%80%8A%E5%B0%8F%E7%8B%97%E9%92%B1%E9%92%B1%E3%80%8B/%E3%80%8A%E5%B0%8F%E7%8B%97%E9%92%B1%E9%92%B1%E3%80%8B24%E5%B9%B4%E9%87%8D%E8%AF%BB%E2%80%94%E2%80%94%E8%A1%8C%E5%8A%A8%E7%AF%87",
+    "date": "2026-11-19T16:39:49Z",
+    "description": "《小狗钱钱》24年重读——行动篇 读书笔记行动篇苏苏笔记 1、想出10个你想变得富有的原因。 2、做好3件事，轻易改变自己的想法。 1）用Notion建立梦想清单相册； 收集与自己愿望有关的照片，通过照片来思考梦想。 2）每天看几遍相册，想象梦想实现的画面； 3）“你可以做的第三件事就是准备一个梦想储蓄罐。”为自己的每一个梦想各准备一个储蓄罐。一旦储蓄罐准备好，你就应当把省下的每一分钱放进去。” 3、如何获得自信？写《成功日记》。 001 准备一个专门的本子（和复盘分开），取名《成功日记》； 002 把所有做成功的事情记录进去； 003 每天都做这件事，每次都至少写5条个人成果，任何小事都可以...",
+    "source_root_domain": "brmys.cn"
+  },
+  {
+    "title": "《小狗钱钱》24年重读——认知篇",
+    "url": "https://blog.brmys.cn/4-Archives/%E8%AF%AD%E9%9B%80%E7%9F%A5%E8%AF%86%E5%BA%93-2025.08.22/%E8%8B%8F%E8%8B%8F%E7%9A%84%E8%BE%93%E5%87%BA%E3%80%90Output%E3%80%91/%E4%B9%A6%E7%B1%8D%E9%98%85%E8%AF%BB/002-%E3%80%8A%E5%B0%8F%E7%8B%97%E9%92%B1%E9%92%B1%E3%80%8B/%E3%80%8A%E5%B0%8F%E7%8B%97%E9%92%B1%E9%92%B1%E3%80%8B24%E5%B9%B4%E9%87%8D%E8%AF%BB%E2%80%94%E2%80%94%E8%AE%A4%E7%9F%A5%E7%AF%87",
+    "date": "2026-11-19T16:39:49Z",
+    "description": "《小狗钱钱》24年重读——认知篇 读书笔记认知篇苏苏笔记 1、所有的原则自古有之。 2、财富应该是某种思想观点、某种以富裕为导向的信仰的产品。 3、“并非困难使我们放弃，而是因为我们放弃，才显得如此困难。” 4、钱不是人一生中最重要的东西。可是假如我们缺钱的话，钱就会变得格外重要。 5、“大多数人并不清楚自己想要的是什么，他们只知道，自己想得到更多的东西。你可以把自己的生活想象成一家很大的邮购公司。如果你给一家邮购公司写信说‘请给我寄一些好东西来’，你肯定什么都得不到。我们的愿望也是一样。我们必须确切地知道自己心里渴望的是什么才行。” 6、想象梦想实现的画面。 “人们把这种行为称作‘视觉化’。...",
+    "source_root_domain": "brmys.cn"
+  },
+  {
+    "title": "《资本论》.excalidraw",
+    "url": "https://blog.brmys.cn/1-Article/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/%E3%80%8A%E8%B5%84%E6%9C%AC%E8%AE%BA%E3%80%8B/%E3%80%8A%E8%B5%84%E6%9C%AC%E8%AE%BA%E3%80%8B.excalidraw",
+    "date": "2026-11-19T16:39:49Z",
+    "description": "⚠ Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document.",
+    "source_root_domain": "brmys.cn"
+  },
+  {
+    "title": "《资本论》概念关系图.excalidraw",
+    "url": "https://blog.brmys.cn/1-Article/%E8%AF%BE%E7%A8%8B%E5%AD%A6%E4%B9%A0/02-%EF%BC%A2%E7%AB%99%E8%A7%86%E9%A2%91/001-%E3%80%90%E5%85%AC%E5%BC%80%E8%AF%BE%E3%80%91-%E5%A4%8D%E6%97%A6%E5%A4%A7%E5%AD%A6%E3%80%8A%E9%87%8D%E8%AF%BB%E8%B5%84%E6%9C%AC%E8%AE%BA%E3%80%8B-%E7%8E%8B%E5%BE%B7%E5%B3%B0/%E3%80%8A%E8%B5%84%E6%9C%AC%E8%AE%BA%E3%80%8B%E6%A6%82%E5%BF%B5%E5%85%B3%E7%B3%BB%E5%9B%BE.excalidraw",
+    "date": "2026-11-19T16:39:49Z",
+    "description": "⚠ Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document.",
+    "source_root_domain": "brmys.cn"
+  },
+  {
+    "title": "【H-001】如何激发员工的行动力？",
+    "url": "https://blog.brmys.cn/4-Archives/%E8%AF%AD%E9%9B%80%E7%9F%A5%E8%AF%86%E5%BA%93-2025.08.22/%E8%8B%8F%E8%8B%8F%E7%9A%84%E8%BE%93%E5%87%BA%E3%80%90Output%E3%80%91/%E6%B4%9E%E5%AF%9F%E4%BA%BA%E6%80%A7/%E3%80%90H-001%E3%80%91%E5%A6%82%E4%BD%95%E6%BF%80%E5%8F%91%E5%91%98%E5%B7%A5%E7%9A%84%E8%A1%8C%E5%8A%A8%E5%8A%9B%EF%BC%9F",
+    "date": "2026-11-19T16:39:49Z",
+    "description": "洞察人性 H-001 （副标题：如何更好的操控对方，让对方心甘情愿的把事做好？） 1、给对方一个可能性A。（画个大饼，让你心动） 比如说，小李下面我准备做一个项目，这个项目很不错，可以全方面提升你的能力，我准备带你做一下。 2、找出真正想让对方做的事情B交代给对方。 A的存在可能是一个锚点，但是A的存在就降低了B的成本。对方就有足够的动力把B做好。 当你渴望A的时候，你就会心甘情愿的做很多B以期望得到这个A。 所以老板很多时候说一些漂亮的话，其实就是在降低员工做B的成本，在这个过程中老板就拥有了主动权。 启发—— 从领导的角度，设置好一个合理的A能够有效的调用员工的积极性，前提是A必须兑现。 ...",
+    "source_root_domain": "brmys.cn"
+  },
+  {
+    "title": "【H-002】如何引导对方做决策？",
+    "url": "https://blog.brmys.cn/4-Archives/%E8%AF%AD%E9%9B%80%E7%9F%A5%E8%AF%86%E5%BA%93-2025.08.22/%E8%8B%8F%E8%8B%8F%E7%9A%84%E8%BE%93%E5%87%BA%E3%80%90Output%E3%80%91/%E6%B4%9E%E5%AF%9F%E4%BA%BA%E6%80%A7/%E3%80%90H-002%E3%80%91%E5%A6%82%E4%BD%95%E5%BC%95%E5%AF%BC%E5%AF%B9%E6%96%B9%E5%81%9A%E5%86%B3%E7%AD%96%EF%BC%9F",
+    "date": "2026-11-19T16:39:49Z",
+    "description": "(副标题：如何让对方按照我们的心意行事？) 1、先预设一个不可能项，作为选项A； 2、把你希望的结果，当作选项B； 3、让对方在两个选项里进行二选一。 举例，妈妈教育小孩时常说：你想挨打还是想写作业？ 当然，还有一种情况。 你不希望对方选择A，但是对方选择A的可能性极大该怎么办？ 1、在选项A之外，预设两个选项B和C； 2、不提及A，让对方直接在B和C里进行二选一。 不要问对方要不要A，而是问对方要B还是要C。 举例，孩子在公园玩的很晚，你问她要不要回家，他大概率说不要。 这时候可以换个问法，是要打游戏还是要看电视？ 要看电视，那我们现在回家。 以上方法叫做策略性诱导。 .",
+    "source_root_domain": "brmys.cn"
+  },
+  {
+    "title": "【H-003】四种人性操控术",
+    "url": "https://blog.brmys.cn/4-Archives/%E8%AF%AD%E9%9B%80%E7%9F%A5%E8%AF%86%E5%BA%93-2025.08.22/%E8%8B%8F%E8%8B%8F%E7%9A%84%E8%BE%93%E5%87%BA%E3%80%90Output%E3%80%91/%E6%B4%9E%E5%AF%9F%E4%BA%BA%E6%80%A7/%E3%80%90H-003%E3%80%91%E5%9B%9B%E7%A7%8D%E4%BA%BA%E6%80%A7%E6%93%8D%E6%8E%A7%E6%9C%AF",
+    "date": "2026-11-19T16:39:49Z",
+    "description": ":::warning 点击右上角「回到知识库」查看更多内容 ::: 洞察人性 H-003 一、标签操控术 你想让别人产生什么行为，就给别人贴一个什么样的标签。 你想让老婆做饭，就夸她做得饭好吃；如果想让她越来越喜欢做饭，那么就逢人夸她会做饭，说她是厨神；每次吃完饭无论好吃不好吃，都使劲去夸。 如果老板想让员工更有动力，就弄几个业务模仿、服务之星，被标榜的人肯定干劲十足。（最好还是公开表扬） 如果你想让孩子学习，就跟身边的亲戚朋友说他爱学习（故意漏出风声让孩子听到） 正向启发—— 如果想正向的引导对方，就给对方贴正向的标签。 多在外人面前夸孩子而不是贬低孩子，中国的家庭教育多是打压式教育。 反向...",
+    "source_root_domain": "brmys.cn"
+  },
+  {
+    "title": "【H-004】心安理得的告诉别人你的付出",
+    "url": "https://blog.brmys.cn/4-Archives/%E8%AF%AD%E9%9B%80%E7%9F%A5%E8%AF%86%E5%BA%93-2025.08.22/%E8%8B%8F%E8%8B%8F%E7%9A%84%E8%BE%93%E5%87%BA%E3%80%90Output%E3%80%91/%E6%B4%9E%E5%AF%9F%E4%BA%BA%E6%80%A7/%E3%80%90H-004%E3%80%91%E5%BF%83%E5%AE%89%E7%90%86%E5%BE%97%E7%9A%84%E5%91%8A%E8%AF%89%E5%88%AB%E4%BA%BA%E4%BD%A0%E7%9A%84%E4%BB%98%E5%87%BA",
+    "date": "2026-11-19T16:39:49Z",
+    "description": "我是一个很利他的人， 所以我做事的第一逻辑是先下意识的替对方着想，我能给对方带来什么？ 如果对方请我帮忙，这个忙值得我帮的话，即使我当下很忙，我也不想增加对方的心理负担。 比方说，对方问我忙不忙，请我帮个忙。 其实我很忙的，但是我不光会放下自己手里的事去帮对方，还会和对方说“我不忙”。 其实类似的情况，生活中很常见： 比如， 你自掏腰包请人吃饭，却告诉别人是公家请的。 你花了很多心血做的礼物，却告诉别人是随随便便做的。 你本来就手头很紧，但是别人向你借钱你借给他还告诉他不着急还。 有人说这是你好面子，打肿脸充胖子。 根本原因是因为： 你习惯性的过度换位思考，把烦恼都留给自己，把舒服都留给别人。...",
+    "source_root_domain": "brmys.cn"
+  },
+  {
+    "title": "【H-005】关于洞察人性的6张卡片分享",
+    "url": "https://blog.brmys.cn/4-Archives/%E8%AF%AD%E9%9B%80%E7%9F%A5%E8%AF%86%E5%BA%93-2025.08.22/%E8%8B%8F%E8%8B%8F%E7%9A%84%E8%BE%93%E5%87%BA%E3%80%90Output%E3%80%91/%E6%B4%9E%E5%AF%9F%E4%BA%BA%E6%80%A7/%E3%80%90H-005%E3%80%91%E5%85%B3%E4%BA%8E%E6%B4%9E%E5%AF%9F%E4%BA%BA%E6%80%A7%E7%9A%846%E5%BC%A0%E5%8D%A1%E7%89%87%E5%88%86%E4%BA%AB",
+    "date": "2026-11-19T16:39:49Z",
+    "description": ".",
+    "source_root_domain": "brmys.cn"
+  },
+  {
+    "title": "【主题】如何扩展人脉？（技巧篇）",
+    "url": "https://blog.brmys.cn/4-Archives/%E5%BE%80%E5%B9%B4%E8%BE%93%E5%87%BA/2022/%E3%80%90%E4%B8%BB%E9%A2%98%E3%80%91%E5%A6%82%E4%BD%95%E6%89%A9%E5%B1%95%E4%BA%BA%E8%84%89%EF%BC%9F%EF%BC%88%E6%8A%80%E5%B7%A7%E7%AF%87%EF%BC%89",
+    "date": "2026-11-19T16:39:49Z",
+    "description": "关联主题:: 人脉管理（2025.08.23） 同级:: 2024-10-17_星期四 下一级:: 【主题】如何扩展人脉？（技巧篇） 【时间】2022年1月27日 【分享人】苏苏 在我过往的沟通案例里，有个场景我印象很深刻，很多小伙伴跟我倾诉说自己没有朋友，问我该如何和他人相处。 你想啊，从小到大，幼儿园、小学、初中、高中、大学、步入社会，你接触了那么多的人，你居然说自己没朋友，所以问题一定不是出在对方身上，而是出在你自己身上。 人脉的本质是平等的价值兑换，重要的不是对方有什么价值，而是你能提供什么价值。 “巨大的事物，总有细小的开头。这其中的每一环，一直能够追溯到最初一个微小的善念，一环扣一...",
+    "source_root_domain": "brmys.cn"
+  },
+  {
+    "title": "【人性】2023.12.21-如何帮助对方做决定？",
+    "url": "https://blog.brmys.cn/4-Archives/%E8%AF%AD%E9%9B%80%E7%9F%A5%E8%AF%86%E5%BA%93-2025.08.22/%E8%8B%8F%E8%8B%8F%E7%9A%84%E8%BE%93%E5%87%BA%E3%80%90Output%E3%80%91/001-1000%E4%BB%BD%E8%BE%93%E5%87%BA/%E3%80%90%E4%BA%BA%E6%80%A7%E3%80%912023.12.21-%E5%A6%82%E4%BD%95%E5%B8%AE%E5%8A%A9%E5%AF%B9%E6%96%B9%E5%81%9A%E5%86%B3%E5%AE%9A%EF%BC%9F",
+    "date": "2026-11-19T16:39:49Z",
+    "description": "🧙🏻‍♂️ 如何帮助对方做决定？(副标题：如何让对方按照我们的心意行事？) 1、先预设一个不可能项，作为选项A； 2、把你希望的结果，当作选项B； 3、让对方在两个选项里进行二选一。 举例，妈妈教育小孩时常说：你想挨打还是想写作业？ 当然，还有一种情况。 你不希望对方选择A，但是对方选择A的可能性极大该怎么办？ 1、在选项A之外，预设两个选项B和C； 2、不提及A，让对方直接在B和C里进行二选一。 不要问对方要不要A，而是问对方要B还是要C。 举例，孩子在公园玩的很晚，你问她要不要回家，他大概率说不要。 这时候可以换个问法，是要打游戏还是要看电视？ 要看电视，那我们现在回家。 以上方法叫做...",
+    "source_root_domain": "brmys.cn"
+  },
+  {
+    "title": "【人性】2023.12.21-如何激发员工的积极性？",
+    "url": "https://blog.brmys.cn/4-Archives/%E8%AF%AD%E9%9B%80%E7%9F%A5%E8%AF%86%E5%BA%93-2025.08.22/%E8%8B%8F%E8%8B%8F%E7%9A%84%E8%BE%93%E5%87%BA%E3%80%90Output%E3%80%91/001-1000%E4%BB%BD%E8%BE%93%E5%87%BA/%E3%80%90%E4%BA%BA%E6%80%A7%E3%80%912023.12.21-%E5%A6%82%E4%BD%95%E6%BF%80%E5%8F%91%E5%91%98%E5%B7%A5%E7%9A%84%E7%A7%AF%E6%9E%81%E6%80%A7%EF%BC%9F",
+    "date": "2026-11-19T16:39:49Z",
+    "description": "副标题：如何更好的操控对方，让对方心甘情愿的把事做好？ 1、给对方一个可能性A。（画个大饼，让你心动） 比如说，小李下面我准备做一个项目，这个项目很不错，可以全方面提升你的能力，我准备带你做一下。 2、找出真正想让对方做的事情B交代给对方。 A的存在可能是一个锚点，但是A的存在就降低了B的成本。对方就有足够的动力把B做好。 当你渴望A的时候，你就会心甘情愿的做很多B以期望得到这个A。 所以老板很多时候说一些漂亮的话，其实就是在降低员工做B的成本，在这个过程中老板就拥有了主动权。 启发—— 从领导的角度，设置好一个合理的A能够有效的调用员工的积极性，前提是A必须兑现。 从员工的角度，要多去思考这...",
+    "source_root_domain": "brmys.cn"
+  },
+  {
+    "title": "【原文】02.阻力：为什么“让天下没有难做的生意”这么难？",
+    "url": "https://blog.brmys.cn/1-Article/%E8%AF%BE%E7%A8%8B%E5%AD%A6%E4%B9%A0/%E5%88%98%E6%B6%A6%C2%B7%E5%95%86%E4%B8%9A%E9%80%9A%E8%AF%8630%E8%AE%B2/%E8%AF%BE%E7%A8%8B%E5%8E%9F%E6%96%87%E6%96%87%E7%A8%BF/%E3%80%90%E5%8E%9F%E6%96%87%E3%80%9102.%E9%98%BB%E5%8A%9B%EF%BC%9A%E4%B8%BA%E4%BB%80%E4%B9%88%E2%80%9C%E8%AE%A9%E5%A4%A9%E4%B8%8B%E6%B2%A1%E6%9C%89%E9%9A%BE%E5%81%9A%E7%9A%84%E7%94%9F%E6%84%8F%E2%80%9D%E8%BF%99%E4%B9%88%E9%9A%BE%EF%BC%9F",
+    "date": "2026-11-19T16:39:49Z",
+    "description": "02｜阻力：为什么“让天下没有难做的生意”这么难？_原文 2025年12月12日 21:02 发言人 00:00 商业从哪里来到哪里去，我们如何顺势而为？欢迎收听刘润商业通识30讲。马云说阿里巴巴的使命，让天下没有难做的生意。那么天下的生意为什么总是那么难做呢？这一讲我们就试着找出答案。还记得上一讲我告诉你的三句话吗？第一，商业不是一门关于生产的学问，商业是一门关于交换的学问。第二，劳动创造财富，交换激励创造。第三，货币切分的买卖，商人连接了交易。 发言人 00:34 我希望你记住一个结论，商业的本质是交易，更先进的商业就是更高效的交易。但是这世间的万物相生相克，有好就有坏，有黑就有白，有上帝...",
+    "source_root_domain": "brmys.cn"
+  },
+  {
+    "title": "【年度社群-新年规划】2024年新年规划资源合集",
+    "url": "https://blog.brmys.cn/4-Archives/%E8%AF%AD%E9%9B%80%E7%9F%A5%E8%AF%86%E5%BA%93-2025.08.22/%E8%8B%8F%E8%8B%8F%E7%9A%84%E8%BE%93%E5%87%BA%E3%80%90Output%E3%80%91/Knowledge%E4%B8%BB%E9%A2%98/%E3%80%90%E5%B9%B4%E5%BA%A6%E7%A4%BE%E7%BE%A4-%E6%96%B0%E5%B9%B4%E8%A7%84%E5%88%92%E3%80%912024%E5%B9%B4%E6%96%B0%E5%B9%B4%E8%A7%84%E5%88%92%E8%B5%84%E6%BA%90%E5%90%88%E9%9B%86",
+    "date": "2026-11-19T16:39:49Z",
+    "description": ":::tips 本文档下所有资源均已打包‼️‼️ 考虑到大家使用阿里云盘 or 百度网盘下载很麻烦，我上传到了123网盘，大家可以通过下方链接，不限速下载。 🧙🏻‍♂️【资源】2023.12.312023年年终复盘苏苏_公众号：白日梦与诗 🔗 www.123pan.com/s/KttPjv-pYw5H.html ::: 1、 我开始布局一年后的自己 知识星球🔗：t.zsxq.com/15iVaxcAS 2、规划2024的九个问题 知识星球🔗：t.zsxq.com/15T0VEbOg 3、规划2024的9个问题 知识星球🔗：t.zsxq.c...",
+    "source_root_domain": "brmys.cn"
+  },
+  {
+    "title": "【必学技能！】使用油猴脚本10倍提升工作效率！！！",
+    "url": "https://blog.brmys.cn/4-Archives/%E8%AF%AD%E9%9B%80%E7%9F%A5%E8%AF%86%E5%BA%93-2025.08.22/%E8%8B%8F%E8%8B%8F%E7%9A%84%E8%BE%93%E5%87%BA%E3%80%90Output%E3%80%91/Knowledge%E4%B8%BB%E9%A2%98/%E3%80%90%E5%BF%85%E5%AD%A6%E6%8A%80%E8%83%BD%EF%BC%81%E3%80%91%E4%BD%BF%E7%94%A8%E6%B2%B9%E7%8C%B4%E8%84%9A%E6%9C%AC10%E5%80%8D%E6%8F%90%E5%8D%87%E5%B7%A5%E4%BD%9C%E6%95%88%E7%8E%87%EF%BC%81%EF%BC%81%EF%BC%81",
+    "date": "2026-11-19T16:39:49Z",
+    "description": "以下教程设备为电脑💻，手机端使用油猴脚本的方法，我后面更新一下—— 往期教程：如何在手机上使用浏览器插件、油猴脚本？ 写在开头：油猴脚本能干啥？ 破解主流观影网站爱奇艺、腾讯视频、优酷等平台的付费或vip视频； 大学生刷网课，超星、学习通等（网上代刷网课都是用的油猴脚本）； 阿里云盘配合油猴脚本使用，可以在网页端免保存突破2分钟播放限制； 倍速播放视频… … … 一、油猴脚本使用教程（往期会议） 【飞书会议🔥🔥🔥】如何使用油猴脚本2倍提升工作效率？-2022-10-12： xzr8jwvyyu.feishu.cn/minutes/obcnx682167e49bh68bhj87b Tam...",
+    "source_root_domain": "brmys.cn"
+  },
+  {
+    "title": "Hack AC以后，AI终于跑赢了真人记录",
+    "url": "https://elmagnifico.tech/2026/11/20/AC-AI-Drive-Hack/",
+    "date": "2026-11-19T16:00:00Z",
+    "description": "Foreword AI在手，天下我有。既然上一章已经遇到了AC的黑盒、CSP的黑盒，那就直接逆向他们，拿到实际的物理解算的核心逻辑。尽可能不依赖游戏本身，直接用得到的计算逻辑进行模拟测试，最后用游戏本身去做一次验证即可。 无论他有多么黑盒，终归是游戏，是有规矩可循的，那么就一定能算出来一个最优解。当我拿到这个解的时候就可以和人类的记录进行对比学习，就可以依赖这个高等AI进行其他驾驶记录的分析对比，能得到的结论往往是我们容易忽略的地方。 这次总算把这件事做完了。SU7 Ultra PT01在珠海、Track / ESC0 / TC1 / TVC2下，AI先跑出了1:38.110，随后用同一套配置复现了1:38.141和1:38.125。完全关闭AC再重新启动以后，第二次恢复同一个预热状态又跑出了1:38.109。而作为对照的真人记录是1:38.280，为了避免刚好快几毫秒这种没有意义的“超越”，把目标设置在了快0.1秒，防止因为1帧的随机差异扰乱，最快圈快了0.171秒。 Hack 主要是把AC和CSP里原来只能靠反复试车猜测的状态、计算和控制链尽量拆开，让它们可以观测、保存、复算和自动",
+    "source_root_domain": "elmagnifico.tech"
+  },
+  {
+    "title": "Hi，咪咪，三年了",
+    "url": "https://veryjack.com/life/mimi-three-years/",
+    "date": "2026-11-19T15:38:04Z",
+    "description": "",
+    "source_root_domain": "veryjack.com"
+  },
+  {
+    "title": "New Release: Skin Deep",
+    "url": "https://macsourceports.com/game/skindeep",
+    "date": "2026-11-19T15:32:21Z",
+    "description": "Skin Deep is the latest game from Blendo Games and its founder/auteur Brendon Chung with a distinct visual style and a nonsensical title. You play as Nina Pasadena, a woman who is stored…",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "文本的审美，一次车祸",
+    "url": "https://zhangke.space/%e6%96%87%e6%9c%ac%e7%9a%84%e5%ae%a1%e7%be%8e%ef%bc%8c%e4%b8%80%e6%ac%a1%e8%bd%a6%e7%a5%b8/?utm_source=rss&utm_medium=rss&utm_campaign=%25e6%2596%2587%25e6%259c%25ac%25e7%259a%2584%25e5%25ae%25a1%25e7%25be%258e%25ef%25bc%258c%25e4%25b8%2580%25e6%25ac%25a1%25e8%25bd%25a6%25e7%25a5%25b8",
+    "date": "2026-11-19T14:15:22Z",
+    "description": "自从生成式人工智能出现之后，“审美”这个词真是用得越来越多了，虽然我也想尽可能避免使用这个词但想不到更合适的标 […]",
+    "source_root_domain": "zhangke.space"
+  },
+  {
+    "title": "一生病就容易emo。。。啥也不想干 想起",
+    "url": "https://versun.me/blog/tweet-2123404634786087213",
+    "date": "2026-11-19T13:14:50Z",
+    "description": "一生病就容易emo。。。啥也不想干 想起来 AI 出现之前，还是挺喜欢学习的，因为要做一个东西很难，什么都得学，什么都得懂一点 而现在有了 AI 以后，已经很少学习了，因为做一个东西很简单，不用啥都学啥都懂，所以也是很佩服 @antiAIvo 几乎每天都在主动学习",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "Serving Static Websites on OpenBSD, for dummies",
+    "url": "https://www.geedea.pro/en/article/web-server-openbsd/",
+    "date": "2026-11-19T12:55:24Z",
+    "description": "Though it’s a choice, it’s not necessary to install something like nginx to host a website on OpenBSD. You can do that with a few tools that already comes with the system. Get to know the tools httpd(8) , HTTP Daemon, sort of like the Apache HTTP server . relayd(8) , Relay Daemon, works as a reverse proxy. pf(4) , Packet Filter, OpenBSD equivalent of ufw . If you’re hosting a static website with only HTML, CSS and optionally JavaScript, httpd is all you need (It also supports FastCGI). But if yo",
+    "source_root_domain": "geedea.pro"
+  },
+  {
+    "title": "从果蝇到 Intelligence Runtime",
+    "url": "https://luweiqing.com/gossip/Intelligence-Runtime.html",
+    "date": "2026-11-19T12:42:06Z",
+    "description": "从生物智能的计算效率，到下一代 AI 智能运行基础设施一、一个观察：果蝇的大脑为什么如此厉害？果蝇的大脑只有约10万至14万个神经元，却能够完成飞行、避障、目标追踪、环境适应等复杂任务。飞行本身...",
+    "source_root_domain": "luweiqing.com"
+  },
+  {
+    "title": "Total Annihilation updated",
+    "url": "https://macsourceports.com/game/totalannihilation",
+    "date": "2026-11-19T12:00:40Z",
+    "description": "The build of Open Annihilation for Total Annihilation has been updated to version v0.9.2 of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "No One Lives Forever 2: A Spy in H.A.R.M.'s Way updated",
+    "url": "https://macsourceports.com/game/nolf2",
+    "date": "2026-11-19T12:00:39Z",
+    "description": "The build of NOLF2 for Mac for No One Lives Forever 2: A Spy in H.A.R.M.'s Way has been updated to version 0.6.1 of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "人类还是太脆弱了，家里3口人一起传染得病",
+    "url": "https://versun.me/blog/tweet-2123373287539634319",
+    "date": "2026-11-19T11:10:16Z",
+    "description": "人类还是太脆弱了，家里3口人一起传染得病了，估计是流感，请了一周假，在家带病顾病娃😭😢",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "2009，九宫格里的宝箱",
+    "url": "https://www.tortorse.com/archives/treasure-chest-in-the-nine-square-grid-2009/",
+    "date": "2026-11-19T10:53:29Z",
+    "description": "2009，九宫格里的宝箱",
+    "source_root_domain": "tortorse.com"
+  },
+  {
+    "title": "The Settlers II updated",
+    "url": "https://macsourceports.com/game/settlers2",
+    "date": "2026-11-19T09:13:04Z",
+    "description": "The build of Return to the Roots for The Settlers II has been updated to the latest code of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "Duke Nukem 3D updated",
+    "url": "https://macsourceports.com/game/duke3d",
+    "date": "2026-11-19T09:11:52Z",
+    "description": "The build of EDuke32 for Duke Nukem 3D has been updated to the latest code of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "Ion Fury updated",
+    "url": "https://macsourceports.com/game/ionfury",
+    "date": "2026-11-19T09:11:52Z",
+    "description": "The build of EDuke32 for Ion Fury has been updated to the latest code of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "Ion Fury: Aftershock updated",
+    "url": "https://macsourceports.com/game/ionfuryaftershock",
+    "date": "2026-11-19T09:11:52Z",
+    "description": "The build of EDuke32 for Ion Fury: Aftershock has been updated to the latest code of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "Duke Nukem II updated",
+    "url": "https://macsourceports.com/game/duke2",
+    "date": "2026-11-19T09:10:04Z",
+    "description": "The build of RigelEngine for Duke Nukem II has been updated to the latest code of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "BRAZILIAN DRUG DEALER 3: I OPENED A PORTAL TO HELL IN THE FAVELA TRYING TO REVIVE MIT AIA I NEED TO CLOSE IT updated",
+    "url": "https://macsourceports.com/game/bdd3",
+    "date": "2026-11-19T09:08:20Z",
+    "description": "The build of BRAZILIAN DRUG DEALER 3 for BRAZILIAN DRUG DEALER 3: I OPENED A PORTAL TO HELL IN THE FAVELA TRYING TO REVIVE MIT AIA I NEED TO CLOSE IT has been updated to the latest code of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "BRAZILIAN DRUG DEALER BEFORE 4 updated",
+    "url": "https://macsourceports.com/game/bddb4",
+    "date": "2026-11-19T09:08:19Z",
+    "description": "The build of BRAZILIAN DRUG DEALER BEFORE 4 has been updated to the latest code of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "FLESHCANCER updated",
+    "url": "https://macsourceports.com/game/fleshcancer",
+    "date": "2026-11-19T09:08:18Z",
+    "description": "The build of FLESHCANCER has been updated to the latest code of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "Return to Castle Wolfenstein updated",
+    "url": "https://macsourceports.com/game/rtcw",
+    "date": "2026-11-19T09:08:11Z",
+    "description": "The build of iortcw (single player) for Return to Castle Wolfenstein has been updated to the latest code of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "Good Robot updated",
+    "url": "https://macsourceports.com/game/goodrobot",
+    "date": "2026-11-19T09:06:59Z",
+    "description": "The build of Good Robot has been updated to the latest code of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "Arcanum: Of Steamworks and Magick Obscura updated",
+    "url": "https://macsourceports.com/game/arcanum",
+    "date": "2026-11-19T09:06:17Z",
+    "description": "The build of Arcanum Community Edition for Arcanum: Of Steamworks and Magick Obscura has been updated to the latest code of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "Abuse updated",
+    "url": "https://macsourceports.com/game/abuse",
+    "date": "2026-11-19T09:05:56Z",
+    "description": "The build of Abuse 1996 for Abuse has been updated to the latest code of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "Disasteroids 3D updated",
+    "url": "https://macsourceports.com/game/disasteroids3d",
+    "date": "2026-11-19T09:05:16Z",
+    "description": "The build of Disasteroids 3D has been updated to the latest code of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "WRATH: Aeon of Ruin updated",
+    "url": "https://macsourceports.com/game/wrath",
+    "date": "2026-11-19T09:04:13Z",
+    "description": "The build of wrathplaces for WRATH: Aeon of Ruin has been updated to the latest code of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "Star Control II: The Ur-Quan Masters updated",
+    "url": "https://macsourceports.com/game/sc2",
+    "date": "2026-11-19T09:04:09Z",
+    "description": "The build of The Ur-Quan Masters for Star Control II: The Ur-Quan Masters has been updated to the latest code of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "Another World updated",
+    "url": "https://macsourceports.com/game/anotherworld",
+    "date": "2026-11-19T09:03:36Z",
+    "description": "The build of rawgl for Another World has been updated to the latest code of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "Mad Bomber updated",
+    "url": "https://macsourceports.com/game/madbomber",
+    "date": "2026-11-19T09:03:05Z",
+    "description": "The build of Mad Bomber has been updated to the latest code of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "Circus Linux! updated",
+    "url": "https://macsourceports.com/game/circuslinux",
+    "date": "2026-11-19T09:02:50Z",
+    "description": "The build of Circus Linux! has been updated to the latest code of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "Bug Squish updated",
+    "url": "https://macsourceports.com/game/bugsquish",
+    "date": "2026-11-19T09:02:40Z",
+    "description": "The build of Bug Squish has been updated to the latest code of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "Gem Drop X updated",
+    "url": "https://macsourceports.com/game/gemdropx",
+    "date": "2026-11-19T09:02:14Z",
+    "description": "The build of Gem Drop X has been updated to the latest code of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "重新将主力开发工具切换回 Neovim",
+    "url": "https://haoluobo.com/2026/11/back-to-neovim/",
+    "date": "2026-11-19T06:23:10Z",
+    "description": "最近出爆出 JetBrains 出现亏损的新闻。AI 时代，已经很少有人手搓代码代码了，更多的时间都花在设计和 […]",
+    "source_root_domain": "haoluobo.com"
+  },
+  {
+    "title": "Price Action 进阶：如何用 H1/H2 与 L1/L2 的「失败」，提前看穿趋势与震荡切换",
+    "url": "https://blog.forecho.com/price-action-h1-h2-l1-l2-failure.html",
+    "date": "2026-11-19T05:00:00Z",
+    "description": "引言 在刚接触 Al Brooks 的价格行为学（Price Action）时，绝大多数交易者最先上手的入场工具就是 数K线（Bar Counting） ——多头回调找 H1 / H2 挂单做多，空头反弹找 L1 / L2 挂单做空。 但实盘中经常遇到这种让人极其难受的场面： 你在一个看似不错的上涨趋势里等来标准回调，果断在 H1 突破位挂 Buy Stop 买入。结果刚成交，下一根K线立刻收出一根大阴线把你按在山顶；你不信邪，等行情走出两腿回调出现 H2 再进一次，结果再次被反向砸穿止损。 这种亏损并不是数K线失效了，而是 市场环境已经悄悄切入了震荡区间（Trading Range） 。 在价格行为学中，H1/H2 和 L1/L2 不仅是顺势加速的入场点，它们的失败（Failure）更是市场发出的最高级别预警——告诉你原有的单边惯性正在瓦解。 核心逻辑：用失败识别环境切换 想看懂信号为什么会失效，先要理解 Al Brooks 最核心的 市场惯性定律 ： “在趋势中，80% 的反转会失败；在震荡区间中，80% 的突破会失败。” 把这句话对应到盘面的 H1/H2 与 L1/L2 上，就是",
+    "source_root_domain": "forecho.com"
+  },
+  {
+    "title": "别变成老年人上网",
+    "url": "https://www.hecaitou.com/2026/11/elderly-internet-mode.html",
+    "date": "2026-11-19T04:53:31Z",
+    "description": "昨天我在文章里提了一句自己在用加湿机，留言区立即出现了好几条警告：「小心得肺炎！」让我顿时有了一种恍惚身在家族群的感觉，不得不确认了好几次，不，不是的，这是我的文章留言区。 为什么会有那么多读者把加湿机和肺炎紧密联系在一起？这背后有什么不可告人的秘密？是商业竞争的阴谋还是临床医学的怒吼？ 今天让我们一起进入走入科学 我很是好奇。 做了一点功课之后，我大概搞清楚了前因后果。加湿机清洁除菌不及时可能会滋生细菌，严重时可能引起肺炎，这本身是个健康小贴士，很早就有人在做科普。真实的原因是北方冬季极为干燥，加湿机就成为一种日常小家电。而廉价加湿机采取雾化纯水的加湿方式，不像是冷蒸发类型的加湿机可以直接用自来水，自来水本身含氯，有杀菌作用，因此雾化类型的加湿机长期不清洁就可能变成微生物的培养皿。 这种健康小贴士一直不温不火，直到疫情之后，人民群众出于防疫考虑，开始在加湿机里「土法炼钢」，添加白醋、板蓝根等等佐料，于是就有了一波爆发性的科普，劝告市民不要那么做，免得适得其反，预防新冠和流感没成功，反而罹患肺炎。因为公众对新冠关注度高，这种类型的科普传播很广，流量很可观。 于是很快就进入了第三阶段，当",
+    "source_root_domain": "hecaitou.com"
+  },
+  {
+    "title": "早上用了neon写代码，非常润，好用，说",
+    "url": "https://versun.me/blog/tweet-2123258873121583288",
+    "date": "2026-11-19T03:35:38Z",
+    "description": "Google DeepMind Gemini 4 Neon is rolling out now. Sitting between Carbon and Hydrogen, it brings frontier intelligence and fast task completion for complex software engineering, knowledge work, and science. 早上用了neon写代码，非常润，好用，说话又好听",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "Maelstrom updated",
+    "url": "https://macsourceports.com/game/maelstrom",
+    "date": "2026-11-19T03:13:01Z",
+    "description": "The build of Maelstrom has been updated to version 4.0.2 of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "记假帐",
+    "url": "https://blog.solazy.me/20261119/",
+    "date": "2026-11-19T03:00:00Z",
+    "description": "今天聊个有意思的话题",
+    "source_root_domain": "solazy.me"
+  },
+  {
+    "title": "想不到一个多月前无心参与的一个 Gemi",
+    "url": "https://versun.me/blog/tweet-2123234133099127295",
+    "date": "2026-11-19T01:57:19Z",
+    "description": "想不到一个多月前无心参与的一个 Gemini 活动，竟然有福报了，送了 3 个月的 Pro😂",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "理中客之死 I",
+    "url": "https://mobius.blog/26210.html",
+    "date": "2026-11-19T01:30:00Z",
+    "description": "前两天参与了一场互联网骂战，讨论的话题是iOS即将更新的“国行AI”，将在中国境内搭载当地公司提供的安全机制。 […]",
+    "source_root_domain": "mobius.blog"
+  },
+  {
+    "title": "找到你所擅长的运动",
+    "url": "https://depp.wang/2026/find-your-sport/",
+    "date": "2026-11-19T01:01:47Z",
+    "description": "现在很多人的工作都不需要做什么体力劳动，像我做软件开发，大部分时间就是坐在电脑前。工作本身很少有活动身体的机会，想让身体得到锻炼，就得另外花时间运动。 但知道应该运动，跟愿意经常去运动，还是两回事。我从小就算比较喜欢运动，现在主要打羽毛球，之前打得更多的却是篮球。这两项运动，我都喜欢，打完以后的感受却很不一样。",
+    "source_root_domain": "depp.wang"
+  },
+  {
+    "title": "Memos #2026-11-18",
+    "url": "https://blog.itaober.com/memos/memo_20261118105516_b5rn19",
+    "date": "2026-11-19T00:00:00Z",
+    "description": "19:00 听多了愈发觉得刘振东是个善良乐观的人，碰到这么多糟糕的事，活的真不容易。",
+    "source_root_domain": "itaober.com"
+  },
+  {
+    "title": "零知识图像来源认证综述",
+    "url": "https://wcowin.work/blog/Cryptography/zk-image-provenance/",
+    "date": "2026-11-19T00:00:00Z",
+    "description": "零知识图像来源认证综述 一张经过裁剪、调亮或 JPEG 压缩的照片，还能否证明它源自一台可信设备签名的原图，而且只做过被允许的处理？零知识图像来源认证尝试在不公开原图、被裁掉区域和编辑历史的前提下回答这个问题。本文梳理 PhotoProof（2016）及 2022–2026 年的代表系统，比较它们各自解决的...",
+    "source_root_domain": "wcowin.work"
+  },
+  {
+    "title": "F20H 系列：《赛博朋克 2077》",
+    "url": "https://bluepika.life/blog/f20h-cyberpunk-2077",
+    "date": "2026-11-19T00:00:00Z",
+    "description": "特意选在 GTA 6 发售前写这一篇文章，为的是顺便聊聊吸引我的开放世界这个话题。 还是先来说说《赛博朋克 2077》吧，我本来打算在 Switch 2 上面游玩，没想到家庭组里的朋友在看完动画第一季后直接在 Steam 上购入了全套，我就干脆在 Steam Deck 上面玩了。 我已经有一阵子没有玩过这类型的大型开放世界游戏了，20 小时对于这种大型游戏来说仅仅是个开头，才刚引入世界观的设定和进入到剧情前期。 我没有看过特别多的游戏剧透，就目前玩到的进度来看，故事、角色和演出很吸引人，从和杰克偷芯片到强尼·银手的出现，还有后续的多线推进的剧情发展，都让我停不下来。我和 Cora 聊这个游戏的世界观，她也觉得很多设定都非常有意思，包括为什么会有这个芯片，为什么这个芯片只能在 V 身上起作用等等。 游戏只有第一人称，一开始有点不习惯第一人称的玩法，但是后来玩下去之后，慢慢也可以接受，沉浸感确实非常强，而且也慢慢理解了为什么非要做成第一人称不可。使用第一人称的设计极其合理的地方，不得不提到超梦，超梦的体验和编辑，是游戏第一次让我感觉到，这游戏复杂是真复杂，牛逼也是真牛逼，我都不知道这是怎么",
+    "source_root_domain": "bluepika.life"
+  },
+  {
+    "title": "谷歌又来新模型了，这次是中杯的 neon",
+    "url": "https://versun.me/blog/tweet-2123179784142495885",
+    "date": "2026-11-18T22:21:21Z",
+    "description": "Google DeepMind Gemini 4 Neon is rolling out now. Sitting between Carbon and Hydrogen, it brings frontier intelligence and fast task completion for complex software engineering, knowledge work, and science. 谷歌又来新模型了，这次是中杯的 neon，介于 carbon 和 hydrogen 之间。 等下，那 argon 呢？ 看排行应该是 carbon > neon > argon > hydrogen 谷歌这命名方式真的有点乱啊🤣",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "最让我觉得「应该发生在上海」的偶遇",
+    "url": "https://www.owenyoung.com/chance-encounter",
+    "date": "2026-11-18T19:24:49Z",
+    "description": "今天发生的偶遇，是我来上海之后最让我觉得「应该在上海发生」的事。",
+    "source_root_domain": "owenyoung.com"
+  },
+  {
+    "title": "模型变笨了吗",
+    "url": "https://rickgwei.com/posts/model-degradation/",
+    "date": "2026-11-18T16:00:00Z",
+    "description": "TL;DR 「模型变笨了」这个感受，通常有三个来源，从主观到客观依次是： 人变了 ：用过更聪明的模型之后，智力阈值被抬高，Prompt 也越写越省略。旧模型没有变，却再也难以忍受，这是知识诅咒。 参数变了 ：同一个模型，采样参数、输出上限、上下文窗口、系统提示词或权重快照一变，输出的风格和质量都会偏移。 模型被换了 ：为了降低推理成本，服务端可能换成量化版本、减少 MoE 激活的专家、压缩思考时间和上下文长度。名字没变，算力缩水了。 三者常常叠加。阈值被抬高以后，原本察觉不到的小幅退化也会变得明显。 要分清是哪一种，需要用固定的题目和参数反复测试，并把结果存档对比，比如让模型画一只骑自行车的鹈鹕。记忆会被新的阈值改写，存档不会。前两类可以靠自己排查；第三类在外部通常无法证实，只能作为解释框架。 一、人为因素：被抬高的智力阈值 知识诅咒是什么 知识诅咒（curse of knowledge）指的是：一旦知道了某件事，就很难再想象不知道它时的状态。这个概念由经济学家 Camerer、Loewenstein 和 Weber 在 1989 年提出，最初用来解释信息更多的一方为什么很难准确预判信",
+    "source_root_domain": "rickgwei.com"
+  },
+  {
+    "title": "AI 早报 2026-11-19：OpenAI 公布智能体实测：2–4 小时研究任务近半不用人插手",
+    "url": "https://www.jtxyh.com/daily/2026-11-19/",
+    "date": "2026-11-18T16:00:00Z",
+    "description": "2026-11-19 AI 早报，共 21 条动态。OpenAI 11 月 18 日发布第二份研究加速报告《Research acceleration: The jagged frontier》。北京镁伽机器人科技有限公司 11 月 19 日宣布完成新一轮近 2 亿美元融资。",
+    "source_root_domain": "jtxyh.com"
+  },
+  {
+    "title": "Album#52 - 階段怪談",
+    "url": "https://taxodium.ink/album-52.html",
+    "date": "2026-11-18T15:37:00Z",
+    "description": "Album#52 階段怪談 图1 階段怪談 by handycam 专辑信息 专辑名称： 階段怪談 歌手： handycam 年份： 2026-05-20 时长： 43:10 類型： 艺术摇滚/剧场音乐/厕所爵士 《階段怪談》這張專輯是 handycam 成團後發布的首張錄音室専輯，相比另外兩張 《阁楼的影像 & 家》 ，這張專輯偏搖滾風格多一些，聴起來沒有《阁楼的影像 & 家》那麼隨性，製作上更精良一些，也終於不再全是純器樂的演奏，也有几首有歌詞的歌。 TRACKLIST 泰克十一 (Take 11) 階段怪談 (Kaidan Kaidan) 愚公的心事 (YuGong's Obsession) 故鄉 (Root) 狂鳥記 (Kuangniaoji) 神秘列車 (Mystery Train) 風之女 (Wind Girl) 卡拉歐K之歌 (Karaoke Song) 泰克十一 (Take 11) 不錯的器樂演奏，開頭的貝斯就挺好聴的。 階段怪談 (Kaidan Kaidan) 也是一首不錯的器樂演奏，层次挺丰富的，好聴。 愚公的心事 (YuGong's Obsession) 你是远方",
+    "source_root_domain": "taxodium.ink"
+  },
+  {
+    "title": "把自己作为「产品」",
+    "url": "https://lomus.cc/把自己作为产品/",
+    "date": "2026-11-18T13:35:13Z",
+    "description": "借用项飙老师的句式，小小标题党一下。其实我想讲的是，把自己产品化，或者把自己当做一个产品对待。",
+    "source_root_domain": "lomus.cc"
+  },
+  {
+    "title": "VSCode 中 Kilo 扩展的代理机制解析与分流配置（http.proxy 与 noProxy）",
+    "url": "https://blog.rustfisher.com/tools/vscode-kilo-http-noproxy-settings/",
+    "date": "2026-11-18T13:30:00Z",
+    "description": "在日常研发中，经常会遇到这样一种网络分流需求：AI 编程插件需要走代理访问外部模型 API，但同时又要直连公司内网的私有模型网关或本地调试服务（如 localhost 、 *.rustfisher.com ）。 <h2",
+    "source_root_domain": "rustfisher.com"
+  },
+  {
+    "title": "没有港卡怎么激活Wise",
+    "url": "http://www.5had0w.com/posts/5962c526.html",
+    "date": "2026-11-18T12:42:55Z",
+    "description": "先说结论，最后是通过 iFAST 激活的 Wise，花了 125 元，主要是外汇转账（用的招行）的手续费（25元） + 通讯费（100元），这个外汇是用于激活 iFast，激活 iFast 后就可以无损入金激活 Wise。 全程线上办理，有国内银行卡就行。</",
+    "source_root_domain": "5had0w.com"
+  },
+  {
+    "title": "The Operative: No One Lives Forever updated",
+    "url": "https://macsourceports.com/game/nolf1",
+    "date": "2026-11-18T12:08:36Z",
+    "description": "The build of NOLF1 for Mac for The Operative: No One Lives Forever has been updated to version 0.6.1 of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "S.T.A.L.K.E.R.: Call of Pripyat updated",
+    "url": "https://macsourceports.com/game/stalkercop",
+    "date": "2026-11-18T09:18:42Z",
+    "description": "The build of OpenXRay for S.T.A.L.K.E.R.: Call of Pripyat has been updated to the latest code of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "Serious Sam: The First Encounter updated",
+    "url": "https://macsourceports.com/game/serioussamfe",
+    "date": "2026-11-18T09:06:17Z",
+    "description": "The build of Serious-Engine for Serious Sam: The First Encounter for Serious Sam: The First Encounter has been updated to the latest code of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "Serious Sam: The Second Encounter updated",
+    "url": "https://macsourceports.com/game/serioussamse",
+    "date": "2026-11-18T09:06:16Z",
+    "description": "The build of Serious-Engine for Serious Sam: The Second Encounter for Serious Sam: The Second Encounter has been updated to the latest code of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "Xash3D FWGS updated",
+    "url": "https://macsourceports.com/sourceport/xash3d-fwgs",
+    "date": "2026-11-18T09:05:41Z",
+    "description": "The build of Xash3D FWGS for the Half-Life series of games has been updated to the latest code of the project\\n\\nhttps://macsourceports.com/sourceport/xash3d-fwgs\\n\\n#macgaming #retrogaming #macOS #xash3d-fwgs #gaming #apple #m1 #m2 #m3 #applesilicon\\n\\n",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "Mingle 这个工具不错，简单的 Ag",
+    "url": "https://versun.me/blog/tweet-2122953837531283635",
+    "date": "2026-11-18T07:23:32Z",
+    "description": "earayu 任意 Agent，接入任意聊天软件。 https://mingle.build/zh/ 无服务器的Agent协作软件，所以不用担心日渐严峻的网络安全问题，感兴趣可以试用一下。 Mingle 这个工具不错，简单的 Agent 中继器，可以使用自己调配的 harness",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "SkyWalking 网关插件在 SCG 2.2.8 上抛 NPE 导致网关请求 500 的排查",
+    "url": "https://199604.com/3756",
+    "date": "2026-11-18T06:55:16Z",
+    "description": "SkyWalking 网关插件在 SCG 2.2.8 上抛 NPE 导致网关请求 500 的排查 记录时间：2 […]",
+    "source_root_domain": "199604.com"
+  },
+  {
+    "title": "在凌晨五点醒来",
+    "url": "https://www.hecaitou.com/2026/11/awake-at-5-am.html",
+    "date": "2026-11-18T05:43:53Z",
+    "description": "今天凌晨五点我突然醒来，往常这应该是我睡得最香的时候。醒来之后头脑不是很清醒，于是开始执行每天的自动程序，去拉开窗帘，给加湿机补水，诸如此类的事情。 我以为现在是冬季了，北方的冬季天亮得晚，夜里应该是漆黑一团。但是拉开窗帘后发现天空是漂亮的深蓝色，沉静安详，在天光下能清清楚楚看见窗外的景物。而且，我突然意识到屋子外面在刮风，能看到树梢摇曳，地面上都是落叶。 加湿机早已经耗尽储水，之前我都是睡前加满，起床之后再补水，以为一晚上刚好全部耗尽。这次五点起来，终于确认其实加湿机在半夜就已经停止工作。难怪我每天起床都觉得口干舌燥，还一直以为是自己肝火旺，火气大，想着要少吃点辣椒。 新发现太多，我彻底清醒了过来，然后就想到现在最正确的事情应该是立即回去接着睡，不要像个夜游神一样穿着睡衣在各个房间之间晃荡。可惜我已经清醒，一时之间无法入眠，只好打开手机，仔细看了老友在凌晨两点给我留的言。 很久没有在凌晨五点醒来，所以我也很久没有如此耐心地反复读了好几遍留言，而且很认真地写了回复。白天里我不是这样的，我都是飞快地扫一眼，大体上了解一下内容，然后决定要不要回复，即便要回复一般也会很简洁。 但是在这个时间",
+    "source_root_domain": "hecaitou.com"
+  },
+  {
+    "title": "统计数据：当创始人团队面临“分道扬镳”？",
+    "url": "https://wenfeixiang.com/2026/11/founder-leave-and-lose/",
+    "date": "2026-11-18T05:18:27Z",
+    "description": "对创业公司而言，创始人的离开、是一个难以言说的话题。大到最近沸沸扬扬的黄仁勋离开英伟达，小到几乎每一家创业小公 […]",
+    "source_root_domain": "wenfeixiang.com"
+  },
+  {
+    "title": "招聘启事二则",
+    "url": "https://www.kawabangga.com/posts/7461",
+    "date": "2026-11-18T05:16:09Z",
+    "description": "我就职的公司东海集团（Shopee 母公司）拓展 AI 云业务（neocloud），现在招聘计算、存储、网络方 […] Continue reading... 相关文章: Gitops 的一些实践经验 最近的工作感悟",
+    "source_root_domain": "kawabangga.com"
+  },
+  {
+    "title": "Pharaoh updated",
+    "url": "https://macsourceports.com/game/pharaoh",
+    "date": "2026-11-18T04:17:11Z",
+    "description": "The build of Akhenaten for Pharaoh has been updated to version ra2611 of the project",
+    "source_root_domain": "macsourceports.com"
+  },
+  {
+    "title": "简单汇总下我目前调研到市面上 opus",
+    "url": "https://versun.me/blog/tweet-2122898496835702990",
+    "date": "2026-11-18T03:43:37Z",
+    "description": "简单汇总下我目前调研到市面上 opus 5.5 和 ds 41 flash 套餐额度比较： opus 5.5：claude官方 = 10 x devin = 15 x factory ds 41 flash：opencode = 1.5 x command code = 1.6 x ollma",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "多就是好吗？",
+    "url": "https://blog.solazy.me/20261118/",
+    "date": "2026-11-18T03:00:00Z",
+    "description": "观朋友圈有感",
+    "source_root_domain": "solazy.me"
+  },
+  {
+    "title": "为了听懂英文 Trading Room，我开发了一款实时字幕翻译软件 Liveglot",
+    "url": "https://blog.forecho.com/introducing-liveglot.html",
+    "date": "2026-11-18T02:54:51Z",
+    "description": "引言 学了一年多的价格行为学（Price Action），最近我终于付费进了 PA 的英文 Trading Room，想跟着看看老外实盘到底是怎么分析、怎么找入场和止损的。 钱是付了，进去以后才发现最大的问题不是看不懂 K 线，而是听不懂。讲师语速本来就快，里面又夹着一堆交易术语和盘口俚语，经常一句话没反应过来，后面两三句已经过去了。 我在网上找了一圈直播实时翻译软件，用下来都不太满意。干脆自己动手，做了一款专门看外语直播和网课的 Mac 工具： Liveglot 。 官网地址： liveglot.app/zh-hans 为什么自己写一个 市面上能做实时翻译的工具其实不少，但真拿来看 Trading Room 这种场景，总会卡在几个地方： 一个是贵，动不动就是按月订阅，每个月几十美金，算下来比我买课程和 API 还贵。另一个是翻译太碎，很多软件是识别到几个词就往外蹦翻译，英文语序和中文语序又不一样，译文读起来支离破碎，看着比听原文还累。 还有一点我特别需要，但一直没找到顺手的： 看直播的时候，漏听了一句或者没跟上字幕，我想立刻问一下刚才讲师到底说了什么。 我自己平时就在折腾工具，索性按",
+    "source_root_domain": "forecho.com"
+  },
+  {
+    "title": "Memos: 周大福 EOF 电商专属商品款号",
+    "url": "https://blog.yasking.org/a/1794966132",
+    "date": "2026-11-18T01:42:12Z",
+    "description": "在淘宝上看到周大福有个小挂饰看着还不错，昨天正好路过门店打算看看实物。 跟店长咨询，店长介绍说看商品详情中的 …",
+    "source_root_domain": "yasking.org"
+  },
+  {
+    "title": "我拒绝使用AI，不是因为AI而是因为我",
+    "url": "https://mobius.blog/26189.html",
+    "date": "2026-11-18T01:30:00Z",
+    "description": "昨天发布的《失乐园里有什么？III：AI时代的集体地狱》，收到了两则私信和一个留言区的留言，大家也都不约而同地 […]",
+    "source_root_domain": "mobius.blog"
+  },
+  {
+    "title": "相比 openai 6.2，我反而对这个",
+    "url": "https://versun.me/blog/tweet-2122861185259479271",
+    "date": "2026-11-18T01:15:22Z",
+    "description": "clem 🤗 Introducing Qwen3.8-27B-pi-adapted 🤗 We adapted Qwen's model specifically for the pi coding agent using reinforcement learning and a LoRA adapter. The results, measured as pass@1: 🚀 SWE-bench Pro (Hard 51): 29.4% → 62.7% 💻 Terminal-Bench 2.1: 39.5% 相比 openai 6.2，我反而对这个 qwen3.8-27b-pi-adapted 更感兴趣，这个是专门为 pi agent 做的优化层，代码能力提升近 50% 之后开源模型会不会也开始走 harness 专门适配的路，比如 SWE 2 就是用 Kimi K3 做适配 Devin，效果很出众",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "最近在给 Paseo 写插件，然后发现它",
+    "url": "https://versun.me/blog/tweet-2122855362160447704",
+    "date": "2026-11-18T00:52:13Z",
+    "description": "最近在给 Paseo 写插件，然后发现它竟然是用 React Native 写的，，这在一堆用 Rust 和 Electron 产品中应该算是一股清流吧😂 还有就是插件接口和跨设备的体验都好好，客户端和移动端都共用一套代码，简直不要太方便了， 整个插件开发过程比 DSH 和 Cindy 好太多了😂",
+    "source_root_domain": "versun.me"
+  },
+  {
+    "title": "提升生活幸福度的小物件",
+    "url": "https://depp.wang/2026/little-things/",
+    "date": "2026-11-18T00:26:47Z",
+    "description": "最近买了一双勃肯鞋，觉得确实提升了不少生活幸福感，也想借这个机会，写几个让日常生活更方便、舒服的小物件。 先说这双鞋。它前面包头，后面没有后跟，穿起来跟拖鞋差不多，一脚蹬就能出门。",
+    "source_root_domain": "depp.wang"
+  },
+  {
+    "title": "Memos #2026-11-17",
+    "url": "https://blog.itaober.com/memos/memo_20261117113421_4n1hff",
+    "date": "2026-11-18T00:00:00Z",
+    "description": "19:34 窝囊废开会。",
+    "source_root_domain": "itaober.com"
+  }
+]
