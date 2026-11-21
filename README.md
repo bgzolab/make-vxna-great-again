@@ -29,6 +29,7 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | --- | --- | --- |
 | 2026-11-20 | [AI Infra：Intelligence Runtime 的定义与创新边界](https://luweiqing.com/gossip/AI-Infra-Intelligence-Runtime.html) | 过去几年，Agent Runtime 让智能体从演示走向工程。它解决了许多具体问题：模型怎么调、上下文怎么带、工具怎么接、状态怎么存、失败怎么恢复。可当这些能力被逐一补齐，一个新的问题浮出水面：... |
 | 2026-11-20 | [Keeping SSH Keys Secure](https://www.geedea.pro/en/article/key-management/) | SSH keys are very widely used, for signing git commits, signing software distribution, authenticating with a remote server and age also supports encry… |
+| 2026-11-20 | [不是，是有人在推荐我的 RSSBox 吗](https://versun.me/blog/tweet-2123724561191448993) | 不是，是有人在推荐我的 RSSBox 吗？ 都快一年没人提 issue 和 pr 了，我最近都准备 archive 了， 然后这几天隔三差五的来几个 issue 和 pr 🤣🤣 问题是我自己都不用了呀😂 https://github.com/versun/RSSBox |
 | 2026-11-20 | [Duke Nukem 3D updated](https://macsourceports.com/game/duke3d) | The build of EDuke32 for Duke Nukem 3D has been updated to the latest code of the project |
 | 2026-11-20 | [Ion Fury updated](https://macsourceports.com/game/ionfury) | The build of EDuke32 for Ion Fury has been updated to the latest code of the project |
 | 2026-11-20 | [Ion Fury: Aftershock updated](https://macsourceports.com/game/ionfuryaftershock) | The build of EDuke32 for Ion Fury: Aftershock has been updated to the latest code of the project |
@@ -234,33 +235,6 @@ Blocked domains are skipped during fetch and excluded from README and status out
 | 2026-11-14 | [Memos #2026-11-13](https://blog.itaober.com/memos/memo_20261113022232_c896p4) | 10:25 看阮一峰最 本周博客 有感：如果你发现我正坐在工位上发呆，而不是敲击键盘，我并没有偷懒，反而是在更认真地完成工作。 |
 | 2026-11-14 | [Python 潮流周刊#175：AI 为 CPython 写出 61 万行 Lean 证明](https://pythoncat.top/posts/2026-11-14-weekly/) | 分享了 12 篇文章，12 个开源项目，1 则音视频，2 则热门讨论 |
 | 2026-11-14 | [Amaysim给了我一个黑五超值优惠，一年省180刀](https://www.ozexplorers.com/%E7%BE%8A%E6%AF%9B%E6%94%BB%E7%95%A5/2026/11/14/how-i-got-a-black-friday-deal-as-an-existing-amaysim-customer.html) | 最近，我家的宽带又省了一笔钱，而我做的事情只有一件，就是问了一句客服。 我家的网络，从去年开始就用 Amaysim 的宽带，具体经过写在《最划算的澳洲宽带？我的60澳元套餐体验》里。 先简单介绍一下我的套餐。我们两个人主要就是看看视频、刷刷手机，所以选的是最基础的 NBN 套餐，下行25Mbps，上… |
-| 2026-11-13 | [大家猜猜 @DevinAI 这次永久免费](https://versun.me/blog/tweet-2121381279346413970) | 大家猜猜 @DevinAI 这次永久免费 swe2 模型能撑多久，那些中转站应该睡觉都在笑吧😂 |
-| 2026-11-13 | [Pantone潘通年度色查询：2000–2026 年 29 个年度色，附配色和色值](https://gugegt.com/20261114-pantone-color-of-the-year.html) | 工具地址： Pantone潘通年度色查询 ，骨哥GT 在线工具里的第 14 个。 |
-| 2026-11-13 | [AI 早报 2026-11-14：OpenAI 上线 ChatGPT Wallet：AI 智能体能替你下单买东西了](https://www.jtxyh.com/daily/2026-11-14/) | 2026-11-14 AI 早报，共 16 条动态。OpenAI 在 11 月 13 日推出 ChatGPT Wallet，让常驻智能体 dots 能替用户完成购物结账。英伟达周五收 162.85 美元，跌 2.01%，单周跌 12.75%，市值跌破 4 万亿美元，是 7 月以来第一次。 |
-| 2026-11-13 | [Quake updated](https://macsourceports.com/game/quake) | The build of QSS-M for Quake has been updated to version 1.7.0 of the project |
-| 2026-11-13 | [别把「期待」想得太好](https://blog.solazy.me/20261113/) | 感觉很多时候，我们都认为「期待」是个好事儿 |
-| 2026-11-13 | [Why I Still Care About Open Source](https://missuo.me/posts/open-source-manners/) | Open source is up for debate again, so here's where I stand: GitHub as the one place people give away all their work, who sends issues and who sends P… |
-| 2026-11-13 | [esp32 cyd speak 番茄钟 添加提示音 音效和tts](https://dsx2016.com/esp32-cyd-pomodoro-timer-adding-alerts-sound-effects-and-tts/) | 番茄钟 之前esp32 cyd的speak喇叭一直有杂音，而且没有找到原因和解决方案 现在没有杂音，所以重新更... esp32 cyd speak 番茄钟 添加提示音 音效和tts 最先出现在 大师兄2016 。 |
-| 2026-11-13 | [总算全部迁移到 Cindy 了，花了3天](https://versun.me/blog/tweet-2121185340451078361) | Versun 经过 5 天的调研和试用，我最终决定迁移到 Cindy @making_cindy 简单说下这几天的历程： 一开始我用的是 DS Bot，但它更适合工作场景。我的需求更偏日常生活协助，工作这块我一直用 Pi。 由于DS Bot 的完成度很高，让我产生了「我也可以」的幻觉。于是我用 DS… |
-| 2026-11-13 | [台式机换个了新家](https://hux.ink/posts/small-pc-case/) | 2020 年装机的台式电脑，用的是先马小黑洞机箱，个头特别大，摆在桌子旁边很占地方。最近寻思着能不能换个小一点的机箱，但有个前提，必须保留原来的所有硬件，除了机箱之外，不打算额外花钱升级配件。 有了这个想法之后，我把电脑的硬件清单和机箱内部布局拍照发给 ChatGPT，让它先帮忙分析一番。它一开始推… |
-| 2026-11-13 | [esp32 cyd speak 英文短词 提示音效](https://dsx2016.com/esp32-cyd-short-english-phrases-audio-prompts/) | 英文单词音效 之前设置了通用的提示音效，番茄钟场景音效，闹钟模拟背景音乐长电子音效 但是这些还是不能明确的点明... esp32 cyd speak 英文短词 提示音效 最先出现在 大师兄2016 。 |
-| 2026-11-13 | [《异教徒 Heretic》](https://banzhuanriji.com/movie/heretic.html) | 最近杭州下雨，窝在被子里看恐怖片太棒了。但是我不喜欢那种走恶心和突脸路线的。经过各种APP选择了《异教徒》，结果比我想象的好看很多。属于是宗教+惊悚（或许说恐怖更合适）。比较遗憾的就是后期强制来... |
-| 2026-11-13 | [Mac 跨桌面录屏，为什么 Chrome 视频会黑屏](https://liudon.com/posts/chrome-offscreen-video-black/) | Mac 录制 Chrome 视频，为什么早期切换桌面正常，后来却黑屏？从一条被遗忘的启动参数出发，通过 Pulse 对照、Chromium 源码和媒体 trace，定位窗口遮挡如何抑制视频提交，并解释解码仍在继续时画面为何消失。 |
-| 2026-11-13 | [Mac 跨桌面录屏，为什么 Safari 视频会黑屏](https://liudon.com/posts/safari-offscreen-video-black/) | 从 Safari 跨桌面录屏的视频黑屏现象出发，通过本地网页、OBS 对照、四种 Canvas 实验及 WebKit 源码，逐步定位可见性如何影响视频呈现。 |
-| 2026-11-13 | [2026.11.12](https://www.justzht.com/2026-11-12/) | E39 早上开去 Apple Park 一切正常，但傍晚下班要去和同事吃饭喝酒，坐进去发现打不着了，钥匙到底都听不到 start motor 转的声 |
-| 2026-11-13 | [起立一下是应该的](https://www.hecaitou.com/2026/11/they-deserve-a-standing-ovation.html) | 《给阿嬷的情书》拿下了金鸡奖最佳编剧奖，还获得了 评委会特别奖，受到了本届金鸡奖的特别肯定。 很多人不开心，觉得电影没有得到最佳故事片奖或者最佳导演奖，说明评委有眼无珠，电影圈闭门自嗨，对此我并不赞同。如果金鸡奖是一个偏向观众的电影奖项，那么观众最喜欢的电影，票房最高的电影，肯定要在奖项上予以体现。… |
-| 2026-11-13 | [esp32 cyd speak喇叭一直有电流哒哒声问题 音频模块](https://dsx2016.com/issue-with-persistent-crackling-clicking-noise-from-the-speaker-on-the-esp32-cyd-speak-audio-module/) | esp32 cyd speak喇叭 这几天测试番茄钟的时候，发现speak喇叭一直有电流声音，杂音 手上有2个... esp32 cyd speak喇叭一直有电流哒哒声问题 音频模块 最先出现在 大师兄2016 。 |
-| 2026-11-13 | [Master of Orion updated](https://macsourceports.com/game/masteroforion) | The build of 1oom for Master of Orion has been updated to version 1.11.9 of the project |
-| 2026-11-13 | [Oddworld: Abe's Oddysee updated](https://macsourceports.com/game/oddworld-ao) | The build of R.E.L.I.V.E. for Abe's Oddysee for Oddworld: Abe's Oddysee has been updated to version 1.1.0 of the project |
-| 2026-11-13 | [Oddworld: Abe's Exoddus updated](https://macsourceports.com/game/oddworld-ae) | The build of R.E.L.I.V.E. for Abe's Exoddus for Oddworld: Abe's Exoddus has been updated to version 1.1.0 of the project |
-| 2026-11-13 | [机房停电导致 VictoriaMetrics 与 VictoriaLogs 存储损坏的恢复记录](https://199604.com/3750) | 机房停电导致 VictoriaMetrics 与 VictoriaLogs 存储损坏的恢复记录 记录时间：20 […] |
-| 2026-11-13 | [还有一个也被封了🥲 昨天调研了一天的替代](https://versun.me/blog/tweet-2121072604299870496) | Versun 1个 Claude 号毕业了，恭喜🎉😭 还有一个苟延残喘 还有一个也被封了🥲 昨天调研了一天的替代方案，目前稳妥的貌似且性价比高的，貌似只有 Devin 的订阅了 还有其它的建议吗 |
-| 2026-11-13 | [我发现 Vercel 转型的非常成功呀，](https://versun.me/blog/tweet-2121064440120639648) | Vercel Introducing the UI SDK. 我发现 Vercel 转型的非常成功呀，有点 AI 时代的 Cloudflare 味道 从早期的 Next.js 到 Next.js serverless 服务 再到 v0、AI SDK、AI Gateway、Sandbox、Vercel… |
-| 2026-11-13 | [一站式的 AI 创作工作站，看起来很不错](https://versun.me/blog/tweet-2121053647413141909) | Edward Ma Celebrating our launch, we’re offering 0% markup, oh no actually negative markup, on Seedance and Fable 5.2! 一站式的 AI 创作工作站，看起来很不错，有用过的吗？稳定好用… |
-| 2026-11-13 | [祸事](https://mobius.blog/26129.html) | 就算是在狗公园办公，也有突如其来的、必须要打断当下节奏的灵感。比如刚才不远处升起了一股黑烟，甚至还听到了爆炸声 […] |
-| 2026-11-13 | [经济下行期的双十一名存实亡](https://krya.com/post/double11-2026/) | 昨天我坐下沙发的时候，突然胸口一紧，感觉什么东西收缩了一下，过程持续很短，大约三秒钟左右消散，无任何疼痛。 我怀疑可能和心脏有关。今天去医院检查血脂和心电图。看到报告单上写今天是11号——居然忘了今天是双十一。我和朋友分享此事，问他今天数据如何，他说，平凡一天。 双十一的存在感为何越来越低？从消费者… |
-| 2026-11-13 | [科技爱好者周刊（第 419 期）：机房来了，写字楼走了](http://www.ruanyifeng.com/blog/2026/11/weekly-issue-419.html) | 这里记录每周值得分享的科技内容，周五发布。 本杂志 开源 ，欢迎 投稿 。另有 《谁在招人》 服务，发布程序员招聘信息。合作请 邮件联系 （yifeng.ruan@gmail.com）。 封面图 成都麓湖生态城的 Q8 步行桥，采用双曲线造型，在机动车桥的下方穿过，盘旋处形成一个湖心岛。（ via… |
-| 2026-11-13 | [石墙](https://fft.im/posts/20261113_%E7%9F%B3%E5%A2%99/) | 时间 时间做鸟兽散去 它们从屋顶上溜走 从田野上溜走 从我摊开的掌心里溜走 翅膀扇起的风 一枚一枚，吹落瓦片 它们也不道歉 只是把散开的幕布 再唱回来 歌声从墙缝里挤出来 从水管里挤出来 从每一扇没关紧的窗里挤出来 明天从牙膏里挤出来 石墙 石墙立着，不说话 它把村子 和田野分开 也把风，剖成两堂… |
 
 ## Vibe Coding
 
