@@ -27,6 +27,14 @@ Blocked domains are skipped during fetch and excluded from README and status out
 
 | Date | Title | Summary |
 | --- | --- | --- |
+| 2026-11-21 | [图书的插画](https://kaix.in/2026/1121/) | 在读《看不见的森林》时，或许是我的见闻经历太少，从未踏足过那样的环境，森林边缘、房子般大小的岩石、尺寸相差巨大的石堆……我一时很难在脑海里构建出画面。 正值 World Labs 将 Atlas 正式面对公众开放 ，我就把书里对「坛城」的介绍简单改成了场景描述词，输入到 Atlas 模型中，让它输出… |
+| 2026-11-21 | [Plants vs. Zombies updated](https://macsourceports.com/game/pvz) | The build of PvZ Portable for Plants vs. Zombies has been updated to version 0.3.0 of the project |
+| 2026-11-21 | [在两条街之外](https://www.hecaitou.com/2026/11/beyond-the-two-streets.html) | 看到导演大卫·林奇的一段话： 「 如果你用手机，或者用电脑播放一部电影，那就是再过一万亿年，你也体验不到这部电影。 你会以为自己看过电影了，可你受骗了。 那会是一种很微弱的……你本来有机会走进另一个世界，去感受它，但你现在感受到的，只是那种体验衰弱了、腐烂透了的样子。 」 可惜桀骜的网友对这段语重心… |
+| 2026-11-21 | [想卖我5980的FB广告投流课，你还未必投得过我](https://yuqiqin.me/lets-see-who-is-real-evil-genius/) | [!NOTE] Info 全文共计9170字，预计阅读时长23min，记录的是我2026.10-2026.11的经历 想卖我5980的FB广告投流课，你还未必投得过我 背景 书接上回 创业开公司1年，收入为0 ，我和弟弟一起创业做炒菜机器人外贸，缘起要帮家道中落的自家服装厂开拓新领域——做服装外贸，… |
+| 2026-11-21 | [通灵卡片Psychic Paper](https://yuqiqin.me/) | 通灵卡片Psychic Paper 简介 欢迎来到我的 数字花园 ，这里是我分享工作、学习和生活的个人博客。 我给它取名为通灵卡片（ Psychic Paper ），这是来自英国国宝级科幻电视剧《神秘博士》中的一个小道具，它本身是一张空白的卡片，但是看着它的人会在卡片上看到使用者想让他们看到的内容。… |
+| 2026-11-21 | [2010，瓢虫工作室](https://www.tortorse.com/archives/ladybird-studio-2010/) | 2010，瓢虫工作室 |
+| 2026-11-21 | [2026年第47周](https://blog.sakoamc.com/posts/2647/) | 题记：二零二六年第四十七周，下周出差一周，应该是看银杏的好时候。 |
+| 2026-11-20 | [Lean 证明意味着什么——黎曼猜想证明闲谈](https://blog.est.im/2026/stdin-21) | 很早之前看过 Kevin Buzzard 老爷子的讲座。他来自🇬🇧 帝国理工学院，多年前就是 Lean 社区的核心了。他发起了 Xena Project，带领一群本科生把大学及以下数学知识中的定义、定理和证明逐步翻译成计算机能够理解和验证的形式。这个项目也成为 Lean 数学库 Mathlib 发展… |
 | 2026-11-20 | [AI Infra：Intelligence Runtime 的定义与创新边界](https://luweiqing.com/gossip/AI-Infra-Intelligence-Runtime.html) | 过去几年，Agent Runtime 让智能体从演示走向工程。它解决了许多具体问题：模型怎么调、上下文怎么带、工具怎么接、状态怎么存、失败怎么恢复。可当这些能力被逐一补齐，一个新的问题浮出水面：... |
 | 2026-11-20 | [Keeping SSH Keys Secure](https://www.geedea.pro/en/article/key-management/) | SSH keys are very widely used, for signing git commits, signing software distribution, authenticating with a remote server and age also supports encry… |
 | 2026-11-20 | [不是，是有人在推荐我的 RSSBox 吗](https://versun.me/blog/tweet-2123724561191448993) | 不是，是有人在推荐我的 RSSBox 吗？ 都快一年没人提 issue 和 pr 了，我最近都准备 archive 了， 然后这几天隔三差五的来几个 issue 和 pr 🤣🤣 问题是我自己都不用了呀😂 https://github.com/versun/RSSBox |
